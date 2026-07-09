@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convertidor de PDF a XML</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: rgba(30, 41, 59, 0.7);
+            --primary: #3b82f6;
+            --primary-hover: #2563eb;
+            --text: #f8fafc;
+            --text-muted: #94a3b8;
+            --success: #10b981;
+            --border: rgba(255, 255, 255, 0.1);
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #0f172a, #1e1b4b);
+            color: var(--text);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 500px;
+            padding: 2rem;
+            background: var(--card-bg);
+            backdrop-filter: blur(10px);
+            border-radius: 1rem;
+            border: 1px solid var(--border);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        h1 {
+            margin-top: 0;
+            font-size: 1.75rem;
+            font-weight: 600;
+        }
+        
+        p.subtitle {
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+        }
+
+        .upload-area {
+            border: 2px dashed var(--border);
+            border-radius: 0.75rem;
+            padding: 3rem 1rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            margin-bottom: 1.5rem;
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        .upload-area:hover, .upload-area.dragover {
+            border-color: var(--primary);
+            background: rgba(59, 130, 246, 0.1);
+        }
+
+        .upload-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .file-input {
+            display: none;
+        }
+
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            font-size: 1rem;
+            font-weight: 600;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            transition: background-color 0.2s ease, transform 0.1s ease;
+            width: 100%;
+        }
+
+        .btn:hover {
+            background-color: var(--primary-hover);
+        }
+        
+        .btn:active {
+            transform: scale(0.98);
+        }
+
+        .btn:disabled {
+            background-color: var(--text-muted);
+            cursor: not-allowed;
+        }
+
+        /* Progress Bar */
+        .progress-container {
+            display: none;
+            margin-top: 1.5rem;
+            text-align: left;
+        }
+
+        .progress-label {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+            font-size: 0.875rem;
+            color: var(--text-muted);
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background-color: var(--primary);
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+
+        .progress-fill.success {
+            background-color: var(--success);
+        }
+
+        /* Result Area */
+        .result-area {
+            display: none;
+            margin-top: 1.5rem;
+            animation: fadeIn 0.5s ease;
+        }
+
+        .btn-download {
+            background-color: var(--success);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            text-decoration: none;
+            margin-top: 1rem;
+        }
+
+        .btn-download:hover {
+            background-color: #059669;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .error-msg {
+            color: #ef4444;
+            margin-top: 1rem;
+            font-size: 0.875rem;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Transformar Word a XML (JATS)</h1>
+        <p class="subtitle">Sube tu documento Word (.docx) y obtén el XML JATS estructurado</p>
+
+        <form id="uploadForm">
+            <div class="upload-area" id="dropArea">
+                <span class="upload-icon">📝</span>
+                <p id="fileName">Arrastra tu archivo Word aquí o haz clic para seleccionar</p>
+                <input type="file" id="fileInput" class="file-input" accept=".docx, application/vnd.openxmlformats-officedocument.wordprocessingml.document">
+            </div>
+            
+            <button type="submit" id="submitBtn" class="btn" disabled>Convertir a XML</button>
+        </form>
+
+        <div class="progress-container" id="progressContainer">
+            <div class="progress-label">
+                <span id="progressText">Procesando...</span>
+                <span id="progressPercent">0%</span>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </div>
+
+        <div class="result-area" id="resultArea">
+            <p>¡Conversión exitosa!</p>
+            <a id="downloadBtn" class="btn btn-download" download="resultado.xml">
+                <span>⬇️</span> Descargar XML
+            </a>
+        </div>
+
+        <div class="error-msg" id="errorMsg"></div>
+    </div>
+
+    <script>
+        const dropArea = document.getElementById('dropArea');
+        const fileInput = document.getElementById('fileInput');
+        const fileNameDisplay = document.getElementById('fileName');
+        const submitBtn = document.getElementById('submitBtn');
+        const uploadForm = document.getElementById('uploadForm');
+        
+        const progressContainer = document.getElementById('progressContainer');
+        const progressFill = document.getElementById('progressFill');
+        const progressPercent = document.getElementById('progressPercent');
+        const progressText = document.getElementById('progressText');
+        
+        const resultArea = document.getElementById('resultArea');
+        const downloadBtn = document.getElementById('downloadBtn');
+        const errorMsg = document.getElementById('errorMsg');
+
+        let selectedFile = null;
+
+        // Manejo de arrastrar y soltar
+        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+            dropArea.addEventListener(eventName, preventDefaults, false);
+        });
+
+        function preventDefaults(e) {
+            e.preventDefault();
+            e.stopPropagation();
+        }
+
+        ['dragenter', 'dragover'].forEach(eventName => {
+            dropArea.addEventListener(eventName, () => dropArea.classList.add('dragover'), false);
+        });
+
+        ['dragleave', 'drop'].forEach(eventName => {
+            dropArea.addEventListener(eventName, () => dropArea.classList.remove('dragover'), false);
+        });
+
+        dropArea.addEventListener('drop', handleDrop, false);
+        dropArea.addEventListener('click', () => fileInput.click());
+        fileInput.addEventListener('change', handleFiles);
+
+        function handleDrop(e) {
+            let dt = e.dataTransfer;
+            let files = dt.files;
+            handleFiles({ target: { files: files } });
+        }
+
+        function handleFiles(e) {
+            const files = e.target.files;
+            if (files.length > 0) {
+                const file = files[0];
+                if (!file.name.toLowerCase().endsWith('.docx')) {
+                    showError('Por favor selecciona un archivo de Word (.docx).');
+                    return;
+                }
+                selectedFile = file;
+                fileNameDisplay.textContent = file.name;
+                submitBtn.disabled = false;
+                resetUI();
+            }
+        }
+
+        function showError(msg) {
+            errorMsg.textContent = msg;
+            errorMsg.style.display = 'block';
+        }
+
+        function resetUI() {
+            errorMsg.style.display = 'none';
+            progressContainer.style.display = 'none';
+            resultArea.style.display = 'none';
+            progressFill.style.width = '0%';
+            progressFill.classList.remove('success');
+            progressPercent.textContent = '0%';
+            progressText.textContent = 'Subiendo...';
+        }
+
+        uploadForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            if (!selectedFile) return;
+
+            // Iniciar UI
+            submitBtn.disabled = true;
+            dropArea.style.pointerEvents = 'none';
+            progressContainer.style.display = 'block';
+            errorMsg.style.display = 'none';
+            resultArea.style.display = 'none';
+
+            const formData = new FormData();
+            formData.append('file', selectedFile);
+
+            // Simular el progreso usando XMLHttpRequest para tener eventos de progreso reales (subida)
+            // y luego simular el tiempo de respuesta del servidor.
+            const xhr = new XMLHttpRequest();
+            
+            xhr.upload.onprogress = (event) => {
+                if (event.lengthComputable) {
+                    const percentComplete = Math.round((event.loaded / event.total) * 50); // Subida es el 50%
+                    progressFill.style.width = percentComplete + '%';
+                    progressPercent.textContent = percentComplete + '%';
+                    if (percentComplete === 50) {
+                        progressText.textContent = 'Procesando con Pandoc...';
+                        startFakeProcessingProgress();
+                    }
+                }
+            };
+
+            let fakeProgressInterval;
+
+            function startFakeProcessingProgress() {
+                let current = 50;
+                // Simular hasta llegar al 90%
+                fakeProgressInterval = setInterval(() => {
+                    if (current < 90) {
+                        current += Math.random() * 5;
+                        if(current > 90) current = 90;
+                        progressFill.style.width = Math.round(current) + '%';
+                        progressPercent.textContent = Math.round(current) + '%';
+                    }
+                }, 1000);
+            }
+
+            xhr.onload = function() {
+                clearInterval(fakeProgressInterval);
+                if (xhr.status === 200) {
+                    // Éxito total
+                    progressFill.style.width = '100%';
+                    progressPercent.textContent = '100%';
+                    progressText.textContent = '¡Completado!';
+                    progressFill.classList.add('success');
+                    
+                    // Crear blob para descargar
+                    const blob = new Blob([xhr.response], {type: 'application/xml'});
+                    const url = window.URL.createObjectURL(blob);
+                    
+                    downloadBtn.href = url;
+                    // Sugerir nombre basado en original
+                    const originalName = selectedFile.name.replace(/\.docx$/i, '');
+                    downloadBtn.download = originalName + '_jats.xml';
+                    
+                    setTimeout(() => {
+                        resultArea.style.display = 'block';
+                    }, 500);
+
+                } else {
+                    if (xhr.response instanceof Blob) {
+                        const reader = new FileReader();
+                        reader.onload = function() {
+                            showError('Error del servidor: ' + (reader.result || xhr.statusText));
+                        };
+                        reader.readAsText(xhr.response);
+                    } else {
+                        showError('Error del servidor: ' + xhr.statusText);
+                    }
+                    resetAfterError();
+                }
+            };
+
+            xhr.onerror = function() {
+                clearInterval(fakeProgressInterval);
+                showError('Error de red al intentar conectar con el servidor.');
+                resetAfterError();
+            };
+
+            function resetAfterError() {
+                submitBtn.disabled = false;
+                dropArea.style.pointerEvents = 'auto';
+                progressContainer.style.display = 'none';
+            }
+
+            xhr.open('POST', '/convert', true);
+            // Para poder obtener la respuesta binaria correctamente
+            xhr.responseType = 'blob'; 
+            xhr.send(formData);
+        });
+    </script>
+</body>
+</html>
