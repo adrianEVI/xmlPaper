@@ -1,0 +1,2548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">sanus</journal-id>
+			<journal-title-group>
+				<journal-title>Sanus</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Sanus</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2448-6094</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud, Departamento de enfermería</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36789/sanusrevenf.vi21.560</article-id>
+			<article-id pub-id-type="other">00112</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Investigación</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Propiedades psicométricas de la escala características del vecindario para enfermedades cardiovasculares</article-title>
+				<trans-title-group xml:lang="pt">
+					<trans-title>Propriedades psicométricas da escala características da vizinhança para doenças cardiovasculares</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-8497-1530</contrib-id>
+					<name>
+						<surname>León-Ramírez</surname>
+						<given-names>Mayra Samira De</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Maestra en Enfermería</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-0806-3706</contrib-id>
+					<name>
+						<surname>Guevara-Valtier</surname>
+						<given-names>Milton</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="corresp" rid="c1"><sup>*</sup></xref>
+					<role>Doctor en Educación</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-5857-0773</contrib-id>
+					<name>
+						<surname>Navarro-Rodríguez</surname>
+						<given-names>Diana Cristina</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<role>Doctora en Ciencias de Enfermería</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-9315-3193</contrib-id>
+					<name>
+						<surname>Cárdenas-Villarreal</surname>
+						<given-names>Velia Margarita</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+					<role>Doctora en Ciencias de Enfermería</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-8657-8748</contrib-id>
+					<name>
+						<surname>Sotero-Rivera</surname>
+						<given-names>Silvia Guadalupe</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+					<role>Doctora en Ciencias de Enfermería</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-4111-8449</contrib-id>
+					<name>
+						<surname>Paz-Morales</surname>
+						<given-names>María de los Ángeles</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+					<role>Doctora en Ciencias de Enfermería</role>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Maestra en Enfermería, Facultad de Enfermería, Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, México.</institution>
+				<institution content-type="normalized">Universidad Autónoma de Nuevo León</institution>
+				<institution content-type="orgdiv1">Facultad de Enfermería</institution>
+				<institution content-type="orgname">Universidad Autónoma de Nuevo León</institution>
+				<addr-line>
+					<city>Monterrey</city>
+					<state>Nuevo León</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Doctor en Educación, Facultad de Enfermería, Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, México.</institution>
+				<institution content-type="normalized">Universidad Autónoma de Nuevo León</institution>
+				<institution content-type="orgdiv1">Facultad de Enfermería</institution>
+				<institution content-type="orgname">Universidad Autónoma de Nuevo León</institution>
+				<addr-line>
+					<city>Monterrey</city>
+					<state>Nuevo León</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">Doctora en Ciencias de Enfermería, Instituto Mexicano del Seguro Social, Departamento de Enfermería, Aguascalientes, Aguascalientes, México.</institution>
+				<institution content-type="normalized">Instituto Mexicano del Seguro Social</institution>
+				<institution content-type="orgname">Instituto Mexicano del Seguro Social</institution>
+				<institution content-type="orgdiv1">Departamento de Enfermería</institution>
+				<addr-line>
+					<state>Aguascalientes</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+			</aff>
+			<aff id="aff4">
+				<label>4</label>
+				<institution content-type="original">Doctora en Ciencias de Enfermería, Facultad de Enfermería, Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, México.</institution>
+				<institution content-type="normalized">Universidad Autónoma de Nuevo León</institution>
+				<institution content-type="orgdiv1">Facultad de Enfermería</institution>
+				<institution content-type="orgname">Universidad Autónoma de Nuevo León</institution>
+				<addr-line>
+					<city>Monterrey</city>
+					<state>Nuevo León</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Autor para correspondencia: <email>autor.mcgv@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>15</day>
+				<month>10</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>10</volume>
+			<elocation-id>e560</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>02</day>
+					<month>05</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>28</day>
+					<month>08</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<sec>
+					<title>Introducción:</title>
+					<p> El entorno comunitario y vecinal puede actuar como un estímulo determinante, tanto positivo como negativo, en la adopción de comportamientos que afectan la salud. La escala de Características del Vecindario para Enfermedades Cardiovasculares permite medir cuáles son las características ambientales que están relacionadas con las Enfermedades cardiovasculares. </p>
+				</sec>
+				<sec>
+					<title>Objetivo:</title>
+					<p> Evaluar las propiedades psicométricas de la escala de características del vecindario para enfermedades cardiovasculares en jóvenes universitarios. </p>
+				</sec>
+				<sec>
+					<title>Metodología:</title>
+					<p> Estudio cuantitativo, transversal y de validación. La muestra estuvo conformada por 303 jóvenes universitarios de la licenciatura en enfermería con edades de 18 a 24 años. Muestreo aleatorio simple. Se excluyeron a jóvenes que refirieron enfermedad cardiovascular, estar embarazadas y que tomaran medicamentos psicotrópicos. Se empleó cuestionario de Características del Vecindario para Enfermedades Cardiovasculares, se respetó consentimiento informado, y confidencialidad de datos. Se utilizó estadística descriptiva, análisis factorial exploratorio, confirmatorio; así como el coeficiente α de Cronbach. </p>
+				</sec>
+				<sec>
+					<title>Resultados:</title>
+					<p> La mayoría eran mujeres con promedio de 19.6 años, 18.1 % del primer semestre. La prueba de esfericidad de Bartlett fue estadísticamente significativa e índice de Kaizer -Meyer Olkin con adecuación muestral óptima. El análisis factorial confirmatorio mostró índices de bondad de ajuste aceptables para una estructura de 15 ítems organizados en tres dimensiones: calidad estética, acceso a alimentos saludables y ambiente para caminar. El modelo demostró una fiabilidad interna de α= .873. </p>
+				</sec>
+				<sec>
+					<title>Conclusion:</title>
+					<p> La escala propuesta de 15 ítems permite evaluar el entorno sobre las enfermedades cardiovasculares con una estructura factorial de 3 factores y una buena consistencia interna. </p>
+				</sec>
+			</abstract>
+			<trans-abstract xml:lang="pt">
+				<title>Abstrato</title>
+				<sec>
+					<title>Introdução:</title>
+					<p> O ambiente comunitário e de vizinhança pode atuar como um fator determinante, tanto positivo quanto negativo, na adoção de comportamentos que afetam a saúde. A escala Características de Vizinhança para Doenças Cardiovasculares mede características ambientais relacionadas às doenças cardiovasculares. </p>
+				</sec>
+				<sec>
+					<title>Objetivo:</title>
+					<p> Avaliar as propriedades psicométricas da Escala de Características de Vizinhança para Doenças Cardiovasculares em Estudantes Universitários. </p>
+				</sec>
+				<sec>
+					<title>Metodologia: </title>
+					<p>Estudo qualitativo, transversal e de validação. A amostra foi composta por 303 jovens universitários de enfermagem, com idades entre 18 e 24 anos. Utilizou-se amostragem aleatória simples. Foram excluídos jovens que relataram doença cardiovascular, estavam grávidas e faziam uso de psicofármacos. Foi utilizado o questionário de características de vizinhança para doenças cardiovasculares, sendo respeitado o consentimento informado e a confidencialidade dos dados. Utilizou-se estatística descritiva e análise fatorial exploratória e confirmatória para a validade de constructo e o coeficiente α de Cronbach. </p>
+				</sec>
+				<sec>
+					<title>Resultados:</title>
+					<p> A maioria eram mulheres com média de 19.6 anos, 18.1 % do primeiro semestre. O teste de esfericidade de Bartlett foi estatisticamente significativo e o índice de Kaizer-Meyer Olkin com ótima adequação amostral. A análise fatorial confirmatória mostrou índices de ajuste aceitáveis para uma estrutura de 15 itens organizada em três dimensões: qualidade estética, acesso a alimentos saudáveis e ambiente propício para caminhadas. O modelo demonstrou confiabilidade interna de α= 0.873. </p>
+				</sec>
+				<sec>
+					<title>Conclusões:</title>
+					<p> A escala proposta, com 15 itens, permite avaliar o ambiente em doenças cardiovasculares com uma estrutura fatorial de 3 fatores e boa consistência interna. </p>
+				</sec>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Factores de riesgo de enfermedad cardiaca</kwd>
+				<kwd>Estudio de validación</kwd>
+				<kwd>Adulto joven (DeCS)</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="pt">
+				<title>Palavras-chave:</title>
+				<kwd>Fatores de risco de doenças cardíacas</kwd>
+				<kwd>Estudo de validação</kwd>
+				<kwd>Adulto jovem (DeCS)</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="2"/>
+				<table-count count="6"/>
+				<equation-count count="0"/>
+				<ref-count count="50"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Las Enfermedades Cardiovasculares (ECV) representan una de las principales causas de mortalidad y años de vida ajustados por discapacidad, registros epidemiológicos, durante el año 2019 reportaron aproximadamente 27 millones de muertes en naciones con economías en desarrollo <sup>(</sup><xref ref-type="bibr" rid="B1"><sup>1</sup></xref>. En la región de las Américas y del Caribe ocupa el primer lugar en causas de muerte con una prevalencia de 164,67 defunciones por cada 100 mil habitantes <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>. Estudios recientes han documentado que el impacto de las ECV es cada vez mayor en población joven, particularmente en aquellos que se encuentren en la etapa universitaria (entre los 18 y 30 años) <sup>(</sup><xref ref-type="bibr" rid="B3"><sup>3</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B7"><sup>7</sup></xref>. La aparición de las ECV se explica por una interacción compleja entre la predisposición genética y diversas influencias ambientales, las cuales contribuyen al deterioro progresivo de las estructuras y funciones de los tejidos cardiovasculares <sup>(</sup><xref ref-type="bibr" rid="B8"><sup>8</sup></xref>. </p>
+			<p>En cuanto a las influencias ambientales, se ha evidenciado que el entorno comunitario y vecinal puede actuar como un estímulo determinante tanto positivo como negativo en la adopción de comportamientos que afectan la salud <sup>(</sup><xref ref-type="bibr" rid="B9"><sup>9</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B10"><sup>10</sup></xref>. Diversos estudios refieren que los vecindarios desfavorables inciden negativamente en la salud cardiovascular a través de múltiples factores interrelacionados. En primer lugar, la alta disponibilidad de alimentos procesados y la publicidad de productos nocivos como bebidas azucaradas que promueven patrones alimentarios perjudiciales. La carencia de infraestructura peatonal y escasez de espacios verdes que limitan las oportunidades para realizar actividad física <xref ref-type="bibr" rid="B8"><sup>8</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B10"><sup>10</sup></xref>. Además, condiciones como la inseguridad en los espacios públicos actúan como barrera adicional <xref ref-type="bibr" rid="B10"><sup>10</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B13"><sup>13</sup></xref>, desincentivando la movilidad y el uso creativo de áreas al aire libre <xref ref-type="bibr" rid="B14"><sup>14</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B17"><sup>17</sup></xref>.</p>
+			<p>Para evaluar el entorno comunitario y vecinal, se han utilizado diversos métodos, destacándose: censos que reflejan las características sociodemográficas calificando el entorno según a ciertos indicadores <sup>(</sup><xref ref-type="bibr" rid="B8"><sup>8</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B10"><sup>10</sup></xref> y uso de sistemas de información geográfica <sup>(</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref>, que caracterizan la disponibilidad y accesibilidad de recursos en el vecindario. Aunque estos enfoques aportan información relevante y complementaria, presentan limitaciones en términos de validez y confiabilidad, al depender de datos auto-informados. Además, la falta de actualización de los censos y la variabilidad en los criterios de medición pueden reducir la precisión y la aplicabilidad de los resultados a contextos específicos <sup>(</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref>.</p>
+			<p>Para abordar estas limitaciones, se ha desarrollado una Escala de Características del Vecindario para Enfermedades Cardiovasculares (ECVE en idioma inglés) en población latina y afroamericana <sup>(</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref> que permite medir las características del vecindario en relación con las ECV, evalúa cuatro componentes: calidad estética, ambiente para caminar, seguridad contra el crimen y disponibilidad de alimentos saludables. La ECVE se ha sometido a pruebas de consistencia interna y fiabilidad de test-retest, con confiabilidades aceptables (entorno estético α =.89, ambiente para caminar/realizar ejercicio α= .78, seguridad contra el crimen α= .82 y acceso a alimento saludables α= .94) <xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>).</sup> Se ha aplicado en el contexto mexicano considerando únicamente tres de sus dimensiones en una muestra de adultos mexicanos con Diabetes Mellitus II (DM2), donde únicamente se reportó la confiabilidad total de la escala <sup>(</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>, dejando un vacío crítico en la población universitaria. Esta brecha evidencia dos necesidades: la carencia de instrumentos validados al contexto mexicano, donde factores culturales y sociodemográficos modifican la percepción del entorno y la ausencia de herramientas específicas para población joven con patrones de movilidad y percepción ambiental distintos. Aunando a lo anterior, es importante examinar el funcionamiento de la escala en población joven universitaria en el contexto mexicano para hacerlo válido y confiable sobre este grupo. Esto ayudará a los profesionales de la salud a comprender mejor el impacto del entorno en relación con las ECV, fundamentar intervenciones basadas en evidencia y fortalecer la prevención primaria. Por ello, el objetivo del estudio fue evaluar las propiedades psicométricas de la escala de Características del Vecindario para Enfermedades Cardiovasculares en jóvenes universitarios.</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>Metodología</title>
+			<p>Estudio cuantitativo, transversal y validación <sup>(</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref>, se realizó un análisis factorial confirmatorio (AFC) y exploratorio (AFE) de las propiedades psicométricas de la ECVE. La muestra estuvo conformada por 303 jóvenes universitarios pertenecientes a una institución pública en Tamaulipas, México, seleccionados por muestreo probabilístico aleatorio simple aplicando tablas de números aleatorios a partir de las listas oficinales de la institución educativa. El tamaño de la muestra se calculó según el criterio psicométrico estándar de 5 a 10 observaciones por cada ítem del instrumento <sup>(</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref>. Se incluyeron jóvenes universitarios que cursaban del primero a octavo semestre de la Licenciatura en Enfermería, de ambos sexos, con edades entre los 18 a 24 años y que presentarán el consentimiento informado firmado. Se excluyeron aquellos que en la cédula hayan referido tener alguna ECV, estar embarazadas o estar tomando medicamentos psicotrópicos.</p>
+			<p>Para la recolección de información, se empleó una cédula que incluyó variables como edad, sexo, estado civil, antecedentes heredofamiliares y el ECVE, el cual consta de 27 reactivos agrupados en cuatro factores: calidad estética, ambiente para caminar, seguridad contra el crimen y disponibilidad de alimentos saludables, con formato de respuesta tipo Likert donde 1 es totalmente acuerdo y 5 totalmente de desacuerdo <xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. La puntuación total de la escala va desde 27 puntos hasta 135 puntos <xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. La versión original del instrumento de 27 ítems ha demostrado buena confiabilidad con α= .88 <xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. Sin embargo, no cuenta con validez en población de jóvenes universitarios mexicanos.</p>
+			<p>La recolección de los datos se realizó en horario escolar, los participantes seleccionados se convocaron a un espacio donde se les brindo las instrucciones para el llenado del instrumento. Previo a la participación, se aseguró la entrega del consentimiento informado. Para garantizar el anonimato, los instrumentos se depositaron en una caja cerrada. Aquellos jóvenes que no desearan participar se les agradeció y recibieron un tríptico con información sobre la prevención de las ECV.</p>
+			<p>El estudio contó con la aprobación de un comité de ética con registro FAENUS-CEI-EXT-2024-02. Además, se rigió bajo la ley general de salud en materia de investigación para la salud en México atendiendo el capítulo I, Artículos 13, 14, 16, 17, 21, 23 y Capítulo V, que regulan el trato digno, consentimiento informado, confidencialidad de los datos, investigación de riesgo mínimo, sobre la difusión de los resultados y represalias por abandono de estudio <sup>(</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>. </p>
+			<p>El análisis de los datos se realizó mediante el Paquete Estadístico para las Ciencias Sociales (SPSS, por sus siglas en inglés) y el programa IBM-AMOS versión 23. Para la descripción de las características de la muestra, se aplicó estadística descriptiva. La inferencia fue con AFE cumpliendo los criterios establecidos de Kaiser-Meyer-Olkin (KMO) &gt;70 y prueba de esfericidad de x<sup>2</sup> de Bartlett p&lt; .05 <xref ref-type="bibr" rid="B28"><sup>28</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B29"><sup>29</sup></xref>. EL AFE se realizó por medio del método de extracción máxima verosimilitud con rotación de Varimax. Los criterios de pertenencia al factor se consideraron cargas factoriales &gt; 0.30 y mínimo de tres ítems para cada factor. Para el AFC se consideró el índice de bondad de ajuste Root Mean Square Error of Approximation (RMSEA) &lt;. 08 se tomó como un indicador adecuado de ajuste de modelo <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>. Se utilizaron los valores de Standardized Root Mean Square Residual (SRMR) &lt; 0.08 <xref ref-type="bibr" rid="B31"><sup>31</sup></xref>, Chi- Square Minimum/ Degrees of Freedom (CMIN/DF) &lt; 3.0 <xref ref-type="bibr" rid="B32"><sup>32</sup></xref>, Adjusted Goodness of Fit Index (AGFI) &gt;.90, Comparative Fit Index (CFI) &gt; 0.90, Goodness of Fit Index (GFI) &gt; .90 <xref ref-type="bibr" rid="B33"><sup>33</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B34"><sup>34</sup></xref>, Tucker Lewis Index (TLI) &gt;.90 <xref ref-type="bibr" rid="B35"><sup>35</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B36"><sup>36</sup></xref>. Se estimó la fiabilidad del instrumento y sus dimensiones por medio del coeficiente de alfa Cronbach.</p>
+		</sec>
+		<sec sec-type="results">
+			<title>Resultados</title>
+			<p>En características sociodemográficas, la mayoría de la muestra eran mujeres (95 %) con promedio de edad de 19.6 años (DE = 1.7), el 95.0 % eran solteros y el 18.1 % cursaba el primer semestre de la Licenciatura de Enfermería. En los antecedentes heredofamiliares predominó la DM2 (41.7 %) y el 16.7 % tenían algún familiar con más de dos enfermedades crónicas (DM2, hipertensión arterial y obesidad).</p>
+			<p>En el AFE, la prueba de esfericidad de Bartlett fue estadísticamente significativa, lo que indicó correlaciones suficientes entre las variables para la realización de un AFE. Asimismo, el índice de Kaizer -Meyer Olkin mostró una nueva adecuación muestral óptima para el análisis factorial que apoyó la validez del modelo factorial utilizado, (<xref ref-type="table" rid="t1">Tabla 1</xref>).</p>
+			<p>
+				<table-wrap id="t1">
+					<label>Tabla 1</label>
+					<caption>
+						<title>Criterios para el análisis factorial exploratorio, 2024 (n= 303)</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: left; padding-left: 10px; width: 190px;" colspan="2">Medida de adecuación muestral del    Kaiser-Meyer- Olkin</td>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 190px;">0.850</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Prueba de esfericidad de Bartlett</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Chi-cuadrado aproximado</td>
+    <td style="border: 0; text-align: center;">3409.45</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">gl</td>
+    <td style="border: 0; text-align: center;">351</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Significancia</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">.001</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p>Fuente: Elaboración propia</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>En la <xref ref-type="table" rid="t2">tabla 2</xref>, se muestran los coeficientes de las cargas factoriales de la matriz rotada del AFE, donde se identificaron tres factores: calidad estética (8 ítems), acceso a alimentos saludables (4 ítems) y ambiente para caminar (3 Ítems) con una varianza explicada del 34.7 %. Asimismo, en el AFE se eliminó la dimensión de seguridad contra el crimen, debido a que los ítems tenían cargas factoriales por debajo de &lt; .30 y la varianza explicada fue 5.9 %.</p>
+			<p>
+				<table-wrap id="t2">
+					<label>Tabla 2</label>
+					<caption>
+						<title>Cargas factoriales de la matriz rotada, 2024 (n=303)</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">Ítem</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 350px;">Pregunta</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">Carga factorial</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Factor 1    Calidad estética</td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 7</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Las casas y    edificios son interesantes</td>
+    <td style="border: 0; text-align: center;">.776</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 10</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Es    agradable caminar en mi colonia</td>
+    <td style="border: 0; text-align: center;">.655</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 1</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Mi colonia    es atractiva</td>
+    <td style="border: 0; text-align: center;">.637</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 6</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Las casas y    edificios de mi colonia están en buen estado</td>
+    <td style="border: 0; text-align: center;">.594</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 3</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Hay cosas    interesantes en mi colonia</td>
+    <td style="border: 0; text-align: center;">.516</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 16</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">En mi    colonia las calles están en buen estado</td>
+    <td style="border: 0; text-align: center;">.473</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 20</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Mi colonia    está exenta del crimen</td>
+    <td style="border: 0; text-align: center;">.438</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 11</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Hay    suficientes árboles en mi colonia que me brindan sombra</td>
+    <td style="border: 0; text-align: center;">.408</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Factor 2    Acceso alimentos saludables </td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 23</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">En mi    colonia venden una gran variedad de frutas y verduras</td>
+    <td style="border: 0; text-align: center;">.876</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 24</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Las frutas    y verduras que venden en mi colonia son de alta calidad</td>
+    <td style="border: 0; text-align: center;">.751</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 22</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">En mi    colonia es fácil comprar frutas y verduras frescas</td>
+    <td style="border: 0; text-align: center;">.729</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 25</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">En mi    colonia es fácil de adquirir productos reducidos en grasas (leche, carnes    como pollo, carne de res y pescado)</td>
+    <td style="border: 0; text-align: center;">.559</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Factor 4    Ambiente para caminar</td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 15</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Las tiendas    se encuentran cerca de mi casa</td>
+    <td style="border: 0; text-align: center;">.780</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 14</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Es fácil    llegar desde mi colonia caminando a otros lugares</td>
+    <td style="border: 0; text-align: center;">.439</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Ítem 17</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">A menudo    veo a otras personas caminar por mi colonia</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">.321</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN2">
+							<p>Fuente: Elaboración propia</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>En el AFC se evaluó la estructura obtenida de los tres factores correlacionados, donde se confirma que están presente tres factores latentes: calidad estética, acceso a alimentos saludables y ambiente para caminar, (<xref ref-type="fig" rid="f1">Figura 1</xref>). </p>
+			<p>
+				<fig id="f1">
+					<label>Figura 1</label>
+					<caption>
+						<title>Constructo de características del vecindario para Enfermedades Cardiovasculares, 2024 (n=303) </title>
+					</caption>
+					<graphic xlink:href="2448-6094-sanus-10-21-e560-gf1.jpg"/>
+					<attrib>Fuente: Elaboración propia</attrib>
+				</fig>
+			</p>
+			<p>El constructor de la ECVE comprendió 15 ítems con buenos índices de bondad de ajuste y buena confiabilidad en la escala total .873, (<xref ref-type="table" rid="t3">Tabla 3</xref>).</p>
+			<p>
+				<table-wrap id="t3">
+					<label>Tabla 3</label>
+					<caption>
+						<title>Cargas factoriales, valor de correlación múltiple al cuadrado y bondad de ajuste, 2024 (n=303)</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">Factor    Latente</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">Ítem</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;" colspan="2">Carga factorial</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">R<sup>2</sup></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">α Cronbach</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">α Cronbach
+      Escala total</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Calidad estética</td>
+    <td style="border: 0; text-align: center;" colspan="2"></td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 7</td>
+    <td style="border: 0; text-align: center;" colspan="2">1.00</td>
+    <td style="border: 0; text-align: center;">.528</td>
+    <td style="border: 0; text-align: center;">.826</td>
+    <td style="border: 0; text-align: center;">.873</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 10</td>
+    <td style="border: 0; text-align: center;" colspan="2">1.220</td>
+    <td style="border: 0; text-align: center;">.572</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 1</td>
+    <td style="border: 0; text-align: center;" colspan="2">.975</td>
+    <td style="border: 0; text-align: center;">.534</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 6</td>
+    <td style="border: 0; text-align: center;" colspan="2">.859</td>
+    <td style="border: 0; text-align: center;">.348</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 3</td>
+    <td style="border: 0; text-align: center;" colspan="2">.839</td>
+    <td style="border: 0; text-align: center;">.290</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 16</td>
+    <td style="border: 0; text-align: center;" colspan="2">.920</td>
+    <td style="border: 0; text-align: center;">.364</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 20</td>
+    <td style="border: 0; text-align: center;" colspan="2">.717</td>
+    <td style="border: 0; text-align: center;">.211</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 11</td>
+    <td style="border: 0; text-align: center;" colspan="2">.908</td>
+    <td style="border: 0; text-align: center;">.277</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="6">Acceso alimentos saludables</td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 23</td>
+    <td style="border: 0; text-align: center;" colspan="2">1.00</td>
+    <td style="border: 0; text-align: center;">.872</td>
+    <td style="border: 0; text-align: center;">.898</td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 24</td>
+    <td style="border: 0; text-align: center;" colspan="2">.846</td>
+    <td style="border: 0; text-align: center;">.741</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 22</td>
+    <td style="border: 0; text-align: center;" colspan="2">.897</td>
+    <td style="border: 0; text-align: center;">.667</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 25</td>
+    <td style="border: 0; text-align: center;" colspan="2">.766</td>
+    <td style="border: 0; text-align: center;">.511</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="6">Ambiente para caminar</td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 15</td>
+    <td style="border: 0; text-align: center;" colspan="2">1.00</td>
+    <td style="border: 0; text-align: center;">.428</td>
+    <td style="border: 0; text-align: center;">.687</td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 14</td>
+    <td style="border: 0; text-align: center;" colspan="2">.884</td>
+    <td style="border: 0; text-align: center;">.321</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Ítem 17</td>
+    <td style="border: 0; text-align: center;" colspan="2">.962</td>
+    <td style="border: 0; text-align: center;">.504</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN3">CMIN/DF</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">2.608</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN3">GFI</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.913</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN3">AGFI</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.880      </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN3">CFI</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.928</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN3">TLI</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.913</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN3">RMSEA</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.073</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN3">SRMR</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.0535</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="3">p</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="4">.001</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN3">
+							<p>Fuente: Elaboración propia Nota: CMIN/DF: Coeficiente entre el estadístico chi-cuadrado y sus grados de libertad; CFI: Índice de ajuste comparativo; GFI: Índice de bondad de ajuste, AGFI: GFI ajustado; SRMR: Raíz cuadrática media estandarizada residual; RSMEA: Error cuadrático medio aproximación de la raíz; valor de p&lt;.001</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+		</sec>
+		<sec sec-type="discussion">
+			<title>Discusión</title>
+			<p>El objetivo del estudio fue evaluar las propiedades psicométricas de la ECVE en jóvenes universitarios, en función a los resultados, se encontró que los jóvenes universitarios compartían características similares destacando ser solteros y presencia de al menos un familiar en primer grado con diagnóstico de enfermedad crónica, destacando la DM2. Estos hallazgos no sólo reflejan una realidad social y de salud pública en México, sino que también abren la puerta a discusiones relevantes sobre las implicaciones de estos factores. El hecho de que la mayoría de los jóvenes eran solteros coincide con las tendencias demográficas reportadas en México por el Instituto Nacional de Estadística y Geografía que aproximadamente que más de tres cuartas partes de las personas entre los 18 y 24 años no están casados <xref ref-type="bibr" rid="B37"><sup>37</sup></xref>. Esto puede explicarse por el enfoque en la formación académica y profesional durante esta etapa de la vida, donde las prioridades suelen estar orientadas hacia el desarrollo personal y la preparación para el mercado laboral, posponiendo decisiones del matrimonio o la formación de una familia <sup>(</sup><xref ref-type="bibr" rid="B38"><sup>38</sup></xref>.</p>
+			<p>Entre los principales hallazgos más significativos de este estudio fue la alta prevalencia de jóvenes que reportaron tener al menos un familiar directo de su familia con DM2. Este dato no es sorprendente en México, dado que se posiciona entre los países con mayor incidencia de DM2 a nivel mundial, lo que concuerda con los datos reportados por la Encuesta Nacional de Salud y Nutrición en el año 2021 <xref ref-type="bibr" rid="B39"><sup>39</sup></xref>, que reportan que el 14.6 % de los adultos mexicanos tienen DM2, y se estima que el poco menos de un tercio de la población tenía un familiar directo con esta enfermedad. La alta prevalencia de antecedentes familiar de DM2, puede explicarse por una fuerte influencia hereditaria, pero también refleja la transmisión de hábitos y estilos de vida que favorecen la aparición de esta enfermedad, como la alimentación poco saludable y el sedentarismo. Asimismo, la literatura señala que los jóvenes con antecedentes heredofamiliares no solo tienen riesgo al desarrollo de la DM2, sino que también aquellos crecen en entornos donde la DM2 es común pueden ser más conscientes de los riesgos asociados y adoptar estilos de vida saludables <xref ref-type="bibr" rid="B40"><sup>40</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B41"><sup>41</sup></xref>.</p>
+			<p>Respecto a la ECVE no replicó la estructura original <sup>(</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref>, pero sí de tipo multidimensional con tres de los 4 componentes originales con un total de 15 ítems, a su vez se apreció validez del constructo con base a los indicadores de bondad de ajuste obtenidos CMIN/DF, GFI, CFI, RMSEA, los cuales indicaron un ajuste aceptable del modelo y respaldan su adecuación. Aunque el valor de SRMS mostró un valor inferior al punto de corte, lo que sugiere que las diferencias entre la matriz de covarianza observada y la estimada son mínimas <sup>(</sup><xref ref-type="bibr" rid="B42"><sup>42</sup></xref>.</p>
+			<p>El primer factor llamado calidad estética logró conservarse, sin embargo, hubo ítems de las otras subescalas que cargaron a este componente como los ítems de ejercicio y seguridad contra el crimen. Diversas causas pudieron ocasionar este fenómeno, esto podría ser que la seguridad contra el crimen está interconectada a la calidad estética debido a que un entorno bien cuidado y visualmente atractivos suele dar una mayor sensación de seguridad, por lo que podría explicarse la reagrupación de estos ítems. En los ítems de ejercicio (ítems 10, 11 y 16) hace referencia sobre espacios verdes, estado de conservación de calles y percepción comunitaria sobre la satisfacción de caminar en su vecindario, aspectos que estaban estrechamente vinculados con la calidad estética del lugar <xref ref-type="bibr" rid="B43"><sup>43</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B44"><sup>44</sup></xref>. Otra posible explicación para esta reagrupación podría ser el método de extracción y rotación utilizado en el estudio, el cual puede influir en la estructura final de los factores <xref ref-type="bibr" rid="B42"><sup>42</sup></xref><sup>).</sup></p>
+			<p>El segundo componente de acceso a alimentos saludables conservó la mayor parte de los ítems originales de acuerdo con la estructura teórica propuesta. No obstante, dos ítems que hacían referencia a la venta de productos reducidos en grasas no mostraron cargas significativas. Eso podría explicarse por factores culturales y de percepción, ya que especialmente entre los jóvenes que están en la etapa universitaria suelen percibir este tipo de productos como costosos y menos ricos <sup>(</sup><xref ref-type="bibr" rid="B45"><sup>45</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B47"><sup>47</sup></xref>.</p>
+			<p>El último componente denominado ambiente para hace referencia al espacio físico diseñado o adaptado para fomentar el desplazamiento de pie de forma cómoda y segura. En esta dimensión, se agruparon tres ítems de la escala original, esto podría deberse a que los ítems están interrelacionados y abordan aspectos como la accesibilidad, la conectividad entre zonas y la presencia de personas en movimiento constante en entornos dinámicos, siendo características claves del ambiente para caminar <sup>(</sup><xref ref-type="bibr" rid="B48"><sup>48</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B50"><sup>50</sup></xref>.</p>
+			<p>La consistencia interna del modelo fue aceptable (α= .873) al igual que de los componentes de calidad estética (α= .826) y acceso alimentos saludables (α= .898). Sin embargo, el tercer componente llamado ambiente para caminar presentó una baja consistencia interna. Una posible causa de este resultado podría explicarse por dos factores principales: primero, el escaso número de ítems que se agruparon en este factor, lo que limita la capacidad del instrumento para capturar el constructo, segundo, el origen transcultural del instrumento, desarrollado principalmente en Estado Unidos para poblaciones latinas y afroamericanas <xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>)</sup> cuyo contexto urbano difiere al mexicano en aspectos claves como infraestructura peatonal, seguridad vial y diseño urbano. Estas diferencias contextuales podrían haber afectado la interpretación de los ítems por parte de la población incluida en el estudio. </p>
+			<p>Los hallazgos, sugieren a futuras investigaciones adaptar el componente ambiente para caminar por medio de la incorporación de nuevos ítems culturalmente diseñados al contexto mexicano. Asimismo, incluir variables como seguridad peatonal (iluminación), infraestructura peatonal (estado y accesibilidad a banquetas, presencial de obstáculos), factores ambientales (contaminación acústica) y seguridad vial (señalización y respeto al peatón) que podrían considerarse para enriquecer esta dimensión.</p>
+			<p>El presente estudio ofrece una herramienta relevante para la prevención de las ECV en población joven de México, aunque es importante señalar algunas limitaciones. La investigación se llevó a cabo en una muestra de jóvenes universitarios de ciencias de la salud en el norte de México, lo que limita los resultados a otras poblaciones. Asimismo, no se realizó una adaptación cultural del instrumento. Se sugiere que futuros estudios incluyan participantes de diversas regiones del país y de distintas disciplinas académicas. Se recomienda llevar a cabo una adecuación semántica e idiomática de los ítems del instrumento original para garantizar que sean claros, pertinentes y culturalmente adaptados, esto con el fin de mejorar la consistencia interna de los factores, especialmente en aquellos con cargas factoriales bajas.</p>
+			<p> A pesar de estas limitaciones, los resultados obtenidos proporcionan datos preliminares valiosos sobre la validación de la ECVE en jóvenes universitarios mexicanos.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>La versión final de la ECVE en español mostró correlaciones adecuadas y el proceso de validación confirma su aplicabilidad en la población de estudio cumpliendo con los criterios de validez para cada factor. Las características del vecindario que rodean a los jóvenes universitarios son raramente evaluadas debido a que la edad prevalente para las ECV es arriba de los 30 años en poblaciones mayores, por lo que una escala para evaluación de características del vecindario donde residen los jóvenes universitarios desempeña un papel fundamental al influir en los comportamientos de salud y la exposición de factores de riesgo cardiovascular. </p>
+			<p>Este estudio contribuye a las ciencias conductuales con enfoque en estilos de vida saludables dado que presenta un instrumento psicométricamente sólido y abreviado que considera las características del vecindario como un determinante de la salud, lo que puede tener una influencia sobre la eficiencia de la medición de este fenómeno como eje que relaciona el comportamiento de los adultos jóvenes universitarios considerando decisiones en salud como comer saludablemente y realizar actividad física de beneficio cardiovascular y prevención de enfermedades crónicas. </p>
+			<p>La evidencia identificada en este estudio también contribuye a la ciencia en términos de posibilitar un marco empírico para futuras investigaciones en diferentes contextos. Con respecto a la práctica los resultados contribuyen a mejorar la certeza de la aplicación del instrumento de características del vecindario para enfermedades cardiovasculares para orientar a la identificación de factores de riesgo ambientales que inciden en el riesgo cardiovascular a partir de necesidades en salud de la comunidad; de forma específica, características relacionadas con la calidad estética del ambiente o del contexto, acceso y/o adquisición, así como el consumo de alimentos saludables en conjunto con los ambientes para caminar con lo que los profesionales de Enfermería caracterizar diagnósticos que briden un perfil de los adultos jóvenes universitarios de determinadas comunidades para su intervención oportuna al tomar como referencia políticas en salud direccionadas al fenómeno de estudio de esta investigación. </p>
+		</sec>
+		<sec>
+			<title>Conflicto de intereses</title>
+			<p>Los autores declaran que no existe ningún conflicto de intereses.</p>
+		</sec>
+		<sec>
+			<title>Financiamiento</title>
+			<p>Los autores declaran que no existió ningún tipo de financiamiento.</p>
+		</sec>
+		<sec>
+			<title>Inteligencia artificial</title>
+			<p>Los autores declaran que no han utilizado ningún tipo de recurso de la inteligencia artificial en alguna de las secciones de este manuscrito.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referencias Bibliográficas</title>
+			<ref id="B1">
+				<mixed-citation>1. Institute for Health Metrics and Evaluation. Global burden of disease study compare [Internet]. 2019 [citado 25 oct 2024]. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://vizhub.healthdata.org/gbd-compare/">https://vizhub.healthdata.org/gbd-compare/</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Institute for Health Metrics and Evaluation</collab>
+					</person-group>
+					<source>Global burden of disease study compare</source>
+					<year>2019</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-10-25">25 oct 2024</date-in-citation>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://vizhub.healthdata.org/gbd-compare/">https://vizhub.healthdata.org/gbd-compare/</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>2. Organización Panamericana de la Salud (OPS). La carga de enfermedades cardiovasculares OPS/OMS [Internet]. 2019 [citado 18 oct 2024]. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.paho.org/es/enlace/carga-enfermedades-cardiovasculares">https://www.paho.org/es/enlace/carga-enfermedades-cardiovasculares</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organización Panamericana de la Salud (OPS)</collab>
+					</person-group>
+					<source>La carga de enfermedades cardiovasculares OPS/OMS</source>
+					<year>2019</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-10-18">18 oct 2024</date-in-citation>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.paho.org/es/enlace/carga-enfermedades-cardiovasculares">https://www.paho.org/es/enlace/carga-enfermedades-cardiovasculares</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>3. De Sousa EL, Cavalcante JE, De Sousa DF, Ferreira JM, Meneses RR, Sousa DL, et al. Comparison of early cardiovascular risk among brazilian and african university students. Clin Biochem [Internet]. 2020 [citado 20 oct 2024];75:7-14. Disponible en: https://doi.org/10.1016/j.clinbiochem.2019.09.007</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Sousa</surname>
+							<given-names>EL</given-names>
+						</name>
+						<name>
+							<surname>Cavalcante</surname>
+							<given-names>JE</given-names>
+						</name>
+						<name>
+							<surname>De Sousa</surname>
+							<given-names>DF</given-names>
+						</name>
+						<name>
+							<surname>Ferreira</surname>
+							<given-names>JM</given-names>
+						</name>
+						<name>
+							<surname>Meneses</surname>
+							<given-names>RR</given-names>
+						</name>
+						<name>
+							<surname>Sousa</surname>
+							<given-names>DL</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Comparison of early cardiovascular risk among brazilian and african university students</article-title>
+					<source>Clin Biochem</source>
+					<year>2020</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-10-20">20 oct 2024</date-in-citation>
+					<volume>75</volume>
+					<fpage>7</fpage>
+					<lpage>14</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.clinbiochem.2019.09.007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>4. Choi EJ, Chang AK, Choi JY. Factors associated with blood pressure classification in korean university students: A descriptive survey. J Nurs Res [Internet]. 2020 [citado 22 oct 2024];28(1):e61. Disponible en: https://doi.org/10.1097/jnr.0000000000000325</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Choi</surname>
+							<given-names>EJ</given-names>
+						</name>
+						<name>
+							<surname>Chang</surname>
+							<given-names>AK</given-names>
+						</name>
+						<name>
+							<surname>Choi</surname>
+							<given-names>JY</given-names>
+						</name>
+					</person-group>
+					<article-title>Factors associated with blood pressure classification in korean university students: A descriptive survey</article-title>
+					<source>J Nurs Res</source>
+					<year>2020</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-10-22">22 oct 2024</date-in-citation>
+					<volume>28</volume>
+					<issue>1</issue>
+					<elocation-id>e61</elocation-id>
+					<pub-id pub-id-type="doi">10.1097/jnr.0000000000000325</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>5. Abdela OA, Ayalew MB, Yesuf JS, Getnet SA, Biyazin AA, Lemma MY, et al. Ethiopian university students’ knowledge and perception towards cardiovascular disease risk factors: a cross-sectional study. Am J Cardiovasc Dis [Internet]. 2019 [citado 30 oct 2024];9(1):1-7. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6420697/">https://pmc.ncbi.nlm.nih.gov/articles/PMC6420697/</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Abdela</surname>
+							<given-names>OA</given-names>
+						</name>
+						<name>
+							<surname>Ayalew</surname>
+							<given-names>MB</given-names>
+						</name>
+						<name>
+							<surname>Yesuf</surname>
+							<given-names>JS</given-names>
+						</name>
+						<name>
+							<surname>Getnet</surname>
+							<given-names>SA</given-names>
+						</name>
+						<name>
+							<surname>Biyazin</surname>
+							<given-names>AA</given-names>
+						</name>
+						<name>
+							<surname>Lemma</surname>
+							<given-names>MY</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Ethiopian university students’ knowledge and perception towards cardiovascular disease risk factors: a cross-sectional study</article-title>
+					<source>Am J Cardiovasc Dis</source>
+					<year>2019</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-10-30">30 oct 2024</date-in-citation>
+					<volume>9</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>7</lpage>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6420697/">https://pmc.ncbi.nlm.nih.gov/articles/PMC6420697/</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>6. Nuñez-Leyva R, Lozano-López T, Calizaya-Milla Y, Calizaya-Milla S, Saintila J. Excess eight and ody fat percentage associated with waist circumference as a cardiometabolic risk factor in university students. Scientific [Internet]. 2022 [citado 02 nov 2024]:1310030. Disponible en: https://doi.org/10.1155/2022/1310030</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nuñez-Leyva</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Lozano-López</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Calizaya-Milla</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Calizaya-Milla</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Saintila</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>Excess eight and ody fat percentage associated with waist circumference as a cardiometabolic risk factor in university students</article-title>
+					<source>Scientific</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-11-02">02 nov 2024</date-in-citation>
+					<issue-part>1310030</issue-part>
+					<pub-id pub-id-type="doi">10.1155/2022/1310030</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>7. Olufayo OE, Ajayi IO, Ngene SO. Clustering of cardiovascular disease risk factors among first-year students at the university of Ibadan, Nigeria: a cross-sectional study. Sao Paulo Med J [Internet]. 2022 [citado 02 nov 2024];141(2):98-106. Disponible en: https://doi.org/10.1590/1516-3180.2021.0998.11052022</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Olufayo</surname>
+							<given-names>OE</given-names>
+						</name>
+						<name>
+							<surname>Ajayi</surname>
+							<given-names>IO</given-names>
+						</name>
+						<name>
+							<surname>Ngene</surname>
+							<given-names>SO</given-names>
+						</name>
+					</person-group>
+					<article-title>Clustering of cardiovascular disease risk factors among first-year students at the university of Ibadan, Nigeria: a cross-sectional study</article-title>
+					<source>Sao Paulo Med J</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-11-02">02 nov 2024</date-in-citation>
+					<volume>141</volume>
+					<issue>2</issue>
+					<fpage>98</fpage>
+					<lpage>106</lpage>
+					<pub-id pub-id-type="doi">10.1590/1516-3180.2021.0998.11052022</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>8. Gaglioti AH, Xu J, Rollins L, Baltrus P, O’Connell LK, Cooper DL, et al. Peer reviewed: neighborhood environmental health and premature death from cardiovascular disease. Prev Chronic Dis [Internet]. 2018 [citado 02 nov 2024];15:E17 Disponible en: https://doi.org/10.5888/pcd15.170220</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gaglioti</surname>
+							<given-names>AH</given-names>
+						</name>
+						<name>
+							<surname>Xu</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Rollins</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Baltrus</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>O’Connell</surname>
+							<given-names>LK</given-names>
+						</name>
+						<name>
+							<surname>Cooper</surname>
+							<given-names>DL</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Peer reviewed: neighborhood environmental health and premature death from cardiovascular disease</article-title>
+					<source>Prev Chronic Dis</source>
+					<year>2018</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-11-02">02 nov 2024</date-in-citation>
+					<volume>15</volume>
+					<elocation-id>E17</elocation-id>
+					<pub-id pub-id-type="doi">10.5888/pcd15.170220</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>9. Chum A, O’Campo P. Cross-sectional associations between residential environmental exposures and cardiovascular diseases. BMC Public Health [Internet]. 2015 [citado 02 nov 2024]; 15:1-12. Disponible en: https://doi.org/10.1186/s12889-015-1788-0</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chum</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>O’Campo</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<article-title>Cross-sectional associations between residential environmental exposures and cardiovascular diseases</article-title>
+					<source>BMC Public Health</source>
+					<year>2015</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-11-02">02 nov 2024</date-in-citation>
+					<volume>15</volume>
+					<fpage>1</fpage>
+					<lpage>12</lpage>
+					<pub-id pub-id-type="doi">10.1186/s12889-015-1788-0</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>10. Liu M, Patel VR, Salas RN, Rice MB, Kazi DS, Zheng Z, et al. Neighborhood environmental burden and cardiovascular health in the US. JAMA Cardiol [Internet]. 2024 [citado 02 nov 2024];9(2):153-163. Disponible en: https://doi.org/10.1001/jamacardio.2023.4680</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liu</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Patel</surname>
+							<given-names>VR</given-names>
+						</name>
+						<name>
+							<surname>Salas</surname>
+							<given-names>RN</given-names>
+						</name>
+						<name>
+							<surname>Rice</surname>
+							<given-names>MB</given-names>
+						</name>
+						<name>
+							<surname>Kazi</surname>
+							<given-names>DS</given-names>
+						</name>
+						<name>
+							<surname>Zheng</surname>
+							<given-names>Z</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Neighborhood environmental burden and cardiovascular health in the US</article-title>
+					<source>JAMA Cardiol</source>
+					<year>2024</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-11-02">02 nov 2024</date-in-citation>
+					<volume>9</volume>
+					<issue>2</issue>
+					<fpage>153</fpage>
+					<lpage>163</lpage>
+					<pub-id pub-id-type="doi">10.1001/jamacardio.2023.4680</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>11. Liu XX, Ma XL, Huang WZ, Luo YN, Zhong XM, Dadvand P, et al. Green space and cardiovascular disease: A systematic review with meta-analysis. Environmental pollution [Internet]. 2022 [citado 21 ene 2025];301:118990. Disponible en: https://doi.org/10.1016/j.envpol.2022.118990</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liu</surname>
+							<given-names>XX</given-names>
+						</name>
+						<name>
+							<surname>Ma</surname>
+							<given-names>XL</given-names>
+						</name>
+						<name>
+							<surname>Huang</surname>
+							<given-names>WZ</given-names>
+						</name>
+						<name>
+							<surname>Luo</surname>
+							<given-names>YN</given-names>
+						</name>
+						<name>
+							<surname>Zhong</surname>
+							<given-names>XM</given-names>
+						</name>
+						<name>
+							<surname>Dadvand</surname>
+							<given-names>P</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Green space and cardiovascular disease: A systematic review with meta-analysis</article-title>
+					<source>Environmental pollution</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-21">21 ene 2025</date-in-citation>
+					<volume>301</volume>
+					<issue-part>118990</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.envpol.2022.118990</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>12. Silva JP, Singh A, Oldenburg B, Gunathunga W, Alagiyawanna AM, Mavoa S. Associations between residential greenness and self-reported heart disease in Sri Lankan men: A cross-sectional study. PloS one [Internet]. 2021 [citado 21 abr 2025];16(5):e0252382. Disponible en: https://doi.org/10.1371/journal.pone.0252382</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Silva</surname>
+							<given-names>JP</given-names>
+						</name>
+						<name>
+							<surname>Singh</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Oldenburg</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Gunathunga</surname>
+							<given-names>W</given-names>
+						</name>
+						<name>
+							<surname>Alagiyawanna</surname>
+							<given-names>AM</given-names>
+						</name>
+						<name>
+							<surname>Mavoa</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Associations between residential greenness and self-reported heart disease in Sri Lankan men: A cross-sectional study</article-title>
+					<source>PloS one</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-21">21 abr 2025</date-in-citation>
+					<volume>16</volume>
+					<issue>5</issue>
+					<elocation-id>e0252382</elocation-id>
+					<pub-id pub-id-type="doi">10.1371/journal.pone.0252382</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>13. Rigolon A, Browning MH, McAnirlin O, Yoon HV. Green space and health equity: A systematic review on the potential of green space to reduce health disparities. International journal of environmental research and public health [Internet]. 2021 [citado 21 abr 2025];18(5):2563. Disponible en: https://doi.org/10.3390/ijerph18052563</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rigolon</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Browning</surname>
+							<given-names>MH</given-names>
+						</name>
+						<name>
+							<surname>McAnirlin</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Yoon</surname>
+							<given-names>HV</given-names>
+						</name>
+					</person-group>
+					<article-title>Green space and health equity: A systematic review on the potential of green space to reduce health disparities</article-title>
+					<source>International journal of environmental research and public health</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-21">21 abr 2025</date-in-citation>
+					<volume>18</volume>
+					<issue>5</issue>
+					<issue-part>2563</issue-part>
+					<pub-id pub-id-type="doi">10.3390/ijerph18052563</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>14. Juul F, Deierlein AL, Vaidean G, Quatromoni PA, Parekh N. Ultra-processed foods and cardiometabolic health outcomes: from evidence to practice. Current atherosclerosis reports [Internet]. 2022 [citado 21 abr 2025];24(11):849-860. Disponible en: https://doi.org/10.1007/s11883-022-01061-3</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Juul</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Deierlein</surname>
+							<given-names>AL</given-names>
+						</name>
+						<name>
+							<surname>Vaidean</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Quatromoni</surname>
+							<given-names>PA</given-names>
+						</name>
+						<name>
+							<surname>Parekh</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<article-title>Ultra-processed foods and cardiometabolic health outcomes: from evidence to practice</article-title>
+					<source>Current atherosclerosis reports</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-21">21 abr 2025</date-in-citation>
+					<volume>24</volume>
+					<issue>11</issue>
+					<fpage>849</fpage>
+					<lpage>860</lpage>
+					<pub-id pub-id-type="doi">10.1007/s11883-022-01061-3</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>15. Lee EY, Choi J, Lee S, Choi BY. Objectively measured built environments and cardiovascular diseases in middle-aged and older Korean adults. Int J Environ Res Public Health [Internet]. 2021 [citado 15 ene 2025];18(4):1861. Disponible en: https://doi.org/10.3390/ijerph18041861</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lee</surname>
+							<given-names>EY</given-names>
+						</name>
+						<name>
+							<surname>Choi</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Choi</surname>
+							<given-names>BY</given-names>
+						</name>
+					</person-group>
+					<article-title>Objectively measured built environments and cardiovascular diseases in middle-aged and older Korean adults</article-title>
+					<source>Int J Environ Res Public Health</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-15">15 ene 2025</date-in-citation>
+					<volume>18</volume>
+					<issue>4</issue>
+					<issue-part>1861</issue-part>
+					<pub-id pub-id-type="doi">10.3390/ijerph18041861</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>16. Zhang K, Brook RD, Li Y, Rajagopalan S, Kim JB. Air pollution, built environment, and early cardiovascular disease. Circ Res [Internet]. 2023 [citado 21 abr 2025];132(12):1707-1724. Disponible en: https://doi.org/10.1161/CIRCRESAHA.123.322002</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhang</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Brook</surname>
+							<given-names>RD</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Rajagopalan</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Kim</surname>
+							<given-names>JB</given-names>
+						</name>
+					</person-group>
+					<article-title>Air pollution, built environment, and early cardiovascular disease</article-title>
+					<source>Circ Res</source>
+					<year>2023</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-21">21 abr 2025</date-in-citation>
+					<volume>132</volume>
+					<issue>12</issue>
+					<fpage>1707</fpage>
+					<lpage>1724</lpage>
+					<pub-id pub-id-type="doi">10.1161/CIRCRESAHA.123.322002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>17. Chandrabose M, DenBraver NR, Owen N, Sugiyama T, Hadgraft N. Built environments and cardiovascular health: review and implications. J Cardiopulm Rehabil Prev [Internet]. 2022 [citado 21 abr 2025];42(6):416-422. Disponible en: https://doi.org/10.1097/HCR.0000000000000752 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chandrabose</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>DenBraver</surname>
+							<given-names>NR</given-names>
+						</name>
+						<name>
+							<surname>Owen</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Sugiyama</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Hadgraft</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<article-title>Built environments and cardiovascular health: review and implications</article-title>
+					<source>J Cardiopulm Rehabil Prev</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-21">21 abr 2025</date-in-citation>
+					<volume>42</volume>
+					<issue>6</issue>
+					<fpage>416</fpage>
+					<lpage>422</lpage>
+					<pub-id pub-id-type="doi">10.1097/HCR.0000000000000752</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>18. Liu M, Meijer P, Lam TM, Timmermans EJ, Grobbee DE, Beulens JW, et al. The built environment and cardiovascular disease: an umbrella review and meta-meta-analysis. Eur J Prev Cardiol [Internet]. 2023 [citado 21 abr 2025];30(16):1801-1827. Disponible en: https://doi.org/10.1093/eurjpc/zwad241</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liu</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Meijer</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Lam</surname>
+							<given-names>TM</given-names>
+						</name>
+						<name>
+							<surname>Timmermans</surname>
+							<given-names>EJ</given-names>
+						</name>
+						<name>
+							<surname>Grobbee</surname>
+							<given-names>DE</given-names>
+						</name>
+						<name>
+							<surname>Beulens</surname>
+							<given-names>JW</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>The built environment and cardiovascular disease: an umbrella review and meta-meta-analysis</article-title>
+					<source>Eur J Prev Cardiol</source>
+					<year>2023</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-21">21 abr 2025</date-in-citation>
+					<volume>30</volume>
+					<issue>16</issue>
+					<fpage>1801</fpage>
+					<lpage>1827</lpage>
+					<pub-id pub-id-type="doi">10.1093/eurjpc/zwad241</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>19. Xu J, Jing Y, Xu X, Zhang X, Liu Y, He H, et al. Spatial scale analysis for the relationships between the built environment and cardiovascular disease based on multi-source data. Health Place [Internet]. 2023 [citado 21 abr 2025];83:103048. Disponible en: https://doi.org/10.1016/j.healthplace.2023.103048</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Xu</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Jing</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Xu</surname>
+							<given-names>X</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>X</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>He</surname>
+							<given-names>H</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Spatial scale analysis for the relationships between the built environment and cardiovascular disease based on multi-source data</article-title>
+					<source>Health Place</source>
+					<year>2023</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-21">21 abr 2025</date-in-citation>
+					<issue-part>103048</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.healthplace.2023.103048</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>20. Patino JE, Hong A, Duque JC, Rahimi K, Zapata S, Lopera VM. Built environment and mortality risk from cardiovascular disease and diabetes in Medellín, Colombia: An ecological study. Landsc Urban Plan [Internet]. 2021 [citado 21 abr 2025];213:104126. Disponible en: https://doi.org/10.1016/j.landurbplan.2021.104126 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Patino</surname>
+							<given-names>JE</given-names>
+						</name>
+						<name>
+							<surname>Hong</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Duque</surname>
+							<given-names>JC</given-names>
+						</name>
+						<name>
+							<surname>Rahimi</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Zapata</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Lopera</surname>
+							<given-names>VM</given-names>
+						</name>
+					</person-group>
+					<article-title>Built environment and mortality risk from cardiovascular disease and diabetes in Medellín, Colombia: An ecological study</article-title>
+					<source>Landsc Urban Plan</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-21">21 abr 2025</date-in-citation>
+					<volume>213</volume>
+					<issue-part>104126</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.landurbplan.2021.104126</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>21. Şener R, Türk T. Spatiotemporal analysis of cardiovascular disease mortality with geographical information systems. Appl Spat Anal Policy [Internet]. 2021[citado 21 abr 2025];14(4):929-945. Disponible en: https://doi.org/10.1007/s12061-021-09382-7 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Şener</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Türk</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<article-title>Spatiotemporal analysis of cardiovascular disease mortality with geographical information systems</article-title>
+					<source>Appl Spat Anal Policy</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-21">21 abr 2025</date-in-citation>
+					<volume>14</volume>
+					<issue>4</issue>
+					<fpage>929</fpage>
+					<lpage>945</lpage>
+					<pub-id pub-id-type="doi">10.1007/s12061-021-09382-7</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>22. Deng S, Liang J, Peng Y, Liu W, Su J, Zhu S. Spatial analysis of the impact of urban built environment on cardiovascular diseases: a case study in Xixiangtang, China. BMC public health [Internet]. 2024 [citado 21 abr 2025];24(1):2368. Disponible en: https://doi.org/10.1186/s12889-024-19884-x</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Deng</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Liang</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Peng</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>W</given-names>
+						</name>
+						<name>
+							<surname>Su</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Zhu</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Spatial analysis of the impact of urban built environment on cardiovascular diseases: a case study in Xixiangtang, China</article-title>
+					<source>BMC public health</source>
+					<year>2024</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-21">21 abr 2025</date-in-citation>
+					<volume>24</volume>
+					<issue>1</issue>
+					<issue-part>2368</issue-part>
+					<pub-id pub-id-type="doi">10.1186/s12889-024-19884-x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>23. Kimberlin CL, Winterstein AG. Validity and reliability of measurement instruments used in research. Journal of the American Society of Health-System Pharmacists [Internet]. 2008 [citado 25 ene 2025];65(23):2276-2284. Disponible en: https://doi.org/10.2146/ajhp070364</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kimberlin</surname>
+							<given-names>CL</given-names>
+						</name>
+						<name>
+							<surname>Winterstein</surname>
+							<given-names>AG</given-names>
+						</name>
+					</person-group>
+					<article-title>Validity and reliability of measurement instruments used in research</article-title>
+					<source>Journal of the American Society of Health-System Pharmacists</source>
+					<year>2008</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-25">25 ene 2025</date-in-citation>
+					<volume>65</volume>
+					<issue>23</issue>
+					<fpage>2276</fpage>
+					<lpage>2284</lpage>
+					<pub-id pub-id-type="doi">10.2146/ajhp070364</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>24. Echeverria SE, Diez-Roux AV, Link BG. Reliability of self-reported neighborhood characteristics. Journal of Urban Health [Internet]. 2004 [citado 25 ene 2025];81(4):682-701. Disponible en: https://doi.org/10.1093/jurban/jth151</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Echeverria</surname>
+							<given-names>SE</given-names>
+						</name>
+						<name>
+							<surname>Diez-Roux</surname>
+							<given-names>AV</given-names>
+						</name>
+						<name>
+							<surname>Link</surname>
+							<given-names>BG</given-names>
+						</name>
+					</person-group>
+					<article-title>Reliability of self-reported neighborhood characteristics</article-title>
+					<source>Journal of Urban Health</source>
+					<year>2004</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-25">25 ene 2025</date-in-citation>
+					<volume>81</volume>
+					<issue>4</issue>
+					<fpage>682</fpage>
+					<lpage>701</lpage>
+					<pub-id pub-id-type="doi">10.1093/jurban/jth151</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>25. Ramírez-Girón N. Ecología del riesgo de diabetes mellitus tipo 2. [Tesis doctoral]. México: Universidad Autónoma de Nuevo León; 2019 [citado 25 ene 2025]. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="http://eprints.uanl.mx/17041/1/1080240464.pdf">http://eprints.uanl.mx/17041/1/1080240464.pdf</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="thesis">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ramírez-Girón</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<source>Ecología del riesgo de diabetes mellitus tipo 2</source>
+					<comment content-type="degree">Tesis doctoral</comment>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Universidad Autónoma de Nuevo León</publisher-name>
+					<year>2019</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-25">25 ene 2025</date-in-citation>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="http://eprints.uanl.mx/17041/1/1080240464.pdf">http://eprints.uanl.mx/17041/1/1080240464.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>26. Grove SK, Burns N, Gray JR. Practice nursing research: appraisal, synthesis, and generation of evidence. 7th ed. Philadelphia: Elsevier Saunder; 2013. p. 255</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Grove</surname>
+							<given-names>SK</given-names>
+						</name>
+						<name>
+							<surname>Burns</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Gray</surname>
+							<given-names>JR</given-names>
+						</name>
+					</person-group>
+					<source>Practice nursing research: appraisal, synthesis, and generation of evidence</source>
+					<edition>7th</edition>
+					<publisher-loc>Philadelphia</publisher-loc>
+					<publisher-name>Elsevier Saunder</publisher-name>
+					<year>2013</year>
+					<fpage>255</fpage>
+					<lpage>255</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>27. Diario Oficial de la Federación. Reglamento de la ley general de salud en materia de investigación para la salud. Cámara de Diputados del Congreso de la Unión [Internet] México; 2014 [citado 25 ene 2025]. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf">https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Diario Oficial de la Federación</collab>
+					</person-group>
+					<article-title>Reglamento de la ley general de salud en materia de investigación para la salud</article-title>
+					<source>Cámara de Diputados del Congreso de la Unión</source>
+					<publisher-loc>México</publisher-loc>
+					<year>2014</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-25">25 ene 2025</date-in-citation>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf">https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>28. Waltz CF, Strickland O, Lenz ER. Measurement in nursing and health research. 5th ed. New York: Springer publishing company; 2010.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Waltz</surname>
+							<given-names>CF</given-names>
+						</name>
+						<name>
+							<surname>Strickland</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Lenz</surname>
+							<given-names>ER</given-names>
+						</name>
+					</person-group>
+					<source>Measurement in nursing and health research</source>
+					<edition>5th</edition>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Springer publishing company</publisher-name>
+					<year>2010</year>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>29. Timothy ZK. Multiple regression and beyond: An introduction to multiple regression and structural equation modeling. 3rd ed. New York: Routledge; 2019. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Timothy</surname>
+							<given-names>ZK</given-names>
+						</name>
+					</person-group>
+					<source>Multiple regression and beyond: An introduction to multiple regression and structural equation modeling</source>
+					<edition>3rd</edition>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+					<year>2019</year>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>30. Hair JF, Black W, Babin B, Anderson R. Multiple regression analysis. In: Multivariate data analysis. 7th ed. United Kingdom: Pearson; 2010. Pp. 152-231.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hair</surname>
+							<given-names>JF</given-names>
+						</name>
+						<name>
+							<surname>Black</surname>
+							<given-names>W</given-names>
+						</name>
+						<name>
+							<surname>Babin</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Anderson</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<source>Multiple regression analysis. In: Multivariate data analysis</source>
+					<edition>7th</edition>
+					<publisher-loc>United Kingdom</publisher-loc>
+					<publisher-name>Pearson</publisher-name>
+					<year>2010</year>
+					<fpage>152</fpage>
+					<lpage>231</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>31. Timothy ZK. Analyzing path models using SEM programs. En: Multiple regression and beyod: An introduction to multiple regression and structural equation modeling. 3rd ed. New York: Person; 2015. Pp. 295-300</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Timothy</surname>
+							<given-names>ZK</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Analyzing path models using SEM programs</chapter-title>
+					<source>Multiple regression and beyod: An introduction to multiple regression and structural equation modeling</source>
+					<edition>3rd</edition>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Person</publisher-name>
+					<year>2015</year>
+					<fpage>295</fpage>
+					<lpage>300</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>32. Hu L, Bentler PM. Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. A Multidisciplinary journa. [Internet]. 1999 [citado 25 ene 2025]; 6(1):1-55. Disponible en: https://doi.org/10.1080/10705519909540118</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hu</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Bentler</surname>
+							<given-names>PM</given-names>
+						</name>
+					</person-group>
+					<article-title>Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives</article-title>
+					<source>A Multidisciplinary journa.</source>
+					<year>1999</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-25">25 ene 2025</date-in-citation>
+					<volume>6</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>55</lpage>
+					<pub-id pub-id-type="doi">10.1080/10705519909540118</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>33. Bollen KA. Structural equations with latent variables. 1st ed. New York: John Wiley &amp; Sons; [Internet]. 1989 [citado 25 ene 2025]. Disponible en: https://doi.org/10.1002/9781118619179</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bollen</surname>
+							<given-names>KA</given-names>
+						</name>
+					</person-group>
+					<source>Structural equations with latent variables</source>
+					<edition>1st</edition>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>John Wiley &amp; Sons</publisher-name>
+					<comment>[Internet]</comment>
+					<year>1989</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-25">25 ene 2025</date-in-citation>
+					<pub-id pub-id-type="doi">10.1002/9781118619179</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>34. Bentler PM, Bonett DG. Significance tests and goodness of fit in the analysis covariance structures. Psychol Bull [Internet]. 1980 [citado 25 ene 2025];88(3):588. Disponible en: https://doi.org/10.1037/0033-2909.88.3.588</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bentler</surname>
+							<given-names>PM</given-names>
+						</name>
+						<name>
+							<surname>Bonett</surname>
+							<given-names>DG</given-names>
+						</name>
+					</person-group>
+					<article-title>Significance tests and goodness of fit in the analysis covariance structures</article-title>
+					<source>Psychol Bull</source>
+					<year>1980</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-25">25 ene 2025</date-in-citation>
+					<volume>88</volume>
+					<issue>3</issue>
+					<issue-part>588</issue-part>
+					<pub-id pub-id-type="doi">10.1037/0033-2909.88.3.588</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>35. Byrne BM. Multivariate applications series. Structural equation modeling with AMOS: Basic concepts, applications, and programming. 2<sup>da</sup> ed. New York: Taylor &amp; Francis Group; 2010. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Byrne</surname>
+							<given-names>BM</given-names>
+						</name>
+					</person-group>
+					<source>Multivariate applications series. Structural equation modeling with AMOS: Basic concepts, applications, and programming</source>
+					<edition>2da</edition>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Taylor &amp; Francis Group</publisher-name>
+					<year>2010</year>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>36. Kline P. An easy guide to factor analysis. 1st ed. London: Routledge; [Internet]. 2014. [citado 25 ene 2025]. Disponible en: https://doi.org/10.4324/9781315788135</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kline</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<source>An easy guide to factor analysis</source>
+					<edition>1st</edition>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+					<comment>[Internet]</comment>
+					<year>2014</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-25">25 ene 2025</date-in-citation>
+					<pub-id pub-id-type="doi">10.4324/9781315788135</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>37. Instituto Nacional de Estadística y Geografía. Características educativas de la población. Demografía y Sociedad [Internet]. México; 2022 [citado 25 ene 2025]. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/temas/educacion/">https://www.inegi.org.mx/temas/educacion/</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Estadística y Geografía</collab>
+					</person-group>
+					<source>Características educativas de la población. Demografía y Sociedad</source>
+					<publisher-loc>México</publisher-loc>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-25">25 ene 2025</date-in-citation>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/temas/educacion/">https://www.inegi.org.mx/temas/educacion/</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>38. Rabenda-Nowak A, Wylęgły, K. Causes and consequences of postponing the decision to marry in the opinion of young adults. Journal of Education Culture and Society [Internet]. 2022 [citado 30 ene 2025];13(2): 171-184. Disponible en: https://doi.org/10.15503/jecs2022.2.171.184</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rabenda-Nowak</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Wylęgły</surname>
+							<given-names>K.</given-names>
+						</name>
+					</person-group>
+					<article-title>Causes and consequences of postponing the decision to marry in the opinion of young adults</article-title>
+					<source>Journal of Education Culture and Society</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-30">30 ene 2025</date-in-citation>
+					<volume>13</volume>
+					<issue>2</issue>
+					<fpage>171</fpage>
+					<lpage>184</lpage>
+					<pub-id pub-id-type="doi">10.15503/jecs2022.2.171.184</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>39. Shamah-Levy T, Romero-Martínez M, Barrientos-Gutiérrez T, Cuevas-Nasu L, Bautista-Arredondo S, Colchero MA, et al. Encuesta nacional de salud y nutrición continua 2021. Secretaría de Salud [Internet]. México; 2021 [citado 25 ene 2025]. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://goo.su/wIlWgCe">https://goo.su/wIlWgCe</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shamah-Levy</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Romero-Martínez</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Barrientos-Gutiérrez</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Cuevas-Nasu</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Bautista-Arredondo</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Colchero</surname>
+							<given-names>MA</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Encuesta nacional de salud y nutrición continua 2021</article-title>
+					<source>Secretaría de Salud</source>
+					<publisher-loc>México</publisher-loc>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-25">25 ene 2025</date-in-citation>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://goo.su/wIlWgCe">https://goo.su/wIlWgCe</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>40. Pérez-Escamilla R, Putnik P. The role of acculturation in nutrition, lifestyle, and incidence of type 2 diabetes among Latinos. J Nutr [Internet]. 2007 [citado 30 ene 2025];137(4):860-870. Disponible en: https://doi.org/10.1093/jn/137.4.860</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez-Escamilla</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Putnik</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<article-title>The role of acculturation in nutrition, lifestyle, and incidence of type 2 diabetes among Latinos</article-title>
+					<source>J Nutr</source>
+					<year>2007</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-30">30 ene 2025</date-in-citation>
+					<volume>137</volume>
+					<issue>4</issue>
+					<fpage>860</fpage>
+					<lpage>870</lpage>
+					<pub-id pub-id-type="doi">10.1093/jn/137.4.860</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>41. Monroe-Lord L, Anderson A, Jones BL, Richards R, Reicks M, Gunther C, Relationship between family racial/ethnic backgrounds, parenting practices and styles, and adolescent eating behaviors. International journal of environmental research and public health [Internet]. 2022 [citado 30 ene 2025];19(12):7388. Disponible en: https://doi.org/10.3390/ijerph19127388</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Monroe-Lord</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Anderson</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Jones</surname>
+							<given-names>BL</given-names>
+						</name>
+						<name>
+							<surname>Richards</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Reicks</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Gunther</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title>Relationship between family racial/ethnic backgrounds, parenting practices and styles, and adolescent eating behaviors</article-title>
+					<source>International journal of environmental research and public health</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-30">30 ene 2025</date-in-citation>
+					<volume>19</volume>
+					<issue>12</issue>
+					<issue-part>7388</issue-part>
+					<pub-id pub-id-type="doi">10.3390/ijerph19127388</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>42. Rogers P. Best practices for your exploratory factor analysis: A factor tutorial. Revista de Administração Contemporânea [Internet]. 2022 [citado 22 abr 2025];26(06):e21008. Disponible en: https://doi.org/10.1590/1982-7849rac2022210085</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rogers</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<article-title>Best practices for your exploratory factor analysis: A factor tutorial</article-title>
+					<source>Revista de Administração Contemporânea</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-22">22 abr 2025</date-in-citation>
+					<volume>26</volume>
+					<issue>06</issue>
+					<elocation-id>e21008</elocation-id>
+					<pub-id pub-id-type="doi">10.1590/1982-7849rac2022210085</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>43. Van Cauwenberg J, Van Holle V, Simons D, Deridder R, Clarys P, Goubert L, et al. Environmental factors influencing older adults’ walking for transportation: a study using walk-along interviews. International journal of behavioral nutrition and physical activity [Internet]. 2012 [citado 01 feb 2025];9:1-11. Disponible en: https://doi.org/10.1186/1479-5868-9-85</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Van Cauwenberg</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Van Holle</surname>
+							<given-names>V</given-names>
+						</name>
+						<name>
+							<surname>Simons</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Deridder</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Clarys</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Goubert</surname>
+							<given-names>L</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Environmental factors influencing older adults’ walking for transportation: a study using walk-along interviews</article-title>
+					<source>International journal of behavioral nutrition and physical activity</source>
+					<year>2012</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-02-01">01 feb 2025</date-in-citation>
+					<volume>9</volume>
+					<fpage>1</fpage>
+					<lpage>11</lpage>
+					<pub-id pub-id-type="doi">10.1186/1479-5868-9-85</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>44. Leyden KM, Goldberg A, Michelbach P. Understanding the pursuit of happiness in ten major cities. Urban affairs review [Internet]. 2011 [citado 01 feb 2025];47(6):861-888. Disponible en: <ext-link ext-link-type="uri" xlink:href="https://goo.su/XzwHj">https://goo.su/XzwHj</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Leyden</surname>
+							<given-names>KM</given-names>
+						</name>
+						<name>
+							<surname>Goldberg</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Michelbach</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<article-title>Understanding the pursuit of happiness in ten major cities</article-title>
+					<source>Urban affairs review</source>
+					<year>2011</year>
+					<volume>47</volume>
+					<issue>6</issue>
+					<fpage>861</fpage>
+					<lpage>888</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://goo.su/XzwHj">https://goo.su/XzwHj</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>45. Drzal N, Kerver JM, Strakovsky RS, Weatherspoon L, Alaimo K. Barriers and facilitators to healthy eating among college students. Nutrition research [Internet]. 2025 [citado 22 abr 2025];133:161-171. Disponible en: https://doi.org/10.1016/j.nutres.2024.06.001</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Drzal</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Kerver</surname>
+							<given-names>JM</given-names>
+						</name>
+						<name>
+							<surname>Strakovsky</surname>
+							<given-names>RS</given-names>
+						</name>
+						<name>
+							<surname>Weatherspoon</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Alaimo</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<article-title>Barriers and facilitators to healthy eating among college students</article-title>
+					<source>Nutrition research</source>
+					<year>2025</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-22">22 abr 2025</date-in-citation>
+					<volume>133</volume>
+					<fpage>161</fpage>
+					<lpage>171</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.nutres.2024.06.001</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>46. Jurado-González P, López-Toledo S, Bach-Faig A, Medina FX. Barriers and enablers of healthy eating among university students in Oaxaca de Juarez: A Mixed-Methods Study. Nutrients [Internet]. 2025 [citado 22 abr 2025];17(7);1263. Disponible en https://doi.org/10.3390/nu17071263</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jurado-González</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>López-Toledo</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Bach-Faig</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Medina</surname>
+							<given-names>FX</given-names>
+						</name>
+					</person-group>
+					<article-title>Barriers and enablers of healthy eating among university students in Oaxaca de Juarez: A Mixed-Methods Study</article-title>
+					<source>Nutrients</source>
+					<year>2025</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-22">22 abr 2025</date-in-citation>
+					<volume>17</volume>
+					<issue>7</issue>
+					<issue-part>1263</issue-part>
+					<pub-id pub-id-type="doi">10.3390/nu17071263</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>47. Gómez EJ, Nájera DF. Barreras y facilitadores del consumo de verduras y frutas en estudiantes de la universidad de Montemorelos. Anuario de Investigación UM [Internet]. 2023 [citado 22 abr 2025];3(3):1-4. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="http://anuarioinvestigacion.um.edu.mx/index.php/anuarioium/article/view/231">http://anuarioinvestigacion.um.edu.mx/index.php/anuarioium/article/view/231</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gómez</surname>
+							<given-names>EJ</given-names>
+						</name>
+						<name>
+							<surname>Nájera</surname>
+							<given-names>DF</given-names>
+						</name>
+					</person-group>
+					<article-title>Barreras y facilitadores del consumo de verduras y frutas en estudiantes de la universidad de Montemorelos</article-title>
+					<source>Anuario de Investigación UM</source>
+					<year>2023</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-22">22 abr 2025</date-in-citation>
+					<volume>3</volume>
+					<issue>3</issue>
+					<fpage>1</fpage>
+					<lpage>4</lpage>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="http://anuarioinvestigacion.um.edu.mx/index.php/anuarioium/article/view/231">http://anuarioinvestigacion.um.edu.mx/index.php/anuarioium/article/view/231</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>48. Cysek-Pawlak M, Pabich M. Walkability the new urbanism principle for urban regeneration. Journal of Urbanism: International Research on Placemaking and Urban Sustainability [Internet]. 2021 [citado 22 abr 2025];14(4):409-433. Disponible en: https://doi.org/10.1080/17549175.2020.1834435</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cysek-Pawlak</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Pabich</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Walkability the new urbanism principle for urban regeneration</article-title>
+					<source>Journal of Urbanism: International Research on Placemaking and Urban Sustainability</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-22">22 abr 2025</date-in-citation>
+					<volume>14</volume>
+					<issue>4</issue>
+					<fpage>409</fpage>
+					<lpage>433</lpage>
+					<pub-id pub-id-type="doi">10.1080/17549175.2020.1834435</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>49. Baobeid A, Koç M, Al-Ghamdi SG. Walkability and its relationships with health, sustainability, and livability: elements of physical environment and evaluation frameworks. Frontiers in Built Environment [Internet]. 2021 [citado 22 abr 2025];7:721218. Disponible en: https://doi.org/10.3389/fbuil.2021.721218</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Baobeid</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Koç</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Al-Ghamdi</surname>
+							<given-names>SG</given-names>
+						</name>
+					</person-group>
+					<article-title>Walkability and its relationships with health, sustainability, and livability: elements of physical environment and evaluation frameworks</article-title>
+					<source>Frontiers in Built Environment</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-22">22 abr 2025</date-in-citation>
+					<volume>7</volume>
+					<issue-part>721218</issue-part>
+					<pub-id pub-id-type="doi">10.3389/fbuil.2021.721218</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>50. Shields R, Gomes EJ, Lima LT, Osorio N. Walkability: a review of trends. Journal of Urbanism: International Research on Placemaking and Urban Sustainability [Internet]. 2023 [citado 22 abr 2025];16(1):19-41. Disponible en: https://doi.org/10.1080/17549175.2021.1936601</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shields</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Gomes</surname>
+							<given-names>EJ</given-names>
+						</name>
+						<name>
+							<surname>Lima</surname>
+							<given-names>LT</given-names>
+						</name>
+						<name>
+							<surname>Osorio</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<article-title>Walkability: a review of trends</article-title>
+					<source>Journal of Urbanism: International Research on Placemaking and Urban Sustainability</source>
+					<year>2023</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-04-22">22 abr 2025</date-in-citation>
+					<volume>16</volume>
+					<issue>1</issue>
+					<fpage>19</fpage>
+					<lpage>41</lpage>
+					<pub-id pub-id-type="doi">10.1080/17549175.2021.1936601</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>Cómo citar este artículo: De León-Ramírez M, Guevara-Valtier M, Navarro-Rodríguez D, Cárdenas-Villareal V, Sotero-Rivera S, Paz-Morales M. Propiedades psicométricas de la escala características del vecindario para enfermedades cardiovasculares. SANUS [Internet]. 2025 [citado dd mmm aaaa];10(21):e560. Disponible en: DOI/URL.</p>
+			</fn>
+		</fn-group>
+	</back>
+	<sub-article article-type="translation" id="s1" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Psychometric properties of the neighborhood characteristics scale for cardiovascular disease</article-title>
+			</title-group>
+			<abstract>
+				<title>Abstract</title>
+				<sec>
+					<title>Introduction:</title>
+					<p> The community and neighborhood environment can act as a determining factor, both positive and negative, in the adoption of behaviors that affect health. The Neighborhood Characteristics Scale for Cardiovascular Disease measures environmental characteristics that are related to cardiovascular disease. </p>
+				</sec>
+				<sec>
+					<title>Objective:</title>
+					<p> To evaluate the psychometric properties of the Neighborhood Characteristics Scale for Cardiovascular Disease in University Students. </p>
+				</sec>
+				<sec>
+					<title>Methodology:</title>
+					<p> Quantitative, transversal and validation study. The sample consisted of 303 young university students from the nursing degree with ages of 18 to 24 years using simple random sampling. Young people who reported cardiovascular disease, were pregnant, and were taking psychotropic medications were not included. The neighborhood characteristics questionnaire for cardiovascular disease was used, and informed consent and data confidentiality were respected. Descriptive statistics, exploratory and confirmatory factor analysis were used; as well as Cronbach's α coefficient. </p>
+				</sec>
+				<sec>
+					<title>Results:</title>
+					<p> The majority were women with an average age of 19.6 years and with a progress of 18.1 % in the first semester. Bartlett's test of sphericity was statistically significant and the Kaizer-Meyer Olkin index with optimal sampling adequacy. Confirmatory factor analysis showed acceptable goodness-of-fit indices for a 15-item structure organized into three dimensions: Aesthetic quality, access to healthy food, and conducive environment for walking. The model demonstrated internal reliability of α= .873. </p>
+				</sec>
+				<sec>
+					<title>Conclusions:</title>
+					<p> The proposed 15-item scale allows assessing the environment on cardiovascular diseases with a 3-factor factorial structure and good internal consistency. </p>
+				</sec>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>Key words:</title>
+				<kwd>Heart disease risk factors</kwd>
+				<kwd>Validation study</kwd>
+				<kwd>Young adult (DeCS)</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="intro">
+				<title>Introduction</title>
+				<p>Cardiovascular diseases (CVD) are one of the leading causes of mortality and disability-adjusted life years. Epidemiological records for 2019 reported approximately 27 million deaths in developing economies <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>. In the Americas and the Caribbean, it ranks first among causes of death, with a prevalence of 164.67 deaths per 100,000 inhabitants <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>. Recent studies have documented that the impact of CVD is increasing among young people, particularly those in college (between the ages of 18 and 30) <xref ref-type="bibr" rid="B3"><sup>3</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B7"><sup>7</sup></xref>. The onset of CVD is explained by a complex interaction between genetic predisposition and various environmental influences, which contribute to the progressive deterioration of cardiovascular tissue structures and functions <xref ref-type="bibr" rid="B8"><sup>8</sup></xref>.</p>
+				<p>In terms of environmental influences, it has been shown that the community and neighborhood environment can act as a decisive stimulus, both positive and negative, in the adoption of behaviors that affect health <xref ref-type="bibr" rid="B9"><sup>9</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B10"><sup>10</sup></xref>. Several studies report that unfavorable neighborhoods have a negative impact on cardiovascular health through multiple interrelated factors. First, the high availability of processed foods and advertising of harmful products such as sugary drinks promote unhealthy eating patterns. The lack of pedestrian infrastructure and scarcity of green spaces limit opportunities for physical activity <xref ref-type="bibr" rid="B8"><sup>8</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B10"><sup>10</sup></xref>. Moreover, conditions such as insecurity in public spaces act as an additional barrier <xref ref-type="bibr" rid="B10"><sup>10</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B13"><sup>13</sup></xref>, discouraging mobility and the creative use of outdoor areas <xref ref-type="bibr" rid="B14"><sup>14</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B17"><sup>17</sup></xref>.</p>
+				<p>To estimate the community and neighborhood environment, various methods have been used, namely, censuses that reflect sociodemographic characteristics, rating the environment according to certain indicators <xref ref-type="bibr" rid="B8"><sup>8</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B10"><sup>10</sup></xref> and the use of geographic information systems <xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref>, which characterize the availability and accessibility of resources in the neighborhood. Although these approaches provide relevant and complementary information, they have limitations in terms of validity and reliability, as they depend on self-reported data. In addition, the absence of updated censuses and variability in measurement criteria can reduce the accuracy and applicability of the results to specific contexts <xref ref-type="bibr" rid="B23"><sup>23</sup></xref>.</p>
+				<p>To address these limitations, a Neighborhood Characteristics Scale for Cardiovascular Disease (ECVE) has been developed for Latino and African American populations <xref ref-type="bibr" rid="B24"><sup>24</sup></xref> that measures neighborhood characteristics in relation to CVD and evaluates four components: Aesthetic quality, conducive environment for walking, safety from crime, and availability of healthy foods. </p>
+				<p>The ECVE has undergone internal consistency and test-retest reliability testing, with acceptable reliabilities (aesthetic environment α =.89, walking/exercise environment α= .78, crime safety α= .82, and access to healthy food α= .94) <xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. It has been applied in the Mexican context considering only three of its dimensions in a sample of Mexican adults with Diabetes Mellitus II (DM2), where only the total reliability of the scale was reported <xref ref-type="bibr" rid="B25"><sup>25</sup></xref>, leaving a critical breach in the university population. This breach highlights two needs: The lack of instruments validated for the Mexican context, where cultural and sociodemographic factors modify the perception of the environment and the absence of specific tools for young people with different patterns of mobility and environmental perception. </p>
+				<p>Based on the above, it is important to examine how the scale works in young university populations in the Mexican context in order to make it valid and reliable for this group. This will help health professionals to better understand the impact of the environment in relation to CVD, to base interventions on evidence, and to strengthen primary prevention. Therefore, the objective of the study was to evaluate the psychometric properties of the Neighborhood Characteristics Scale for Cardiovascular Disease in young university students.</p>
+			</sec>
+			<sec sec-type="methods">
+				<title>Methodology</title>
+				<p>Quantitative, cross-sectional study and validation <xref ref-type="bibr" rid="B26"><sup>26</sup></xref>, a confirmatory factor analysis (CFA) and exploratory factor analysis (EFA) of the psychometric properties of the ECVE were performed. The sample consisted of 303 young university students from a public institution in Tamaulipas, Mexico, selected by simple random probability sampling using random number tables based on the official lists of the educational institution. The sample size was calculated according to the standard psychometric criterion of 5 to 10 observations per every item on the instrument <xref ref-type="bibr" rid="B26"><sup>26</sup></xref>. University students enrolled in the first to eighth semester of the Bachelor of Nursing program, of both sexes, aged 18 to 24 years, and who submitted a signed informed consent form were included. Those who reported having any CVD, being pregnant, or taking psychotropic medications were not included.</p>
+				<p>To collect information, a questionnaire was used that included variables such as age, gender, marital status, family history, and the ECVE, which consists of 27 items grouped into four factors: Aesthetic quality, conducive environment for walking, safety from crime, and availability of healthy food, with a Likert-type response format where 1 is strongly agree and 5 is strongly disagree <xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. The total score on the scale ranges from 27 points to 135 points <xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. The original version of the 27-item instrument has demonstrated good reliability with α= .88 <xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. However, it is not valid for the population of young Mexican university students.</p>
+				<p>Data collection was carried out during school hours. Selected participants were invited to a space where they were provided instructions for filling the instrument.</p>
+				<p>Prior to participation, informed consent was obtained. To ensure anonymity, the questionnaires were placed in a sealed box. Those young people who did not wish to participate were thanked and given a leaflet with information on CVD prevention.</p>
+				<p>The study was approved by an ethics committee under registration number FAENUS-CEI-EXT-2024-02. In addition, it was regulated by the General Health Law on Health Research in Mexico, pursuant to Chapter I, Articles 13, 14, 16, 17, 21, 23, and Chapter V, which regulate dignified treatment, informed consent, data confidentiality, minimal risk research, dissemination of results, and reprisals for dropping out of the study <xref ref-type="bibr" rid="B27"><sup>27</sup></xref>. </p>
+				<p>Data analysis was conducted using the Statistical Package for the Social Sciences (SPSS) and IBM-AMOS version 23. Descriptive statistics were used to describe the characteristics of the sample. Inference was performed using EFA, meeting the established criteria of Kaiser-Meyer-Olkin (KMO) &gt;70 and Bartlett's sphericity test of X<sup>2</sup> p&lt; .05 (28,29). EFA was performed using the maximum likelihood extraction method with Varimax rotation. The criteria for factor membership were considered to be factor loadings &gt;0.30 and a minimum of three items for each factor. For CFA, the Root Mean Square Error of Approximation (RMSEA) &lt;.08 was considered an adequate indicator of model fit (30). Standardized Root Mean Square Residual (SRMR) &lt; 0.08 (31), Chi-Square Minimum/Degrees of Freedom (CMIN/DF) &lt; 3.0 (32), Adjusted Goodness of Fit Index (AGFI) &gt;.90, Comparative Fit Index (CFI) &gt; 0.90, and Comparative Fit Index (CFI) &gt; 0.90 were used. Degrees of Freedom (CMIN/DF) &lt; 3.0 (32), Adjusted Goodness of Fit Index (AGFI) &gt;.90, Comparative Fit Index (CFI) &gt; 0.90, Goodness of Fit Index (GFI) &gt; .90 (33,34), and Tucker Lewis Index (TLI) &gt;.90 (35,36) were used. The reliability of the instrument and its dimensions was estimated using Cronbach's alpha coefficient.</p>
+			</sec>
+			<sec sec-type="results">
+				<title>Results</title>
+				<p>In terms of sociodemographic characteristics, the majority of the sample was made up by women (95 %) with an average age of 19.6 years (SD = 1.7), 95.0 % were single, and 18.1 % were in their first semester of a bachelor's degree in nursing. In terms of family history, DM2 predominated (41.7 %), and 16.7 % had a family member with more than two chronic diseases (DM2, high blood pressure, and obesity).</p>
+				<p>In the CFA, Bartlett's sphericity test was statistically significant, indicating sufficient correlations between the variables for CFA to be conducted. Likewise, the Kaiser-Meyer Olkin index showed a new optimal sample adequacy for factor analysis, supporting the validity of the factor model used, (<xref ref-type="table" rid="t3">Table 1</xref>).</p>
+				<p>
+					<table-wrap id="t4">
+						<label>Table 1</label>
+						<caption>
+							<title>Criteria for exploratory factor analysis, 2024 (n= 303)</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: left; padding-left: 10px; width: 160px;" colspan="2">Kaiser-Meyer-Olkin sample adequacy    measure</td>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 160px;">0.850</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Bartlett    sphericity test</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Approximate chi-square</td>
+    <td style="border: 0; text-align: center;">3409.45</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">gl</td>
+    <td style="border: 0; text-align: center;">351</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Significance</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">.001</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN4">
+								<p>Source: Self-development</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>
+					<xref ref-type="table" rid="t5">Table 2</xref> shows the factor loadings of the rotated AFE matrix, where three factors were identified: Aesthetic quality (8 items), healthy foods access (4 items), and conducive environment for walking (3 items), with an explained variance of 34.7 %. Likewise, the crime safety dimension was eliminated from the AFE because the items had factor loadings below &lt; .30 and the explained variance was 5.9 %.</p>
+				<p>
+					<table-wrap id="t5">
+						<label>Table 2</label>
+						<caption>
+							<title>Factor loadings of the rotated matrix, 2024 (n=303)</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px;">Item</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 350px;">Question</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">Factor load</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Factor 1    Aesthetic quality</td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 7</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">The    houses and buildings are interesting.</td>
+    <td style="border: 0; text-align: center;">.776</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 10</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">It is    pleasant to walk around my neighborhood.</td>
+    <td style="border: 0; text-align: center;">.655</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 1</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">My    neighborhood is attractive.</td>
+    <td style="border: 0; text-align: center;">.637</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 6</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">The    houses and buildings in my neighborhood are in good condition.</td>
+    <td style="border: 0; text-align: center;">.594</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 3</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">There    are interesting things in my neighborhood.</td>
+    <td style="border: 0; text-align: center;">.516</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 16</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">The    streets in my neighborhood are in good condition.</td>
+    <td style="border: 0; text-align: center;">.473</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 20</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">My    neighborhood is crime-free.</td>
+    <td style="border: 0; text-align: center;">.438</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 11</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">There    are enough trees in my neighborhood to provide shade.</td>
+    <td style="border: 0; text-align: center;">.408</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Factor 2    Healthy foods access </td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 23</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">In my    neighborhood, they sell a wide variety of fruits and vegetables.</td>
+    <td style="border: 0; text-align: center;">.876</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 24</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">The    fruits and vegetables sold in my neighborhood are high quality.</td>
+    <td style="border: 0; text-align: center;">.751</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 22</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">In my    neighborhood, it is easy to buy fresh fruits and vegetables.</td>
+    <td style="border: 0; text-align: center;">.729</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 25</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">In my    neighborhood, it is easy to find low-fat products (milk, meats such as    chicken, beef, and fish).</td>
+    <td style="border: 0; text-align: center;">.559</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Factor 4    Conducive environment for walking</td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 15</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">The    stores are close to my house.</td>
+    <td style="border: 0; text-align: center;">.780</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 14</td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">It is    easy to walk from my neighborhood to other places.</td>
+    <td style="border: 0; text-align: center;">.439</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Item 17</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">I often    see other people walking around my neighborhood.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">.321</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN5">
+								<p>Source: Self-development</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>The AFC evaluated the structure determined from the three correlated factors, confirming the presence of three latent factors: Aesthetic quality, healthy foods access, and conducive environment for walking, (<xref ref-type="fig" rid="f2">Figure 1</xref>).</p>
+				<p>
+					<fig id="f2">
+						<label>Figure 1</label>
+						<caption>
+							<title>Neighborhood characteristics construct for cardiovascular disease, 2024 (n=303)</title>
+						</caption>
+						<graphic xlink:href="2448-6094-sanus-10-21-e560-gf2.jpg"/>
+						<attrib>Source: Self-development</attrib>
+					</fig>
+				</p>
+				<p>The ECVE construct comprised 15 items with good goodness-of-fit indexes and good reliability on the total scale of .873, (<xref ref-type="table" rid="t6">Table 3</xref>).</p>
+				<p>
+					<table-wrap id="t6">
+						<label>Table 3</label>
+						<caption>
+							<title>Factor loadings, multiple correlation square value, and goodness of fit, 2024 (n=303)</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">Latent Factor </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">Item</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;" colspan="2">Factor loading</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">R<sup>2</sup></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">α  Cronbach </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">α Cronbach   Total scale </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Aesthetic quality</td>
+    <td style="border: 0; text-align: center;" colspan="2"></td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 7</td>
+    <td style="border: 0; text-align: center;" colspan="2">1.00</td>
+    <td style="border: 0; text-align: center;">.528</td>
+    <td style="border: 0; text-align: center;">.826</td>
+    <td style="border: 0; text-align: center;">.873</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 10</td>
+    <td style="border: 0; text-align: center;" colspan="2">1.220</td>
+    <td style="border: 0; text-align: center;">.572</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 1</td>
+    <td style="border: 0; text-align: center;" colspan="2">.975</td>
+    <td style="border: 0; text-align: center;">.534</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 6</td>
+    <td style="border: 0; text-align: center;" colspan="2">.859</td>
+    <td style="border: 0; text-align: center;">.348</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 3</td>
+    <td style="border: 0; text-align: center;" colspan="2">.839</td>
+    <td style="border: 0; text-align: center;">.290</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 16</td>
+    <td style="border: 0; text-align: center;" colspan="2">.920</td>
+    <td style="border: 0; text-align: center;">.364</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 20</td>
+    <td style="border: 0; text-align: center;" colspan="2">.717</td>
+    <td style="border: 0; text-align: center;">.211</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 11</td>
+    <td style="border: 0; text-align: center;" colspan="2">.908</td>
+    <td style="border: 0; text-align: center;">.277</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="6">Healthy food access </td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 23</td>
+    <td style="border: 0; text-align: center;" colspan="2">1.00</td>
+    <td style="border: 0; text-align: center;">.872</td>
+    <td style="border: 0; text-align: center;">.898</td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 24</td>
+    <td style="border: 0; text-align: center;" colspan="2">.846</td>
+    <td style="border: 0; text-align: center;">.741</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 22</td>
+    <td style="border: 0; text-align: center;" colspan="2">.897</td>
+    <td style="border: 0; text-align: center;">.667</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 25</td>
+    <td style="border: 0; text-align: center;" colspan="2">.766</td>
+    <td style="border: 0; text-align: center;">.511</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="6">Conducive environment for walking </td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 15</td>
+    <td style="border: 0; text-align: center;" colspan="2">1.00</td>
+    <td style="border: 0; text-align: center;">.428</td>
+    <td style="border: 0; text-align: center;">.687</td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 14</td>
+    <td style="border: 0; text-align: center;" colspan="2">.884</td>
+    <td style="border: 0; text-align: center;">.321</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;">Item 17</td>
+    <td style="border: 0; text-align: center;" colspan="2">.962</td>
+    <td style="border: 0; text-align: center;">.504</td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN6">CMIN/DF</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">2.608</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN6">GFI</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.913</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN6">AGFI</xref>      </td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.880      </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN6">CFI</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.928</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN6">TLI</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.913</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN6">RMSEA</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.073</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="3"><xref ref-type="fn" rid="TFN6">SRMR</xref></td>
+    <td style="border: 0; text-align: left; padding-left: 10px;" colspan="4">.0535</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="3">p</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="4">.001</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN6">
+								<p>Source: Self-development. Note: CMIN/DF: Coefficient between the chi-square statistic and its degrees of freedom; CFI: Comparative fit index; GFI: Goodness-of-fit index; AGFI: Adjusted GFI; SRMR: Standardized residual mean square root; RSMEA: Root mean square error of approximation; p-value &lt;.001.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+			</sec>
+			<sec sec-type="discussion">
+				<title>Discussion</title>
+				<p>The objective of the study was to evaluate the psychometric properties of the ECVE in young university students. Based on the results, it was found that young university students shared similar characteristics, notably being single and having at least one first-degree relative diagnosed with a chronic disease, particularly DM2. These conclusions not only reflect a social and public health reality in Mexico, but also open the door to relevant discussions about the implications of these factors. The fact that most of the young people were single matches the demographic trends reported in Mexico by the National Institute of Statistics and Geography, which indicate that approximately more than three-quarters of people between the ages of 18 and 24 are single <sup>(37)</sup>. This situation can be explained by the focus on academic and professional training during this stage of life, where priorities tend to be geared toward personal development and preparation for the labor market, postponing decisions about marriage or starting a family <xref ref-type="bibr" rid="B38"><sup>38</sup></xref>.</p>
+				<p>Among the most significant findings of this study was the high prevalence of young people who reported having at least one immediate family member with DM2. This data is not surprising in Mexico, given that it ranks among the countries with the highest incidence of DM2 worldwide. The former data is consistent with data reported by the National Health and Nutrition Survey held in 2021 <xref ref-type="bibr" rid="B39"><sup>39</sup></xref>, which reports that 14.6 % of Mexican adults have DM2, and it is estimated that just under a third of the population had a direct family member with this disease. The high prevalence of a family history of DM2 can be explained by a strong hereditary influence, but it also reflects the transmission of habits and lifestyles that favor the onset of this disease, such as unhealthy eating and a sedentary lifestyle. Likewise, the literature points out that young people with a family history of DM2 are not only at risk of developing the disease, but also that those who grow up in environments where DM2 is common may be more aware of the associated risks and adopt healthy lifestyles <xref ref-type="bibr" rid="B40"><sup>40</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B41"><sup>41</sup></xref>.</p>
+				<p>With regard to the ECVE, it did not replicate the original structure <xref ref-type="bibr" rid="B24"><sup>24</sup></xref>, but rather a multidimensional type with three of the four original components and a total of 15 items. In turn, the validity of the construct was assessed based on the goodness-of-fit indicators obtained (CMIN/DF, GFI, CFI, RMSEA), which indicated an acceptable fit of the model and supported its adequacy. Although the SRMS value was below the cutoff point, this suggests that the differences between the observed and estimated covariance matrices are minimal <xref ref-type="bibr" rid="B42"><sup>42</sup></xref>.</p>
+				<p>The first factor, called aesthetic quality, remained unchanged. However, there were items from the other subscales that contributed to this component, such as exercise and crime safety. Several causes could have led to this phenomenon. One possibility is that safety from crime is interconnected with aesthetic quality because a well-maintained and visually appealing environment tends to provide a greater sense of security, which could explain the grouping of these items. The exercise items (items 10, 11, and 16) refer to green spaces, the state of repair of streets, and the community's perception of satisfaction with walking within their neighborhood, aspects that were closely linked to the aesthetic quality of the place <xref ref-type="bibr" rid="B43"><sup>43</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B44"><sup>44</sup></xref>. Another possible explanation for this grouping could be the extraction and rotation method used in the study, which may influence the final structure of the factors <xref ref-type="bibr" rid="B42"><sup>42</sup></xref>.</p>
+				<p>The second component, healthy food access, retained most of the original items in accordance with the proposed theoretical structure. However, two items referring to the sale of reduced-fat products did not show significant loadings. This could be explained by cultural and perception factors, since young people in college, in particular, tend to perceive these types of products as expensive and less tasty <xref ref-type="bibr" rid="B45"><sup>45</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B47"><sup>47</sup></xref>.</p>
+				<p>The last component, referred to as environment, refers to the physical space designed or adapted to promote comfortable and safe walking. Three items from the original scale were grouped together in this dimension. This could be because the items are interrelated and consider aspects such as accessibility, connectivity between areas, and the presence of people in constant motion in dynamic environments, which are key characteristics of the conducive environment for walking <sup>(48-50)</sup>.</p>
+				<p>The internal consistency of the model was acceptable (α= .873), as were the components of aesthetic quality (α= .826) and healthy food access (α= .898). However, the third component, called conducive environment for walking, had low internal consistency. Two main factors could explain this result: First, the small number of items grouped under this factor, which limits the instrument's ability to capture the construct; second, the cross-cultural origin of the instrument, developed mainly in the United States for Latino and African American populations <xref ref-type="bibr" rid="B24"><sup>24</sup></xref> whose urban context differs from Mexico's in key aspects such as pedestrian infrastructure, road safety, and urban design. These contextual differences may have affected the interpretation of the items by the population included in the study.</p>
+				<p>The results suggest that future research should adapt the conducive environment for walking component by incorporating new items that are culturally designed for the Mexican context. Likewise, variables such as pedestrian safety (lighting), pedestrian infrastructure (condition and accessibility of sidewalks, presence of obstacles), environmental factors (noise pollution), and road safety (signage and respect for pedestrians) could be considered to enrich this dimension.</p>
+				<p>This study offers a relevant tool for the prevention of CVD in young people in Mexico, although it is important to note some limitations. The research was conducted on a sample of young health science students in northern Mexico, which limits the results to other populations. Furthermore, the instrument was not culturally adapted. It is suggested that future studies include participants from different regions of the country and from different academic disciplines. It is recommended that the items in the original instrument be adapted semantically and idiomatically to ensure that they are clear, relevant, and culturally appropriate, in order to improve the internal consistency of the factors, especially those with low factor loadings.</p>
+				<p>Despite these limitations, the results obtained provide valuable preliminary data on the validation of the ECVE in young Mexican university students.</p>
+			</sec>
+			<sec sec-type="conclusions">
+				<title>Conclusions</title>
+				<p>The final version of the ECVE in Spanish revealed adequate correlations, and the validation process confirms its applicability in the study population, meeting the validity criteria for each factor. The characteristics of the neighborhoods surrounding young university students are rarely evaluated because the prevalent age for CVD is over 30 years in older populations. Therefore, a scale for evaluating the characteristics of the neighborhoods where young university students live plays a fundamental role in influencing health behaviors and exposure to cardiovascular risk factors.</p>
+				<p>This study contributes to behavioral sciences with a focus on healthy lifestyles, as it shows a psychometrically valid and abbreviated instrument that considers neighborhood characteristics as a health determinant. This determinant may influence the efficiency of measuring this phenomenon as a factor that relates to the behavior of young adult university students, considering health decisions such as healthy eating, engaging in physical activity that benefits cardiovascular health, and preventing chronic diseases.</p>
+				<p>The evidence identified in this study also contributes to science in terms of providing an empirical framework for future research in different contexts. With regard to practice, the results contribute to improving the certainty of the application of the neighborhood characteristics instrument for cardiovascular disease to guide the identification of environmental risk factors that affect cardiovascular risk based on community health needs, that is, specifically, characteristics related to the aesthetic quality of the environment or context, access and/or acquisition, as well as the consumption of healthy foods in conjunction with conducive environment for walking, which enable nursing professionals to characterize diagnoses that provide a profile of young adult university students in specific communities for timely intervention, using health policies aimed at the phenomenon studied in this research as a reference.</p>
+			</sec>
+			<sec>
+				<title>Conflict of interest</title>
+				<p>The authors declare that there are no conflicts of interest.</p>
+			</sec>
+			<sec>
+				<title>Financing</title>
+				<p>The authors declare that no financing of any kind was received.</p>
+			</sec>
+			<sec>
+				<title>Artificial intelligence</title>
+				<p>The authors declare that they have not used any type of artificial intelligence resource in any section of this manuscript.</p>
+			</sec>
+		</body>
+	</sub-article>
+</article>

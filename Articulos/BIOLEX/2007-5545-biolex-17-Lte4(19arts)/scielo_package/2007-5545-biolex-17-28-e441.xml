@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biolex</journal-id>
+			<journal-title-group>
+				<journal-title>Biolex</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-5634</issn>
+			<issn pub-type="epub">2007-5545</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36796/biolex.v17i28.441</article-id>
+			<article-id pub-id-type="other">00121</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Violencia estructural y respuesta penal ineficaz: Hacia un marco jurídico-institucional transformador frente a la trata de personas en el Perú</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Structural Violence and Ineffective Criminal Response: Towards a Transformative Legal-Institutional Framework to Combat Human Trafficking in Peru</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0009-9236-5165</contrib-id>
+					<name>
+						<surname>Huamán-Vivas</surname>
+						<given-names>Alexandra D.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-6301-9460</contrib-id>
+					<name>
+						<surname>Ramos Zaga</surname>
+						<given-names>Fernando A.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<role>Magíster en Gerencia Social</role>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Investigadora de la Universidad Privada del Norte, Perú. Correo electrónico: n00379888@upn.pe</institution>
+				<institution content-type="normalized">Universidad Privada del Norte</institution>
+				<institution content-type="orgname">Universidad Privada del Norte</institution>
+				<country country="PE">Peru</country>
+				<email>n00379888@upn.pe</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Magíster en Gerencia Social. Docente investigador de la Universidad Privada del Norte, Perú. Correo electrónico: fernandozaga@gmail.com</institution>
+				<institution content-type="normalized">Universidad Privada del Norte</institution>
+				<institution content-type="orgname">Universidad Privada del Norte</institution>
+				<country country="PE">Peru</country>
+				<email>fernandozaga@gmail.com</email>
+			</aff>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>31</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>17</volume>
+			<issue>28</issue>
+			<elocation-id>e441</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>09</day>
+					<month>11</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>20</day>
+					<month>12</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>La trata de personas, en tanto manifestación persistente de violencia estructural, interpela de forma crítica la capacidad del Estado peruano para garantizar derechos fundamentales en contextos marcados por desigualdades profundas y fragilidad institucional. El presente artículo propone una agenda jurídico-institucional transformadora orientada a la prevención, sanción y erradicación efectiva del delito, a partir de un diagnóstico crítico que evidencia una triple disfuncionalidad en la respuesta estatal: ambigüedades normativas que limitan la eficacia del tipo penal, deficiencias operativas en los sistemas de prevención y atención, e insuficiencia estructural en los mecanismos de coordinación interinstitucional. Los hallazgos muestran que, lejos de constituir un problema exclusivamente jurídico, la trata se mantiene en parte por la vigencia de un “penalismo simbólico” que oculta, tras una retórica punitiva, la inacción frente a las condiciones materiales que sostienen la explotación. A partir de estos hallazgos, se delinean tres ejes estratégicos para una intervención estatal más coherente: la especialización funcional de las instituciones competentes, el desarrollo de sistemas interoperables de información pública y la implementación de un enfoque preventivo centrado en la reducción de vulnerabilidades estructurales.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>Human trafficking, as a persistent manifestation of structural violence, critically challenges the Peruvian state's capacity to safeguard fundamental rights in contexts shaped by deep social inequalities and institutional fragility. This article proposes a transformative legal-institutional agenda aimed at the effective prevention, prosecution, and eradication of crime, based on a critical diagnosis that reveals a threefold dysfunction in the state’s response: normative ambiguities that hinder the precision of legal definitions, persistent operational deficiencies in prevention and protection systems, and structural weaknesses in interinstitutional coordination mechanisms. The findings suggest that, far from being a purely legal issue, trafficking persists in part due to the endurance of “symbolic penalism”, a punitive rhetoric that obscures state inaction toward the material conditions enabling exploitation. Drawing on this analysis, the study outlines three strategic axes for a more coherent state intervention: the functional specialization of relevant institutions, the development of interoperable public information systems, and the implementation of a preventive approach focused on reducing structural vulnerabilities.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>derechos humanos</kwd>
+				<kwd>vulnerabilidad estructural</kwd>
+				<kwd>política criminal</kwd>
+				<kwd>justicia restaurativa</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>structural violence</kwd>
+				<kwd>state capacity</kwd>
+				<kwd>institutional fragility</kwd>
+				<kwd>structural vulnerability.</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="34"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>I. Introducción</title>
+			<p>En las últimas décadas, la trata de personas ha emergido como una de las expresiones más inquietantes de la violencia estructural que atraviesa las sociedades contemporáneas. Lejos de ser un fenómeno periférico o excepcional, su persistencia configura una amenaza concreta al Estado de derecho y a la integridad de los derechos humanos, particularmente en contextos donde la institucionalidad estatal es frágil y la desigualdad social estructural. En el Perú, la trata de personas ha dejado de ser una preocupación marginal para ocupar, con creciente urgencia, el centro de la agenda pública, jurídica y política. Sin embargo, pese a los avances normativos y los compromisos internacionales suscritos por el Estado peruano, el fenómeno continúa expandiéndose en sus múltiples formas, reproduciendo una economía de explotación que afecta de manera desproporcionada a mujeres, niñas, comunidades indígenas, migrantes y personas en situación de pobreza.</p>
+			<p>En el plano teórico, la trata de personas ha sido comprendida desde distintas perspectivas, que van desde su conceptualización como &quot;esclavitud moderna&quot; <xref ref-type="fn" rid="fn1"><sup>1</sup></xref> hasta su análisis como resultado de dinámicas globales de exclusión, desplazamiento y precarización laboral<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>. En su dimensión jurídica, el fenómeno se inscribe en un entramado de normas que busca abarcar la totalidad de su complejidad mediante definiciones comprensivas, como el artículo 3 del Protocolo de Palermo<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>, que establece criterios tripartitos, acto, medio y finalidad, para delimitar el tipo penal. No obstante, tal arquitectura normativa suele chocar con contextos donde el concepto de vulnerabilidad, si bien central para entender la trata, carece aún de densidad jurídica suficiente para orientar prácticas institucionales consistentes<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>. De allí que la comprensión de la trata de personas no pueda desligarse de una mirada interdisciplinaria que articule saberes jurídicos, sociológicos y políticos para capturar su dimensión estructural y su arraigo en economías ilegales, patrones culturales patriarcales y circuitos transnacionales de explotación.</p>
+			<p>En consecuencia, el presente artículo parte de una constatación crítica: la lucha contra la trata de personas en el Perú está atravesada por una triple disfuncionalidad. Primero, por déficits normativos que dificultan una delimitación precisa y eficaz del tipo penal. Segundo, por fallas operativas persistentes en los sistemas de prevención, protección y judicialización. Y tercero, por una institucionalidad débilmente articulada, cuyas respuestas suelen carecer de sostenibilidad y coherencia intersectorial. Aunque diversas políticas públicas han sido diseñadas en las últimas dos décadas, algunas con importantes avances programáticos, la implementación efectiva de tales medidas revela una brecha significativa entre los marcos legales y las realidades institucionales. Semejante brecha limita gravemente la capacidad del Estado para intervenir de manera integral y sostenida<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>.</p>
+			<p>Frente a tal contexto, la presente investigación propone un replanteamiento integral de la arquitectura jurídico-institucional orientada a la prevención, sanción y erradicación de la trata de personas en el Perú. No se trata simplemente de perfeccionar la redacción de los tipos penales o de multiplicar protocolos de actuación, sino de construir una agenda transformadora que confronte críticamente los fundamentos estructurales del fenómeno, reconozca sus raíces en la desigualdad social y territorial, y articule las respuestas estatales bajo un enfoque de derechos humanos y sostenibilidad institucional. El objetivo es trascender el enfoque fragmentado y reactivo, para avanzar hacia una intervención coordinada, estratégica y centrada en la dignidad de las personas.</p>
+			<p>Asimismo, las implicaciones de tal propuesta son tanto normativas como prácticas. Por un lado, se busca aportar al diseño de marcos regulatorios más claros, coherentes y operativos; por otro, se pretende incidir en la transformación de las capacidades institucionales, mediante modelos de gestión articulada que respondan de forma efectiva a las dinámicas territoriales y sociales de la trata. La comprensión del delito como fenómeno estructural requiere, en consecuencia, una reformulación del rol del Estado, ya no como ente exclusivamente persecutor, sino como garante activo de derechos, con responsabilidad en la prevención de condiciones de explotación.</p>
+			<p>Por otra parte, tal planteamiento no se desarrolla en el vacío. La trata de personas se inscribe en un horizonte de desafíos contemporáneos que afectan tanto a las democracias latinoamericanas como al orden global: el avance de las economías ilegales, la desprotección frente a flujos migratorios forzados, la crisis del trabajo digno, el debilitamiento de los sistemas de justicia y la pérdida de legitimidad institucional. En tal sentido, el abordaje de la trata no puede reducirse a una respuesta sectorial o tecnocrática; debe entenderse como parte de una estrategia más amplia de fortalecimiento democrático, justicia social y defensa de los derechos fundamentales.</p>
+			<p>En ese contexto, el objetivo del presente artículo es proponer una agenda jurídico-institucional transformadora frente a la trata de personas en el Perú, mediante un análisis crítico del marco normativo, de las prácticas institucionales y de experiencias comparadas, desde un enfoque estructural e interseccional orientado a la garantía efectiva de derechos fundamentales. De ese modo, se plantea una propuesta que permita establecer mecanismos de articulación efectiva y consolidar una intervención estatal orientada al respeto irrestricto de los derechos humanos y a la erradicación sostenible del delito de trata de personas.</p>
+		</sec>
+		<sec>
+			<title>II. Diagnóstico jurídico-institucional del fenómeno de la trata en el Perú</title>
+			<p>La trata de personas, lejos de constituir una mera desviación del orden jurídico, representa una amenaza estructural al Estado de derecho y a los principios fundamentales que lo sustentan, particularmente a la dignidad humana. En su comisión convergen múltiples formas de violencia: física, psicológica, económica y simbólica, todas dirigidas contra sujetos cuya condición de vulnerabilidad no es circunstancial ni accidental, sino producida y sostenida por dinámicas estructurales de exclusión. Desde tal perspectiva, resulta pertinente afirmar que se trata de una forma contemporánea de esclavitud que reproduce, bajo nuevas formas, viejas lógicas de apropiación y cosificación de los cuerpos, especialmente aquellos marcados por el género, la raza o la condición migrante<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>.</p>
+			<p>En estrecha relación con lo anterior, la violencia que caracteriza a la trata es, en consecuencia, sistémica. Las víctimas no solo ven su libertad restringida, sino que son privadas de toda capacidad real de autodeterminación. Sus derechos, en sentido pleno, se disuelven en una existencia marcada por la explotación sostenida. Dicho proceso afecta de manera desproporcionada a mujeres, niñas, pueblos indígenas y personas desplazadas, es decir, a quienes se encuentran en una posición social y jurídicamente debilitada. La trata no es aleatoria; selecciona cuidadosamente a sus víctimas sobre la base de vulnerabilidades sociales construidas históricamente.</p>
+			<p>A partir de esta configuración, resulta indispensable examinar la evolución del concepto en el plano jurídico. El desarrollo del término ha transitado desde la obsoleta noción de &quot;trata de blancas&quot;, anclada en prejuicios raciales y sexistas, hacia una definición más integral que el Perú ha adoptado a través del artículo 129-A del Código Penal<xref ref-type="fn" rid="fn7"><sup>7</sup></xref>. Dicha definición se estructura en torno a tres elementos: acto, medio y finalidad. Sin embargo, en la práctica judicial peruana, tal estructura tripartita no siempre se traduce en una delimitación clara de los elementos del tipo penal, lo que ha generado inseguridad jurídica. La ambigüedad de términos como &quot;explotación&quot; o &quot;vulnerabilidad&quot; ha sido señalada reiteradamente por la doctrina especializada<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>, y constituye una debilidad interpretativa que no solo afecta la eficacia procesal, sino también la garantía de derechos en el ámbito penal.</p>
+			<p>En consecuencia, la naturaleza jurídica del delito revela una tensión constante entre transversalidad normativa y debilidad práctica. La trata se manifiesta en múltiples modalidades, desde la explotación sexual hasta el trabajo forzoso, pasando por el tráfico de órganos, lo que exige una articulación compleja entre normas penales, laborales, migratorias y de protección de derechos humanos. En el Perú, tal articulación permanece incompleta, dando lugar a vacíos operativos que obstaculizan la identificación de casos, la recolección de pruebas y la protección de víctimas. A pesar de los avances normativos, como la Ley N.º 28950<xref ref-type="fn" rid="fn9"><sup>9</sup></xref> y su reforma mediante la Ley N.º 31146<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>, los mecanismos institucionales siguen mostrando deficiencias en la implementación de políticas públicas, tanto por ambigüedad normativa como por falta de recursos humanos y materiales.</p>
+			<p>Bajo esa lógica, el problema no puede reducirse a una deficiente tipificación penal o a la escasa capacitación de los operadores jurídicos. Más bien, se trata de un fenómeno cuyas causas profundas deben buscarse en la propia estructura social. La trata se nutre de la persistente pobreza, la desigualdad, la informalidad laboral y la expansión de economías ilegales, en un contexto de debilidad institucional. En consecuencia, la categoría de &quot;vulnerabilidad social&quot; debería adquirir densidad jurídica y operar como una variable determinante en la elaboración de políticas públicas y decisiones judiciales. Como sostiene la literatura especializada<xref ref-type="fn" rid="fn11"><sup>11</sup></xref>, dotar de contenido normativo a tal categoría permitiría articular respuestas más coherentes y eficaces, ancladas en la realidad social de las víctimas.</p>
+			<p>En línea con lo anterior, resulta pertinente revisar críticamente la evolución del marco legal en el Perú. La normativa nacional ha experimentado una progresiva sofisticación desde 2004, iniciando con la creación del Grupo de Trabajo Multisectorial Permanente contra la Trata de Personas<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>, hasta llegar a la formulación de la Política Nacional frente a la Trata al 2030<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>. A pesar de tal evolución normativa, la implementación ha mostrado serias limitaciones. Por ejemplo, la norma establece mecanismos de acogida temporal para víctimas<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>, no ha sido aplicada de manera sostenida ni uniforme en todas las regiones del país. El marco normativo existe, pero la capacidad estatal para hacerlo operativo resulta limitada.</p>
+			<p>A partir de ello, se advierte que los desafíos no son exclusivamente legislativos. Aun cuando el marco jurídico esté alineado con estándares internacionales como el Protocolo de Palermo, ratificado por el Perú en 2002<xref ref-type="fn" rid="fn15"><sup>15</sup></xref>, la efectividad normativa se ve severamente afectada por una débil articulación interinstitucional, ausencia de presupuesto específico y falta de mecanismos de monitoreo y evaluación. Por ende, existe una desconexión entre la sofisticación formal de las normas y su eficacia material en la protección de los derechos de las víctimas.</p>
+			<p>Dicha desconexión queda evidenciada con mayor claridad al examinar los datos procesales. En 2021, de 643 procesos en trámite y 617 casos nuevos, solo se emitieron 25 sentencias condenatorias<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>. La cifra, que representa apenas el 0,1 % del total de sentenciados, confirma una disfuncionalidad estructural del sistema penal. Resulta revelador que la mayoría de las sentencias correspondan a formas agravadas del delito, lo que sugiere una priorización reactiva centrada en los casos más extremos, en detrimento de una estrategia preventiva más amplia. La baja tasa de judicialización no solo refleja deficiencias en la capacidad investigativa y probatoria, sino también una cierta selectividad institucional que tiende a invisibilizar formas más sutiles, pero igualmente lesivas, de explotación.</p>
+			<p>Ahora bien, las deficiencias no se agotan en el plano judicial. El sistema de protección a víctimas también presenta falencias estructurales. Los servicios públicos carecen de mecanismos eficaces de detección temprana, la infraestructura de acogida es insuficiente y los equipos especializados, cuando existen, operan con precariedad y sin continuidad. La norma que prevé medidas específicas de atención integral<xref ref-type="fn" rid="fn17"><sup>17</sup></xref>, no ha sido implementada de manera uniforme, lo que evidencia un desfase entre el marco legal y las condiciones reales del aparato estatal.</p>
+			<p>Por si fuera poco, la fragmentación institucional se ve agravada por la débil coordinación entre los actores involucrados. A pesar de la existencia de instancias multisectoriales como la Comisión Multisectorial de naturaleza permanente contra la trata de personas y el tráfico ilícito de migrantes<xref ref-type="fn" rid="fn18"><sup>18</sup></xref>, su funcionamiento carece de mecanismos efectivos de coordinación funcional, interoperabilidad de sistemas y liderazgo institucional. Los protocolos intersectoriales, en teoría útiles, no se traducen en prácticas articuladas. Se pone de manifiesto, así, una estructura estatal que actúa de manera reactiva, desarticulada y sin capacidad de respuesta sostenida.</p>
+			<p>En un plano más amplio, los factores estructurales que permiten la persistencia del delito son numerosos. Las redes de trata operan de manera eficaz en contextos marcados por la pobreza, la informalidad y la ausencia del Estado. Casos documentados en 2022 evidencian estrategias de captación mediante falsas ofertas laborales, acompañadas de mecanismos de coerción como la retención de documentos o el endeudamiento forzado. Dichos métodos consolidan una lógica de control sostenido sobre víctimas que, en muchos casos, ni siquiera se reconocen como tales.</p>
+			<p>Asimismo, la dimensión territorial del fenómeno introduce nuevos elementos de análisis. Las denuncias se concentran en regiones como Lima, Ayacucho, Lambayeque y Cusco, mientras otras como Ica no registran casos. Tal disparidad puede interpretarse como evidencia de subregistro y no de ausencia del delito. La expansión de economías ilegales en zonas de extracción (minería, tala, narcotráfico) ha creado corredores sin presencia estatal efectiva, donde la trata opera como una actividad económica integrada al tejido informal.</p>
+			<p>En ese contexto, la pandemia por COVID-19 agravó aún más las dinámicas ya descritas. Durante la declaración del Estado de Emergencia<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>, la operatividad judicial se redujo drásticamente, lo que debilitó aún más la capacidad de respuesta del Estado. Sin embargo, las denuncias por trata aumentaron un 43,8 % en 2021 respecto al año anterior<xref ref-type="fn" rid="fn20"><sup>20</sup></xref>. Tal paradoja revela que, en contextos de crisis, las condiciones de captación se exacerban y las modalidades de explotación se adaptan, por ejemplo, mediante medios digitales, mientras el sistema institucional se retrae. Las restricciones no solo expusieron la precariedad del aparato estatal, sino que visibilizaron la plasticidad del delito y su capacidad de mutar ante nuevas circunstancias.</p>
+			<p>En definitiva, lo que emerge de tal diagnóstico no es simplemente la constatación de un problema criminal, sino la evidencia de una estructura de exclusión jurídica que permite, tolera y, en ocasiones, reproduce la trata. La respuesta estatal, aunque formalmente activa, ha sido en gran medida simbólica, centrada en la producción normativa antes que en la articulación institucional o la transformación de condiciones estructurales. De ahí que resulte imprescindible avanzar hacia un replanteamiento profundo que, sin desestimar el componente penal, sitúe en el centro la dignidad de la persona y la garantía efectiva de derechos fundamentales. Tal esfuerzo exige, ineludiblemente, un marco teórico contemporáneo que permita comprender el fenómeno no solo en términos legales, sino también como manifestación de relaciones de poder, exclusión y vulnerabilidad.</p>
+		</sec>
+		<sec>
+			<title>III. Fundamentos teóricos para una comprensión estructural de la trata</title>
+			<p>La comprensión del fenómeno de la trata de personas exige, más allá del diagnóstico jurídico-institucional, una aproximación teórica que permita desentrañar las lógicas profundas que sostienen su persistencia. No se trata únicamente de identificar vacíos normativos o fallas operativas, aunque ambas dimensiones son cruciales, sino de interrogar el tipo de racionalidad que estructura las respuestas institucionales frente al delito. En consecuencia, el marco conceptual que se despliega a continuación no solo problematiza la eficacia simbólica del castigo, sino que también evidencia las formas en que el derecho penal y el aparato estatal pueden, involuntariamente, reproducir las condiciones que dicen combatir.</p>
+			<p>Al estudiar la evolución del castigo en las democracias contemporáneas, se advierte un tránsito hacia una &quot;cultura del control&quot;, donde el enfoque penal ya no apunta a la transformación social ni a la rehabilitación, sino a la contención de riesgos percibidos<xref ref-type="fn" rid="fn21"><sup>21</sup></xref>. Bajo semejante giro, la ley penal asume un rol predominantemente simbólico, convirtiéndose en vehículo de respuestas ritualizadas dirigidas más a tranquilizar a la opinión pública que a modificar las estructuras que permiten la producción del delito. Desde tal óptica, el &quot;penalismo simbólico&quot; se configura como una estrategia institucional que opera con severidad retórica, pero con débil impacto estructural.</p>
+			<p>La experiencia peruana ofrece ejemplos reveladores de dicha dinámica. La trata de personas ha sido severamente tipificada en el artículo 129-A del Código Penal<xref ref-type="fn" rid="fn22"><sup>22</sup></xref>, con una estructura normativa que recoge los lineamientos del Protocolo de Palermo. Las penas son elevadas, y el marco normativo es, en apariencia, robusto. Sin embargo, los niveles de judicialización y condena continúan siendo alarmantemente bajos. Semejante disociación entre la densidad normativa y su aplicación práctica permite suponer que la respuesta estatal cumple una función principalmente simbólica: reafirma el rechazo social al delito, pero sin afectar las condiciones estructurales que lo generan ni garantizar reparación efectiva a las víctimas.</p>
+			<p>En efecto, el castigo penal, sin una estrategia integral de prevención, genera una ilusión de control que desvía la atención de las causas reales del fenómeno<xref ref-type="fn" rid="fn23"><sup>23</sup></xref>. La ley penal, carente de operatividad institucional y sin articulación intersectorial, se transforma en un gesto vacío. Tal lógica, que podría denominarse de neutralización simbólica del conflicto, impide que las respuestas estatales aborden la trata desde una comprensión de sus raíces sociales y económicas.</p>
+			<p>Ahora bien, incluso antes de que el castigo se imponga, o fracase, cabe preguntarse cómo se construye socialmente la figura del &quot;otro tratable&quot;, es decir, de aquel que puede ser reducido como objeto de explotación sin que se active una alarma social inmediata. En la modernidad tardía, se produce una criminalización selectiva del &quot;otro&quot; vulnerable, convertido en sujeto desechable, racializado, empobrecido y, en muchos casos, sexualizado<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>. La víctima de trata, lejos de ser concebida como sujeto pleno de derechos, aparece muchas veces como un cuerpo marcado por la alteridad, lo que facilita su instrumentalización. Dicha lógica de exclusión se apoya en jerarquías sociales preexistentes, reforzadas por representaciones institucionales que legitiman la intervención estatal cuando el otro ya ha sido despojado de agencia jurídica.</p>
+			<p>En sintonía con tal lectura, resulta pertinente advertir que la marginalidad contemporánea no es producto del descuido, sino de procesos específicos de guetización, penalización de la pobreza y precarización del trabajo<xref ref-type="fn" rid="fn25"><sup>25</sup></xref>. En el contexto peruano, no resulta difícil encontrar correlatos de tal tesis. La expansión de economías ilegales en regiones sin presencia estatal, la informalidad laboral generalizada, y la migración forzada por razones climáticas o económicas, constituyen factores estructurales que incrementan el riesgo de captación. La desigualdad territorial, étnica y de género se traduce en una exposición diferencial a la trata, lo que a su vez reproduce desigualdades jurídicas.</p>
+			<p>Por consiguiente, el derecho penal, en lugar de corregir tales asimetrías, tiende a reforzarlas. La selectividad estructural del sistema penal implica que no todos los delitos se persiguen con igual intensidad, ni todos los sujetos se encuentran igualmente protegidos<xref ref-type="fn" rid="fn26"><sup>26</sup></xref>. En el Perú, las falencias institucionales en detección temprana, protección y reparación de víctimas, ya advertidas en el diagnóstico previo, no pueden interpretarse solo como deficiencias técnicas: constituyen, en sí mismas, una manifestación de exclusión jurídica. Cuando el Estado falla sistemáticamente en brindar protección efectiva a determinados grupos, contribuye a la reproducción de su marginalización.</p>
+			<p>Frente a tal realidad, algunas aproximaciones teóricas han propuesto abandonar la mirada exclusivamente penal para adoptar enfoques centrados en el desarrollo humano y la justicia social. El desarrollo entendido como ampliación de libertades reales ofrece una herramienta conceptual particularmente útil<xref ref-type="fn" rid="fn27"><sup>27</sup></xref>. Bajo semejante óptica, la trata de personas se manifiesta como una negación radical de agencia, pues reduce a los individuos a simples instrumentos de explotación. La pérdida de libertad no es solo física, sino existencial: se les priva de la capacidad de tomar decisiones significativas sobre sus vidas.</p>
+			<p>Asimismo, la noción de &quot;vulnerabilidad estructural&quot; permite complementar tal perspectiva<xref ref-type="fn" rid="fn28"><sup>28</sup></xref>. A diferencia de la vulnerabilidad situacional, que remite a contingencias específicas, la vulnerabilidad estructural está anclada en condiciones materiales, históricas y sociales. La trata, al operar sobre desigualdades de género, pobreza e informalidad, se aprovecha precisamente de tales estructuras. Incorporar dicha noción como eje normativo obliga al Estado a repensar sus políticas de prevención, no como medidas reactivas, sino como intervenciones transformadoras que incidan en la matriz social de riesgo.</p>
+			<p>En esa misma línea argumentativa, cabe señalar que el Estado tiene una obligación ética y política de garantizar las condiciones mínimas para el desarrollo de capacidades humanas<xref ref-type="fn" rid="fn29"><sup>29</sup></xref>. Si entendemos que la trata vulnera esas capacidades de forma integral, económica, emocional, corporal, las falencias estatales en prevención y protección no pueden considerarse meros errores administrativos. Son, más bien, violaciones indirectas de derechos fundamentales, que deben ser enfrentadas con igual seriedad que las transgresiones cometidas por actores privados.</p>
+			<p>Ahora bien, ningún marco teórico estaría completo sin una crítica al modo en que el derecho, como tecnología del poder, contribuye a configurar y mantener relaciones de dominación. La supuesta neutralidad del derecho ha sido cuestionada al evidenciar cómo sus categorías formales reproducen jerarquías patriarcales<xref ref-type="fn" rid="fn30"><sup>30</sup></xref>. En el caso de la trata, tal crítica resulta especialmente pertinente. El enfoque normativo dominante tiende a centrarse en los elementos objetivos del tipo penal, acto, medio, finalidad, lo que invisibiliza las dinámicas relacionales de coerción, muchas veces ancladas en la dependencia emocional, la subordinación económica o la pertenencia a entornos laborales informales. Tales formas de coacción estructural, aunque menos visibles que la violencia física o el engaño explícito, son igualmente determinantes en la captación y retención de víctimas.</p>
+			<p>En consecuencia, la legislación penal peruana, en particular el artículo 129-A del Código Penal<xref ref-type="fn" rid="fn31"><sup>31</sup></xref> y la Ley contra la trata de personas y el tráfico ilícito de migrantes<xref ref-type="fn" rid="fn32"><sup>32</sup></xref>, reconoce ciertas formas agravadas del delito, pero no incorpora explícitamente un enfoque interseccional. La crítica feminista ha insistido en que el género no debe tratarse como un simple agravante, sino como una categoría estructurante del delito y de la respuesta institucional<xref ref-type="fn" rid="fn33"><sup>33</sup></xref>. Ignorar la interseccionalidad, vale decir, la forma en que el género se cruza con otras variables como raza, clase y migración, implica seguir produciendo respuestas incompletas, que no logran capturar la complejidad real del fenómeno.</p>
+			<p>Además, el derecho penal, con su énfasis en los medios comisivos, omite con frecuencia formas naturalizadas de coerción. Relaciones que operan bajo lógicas de dominación sutil, como el chantaje afectivo, la dependencia material o la manipulación simbólica, quedan fuera del radar normativo. Tal omisión no es neutra: contribuye a invisibilizar una parte sustancial de las condiciones que permiten la trata, reforzando así la ilusión de que la ley sanciona todo lo que debe ser sancionado. En realidad, lo que ocurre es que ciertos contextos de dominación quedan excluidos de la mirada jurídica, porque no encajan en sus moldes tradicionales.</p>
+			<p>Lo expuesto hasta aquí revela que el enfoque penal actualmente vigente, aunque normativamente desarrollado, resulta epistemológicamente limitado. Frente a un fenómeno como la trata de personas, que se arraiga en estructuras de exclusión y desigualdad, las categorías del derecho penal resultan insuficientes, tanto para la comprensión como para la intervención. De allí que, si queremos avanzar hacia una agenda verdaderamente transformadora, sea necesario contrastar tales hallazgos teóricos con experiencias comparadas, que permitan identificar las condiciones institucionales, normativas y sociales que hacen posible una respuesta más eficaz y justa. Tal será, necesariamente, nuestra siguiente tarea.</p>
+		</sec>
+		<sec>
+			<title>IV. Análisis comparativo estructurado</title>
+			<p>La comprensión de los marcos normativos y operativos en torno a la trata de personas no puede limitarse a una lectura introspectiva del caso peruano. Resulta esencial contrastar dicha experiencia con sistemas jurídicos comparables que hayan logrado implementar modelos de intervención más articulados y sostenibles. No con la intención de replicar mecánicamente lo externo, sino con la finalidad de identificar principios normativos, diseños institucionales y prácticas operativas que hayan demostrado una mayor eficacia en contextos igualmente complejos y desiguales.</p>
+			<p>Colombia, por ejemplo, ofrece un modelo particularmente instructivo. La Ley 985 de 2005<xref ref-type="fn" rid="fn34"><sup>34</sup></xref> no se limita a sancionar penalmente el delito de trata, sino que articula una respuesta integral que abarca prevención, persecución penal y, especialmente, la reparación de víctimas. En tal contexto, ha cobrado importancia la aplicación de enfoques de justicia restaurativa, que buscan situar a la víctima en el centro del proceso, no solo como objeto de tutela, sino como sujeto activo cuya dignidad y autonomía deben ser restablecidas<xref ref-type="fn" rid="fn35"><sup>35</sup></xref>. Semejante estrategia se ve reforzada institucionalmente a través del Comité Interinstitucional para la Lucha contra la Trata de Personas, que ha permitido una coordinación tanto vertical como horizontal entre los distintos niveles de gobierno y sectores estatales. La coherencia entre norma, política pública y sistema de atención no es automática, pero sí ha sido sostenida por una voluntad institucional expresa y por una estructura operativa que va más allá del formalismo declarativo.</p>
+			<p>Argentina, por su parte, ha destacado por la utilización del litigio estratégico como herramienta para la generación de doctrina jurisprudencial y visibilización de casos paradigmáticos. A partir de la actuación del Ministerio Público Fiscal, se han impulsado procesos que no solo buscan castigar, sino también construir precedentes que transformen el entendimiento jurídico del fenómeno. La legislación argentina, además, incorpora explícitamente el enfoque de género, reconociendo el impacto diferencial de la trata sobre mujeres y niñas. Tal confluencia entre marcos normativos claros, jurisprudencia progresiva y práctica fiscal activa ha generado un ecosistema normativo dinámico, aunque no exento de tensiones<xref ref-type="fn" rid="fn36"><sup>36</sup></xref>.</p>
+			<p>Ahora bien, el caso de México introduce una variable adicional: la complejidad del federalismo. Si bien se han producido avances significativos en sede judicial, como la Ley General de Víctimas<xref ref-type="fn" rid="fn37"><sup>37</sup></xref> que reconoce el derecho a la reparación integral, el diseño institucional ha estado marcado por una profunda disparidad entre los estados federativos. Semejante fragmentación normativa y operativa ha debilitado la capacidad de acción central, generando una geografía desigual de acceso a derechos. El contraste entre buenas prácticas judiciales a nivel federal y la debilidad institucional subnacional evidencia los límites de una política pública sin articulación efectiva en contextos federativos<xref ref-type="fn" rid="fn38"><sup>38</sup></xref>. En consecuencia, el caso mexicano invita a considerar la necesidad de mecanismos federativos robustos y homogéneos para asegurar estándares mínimos de protección.</p>
+			<p>Tales modelos no pueden ser comprendidos fuera de sus contextos. Las variaciones en la eficacia de las políticas públicas contra la trata no responden únicamente a la calidad de la legislación, sino a factores estructurales que condicionan su implementación. Uno de ellos es la capacidad institucional del Estado, entendida en términos de recursos, infraestructura y profesionalización. Los países que han desarrollado mayor capacidad estatal tienden a sostener reformas complejas en el tiempo<xref ref-type="fn" rid="fn39"><sup>39</sup></xref>. En el Perú, en cambio, la ausencia de personal especializado y la falta de financiamiento sostenido han impedido que las reformas normativas alcancen efectividad práctica.</p>
+			<p>Asimismo, la participación de la sociedad civil es otro elemento determinante. Las redes de activismo transnacional pueden ejercer una presión significativa sobre los Estados, promoviendo cambios institucionales<xref ref-type="fn" rid="fn40"><sup>40</sup></xref>. En Argentina, las organizaciones de la sociedad civil no solo han acompañado a las víctimas, sino que han sido actoras clave en la formulación de políticas, en el seguimiento de casos judiciales y en la evaluación del desempeño estatal. En el Perú, sin embargo, la articulación entre Estado y sociedad civil sigue siendo frágil y, en muchos casos, instrumental. La falta de espacios formales de participación impide que las experiencias vividas por las víctimas retroalimenten el diseño normativo. A ello se suma una cultura jurídica predominantemente formalista, que resiste interpretaciones evolutivas o contextuales de los tipos penales.</p>
+			<p>Por otra parte, el contexto territorial, étnico y socioeconómico también condiciona la exposición al delito. Las zonas fronterizas, los territorios indígenas y las regiones con altos niveles de informalidad configuran entornos donde el riesgo de captación se multiplica<xref ref-type="fn" rid="fn41"><sup>41</sup></xref>. En el Perú, departamentos como Madre de Dios y Puno presentan condiciones estructurales que propician la trata, pero carecen de una presencia estatal efectiva y sostenida<xref ref-type="fn" rid="fn42"><sup>42</sup></xref>. En contraste, Colombia ha avanzado en el desarrollo de estrategias territoriales diferenciadas, adaptando la intervención estatal a las especificidades culturales y geográficas de cada región, mediante la Jurisdicción Especial para la Paz (JEP). La desigualdad espacial no solo agrava la exposición al delito, sino que debilita la capacidad del Estado para ofrecer respuestas homogéneas y eficaces.</p>
+			<p>Más allá del análisis contextual, existen variables institucionales independientes que permiten explicar el mayor o menor éxito de las políticas públicas. La primera de ellas es la intersectorialidad efectiva. La experiencia comparada demuestra que no basta con crear comisiones multisectoriales. Lo determinante es que cuenten con atribuciones reales, recursos asignados y mecanismos de evaluación. En Argentina, el Consejo Federal para la Lucha contra la Trata y Explotación de Personas opera con autonomía funcional y ha contribuido a mejorar la coordinación entre niveles de gobierno. El caso peruano, en cambio, se caracteriza por una institucionalidad dispersa y sin liderazgo claro. En efecto, la gobernanza intersectorial requiere no solo estructuras formales, sino procesos funcionales que garanticen resultados, más allá de los discursos programáticos<xref ref-type="fn" rid="fn43"><sup>43</sup></xref>.</p>
+			<p>La segunda variable crítica es la dotación presupuestaria y la formación especializada de los operadores del sistema. La creación de unidades fiscales especializadas, como ocurre en Colombia y Argentina, ha permitido acumular experiencia, generar protocolos diferenciados y articular redes de apoyo institucional. En el Perú, por el contrario, persiste la escasez de personal técnico capacitado, así como la inestabilidad de los equipos multidisciplinarios. Tal situación impide construir una respuesta institucional robusta y sostenida. La presencia normativa, por sí sola, no produce eficacia si no va acompañada de capacidad operativa<xref ref-type="fn" rid="fn44"><sup>44</sup></xref>.</p>
+			<p>Adicionalmente, la existencia de sistemas de información interoperables ha demostrado ser un factor clave para la evaluación y el ajuste de las políticas públicas. Plataformas como el Sistema Nacional de Información de Trata de Personas (SNITP) en Colombia o el Sistema Integrado Federal de Información Criminal del Delito de Trata de Personas (SISTRATA) en Argentina permiten consolidar datos, monitorear casos y generar evidencia empírica para la toma de decisiones. En el Perú, la ausencia de un sistema nacional integrado de información impide una comprensión cabal del fenómeno y, por ende, dificulta tanto la planificación como la evaluación de políticas. Cabe advertir que la interoperabilidad no es simplemente un problema técnico, sino una condición funcional para una gobernanza basada en evidencia<xref ref-type="fn" rid="fn45"><sup>45</sup></xref>.</p>
+			<p>La comparación entre los modelos regionales no pretende establecer jerarquías simplistas, sino poner en evidencia que la eficacia institucional en la lucha contra la trata depende menos de la cantidad de normas promulgadas y más de la calidad de su implementación. La articulación intersectorial, la presencia territorial diferenciada, la participación social efectiva y la capacidad de generar y usar información son elementos que, combinados, configuran entornos más propicios para una respuesta estatal que no sea meramente simbólica. A partir de tales aprendizajes, y del marco teórico previamente desarrollado, se hace posible diseñar una propuesta jurídico-institucional transformadora, centrada en la superación de respuestas fragmentadas y orientada a una intervención estatal que, por fin, asuma la dignidad humana no como consigna, sino como principio operativo.</p>
+		</sec>
+		<sec>
+			<title>V. Propuesta de agenda jurídico-institucional transformadora</title>
+			<p>Una propuesta de reforma jurídico-institucional que pretenda responder de manera transformadora al fenómeno de la trata de personas en el Perú debe nacer del reconocimiento explícito de sus causas estructurales, así como de las limitaciones materiales e ideológicas que hoy configuran la intervención estatal. La experiencia comparada, los desarrollos teóricos recientes y, sobre todo, la persistente ineficacia de las políticas actuales revela la necesidad de repensar no solo el contenido de las normas, sino los marcos conceptuales que las sustentan. En tal sentido, los principios rectores que orientan la propuesta no son meros enunciados técnicos; constituyen postulados normativos y ético-políticos que buscan dotar de coherencia interna y densidad operativa a un nuevo paradigma de acción pública.</p>
+			<p>El primero de tales principios se articula en torno a la idea del desarrollo como ampliación de libertades reales, enriquecida desde la noción de capacidades humanas fundamentales<xref ref-type="fn" rid="fn46"><sup>46</sup></xref>. La trata, entendida desde tal perspectiva, no solo implica una violación penal, sino una negación radical de agencia. Las víctimas, al ser captadas, trasladadas y explotadas, ven anuladas sus posibilidades de autodeterminación, su inserción comunitaria y su dignidad existencial. En consecuencia, el deber estatal no se agota en sancionar a los perpetradores, sino que se extiende a crear condiciones sociales, jurídicas y económicas que dificulten estructuralmente la posibilidad de que la trata ocurra. La prevención, en tal sentido, deja de ser reactiva para convertirse en estrategia de justicia distributiva.</p>
+			<p>Semejante enfoque se enriquece al incorporar una lectura interseccional del género como categoría analítica y política. La crítica a los marcos normativos que invisibilizan las múltiples capas de vulnerabilidad no ha perdido vigencia<xref ref-type="fn" rid="fn47"><sup>47</sup></xref>. La trata no afecta a todas las personas por igual; su patrón selectivo revela una sistemática orientación hacia mujeres, niñas, migrantes e indígenas en situación de pobreza. Tales condiciones no son accesorios biográficos, sino factores estructurales que deben ser reconocidos explícitamente por el diseño institucional. Transversalizar la perspectiva de género significa, en términos prácticos, reformular los contenidos de la política penal, los protocolos de atención a víctimas y los mecanismos de reparación, de manera que respondan a dicha complejidad.</p>
+			<p>Asimismo, el tercer principio rector se vincula al acceso a la justicia como condición constitutiva de ciudadanía. Si se acepta que la efectividad de los derechos depende de su garantía institucional<xref ref-type="fn" rid="fn48"><sup>48</sup></xref>, entonces debe admitirse que gran parte de las víctimas de trata en el Perú no han sido, ni se han sentido, ciudadanas plenas. La dificultad para acceder a asesoría jurídica, la revictimización durante el proceso penal y la ausencia de medidas de reparación adecuadas no solo afectan la eficacia judicial, sino que erosionan la legitimidad del propio Estado. En tal marco, se subraya que las instituciones justas deben asegurar que los individuos puedan ejercer sus derechos básicos con igual dignidad<xref ref-type="fn" rid="fn49"><sup>49</sup></xref>. Fortalecer la cadena penal significa mucho más que aumentar penas: implica diseñar un sistema de justicia sensible, accesible y restaurativo, donde la víctima deje de ser un objeto procesal para convertirse en sujeto activo de derechos.</p>
+			<p>Por otra parte, una propuesta transformadora exige coherencia entre el nivel normativo, el diseño institucional y la realidad territorial. La fragmentación del aparato estatal y la desigual distribución de capacidades institucionales en el territorio nacional han generado respuestas desarticuladas, ineficaces y profundamente desiguales. La gobernanza multinivel no puede entenderse como una simple descentralización funcional, sino como un modelo articulado en torno a funciones claras, interoperabilidad de sistemas y asignación sostenida de recursos<xref ref-type="fn" rid="fn50"><sup>50</sup></xref>. En el caso peruano, tal arquitectura aún está pendiente de construcción.</p>
+			<p>A partir de tales principios, se delinean tres bloques de estrategias prioritarias, cada uno orientado a abordar dimensiones críticas del problema. En el primero, se plantea cerrar las brechas institucionales más urgentes. Crear unidades fiscales y judiciales especializadas, dotadas de protocolos diferenciados y capacidad probatoria ajustada a la especificidad del delito, no es una recomendación técnica más, sino una condición de posibilidad para garantizar justicia<xref ref-type="fn" rid="fn51"><sup>51</sup></xref>. Dicha especialización debe ir acompañada de una articulación efectiva con la Policía Nacional y de sistemas de protección de testigos que aseguren la continuidad del proceso. Paralelamente, resulta inaplazable implementar de manera efectiva la norma<xref ref-type="fn" rid="fn52"><sup>52</sup></xref> que permita desarrollar una red nacional de albergues seguros con enfoque interseccional y atención multidisciplinaria estable. En la misma línea, incorporar formación obligatoria en detección de trata en sectores clave como salud, educación y transporte no solo responde a estándares internacionales de diligencia debida, sino que constituye una herramienta concreta de prevención temprana.</p>
+			<p>En segundo lugar, el conjunto de estrategias se orienta al fortalecimiento de la coordinación estatal y a la sostenibilidad institucional de la política contra la trata. La reformulación de la Política Nacional frente a la Trata de Personas y sus formas de explotación<xref ref-type="fn" rid="fn53"><sup>53</sup></xref> debe realizarse bajo criterios verificables, con indicadores específicos, mecanismos de monitoreo y auditoría, los cuales no pueden ser entendidos como ejercicio burocrático, sino como herramienta estratégica de gestión pública. A ello debe sumarse la creación de una plataforma interoperable nacional que consolide información judicial, policial y social. Sin datos integrados, no hay evaluación ni mejora posible. Igualmente, se propone institucionalizar espacios de contraloría ciudadana, con participación activa de organizaciones de víctimas y redes de incidencia, siguiendo la lógica del control democrático horizontal<xref ref-type="fn" rid="fn54"><sup>54</sup></xref>. Incluir a la sociedad civil en el ciclo de políticas públicas no es un gesto simbólico, sino un acto de democratización real.</p>
+			<p>El tercer eje apunta a construir un enfoque estructural de prevención. Ello implica una política pública orientada explícitamente a reducir las condiciones de vulnerabilidad que permiten la trata. Mujeres jóvenes, poblaciones migrantes, personas indígenas y comunidades en zonas de extracción ilegal deben ser priorizadas en estrategias de inclusión educativa, regularización documental, acceso al empleo formal y protección frente a economías criminales. La noción de &quot;vulnerabilidad estructurada&quot; permite enmarcar tales acciones no como asistencialismo, sino como justicia social<xref ref-type="fn" rid="fn55"><sup>55</sup></xref>. En tal mismo sentido, se propone una reforma del paradigma penal que incluya elementos de justicia restaurativa, como mecanismos de reparación simbólica y material, encuentros entre víctima y victimario, y participación activa de la comunidad<xref ref-type="fn" rid="fn56"><sup>56</sup></xref>. La justicia retributiva, por sí sola, resulta insuficiente. Cabe advertir que el castigo pierde legitimidad cuando no genera transformación<xref ref-type="fn" rid="fn57"><sup>57</sup></xref>.</p>
+			<p>En coherencia con el enfoque histórico y estructural que guía tal agenda, se propone una medida que reconoce la profundidad del daño sufrido: la creación de una comisión de verdad institucional sobre víctimas invisibilizadas de trata. Inspirada en los mecanismos de justicia transicional, dicha instancia permitiría documentar violaciones sistemáticas, garantizar el derecho a la verdad y activar una reparación con vocación de no repetición<xref ref-type="fn" rid="fn58"><sup>58</sup></xref>. Tal propuesta no pretende equiparar la trata con conflictos armados, pero sí reconocer que su lógica de sometimiento estructural ha dejado cicatrices que no pueden abordarse con medidas ordinarias.</p>
+			<p>Así concebida, la agenda no aspira únicamente a erradicar la trata de personas como práctica criminal, sino a desmantelar las condiciones que la hacen posible. Su ambición es doble: técnica, porque articula mecanismos concretos, y política, porque se inscribe en una visión del Estado como garante activo de la dignidad humana. No es, ciertamente, un camino sencillo. Pero sí uno necesario si se desea transitar de respuestas fragmentadas y reactivas hacia una política pública verdaderamente transformadora.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>VI. Conclusiones</title>
+			<p>A lo largo del presente estudio, ha quedado en evidencia que el abordaje institucional de la trata de personas en el Perú adolece de una visión reduccionista que, aunque bien intencionada, resulta insuficiente. Lejos de constituirse como una respuesta transformadora, la acción estatal tiende a limitarse a dispositivos punitivos que, sin cuestionar las bases estructurales de la vulnerabilidad, reproducen un orden que tolera y encubre prácticas de explotación. Esta constatación no niega los avances normativos alcanzados, sino que subraya su escasa articulación con las realidades sociales que pretenden transformar. En este sentido, la investigación invita a desplazar el foco desde el control del delito hacia la comprensión compleja de sus condiciones de posibilidad.</p>
+			<p>El principal aporte conceptual del trabajo radica en la formulación de una categoría operativa de “intersectorialidad efectiva”, que permite superar la noción abstracta de coordinación institucional. A través del contraste con marcos regionales, se evidenció que muchas políticas públicas se organizan bajo la apariencia de cooperación interinstitucional, sin que exista una integración real de competencias, tiempos y objetivos. La propuesta aquí delineada busca ofrecer un marco analítico más exigente para evaluar las capacidades del Estado, no solo en términos de su estructura legal, sino de su disposición práctica para operar de manera sinérgica en escenarios marcados por la fragmentación y la ambigüedad normativa.</p>
+			<p>El análisis normativo ha revelado un déficit significativo en la forma en que el derecho penal tipifica la trata de personas, especialmente al subsumir elementos de género o etnicidad como agravantes circunstanciales en lugar de reconocerlos como dimensiones constitutivas del fenómeno. Esta omisión no es menor: al invisibilizar los patrones de poder que sustentan la explotación, se limita la capacidad del derecho para responder con justicia a las experiencias específicas de las víctimas. Por ello, se propone una relectura de la tipificación penal desde una lógica interseccional que, al mismo tiempo, fortalezca las políticas de prevención con una base social más sólida. Esto incluye intervenciones multisectoriales que no se agoten en campañas simbólicas, sino que apunten a erradicar las condiciones de exclusión que permiten que la trata se inserte como una estrategia de sobrevivencia para los más vulnerables.</p>
+			<p>Las lagunas identificadas en el conocimiento institucional y académico sobre la trata de personas exigen un compromiso con nuevas formas de investigación empírica, particularmente aquellas que prioricen la voz de las víctimas. La escasa atención prestada a sus trayectorias vitales después del rescate limita nuestra comprensión de lo que constituye una recuperación efectiva. Proponemos, en este sentido, una agenda investigativa que incorpore metodologías longitudinales y participativas, capaces de revelar los efectos a largo plazo de las políticas públicas. Asimismo, se vuelve urgente reconfigurar los criterios de evaluación de impacto hacia indicadores que reflejen transformaciones estructurales: disminución de la vulnerabilidad, acceso a recursos y confianza institucional. Solo así es posible medir no cuánto hace el Estado, sino cuánto transforma.</p>
+			<p>El fenómeno de la trata interpela de manera directa el modelo de ciudadanía vigente. En contextos como el peruano, donde vastos sectores de la población se encuentran excluidos de derechos básicos, combatir la trata exige imaginar un horizonte político que desborde las respuestas penales para centrarse en la dignificación de las vidas, lo cual no implica relativizar la importancia de la sanción, sino reconocer que su efectividad depende de un entorno institucional que afirme, en lo cotidiano, el valor de todas las personas. La erradicación de la trata, por tanto, no puede limitarse a una mejora técnica; requiere una voluntad política sostenida que apueste por un proyecto de sociedad donde la explotación pierda toda viabilidad estructural. Esta visión no es utópica: es, en rigor, una condición mínima de justicia.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>VII. Referencias bibliográficas</title>
+			<ref id="B1">
+				<mixed-citation>Bales, Kevin. <italic>Ending Slavery: How We Free Today's Slaves</italic>. Berkeley, Calif.: University of California Press, 2007.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bales</surname>
+							<given-names>Kevin</given-names>
+						</name>
+					</person-group>
+					<source>Ending Slavery: How We Free Today's Slaves</source>
+					<publisher-loc>Berkeley, Calif</publisher-loc>
+					<publisher-name>University of California Press</publisher-name>
+					<year>2007</year>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Bouckaert, Geert y Guy B. Peters, “What is available and what is missing in the study of quangos?”, en <italic>Unbundled Government</italic>, 45-67. Routledge, 2004.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bouckaert</surname>
+							<given-names>Geert</given-names>
+						</name>
+						<name>
+							<surname>Guy</surname>
+							<given-names>B. Peters</given-names>
+						</name>
+					</person-group>
+					<chapter-title>What is available and what is missing in the study of quangos?</chapter-title>
+					<source>Unbundled Government</source>
+					<fpage>45</fpage>
+					<lpage>67</lpage>
+					<publisher-name>Routledge</publisher-name>
+					<year>2004</year>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Cadario, Florencia, Florencia Fantin y Mariana Jacques, “La trata de personas con fines de explotación sexual en el contexto de pandemia: un análisis institucional desde el Mercosur y la Argentina”. <italic>Nueva Serie Documentos de Trabajo</italic>, <italic>26</italic> (<italic>2021</italic>), 1-35. <ext-link ext-link-type="uri" xlink:href="http://sedici.unlp.edu.ar/handle/10915/118179">http://sedici.unlp.edu.ar/handle/10915/118179</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cadario</surname>
+							<given-names>Florencia</given-names>
+						</name>
+						<name>
+							<surname>Fantin</surname>
+							<given-names>Florencia</given-names>
+						</name>
+						<name>
+							<surname>Jacques</surname>
+							<given-names>Mariana</given-names>
+						</name>
+					</person-group>
+					<article-title>La trata de personas con fines de explotación sexual en el contexto de pandemia: un análisis institucional desde el Mercosur y la Argentina</article-title>
+					<source>Nueva Serie Documentos de Trabajo</source>
+					<volume>26</volume>
+					<year>2021</year>
+					<fpage>1</fpage>
+					<lpage>35</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://sedici.unlp.edu.ar/handle/10915/118179">http://sedici.unlp.edu.ar/handle/10915/118179</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Ceballos, Marcela y Gerardo Ardila, “The Colombia-Ecuador Border Region: Between Informal Dynamics and Illegal Practices”. <italic>Journal of Borderlands Studies</italic>, <italic>30</italic>
+ <italic>, núm.</italic> 4 (<italic>octubre de 2015</italic>), 519-535. https://doi.org/10.1080/08865655.2016.1179208</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ceballos</surname>
+							<given-names>Marcela</given-names>
+						</name>
+						<name>
+							<surname>Ardila</surname>
+							<given-names>Gerardo</given-names>
+						</name>
+					</person-group>
+					<article-title>The Colombia-Ecuador Border Region: Between Informal Dynamics and Illegal Practices</article-title>
+					<source>Journal of Borderlands Studies</source>
+					<volume>30</volume>
+					<issue>4</issue>
+					<month>10</month>
+					<year>2015</year>
+					<fpage>519</fpage>
+					<lpage>535</lpage>
+					<pub-id pub-id-type="doi">10.1080/08865655.2016.1179208</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Centeno, Miguel. <italic>Blood and Debt: War and the Nation-State in Latin America</italic>. Penn State University Press, 2003.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Centeno</surname>
+							<given-names>Miguel</given-names>
+						</name>
+					</person-group>
+					<source>Blood and Debt: War and the Nation-State in Latin America</source>
+					<publisher-name>Penn State University Press</publisher-name>
+					<year>2003</year>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Christie, Nils, “Conflicts as Property”. <italic>The British Journal of Criminology</italic>, <italic>17</italic>
+ <italic>, núm.</italic> 1 (<italic>enero de 1977</italic>), 1-15. https://doi.org/10.1093/oxfordjournals.bjc.a046783</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Christie</surname>
+							<given-names>Nils</given-names>
+						</name>
+					</person-group>
+					<article-title>Conflicts as Property</article-title>
+					<source>The British Journal of Criminology</source>
+					<volume>17</volume>
+					<issue>1</issue>
+					<month>01</month>
+					<year>1977</year>
+					<fpage>1</fpage>
+					<lpage>15</lpage>
+					<pub-id pub-id-type="doi">10.1093/oxfordjournals.bjc.a046783</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>CHS Alternativo. <italic>VIII informe alternativo, balance de la sociedad civil sobre la situación de la trata de personas en el Perú 2020-2021</italic>. Lima, 2022. <ext-link ext-link-type="uri" xlink:href="https://chsalternativo.org/publicaciones/viii-informe-alternativo-balance-de-la-sociedad-civil-sobre-la-situacion-de-la-trata-de-personas-en-el-peru-2020-2021/">https://chsalternativo.org/publicaciones/viii-informe-alternativo-balance-de-la-sociedad-civil-sobre-la-situacion-de-la-trata-de-personas-en-el-peru-2020-2021/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>CHS Alternativo</collab>
+					</person-group>
+					<source>VIII informe alternativo, balance de la sociedad civil sobre la situación de la trata de personas en el Perú 2020-2021</source>
+					<publisher-loc>Lima</publisher-loc>
+					<year>2022</year>
+					<ext-link ext-link-type="uri" xlink:href="https://chsalternativo.org/publicaciones/viii-informe-alternativo-balance-de-la-sociedad-civil-sobre-la-situacion-de-la-trata-de-personas-en-el-peru-2020-2021/">https://chsalternativo.org/publicaciones/viii-informe-alternativo-balance-de-la-sociedad-civil-sobre-la-situacion-de-la-trata-de-personas-en-el-peru-2020-2021/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Crenshaw, Kimberlé, “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics”. <italic>University of Chicago Legal Forum</italic>, <italic>1989</italic>
+ <italic>, núm.</italic> 1 (<italic>1989</italic>), 139-167. <ext-link ext-link-type="uri" xlink:href="https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8">https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Crenshaw</surname>
+							<given-names>Kimberlé</given-names>
+						</name>
+					</person-group>
+					<article-title>Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics</article-title>
+					<source>University of Chicago Legal Forum</source>
+					<volume>1989</volume>
+					<issue>1</issue>
+					<year>1989</year>
+					<fpage>139</fpage>
+					<lpage>167</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8">https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Dammert Guardia, Manuel, Lucía Dammert, y Katherine Sarmiento, “Human trafficking in the Andean region, socio spatial dynamics in the Peruvian borders”, <italic>Íconos. Revista de Ciencias Sociales</italic>, <italic>68</italic> (<italic>2020</italic>), 117-134. https://doi.org/10.17141/iconos.68.2020.4043.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dammert Guardia</surname>
+							<given-names>Manuel</given-names>
+						</name>
+						<name>
+							<surname>Dammert</surname>
+							<given-names>Lucía</given-names>
+						</name>
+						<name>
+							<surname>Sarmiento</surname>
+							<given-names>Katherine</given-names>
+						</name>
+					</person-group>
+					<article-title>Human trafficking in the Andean region, socio spatial dynamics in the Peruvian borders</article-title>
+					<source>Íconos. Revista de Ciencias Sociales</source>
+					<volume>68</volume>
+					<year>2020</year>
+					<fpage>117</fpage>
+					<lpage>134</lpage>
+					<pub-id pub-id-type="doi">10.17141/iconos.68.2020.4043</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Defensoría del Pueblo. <italic>Abordaje judicial de la trata de personas</italic>. Lima: Defensoría del Pueblo, marzo de 2020. <ext-link ext-link-type="uri" xlink:href="https://www.defensoria.gob.pe/wp-content/uploads/2020/06/INFORME-TRATA-DE-PERSONAS.pdf">https://www.defensoria.gob.pe/wp-content/uploads/2020/06/INFORME-TRATA-DE-PERSONAS.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Defensoría del Pueblo</collab>
+					</person-group>
+					<source>Abordaje judicial de la trata de personas</source>
+					<publisher-loc>Lima</publisher-loc>
+					<publisher-name>Defensoría del Pueblo</publisher-name>
+					<month>03</month>
+					<year>2020</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.defensoria.gob.pe/wp-content/uploads/2020/06/INFORME-TRATA-DE-PERSONAS.pdf">https://www.defensoria.gob.pe/wp-content/uploads/2020/06/INFORME-TRATA-DE-PERSONAS.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Ferrajoli, Luigi. <italic>Poderes salvajes: La crisis de la democracia constitucional</italic>. Traducido por Perfecto Andrés Ibáñez. Madrid: Minima Trotta, 2011.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ferrajoli</surname>
+							<given-names>Luigi</given-names>
+						</name>
+					</person-group>
+					<source>Poderes salvajes: La crisis de la democracia constitucional</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Ibáñez</surname>
+							<given-names>Perfecto Andrés</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Minima Trotta</publisher-name>
+					<year>2011</year>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Fineman, Martha Albertson, “The Vulnerable Subject: Anchoring Equality in the Human Condition”. <italic>SSRN Scholarly Paper</italic>
+ <italic>, No.</italic> 
+ <italic>1131407</italic> (<italic>10 de mayo de 2008</italic>), 1-23. Rochester, NY: Social Science Research Network. <ext-link ext-link-type="uri" xlink:href="https://ssrn.com/abstract=1131407">https://ssrn.com/abstract=1131407</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fineman</surname>
+							<given-names>Martha Albertson</given-names>
+						</name>
+					</person-group>
+					<chapter-title>The Vulnerable Subject: Anchoring Equality in the Human Condition</chapter-title>
+					<source>SSRN Scholarly Paper</source>
+					<issue>1131407</issue>
+					<day>10</day>
+					<month>05</month>
+					<year>2008</year>
+					<fpage>1</fpage>
+					<lpage>23</lpage>
+					<publisher-loc>Rochester, NY</publisher-loc>
+					<publisher-name>Social Science Research Network</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://ssrn.com/abstract=1131407">https://ssrn.com/abstract=1131407</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Fukuyama, Francis, “What Is Governance?”. <italic>SSRN Scholarly Paper</italic>
+ <italic>, No.</italic> 
+ <italic>2226592</italic> (<italic>25 de enero de 2013</italic>), 1-18. Rochester, NY: Social Science Research Network. https://doi.org/10.2139/ssrn.2226592</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fukuyama</surname>
+							<given-names>Francis</given-names>
+						</name>
+					</person-group>
+					<chapter-title>What Is Governance?</chapter-title>
+					<source>SSRN Scholarly Paper</source>
+					<issue>2226592</issue>
+					<day>25</day>
+					<month>01</month>
+					<year>2013</year>
+					<fpage>1</fpage>
+					<lpage>18</lpage>
+					<publisher-loc>Rochester, NY</publisher-loc>
+					<publisher-name>Social Science Research Network</publisher-name>
+					<pub-id pub-id-type="doi">10.2139/ssrn.2226592</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Gallagher, Anne T. <italic>The International Law of Human Trafficking</italic>. Cambridge: Cambridge University Press, 2012.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gallagher</surname>
+							<given-names>Anne T</given-names>
+						</name>
+					</person-group>
+					<source>The International Law of Human Trafficking</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+					<year>2012</year>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Garland, David. <italic>The Culture of Control: Crime and Social Order in Contemporary Society</italic>. Chicago, IL: University of Chicago Press, 2001. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Garland</surname>
+							<given-names>David</given-names>
+						</name>
+					</person-group>
+					<source>The Culture of Control: Crime and Social Order in Contemporary Society</source>
+					<publisher-loc>Chicago, IL</publisher-loc>
+					<publisher-name>University of Chicago Press</publisher-name>
+					<year>2001</year>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Hayner, Priscilla B. <italic>Unspeakable Truths: Transitional Justice and the Challenge of Truth Commissions</italic>. 2a ed. New York: Routledge, 2010. https://doi.org/10.4324/9780203867822</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hayner</surname>
+							<given-names>Priscilla B</given-names>
+						</name>
+					</person-group>
+					<source>Unspeakable Truths: Transitional Justice and the Challenge of Truth Commissions</source>
+					<edition>2a</edition>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+					<year>2010</year>
+					<pub-id pub-id-type="doi">10.4324/9780203867822</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Heeks, Richard, “Understanding E-Governance for Development”. <italic>SSRN Scholarly Paper</italic>
+ <italic>, No.</italic> 
+ <italic>3540058</italic> (<italic>18 de febrero de 2001</italic>), 1-27. Rochester, NY: Social Science Research Network. https://doi.org/10.2139/ssrn.3540058</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Heeks</surname>
+							<given-names>Richard</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Understanding E-Governance for Development</chapter-title>
+					<source>SSRN Scholarly Paper</source>
+					<issue>3540058</issue>
+					<day>18</day>
+					<month>02</month>
+					<year>2001</year>
+					<fpage>1</fpage>
+					<lpage>27</lpage>
+					<publisher-loc>Rochester, NY</publisher-loc>
+					<publisher-name>Social Science Research Network</publisher-name>
+					<pub-id pub-id-type="doi">10.2139/ssrn.3540058</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Keck, Margaret E. y Kathryn A. Sikkink. <italic>Activists beyond Borders: Advocacy Networks in International Politics</italic>. Otaca London: Cornell University Press, 1998.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Keck</surname>
+							<given-names>Margaret E</given-names>
+						</name>
+						<name>
+							<surname>Kathryn</surname>
+							<given-names>A. Sikkink</given-names>
+						</name>
+					</person-group>
+					<source>Activists beyond Borders: Advocacy Networks in International Politics</source>
+					<publisher-loc>Otaca London</publisher-loc>
+					<publisher-name>Cornell University Press</publisher-name>
+					<year>1998</year>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Laverde-Rodríguez, Carlos Alfonso y Misael Tirado-Acero, “Trata con fines de explotación sexual: una mirada crítica desde México y Colombia”. <italic>Revista Espiga</italic>, <italic>22</italic>
+ <italic>, núm.</italic> 
+ <italic>46</italic> (<italic>septiembre de 2023</italic>), 1-28. https://doi.org/10.22458/re.v22i46.4981</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Laverde-Rodríguez</surname>
+							<given-names>Carlos Alfonso</given-names>
+						</name>
+						<name>
+							<surname>Tirado-Acero</surname>
+							<given-names>Misael</given-names>
+						</name>
+					</person-group>
+					<article-title>Trata con fines de explotación sexual: una mirada crítica desde México y Colombia</article-title>
+					<source>Revista Espiga</source>
+					<volume>22</volume>
+					<issue>46</issue>
+					<month>09</month>
+					<year>2023</year>
+					<fpage>1</fpage>
+					<lpage>28</lpage>
+					<pub-id pub-id-type="doi">10.22458/re.v22i46.4981</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Montoya, Yván, “El delito de trata de personas como delito complejo y sus dificultades en la jurisprudencia peruana”. <italic>Derecho PUCP</italic>
+ <italic>, núm.</italic> 
+ <italic>76</italic> (<italic>2016</italic>), 393-419. https://doi.org/10.18800/derechopucp.201601.016</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Montoya</surname>
+							<given-names>Yván</given-names>
+						</name>
+					</person-group>
+					<article-title>El delito de trata de personas como delito complejo y sus dificultades en la jurisprudencia peruana</article-title>
+					<source>Derecho PUCP</source>
+					<issue>76</issue>
+					<year>2016</year>
+					<fpage>393</fpage>
+					<lpage>419</lpage>
+					<pub-id pub-id-type="doi">10.18800/derechopucp.201601.016</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Nussbaum, Martha C. <italic>Creating Capabilities: The Human Development Approach</italic>. Cambridge (Mass.): Belknap Press, 2011.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nussbaum</surname>
+							<given-names>Martha C.</given-names>
+						</name>
+					</person-group>
+					<source>Creating Capabilities: The Human Development Approach</source>
+					<publisher-loc>Cambridge (Mass.)</publisher-loc>
+					<publisher-name>Belknap Press</publisher-name>
+					<year>2011</year>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Peters, B. Guy y Jon Pierre, “Multi-level Governance and Democracy: A Faustian Bargain?”, en <italic>Multi-level Governance</italic>, editado por Ian Bache y Matthew Flinders, 75-92. Oxford University Press, 2004. https://doi.org/10.1093/0199259259.003.0005</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>B. Guy</surname>
+							<given-names>Peters</given-names>
+						</name>
+						<name>
+							<surname>Pierre</surname>
+							<given-names>Jon</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Multi-level Governance and Democracy: A Faustian Bargain?</chapter-title>
+					<source>Multi-level Governance</source>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Bache</surname>
+							<given-names>Ian</given-names>
+						</name>
+						<name>
+							<surname>Flinders</surname>
+							<given-names>Matthew</given-names>
+						</name>
+					</person-group>
+					<fpage>75</fpage>
+					<lpage>92</lpage>
+					<publisher-name>Oxford University Press</publisher-name>
+					<year>2004</year>
+					<pub-id pub-id-type="doi">10.1093/0199259259.003.0005</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Rawls, John. <italic>Political Liberalism</italic>. New York: Columbia University Press, 2005.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rawls</surname>
+							<given-names>John</given-names>
+						</name>
+					</person-group>
+					<source>Political Liberalism</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Columbia University Press</publisher-name>
+					<year>2005</year>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Sassen, Saskia. <italic>Expulsions: Brutality and Complexity in the Global Economy</italic>. Cambridge, Massachusetts: Belknap Press: An Imprint of Harvard University Press, 2014.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sassen</surname>
+							<given-names>Saskia</given-names>
+						</name>
+					</person-group>
+					<source>Expulsions: Brutality and Complexity in the Global Economy</source>
+					<publisher-loc>Cambridge, Massachusetts</publisher-loc>
+					<publisher-name>Belknap Press: An Imprint of Harvard University Press</publisher-name>
+					<year>2014</year>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Sen, Amartya. <italic>Development as Freedom</italic>. OUP Oxford, 2001.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sen</surname>
+							<given-names>Amartya</given-names>
+						</name>
+					</person-group>
+					<source>Development as Freedom</source>
+					<publisher-loc>OUP Oxford</publisher-loc>
+					<year>2001</year>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Shelley, Louise. <italic>Human Trafficking: A Global Perspective</italic>. Cambridge University Press, 2010.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shelley</surname>
+							<given-names>Louise</given-names>
+						</name>
+					</person-group>
+					<source>Human Trafficking: A Global Perspective</source>
+					<publisher-name>Cambridge University Press</publisher-name>
+					<year>2010</year>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Smart, Carol. <italic>Feminism and the Power of Law</italic>. London: Routledge, 1989. https://doi.org/10.4324/9780203206164</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Smart</surname>
+							<given-names>Carol</given-names>
+						</name>
+					</person-group>
+					<source>Feminism and the Power of Law</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+					<year>1989</year>
+					<pub-id pub-id-type="doi">10.4324/9780203206164</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Sudbury, Julia, ed. <italic>Global Lockdown: Race, Gender, and the Prison-Industrial Complex</italic>. New York: Routledge, 2005. https://doi.org/10.4324/9781315810812</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Sudbury</surname>
+							<given-names>Julia</given-names>
+						</name>
+					</person-group>
+					<source>Global Lockdown: Race, Gender, and the Prison-Industrial Complex</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+					<year>2005</year>
+					<pub-id pub-id-type="doi">10.4324/9781315810812</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>United Nations Office on Drugs and Crime. <italic>Global Report on Trafficking in Persons 2020</italic>. United Nations, 2021. https://doi.org/10.18356/9789210051958</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>United Nations Office on Drugs and Crime</collab>
+					</person-group>
+					<source>Global Report on Trafficking in Persons 2020</source>
+					<publisher-name>United Nations</publisher-name>
+					<year>2021</year>
+					<pub-id pub-id-type="doi">10.18356/9789210051958</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Viseur-Sellers, Patricia, “Gender Strategy is Not Luxury for International Courts Symposium: Prosecuting Sexual and Gender-Based Crimes Before International/ized Criminal Courts”. <italic>American University Journal of Gender, Social Policy &amp; the Law</italic>, <italic>17</italic>
+ <italic>, núm.</italic> 2 (<italic>enero de 2009</italic>), 301-325. <ext-link ext-link-type="uri" xlink:href="https://digitalcommons.wcl.american.edu/jgspl/vol17/iss2/1">https://digitalcommons.wcl.american.edu/jgspl/vol17/iss2/1</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Viseur-Sellers</surname>
+							<given-names>Patricia</given-names>
+						</name>
+					</person-group>
+					<article-title>Gender Strategy is Not Luxury for International Courts Symposium: Prosecuting Sexual and Gender-Based Crimes Before International/ized Criminal Courts</article-title>
+					<source>American University Journal of Gender, Social Policy &amp; the Law</source>
+					<volume>17</volume>
+					<issue>2</issue>
+					<month>01</month>
+					<year>2009</year>
+					<fpage>301</fpage>
+					<lpage>325</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://digitalcommons.wcl.american.edu/jgspl/vol17/iss2/1">https://digitalcommons.wcl.american.edu/jgspl/vol17/iss2/1</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Wacquant, Loïc. <italic>Punishing the Poor: The Neoliberal Government of Social Insecurity</italic>. Durham London: Duke University Press Books, 2009.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wacquant</surname>
+							<given-names>Loïc</given-names>
+						</name>
+					</person-group>
+					<source>Punishing the Poor: The Neoliberal Government of Social Insecurity</source>
+					<publisher-loc>Durham London</publisher-loc>
+					<publisher-name>Duke University Press Books</publisher-name>
+					<year>2009</year>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Young, Jock. <italic>The Vertigo of Late Modernity</italic>. SAGE Publications Ltd, 2007.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Young</surname>
+							<given-names>Jock</given-names>
+						</name>
+					</person-group>
+					<source>The Vertigo of Late Modernity</source>
+					<publisher-name>SAGE Publications Ltd</publisher-name>
+					<year>2007</year>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Zaffaroni, Eugenio Raúl. <italic>En busca de las penas perdidas: deslegitimación y dogmática jurídico-penal</italic>. Ediar, 2005.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zaffaroni</surname>
+							<given-names>Eugenio Raúl</given-names>
+						</name>
+					</person-group>
+					<source>En busca de las penas perdidas: deslegitimación y dogmática jurídico-penal</source>
+					<publisher-name>Ediar</publisher-name>
+					<year>2005</year>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Zehr, Howard. <italic>The Little Book of Restorative Justice</italic>. Intercourse, Pa: Good Books, 2002.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zehr</surname>
+							<given-names>Howard</given-names>
+						</name>
+					</person-group>
+					<source>The Little Book of Restorative Justice</source>
+					<publisher-loc>Intercourse, Pa</publisher-loc>
+					<publisher-name>Good Books</publisher-name>
+					<year>2002</year>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">Kevin Bales</xref>, <italic>Ending Slavery: How We Free Today's Slaves</italic> (Berkeley: University of California Press, 2007), 23-45; <xref ref-type="bibr" rid="B14">Anne T. Gallagher</xref>, <italic>The International Law of Human Trafficking</italic> (Cambridge: Cambridge University Press, 2012), 67-89.</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>
+					<xref ref-type="bibr" rid="B24">Saskia Sassen</xref>, <italic>Expulsions: Brutality and Complexity in the Global Economy</italic> (Cambridge: Belknap Press, 2014), 112-134; <xref ref-type="bibr" rid="B26">Louise Shelley</xref>, <italic>Human Trafficking: A Global Perspective</italic> (Cambridge: Cambridge University Press, 2010), 45-67.</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>Protocolo para Prevenir, Reprimir y Sancionar la Trata de Personas, especialmente Mujeres y Niños, que complementa la Convención de las Naciones Unidas contra la Delincuencia Organizada Transnacional, adoptado en Palermo el 15 de noviembre de 2000, en vigor desde el 25 de diciembre de 2003.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>
+					<xref ref-type="bibr" rid="B20">Yván Montoya</xref>, “El delito de trata de personas como delito complejo y sus dificultades en la jurisprudencia peruana”, <italic>Derecho PUCP</italic>, 76 (2016): 393-419. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.18800/derechopucp.201601.016">https://doi.org/10.18800/derechopucp.201601.016</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>
+					<xref ref-type="bibr" rid="B10">Defensoría del Pueblo</xref>, “Abordaje judicial de la trata de personas” (Lima: Defensoría del Pueblo, 2020), 34-56; <xref ref-type="bibr" rid="B29">United Nations Office on Drugs and Crime</xref>, <italic>Global Report on Trafficking in Persons 2020</italic> (United Nations, 2021), 78-102. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.18356/9789210051958">https://doi.org/10.18356/9789210051958</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">Bales</xref>, <italic>Ending Slavery</italic>..., 23-45; <xref ref-type="bibr" rid="B14">Gallagher</xref>, <italic>The International Law</italic>..., 67-89.</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>Código Penal del Perú, Decreto Legislativo 635, promulgado el 3 de abril de 1991 y publicado el 8 de abril de 1991.</p>
+			</fn>
+			<fn fn-type="other" id="fn8">
+				<label>8</label>
+				<p>
+					<xref ref-type="bibr" rid="B20">Montoya</xref>, “El delito de trata”..., 393-419.</p>
+			</fn>
+			<fn fn-type="other" id="fn9">
+				<label>9</label>
+				<p>Ley 28950, de 16 de enero de 2007, contra la trata de personas y el tráfico ilícito de migrantes, publicada en el diario oficial peruano en Lima el 16 de enero de 2007.</p>
+			</fn>
+			<fn fn-type="other" id="fn10">
+				<label>10</label>
+				<p>Ley 31146, de 30 de marzo de 2021, que modifica el Código Penal, el Código Procesal Penal y la Ley 28950 para sistematizar los artículos sobre delitos de trata de personas y explotación, considerándolos como delitos contra la dignidad humana, publicada en el diario oficial El Peruano el 30 de marzo de 2021.</p>
+			</fn>
+			<fn fn-type="other" id="fn11">
+				<label>11</label>
+				<p>
+					<xref ref-type="bibr" rid="B20">Montoya</xref>, “El delito de trata”..., 400-410.</p>
+			</fn>
+			<fn fn-type="other" id="fn12">
+				<label>12</label>
+				<p>Decreto Supremo 002-2004-IN, de 2004, que crea el Grupo de Trabajo Multisectorial Permanente contra la Trata de Personas</p>
+			</fn>
+			<fn fn-type="other" id="fn13">
+				<label>13</label>
+				<p>Decreto Supremo 009-2021-IN, de 27 de julio de 2021, que aprueba la Política Nacional frente a la trata de personas y sus formas de explotación, publicado en el diario oficial El Peruano el 27 de julio de 2021.</p>
+			</fn>
+			<fn fn-type="other" id="fn14">
+				<label>14</label>
+				<p>Ley 30925, de 5 de abril de 2019, que fortalece la implementación de espacios de acogida temporal para víctimas de trata de personas y explotación sexual, publicada en el diario oficial El Peruano el 5 de abril de 2019.</p>
+			</fn>
+			<fn fn-type="other" id="fn15">
+				<label>15</label>
+				<p>Resolución Legislativa 27830, de 2002, que aprueba la declaración unilateral de reconocimiento de las competencias del Comité contra la Tortura previstas en los artículos 21 y 22 de la Convención contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.</p>
+			</fn>
+			<fn fn-type="other" id="fn16">
+				<label>16</label>
+				<p>“VIII informe alternativo, balance de la sociedad civil sobre la situación de la trata de personas en el Perú 2020-2021”, <xref ref-type="bibr" rid="B7">CHS Alternativo</xref>, acceso el 8 de noviembre de 2025, <ext-link ext-link-type="uri" xlink:href="https://chsalternativo.org/publicaciones/viii-informe-alternativo-balance-de-la-sociedad-civil-sobre-la-situacion-de-la-trata-de-personas-en-el-peru-2020-2021/">https://chsalternativo.org/publicaciones/viii-informe-alternativo-balance-de-la-sociedad-civil-sobre-la-situacion-de-la-trata-de-personas-en-el-peru-2020-2021/</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn17">
+				<label>17</label>
+				<p>Ley 30925, de 5 de abril de 2019, que fortalece la implementación de espacios de acogida temporal para víctimas de trata de personas y explotación sexual, publicada en el diario oficial El Peruano el 5 de abril de 2019</p>
+			</fn>
+			<fn fn-type="other" id="fn18">
+				<label>18</label>
+				<p>Decreto Supremo 002-2016-IN, de 26 de febrero de 2016, que aprueba el Reglamento de la Ley 28950, Ley contra la Trata de Personas y el Tráfico Ilícito de Migrantes, y crea la Comisión Multisectorial de naturaleza permanente contra la trata de personas y el tráfico ilícito de migrantes, publicado en el diario oficial El Peruano el 26 de febrero de 2016.</p>
+			</fn>
+			<fn fn-type="other" id="fn19">
+				<label>19</label>
+				<p>Decreto Supremo 044-2020-PCM, de 15 de marzo de 2020, que declara el estado de emergencia nacional por las circunstancias derivadas del brote de COVID 19, dado en la Casa de Gobierno en Lima y publicado en el diario oficial El Peruano el 15 de marzo de 2020.</p>
+			</fn>
+			<fn fn-type="other" id="fn20">
+				<label>20</label>
+				<p>“VIII informe alternativo, balance de la sociedad civil sobre la situación de la trata de personas en el Perú 2020-2021”, <xref ref-type="bibr" rid="B7">CHS Alternativo</xref>, acceso el 8 de noviembre de 2025, <ext-link ext-link-type="uri" xlink:href="https://chsalternativo.org/publicaciones/viii-informe-alternativo-balance-de-la-sociedad-civil-sobre-la-situacion-de-la-trata-de-personas-en-el-peru-2020-2021/">https://chsalternativo.org/publicaciones/viii-informe-alternativo-balance-de-la-sociedad-civil-sobre-la-situacion-de-la-trata-de-personas-en-el-peru-2020-2021/</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn21">
+				<label>21</label>
+				<p>
+					<xref ref-type="bibr" rid="B15">David Garland</xref>, <italic>The Culture of Control: Crime and Social Order in Contemporary Society</italic> (Chicago: University of Chicago Press, 2001), 103-127.</p>
+			</fn>
+			<fn fn-type="other" id="fn22">
+				<label>22</label>
+				<p>Código Penal del Perú, Decreto Legislativo 635, promulgado el 3 de abril de 1991 y publicado el 8 de abril de 1991.</p>
+			</fn>
+			<fn fn-type="other" id="fn23">
+				<label>23</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Nils Christie</xref>, “Conflicts as Property”, <italic>The British Journal of Criminology</italic> 17, 1 (1977): 1-15.</p>
+			</fn>
+			<fn fn-type="other" id="fn24">
+				<label>24</label>
+				<p>
+					<xref ref-type="bibr" rid="B32">Jock Young</xref>, <italic>The Vertigo of Late Modernity</italic> (London: SAGE Publications, 2007), 89-112.</p>
+			</fn>
+			<fn fn-type="other" id="fn25">
+				<label>25</label>
+				<p>
+					<xref ref-type="bibr" rid="B31">Loïc Wacquant</xref>, <italic>Punishing the Poor: The Neoliberal Government of Social Insecurity</italic> (Durham: Duke University Press, 2009), 45-78.</p>
+			</fn>
+			<fn fn-type="other" id="fn26">
+				<label>26</label>
+				<p>
+					<xref ref-type="bibr" rid="B33">Eugenio Raúl Zaffaroni</xref>, <italic>En busca de las penas perdidas: deslegitimación y dogmática jurídico-penal</italic> (Buenos Aires: Ediar, 2005), 123-145.</p>
+			</fn>
+			<fn fn-type="other" id="fn27">
+				<label>27</label>
+				<p>
+					<xref ref-type="bibr" rid="B25">Amartya Sen</xref>, <italic>Development as Freedom</italic> (Oxford: Oxford University Press, 2001), 56-89.</p>
+			</fn>
+			<fn fn-type="other" id="fn28">
+				<label>28</label>
+				<p>
+					<xref ref-type="bibr" rid="B12">Martha Albertson Fineman</xref>, “The Vulnerable Subject: Anchoring Equality in the Human Condition”, SSRN Scholarly Paper No. 1131407 (Rochester: Social Science Research Network, 2008), 12-34. <ext-link ext-link-type="uri" xlink:href="https://ssrn.com/abstract=1131407">https://ssrn.com/abstract=1131407</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn29">
+				<label>29</label>
+				<p>
+					<xref ref-type="bibr" rid="B21">Martha C. Nussbaum</xref>, <italic>Creating Capabilities: The Human Development Approach</italic> (Cambridge: Belknap Press, 2011), 78-102.</p>
+			</fn>
+			<fn fn-type="other" id="fn30">
+				<label>30</label>
+				<p>
+					<xref ref-type="bibr" rid="B27">Carol Smart</xref>, <italic>Feminism and the Power of Law</italic> (London: Routledge, 1989), 45-67. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4324/9780203206164">https://doi.org/10.4324/9780203206164</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn31">
+				<label>31</label>
+				<p>Código Penal del Perú, Decreto Legislativo 635, promulgado el 3 de abril de 1991 y publicado el 8 de abril de 1991.</p>
+			</fn>
+			<fn fn-type="other" id="fn32">
+				<label>32</label>
+				<p>Ley 28950, de 16 de enero de 2007, contra la trata de personas y el tráfico ilícito de migrantes, publicada en el diario oficial El Peruano en Lima el 16 de enero de 2007.</p>
+			</fn>
+			<fn fn-type="other" id="fn33">
+				<label>33</label>
+				<p>
+					<xref ref-type="bibr" rid="B28">Julia Sudbury</xref>, ed., <italic>Global Lockdown: Race, Gender, and the Prison-Industrial Complex</italic> (New York: Routledge, 2005), 89-112. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4324/9781315810812">https://doi.org/10.4324/9781315810812</ext-link>; <xref ref-type="bibr" rid="B30">Patricia Viseur-Sellers</xref>, “Gender Strategy is Not Luxury for International Courts”, <italic>American University Journal of Gender, Social Policy &amp; the Law</italic> 17, 2 (2009): 301-325. <ext-link ext-link-type="uri" xlink:href="https://digitalcommons.wcl.american.edu/jgspl/vol17/iss2/1">https://digitalcommons.wcl.american.edu/jgspl/vol17/iss2/1</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn34">
+				<label>34</label>
+				<p>Ley 985 de 2005, de 26 de agosto de 2005, que adopta medidas contra la trata de personas y establece normas para la atención y protección de las víctimas, expedida por el Congreso de Colombia.</p>
+			</fn>
+			<fn fn-type="other" id="fn35">
+				<label>35</label>
+				<p>
+					<xref ref-type="bibr" rid="B19">Carlos Alfonso Laverde-Rodríguez y Misael Tirado-Acero</xref>, “Trata con fines de explotación sexual: una mirada crítica desde México y Colombia”, <italic>Revista Espiga</italic> 22, 46 (2023): 46-78. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.22458/re.v22i46.4981">https://doi.org/10.22458/re.v22i46.4981</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn36">
+				<label>36</label>
+				<p>
+					<xref ref-type="bibr" rid="B3">Florencia Cadario, Florencia Fantin y Mariana Jacques</xref>, “La trata de personas con fines de explotación sexual en el contexto de pandemia: un análisis institucional desde el Mercosur y la Argentina”, Nueva Serie Documentos de Trabajo, 26 (2021): 12-34. http://sedici.unlp.edu.ar/handle/10915/118179</p>
+			</fn>
+			<fn fn-type="other" id="fn37">
+				<label>37</label>
+				<p>Ley General de Víctimas, de 9 de enero de 2013, publicada en el Diario Oficial de la Federación el 9 de enero de 2013, emitida por el Congreso de la Unión de México.</p>
+			</fn>
+			<fn fn-type="other" id="fn38">
+				<label>38</label>
+				<p>
+					<xref ref-type="bibr" rid="B19">Laverde-Rodríguez y Tirado-Acero</xref>, “Trata con fines”..., 50-65.</p>
+			</fn>
+			<fn fn-type="other" id="fn39">
+				<label>39</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">Miguel Centeno</xref>, <italic>Blood and Debt: War and the Nation-State in Latin America</italic> (Penn State: Penn State University Press, 2003), 89-112; <xref ref-type="bibr" rid="B13">Francis Fukuyama</xref>, “What Is Governance?”, SSRN Scholarly Paper No. 2226592 (Rochester: Social Science Research Network, 2013), 5-23. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2139/ssrn.2226592">https://doi.org/10.2139/ssrn.2226592</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn40">
+				<label>40</label>
+				<p>
+					<xref ref-type="bibr" rid="B18">Margaret E. Keck y Kathryn A. Sikkink</xref>, <italic>Activists beyond Borders: Advocacy Networks in International Politics</italic> (Ithaca: Cornell University Press, 1998), 67-89.</p>
+			</fn>
+			<fn fn-type="other" id="fn41">
+				<label>41</label>
+				<p>
+					<xref ref-type="bibr" rid="B4">Marcela Ceballos y Gerardo Ardila</xref>, “The Colombia-Ecuador Border Region: Between Informal Dynamics and Illegal Practices”, <italic>Journal of Borderlands Studies</italic> 30, 4 (2015): 519-535. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/08865655.2016.1179208">https://doi.org/10.1080/08865655.2016.1179208</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn42">
+				<label>42</label>
+				<p>
+					<xref ref-type="bibr" rid="B9">Dammert Guardia, Manuel, Lucía Dammert, y Katherine Sarmiento</xref>, “Human trafficking in the Andean region, socio spatial dynamics in the Peruvian borders”, <italic>Íconos. Revista de Ciencias Sociales 68</italic> (2020): 117-134. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17141/iconos.68.2020.4043">https://doi.org/10.17141/iconos.68.2020.4043</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn43">
+				<label>43</label>
+				<p>
+					<xref ref-type="bibr" rid="B2">Geert Bouckaert y Guy B. Peters</xref>, “What is available and what is missing in the study of quangos?”, en <italic>Unbundled Government</italic> (London: Routledge, 2004), 78-102.</p>
+			</fn>
+			<fn fn-type="other" id="fn44">
+				<label>44</label>
+				<p>
+					<xref ref-type="bibr" rid="B29">United Nations Office on Drugs and Crime</xref>, <italic>Global Report</italic>..., 112-134.</p>
+			</fn>
+			<fn fn-type="other" id="fn45">
+				<label>45</label>
+				<p>
+					<xref ref-type="bibr" rid="B17">Richard Heeks</xref>, “Understanding E-Governance for Development”, SSRN Scholarly Paper No. 3540058 (Rochester: Social Science Research Network, 2001), 15-32. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2139/ssrn.3540058">https://doi.org/10.2139/ssrn.3540058</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn46">
+				<label>46</label>
+				<p>
+					<xref ref-type="bibr" rid="B25">Sen</xref>, <italic>Development as Freedom</italic>..., 56-89; <xref ref-type="bibr" rid="B21">Nussbaum</xref>, <italic>Creating Capabilities</italic>..., 78-102.</p>
+			</fn>
+			<fn fn-type="other" id="fn47">
+				<label>47</label>
+				<p>
+					<xref ref-type="bibr" rid="B8">Kimberlé Crenshaw</xref>, “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics”, <italic>University of Chicago Legal Forum</italic> 1989, 1 (1989): 139-167. <ext-link ext-link-type="uri" xlink:href="https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8">https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn48">
+				<label>48</label>
+				<p>
+					<xref ref-type="bibr" rid="B11">Luigi Ferrajoli</xref>, <italic>Poderes salvajes: La crisis de la democracia constitucional</italic>, trad. por Perfecto Andrés Ibáñez (Madrid: Minima Trotta, 2011), 89-112.</p>
+			</fn>
+			<fn fn-type="other" id="fn49">
+				<label>49</label>
+				<p>
+					<xref ref-type="bibr" rid="B23">John Rawls</xref>, <italic>Political Liberalism</italic> (New York: Columbia University Press, 2005), 134-156.</p>
+			</fn>
+			<fn fn-type="other" id="fn50">
+				<label>50</label>
+				<p>
+					<xref ref-type="bibr" rid="B22">B. Guy Peters y Jon Pierre</xref>, “Multi-level Governance and Democracy: A Faustian Bargain?”, en <italic>Multi-level Governance</italic>, ed. por Ian Bache y Matthew Flinders (Oxford: Oxford University Press, 2004), 45-67.</p>
+			</fn>
+			<fn fn-type="other" id="fn51">
+				<label>51</label>
+				<p>
+					<xref ref-type="bibr" rid="B29">United Nations Office on Drugs and Crime</xref>, <italic>Global Report</italic>..., 145-167. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/0199259259.003.0005">https://doi.org/10.1093/0199259259.003.0005</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn52">
+				<label>52</label>
+				<p>Ley 30925, de 5 de abril de 2019, que fortalece la implementación de espacios de acogida temporal para víctimas de trata de personas y explotación sexual, publicada en el diario oficial El Peruano el 5 de abril de 2019</p>
+			</fn>
+			<fn fn-type="other" id="fn53">
+				<label>53</label>
+				<p>Decreto Supremo 009-2021-IN, de 27 de julio de 2021, que aprueba la Política Nacional frente a la trata de personas y sus formas de explotación, publicado en el diario oficial El Peruano el 27 de julio de 2021.</p>
+			</fn>
+			<fn fn-type="other" id="fn54">
+				<label>54</label>
+				<p>
+					<xref ref-type="bibr" rid="B18">Keck y Sikkink</xref>, <italic>Activists beyond Borders</italic>..., 78-102.</p>
+			</fn>
+			<fn fn-type="other" id="fn55">
+				<label>55</label>
+				<p>
+					<xref ref-type="bibr" rid="B12">Fineman</xref>, “The Vulnerable Subject”..., 20-35.</p>
+			</fn>
+			<fn fn-type="other" id="fn56">
+				<label>56</label>
+				<p>
+					<xref ref-type="bibr" rid="B34">Howard Zehr</xref>, <italic>The Little Book of Restorative Justice</italic> (Intercourse: Good Books, 2002), 34-56.</p>
+			</fn>
+			<fn fn-type="other" id="fn57">
+				<label>57</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Christie</xref>, “Conflicts as Property”..., 8-12.</p>
+			</fn>
+			<fn fn-type="other" id="fn58">
+				<label>58</label>
+				<p>
+					<xref ref-type="bibr" rid="B16">Priscilla B. Hayner, <italic>Un</italic></xref><italic>speakable Truths: Transitional Justice and the Challenge of Truth Commissions</italic>, 2ª ed. (New York: Routledge, 2010), 112-145. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4324/9780203867822">https://doi.org/10.4324/9780203867822</ext-link>
+				</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

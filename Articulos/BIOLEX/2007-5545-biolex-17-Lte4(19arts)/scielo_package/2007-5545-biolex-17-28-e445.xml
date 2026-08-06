@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biolex</journal-id>
+			<journal-title-group>
+				<journal-title>Biolex</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-5634</issn>
+			<issn pub-type="epub">2007-5545</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36796/biolex.v17i28.445</article-id>
+			<article-id pub-id-type="other">00123</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Tutela jurisdiccional en línea</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Online Judicial Protection</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-9589-2192</contrib-id>
+					<name>
+						<surname>González Sanmiguel</surname>
+						<given-names>Nancy Nelly</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0009-3677-1863</contrib-id>
+					<name>
+						<surname>González Santos</surname>
+						<given-names>Juan Alfonso</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<role>Doctor en Derecho</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0005-8866-1245</contrib-id>
+					<name>
+						<surname>García Azuara</surname>
+						<given-names>Elizabeth</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<role>Maestría en derecho con especialidad en derecho de amparo</role>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Catedrática de la Universidad Autónoma de Nuevo León (UANL), en la Facultad de Derecho y Criminología. Realizó estudios de doctorado en la misma universidad, y estudios postdoctorales en la Universidad de Jaén (España) y en la Universidad Autónoma de Chiapas. Miembro del Sistema Nacional de Investigadores, líder del cuerpo académico Administración Pública y Derecho Financiero UANL-CA-450, perfil PRODEP, líder de la Red Mexicana de Cuerpos Académicos en Administración y Derecho para Estudios Sobre Justicia, Políticas Públicas y Gobernabilidad, y líder de la Red de Derecho Administrativo Contemporáneo (REDAC). nancygonsa09@hotmail.com.</institution>
+				<institution content-type="normalized">Universidad Autónoma de Nuevo León</institution>
+				<institution content-type="orgname">Universidad Autónoma de Nuevo León (UANL)</institution>
+				<country country="MX">Mexico</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Doctor en Derecho por la Universidad Autónoma de Nuevo León y catedrático de la misma universidad. Autor del libro Planeación fiscal: hacia su verdadero significado y de artículos en diversas revistas. Miembro del cuerpo académico Administración Pública y Derecho Financiero UANL-CA-450. Alfonsogzzsantos@gmail.com</institution>
+				<institution content-type="normalized">Universidad Autónoma de Nuevo León</institution>
+				<institution content-type="orgname">Universidad Autónoma de Nuevo León</institution>
+				<country country="MX">Mexico</country>
+				<email>Alfonsogzzsantos@gmail.com</email>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">Maestría en derecho con especialidad en derecho de amparo; catedrática de la UANL, coordinadora del Comité de Ética, Transparencia y Cultura de la Legalidad, del Comité de Investigación en las Ciencias Sociales, e integrante de la Academia Universitaria para el Desarrollo Sustentable de la UANL. elizabethgaz@hotmail.com.</institution>
+				<institution content-type="normalized">Universidad Autónoma de Nuevo León</institution>
+				<institution content-type="orgname">UANL</institution>
+				<country country="MX">Mexico</country>
+				<email>elizabethgaz@hotmail.com</email>
+			</aff>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>27</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>17</volume>
+			<issue>28</issue>
+			<elocation-id>e445</elocation-id>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El acceso a la justicia es una garantía que va ligada a las concepciones de los procedimientos para obtener la protección de los derechos humanos. En este artículo se describen y analizan las directrices para el acceso a la justicia con el objetivo de entablar la función del Estado para efectuar una tutela judicial efectiva, y así externar las políticas públicas dirigidas al fundamento de la consolidación de la plataforma digital como vía de acceso a la justicia. Se destaca la integración de las unidades de estructura organizacional con las que cuenta el tribunal virtual para dar facilidad a la procuración de la justicia; y se observa como resultado el desarrollo de la proliferación del uso del tribunal virtual.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>Access to justice is a guarantee intrinsically linked to the procedures for obtaining human rights protection. This article describes and analyzes the guidelines for access to justice, aiming to establish the State's role in providing effective judicial protection and to outline public policies that underpin the consolidation of the digital platform as a means of accessing justice. It highlights the integration of the organizational structure of the virtual court to facilitate the administration of justice and observes the resulting proliferation of its use. </p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>derechos humanos</kwd>
+				<kwd>justicia digital</kwd>
+				<kwd>tribunal virtual</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>human rights</kwd>
+				<kwd>digital justice</kwd>
+				<kwd>virtual court</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="21"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>I. Introducción</title>
+			<p>Se marca la evolución del concepto de acceso a la justicia como un objetivo hacia la facultad o derecho que se tiene para determinar la función de la jurisdiccionalidad de las etapas dentro de los procesos. Se plantea cómo se puede entender la actuación del Estado para entablar la operación de la justicia como mecanismo para llegar al deber ser que constituya la justicia como valor fundamental del proceso jurisdiccional. Por tanto, se analiza en qué consiste y cómo opera este.</p>
+			<p>En este artículo se presenta la evolución del concepto de justicia como esa visión hacia lo que se requiere para asentar la definición competente al proceso digital. se abarcan las funciones referentes a cómo opera la tutela judicial, señalando los puntos fundamentales que se deben observar para determinar la justicia. Además, se observa la estructura de aquellos tribunales competentes para determinar cómo el acceso a la justicia ha sido protagonista hacia la vía digital.</p>
+			<p>Se destacan las unidades que se han implementado para llevar a cabo el proceso del cambio hacia la digitalización y dar la transformación estructural para tener los enfoques y mecanismos de control para acceder a los juicios en línea.</p>
+			<p>Se revisó el proceso actual de dicho cambio hacia los tribunales digitales para entender la adaptación de la justicia en línea; y lograr este equilibrio dentro de la función jurisdiccional.</p>
+		</sec>
+		<sec>
+			<title>II. Evolución del acceso a la justicia</title>
+			<p>El acceso a la justicia es muy importante, ya que permite que las personas puedan acudir a las instituciones establecidas por el Estado para el ejercicio de “la regulación de las aptitudes y ocupaciones de los miembros internos, esto incluye la enunciación de la distribución y ordenación de los tribunales, así como las facultades y deberes de los magistrados, el derecho procesal también establece los procedimientos específicos para cada tipo de proceso”.<xref ref-type="fn" rid="fn1"><sup>1</sup></xref>
+			</p>
+			<p>Se procura la protección de los derechos, tener ese poder para reclamar sus facultades o garantías. Este concepto ha sido muy debatido porque puede ser visto de dos formas. La primera, como un derecho en sí mismo que “se ha centrado básicamente en la resolución de conflictos y la consiguiente tutela de los derechos individuales a través de los órganos jurisdiccionales integrados en el Poder Judicial y que ejercitaban con exclusividad la función jurisdiccional”<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>. O la segunda, como parte del procedimiento legal; “lo que busca es que las decisiones que se emitan en un proceso o procedimiento sean adecuadamente motivadas y que no sean una derivación de la mera subjetividad del juzgador, sino una derivación razonada de los valores, normas y circunstancias en torno al cual se desarrolla el caso concreto, así como de las circunstancias comprobadas de la causa”<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>. Por tal razón, si se considera como un derecho, el Estado tiene la obligación de garantizarlo; y la otra forma de percibir la acción de la justicia se ve como parte del proceso, que se considera en cada etapa judicial.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>
+			</p>
+			<p>Con dicho estudio, se percibe que el acceso a la justicia se puede entender desde dos directrices: la primera es de abajo hacia arriba, donde las personas exigen al Estado que existan mecanismos para respetar y proteger los derechos, que se “haga un uso activo de los mecanismos de control de la constitucionalidad de las leyes en defensa de los derechos fundamentales de las personas”<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>. La segunda va de arriba hacia abajo, y se refiere al deber del Estado de crear e implementar esos mecanismos a través de políticas públicas “para su reingeniería, reforma y <italic>reset</italic>, como un proceso de conexión continua entre él es y el deber ser de la justicia”<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>.</p>
+			<p>En este sentido, se señala que el acceso a la justicia es una categoría difícil de definir porque actúa como un derecho puente que conecta la exigibilidad ciudadana con las obligaciones del Estado<xref ref-type="fn" rid="fn7"><sup>7</sup></xref>. Esto significa que el acceso a la justicia no sólo implica la existencia de tribunales, sino también la garantía de condiciones adecuadas para que todas las personas puedan acudir a ellos de manera real y efectiva<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>.</p>
+			<p>Por lo tanto, podemos decir que la tutela judicial es “capaz de imponer un mandato a todos los organismos del Estado, para procurar la igualdad material, intentando un equilibrio entre el ejercicio de las potestades del Estado y los derechos de los ciudadanos”<xref ref-type="fn" rid="fn9"><sup>9</sup></xref>. Este paso constituye el cumplimiento para entender la justicia desde el aspecto de la impartición en el poder judicial.</p>
+			<p>Es así como el derecho justiciable se convierte en el reconocimiento en efecto de la protección de los derechos fundamentales. Con esto se brinda la concepción de una construcción que permite a los particulares o ciudadanos obtener un reconocimiento sobre la salvaguarda de sus derechos frente a la impunidad, violación o desconstrucción de la norma jurídica.</p>
+			<p>Entablar la posición de la administración de la justicia sobre los lineamientos y marcos del poder judicial, así como en el contexto del aspecto de aquellos tribunales que son autónomos, tales como en la materia administrativa es un paso hacia la proclamación de la justicia. Lo anterior, para manifestar un ejercicio de legitimización, no tan solo de las normas, sino de esa autonomía de la división de los poderes que pone al relieve un sistema jurídico no autoritario. Sistema jurídico que se encuentra bajo la luz de unas directrices de principios y valores que están sometidos dentro de un marco jurídico para operar la técnica de los procesos democráticos que atañen hacia la configuración de la justicia, por la imposición de una acción de los sujetos que han sido atacados en sus derechos.</p>
+			<p>Podemos determinar que la justicia es un concepto que genera controversia; pero el razonamiento de este artículo es denotar esa dificultad con la que operan los órganos competentes para determinar, bajo la regla jurídica, la razón de quien procede el derecho; y asumir la responsabilidad, en caso de un daño o situación que cause perjuicio a otro sujeto. Esto implica una perspectiva jurídica que se convierte en la satisfacción de expresar una situación adversa a las normas constituidas frente a una sociedad. Por lo que la realización del fallo deberá determinar, con base en un razonamiento, quién tiene la razón.</p>
+			<p>Son situaciones que se van integrando; y que proceden al reconocimiento de estos procesos que se extienden a la garantía de un proceso hacia la tutela efectiva. Es la defensa del derecho de los intereses legítimos que proceden al enmarcar el proceso de acudir ante las autoridades para dirimir controversias, o bien para invocar el principio de resolución de conflicto. Este se modifica, dependiendo del tiempo y espacio, para concebir la posición actual de este acceso por parte del Estado para dar el reconocimiento.</p>
+			<p>Se trata de proceso de evolución de la justicia para externarse hacia una tutela jurídica efectiva como derecho fundamental. Es una externalidad de la facultad del Estado dentro de la esfera pública para una democracia con un ordenamiento jurídico que corresponde a la institución de modelos de la administración de la justicia, centrado en el ejercicio de la protección de los derechos.</p>
+		</sec>
+		<sec>
+			<title>III. Funciones del estado. La tutela judicial</title>
+			<p>Al respecto, el Estado tiene tres obligaciones claves: reconocer, respetar y garantizar este derecho. Estas funciones no se limitan a la promulgación de normas, sino que implican la creación de condiciones institucionales, técnicas y humanas que permitan a todas las personas, sin discriminación, resolver sus conflictos de forma justa y oportuna. Es así como “el fin de esta visión es detectar prácticas sistemáticas que violenten los derechos fundamentales de los defendidos, e iniciar, con distintas herramientas, la consecución de logros progresivos que tiendan a mejorar la posición de los imputados como un todo”<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>.</p>
+			<p>Se debe considerar, como medida eficiente, la implementación de políticas públicas en esta materia para construirse bajo cuatro puntos fundamentales:</p>
+			<p>
+				<list list-type="order">
+					<list-item>
+						<p>Asequibilidad (existencia del servicio en todo el territorio);</p>
+					</list-item>
+					<list-item>
+						<p>Accesibilidad (eliminación de barreras económicas y culturales);</p>
+					</list-item>
+					<list-item>
+						<p>Adaptabilidad (adecuación a las necesidades diversas de la población), y</p>
+					</list-item>
+					<list-item>
+						<p>Aceptabilidad (calidad y legitimidad de las resoluciones).</p>
+					</list-item>
+				</list>
+			</p>
+			<p>Los jueces tienen un rol muy importante para garantizar que la justicia se determine con aquel aforismo que dice “tratar igual lo que es igual y desigual lo que es desigual”<xref ref-type="fn" rid="fn11"><sup>11</sup></xref>; que se aplique de manera efectiva. No basta con que las leyes reconozcan los derechos de las personas, es necesario que los tribunales los hagan valer<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>. Por ejemplo, cuando el gobierno no cumple con su deber de proteger derechos básicos, los jueces deben intervenir para evitar que este incumplimiento se repita y se vulneran. Es una misión del equilibrio de los poderes.</p>
+			<p>En México, las reformas constitucionales de 2011 permitieron a los jueces tener más herramientas para defender los derechos humanos. Esto, ya que no sólo se aplica el ordenamiento interno, sino que también pueden aplicar aquella norma que sea la más amplia para proteger a las personas, especialmente cuando las leyes son insuficientes dentro del contexto de su jurisdicción. Por eso la importancia de la función jurisdiccional que permite ordenar los límites y establecer cuáles son los alcances de los derechos humanos y estos son tutelados bajo la “Constitución Federal, Tratados Internacionales y jurisprudencia de la Corte Interamericana”<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>. Esto significa que los jueces pueden considerar la norma más apropiada para impedir una injusticia.</p>
+			<p>Actualmente se tiene acceso a la justicia no solamente a los directamente afectados, sino también a aquellos que demuestren un &quot;interés legítimo&quot;. Y se ha logrado que la impartición de justicia sea más accesible y efectiva, ya que los jueces deben asegurarse de que se emita la justicia.</p>
+			<p>Para que se garantice el acceso a la justicia en México, se estructura por medio de tribunales competentes para cada materia, con jueces preparados y confiables, tales como: Órganos como la Unidad de Asistencia Procesal Administrativa (UAPA), la Suprema Corte de la Justicia de la Nación (SCJN) y los diversos órganos jurisdiccionales que son esenciales. Esta estructura permite que la impartición de justicia funcione de forma ordenada, eficiente y con legalidad. Cada uno cumple un papel clave para que los procesos judiciales se desarrollen con equidad y para que los derechos de las personas no queden al arbitrio.</p>
+			<p>Con esto se garantiza la justicia dentro de un Estado de derecho. Por lo cual, las instituciones procesales realizan la interpretación de la norma jurídica para señalar el mejor derecho en una situación de controversia, para externar la garantía que corresponda. Los órganos de la administración de justicia son los que resuelven las pretensiones de los particulares, quienes determinan la problemática conforme a los procesos estatuidos para que los órganos competentes determinen el estatuto de a quién le corresponde la protección de la justicia con base en los hechos presentados con la vinculación de los supuestos jurídicos de la norma. Es un trabajo que requiere de parámetros de integración de normas para resolver conforme a derecho.</p>
+			<p>La problemática es la protección que se otorga por esta vía judicial en línea con la manera en que se proporciona la tutela de los derechos o la forma del acceso. Por lo tanto, esto se ha enmarcado como un derecho al acceso de la justicia que generalmente se integra por la tutela judicial. Esta contempla poder acudir a los órganos jurisdiccionales para dirimir las controversias; y que el proceso se lleve de manera adecuada y conforme al principio del debido proceso que culmine con la efectividad de la sentencia, es decir, la ejecución de esta. Referente a la tutela judicial, estos son los objetivos que se contemplan en este ejercicio de la función del Estado.</p>
+			<p>La importancia de contemplar los parámetros de la tutela judicial es lo que conlleva al respeto de los derechos hacia la impartición de la justicia con la templanza del principio de la legalidad y seguridad jurídica, que resuelve los diferentes ángulos o perspectivas al generar una posición contraria entre las partes. Para tal efecto, con la tutela efectiva se provee de manera adjetiva la sustanciación del accionar del Estado para resolver los conflictos. Esto se considera como los “principios de humanización de la justicia judicial”<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>, siendo la función de las autoridades judiciales el acceso a la justicia, los cuales van conformando la noción del Estado de Derecho.</p>
+		</sec>
+		<sec>
+			<title>IV. El acceso a la justicia por vía digital</title>
+			<p>En los últimos años, especialmente a debido a la pandemia por COVID-19, el Poder Judicial de la Federación (PJF) en México, ha incorporado la tecnología como una herramienta clave para mejorar el acceso a la justicia. Una de las principales innovaciones ha sido la implementación de plataformas digitales, como el Portal de Servicios en Línea (PSL), esto ha permitido “el acceso a través de equipos que también responden a una relevante transición respecto a la comprensión del desarrollo tecnológico<sup>”</sup><xref ref-type="fn" rid="fn15"><sup>15</sup></xref>. Esto permite presentar demandas, consultar expedientes, recibir notificaciones electrónicas y realizar audiencias por videoconferencia. Esas plataformas han transformado la manera en que las personas interactúan con el sistema judicial, al ofrecer servicios disponibles las 24 horas del día, desde cualquier lugar, al ingresar a dichas páginas o medios teniendo el acceso correspondiente; lo que ha contribuido a reducir tiempos y costos tanto para los usuarios como para el propio sistema judicial<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>.</p>
+			<p>El derecho de acceso a la información judicial ha digitalizado los procesos, lo que facilita la consulta pública de listas de acuerdos, expedientes electrónicos y resoluciones, fortaleciendo la transparencia. La justicia digital no sólo permite llevar a cabo juicios en línea, sino que genera datos valiosos que permiten evaluar el desempeño del sistema, vigilar posibles actos de corrupción, y mejorar la toma de decisiones dentro del Poder Judicial.<xref ref-type="fn" rid="fn17"><sup>17</sup></xref>
+			</p>
+			<p>A pesar de estos avances, en México existen diferencias importantes entre el sistema federal y los sistemas judiciales de los estados. Mientras que el Poder Judicial de la Federación ha logrado consolidar una plataforma digital funcional y robusta, muchos tribunales estatales aún presentan rezagos. No todas las entidades del país cuentan con plataformas para la presentación de promociones electrónicas o realización de audiencias por videoconferencia; y, en varios casos, las funciones están limitadas a ciertos tipos de juicios como: los laborales o de divorcio por mutuo consentimiento.</p>
+			<p>En el caso del Poder Judicial del Estado de Nuevo León (PJENL), se han desarrollado mecanismos innovadores para atender estas necesidades, como el Tribunal Virtual<xref ref-type="fn" rid="fn18"><sup>18</sup></xref>, que permite la tramitación de expedientes electrónicos de forma segura y ágil. Esta herramienta facilita a abogados, ciudadanos y servidores públicos realizar actuaciones judiciales sin necesidad de acudir físicamente a los juzgados<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>. Desde su implementación, ha sido clave para descongestionar los tribunales y hacer más eficiente el servicio de justicia. También garantiza una mayor transparencia, debido a que los movimientos quedan registrados digitalmente y pueden ser auditados.</p>
+			<p>Otro avance importante es el Gestor de Administración Judicial: una plataforma digital del PJENL que permite a los órganos jurisdiccionales administrar sus actividades con eficiencia. Esta herramienta optimiza los recursos humanos y materiales en los juzgados, al proporcionar una mejor distribución de expedientes y cargas de trabajo. De esta forma, se evita la saturación de ciertos juzgados y se promueve una justicia más equitativa y oportuna.</p>
+			<p>Asimismo, destacan las Unidades de Asistencia Procesal Administrativa (UAPA), órganos auxiliares del Consejo de la Judicatura de Nuevo León que brindan apoyo a los juzgados de primera instancia y a las salas del Tribunal Superior de Justicia. Estas unidades tienen como función principal recibir, revisar y distribuir las promociones presentadas, gestionar las notificaciones electrónicas, organizar audiencias y brindar orientación a los usuarios del sistema judicial. Gracias a las UAPA, se ha podido agilizar la atención al público y reducir los tiempos de espera en la tramitación de asuntos.</p>
+			<p>La justicia digital ha identificado “el núcleo esencial del derecho de acceso a las tecnologías de la información y comunicación, en específico, el Internet de banda ancha”<xref ref-type="fn" rid="fn20"><sup>20</sup></xref>. Lo anterior ha demostrado ser una solución efectiva para hacer más accesible el sistema judicial, especialmente en un país como México, donde muchas personas enfrentan barreras económicas y geográficas para ejercer sus derechos. Herramientas como el Tribunal Virtual, las demandas electrónicas y el uso de videoconferencias han logrado avanzar hacia una impartición de justicia más equitativa, pero aún existen desafíos importantes; sin duda la tecnología ha modernizado la justicia en México y ha abierto nuevas oportunidades para mejorar su eficiencia, transparencia y accesibilidad<xref ref-type="fn" rid="fn21"><sup>21</sup></xref>. Sin embargo, para que estas herramientas tengan un verdadero impacto positivo en la sociedad, es necesario progresar hacia una mayor coordinación entre las distintas instancias judiciales, eliminar las diferencias tecnológicas entre Estados, y garantizar que los beneficios de la justicia digital lleguen a todas las personas, sin importar su ubicación o condición económica.</p>
+			<p>La justicia en México busca fortalecer las transformaciones estructurales que permitan garantizar de forma real y efectiva el derecho de acceso a la justicia de manera virtual a través de “un mecanismo indispensable para el pleno disfrute de todos los derechos, incluido el de libertad de expresión e información”<xref ref-type="fn" rid="fn22"><sup>22</sup></xref>. Pero a pesar de los logros institucionales, existe una separación del sistema de justicia constitucional y una carencia de un modelo integral que garantice la protección uniforme de los derechos fundamentales. Esto debilita el principio de seguridad jurídica y genera incertidumbre en la ciudadanía.</p>
+			<p>Podemos entender cómo el acceso a la justicia busca obtener “aspectos organizativos, procesales, sin olvidarnos de lo digital, debe ocuparse en la reorganización de la base de la pirámide jurisdiccional. Hay que buscar la armonía de tres puntos básicos: una nueva organización y visualización del orbe judicial, las oficinas judiciales y la obsesión por llegar a todos conformando una peculiar y operativa Justicia”<xref ref-type="fn" rid="fn23"><sup>23</sup></xref>. Con ello, tener tribunales preparados con los valores hacia la medida de una justicia virtual que pretenda, no sólo dar proximidad, sino además dotar una efectividad en la determinación del mejor derecho que corresponda en cada caso en particular.</p>
+			<p>Uno de los mayores retos identificados para la justicia virtual es la pérdida de enfoque de las competencias y la falta de coordinación entre los distintos mecanismos de control constitucional, como el juicio de amparo, las acciones de inconstitucionalidad y las controversias constitucionales. Esto se traduce en una administración de justicia que brinda el uso efectivo de “las tecnologías de la información y comunicación que permitirá brindar más servicios jurídicos, de calidad, eficientar recursos y racionalizarlos”<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>. Así, evitar una justicia lenta, costosa y desigual, especialmente para personas que carecen de conocimientos técnicos o de recursos para acceder a procesos complejos. Por eso se propone un rediseño institucional que simplifique los procedimientos, fortalezca el papel del Poder Judicial Federal y dote de mayor coherencia al sistema normativo.</p>
+			<p>En el contexto mexicano, esto significa reconocer que no bastan las reformas legales o tecnológicas si no se acompaña de una transformación estructural que coloque en el centro a la ciudadanía y su derecho a una justicia equitativa. La justicia no puede seguir pensándose como una prerrogativa del conocimiento jurídico, sino como un bien público al que todos deben acceder en condiciones de igualdad y con resultados efectivos.</p>
+			<p>A raíz de esta forma de transformación digital en la justicia, se ha desarrollado una herramienta importante para este acceso a la justicia; y a la vez, ha permitido la transparencia de las actuaciones en los procesos. Con esto, se ha fortalecido la credibilidad en los órganos jurisdiccionales, debido a que son pautas clave para el progreso. De esta manera, se puede garantizar una tutela judicial efectiva. Entre las ventajas derivadas del acceso digital, se encuentra la de acceder a la justicia ingresando por esta vía sin limitación de tiempo. Así se examinan las plataformas que requiere el Poder Judicial para ofrecer dicha modalidad con las ventajas señaladas.</p>
+			<p>Bajo ese razonamiento, el acceso a la información se constituye de la consulta, los requerimientos, audiencias, desahogo de pruebas, revisión de expedientes electrónicos, admisión de la demanda. Esto, toda vez que son algunas de las ejecuciones que se efectúan de manera remota a través del espacio digital que se han habilitado para llegar a la eliminación de barreras en la determinación de una forma o medida de accesibilidad a la justicia.</p>
+			<p>La tecnología ha permitido implementar el juicio en línea. En México, diversos preceptos regularizan esta conexión y configuran la posición de los lineamientos para accederlo, así como efectuar la gestión dentro de estos debido a que ofrecen ventajas de diversas situaciones como la competencia territorial, la accesibilidad de contar con los medios y recursos en el tiempo que se requiera revisar el expediente. Con esto, se establece un parámetro de las condiciones actuales de los tribunales que han logrado traspasar ese velo de constitucionalismo hacia un derecho que se ejerce por vía digital, que procede con el mismo rigor que la vía tradicional. Esta aplicación del derecho constituye una forma de transformación hacia un Estado de Derecho que visualiza la modernización.</p>
+			<p>Con esta adaptación de la plataforma tecnológica al proceso del juicio en línea, se ha instaurado el derecho al acceso a la tutela judicial en la vía digital. Así, se establece el procedimiento de actuación para el funcionamiento de los órganos competentes para resolver dicha vía. Es una forma de proceder a la opción de marcos que ayuden al funcionamiento actual para obtener la justicia.</p>
+			<p>En los procesos de la justicia en línea, se ha destacado que la clave es la interoperabilidad. La interoperabilidad se ha resaltado como parte fundamental para posibilitar la gestión de los juicios en línea. En México, se dispone de reglamentos o acuerdos para el uso de estas herramientas de interoperabilidad. En Nuevo León, el acceso es por medio de la Firma Electrónica Judicial (FEJUD). Mediante esta firma electrónica, se ingresa desde la presentación la demanda, su seguimiento, las promociones, las pruebas, los alegatos, el desahogo de las audiencias, hasta llegar a la culminación del proceso con la sentencia correspondiente al caso.</p>
+			<p>El punto interesante en el caso de Nuevo León es la forma en que opera la justicia digital determinada a través de la plataforma. En específico, el Tribunal Virtual del Poder Judicial de Nuevo León, es la forma de comunicarse y de trasmitir o intercambiar la información que se somete a dicha plataforma. Con esto, se logra agilizar los procesos donde se facilita el acceso y la viabilidad para conectividad. Además, se procura tener una línea para eliminar las limitantes en el acceso a la justicia. Se trata de una acción para acercar la justicia hacia los particulares.</p>
+			<p>La optimización de los medios y recursos que ayudan en la integración y procuración de la justicia en línea por medio de las plataformas, son la vía por la que las partes van integrado este proceso; teniendo la facilidad de tal optimización de recursos, horas, traslados. Esto es lo que se ha generado por medio de estos mecanismos. Así, se concluye que la justicia debe proporcionar accesibilidad para todos; y a través de esa vía, se genera dicha posibilidad.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>V. Conclusión</title>
+			<p>La justicia es un aforismo fundamental que brinda seguridad a los particulares que llegan a solicitar. En este contexto, se logra una estabilidad de los derechos, cuando se presenta una violación a los mismos.</p>
+			<p>Es un tema de sumo interés, debido a los parámetros de organización dentro del poder judicial en el acceso. Se observa en la actualidad cómo se ha transformado hacia la vía digital esta como el eje hacia la construcción de la garantía efectiva para construir una sociedad en armonía.</p>
+			<p>Los cambios realizados para generar la estructura operante en la vía digital del poder judicial otorgan beneficios que robustecen a la justicia; misma que se obtiene por una plataforma que permite dicho acceso. Y para tal, se requieren criterios en la operación de la justicia.</p>
+			<p>Un punto interesante es realmente cómo una herramienta que ayuda a procesos más abiertos. Esta apertura posibilita el avance en la forma de acceder a la justicia. Esto sienta la base de una efectividad del derecho en la construcción de normas que vayan acorde para la solución de los conflictos, con los parámetros determinados y mecanismos de control correspondientes. Así, se genera el alcance de la armonía de la operación judicial.</p>
+			<p>Se puede determinar que la clave hacia la integración de la justicia en línea se basa en aquella oportunidad de acceder a esta por medio de plataformas. Estas plataformas que son amigables para conducirse y llevar el proceso con los lineamientos determinados en la norma jurídica. Esto, para no tan sólo modernizar la vía, sino el objetivo principal es la protección y salvaguarda de los derechos. Por lo tanto, esta herramienta tecnológica ha funcionado para integrar los recursos con factibilidad de resolver los problemas por los órganos judiciales en la vía digital.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>VI. Referencias bibliográficas</title>
+			<ref id="B1">
+				<mixed-citation>Álvarez, Clara Luz y José María Soberanes Díez. Plataformas de justicia digital en México y el derecho a la información judicial. <italic>Estudios en Derecho a la Información</italic>, vol. 10, n.° 20, 2025. https://doi.org/10.22201/iij.25940082e.2025.20.19648 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Álvarez</surname>
+							<given-names>Clara Luz</given-names>
+						</name>
+						<name>
+							<surname>Soberanes Díez</surname>
+							<given-names>José María</given-names>
+						</name>
+					</person-group>
+					<article-title>Plataformas de justicia digital en México y el derecho a la información judicial</article-title>
+					<source>Estudios en Derecho a la Información</source>
+					<volume>10</volume>
+					<issue>20</issue>
+					<year>2025</year>
+					<pub-id pub-id-type="doi">10.22201/iij.25940082e.2025.20.19648</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Aristóteles. <italic>La política</italic>. México: Ed. Porrúa, 1994.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Aristóteles</collab>
+					</person-group>
+					<source>La política</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Ed. Porrúa</publisher-name>
+					<year>1994</year>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Bustamante Alarcón, Reynaldo. El derecho a probar como elemento esencial de un proceso justo. Perú: Ara Editores, 2018.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bustamante Alarcón</surname>
+							<given-names>Reynaldo</given-names>
+						</name>
+					</person-group>
+					<source>El derecho a probar como elemento esencial de un proceso justo</source>
+					<publisher-loc>Perú</publisher-loc>
+					<publisher-name>Ara Editores</publisher-name>
+					<year>2018</year>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Calamandrei, Piero. <italic>Instituciones de derecho procesal civil</italic>. Buenos Aires: Ediciones Jurídica Europa-América, 1973.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calamandrei</surname>
+							<given-names>Piero</given-names>
+						</name>
+					</person-group>
+					<source>Instituciones de derecho procesal civil</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Ediciones Jurídica Europa-América</publisher-name>
+					<year>1973</year>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Casasola, Ángel Eduardo y Ariel Ramiro Graneros. Transformación digital y eficiencia: El papel clave del Departamento de Sistemas en la Oficina de Gestión Judicial. <italic>Diálogos y Voces Judiciales</italic>, vol. 1, n.° 2, 2023. <ext-link ext-link-type="uri" xlink:href="https://dialogos.justiciajujuy.gov.ar/index.php/dvj/article/view/12">https://dialogos.justiciajujuy.gov.ar/index.php/dvj/article/view/12</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Casasola</surname>
+							<given-names>Ángel Eduardo</given-names>
+						</name>
+						<name>
+							<surname>Ramiro Graneros</surname>
+							<given-names>Ariel</given-names>
+						</name>
+					</person-group>
+					<article-title>Transformación digital y eficiencia: El papel clave del Departamento de Sistemas en la Oficina de Gestión Judicial</article-title>
+					<source>Diálogos y Voces Judiciales</source>
+					<volume>1</volume>
+					<issue>2</issue>
+					<year>2023</year>
+					<ext-link ext-link-type="uri" xlink:href="https://dialogos.justiciajujuy.gov.ar/index.php/dvj/article/view/12">https://dialogos.justiciajujuy.gov.ar/index.php/dvj/article/view/12</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Convenio Electrónico de Uso del Tribunal Virtual del Poder Judicial del Estado de Nuevo León. <ext-link ext-link-type="uri" xlink:href="https://tribunalvirtual.pjenl.gob.mx/htm/TVConvenio.pdf">https://tribunalvirtual.pjenl.gob.mx/htm/TVConvenio.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<source>Convenio Electrónico de Uso del Tribunal Virtual del Poder Judicial del Estado de Nuevo León</source>
+					<ext-link ext-link-type="uri" xlink:href="https://tribunalvirtual.pjenl.gob.mx/htm/TVConvenio.pdf">https://tribunalvirtual.pjenl.gob.mx/htm/TVConvenio.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Couso, Javier. Consolidación democrática y poder judicial: los riesgos de la judicialización de la política.<italic>Revista de Ciencia Política</italic>, vol. 24, n.° 2, 2004.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Couso</surname>
+							<given-names>Javier</given-names>
+						</name>
+					</person-group>
+					<article-title>Consolidación democrática y poder judicial: los riesgos de la judicialización de la política</article-title>
+					<source>Revista de Ciencia Política</source>
+					<volume>24</volume>
+					<issue>2</issue>
+					<year>2004</year>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Cristallo, Johanna e Ignacio Alejandro Mayorga Álvarez. Elasticidad de los derechos de acceso a la justicia y asistencia jurídica en el derecho constitucional chileno: aportes de Eduardo Novoa al debate actual. Tesis de licenciatura. Universidad de Chile, 2024. <ext-link ext-link-type="uri" xlink:href="https://repositorio.uchile.cl/bitstream/handle/2250/202469/Elasticidad-de-los-derechos-de-acceso-a-la-justicia-y-asistencia-juridica-en-el-derecho-constitucional-chileno.pdf;jsessionid=B5D5CB0C5A65336F038E3F0E3CB3FC67?sequence=1">https://repositorio.uchile.cl/bitstream/handle/2250/202469/Elasticidad-de-los-derechos-de-acceso-a-la-justicia-y-asistencia-juridica-en-el-derecho-constitucional-chileno.pdf;jsessionid=B5D5CB0C5A65336F038E3F0E3CB3FC67?sequence=1</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="thesis">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cristallo</surname>
+							<given-names>Johanna</given-names>
+						</name>
+						<name>
+							<surname>ayorga Álvarez</surname>
+							<given-names>Ignacio Alejandro</given-names>
+						</name>
+					</person-group>
+					<source>Elasticidad de los derechos de acceso a la justicia y asistencia jurídica en el derecho constitucional chileno: aportes de Eduardo Novoa al debate actual</source>
+					<comment content-type="degree">Tesis de licenciatura</comment>
+					<publisher-name>Universidad de Chile</publisher-name>
+					<year>2024</year>
+					<ext-link ext-link-type="uri" xlink:href="https://repositorio.uchile.cl/bitstream/handle/2250/202469/Elasticidad-de-los-derechos-de-acceso-a-la-justicia-y-asistencia-juridica-en-el-derecho-constitucional-chileno.pdf;jsessionid=B5D5CB0C5A65336F038E3F0E3CB3FC67?sequence=1">https://repositorio.uchile.cl/bitstream/handle/2250/202469/Elasticidad-de-los-derechos-de-acceso-a-la-justicia-y-asistencia-juridica-en-el-derecho-constitucional-chileno.pdf;jsessionid=B5D5CB0C5A65336F038E3F0E3CB3FC67?sequence=1</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Cristallo, Johanna , Renzo Lavin, Florencia Gayraud y Ada C. Daglio. <italic>Transformación digital en el sistema de justicia: oportunidades para una justicia rápida, accesible y transparente</italic>. Buenos Aires: Fundar, 2023.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cristallo</surname>
+							<given-names>Johanna</given-names>
+						</name>
+						<name>
+							<surname>Lavin</surname>
+							<given-names>Renzo</given-names>
+						</name>
+						<name>
+							<surname>Gayraud</surname>
+							<given-names>Florencia</given-names>
+						</name>
+						<name>
+							<surname>Daglio</surname>
+							<given-names>Ada C</given-names>
+						</name>
+					</person-group>
+					<source>Transformación digital en el sistema de justicia: oportunidades para una justicia rápida, accesible y transparente</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Fundar</publisher-name>
+					<year>2023</year>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Diz, Fernando Martín. El derecho fundamental a justicia: revisión integral e integradora del derecho a la tutela judicial efectiva. <italic>Revista de Derecho Político</italic>, n° 106, 2019. https://doi.org/10.5944/rdp.106.2019.26146</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Diz</surname>
+							<given-names>Fernando Martín</given-names>
+						</name>
+					</person-group>
+					<article-title>El derecho fundamental a justicia: revisión integral e integradora del derecho a la tutela judicial efectiva</article-title>
+					<source>Revista de Derecho Político</source>
+					<issue>106</issue>
+					<year>2019</year>
+					<pub-id pub-id-type="doi">10.5944/rdp.106.2019.26146</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Echeverría Justicia, Johanna Alexandra. Derecho Procesal y Garantías Constitucionales: Un Análisis Comparativo.<italic>Ciencia Latina: Revista Multidisciplinar</italic>, vol. 8, n.<sup>o</sup> 3, 2024. <ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/descarga/articulo/9566107.pdf">https://dialnet.unirioja.es/descarga/articulo/9566107.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Echeverría Justicia</surname>
+							<given-names>Johanna Alexandra</given-names>
+						</name>
+					</person-group>
+					<article-title>Derecho Procesal y Garantías Constitucionales: Un Análisis Comparativo</article-title>
+					<source>Ciencia Latina: Revista Multidisciplinar</source>
+					<volume>8</volume>
+					<issue>3</issue>
+					<year>2024</year>
+					<ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/descarga/articulo/9566107.pdf">https://dialnet.unirioja.es/descarga/articulo/9566107.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>González Oropeza, Manuel y Marcos Del Rosario Rodríguez. La interpretación conforme y el principio por persona en la justicia constitucional local, en IX mesa redonda sobre justicia constitucional en las entidades federativa. México: Tribunal Electoral del Poder Judicial de la Federación, 2015.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>González Oropeza</surname>
+							<given-names>Manuel</given-names>
+						</name>
+						<name>
+							<surname>Del Rosario Rodríguez</surname>
+							<given-names>Marcos</given-names>
+						</name>
+					</person-group>
+					<source>La interpretación conforme y el principio por persona en la justicia constitucional local, en IX mesa redonda sobre justicia constitucional en las entidades federativa</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Tribunal Electoral del Poder Judicial de la Federación</publisher-name>
+					<year>2015</year>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Insignares Cera, Silvana. El acceso a la justicia a partir del mecanismo de solución de controversias previsto en el TLC COL-USA.<italic>Revista de Derecho</italic>, n°. 43, 2015.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Insignares Cera</surname>
+							<given-names>Silvana</given-names>
+						</name>
+					</person-group>
+					<article-title>El acceso a la justicia a partir del mecanismo de solución de controversias previsto en el TLC COL-USA</article-title>
+					<source>Revista de Derecho</source>
+					<issue>43</issue>
+					<year>2015</year>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Juan Carlos Campo Moreno. Democracia, ciudadanía y justicia. Una reflexión integral. <italic>Anuario Iberoamericano de Buen Gobierno y Calidad Democrática</italic>, n. 2, 2025. https://doi.org/10.69592/3020-8378-N2-ABRIL-2025-ART-2</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Campo Moreno</surname>
+							<given-names>Juan Carlos</given-names>
+						</name>
+					</person-group>
+					<article-title>Democracia, ciudadanía y justicia. Una reflexión integral</article-title>
+					<source>Anuario Iberoamericano de Buen Gobierno y Calidad Democrática</source>
+					<issue>2</issue>
+					<year>2025</year>
+					<pub-id pub-id-type="doi">10.69592/3020-8378-N2-ABRIL-2025-ART-2</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Ley de Justicia Administrativa para el Estado y Municipio de Nuevo León, última reforma publicada en el periódico oficial del Estado con fecha de 11 de noviembre de 2024, <ext-link ext-link-type="uri" xlink:href="https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20JUSTICIA%20ADMINISTRATIVA%20PARA%20EL%20ESTADO%20Y%20MUNICIPIOS.pdf?2024-11-11">https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20JUSTICIA%20ADMINISTRATIVA%20PARA%20EL%20ESTADO%20Y%20MUNICIPIOS.pdf?2024-11-11</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Ley de Justicia Administrativa para el Estado y Municipio de Nuevo León, última reforma publicada en el periódico oficial del Estado con fecha de 11 de noviembre de 2024</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20JUSTICIA%20ADMINISTRATIVA%20PARA%20EL%20ESTADO%20Y%20MUNICIPIOS.pdf?2024-11-11">https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20JUSTICIA%20ADMINISTRATIVA%20PARA%20EL%20ESTADO%20Y%20MUNICIPIOS.pdf?2024-11-11</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Linares Torres, Freddy y Kevler Contrera. “Presencia del Estado y plataforma de servicios digitales”.<italic>Revista de Ciencia e Investigación en Defensa</italic>, vol. 4, n°. 2, 2023. https://doi.org/10.58211/recide.v4i2.103</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Linares Torres</surname>
+							<given-names>Freddy</given-names>
+						</name>
+						<name>
+							<surname>Contrera</surname>
+							<given-names>Kevler</given-names>
+						</name>
+					</person-group>
+					<article-title>Presencia del Estado y plataforma de servicios digitales</article-title>
+					<source>Revista de Ciencia e Investigación en Defensa</source>
+					<volume>4</volume>
+					<issue>2</issue>
+					<year>2023</year>
+					<pub-id pub-id-type="doi">10.58211/recide.v4i2.103</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Marco Antonio Saavedra Mogro. La Gobernanza de la Justicia Políticas Públicas Para Una Utopía Jurídica Interactiva. <italic>Revista Jurídica Derecho</italic>, vol. 11, n.° 17, 2022. <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.bo/pdf/rjd/v11n17/v11n17_a05.pdf">http://www.scielo.org.bo/pdf/rjd/v11n17/v11n17_a05.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Saavedra Mogro</surname>
+							<given-names>Marco Antonio</given-names>
+						</name>
+					</person-group>
+					<article-title>La Gobernanza de la Justicia Políticas Públicas Para Una Utopía Jurídica Interactiva</article-title>
+					<source>Revista Jurídica Derecho</source>
+					<volume>11</volume>
+					<issue>17</issue>
+					<year>2022</year>
+					<ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.bo/pdf/rjd/v11n17/v11n17_a05.pdf">http://www.scielo.org.bo/pdf/rjd/v11n17/v11n17_a05.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Medina Zepeda, Emmanuel. Hacia una teoría sobre la e-justice o justicia digital: instrucciones para armar. Cuestiones Constitucionales. <italic>Revista Mexicana de Derecho Constitucional</italic>, 1(46), 2022. https://doi.org/10.22201/iij.24484881e.2022.46.17052</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Medina Zepeda</surname>
+							<given-names>Emmanuel</given-names>
+						</name>
+					</person-group>
+					<article-title>Hacia una teoría sobre la e-justice o justicia digital: instrucciones para armar. Cuestiones Constitucionales</article-title>
+					<source>Revista Mexicana de Derecho Constitucional</source>
+					<volume>1</volume>
+					<issue>46</issue>
+					<year>2022</year>
+					<pub-id pub-id-type="doi">10.22201/iij.24484881e.2022.46.17052</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Ríos Ruiz, Alma de los Ángeles. La justicia electrónica en México: visión comparada con América Latina. <italic>Revista de la Facultad de Derecho de México</italic>, vol. 5, n.° 10, 2018. https://doi.org/10.22201/fder.24488933e.2016.266.59011</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ríos Ruiz</surname>
+							<given-names>Alma de los Ángeles</given-names>
+						</name>
+					</person-group>
+					<article-title>La justicia electrónica en México: visión comparada con América Latina</article-title>
+					<source>Revista de la Facultad de Derecho de México</source>
+					<volume>5</volume>
+					<issue>10</issue>
+					<year>2018</year>
+					<pub-id pub-id-type="doi">10.22201/fder.24488933e.2016.266.59011</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Rocío Mercedes Araújo-Oñate. Acceso a la justicia y tutela judicial efectiva. Propuesta para fortalecer la justicia administrativa. Visión de derecho comparado. <italic>Estudio Socio-Jurídico</italic>, v. 1, n.° 13, 2011. <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/pdf/esju/v13n1/v13n1a09.pdf">http://www.scielo.org.co/pdf/esju/v13n1/v13n1a09.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mercedes Araújo-Oñate</surname>
+							<given-names>Rocío</given-names>
+						</name>
+					</person-group>
+					<article-title>Acceso a la justicia y tutela judicial efectiva. Propuesta para fortalecer la justicia administrativa. Visión de derecho comparado</article-title>
+					<source>Estudio Socio-Jurídico</source>
+					<volume>1</volume>
+					<issue>13</issue>
+					<year>2011</year>
+					<ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/pdf/esju/v13n1/v13n1a09.pdf">http://www.scielo.org.co/pdf/esju/v13n1/v13n1a09.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Zambrano Noles, Silvia. El acceso a la justicia y la tutela judicial efectiva en relación con la seguridad ciudadana en Ecuador.<italic>Tla-melaua</italic>, v. 9, n°. 39, 2016. <ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/pdf/tla/v9n39/1870-6916-tla-9-39-00058.pdf">https://www.scielo.org.mx/pdf/tla/v9n39/1870-6916-tla-9-39-00058.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zambrano Noles</surname>
+							<given-names>Silvia</given-names>
+						</name>
+					</person-group>
+					<article-title>El acceso a la justicia y la tutela judicial efectiva en relación con la seguridad ciudadana en Ecuador</article-title>
+					<source>Tla-melaua</source>
+					<volume>9</volume>
+					<issue>39</issue>
+					<year>2016</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/pdf/tla/v9n39/1870-6916-tla-9-39-00058.pdf">https://www.scielo.org.mx/pdf/tla/v9n39/1870-6916-tla-9-39-00058.pdf</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>
+					<xref ref-type="bibr" rid="B11">Johanna Alexandra Echeverría Justicia</xref>, “Derecho Procesal y Garantías Constitucionales: Un Análisis Comparativo”,<italic>Ciencia Latina: Revista Multidisciplinar</italic>, vol. 8, n. 3 (2024): 173. <ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/descarga/articulo/9566107.pdf">https://dialnet.unirioja.es/descarga/articulo/9566107.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>
+					<xref ref-type="bibr" rid="B10">Fernando Martín Diz</xref>, “El derecho fundamental a justicia: revisión integral e integradora del derecho a la tutela judicial efectiva”,<italic>Revista de Derecho Político</italic>, n.° 106 (2019): 26. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5944/rdp.106.2019.26146">https://doi.org/10.5944/rdp.106.2019.26146</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>
+					<xref ref-type="bibr" rid="B3">Reynaldo Bustamante Alarcón</xref>, “El derecho a probar como elemento esencial de un proceso justo” (Perú: Ara Editores, 2018), 43.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">Silvana Insignares Cera</xref>, “El acceso a la justicia a partir del mecanismo de solución de controversias previsto en el TLC COL-USA”.<italic>Revista de Derecho</italic>, Colombia, n°. 43 (2015): 230. <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/851/85138494007.pdf">https://www.redalyc.org/pdf/851/85138494007.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>
+					<xref ref-type="bibr" rid="B7">Javier Couso</xref>, “Consolidación democrática y poder judicial: los riesgos de la judicialización de la política”.<italic>Revista de Ciencia Política</italic>. Santiago, Chile, vol. 24, n.° 2 (2004): 45. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4067/S0718-090X2004000200002">http://dx.doi.org/10.4067/S0718-090X2004000200002</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>
+					<xref ref-type="bibr" rid="B17">Marco Antonio Saavedra Mogro</xref>, “La Gobernanza de la Justicia Políticas Públicas Para Una Utopía Jurídica Interactiva”.<italic>Revista Jurídica Derecho</italic>, vol. 11, n.° 17 (2022): 67. <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.bo/pdf/rjd/v11n17/v11n17_a05.pdf">http://www.scielo.org.bo/pdf/rjd/v11n17/v11n17_a05.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>Ignacio Alejandro Mayorga Álvarez, “Elasticidad de los derechos de acceso a la justicia y asistencia jurídica en el derecho constitucional chileno: aportes de Eduardo Novoa al debate actual”. (Tesis al grado de Licenciado Jurídica y Sociales, Universidad de Chile, 2024), 34. <ext-link ext-link-type="uri" xlink:href="https://repositorio.uchile.cl/bitstream/handle/2250/202469/Elasticidad-de-los-derechos-de-acceso-a-la-justicia-y-asistencia-juridica-en-el-derecho-constitucional-chileno.pdf;jsessionid=B5D5CB0C5A65336F038E3F0E3CB3FC67?sequence=1">https://repositorio.uchile.cl/bitstream/handle/2250/202469/Elasticidad-de-los-derechos-de-acceso-a-la-justicia-y-asistencia-juridica-en-el-derecho-constitucional-chileno.pdf;jsessionid=B5D5CB0C5A65336F038E3F0E3CB3FC67?sequence=1</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn8">
+				<label>8</label>
+				<p>
+					<xref ref-type="bibr" rid="B20">Rocío Mercedes Araújo-Oñate</xref>, “Acceso a la justicia y tutela judicial efectiva. Propuesta para fortalecer la justicia administrativa. Visión de derecho comparado”, <italic>Estudio Socio-Jurídico</italic>, v. 1, n.° 13, (2011): 251. <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/pdf/esju/v13n1/v13n1a09.pdf">http://www.scielo.org.co/pdf/esju/v13n1/v13n1a09.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn9">
+				<label>9</label>
+				<p><italic>Ibid</italic>., 250.</p>
+			</fn>
+			<fn fn-type="other" id="fn10">
+				<label>10</label>
+				<p>
+					<xref ref-type="bibr" rid="B21">Silvia Zambrano Noles</xref>, “El acceso a la justicia y la tutela judicial efectiva en relación con la seguridad ciudadana en Ecuador”.<italic>Tla-melaua</italic>, v. 9, n°. 39, (2016): 76. <ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/pdf/tla/v9n39/1870-6916-tla-9-39-00058.pdf">https://www.scielo.org.mx/pdf/tla/v9n39/1870-6916-tla-9-39-00058.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn11">
+				<label>11</label>
+				<p>
+					<xref ref-type="bibr" rid="B2">Aristóteles</xref>, <italic>La política</italic> (México: Ed. Porrúa, 1994),11-14.</p>
+			</fn>
+			<fn fn-type="other" id="fn12">
+				<label>12</label>
+				<p>
+					<xref ref-type="bibr" rid="B12">Manuel González Oropeza, Manuel y Marcos Del Rosario Rodríguez</xref>, <italic>La interpretación conforme y el principio por persona en la justicia constitucional local, en IX mesa redonda sobre justicia constitucional en las entidades federativa</italic> (México: Tribunal Electoral del Poder Judicial de la Federación, 2015), 73.</p>
+			</fn>
+			<fn fn-type="other" id="fn13">
+				<label>13</label>
+				<p><italic>Ibid</italic>., 77.</p>
+			</fn>
+			<fn fn-type="other" id="fn14">
+				<label>14</label>
+				<p>
+					<xref ref-type="bibr" rid="B4">Calamandrei</xref>, <italic>Instituciones de Derecho Procesal Civil</italic> (Buenos días: Ediciones Jurídica Europa-América, 1973), 56.</p>
+			</fn>
+			<fn fn-type="other" id="fn15">
+				<label>15</label>
+				<p>
+					<xref ref-type="bibr" rid="B16">Freddy Linares Torres y Kevler Contrera</xref>, “Presencia del Estado y plataforma de servicios digitales”.<italic>Revista de Ciencia e Investigación en Defensa</italic>, vol. 4, n°. 2, (2023): 22. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.58211/recide.v4i2.103">https://doi.org/10.58211/recide.v4i2.103</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn16">
+				<label>16</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">Clara Luz Álvarez, José María Soberanez Díez</xref>, “Plataformas de justicia digital en México y el derecho a la información judicial”,<italic>Estudios en Derecho a la Información</italic>, vol.<italic>10</italic>, n°. 20, (2025): 3-38. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.22201/iij.25940082e.2025.20.19648">https://doi.org/10.22201/iij.25940082e.2025.20.19648</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn17">
+				<label>17</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">Ángel Eduardo Casasola, Ariel Ramiro Graneros</xref>, “Transformación digital y eficiencia: El papel clave del Departamento de Sistemas en la Oficina de Gestión Judicial”.<italic>Diálogos y Voces Judiciales</italic>, vol. 1, n° 2, (2023): 11. <ext-link ext-link-type="uri" xlink:href="https://dialogos.justiciajujuy.gov.ar/index.php/dvj/article/view/12">https://dialogos.justiciajujuy.gov.ar/index.php/dvj/article/view/12</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn18">
+				<label>18</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Convenio Electrónico de Uso del Tribunal Virtual del Poder Judicial del Estado de Nuevo León</xref>, <ext-link ext-link-type="uri" xlink:href="https://tribunalvirtual.pjenl.gob.mx/htm/TVConvenio.pdf">https://tribunalvirtual.pjenl.gob.mx/htm/TVConvenio.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn19">
+				<label>19</label>
+				<p>
+					<xref ref-type="bibr" rid="B15">Ley de Justicia Administrativa para el Estado y Municipio de Nuevo León</xref>, última reforma publicada en el periódico oficial del Estado con fecha de 11 de noviembre de 2024, <ext-link ext-link-type="uri" xlink:href="https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20JUSTICIA%20ADMINISTRATIVA%20PARA%20EL%20ESTADO%20Y%20MUNICIPIOS.pdf?2024-11-11">https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20JUSTICIA%20ADMINISTRATIVA%20PARA%20EL%20ESTADO%20Y%20MUNICIPIOS.pdf?2024-11-11</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn20">
+				<label>20</label>
+				<p>
+					<xref ref-type="bibr" rid="B18">Emmanuel Medina Zepeda</xref>, “Hacia una teoría sobre la e-justice o justicia digital: instrucciones para armar. Cuestiones Constitucionales”,<italic>Revista Mexicana de Derecho Constitucional</italic>, <italic>1</italic>(46), 177-212. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.22201/iij.24484881e.2022.46.17052">https://doi.org/10.22201/iij.24484881e.2022.46.17052</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn21">
+				<label>21</label>
+				<p>
+					<xref ref-type="bibr" rid="B9">Johanna Cristallo, Renzo Lavin, Florencia Gayraud y Ada C. Daglio</xref>, <italic>Transformación digital en el sistema de justicia: oportunidades para una justicia rápida, accesible y transparente</italic> (Buenos Aires: Fundar, 2023): 9.</p>
+			</fn>
+			<fn fn-type="other" id="fn22">
+				<label>22</label>
+				<p>
+					<xref ref-type="bibr" rid="B18">Emmanuel Medina Zepeda</xref>, “Hacia una teoría sobre la e-justice o justicia digital”.</p>
+			</fn>
+			<fn fn-type="other" id="fn23">
+				<label>23</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">Juan Carlos Campo Moreno</xref>, “Democracia, ciudadanía y justicia. Una reflexión integral”,<italic>Anuario Iberoamericano de Buen Gobierno y Calidad Democrática</italic>, n°. 2 (2025): 84. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.69592/3020-8378-N2-ABRIL-2025-ART-2">https://doi.org/10.69592/3020-8378-N2-ABRIL-2025-ART-2</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn24">
+				<label>24</label>
+				<p>
+					<xref ref-type="bibr" rid="B19">Alma de los Ángeles Ríos Ruiz</xref>, “La justicia electrónica en México: visión comparada con América Latina”, <italic>Revista de la Facultad de Derecho de México</italic>, vol. 5, n.° 10 (2018): 129. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.22201/fder.24488933e.2016.266.59011">https://doi.org/10.22201/fder.24488933e.2016.266.59011</ext-link>
+				</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

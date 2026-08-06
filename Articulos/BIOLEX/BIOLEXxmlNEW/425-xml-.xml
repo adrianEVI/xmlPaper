@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">biolex</journal-id>
+<journal-title-group>
+<journal-title>Biolex</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2007-5634</issn>
+<issn pub-type="epub">2007-5545</issn>
+<publisher>
+<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.36796/biolex.v17i28.425</article-id>
+<article-id pub-id-type="other">00111</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Artículos</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Impacto del área de investigación legislativa en el Congreso de Veracruz</article-title>
+<trans-title-group xml:lang="en">
+<trans-title>Impact of the Legislative Research Area in the Veracruz Congress</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0001-8529-3161</contrib-id>
+<name>
+<surname>Altamirano Castro</surname>
+<given-names>José Guadalupe</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+<role>Doctor en Derecho, Maestro en Administración Pública. Maestro en Derecho Procesal Penal</role>
+</contrib>
+<aff id="aff1">
+<label>1</label>
+<institution content-type="original">Doctor en Derecho, Maestro en Administración Pública. Maestro en Derecho Procesal Penal. Miembro del SNI, Nivel 1. Profesor-Investigador de El Colegio de Veracruz. Líneas de investigación, Profesionalización del servicio público; y Combate a la Anticorrupción; ambas con perspectiva de derechos humanos y participación ciudadana. Correo: jgaltamiranoc@colver.edu.mx</institution>
+<institution content-type="normalized">El Colegio de Veracruz</institution>
+<institution content-type="orgname">El Colegio de Veracruz</institution>
+<country country="MX">Mexico</country>
+<email>jgaltamiranoc@colver.edu.mx</email>
+</aff>
+</contrib-group>
+<pub-date date-type="pub" publication-format="electronic">
+<day>18</day>
+<month>12</month>
+<year>2025</year>
+</pub-date>
+<pub-date date-type="collection" publication-format="electronic">
+<season>Jan-Dec</season>
+<year>2025</year>
+</pub-date>
+<volume>17</volume>
+<issue>28</issue>
+<elocation-id>e425</elocation-id>
+<history>
+<date date-type="received">
+<day>12</day>
+<month>08</month>
+<year>2025</year>
+</date>
+<date date-type="accepted">
+<day>27</day>
+<month>10</month>
+<year>2025</year>
+</date>
+</history>
+<permissions>
+<license xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" license-type="open-access" xml:lang="es">
+<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+</license>
+</permissions>
+<abstract>
+<title>Resumen</title>
+<p>El presente producto de investigación tiene como propósito demostrar la necesidad de constituir un instituto de investigación legislativa en el Congreso de Veracruz. Para tal encomienda, el punto de partida es un diagnóstico de las debilidades del proceso legislativo en Veracruz. Posteriormente, se realiza un análisis comparativo de las bondades y beneﬁcios que, en términos de insumos para la toma de decisiones legislativas, ofrecen hoy en día los centros e institutos de investigación legislativa como el de la Cámara de Senadores. Finalmente, se justiﬁcan los componentes orgánicos y de operación para la creación de dicha instancia con base a su naturaleza, objeto y estructura orgánica. Se concluye que el Congreso de Veracruz presenta deﬁciencias en la calidad legislativa, evidenciadas por controversias constitucionales, así como que el área existente es inoperante y que resulta indispensable la investigación legislativa como apoyo técnico.</p>
+</abstract>
+<trans-abstract xml:lang="en">
+<title>Abstract</title>
+<p>This research aims to demonstrate the need for the establishment of a legislative research institute within the Veracruz Congress. To this end, the starting point is a diagnosis of the weaknesses in the legislative process in Veracruz. Subsequently, a comparative analysis is conducted of the advantages and beneﬁts that legislative research centers and institutes, such as the one in the Senate, currently offer in terms of input for legislative decision-making. Finally, the organizational and operational components for the creation of such an institute are justiﬁed based on its nature, purpose, and organizational structure. The study concludes that the Veracruz Congress exhibits deﬁciencies in legislative quality, evidenced by constitutional controversies, and that the existing research area is ineffective, making legislative research essential as a technical support mechanism.</p>
+</trans-abstract>
+<kwd-group xml:lang="es">
+<title>Palabras clave:</title>
+<kwd>poder legislativo</kwd>
+<kwd>estudios legislativos</kwd>
+<kwd>investigación parlamentaria</kwd>
+</kwd-group>
+<kwd-group xml:lang="en">
+<title>Keywords:</title>
+<kwd>Legislative branch</kwd>
+<kwd>legislative studies</kwd>
+<kwd>parliamentary research</kwd>
+</kwd-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="1"/>
+<equation-count count="0"/>
+<ref-count count="14"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>I. Introducción<xref ref-type="fn" rid="fn1"><sup>1</sup></xref>
+</title>
+<p>Al observar los parámetros y los resultados de los ejercicios de percepción ciudadana llevados a cabo por organismos públicos y privados, es claro comprobar que hoy se mantiene un distanciamiento amplio entre las instituciones y la ciudadanía que crece de manera permanente. De hecho, de acuerdo a la Encuesta Nacional de Cultura Cívica (ENCUCI) 2021, las instituciones o servidores públicos en los que se tiene menos conﬁanza son los diputados y senadores con 2.7 %<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>. Además, la Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG) 2023, señala que las instituciones con mayor nivel de desconﬁanza en México son - en orden de mayor a menor desconﬁanza- los partidos políticos, la cámara de diputados y senadores, y las policías<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>. Se pretende revisar lo relativo al escenario de lo que ocurre una vez que son aprobadas las iniciativas, esto es, con parámetros vinculados a la evaluación ex post sobre el quehacer legislativo.</p>
+<p>Lo anterior tiene el propósito de sustentar una propuesta que contribuya a la mejora del trabajo legislativo con el apoyo de la actividad cientíﬁca y de investigación en los congresos locales. El trabajo se delimitó al Congreso de Veracruz por cuanto al espacio y tiempo, al periodo que comprende las legislaturas (2019-2021 y 2021-2024). Esto es la LXV y LXVI, periodo en que se presentaron mayores acciones de inconstitucionalidad por las decisiones legislativas.</p>
+<p>La percepción que se tiene de la ﬁgura de los legisladores y su desempeño en la arena legislativa nos conduce a plantear una serie de interrogantes que se intentan responder con el presente producto de investigación, por ejemplo, ¿es eﬁciente el trabajo realizado por los legisladores?, ¿la eﬁciencia legislativa se puede medir solo con la cantidad de iniciativas aprobadas?, ¿qué tan relevante es la calidad de los productos legislativos en relación con sus efectos?, ¿se puede mejorar el contenido de los productos legislativos que se someten a votación?, ¿se realiza investigación legislativa en los y congresos? Finalmente, de manera particular para el caso de Veracruz, ¿qué se puede proponer como contribución que mejore el trabajo legislativo y, en consecuencia, el contenido sólido y argumentado de los productos legislativos?</p>
+<p>Las interrogantes anteriores se intentan responder directa o indirectamente desde el trabajo documental y de campo que se ha efectuado. Para su tratamiento, el estudio se divide en los siguientes apartados. El primero, denominado “Planteamiento del problema”, tiene como propósito delimitar la problemática de estudio, revisando las debilidades y diﬁcultades que enfrentó el Congreso de Veracruz durante el periodo señalado en la generación de los productos legislativos y cómo algunos de ellos han tenido que quedar sin efecto por los acuerdos resueltos por el Poder Judicial de la federación con motivo de las acciones de inconstitucionalidad tramitadas al respecto. Al mismo tiempo, se plantea una hipótesis que contribuya a aminorar dicha problemática.</p>
+<p>El apartado siguiente se enfoca en la revisión del origen y conformación de los centros de investigación legislativa en México, en los ámbitos federal y estatal, destacando su importancia como generadores no solo de insumos para la toma de decisiones legislativas, sino por la fructífera gama de acciones en formación, capacitación y producción académica especializada en el quehacer legislativo y parlamentario.</p>
+<p>En el penúltimo apartado es llevado a cabo el estudio de los pros y contras del trabajo legislativo en Veracruz. Desde la perspectiva propositiva de generar oportunidades de mejora, el análisis no se centra en el contenido de la iniciativa, sino en los componentes orgánicos y de operación que se requiere considerar para la constitución del instituto de investigación legislativa en Veracruz.</p>
+<p>Finalmente, se precisa el impacto positivo esperado con la creación del órgano de investigación legislativa, es decir, destacar cuáles serán los beneﬁcios e impacto social para los veracruzanos en áreas como transparencia, rendición de cuentas y en la construcción de políticas públicas.</p>
+</sec>
+<sec>
+<title>II. Planteamiento del problema</title>
+<p>Asumiendo que el resultado del ejercicio legislativo es, entre otras cosas, la aprobación de normas, resulta obligado asimilar los escenarios venideros <italic>a posteriori</italic>. No siempre resulta suﬁciente asumir una decisión legislativa y esperar que ello no genere consecuencias o efectos hacia los diversos sectores a las que están dirigidas, hablando del efecto jurídico-político.</p>
+<p>En este orden ideas, es preciso ubicar el problema que se observa en el proceso legislativo y, a partir de ello, plantear la hipótesis que permita apuntalar la propuesta que contribuya a mejorar el quehacer legislativo en el Congreso de Veracruz.</p>
+<p>Quienes tiene el privilegio de representar a los ciudadanos deben cumplir su mandato con una gran responsabilidad y compromiso, en virtud de que las decisiones que tomen general repercusiones -positivas o negativas- para toda la población. Por ello, se ha sostenido en otros ejercicios académicos realizados por el autor, que quienes se incorporan a los cargos públicos por el mecanismo de que se trate deben cumplir con un perﬁl<xref ref-type="fn" rid="fn4"><sup>4</sup></xref> idóneo acorde al cargo a desempeñar.</p>
+<p>La tarea legislativa no es una responsabilidad menor, por el contrario, es una labor especializada que requiere, entre otras cosas, experiencia en técnica legislativa, retórica parlamentaria, redacción legislativa y otros componentes que no son motivo del presente estudio, pero resulta necesario no soslayar. Como lo precisan algunos autores “las leyes, es decir, la legislación, son una intervención pública más, la cual, está inserta en la jerarquía de decisión y acción estatal de un país”.<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>
+</p>
+<p>La elección popular<xref ref-type="fn" rid="fn6"><sup>6</sup></xref> es uno de los mecanismos de incorporación a los cargos públicos en México, sin embargo, este no exige cumplir un perﬁl determinado para realizar la labor legislativa. A lo máximo, se señala que es suﬁciente “cumplir requisitos de elegibilidad”, no obstante, es notorio observar comportamientos y posturas en el seno del recinto legislativo que rayan en la ausencia de profesionalismo. Cuando lo que se demanda desde la ciudadanía para quienes tienen la encomienda legislativa, son argumentos sólidos, conocimiento de lo que se legisla, auténtico debate de altura en los que se deﬁenda el interés común y no el de unos cuantos a través del acuerdo y del consenso.</p>
+<p>Al tratarse de un trabajo académico, no se puede ser irresponsable y asumir una postura amarillista, sin embargo, a la vista de muchos ha sido recurrente -en diferentes legislaturas tanto en el ámbito federal como estatal- observar a personas legisladoras presentar como iniciativas auténticos absurdos poco viables con un mar de limitaciones y vicisitudes que ponen en tela de juicio su viabilidad, amén de aquellas que solo tienen un ﬁn enunciativo e interés político, pero sin contenido sólido que justiﬁque su aprobación y menos su carácter obligatorio.</p>
+<p>Para un sector de la población, no resulta importante que quienes tienen la responsabilidad de legislar cumplan con un perﬁl idóneo, toda vez que disponen de asesores, un equipo de expertos que se encarga de “arrastran el lápiz” y cuya labor es leer, investigar y aportar datos para robustecer de argumentos y fundamentos la exposición de motivos y la estructura y contenido de las iniciativas de ley. En el peor de los casos, les hacen la tarea desde las oﬁcinas de los titulares del poder ejecutivo, especialmente de las consejerías jurídicas, donde les remiten el producto completo y el legislador elegido solo la presenta sin tener, en ocasiones, la responsabilidad de defenderla.</p>
+<p>Es un hecho que en muchos casos no existe un procedimiento para la incorporación de los cuerpos de asesores, pues como ocurre en la práctica, su ingreso al servicio público legislativo es de carácter discrecional. También, es obligado señalar que existen personas con este carácter que tienen una amplia trayectoria y experiencia en la labor de asesoría legislativa y que contribuyen en mucho a digniﬁcar y darle un grado profesional al quehacer legislativo. Más allá de limitar la eﬁciencia legislativa en razón de la cantidad de iniciativas presentadas, aprobadas, rechazadas y las que se encuentran en proceso de trámite, resultará de mayor provecho y aportación pensar en la justiﬁcación, contenido e impacto de lo aprobado</p>
+<p>por las legislaturas. Al respecto, señala Sergio Arturo Bárcena:</p>
+<disp-quote>
+<p>La clasiﬁcación de las iniciativas de ley en los contextos de transición (y en general, en los escenarios contemporáneos de alta productividad legislativa) permite tener un primer acercamiento al desempeño legislativo, pues resulta al menos útil reconocer que los proyectos de ley varían entre sí, de acuerdo con los recursos que requieren para su promoción, las demandas a las que atienden, el objeto de transformación, el segmento poblacional al que afectan y el impacto jurídico-político que conllevan, entre otras cosas<xref ref-type="fn" rid="fn7"><sup>7</sup></xref>.</p>
+</disp-quote>
+<p>Sin demeritar el trabajo y conocimiento de los legisladores, asesores y colaboradores del Congreso de Veracruz, este ha padecido un número considerable de correcciones por parte de la Suprema Corte de Justicia de la Nación (SCJN) en varias de las decisiones legislativas asumidas. A continuación, se anuncian y describen algunas de ellas para efectos de ilustrar la importancia del trabajo previo en la construcción del contenido de las iniciativas y por qué cobra relevancia la existencia de un centro de investigación legislativa.</p>
+<p>Como se observa en la <xref ref-type="table" rid="t1">Tabla 1</xref>, son varias las decisiones legislativas tomadas por el Congreso de Veracruz que han sido declaradas inconstitucionales por el máximo tribunal del país, ya sea por contravenir a la Constitución o por constituirse en auténticas violaciones a los derechos humanos. Desde luego, no son las únicas, lo mismo ha ocurrido con las remociones arbitrarias votadas por el Congreso, donde se decidió la no permanencia de varios magistrados del Poder Judicial de Veracruz, quienes al acudir a la justicia federal se resolvió a su favor la reinstalación, lo que en consecuencia ha costado recursos al órgano judicial.</p>
+<p>
+<table-wrap id="t1">
+<label>Tabla 1</label>
+<caption>
+<title><italic>Relación de iniciativas del Congreso de Veracruz declaradas inconstitucionales</italic></title>
+</caption>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;"><bold>Exp.</bold><bold> </bold></td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 130px;"><bold>Mecanismo</bold><bold> </bold></td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 130px;"><bold>Promovente</bold><bold> </bold></td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 300px;"><bold>Motivo de controversia</bold></td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px; width: 300px;"><bold>Resolvió</bold><bold> </bold></td>
+</tr>
+<tr>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">44/2019 </td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Acción    de inconstitucio- nalidad</td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Comisión Nacional de los Derechos Humanos (CNDH)</td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Porción:    "… existir indicios de…", del artículo 31 de la Ley Número 236 para la    Declaración Especial de Ausencia por Desaparición de Personas para el Estado    de Veracruz de Ignacio de la Llave, publicada el 20 de marzo de 2019,    la cual permitía que, en la recuperación de bienes en casos de personas    ausentes que reaparecen, bastaría la existencia de indicios de que la persona    hizo creer su desaparición de manera deliberada con el ﬁn de evadir    responsabilidades, para que ésta solamente pudiera recobrar sus bienes en el    estado en el que se hallaren, sin poder reclamar los frutos –productos o utilidades que
+      los bienes    generan– ni rentas.</td>
+<td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Resolvió que la mera existencia de indicios no es suﬁciente para tener por    acreditada, en la vía civil, la posible simulación de una desaparición.</td>
+</tr>
+<tr>
+<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Por    tanto, estableció el Pleno, la disposición resultaba violatoria de las    garantías de audiencia, seguridad jurídica, debido proceso y legalidad, previstos en los artículos    14 y 16 de la Constitución Política de los Estados Unidos Mexicanos, así como    de los artículos 8.1 de la Convención Americana sobre Derechos Humanos y 14.1    del Pacto Internacional de Derechos Civiles y Políticos.</td>
+</tr>
+<tr>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">61/2019 </td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Acción    de inconstitucio- nalidad</td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">CNDH </td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Ley Número    248 de Comunicación Social para el Estado de    Veracruz, publicada el 17 de mayo de 2019.</td>
+<td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Invalidó    la Ley Número 248 de Comunicación Social para el Estado de Veracruz de Ignacio de la Llave, publicada el 17 de mayo de    2019, al considerar que, durante el respectivo proceso legislativo, se    cometieron diversas violaciones de carácter invalidante.</td>
+</tr>
+<tr>
+<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">En    especíﬁco, 1) la dispensa de trámites legislativos, sin constatarse la    votación caliﬁcada requerida; y 2) la falta de motivación
+    para acreditar la hipótesis de urgencia.</td>
+</tr>
+<tr>
+<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">148/2020 </td>
+<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Acción    de inconstitucio-nalidad</td>
+<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Diversos partidos políticos </td>
+<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">La invalidez del Decreto 576,    por el que se reforman, y    adicionan diversas disposiciones de la Constitución Política del Estado Libre    y Soberano de Veracruz de Ignacio de la Llave, publicado en la Gaceta    Oﬁcial del Estado de Veracruz, Tomo CCI, Número Extraordinario 248 Tomo III, fecha
+      lunes 22 de junio    2020.</td>
+<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">El    Pleno determinó que el contenido del decreto    impugnado incidía directamente en los intereses de    los pueblos y comunidades indígenas y afromexicanas del Estado.</td>
+</tr>
+<tr>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">144/2020 y
+      su acumulada    185/2020 </td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Acción    de inconstitucio- nalidad</td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Comisión    Estatal de Derechos Humanos de Veracruz (CEDHV)    y la CNDH.</td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Reformas    realizadas al Código Civil para el Estado de Veracruz mediante el Decreto    569, publicado el 10 de junio    de 2020.</td>
+<td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Se    invalidó el artículo 47, en la porción que establece "su madre o su padre",    al considerar que ella se reaﬁrmaba la exigencia de que el matrimonio debe    ser celebrado únicamente entre un hombre    y una mujer,    excluyendo a las parejas homosexuales. Por las    mismas
+      razones, el Tribunal Pleno    invalidó otros</td>
+</tr>
+<tr>
+<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">artículos en la porción    normativa "con la
+      madre y el padre".</td>
+</tr>
+<tr>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">204/2020 </td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Acción    de inconstitucio- nalidad</td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">CNDH </td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Decreto    Número 557 que reformó diversas disposiciones de la Ley para la Integración de las Personas con Discapacidad del Estado de    Veracruz.</td>
+<td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Invalidez del Decreto Número    557 que reforma diversas disposiciones a la Ley    para la Integración de las Personas con Discapacidad del Estado    de Veracruz, publicado en la Gaceta Oﬁcial de dicha entidad    federativa el seis de mayo de dos    mil veinte, de conformidad con    el apartado VI de esta decisión.</td>
+</tr>
+<tr>
+<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">El    actuar de los diputados locales de Veracruz va en contra del derecho, al    incumplir con el mecanismo que se debe seguir para crear y dictaminar una ley, así    como contra los propios    derechos humanos que garantiza la Constitución Política de México.
+      Las    personas con alguna discapacidad no fueron    consultadas o incluidas en algún foro sobre el tema. En el Congreso se    incluyó la talla baja como forma de discapacidad; propuesta presentada por el    priista Jorge
+    Moreno Salinas.</td>
+</tr>
+<tr>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">59/2021 y
+      su acumulada    66/2021 </td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Acción    de inconstitucio- nalidad</td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Diputados    del Congreso local, así como la Comisión Estatal de Derechos Humanos (CEDH)</td>
+<td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Artículo    331 del Código Penal de Veracruz, sobre el delito de ultrajes    a la autoridad, por ser violatorio a los derechos humanos.</td>
+<td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Declaró la invalidez    del tipo penal de ultrajes, previsto en el artículo 331, fracciones I, II y IV    del Código Penal del estado de Veracruz.
+      Además, se declaró la invalidez del    artículo 371, fracción II    del Código Penal para el estado de Veracruz, que sancionaba poseer, portar o    utilizar equipos de comunicación de cualquier tipo para obtener y comunicar,    sin un ﬁn lícito,    información sobre las acciones, actividades o labores de los integrantes de    las instituciones de seguridad pública estatal o municipal.</td>
+</tr>
+<tr>
+<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Este    artículo establece que se impondrán de seis meses a dos años de prisión y una    multa de hasta cuarenta días de salario a quien amenace o agreda a un    servidor público en el momento    de ejercer sus funciones o con motivo
+    de    ellas.</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn id="TFN1">
+<p><italic>Fuente</italic>: elaboración propia con datos tomados del portal oﬁcial de la SCJN (s. f.).<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>
+</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</p>
+<p>En mayo de 2024, la Suprema Corte de Justicia de la Nación determinó que el Congreso del Estado de Veracruz incurrió en una omisión legislativa al dejar de adecuar su legislación para dar mayor autonomía a sus municipios, ello con base a la controversia constitucional 111/2020, promovida por el municipio de Veracruz, en contra del poder legislativo local. Esto signiﬁca que hay un problema en el quehacer legislativo vinculado al contenido de algunas de las decisiones aprobadas por el Congreso de Veracruz.</p>
+<p>La intención de mostrar los casos en mención permite comprender la importancia de aprovechar la oportunidad de mejorar el quehacer legislativo, reconociendo la necesidad de reforzar la labor que hoy en día realizan los equipos de trabajo, los asesores y los propios legisladores en la construcción de la estructura y contenido de las iniciativas. No es el primer ni único congreso que enfrenta esta problemática, y está de más exponer las causas; por ello se requiere proponer alternativas que permitan la intervención para atenderle.</p>
+<p>Al respecto, cabe plantear diversas interrogantes: ¿hay ausencia de competencias, habilidades y conocimientos sobre el trabajo legislativo por parte de legisladores y sus equipos de trabajo? ¿Es deﬁciente el trabajo legislativo de las personas legisladoras del Congreso de Veracruz? ¿Se puede resolver esta problemática a ﬁn de mejorar la actividad legislativa en Veracruz? ¿Cuáles serían las alternativas de solución de esta problemática?</p>
+<p>El presente trabajo propone como hipótesis principal la constitución del instituto de investigación legislativa del Congreso de Veracruz con estructura, infraestructura, presupuesto y margen de operación para subsanar las diﬁcultades que hoy enfrenta el órgano legislativo en la toma de decisiones legislativas, preparando los insumos que integren los contenidos de las iniciativas por presentar y aprobar con argumentos sólidos basados en estudios e investigaciones.</p>
+</sec>
+<sec>
+<title>III. Los centros e institutos de investigación legislativa</title>
+<p>Se sostiene la postura de que las decisiones públicas tienen un gran impacto en la población, tanto de manera positiva como negativa; por ello, no se pueden tomar a la ligera ni bajo la guía de la brújula política. No obstante, en los discursos políticos se arrojan disparates y absurdos e incluso se ﬁrman en documentos ocurrencias que exhiben la ignorancia de quienes las proponen. En auxilio ante tales atrevimientos existen metodologías para atender los temas públicos de forma sistemática y sustentada, hoy se cuenta con esquemas como las políticas públicas, la metodología del marco lógico, el presupuesto basado en resultados, el sistema de evaluación del desempeño, entre otros. De esta manera, se usa la ciencia para planear la intervención gubernamental, para fortalecer la agenda pública y atender los temas de preocupación de la población.</p>
+<p>Diversas instituciones públicas han comprendido la importancia de la vinculación con las unidades académicas para el diseño de propuestas desde las universidades, que resuelvan los problemas públicos, así como para que desde el sector gubernamental se enriquezcan los programas de estudio. En ciertos sectores gubernamentales, esta dinámica se ha fortalecido, sobre todo en el ámbito federal, creando escuelas de formación que buscan fortalecer los programas de profesionalización y capacitación de los servidores públicos. Algunas de estas han ido más allá y se han abocado a realizar investigación, como las escuelas judiciales en el ámbito federal y en algunos estados que hasta cuentan con un claustro académico y de investigación.</p>
+<p>Esta intención no es ajena, desde hace varios años, en los órganos legislativos federales y estatales. Sin duda, quienes tienen aﬁnidad por los temas legislativos y parlamentarios tienen conocimiento de la existencia del Instituto Belisario Domínguez del Senado de la República, así como del Centro de Estudios de Derecho e Investigaciones Legislativas de la Cámara de Diputados y las respectivas instancias en cada una de las entidades federativas. Brevemente, se revisarán algunos de los existentes, cuyo propósito principal es la generación de insumos para la toma a decisiones legislativas.</p>
+<p>En este contexto es oportuno delimitar la importancia y conceptualización de la investigación legislativa como el principal quehacer de los institutos o centros de investigación de los órganos legislativos. En ese tenor, como lo expone Bárbara Leonor Cabrera, la investigación legislativa se conceptualiza como:</p>
+<disp-quote>
+<p>Conjunto de actividades conducidas a partir de una metodología que conjunta métodos y técnicas, orientadas a la consecución de productos entregables que proveen de datos, informaciones y conocimientos a quienes toman decisiones en el ámbito legislativo, con la ﬁnalidad de aportar elementos para la resolución deproblemáticas a partir de la legislación, sea para reformar, derogar o abrogar leyes<xref ref-type="fn" rid="fn9"><sup>9</sup></xref>.</p>
+</disp-quote>
+<p>Vale la pena subrayar lo sostenido por Rivas y Camacho en la ruta hacia la que debe estar enﬁlada la investigación legislativa, bajo la perspectiva de su conﬁguración ética en los términos siguientes:</p>
+<disp-quote>
+<p>La investigación jamás debe separarse de la verdad, ni debe ser alterada a favor de nada, su rasero es la objetividad, su instrumento, la sentencia fenomenológica de “ir hacia las cosas mismas” que en este contexto signiﬁca respetar los temas planteados en las iniciativas sujetas a análisis y emprender el comparado de acercamientos con parámetros claros y ciertos para todos<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>.</p>
+</disp-quote>
+<p>Las instancias de investigación de los órganos legislativos a nivel federal y estatal, con independencia de su denominación, tienen como propósito primordial la generación de insumos para la toma de decisiones legislativas. Ehrman aﬁrma que su objeto es “apoyar a los legisladores en proporcionar datos e información acorde al tema de la política pública que en ese momento esté en consideración en la legislatura, para una mejor toma de decisiones”<xref ref-type="fn" rid="fn11"><sup>11</sup></xref>.</p>
+<p>La creación de los institutos o centros de investigación legislativa no es tan longeva, sino más bien reciente. Como lo aﬁrma Patrón: “es a partir de 1999 en el nivel federal que se inició la constitución de Centros de Investigación Legislativa, que de manera gradual se fueron replicando en las entidades federativas”<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>. Curiosamente, el caso de Veracruz es el único que no tiene el estatus de instituto o centro de investigación, sino que está reducido a una coordinación dependiente de la Secretaría General del Congreso.</p>
+<p>A nivel federal existen, en la Cámara de Diputados, cinco centros: Centro de Estudios de Finanzas Públicas, Centro de Estudios de Derecho e Investigaciones Parlamentarias, Centro de Estudios Sociales y de Opinión Pública, Centro de Estudios para el Adelanto de las Mujeres y la Equidad de Género, y el Centro de Estudios para el Desarrollo Rural sustentable y la Soberanía Alimentaria. Por su parte, en el Senado de la República se cuenta con el instituto ya mencionado y el Centro de Estudios Internacionales Gilberto Bosque.</p>
+<p>A nivel estatal se cuenta con un centro con tales características en todas las entidades federativas a excepción de Colima, estos mantienen algunas diferencias en términos de estructura, funcionamiento y margen de maniobra. Veinticuatro de ellos tienen denominación de Instituto (Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila, Chiapas, Chihuahua, Ciudad de México, Durango, Estado de México, Guerrero, Hidalgo, Jalisco, Michoacán, Morelos, Puebla, Quintana Roo, San Luis Potosí, Sinaloa, Tabasco, Tamaulipas, Tlaxcala, Yucatán y Zacatecas); tres como centros (Sonora, Oaxaca y Nuevo León) y uno es nombrado coordinación, que es el caso de Veracruz.</p>
+<p>Adicionalmente, con base en lo revisado se localizó información que documenta la intencionalidad de estos centros por agruparse para estudiar y hacer comunidad en torno a la mejora del quehacer legislativo con el desarrollo de metodologías de investigación. Así, en 1999, con reconocimiento oﬁcial ante notario en 2002, se fundó la Asociación Mexicana de Institutos y Organismos de Estudios e Investigaciones Legislativos<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>. Hacia 2004, también se conformó la Red de Investigadores Parlamentarios en Línea (REDIPAL)<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>, y aunque la información sobre el trabajo de estos colegiados es escasa, ésta última llevó a cabo el Congreso REDIPAL 2023-2024.</p>
+<p>Al respecto, es obligado revisar buenas prácticas sobre estos órganos de investigación legislativa para demostrar el importante papel que hoy en día tienen en la toma de decisiones legislativas, sobre todo en la mejora de los productos legislativos y en el impacto positivo hacia la población, como el caso de las Instancias de investigación del Senado de la República, el estado de Guanajuato, Querétaro, Estado de México y CDMX.</p>
+<sec>
+<title><italic>A) Instituto Belisario Domínguez del Senado de la República</italic></title>
+<p>El Instituto Belisario Domínguez del Senado de la República (en adelante IBD) tiene una relevancia signiﬁcativa en materia parlamentaria y legislativa. Desde la investigación, esta instancia aporta valiosos insumos para el senado, además ha diversiﬁcado sus funciones y aportaciones a los temas públicos del país.</p>
+<p>El IBD tiene sus orígenes en 1984, esto es una historia de 40 años. Ha transitado por una serie de transformaciones, siempre pensadas en su fortalecimiento. Hacia 1985 se denominó Centro de Informática Legislativa (CILSEN). En 1995 se transformó en el Instituto de Investigaciones Legislativas del Senado de la República (IILSEN). Para 2007, con la aprobación de su nuevo reglamento pasó a denominarse Instituto de Investigaciones Legislativas del Senado Belisario Domínguez, como hoy se conoce.</p>
+<p>La estructura del IBD es amplia, desde el punto de vista jerárquico cuenta con cuatro áreas que son el comité directivo, la presidencia del comité directivo, la junta ejecutiva y la coordinación ejecutiva de investigación. Cada una cuenta con diferentes áreas de apoyo, el comité directivo cuenta con el consejo consultivo y la unidad de atención a grupos parlamentarios; la presidencia del comité se apoya con la secretaría particular, secretaría técnica, dirección administrativa y asesoría de la presidencia; y la coordinación ejecutiva de investigación con la unidad de apoyo técnico y la unidad de gestión administrativa.</p>
+<p>La estructura en mención es relevante, porque constituye el área directiva del instituto, sin embargo, las que cobran relevancia para el estudio que se realiza son las que siguen en escala jerárquica, las que le dan origen y sentido a este importante órgano de investigación, las direcciones generales. A saber, son cuatro: Dirección General de Investigación Estratégica, Dirección General de Análisis Legislativo, Dirección General de Difusión y Publicaciones y la Dirección General de Finanzas. Ésta última se menciona, pero no se requiere profundizar en ella.</p>
+<p>La primera cuenta con las siguientes áreas: equidad y derechos sociales, desarrollo económico y sustentabilidad, sistema político y federalismo y derechos humanos, seguridad y justicia; la segunda, con estudios sobre la agenda parlamentaria, atención a solicitudes de análisis legislativos, seguimiento y sistematización del trabajo legislativo y el área de estudios de opinión pública; la tercera cuenta con difusión, publicaciones, estrategia digital y área de vinculación.</p>
+<p>En relación con el trabajo realizado y las actividades que actualmente lleva a cabo el IBD, es posible veriﬁcar dicha información en los informes publicados en su portal. Al consultar el informe correspondiente al periodo 2016-2017, se encontró documentada la siguiente numeralia: se ﬁrmaron seis convenios de colaboración entre las diferentes direcciones generales, la coordinación ejecutiva de investigación y la presidencia del instituto, así como en coedición con otras instituciones como el Colectivo de Análisis de la Seguridad con Democracia (CASEDE) y la Universidad Nacional Autónoma de México; se publicaron 23 libros y se publicaron cuatro volúmenes (29, 30, 31 y 32) de la revista Pluralidad y Consenso, en los que los investigadores del instituto contribuyeron con 15 artículos de investigación, cuatro reseñas bibliográﬁcas, cuatro infografías y una nota coyuntural.</p>
+<p>Adicionalmente, las cuatro direcciones generales y la coordinación ejecutiva de investigación generaron 27 cuadernos de investigación relacionados con diversos temas de interés, tales como derechos humanos, violencia, cambio climático, factibilidad hacendaria, parlamento abierto y transparencia. En conjunto, las direcciones generales y la Coordinación Ejecutiva de Investigación han generado 277 documentos de apoyo. La Dirección General de Análisis Legislativo atendió 11 solicitudes de Senadores en torno a temas como la viabilidad legislativa del seguro a personas con discapacidad, la revisión legislativa sobre trata de personas e información relevante en comparecencias y organizó 70 eventos que fueron realizados en colaboración con otras organizaciones, nacionales e internacionales.</p>
+<p>Como se puede observar, el trabajo del IBD es amplio y arduo, sobre todo tomando en cuenta que esta revisión abarca solo un periodo y no toda su labor. Bien valdría la pena llevar a cabo otro estudio que permita una revisión puntual, debidamente clasiﬁcada sobre el trabajo efectuado por las diversas áreas y contrastarlo con el presupuesto y gasto que genera su existencia y funcionamiento, que con toda certeza son mayores los beneﬁcios que el costo.</p>
+<p>Es importante destacar que el instituto cuenta con un claustro de 25 investigadores, clasiﬁcados en tres categorías “A”, “B” y “C”, distribuidos de la siguiente manera: 6 en categoría A; 10 en categoría B y 9 en categoría C. De ellos, 2 están adscritos a la dirección general de análisis legislativo, 1 a la dirección general de Investigación estratégica; 3 al área de atención a solicitudes de análisis legislativos, 3 al área de análisis de las ﬁnanzas públicas; 3 al área de difusión, 2 al área de derechos humanos, seguridad y justicia; 1 al área de equidad y derechos sociales; 1 al área de estudios sobre la agenda parlamentaria; 1 al área de seguimiento y sistematización del trabajo legislativo; 1 al área de análisis prospectivo y presupuestal de las decisiones legislativas; 2 al área de publicaciones; 2 al área de estrategia digital; 1 al área de vinculación; y 2 más que no tienen una adscripción especíﬁca.</p>
+</sec>
+<sec>
+<title><italic>B) Instituto de Investigaciones Legislativas del Congreso de Guanajuato</italic></title>
+<p>Con base a la información localizada en el portal oﬁcial del Congreso de Guanajuato, así como la obtenida a través de la Plataforma Nacional de Transparencia, se localizaron insumos, productos y acciones que permiten asegurar un impacto positivo del objeto y naturaleza del Instituto de Investigaciones Legislativas de Guanajuato por cuanto a la mejora de los productos legislativos y en las demás decisiones legislativas<xref ref-type="fn" rid="fn15"><sup>15</sup></xref>.</p>
+<p>Con base a la Ley Orgánica del Congreso de Guanajuato, la instancia de investigación legislativa se encuentra adscrita a la Secretaría General y tiene como atribuciones realizar investigación en las distintas áreas del conocimiento concernientes a la función legislativa, efectuar eventos, foros y seminarios académicos; establecer mecanismos de coordinación y cooperación con institutos y entidades que realicen funciones similares, así como con ﬁnes académicos y aquellas que coadyuven con las facultades, actividades, funciones y ﬁnes del Congreso del Estado; formular y ejecutar programas de formación y capacitación de personal técnico en el desarrollo de la función legislativa; convocar a concursos de investigación; tener a su cargo la biblioteca para los ﬁnes del Congreso del Estado; realizar los análisis que le encomienden las comisiones legislativas; coordinar las acciones y estudios que le asigne la Junta de Gobierno y Coordinación Política o el titular de la Secretaría General; editar publicaciones, así como coordinar la compilación y difusión de las normas, decretos, acuerdos y disposiciones de observancia general.</p>
+<p>En cuanto a la información relevante para los propósitos del texto, es importante destacar que, además de la estructura administrativa, la instancia de investigación cuenta con 4 investigadores adscritos, expertos en técnica legislativas y derecho parlamentario. Por cuanto, a los productos e insumos generados, se enuncian los siguientes:</p>
+<p>109 documentos de apuntes legislativos, lo que pretenden dar a conocer los planteamientos, iniciativas e inquietudes de las y los diputados e incluye las colaboraciones de quienes se interesan por contribuir al desarrollo de la materia legislativa con el tratamiento de aspectos como trabajo de naturaleza teórica sobre cuestiones jurídicas, políticas, económicas, sociales y ﬁlosóﬁcas relacionadas al quehacer parlamentario; artículos, análisis y estudios relativos a las materias de carácter legislativo; y reseñas bibliográﬁcas y exposición de documentos del archivo histórico. La edición busca apoyar y fortalecer las tareas de divulgación y discernimiento de los temas que atañen a la función legislativa y la dinámica social.</p>
+<p>115 estudios y opiniones que se constituyen en auténticas investigaciones realizadas por el Instituto sobre las iniciativas presentadas por los distintos grupos parlamentarios para efectuar una evaluación ex ante con la ﬁnalidad de que su contenido y estructura esté debidamente argumentado y en la discusión y aprobación logre convencimiento entre los legisladores.</p>
+<p>Además, ha realizado 78 convenios de colaboración con instituciones educativas, colegios y grupos de la sociedad para mantener interacción y participación con los sectores sociales interesados en los temas que se discuten en sede legislativa.</p>
+<p>Adicionalmente, en lo que respecta a la evaluación ex post, la Dirección de Evaluación y Monitoreo Legislativo del Congreso del Estado de Guanajuato tiene a disposición un repositorio digital con formato accesible para su fácil consulta, enfocado al análisis sobre el cumplimiento y eﬁcacia que tienen algunas de las leyes de la entidad. En cada documento de evaluación se encuentra información valiosa e interesante que pretende ayudar en la comprensión no solo acerca de cómo se cumplen las normas, sino también detectar áreas de oportunidad para aprobar mejores leyes.</p>
+</sec>
+<sec>
+<title><italic>C) Instituto de investigaciones legislativas de la Ciudad de México</italic></title>
+<p>El Instituto de Investigaciones Legislativas es un órgano administrativo del Congreso, cuyo objetivo es la investigación y difusión de temas relacionados con el estudio, historia, funciones y actividades legislativas. Además, se encarga de realizar actividades, investigaciones y estudios con la ﬁnalidad de fortalecer el quehacer legislativo y la práctica parlamentaria; generando con ello, publicaciones de consulta bibliográﬁca útiles relativas a la Ciudad de México.<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>
+</p>
+<p>Además, es responsable de dar seguimiento puntual a las modiﬁcaciones que impactan el marco normativo de esta ciudad, con la ﬁnalidad mantener actualizada la legislación local. Genera mecanismos de colaboración y coordinación con instituciones académicas y de investigación para llevar a cabo el cumplimiento de sus objetivos e imparte cursos de capacitación en materias de técnica legislativa y práctica parlamentaria.</p>
+<p>Cuenta con 5 áreas: Subdirección de Investigaciones y Estudios en Derechos Humanos; Subdirección de Investigaciones y Estudios de la Ciudad de México; Subdirección de Investigaciones y Estudios Legislativos Comparados, Prácticas Parlamentarias y Capacitación Legislativa; Subdirección de Transparencia, Investigaciones y Estudios en Democracia y Participación Ciudadana; y Subdirección de Documentación, Archivo, Difusión, Vinculación y Operación Logística.</p>
+<p>Cabe destacar que el instituto cuenta con un consejo directivo que robustece y fortalece su imagen, además funge como eje rector de los trabajos a realizar, cuyos resultados y objetivos se circunscriben en ir a la vanguardia y cubrir las expectativas de las necesidades parlamentarias y legislativas de este congreso local. El Consejo está conformado, entre otros, por una diputada o un diputado representante de cada una de los grupos o asociaciones parlamentarias.</p>
+<p>En el portal del instituto se ubica un repositorio de los estudios e investigaciones que da cuenta de las actividades y acciones que respaldan el trabajo legislativo y que coadyuvan con la práctica parlamentaria del Congreso de la Ciudad de México. En su naturaleza de área de consulta y de apoyo técnico para las y los diputados, es que genera investigaciones y un acervo documental técnico en materia legislativa. Así, en este espacio pueden localizarse estudios sobre comercio popular a nivel internacional, asentamientos irregulares, políticas públicas en materia de derechos humanos, legislaciones locales en materia de participación ciudadana, entre otras.</p>
+<p>Un aspecto que resulta interesante es la obligatoriedad de las comisiones ordinarias, que tienen la tarea especíﬁca de presentar, por lo menos una vez al año, un proyecto de investigación al Instituto de Investigaciones Legislativas, con excepción de aquellas que por la carga de trabajo no estén en condiciones de llevarlo a cabo. También hay un repositorio donde aparece la relación de propuestas de dichas comisiones durante los años 2022 y 2023.</p>
+<p>Este órgano de investigación también lleva a cabo opiniones técnicas en su carácter de área de consulta y de apoyo técnico para las y los diputados, con la ﬁnalidad de contribuir a enriquecer el trabajo parlamentario en beneﬁcio de la labor legislativa del Congreso de la Ciudad de México, que buscan fortalecer el trabajo de análisis y consulta institucional.</p>
+<p>Estas buenas prácticas descritas permiten demostrar la importancia que tienen los órganos de investigación legislativa en el quehacer de los congresos mexicanos, que es notoria la incidencia en la mejora de los productos legislativos a través de opiniones técnicas o con base a la realización de investigaciones de mayor profundidad.</p>
+</sec>
+</sec>
+<sec>
+<title>IV. Justificación para constituir el instituto de investigación legislativa de Veracruz</title>
+<p>Se ha destacado la importancia de los estudios sobre el poder legislativo, bajo el entendido que estos han evolucionado en el contexto de la maduración democrática del país, la conformación de grupos parlamentarios, las alternancias, la conﬁguración de mayorías, entre otros indicadores. Sin embargo, es uno de los poderes que ha cobrado relevancia en los tiempos actuales por el protagonismo que ha alcanzado en razón del paquete de reformas que le corresponde aprobar próximamente, impulsadas por el ejecutivo federal y el partido político que representa y que en la reciente elección federal ha alcanzado una mayoría signiﬁcativa que le permitirá transitar con éxito la aprobación de esos 20 proyectos principales.</p>
+<p>Hoy, en el universo de estudios y la sistematización de los indicadores para su evaluación, uno que resulta relevante es el relacionado a la calidad en el contenido y estructura de las iniciativas de ley, en términos de los efectos que su aprobación puede traer consigo. Por ello, el contar con un centro o instituto de investigación legislativa puede contribuir a una evaluación positiva antes y después de la aprobación de una iniciativa de ley, entre otros beneﬁcios.</p>
+<p>Los congresos locales, especialmente el de Veracruz, han enfrentado controversias constitucionales que se han resuelto en contra en un número importante de decisiones legislativas, lo que despierta, sin duda, la inquietud de ubicar y delimitar la etapa o momento donde se requiere reforzar la construcción de una iniciativa, pero sobre todo atenderle para su mejora, lo que justiﬁca la necesidad de contar con un órgano de investigación legislativa que perfeccione el contenido de las propuestas de ley presentadas por los diversos grupos parlamentarios.</p>
+<p>En este sentido, como se ha constatado en líneas anteriores, el trabajo legislativo en Veracruz requiere un reforzamiento que le digniﬁque y le otorgue la seriedad debida. Hay fortalezas, pero también debilidades en el trabajo realizado por los legisladores, sus equipos y asesores que, en ocasiones, se reﬂejan en un contenido titubeante e incierto en las decisiones legislativas tomadas en el Congreso de Veracruz, que han tenido que pulverizarse ante el dique constitucional y de protección de los derechos humanos. Sin embargo, también se vislumbra una generosa oportunidad de fortalecer el quehacer legislativo con la constitución del instituto de investigación legislativa.</p>
+<p>No se trata de incrementar la cantidad de iniciativas presentadas o aprobadas mediante el proceso legislativo intentando mostrar eﬁcacia, sino de observar que la calidad de contenido incrementará el éxito y blindaje de las iniciativas de Ley aprobadas en el Congreso, en términos de sintonía con la constitución y los derechos humanos. El instrumento óptimo para garantizar dicho propósito es la institución, de la que se justiﬁca su constitución, que se propone con la estructura, infraestructura y presupuesto idóneo para su operación.</p>
+<p>De forma adicional al puntual análisis realizado, se indagó acerca de las características con las que hoy cuenta esa área como coordinación dependiente de la Secretaría General del Congreso y que, de acuerdo con lo revisado, se visualiza como un área de apoyo y asistencia al trabajo que se realiza en sesiones, pero no bajo los propósitos con los que se creó. Esta área se encuentra regulada con base a la Ley Orgánica del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave, que señala en su artículo 57, fracción IX, que el secretario general del congreso tiene, entre sus atribuciones siguientes, informar trimestralmente a la Junta de Trabajos Legislativos sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, sobre el desempeño en la prestación de los servicios legislativos, de ﬁscalización y administrativos y ﬁnancieros; así como de las siguientes áreas que estarán bajo su coordinación inmediata: oﬁcialía de partes, servicios jurídicos, investigaciones legislativas, comunicación social, informática, biblioteca, archivo, servicio médico y seguridad; y el Centro de Estudios para la igualdad de Género y los Derechos Humanos.</p>
+<p>Además, en el Reglamento de los Servicios Administrativos del Congreso de Veracruz de Ignacio de la Llave, en su sección cuarta, referida a la Coordinación de Investigaciones Legislativas, en su artículo 26 señala las siguientes funciones: realizar investigaciones jurídicas y de carácter legislativo, investigar y difundir estudios de la historia, funciones, actividades y prácticas de la vida legislativa del Estado; efectuar reuniones académicas y culturales vinculadas al estudio del derecho e investigaciones legislativas; promover convenios de colaboración con instituciones académicas nacionales y extranjeras, para intercambiar experiencias y documentación en materia legislativa; coadyuvar en la profesionalización del trabajo legislativo; emitir opiniones respecto de iniciativas de ley, en apoyo al trabajo legislativo de los integrantes y órganos del congreso; proponer en su programa editorial la publicación de obras de mérito especial, así como de colecciones periódicas y enciclopédicas sobre temas políticos, jurídicos y legislativos; emitir opiniones, cuando así se le solicite, sobre investigaciones o estudios que realicen los órganos del congreso; y las demás que, en el ámbito de su competencia, le instruya la secretaría general.</p>
+<p>Con estos elementos se acudió a la utilización de estrategias, así como técnicas de investigación como las entrevistas a personal del Congreso, encuestas digitales y la solicitud a través de la plataforma de transparencia para indagar sobre la naturaleza y objeto de la coordinación de investigación legislativa de Veracruz. Durante el proceso de revisión de literatura especializada sobre estudios del órgano legislativo y sobre la evaluación del quehacer legislativo, se realizó una encuesta rápida y sencilla en un formulario de la plataforma de Google, con la ﬁnalidad de saber si los legisladores, colaboradores, asesores y personal de apoyo de los congresos a nivel federal y estatal conocen los centros o institutos de investigación legislativa de la Cámara de Diputados, cuáles son sus funciones y las diversas actividades que realizan.</p>
+<p>De la encuesta, se obtuvieron los siguientes resultados de un universo de 54 personas que colaboran en el Congreso federal y en el Congreso de Veracruz. Un 65 % de las encuestadas tiene entre 18 y 35 años, el género resultó repartido por la mitad. El 63 % de los encuestados no sabe de la existencia de los centros de investigación legislativa.</p>
+<p>De la población que sí tiene conocimiento de la existencia de los centros, el 73 % no tiene conocimiento de las funciones de los mismos. El 84 % de ellos destacó que los centros o institutos son fundamentales para dar seguimiento a las iniciativas de ley. Sobre si estas instituciones cuentan con un claustro de académicos o investigadores, el 60 % respondió afirmativamente; el 90 % considera que las investigaciones realizadas son relevantes para el desarrollo de la función legislativa. Finalmente, el 60 % tienen conocimiento de que Veracruz cuenta con un centro o instituto de investigación legislativa.</p>
+<p>Durante el desarrollo del trabajo de investigación, se optó por la aplicación de otro instrumento, la entrevista, a personal que colabora en el Congreso de Veracruz, a partir de una serie de interrogantes como las siguientes: ¿cuenta el Congreso de Veracruz con un área de investigación legislativa? ¿Cuál es la estructura orgánica con la que cuenta? ¿Cuánto personal está adscrito a dicha coordinación? ¿Cuánto presupuesto tiene asignado para operar?</p>
+<p>¿Hay investigadores adscritos y cuantos? Especialmente, interesaba conocer cuántos trabajos de investigación había realizado el entrevistado y cuántas publicaciones tiene desde su creación hasta el 2025.</p>
+<p>A partir de las respuestas obtenidas en las entrevistas, se encontró evidencia de que dicha área existe en forma de coordinación, si existe dicha área como coordinación, aunque la mitad de los entrevistados no sabía de su existencia. De las personas que respondieron saber de su existencia, un 80 % sabe que no tiene personal adscrito ni administrativo y tampoco investigadores, salvo la persona encargada, que tampoco cuenta con presupuesto propio. Estas mismas personas aﬁrman que no existen publicaciones ni investigaciones generadas por la coordinación.</p>
+<p>Sin dudar de las generosas respuestas proporcionadas por los entrevistados, y al no encontrar elementos suﬁcientes que pudieran proporcionar un balance integral, se acudió con los mismos planteamientos a la Plataforma Nacional de Transparencia, dirigida a autoridades especíﬁcas del Congreso del Estado (Secretaría General del Congreso y la propia Coordinación de investigación legislativa), cuya solicitud quedó registrada con el folio 300540524000096. Al término de este trabajo no se cuenta con respuesta alguna.</p>
+<p>Con los argumentos anunciados a lo largo del trabajo queda plenamente justiﬁcada la necesidad de constitución de un instituto de investigación legislativa en el Congreso de Veracruz. Se asume que la responsabilidad de un investigador, más allá de la construcción de una iniciativa de ley, está obligado a aportar los elementos que justiﬁquen su integración o redacción. Como ha quedado demostrado, el Instituto no solo aportará en la justiﬁcación, contenido y estructura de las iniciativas por presentar, sino también en la asesoría y consulta de los diputados, la generación de estudios, la generación de foros de consulta especializados, en la publicación de libros y revistas, el diálogo permanente y vinculación con las unidades académicas, entre otros beneﬁcios.</p>
+<p>Desde luego que lo anterior implicará una iniciativa que puede ir en dos sentidos: primero, que transforme la coordinación existente en el instituto en virtud, que como se veriﬁcó no se han cumplido las funciones señaladas en el artículo 26 del Reglamento de los Servicios Administrativos del Congreso de Veracruz de Ignacio de la Llave<italic>;</italic> y segundo, que se derogue dicha área y, en su lugar, se proponga la creación del instituto. Sea cual fuera la medida, va a ser necesario que contemple algunos de los componentes que se mencionan a continuación.</p>
+<p>Es necesario que cuente con un presupuesto mínimo para su operación, que permita cubrir los sueldos del personal, los servicios básicos y la generación de insumos como investigaciones y publicaciones. La estructura propuesta debe contemplar, como mínimo, una dirección general; dos subdirecciones, una de investigación estratégica y otra de análisis legislativo. Tomando como referencia el Instituto Belisario Domínguez, estas dos áreas tendrán dos funciones. La primera consistirá en la realización de investigaciones estratégicas y estudios comparativos en diversas materias, con el propósito de proporcionar la información y el conocimiento que requieran los órganos de gobierno, las comisiones legislativas y las diputadas y los diputados. La segunda, consistirá en la realización y sistematización de productos de información, estudios y análisis sobre temas de la agenda legislativa, para brindar la atención a las solicitudes de los órganos de gobierno, las comisiones legislativas y a las diputadas y los diputados.</p>
+<p>En cuanto al personal requerido para el inicio de su operación, serán necesarias 7 personas, 2 como personal administrativo y 5 en calidad de investigadores. El perﬁl más completo de los cinco investigadores podrá ser nombrado director general y los otros cuatro serán distribuidos en las dos subdirecciones. Los investigadores deberán contar con grado de doctorado en el campo del derecho o aﬁnes, pertenecer al Sistema Nacional de Investigadores y, preferentemente, tener conocimientos de técnica legislativa, así como del funcionamiento del Poder Legislativo.</p>
+<p>Los nombramientos de los investigadores serán por examen de oposición, se propone que la dinámica sea similar a la que actualmente se utiliza para nombrar a los integrantes de los comités de participación ciudadana del sistema anticorrupción -tanto en el ámbito federal como estatal-, en la que el Congreso nombra una comisión de selección integrada por académicos, empresarios y miembros de la sociedad civil para que sean ellos los que emitan la convocatoria y lleven a cabo el nombramiento. Estos rinden protesta ante el Congreso.</p>
+</sec>
+<sec>
+<title>V. Impacto esperado con la creación del órgano de investigación legislativa</title>
+<p>En el desarrollo de este trabajo, así como en otros textos, se ha señalado que las decisiones públicas generan un impacto en la población, positivo o negativo. Por ello, se sostiene que estas deben estar basadas en estudios, análisis, bajo los postulados, principios y métodos que aporta la ciencia. Las decisiones públicas no deben sustentarse en las ocurrencias, ensayos o cálculos políticos, ya que, sin duda, sus efectos no estarán pensados en un beneﬁcio o impacto social positivo.</p>
+<p>La creación de normas implica la toma de decisiones públicas y, como se ha observado, estas no siempre han tenido un carácter benéﬁco ni impacto social positivo, sino todo lo contrario, en algunos casos se han constituido en leyes que afectan a sectores poblaciones amplios, incluso se han construido como mandatos que traen aparejada la violación de derechos humanos. Así lo demuestran algunos ejemplos de decisiones legislativas en Veracruz, que por ese carácter se declararon inconstitucionales.</p>
+<p>En ese tenor, también se ha señalado la de mejorar la calidad de los productos legislativos en el Congreso de Veracruz, a partir del diagnóstico realizado mediante del auxilio la investigación legislativa. No se trata de solo cumplir el proceso legislativo, votar y aprobar tal y como se señala en la norma, sino de observar otros componentes como los descritos por Atienza<xref ref-type="fn" rid="fn17"><sup>17</sup></xref>, por ejemplo, que estén enfocados a proteger los derechos humanos, así como se busca que las políticas públicas cumplan con estándares internacionales en el caso de los productos legislativos también resulta obligado.</p>
+<p>Ante ello, es pertinente destacar los beneﬁcios que traerá consigo la creación del Instituto de Investigaciones Legislativas en el Congreso de Veracruz. Más allá de deﬁnir su estructura, organización, norma interna y presupuesto, resulta relevante exponer los aspectos de impacto social, como elevar la calidad del propio quehacer legislativo o de los mismos productos y digniﬁcar el trabajo legislativo.</p>
+<p>En primer lugar, destaca el beneﬁcio social, en virtud que la investigación legislativa permite comprender los contextos económicos, políticos y sociales de las normas, así como prever sus efectos. En este sentido, la formulación de leyes debe tener en cuenta las demandas ciudadanas y las alternativas de solución existentes. En este sentido, esta instancia de investigación realizaría los estudios técnicos oportunos. Así mismo, en el caso de Veracruz, la investigación legislativa puede generar marcos normativos que prioricen derechos sociales y atención a grupos vulnerables.</p>
+<p>Segundo, en materia de transparencia, el plan contribuiría a la transparencia institucional desde dos escenarios, por un lado, en la difusión y socialización del quehacer legislativo de forma más cerca a la gente; y por otro, al generar elementos de evaluación legislativa de carácter técnico, pero también ciudadano.</p>
+<p>Tercero, desde la perspectiva de la rendición de cuentas, este ente de investigación legislativa podría elaborar diagnósticos periódicos sobre los procesos parlamentarios, la implementación de leyes y el impacto real del trabajo legislativo. Así mismo, comunicarlos con un lenguaje sencillo a los ciudadanos, donde ellos puedan ser partícipes de este ejercicio. Finalmente, desde la perspectiva de las políticas públicas, se identiﬁcan diversos beneﬁcios. Primero, como ha señalado Ferrajoli<xref ref-type="fn" rid="fn18"><sup>18</sup></xref>, las políticas públicas son el puente que une la norma con la realidad, por ello, en la medida que se diseñen mejor los productos legislativos, mejor será la ruta de deﬁnición de la política pública que requiere complementar esa norma.</p>
+<p>Además, esta instancia podría llevar a cabo el análisis de políticas públicas aplicado a las leyes, por ejemplo, aplicar los ocho pasos descritos por Bardach. Entre ellos se incluyen algunos componentes como el análisis de involucrados, las alternativas de solución, costo beneﬁcio, o la evaluación de impactos. Por ello, una instancia de investigación legislativa como la que se propone podría aplicar este enfoque para emitir opiniones técnicas sobre las iniciativas en proceso, así como dar seguimiento a leyes ya aprobadas.</p>
+<p>Como puede observarse, tiene mucha valía que los tomadores de decisiones del Congreso de Veracruz consideren la reconﬁguración del área actual, la cual no funciona como instancia de investigación, sino como espacio de apoyo. Tal como se ha expuesto, esta transformación digniﬁcará el quehacer legislativo, mejorará los productos legislativos y tendrá un impacto positivo para el pueblo de Veracruz.</p>
+</sec>
+<sec sec-type="conclusions">
+<title>VI. Conclusiones</title>
+<p>Con base en lo estudiado, los razonamientos expuestos y la discusión de los hallazgos se arriban a las siguientes conclusiones:</p>
+<p>
+<list list-type="bullet">
+<list-item>
+<p>Como en otras entidades federativas el Congreso de Veracruz enfrenta un problema relacionado con la calidad del contenido de las iniciativas que son aprobadas.</p>
+</list-item>
+<list-item>
+<p>Se documentaron diversos casos de controversias constitucionales en los que la SCJN declaró inconstitucionales ciertas decisiones legislativas tomadas por el Congreso de Veracruz, lo cual constituyó el argumento que sirvió para el planteamiento del problema.</p>
+</list-item>
+<list-item>
+<p>Se constató la importancia de los centros de investigación legislativa en la generación de insumos para la toma de decisiones legislativas.</p>
+</list-item>
+<list-item>
+<p>Se demostró que el área que existe hoy en día en el congreso para atender dicha materia no cumple con las funciones marcadas por la normatividad que dio origen a su creación; resulta inoperante y no ha generado productos ni insumos para el trabajo legislativo.</p>
+</list-item>
+<list-item>
+<p>Se comprueba la hipótesis que justiﬁca la necesidad de constitución del instituto de investigación legislativa para el Congreso de Veracruz.</p>
+</list-item>
+</list>
+</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>VII. Referencias</title>
+<ref id="B1">
+<mixed-citation>Altamirano, C. José Guadalupe. <italic>Los perﬁles en el servicio público y la buena administración pública</italic>. Xalapa: Universidad de Xalapa; Instituto de Investigaciones Jurídicas de la Universidad Veracruzana: 2021.</mixed-citation>
+<element-citation publication-type="book">
+<person-group person-group-type="author">
+<name>
+<surname>Altamirano</surname>
+<given-names>C. José Guadalupe</given-names>
+</name>
+</person-group>
+<source>Los perﬁles en el servicio público y la buena administración pública</source>
+<publisher-loc>Xalapa</publisher-loc>
+<publisher-name>Universidad de Xalapa; Instituto de Investigaciones Jurídicas de la Universidad Veracruzana</publisher-name>
+<year>2021</year>
+</element-citation>
+</ref>
+<ref id="B2">
+<mixed-citation>Atienza, Manuel. “10 ideas sobre los derechos humanos”, <italic>Revista do Ministério Público</italic>, núm. 155 (2018): 9-21. <ext-link ext-link-type="uri" xlink:href="https://rmp.smmp.pt/wp-content/uploads/2018/11/2.RMP_155_Manuel_Atienza.pdf">https://rmp.smmp.pt/wp-content/uploads/2018/11/2.RMP_155_Manuel_Atienza.pdf </ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Atienza</surname>
+<given-names>Manuel</given-names>
+</name>
+</person-group>
+<article-title>10 ideas sobre los derechos humanos</article-title>
+<source>Revista do Ministério Público</source>
+<issue>155</issue>
+<year>2018</year>
+<fpage>9</fpage>
+<lpage>21</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://rmp.smmp.pt/wp-content/uploads/2018/11/2.RMP_155_Manuel_Atienza.pdf">https://rmp.smmp.pt/wp-content/uploads/2018/11/2.RMP_155_Manuel_Atienza.pdf </ext-link>
+</element-citation>
+</ref>
+<ref id="B3">
+<mixed-citation>Bárcena Juárez, Sergio Arturo. “¿Cómo evaluar el desempeño legislativo? Una propuesta metodológica para la clasiﬁcación de las iniciativas de ley en México y América Latina”. <italic>Revista Mexicana de Ciencias Políticas y Sociales</italic> 64, n.o 235, (2019): 395-425. https://doi.org/10.22201/fcpys.2448492xe.2019.235.63130</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bárcena Juárez</surname>
+<given-names>Sergio Arturo</given-names>
+</name>
+</person-group>
+<article-title>¿Cómo evaluar el desempeño legislativo? Una propuesta metodológica para la clasiﬁcación de las iniciativas de ley en México y América Latina</article-title>
+<source>Revista Mexicana de Ciencias Políticas y Sociales</source>
+<volume>64</volume>
+<issue>235</issue>
+<year>2019</year>
+<fpage>395</fpage>
+<lpage>425</lpage>
+<pub-id pub-id-type="doi">10.22201/fcpys.2448492xe.2019.235.63130</pub-id>
+</element-citation>
+</ref>
+<ref id="B4">
+<mixed-citation>Cabrera Pantoja, Bárbara Leonor. 2017. “El papel de los institutos y centros de investigación legislativa en tópicos de coyuntura”. Ponencia presentada en el X Congreso REDIPAL Virtual, mayo. <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/sedia/sia/redipal/CRV-X-2017/CRV-X-06-17.pdf">https://www.diputados.gob.mx/sedia/sia/redipal/CRV-X-2017/CRV-X-06-17.pdf</ext-link>
+</mixed-citation>
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>Cabrera Pantoja</surname>
+<given-names>Bárbara Leonor</given-names>
+</name>
+</person-group>
+<year>2017</year>
+<source>El papel de los institutos y centros de investigación legislativa en tópicos de coyuntura</source>
+<conf-name>Ponencia presentada en el X Congreso REDIPAL Virtual</conf-name>
+<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/sedia/sia/redipal/CRV-X-2017/CRV-X-06-17.pdf">https://www.diputados.gob.mx/sedia/sia/redipal/CRV-X-2017/CRV-X-06-17.pdf</ext-link>
+</element-citation>
+</ref>
+<ref id="B5">
+<mixed-citation>Cámara de Diputados. S. f. “Red de investigaciones parlamentarias en línea”. Acceso el 7 de julio de 2025. <comment>
+<ext-link ext-link-type="uri" xlink:href="http://www.diputados.gob.mx/sedia/sia/redipal.htm">http://www.diputados.gob.mx/sedia/sia/redipal.htm</ext-link>
+</comment>
+</mixed-citation>
+<element-citation publication-type="webpage">
+<person-group person-group-type="author">
+<collab>Cámara de Diputados</collab>
+</person-group>
+<source>Red de investigaciones parlamentarias en línea</source>
+<date-in-citation content-type="access-date" iso-8601-date="2025-07-07">7 de julio de 2025</date-in-citation>
+<comment>
+<ext-link ext-link-type="uri" xlink:href="http://www.diputados.gob.mx/sedia/sia/redipal.htm">http://www.diputados.gob.mx/sedia/sia/redipal.htm</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="B6">
+<mixed-citation>Ehrman, Roberto. “Perspectivas sobre la investigación legislativa en México”. <italic>Revista Pluralidad y Consenso</italic>, no. 20 (2012): 35-41. <ext-link ext-link-type="uri" xlink:href="https://revistaibd.senado.gob.mx/historico/search- result?ﬁlter_tag=Roberto%20Ehrman">https://revistaibd.senado.gob.mx/historico/search- result?ﬁlter_tag=Roberto%20Ehrman</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ehrman</surname>
+<given-names>Roberto</given-names>
+</name>
+</person-group>
+<article-title>Perspectivas sobre la investigación legislativa en México</article-title>
+<source>Revista Pluralidad y Consenso</source>
+<issue>20</issue>
+<year>2012</year>
+<fpage>35</fpage>
+<lpage>41</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://revistaibd.senado.gob.mx/historico/search- result?ﬁlter_tag=Roberto%20Ehrman">https://revistaibd.senado.gob.mx/historico/search- result?ﬁlter_tag=Roberto%20Ehrman</ext-link>
+</element-citation>
+</ref>
+<ref id="B7">
+<mixed-citation>Instituto Nacional de Estadística, Geografía e Informática (INEGI). <italic>Encuesta Nacional de Cultura Cívica (ENCUCI) 2020. Principales Resultados</italic>. México: INEGI, 2021. <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/programas/encuci/2020/">https://www.inegi.org.mx/programas/encuci/2020/</ext-link>
+</mixed-citation>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>Instituto Nacional de Estadística, Geografía e Informática (INEGI)</collab>
+</person-group>
+<source>Encuesta Nacional de Cultura Cívica (ENCUCI) 2020. Principales Resultados</source>
+<publisher-loc>México</publisher-loc>
+<publisher-name>INEGI</publisher-name>
+<year>2021</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/programas/encuci/2020/">https://www.inegi.org.mx/programas/encuci/2020/</ext-link>
+</element-citation>
+</ref>
+<ref id="B8">
+<mixed-citation>Instituto Nacional de Estadística, Geografía e Informática (INEGI). <italic>Encuesta Nacional de Calidad e Impacto Gubernamental 2023</italic>. México: INEGI, 2023. <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/programas/encig/2023/">https://www.inegi.org.mx/programas/encig/2023/</ext-link>
+</mixed-citation>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<collab>Instituto Nacional de Estadística, Geografía e Informática (INEGI)</collab>
+</person-group>
+<source>Encuesta Nacional de Calidad e Impacto Gubernamental 2023</source>
+<publisher-loc>México</publisher-loc>
+<publisher-name>INEGI</publisher-name>
+<year>2023</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/programas/encig/2023/">https://www.inegi.org.mx/programas/encig/2023/</ext-link>
+</element-citation>
+</ref>
+<ref id="B9">
+<mixed-citation>Moreno Cruz, Rodolfo. El modelo garantista de Luigi Ferrajoli: Lineamientos generales. <italic>Boletín Mexicano de Derecho Comparado</italic> 40, no. 120 (2007): 1115-1148. https://doi.org/10.22201/iij.24484873e.2007.120.3936</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Moreno Cruz</surname>
+<given-names>Rodolfo</given-names>
+</name>
+</person-group>
+<article-title>El modelo garantista de Luigi Ferrajoli: Lineamientos generales</article-title>
+<source>Boletín Mexicano de Derecho Comparado</source>
+<volume>40</volume>
+<issue>120</issue>
+<year>2007</year>
+<fpage>1115</fpage>
+<lpage>1148</lpage>
+<pub-id pub-id-type="doi">10.22201/iij.24484873e.2007.120.3936</pub-id>
+</element-citation>
+</ref>
+<ref id="B10">
+<mixed-citation>Patrón Sánchez, Fernando. “Los estudios legislativos en México: una revisión de su evolución, temas y ámbitos de desarrollo.” <italic>Revista Mexicana de Análisis Político y Administración Pública</italic> 3, n.o 2 (2014): 11-36. <ext-link ext-link-type="uri" xlink:href="https://www.remap.ugto.mx/index.php/remap/article/view/87">https://www.remap.ugto.mx/index.php/remap/article/view/87</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Patrón Sánchez</surname>
+<given-names>Fernando</given-names>
+</name>
+</person-group>
+<article-title>Los estudios legislativos en México: una revisión de su evolución, temas y ámbitos de desarrollo</article-title>
+<source>Revista Mexicana de Análisis Político y Administración Pública</source>
+<volume>3</volume>
+<issue>2</issue>
+<year>2014</year>
+<fpage>11</fpage>
+<lpage>36</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://www.remap.ugto.mx/index.php/remap/article/view/87">https://www.remap.ugto.mx/index.php/remap/article/view/87</ext-link>
+</element-citation>
+</ref>
+<ref id="B11">
+<mixed-citation>Ramírez Roldán, José David. A Propósito de los debates públicos sobre la evaluación legislativa en países de Europa y América Latina”. <italic>Revista Centroamericana de Administración Pública</italic>, n.o 83 (2023): 91-99. <ext-link ext-link-type="uri" xlink:href="https://ojs.icap.ac.cr/index.php/RCAP/article/view/850">https://ojs.icap.ac.cr/index.php/RCAP/article/view/850</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ramírez Roldán</surname>
+<given-names>José David</given-names>
+</name>
+</person-group>
+<article-title>A Propósito de los debates públicos sobre la evaluación legislativa en países de Europa y América Latina</article-title>
+<source>Revista Centroamericana de Administración Pública</source>
+<issue>83</issue>
+<year>2023</year>
+<fpage>91</fpage>
+<lpage>99</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://ojs.icap.ac.cr/index.php/RCAP/article/view/850">https://ojs.icap.ac.cr/index.php/RCAP/article/view/850</ext-link>
+</element-citation>
+</ref>
+<ref id="B12">
+<mixed-citation>Rivas Prats, Fermín E. y Camacho Granados, Julieta. “Métodos de investigación legislativa para un congreso plural”. Ponencia presentada en el I Congreso REDIPAL Virtual, marzo 2008. <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/sedia/sia/redipal/CR-20-08.pdf">https://www.diputados.gob.mx/sedia/sia/redipal/CR-20-08.pdf</ext-link>
+</mixed-citation>
+<element-citation publication-type="confproc">
+<person-group person-group-type="author">
+<name>
+<surname>Rivas Prats</surname>
+<given-names>Fermín E</given-names>
+</name>
+<name>
+<surname>Camacho Granados</surname>
+<given-names>Julieta</given-names>
+</name>
+</person-group>
+<source>Métodos de investigación legislativa para un congreso plural</source>
+<conf-name>Ponencia presentada en el I Congreso REDIPAL Virtual</conf-name>
+<month>03</month>
+<year>2008</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/sedia/sia/redipal/CR-20-08.pdf">https://www.diputados.gob.mx/sedia/sia/redipal/CR-20-08.pdf</ext-link>
+</element-citation>
+</ref>
+<ref id="B13">
+<mixed-citation>Suprema Corte de Justicia de la Nación. S. f. “Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad”. Acceso el 2 de julio de 2025. <comment>
+<ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/pleno/seccion-tramite-controversias">https://www.scjn.gob.mx/pleno/seccion-tramite-controversias</ext-link>
+</comment>
+</mixed-citation>
+<element-citation publication-type="webpage">
+<person-group person-group-type="author">
+<collab>Suprema Corte de Justicia de la Nación</collab>
+</person-group>
+<source>Sección de Trámite de Controversias Constitucionales y de Acciones de Inconstitucionalidad</source>
+<date-in-citation content-type="access-date" iso-8601-date="2025-07-02">2 de julio de 2025</date-in-citation>
+<comment>
+<ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/pleno/seccion-tramite-controversias">https://www.scjn.gob.mx/pleno/seccion-tramite-controversias</ext-link>
+</comment>
+</element-citation>
+</ref>
+<ref id="B14">
+<mixed-citation>Suprema Corte de Justicia de la Nación. S. f. <italic>Índice de Acciones de Inconstitucionalidad resueltas a partir de 1995</italic>. Recuperado el 2 de julio de 2025. <comment>
+<ext-link ext-link-type="uri" xlink:href="https://www2.scjn.gob.mx/IndicesCCAI/ControversiasConstitucionalespub/AInconstit ucionalidadResueltas.aspx">https://www2.scjn.gob.mx/IndicesCCAI/ControversiasConstitucionalespub/AInconstit ucionalidadResueltas.aspx</ext-link>
+</comment>
+</mixed-citation>
+<element-citation publication-type="webpage">
+<person-group person-group-type="author">
+<collab>Suprema Corte de Justicia de la Nación</collab>
+</person-group>
+<source>Índice de Acciones de Inconstitucionalidad resueltas a partir de 1995</source>
+<date-in-citation content-type="access-date" iso-8601-date="2025-07-02">2 de julio de 2025</date-in-citation>
+<comment>
+<ext-link ext-link-type="uri" xlink:href="https://www2.scjn.gob.mx/IndicesCCAI/ControversiasConstitucionalespub/AInconstit ucionalidadResueltas.aspx">https://www2.scjn.gob.mx/IndicesCCAI/ControversiasConstitucionalespub/AInconstit ucionalidadResueltas.aspx</ext-link>
+</comment>
+</element-citation>
+</ref>
+</ref-list>
+<fn-group>
+<fn fn-type="other" id="fn1">
+<label>1</label>
+<p>Este trabajo forma parte del proyecto anual de investigación denominado “La investigación legislativa y los productos legislativos: oportunidad de mejora del trabajo legislativo en Veracruz y su impacto social”, que se realiza en El Colegio de Veracruz.</p>
+</fn>
+<fn fn-type="other" id="fn2">
+<label>2</label>
+<p>“Encuesta Nacional de Cultura Cívica (ENCUCI) 2020”, <xref ref-type="bibr" rid="B7">Instituto Nacional de Estadística, Geografía e Informática (INEGI)</xref>. <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/programas/encuci/2020/">https://www.inegi.org.mx/programas/encuci/2020/</ext-link>
+</p>
+</fn>
+<fn fn-type="other" id="fn3">
+<label>3</label>
+<p><italic>“</italic>Encuesta Nacional de Calidad e Impacto Gubernamental 2023<italic>”</italic>, <xref ref-type="bibr" rid="B8">Instituto Nacional de Estadística, Geografía e Informática</xref>. <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/programas/encig/2023/">https://www.inegi.org.mx/programas/encig/2023/</ext-link>
+</p>
+</fn>
+<fn fn-type="other" id="fn4">
+<label>4</label>
+<p>Cuando se alude a perﬁl, se hace referencia a una conjunción de atributos, es decir, competencias, habilidades y conocimientos que debe reunir un servidor público para considerarse el idóneo para asumir determinada responsabilidad que va más allá de un grado académico. Implica la experiencia, comportamiento ético, vocación de servicio, honestidad, entre otros. Como señala Altamirano: “El servicio público demanda una formación especializada, requiere perﬁles acordes y en proporción al nivel jerárquico, funciones, misión y visión del ente público donde va a desempeñarse un cargo determinado, máxime si se trata de aquellos espacios en el servicio público de alta responsabilidad”. <xref ref-type="bibr" rid="B1">José Guadalupe Altamirano C</xref>., <italic>Los perﬁles en el servicio público y la buena administración pública</italic> (Xalapa: Universidad de Xalapa; Instituto de Investigaciones Jurídicas de la Universidad Veracruzana, 2021), 12.</p>
+</fn>
+<fn fn-type="other" id="fn5">
+<label>5</label>
+<p>
+<xref ref-type="bibr" rid="B11">José David Ramírez Roldán</xref>, “A propósito de los debates públicos sobre la evaluación legislativa en países de Europa y América Latina,” <italic>Revista Centroamericana de Administración Pública</italic>, no. 83 (2023): 91-99. <ext-link ext-link-type="uri" xlink:href="https://ojs.icap.ac.cr/index.php/RCAP/article/view/850">https://ojs.icap.ac.cr/index.php/RCAP/article/view/850</ext-link>
+</p>
+</fn>
+<fn fn-type="other" id="fn6">
+<label>6</label>
+<p>Por medio de esta modalidad, como lo establece la Constitución Política de los Estados Unidos Mexicanos, en el país se eligen a las personas titulares de la presidencia de la República, las senadurías, diputaciones federales,</p>
+</fn>
+<fn fn-type="other" id="fn7">
+<label>7</label>
+<p>
+<xref ref-type="bibr" rid="B3">Sergio Arturo Bárcena Juárez</xref>, <italic>“</italic>¿Cómo evaluar el desempeño legislativo? Una propuesta metodológica para la clasiﬁcación de las iniciativas de ley en México y América Latina”<italic>, Revista Mexicana de Ciencias Políticas y Sociales</italic> 64, no. 235: 395-425. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.22201/fcpys.2448492xe.2019.235.63130">https://doi.org/10.22201/fcpys.2448492xe.2019.235.63130</ext-link>
+</p>
+</fn>
+<fn fn-type="other" id="fn8">
+<label>8</label>
+<p>
+<xref ref-type="bibr" rid="B14">Suprema Corte de Justicia de la Nación</xref>. (s. f.). <italic>Índice de Acciones de Inconstitucionalidad resueltas a partir de 1995</italic>. <ext-link ext-link-type="uri" xlink:href="https://www2.scjn.gob.mx/IndicesCCAI/ControversiasConstitucionalespub/AInconstitucionalidadResueltas.aspx">https://www2.scjn.gob.mx/IndicesCCAI/ControversiasConstitucionalespub/AInconstitucionalidadResueltas.aspx</ext-link>
+</p>
+</fn>
+<fn fn-type="other" id="fn9">
+<label>9</label>
+<p>
+<xref ref-type="bibr" rid="B4">Bárbara Leonor Cabrera Pantoja</xref>, “El papel de los institutos y centros de investigación legislativa en tópicos de coyuntura” (ponencia, X Congreso REDIPAL Virtual, 2017), 3.</p>
+</fn>
+<fn fn-type="other" id="fn10">
+<label>10</label>
+<p>
+<xref ref-type="bibr" rid="B12">Fermín E. Rivas Prats y Julieta Camacho Granados</xref>, “Métodos de investigación legislativa para un congreso plural” (ponencia, I Congreso REDIPAL Virtual, 2008), 20.</p>
+</fn>
+<fn fn-type="other" id="fn11">
+<label>11</label>
+<p>
+<xref ref-type="bibr" rid="B6">Roberto Ehrman</xref>, “Perspectivas sobre la investigación legislativa en México”, <italic>Revista Pluralidad y Consenso</italic>, n.o 20 (2012): 35-421. <ext-link ext-link-type="uri" xlink:href="https://repositorioslatinoamericanos.uchile.cl/handle/2250/7804614?show=full">https://repositorioslatinoamericanos.uchile.cl/handle/2250/7804614?show=full</ext-link>
+</p>
+</fn>
+<fn fn-type="other" id="fn12">
+<label>12</label>
+<p>
+<xref ref-type="bibr" rid="B10">Fernando Patrón Sánchez</xref>, “Los estudios legislativos en México: una revisión de su evolución, temas y ámbitos de desarrollo”, <italic>Revista Mexicana de Análisis Político y Administración Pública,</italic> 3, n.o 2 (2014): 11-36. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15174/remap.v3i2.87">https://doi.org/10.15174/remap.v3i2.87</ext-link>
+</p>
+</fn>
+<fn fn-type="other" id="fn13">
+<label>13</label>
+<p>La información que se puede observar en el portal es escasa, la última actividad que se difundió es una serie de actividades realizadas entre 2011 y 2012 como el VIII Encuentro Nacional de la Asociación Mexicana de Institutos y Organismos de Estudios e Investigaciones Legislativos (AMEXIIL). Consultada 7 julio de 2025 en <ext-link ext-link-type="uri" xlink:href="https://elegislativas.blogspot.com">https://elegislativas.blogspot.com</ext-link>
+</p>
+</fn>
+<fn fn-type="other" id="fn14">
+<label>14</label>
+<p>El portal oﬁcial de la red señala que esta “es un sistema de comunicación por Internet que permite a sus miembros intercambiar información en materia parlamentaria. Pretende fomentar la colaboración y experiencia profesional de los investigadores parlamentarios, a través del intercambio y experiencias en este campo. Su acceso requiere de previa inscripción. En la Red participan investigadores y asesores de todos los Congresos Locales de México y se ha ampliado a Centro, Sudamérica, el Caribe y España”. “Red de investigaciones parlamentarias en línea”. <xref ref-type="bibr" rid="B5">Cámara de Diputados</xref>, acceso el 7 de julio de 2025. http://www.diputados.gob.mx/sedia/sia/redipal.htm</p>
+</fn>
+<fn fn-type="other" id="fn15">
+<label>15</label>
+<p>Para ampliar información visitar el portal: <ext-link ext-link-type="uri" xlink:href="https://www.congresogto.gob.mx/estudios">https://www.congresogto.gob.mx/estudios</ext-link>
+</p>
+</fn>
+<fn fn-type="other" id="fn16">
+<label>16</label>
+<p>Para ampliar información visitar el portal <ext-link ext-link-type="uri" xlink:href="http://iilegislativas.congresocdmx.gob.mx/?page_id=206">http://iilegislativas.congresocdmx.gob.mx/?page_id=206</ext-link>
+</p>
+</fn>
+<fn fn-type="other" id="fn17">
+<label>17</label>
+<p>
+<xref ref-type="bibr" rid="B2">Manuel Atienza</xref>, “10 ideas sobre los derechos humanos”, <italic>Revista do Ministério Público</italic>, núm. 155 (julio- septiembre 2018): 9-21. <ext-link ext-link-type="uri" xlink:href="https://rmp.smmp.pt/wp-content/uploads/2018/11/2.RMP_155_Manuel_Atienza.pd">https://rmp.smmp.pt/wp-content/uploads/2018/11/2.RMP_155_Manuel_Atienza.pd</ext-link>f</p>
+</fn>
+<fn fn-type="other" id="fn18">
+<label>18</label>
+<p>
+<xref ref-type="bibr" rid="B9">Moreno Cruz, Rodolfo</xref>. “El modelo garantista de Luigi Ferrajoli: Lineamientos generales.” <italic>Boletín Mexicano de Derecho Comparado</italic> 40, no. 120 (2007): 1115-1148. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.22201/iij.24484873e.2007.120.3936">https://doi.org/10.22201/iij.24484873e.2007.120.3936</ext-link>
+</p>
+</fn>
+</fn-group>
+</back>
+</article>

@@ -1,0 +1,155 @@
+### Artículo 549 (`2448-6094-sanus-10-21-e549.xml` vs `2448-6094-sanus-10-21-e549-NEW.xml`)
+#### 1. Encabezado Metadatos (`<front>`)
+- **DOI**: Experto=`10.36789/sanusrevenf.vi21.549` | Generado=`10.36789/sanusrevenf.vi21.549`
+- **ID Publisher/Other**: Experto=`00113` | Generado=`00113`
+- **Título (ES)**: Experto=`Experiencias de jóvenes universitarios ante realización de p...` | Generado=`Experiencias de jóvenes universitarios ante realización de p...`
+- **Título (EN)**: Experto=`Experiências de jovens universitários com o teste rápido de ...` | Generado=`Experiences of young university students with rapid HIV test...`
+- **Título en Portugués (PT)**: Experto=`Experiências de jovens universitários co...` | Generado=`No existe`
+- **Número de Autores**: Experto=`5` | Generado=`5`
+- **ORCIDs de Autores**: Experto=5/5 | Generado=5/5
+- **Roles de Autores**: Experto=5/5 (`['Doctora en Ciencias de Enfermería', 'Doctor en Salud Mental']`) | Generado=5/5 (`['Doctora en Ciencias de Enfermería', 'Doctor en Salud Mental']`)
+- **Afiliaciones (`<aff>`)**: Experto=`3` | Generado=`2`
+- **Fecha Recepción**: Experto=`2024-10-18` | Generado=`2024-10-18`
+- **Fecha Aceptación**: Experto=`2025-09-10` | Generado=`2025-09-10`
+
+#### 2. Estructura del Cuerpo (`<body>`)
+- **Secciones (`<sec>`)**: Experto=`8` | Generado=`15`
+- **Tipos de Sección (`sec-type`)**: Experto=`['intro', 'methods', 'results', 'discussion', 'conclusions']` | Generado=`['intro', 'materials|methods', 'results', 'discussion', 'conclusions']`
+- **Figuras (`<fig>`)**: Experto=`0` | Generado=`0`
+- **Tablas (`<table-wrap>`)**: Experto=`1` | Generado=`1`
+
+#### 3. Referencias Bibliográficas (`<ref-list>`)
+- **Total de Referencias**: Experto=`30` | Generado=`31`
+- **Tipos de Publicación Citas (Experto)**: {'journal': 24, 'other': 5, 'book': 1}
+- **Tipos de Publicación Citas (Generado)**: {'journal': 25, 'webpage': 3, 'book': 1, 'other': 2}
+- **DOIs en Referencias**: Experto=`18` | Generado=`18`
+
+### Artículo 560 (`2448-6094-sanus-10-21-e560.xml` vs `2448-6094-sanus-10-21-e560-NEW.xml`)
+#### 1. Encabezado Metadatos (`<front>`)
+- **DOI**: Experto=`10.36789/sanusrevenf.vi21.560` | Generado=`10.36789/sanusrevenf.vi21.560`
+- **ID Publisher/Other**: Experto=`00112` | Generado=`00304`
+- **Título (ES)**: Experto=`Propiedades psicométricas de la escala características del v...` | Generado=`Propiedades psicométricas de la escala características del v...`
+- **Título (EN)**: Experto=`Propriedades psicométricas da escala características da vizi...` | Generado=`Psychometric properties of the neighborhood characteristics ...`
+- **Título en Portugués (PT)**: Experto=`Propriedades psicométricas da escala car...` | Generado=`No existe`
+- **Número de Autores**: Experto=`6` | Generado=`6`
+- **ORCIDs de Autores**: Experto=6/6 | Generado=6/6
+- **Roles de Autores**: Experto=6/6 (`['Maestra en Enfermería', 'Doctor en Educación']`) | Generado=6/6 (`['Maestra en Enfermería', 'Doctor en Educación']`)
+- **Afiliaciones (`<aff>`)**: Experto=`4` | Generado=`2`
+- **Fecha Recepción**: Experto=`2025-05-02` | Generado=`2025-05-02`
+- **Fecha Aceptación**: Experto=`2025-08-28` | Generado=`2025-08-28`
+
+#### 2. Estructura del Cuerpo (`<body>`)
+- **Secciones (`<sec>`)**: Experto=`8` | Generado=`18`
+- **Tipos de Sección (`sec-type`)**: Experto=`['intro', 'methods', 'results', 'discussion', 'conclusions']` | Generado=`['intro', 'materials|methods', 'results', 'discussion', 'conclusions']`
+- **Figuras (`<fig>`)**: Experto=`1` | Generado=`1`
+- **Tablas (`<table-wrap>`)**: Experto=`3` | Generado=`3`
+
+#### 3. Referencias Bibliográficas (`<ref-list>`)
+- **Total de Referencias**: Experto=`50` | Generado=`51`
+- **Tipos de Publicación Citas (Experto)**: {'other': 4, 'journal': 37, 'thesis': 1, 'book': 8}
+- **Tipos de Publicación Citas (Generado)**: {'webpage': 3, 'journal': 37, 'thesis': 1, 'book': 8, 'other': 2}
+- **DOIs en Referencias**: Experto=`35` | Generado=`35`
+
+### Artículo 561 (`2448-6094-sanus-10-21-e561.xml` vs `2448-6094-sanus-10-21-e561-NEW.xml`)
+#### 1. Encabezado Metadatos (`<front>`)
+- **DOI**: Experto=`10.36789/sanusrevenf.vi21.561` | Generado=`10.36789/sanusrevenf.vi21.561`
+- **ID Publisher/Other**: Experto=`00304` | Generado=`00112`
+- **Título (ES)**: Experto=`Efectividad de la auriculoterapia para reducción del estrés ...` | Generado=`Efectividad de la auriculoterapia para reducción del estrés ...`
+- **Título (EN)**: Experto=`Eficácia da auriculoterapia na redução do estresse em profis...` | Generado=`Effectiveness of auriculotherapy in reducing stress in healt...`
+- **Título en Portugués (PT)**: Experto=`Eficácia da auriculoterapia na redução d...` | Generado=`No existe`
+- **Número de Autores**: Experto=`5` | Generado=`5`
+- **ORCIDs de Autores**: Experto=5/5 | Generado=5/5
+- **Roles de Autores**: Experto=5/5 (`['Maestra en Ciencias de Enfermería', 'Doctora en Ciencias de Enfermería']`) | Generado=5/5 (`['Maestra en Ciencias de Enfermería', 'Doctora en Ciencias de Enfermería']`)
+- **Afiliaciones (`<aff>`)**: Experto=`2` | Generado=`1`
+- **Fecha Recepción**: Experto=`2025-02-08` | Generado=`2025-02-08`
+- **Fecha Aceptación**: Experto=`2025-09-16` | Generado=`2025-09-16`
+
+#### 2. Estructura del Cuerpo (`<body>`)
+- **Secciones (`<sec>`)**: Experto=`8` | Generado=`16`
+- **Tipos de Sección (`sec-type`)**: Experto=`['intro', 'methods', 'results', 'discussion', 'conclusions']` | Generado=`['intro', 'materials|methods', 'results', 'discussion', 'conclusions']`
+- **Figuras (`<fig>`)**: Experto=`2` | Generado=`1`
+- **Tablas (`<table-wrap>`)**: Experto=`3` | Generado=`2`
+
+#### 3. Referencias Bibliográficas (`<ref-list>`)
+- **Total de Referencias**: Experto=`33` | Generado=`34`
+- **Tipos de Publicación Citas (Experto)**: {'journal': 28, 'other': 4, 'book': 1}
+- **Tipos de Publicación Citas (Generado)**: {'journal': 28, 'webpage': 5, 'book': 1}
+- **DOIs en Referencias**: Experto=`17` | Generado=`17`
+
+### Artículo 564 (`2448-6094-sanus-10-21-e564.xml` vs `2448-6094-sanus-10-21-e564-NEW.xml`)
+#### 1. Encabezado Metadatos (`<front>`)
+- **DOI**: Experto=`10.36789/sanusrevenf.vi21.564` | Generado=`10.36789/sanusrevenf.vi21.564`
+- **ID Publisher/Other**: Experto=`00111` | Generado=`00111`
+- **Título (ES)**: Experto=`Asociación de estilos parentales y violencia de pareja en es...` | Generado=`Asociación de estilos parentales y violencia de pareja en es...`
+- **Título (EN)**: Experto=`Associação entre estilos parentais e violência por parceiro ...` | Generado=`Association between parenting styles and intimate partner vi...`
+- **Título en Portugués (PT)**: Experto=`Associação entre estilos parentais e vio...` | Generado=`No existe`
+- **Número de Autores**: Experto=`4` | Generado=`4`
+- **ORCIDs de Autores**: Experto=4/4 | Generado=4/4
+- **Roles de Autores**: Experto=4/4 (`['Doctora en Bioética', 'Doctora en Bioética']`) | Generado=4/4 (`['Doctora en Bioética', 'Doctora en Bioética']`)
+- **Afiliaciones (`<aff>`)**: Experto=`3` | Generado=`1`
+- **Fecha Recepción**: Experto=`2025-02-26` | Generado=`2025-02-26`
+- **Fecha Aceptación**: Experto=`2025-09-22` | Generado=`2025-09-22`
+
+#### 2. Estructura del Cuerpo (`<body>`)
+- **Secciones (`<sec>`)**: Experto=`8` | Generado=`14`
+- **Tipos de Sección (`sec-type`)**: Experto=`['intro', 'methods', 'results', 'discussion', 'conclusions']` | Generado=`['materials|methods', 'results', 'discussion', 'conclusions']`
+- **Figuras (`<fig>`)**: Experto=`0` | Generado=`0`
+- **Tablas (`<table-wrap>`)**: Experto=`5` | Generado=`5`
+
+#### 3. Referencias Bibliográficas (`<ref-list>`)
+- **Total de Referencias**: Experto=`42` | Generado=`43`
+- **Tipos de Publicación Citas (Experto)**: {'journal': 34, 'other': 4, 'legal-doc': 2, 'thesis': 1, 'book': 1}
+- **Tipos de Publicación Citas (Generado)**: {'journal': 35, 'webpage': 4, 'other': 2, 'thesis': 1, 'book': 1}
+- **DOIs en Referencias**: Experto=`15` | Generado=`15`
+
+### Artículo 566 (`2448-6094-sanus-10-21-e566.xml` vs `2448-6094-sanus-10-21-e566-NEW.xml`)
+#### 1. Encabezado Metadatos (`<front>`)
+- **DOI**: Experto=`10.36789/sanusrevenf.vi21.566` | Generado=`10.36789/sanusrevenf.vi21.566`
+- **ID Publisher/Other**: Experto=`00202` | Generado=`00202`
+- **Título (ES)**: Experto=`Proceso de enfermería a persona con choque séptico postopera...` | Generado=`Proceso de enfermería a persona con choque séptico postopera...`
+- **Título (EN)**: Experto=`Processo de enfermagem à pessoa com choque séptico após ciru...` | Generado=`Nursing process for a person with septic shock after laparot...`
+- **Título en Portugués (PT)**: Experto=`Processo de enfermagem à pessoa com choq...` | Generado=`No existe`
+- **Número de Autores**: Experto=`5` | Generado=`5`
+- **ORCIDs de Autores**: Experto=5/5 | Generado=5/5
+- **Roles de Autores**: Experto=4/5 (`['Maestría en Educación Basada en Competencias', 'Doctorado en Enfermería']`) | Generado=5/5 (`['Especialidad en Enfermería en Cuidados Intensivos', 'Maestría en Educación Basada en Competencias']`)
+- **Afiliaciones (`<aff>`)**: Experto=`4` | Generado=`1`
+- **Fecha Recepción**: Experto=`2025-03-03` | Generado=`2025-03-03`
+- **Fecha Aceptación**: Experto=`2025-10-09` | Generado=`2025-10-09`
+
+#### 2. Estructura del Cuerpo (`<body>`)
+- **Secciones (`<sec>`)**: Experto=`9` | Generado=`17`
+- **Tipos de Sección (`sec-type`)**: Experto=`['intro', 'methods', 'cases', 'results', 'discussion', 'conclusions']` | Generado=`['intro', 'materials|methods', 'results', 'discussion', 'conclusions']`
+- **Figuras (`<fig>`)**: Experto=`1` | Generado=`1`
+- **Tablas (`<table-wrap>`)**: Experto=`4` | Generado=`3`
+
+#### 3. Referencias Bibliográficas (`<ref-list>`)
+- **Total de Referencias**: Experto=`20` | Generado=`21`
+- **Tipos de Publicación Citas (Experto)**: {'journal': 16, 'book': 4}
+- **Tipos de Publicación Citas (Generado)**: {'journal': 17, 'book': 4}
+- **DOIs en Referencias**: Experto=`7` | Generado=`7`
+
+### Artículo 573 (`2448-6094-sanus-10-21-e573.xml` vs `2448-6094-sanus-10-21-e573-NEW.xml`)
+#### 1. Encabezado Metadatos (`<front>`)
+- **DOI**: Experto=`10.36789/sanus.vi21.573` | Generado=`10.36789/sanus.vi21.573`
+- **ID Publisher/Other**: Experto=`00110` | Generado=`00110`
+- **Título (ES)**: Experto=`Relación de la percepción materna y conductas alimentarias s...` | Generado=`Relación de la percepción materna y conductas alimentarias s...`
+- **Título (EN)**: Experto=`Relação entre a percepção materna e os comportamentos alimen...` | Generado=`Relationship between maternal perception and eating behavior...`
+- **Título en Portugués (PT)**: Experto=`Relação entre a percepção materna e os c...` | Generado=`No existe`
+- **Número de Autores**: Experto=`6` | Generado=`6`
+- **ORCIDs de Autores**: Experto=6/6 | Generado=6/6
+- **Roles de Autores**: Experto=6/6 (`['Doctorado en Metodología de la enseñanza', 'Licenciatura en Enfermería']`) | Generado=6/6 (`['Doctorado en Metodología de la enseñanza', 'Licenciatura en Enfermería']`)
+- **Afiliaciones (`<aff>`)**: Experto=`6` | Generado=`6`
+- **Fecha Recepción**: Experto=`2025-03-25` | Generado=`2025-03-25`
+- **Fecha Aceptación**: Experto=`2025-10-19` | Generado=`2025-10-19`
+
+#### 2. Estructura del Cuerpo (`<body>`)
+- **Secciones (`<sec>`)**: Experto=`8` | Generado=`17`
+- **Tipos de Sección (`sec-type`)**: Experto=`['intro', 'methods', 'results', 'discussion', 'conclusions']` | Generado=`['intro', 'materials|methods', 'results', 'discussion', 'conclusions']`
+- **Figuras (`<fig>`)**: Experto=`0` | Generado=`0`
+- **Tablas (`<table-wrap>`)**: Experto=`4` | Generado=`4`
+
+#### 3. Referencias Bibliográficas (`<ref-list>`)
+- **Total de Referencias**: Experto=`28` | Generado=`29`
+- **Tipos de Publicación Citas (Experto)**: {'newspaper': 1, 'other': 6, 'journal': 20, 'thesis': 1}
+- **Tipos de Publicación Citas (Generado)**: {'webpage': 7, 'journal': 21, 'thesis': 1}
+- **DOIs en Referencias**: Experto=`9` | Generado=`9`

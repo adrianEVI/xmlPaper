@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biolex</journal-id>
+			<journal-title-group>
+				<journal-title>Biolex</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-5634</issn>
+			<issn pub-type="epub">2007-5545</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36796/biolex.v17i28.431</article-id>
+			<article-id pub-id-type="other">00116</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Conflictos en el foro jurídico mexicano: convencionalidad, constitucionalidad y legalidad</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Conflicts in the Mexican Legal Forum: Conventionality, Constitutionality, and Legality</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0001-3386-7933</contrib-id>
+					<name>
+						<surname>Noriega Zamudio</surname>
+						<given-names>José Jafet</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Doctor en Derecho Penal</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0004-8692-9474</contrib-id>
+					<name>
+						<surname>Orozco Esparza</surname>
+						<given-names>Carlos Ernesto</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<role>Licenciado en Derecho</role>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Doctor en Derecho Penal por el Centro de Estudios de Posgrado, campus Mexicali. Maestro en Justicia Constitucional por la Universidad de Guanajuato (UG). Licenciado en Derecho por la misma Universidad. Ocupación: Titular del Órgano Interno de Control de la UG y profesor del Departamento de Derecho de la División de Derecho, Política y Gobierno. Presidente del Consejo Directivo de la Asociación Mexicana de Órganos de Control y Vigilancia en Instituciones de Educación Superior A.C. (AMOCVIES, A.C.). Autor de textos académicos y de artículos en revistas jurídicas. Líneas de investigación: Derechos Humanos, Derecho Administrativo y Derecho Penal</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato (UG)</institution>
+				<country country="MX">Mexico</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Licenciado en Derecho por la Universidad de Guanajuato. Ocupación: Asistente Coordinador del Departamento de Gestión Estratégica del Órgano Interno de Control de la Universidad de Guanajuato. Líneas de investigación: Derecho Constitucional. Contacto: ce.orozco@ugto.mx</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato</institution>
+				<country country="MX">Mexico</country>
+				<email>ce.orozco@ugto.mx</email>
+			</aff>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>31</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>17</volume>
+			<issue>28</issue>
+			<elocation-id>e431</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>12</day>
+					<month>09</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>08</day>
+					<month>12</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El panorama jurídico mexicano sufrió un cambio de paradigma con motivo de las reformas constitucionales publicadas en el 2011, elevando a rango constitucional la noción de derechos humanos. A pesar de ello, el sistema jurídico enfrenta en la actualidad un caos normativo en sus diferentes aspectos, en un panorama de incertidumbre, donde cada operador actúa conforme su experiencia y convicciones, debido a la ausencia de disposiciones taxativas que determinen protocolos de actuación para la resolución de los quehaceres cotidianos. Ante ello, se proponen algunas líneas que ofrecen una postura sobre la colisión de disposiciones normativas de carácter convencional, constitucional y legal, así como su necesaria reconfiguración a efecto de actuar con acierto en la resolución incluso de las más simples tareas de la aplicación de la ciencia jurídica.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The Mexican legal landscape underwent a paradigm shift due to the constitutional reforms published in 2011, incorporating the notion of human rights into the constitutional range. Despite this, the legal system, in its different aspects, currently faces regulatory chaos, in a panorama of legal uncertainty where each system operator acts according to their experience and convictions, due to the absence of exhaustive provisions that determine correct action protocols for the resolution of daily legal tasks. Given this, some lines are proposed that can offer a position on the collision of normative provisions of a conventional, constitutional, and legal nature, as well as their necessary reconfiguration in order to act with certainty in the resolution of even the simplest tasks of law in the Mexican system.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>constitución</kwd>
+				<kwd>derechos humanos</kwd>
+				<kwd>tratados internacionales</kwd>
+				<kwd>legalidad</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>constitution</kwd>
+				<kwd>human rights</kwd>
+				<kwd>international treaties</kwd>
+				<kwd>legality</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="31"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>I. Introducción</title>
+			<p>El sistema jurídico mexicano ha experimentado una transformación significativa desde la reforma constitucional publicada en el Diario Oficial de la Federación el 10 de junio de 2011, la cual elevó los derechos humanos al nivel constitucional y estableció explícitamente que los tratados internacionales en esta materia forman parte del parámetro de control de regularidad normativa. Este cambio paradigmático tuvo como objetivo principal robustecer la protección de los derechos fundamentales y sincronizar el marco normativo nacional con los estándares internacionales en el ámbito de los derechos humanos. No obstante, lejos de consolidar un régimen jurídico homogéneo y predecible, esta reforma ha generado un contexto caracterizado por una alta complejidad e incertidumbre normativa. </p>
+			<p>En la práctica, la interacción entre las normas constitucionales, legales y convencionales -así como las tensiones emergentes entre ellas- ha dado lugar a un entorno fragmentado en el que los agentes jurídicos se ven obligados a operar sobre la base de interpretaciones divergentes e incluso contradictorias. Tal situación se ve agravada por la ausencia de directrices claras que faciliten la resolución de tales conflictos normativos. Estas circunstancias no solo socavan la seguridad jurídica, sino que también comprometen la efectiva protección de los derechos humanos, que era el propósito central de la reforma. </p>
+			<p>El análisis propuesto en este texto aborda los conflictos emergentes en el sistema jurídico mexicano derivados de la interacción -y frecuente colisión- entre los principios de convencionalidad, constitucionalidad y legalidad. A través del examen de casos empíricos específicos, como la regulación del matrimonio igualitario en Guanajuato, la prisión preventiva oficiosa y la imposibilidad de reincorporación laboral en casos de despido injustificado, se exponen las contradicciones y retos inherentes al sistema jurídico actual. Asimismo, se plantea una reflexión crítica sobre la urgencia de una hermenéutica jurídica armonizadora que integre, sin detrimento de la supremacía constitucional, los preceptos del derecho internacional en materia de derechos humanos de forma operativa y congruente. </p>
+			<p>Con miras a superar este estado de desorden normativo, se establecen algunas reflexiones sobre las problemáticas jurídicas imperantes, así como sobre la importancia de la profesionalización de los operadores jurídicos. Tal reformulación tendría como finalidad avanzar hacia un sistema jurídico más cohesionado, previsible y comprometido con el respeto integral a los derechos humanos, contribuyendo así al fortalecimiento del Estado democrático de derecho en México.</p>
+		</sec>
+		<sec>
+			<title>II. La constitución mexicana como cauce del sistema jurídico mexicano</title>
+			<p>La constitución de un Estado tiene un carácter tanto jurídico como político, donde se estatuye la forma de ser del mismo, al tiempo de establecer los derechos fundamentales, las libertades públicas, los principios de actuación de los poderes públicos y la organización institucional y territorial, entre otros postulados.</p>
+			<p>En el caso del Estado mexicano, la creación y obra de las autoridades está regulada por la Constitución Política de los Estados Unidos Mexicanos, la cual sistematiza el marco de actuación tanto de los gobernados como de las autoridades. Por lo anterior, fue acuñado en el propio texto constitucional un principio que la doctrina denomina como “supremacía constitucional”, mismo que se consagró en el artículo 133 de la norma fundante del Estado mexicano, el cual refiere lo siguiente:</p>
+			<disp-quote>
+				<p>Artículo 133. Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y todos los tratados que estén de acuerdo con la misma, celebrados y que se celebren por el Presidente de la República, con aprobación del Senado, serán la Ley Suprema de toda la Unión. Los jueces de cada entidad federativa se arreglarán a dicha Constitución, leyes y tratados, a pesar de las disposiciones en contrario que pueda haber en las Constituciones o leyes de las entidades federativas. <xref ref-type="fn" rid="fn1"><sup>1</sup></xref>
+				</p>
+			</disp-quote>
+			<p>De lo anterior se desprende que toda autoridad y los particulares deben ceñir su actuación a los cánones que la Constitución establece, por lo que es el parámetro regulador del obrar del sistema jurídico y cuyas disposiciones deben ser acatadas de manera ineludible, es el caudal del ordenamiento, por lo que nadie puede ir en contra o sobrepasar dichos postulados.</p>
+			<p>Asimismo, el numeral citado establece que los tratados internacionales en referencia a los tratados internacionales en materia de Derechos Humanos celebrados por el Estado mexicano, así como el propio texto constitucional, serán de igual forma ley suprema de toda la Unión. Lo anterior se encuentra relacionado con lo que dispone el artículo 1 de la propia norma fundamental, mismo que estipula lo siguiente:</p>
+			<disp-quote>
+				<p>Artículo 1. En los Estados Unidos Mexicanos todas las personas gozarán de los derechos humanos reconocidos en esta Constitución y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que esta Constitución establece. (…)<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>
+				</p>
+			</disp-quote>
+		</sec>
+		<sec>
+			<title>III. Los derechos humanos y el cambio de paradigma: reforma constitucional de 2011</title>
+			<p>La redacción a que se ha hecho referencia proviene de la reforma constitucional publicada en el Diario Oficial de la Federación el 10 de junio del 2011<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>, enmiendas que tuvieron como eje rector, entre otros aspectos, el abandono del viejo modelo conceptual de garantías individuales, con el propósito de realizar una modificación de fondo en el panorama jurídico mediante el reconocimiento de Derechos Humanos. Así, el Estado Mexicano deja de otorgar derechos en favor de sus gobernados y, por el contrario, reconoce que existen derechos inherentes a las personas, por el simple hecho de ser seres humanos.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>
+			</p>
+			<p>En este nuevo panorama, el Estado mexicano asume determinadas obligaciones principales y secundarias a efecto de generar respeto irrestricto de las prerrogativas mencionadas. En esa medida, el Estado se compromete, por medio de todas sus autoridades y agentes a promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad en tanto obligaciones principales, asumiendo, en consecuencia, el imperativo de prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley como obligaciones secundarias.</p>
+			<p>A criterio de quienes suscribimos, esta adecuación constitucional permitió consolidar únicamente en el discurso un panorama de respeto y protección de los derechos humanos, con la intención de dar continuidad a imperativos asumidos por el Estado mexicano; por ejemplo, al reconocer la competencia contenciosa de la Corte Interamericana de Derechos Humanos desde 1998<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>, como complemento de la suscripción y ratificación de la Convención Americana sobre Derechos Humanos (CADH).</p>
+			<p>Sin perjuicio de lo anterior, se estima beneficiosa la reforma constitucional a la que se ha hecho referencia. Esto obedece a que, con la misma, se estipularon diversos principios constitucionales a manera de mandatos de optimización<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>, lo que significa que los derechos humanos dejan de concebirse como normas programáticas que se efectúan o aplican solo si es posible y, por el contrario, se estatuye que bajo el nuevo paradigma constitucional, estas prerrogativas son de observancia obligatoria, por lo que no se puede elegir si se realizan o no, sino que es imperativo su exacto cumplimiento, sin perjuicio de que su aplicación se lleva a cabo en la medida de lo posible, de acuerdo con las posibilidades fácticas y jurídicas.</p>
+			<p>La distinción entre principios y reglas es importante en la interpretación jurídica, particularmente en el contexto de los derechos humanos, ya que en estos no existe una ponderación. En consecuencia, ningún derecho de esta naturaleza se encuentra por encima de otro en un orden jerárquico, sino que su tratamiento interpretativo debe realizarse atendiendo a la protección más amplia, lo cual se conoce doctrinalmente como <italic>principio pro persona o pro homine</italic>.<xref ref-type="fn" rid="fn7"><sup>7</sup></xref>
+			</p>
+			<p>A pesar de lo anterior, la inmersión de los derechos humanos en el sistema jurídico mexicano trajo aparejada la presencia de diversos problemas interpretativos, sobre todo por cuanto hace a la ponderación o preferencia de las disposiciones normativas contenidas en el texto constitucional y en tratados internacionales que actualmente se encuentran elevados a rango constitucional. Lo anterior ha generado un auténtico caos normativo en el que cada operador jurídico actúa conforme cree conveniente, por lo que, en aras de la salvaguarda de estos derechos, se termina vulnerando la seguridad jurídica de las personas y, en consecuencia, se provoca un efectivo menoscabo en su esfera jurídica.</p>
+			<p>Con el objeto de erradicar este fenómeno, el Estado mexicano ha desarrollado sistemas de regularidad constitucional que, a la par, se encuentran en coexistencia de mecanismos de control de convencionalidad. Los sistemas de regularidad constitucional se refieren a las herramientas y parámetros utilizados para garantizar la coherencia y conformidad de las leyes y actos de autoridad con la Constitución, a efecto de evitar que los derechos humanos queden únicamente como presupuestos axiológicos.</p>
+		</sec>
+		<sec>
+			<title>IV. Medios de control constitucional: la regularidad constitucional</title>
+			<p> Entre estos medios de control constitucional, que por antonomasia son mecanismos de garantía de derechos fundamentales, se encuentran:</p>
+			<p>
+				<list list-type="order">
+					<list-item>
+						<p>El juicio de amparo (artículos 103 y 107 constitucionales)<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>. Se trata de un mecanismo que tiene como finalidad restituir a las personas en el pleno goce de sus derechos humanos por violaciones cometidas por autoridades (ya sea públicas de conformidad con el artículo 5 fracción II párrafo primero de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; o bien, por lo que hace a particulares contemplados en el párrafo segundo, siempre que se efectúe en cumplimiento de una norma general y se lleva a cabo un acto de manera análoga a los de una autoridad pública). Este medio de defensa es ampliamente empleado en el sistema jurídico mexicano, toda vez que cualquier particular puede acceder a él, sin embargo, se encuentra vedado su acceso por parte de las autoridades, salvo cuando el Estado se encuentra en una relación de coordinación con respecto de los gobernados, es decir, cuando este actúa como particular frente a aquellos.</p>
+					</list-item>
+					<list-item>
+						<p>Controversias constitucionales (artículo 105, fracción I constitucional)<xref ref-type="fn" rid="fn9"><sup>9</sup></xref>. Son un mecanismo que tiene como finalidad resolver conflictos competenciales por la invasión de esferas entre las autoridades. En atención a que únicamente las autoridades tienen competencia, este procedimiento se entabla como litigio entre autoridades y busca tutelar el presupuesto procesal constitucional de primer orden consistente en la competencia de conformidad con el artículo 16 constitucional.</p>
+					</list-item>
+					<list-item>
+						<p>Acciones de inconstitucionalidad (artículo 105 fracción II)<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>. Son un medio de control constitucional que tiene como finalidad resolver la posible contradicción entre una norma secundaria y la Constitución.</p>
+					</list-item>
+					<list-item>
+						<p>Juicio de revisión constitucional electoral (artículo 99, párrafo cuarto, fracción IV constitucional)<xref ref-type="fn" rid="fn11"><sup>11</sup></xref>. Se trata de un medio de defensa que promueven los partidos políticos o las coaliciones para impugnar actos o resoluciones definitivas y firmes de las autoridades competentes para organizar, calificar o resolver las impugnaciones en los procesos electorales de las entidades federativas, que pudiesen ser violatorios de los preceptos de la Constitución Política de los Estados Unidos Mexicanos.</p>
+					</list-item>
+					<list-item>
+						<p>Juicio para la protección de los derechos político electorales de los ciudadanos (artículo 99 fracción V constitucional)<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>. Este medio de control constitucional es un mecanismo a través del cual los ciudadanos pueden solicitar la protección de sus derechos político electorales, así como de todos aquellos derechos fundamentales vinculados con los mismos.</p>
+					</list-item>
+					<list-item>
+						<p>Juicio político (artículos 109 y 110 constitucionales)<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>. Es un procedimiento de regularidad constitucional, el cual se lleva a cabo por las cámaras del Congreso de la Unión en el que se somete a servidores públicos por actos u omisiones que atenten contra la Constitución o por delitos graves con la finalidad de remover las inmunidades procesales que la propia Constitución les otorga, permitiendo que puedan ser sujetos a un proceso penal. Los servidores públicos que pueden ser sujetos de juicio político incluyen: </p>
+					</list-item>
+					<list-item>
+						<p>…las senadoras y los senadores y las diputadas y los diputados al Congreso de la Unión, las ministras y los ministros de la Suprema Corte de Justicia de la Nación, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del órgano de administración judicial, las personas titulares de las Secretarías de Despacho, la o el Fiscal General de la República, las magistradas y los magistrados de Circuito y las juezas y los jueces de Distrito, la consejera o consejero Presidente, las consejerías electorales y la o el secretario ejecutivo del Instituto Nacional Electoral, las magistradas y los magistrados del Tribunal Electoral, las y los integrantes de los órganos constitucionales autónomos, las y los directores generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>
+						</p>
+					</list-item>
+					<list-item>
+						<p>Facultad de investigación de la CNDH (artículo 102, apartado B, último párrafo constitucional). Este mecanismo de regularidad constitucional fue instituido en el texto constitucional a través de las reformas de 2011 aludidas, y consiste en dotar a la Comisión Nacional de Derechos Humanos con la facultad de investigación a petición de parte o de oficio de las presuntas violaciones de derechos humanos cometidas por autoridades. Previo a la citada reforma, esta facultad recaía en la Suprema Corte de Justicia de la Nación (SCJN).</p>
+					</list-item>
+					<list-item>
+						<p>Procedimientos ante las comisiones de derechos humanos (como lo son las procuradurías y comisiones estatales de Derechos Humanos y que se encuentra regulado en el artículo 102, apartado B constitucional)<xref ref-type="fn" rid="fn15"><sup>15</sup></xref>. Se refieren a procedimientos no jurisdiccionales de derechos humanos, en donde se permite a las personas presentar denuncias y quejas individuales sobre presuntas violaciones a estos mismos. El resultado de estos procedimientos únicamente se limita a la formulación de recomendaciones que no son vinculantes.</p>
+					</list-item>
+					<list-item>
+						<p>Responsabilidad patrimonial del Estado (artículo 109, último párrafo constitucional)<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>. Es un procedimiento de regularidad constitucional que se presenta cuando hay una actuación irregular del Estado que provoca una lesión o daño al particular en su esfera jurídica.</p>
+					</list-item>
+					<list-item>
+						<p>Acciones colectivas (artículo 17 constitucional)<xref ref-type="fn" rid="fn17"><sup>17</sup></xref>. Estos mecanismos no cuentan con una ley especial, sin embargo, se regulan en el Libro Quinto del Código Federal de Procedimientos Civiles<xref ref-type="fn" rid="fn18"><sup>18</sup></xref> y el Libro Sexto del Código Nacional de Procedimientos Civiles y Familiares<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>. Estos ordenamientos reconocen tres tipos de acciones colectivas: de grupo, colectivas y económicas colectivas de los sindicatos o los empleadores. Estos mecanismos legales permiten a los grupos de personas en situaciones similares presentar demandas conjuntas para la protección de sus derechos e intereses. Este tipo de acciones cuenta con una naturaleza indivisible, cuyo titular es una colectividad determinada o determinable con base en circunstancias comunes, cuyo objeto es reclamar judicialmente del demandado, la reparación del daño causado consistente en la realización de una o más acciones o abstenerse de realizarlas, así como a cubrir los daños en forma individual a los miembros del grupo y que deriva de un vínculo jurídico común existente por mandato de ley entre la colectividad y el demandado<xref ref-type="fn" rid="fn20"><sup>20</sup></xref>.</p>
+					</list-item>
+				</list>
+			</p>
+			<p>De manera concomitante a la presencia de estos mecanismos de garantía de derechos humanos en la Constitución, existe como herramienta interpretativa el denominado “control de constitucionalidad”, que en México tiene una naturaleza ecléctica entre:</p>
+			<p>
+				<list list-type="alpha-lower">
+					<list-item>
+						<p>El control concentrado, austriaco o europeo de constitucionalidad, el cual coloca la potestad en órganos jurisdiccionales específicos para el análisis de actos de autoridad o leyes en relación con el texto constitucional en el marco de los procesos de regularidad constitucional ya abordados. En el Estado mexicano, este tipo de control de constitucionalidad es ejercido en vía de acción por los órganos del Poder Judicial de la Federación (Suprema Corte de Justicia de la Nación, Tribunales Colegiados de Circuito, Tribunales Colegiados de Apelación y Juzgados de Distrito).</p>
+					</list-item>
+					<list-item>
+						<p>El control constitucional difuso o americano, mismo que implica que en vía de excepción, cualquier autoridad jurisdiccional, en caso de algún conflicto suscitado entre una norma de cualquier jerarquía y el texto constitucional debe preferir la aplicación de la norma de mayor jerarquía, es decir, la norma constitucional.</p>
+					</list-item>
+				</list>
+			</p>
+		</sec>
+		<sec>
+			<title>V. La convencionalidad en el sistema jurídico mexicano</title>
+			<p>Hasta este punto, pudiera parecer que la configuración normativa del sistema jurídico mexicano es eminentemente constitucionalista, donde la legalidad se encuentra supeditada a la constitucionalidad, de ahí que el parámetro de regularidad del sistema sea la Constitución. Sin embargo, con motivo de la reforma constitucional del 10 de junio de 2011<xref ref-type="fn" rid="fn21"><sup>21</sup></xref>, se incorporó al sistema jurídico mexicano la denominada jurisdicción supranacional, por lo que, al integrarse México a la CADH, quedó obligado a ceñir sus actuaciones al <italic>corpus iuris</italic> interamericano.</p>
+			<p>Con fundamento en ello y a raíz de la resolución del caso Rosendo Radilla Pacheco vs México, se formuló una consulta a trámite ante el pleno de la Suprema Corte de Justicia de la Nación, mediante el expediente Varios 912/2010, cuya finalidad fue instrumentar el cumplimiento de la sentencia aludida, y donde en su considerando sexto se determinó, entre otras obligaciones, la de las autoridades jurisdiccionales del Estado mexicano de ejercer un control difuso de convencionalidad ex <italic>oficio.</italic> Lo anterior se traduce en la obligación de las autoridades jurisdiccionales de analizar los asuntos sometidos a su consideración con una perspectiva que también contemple los criterios sostenidos por la Corte Interamericana de Derechos Humanos (órgano encargado de ejercer el control concentrado de convencionalidad en el sistema interamericano).</p>
+			<p>Derivado de lo anterior surgió el siguiente cuestionamiento: de existir contradicción entre las disposiciones de un tratado internacional y la constitución, ¿cuál debe prevalecer? Al respecto, la Suprema Corte de Justicia de la Nación, en la resolución de la Contradicción de Tesis 293/2011<xref ref-type="fn" rid="fn22"><sup>22</sup></xref>, determinó que cuando en la Constitución haya una restricción expresa al ejercicio de algún derecho humano, se deberá estar a lo que indica la norma constitucional.</p>
+			<p>Por otro lado, se estableció que los criterios jurisprudenciales de la Corte Interamericana de Derechos Humanos constituyen una extensión de la Convención Americana sobre Derechos Humanos y, por tanto, resultan vinculantes para los jueces nacionales, con independencia de que el Estado Mexicano haya sido parte en el litigio. Además, se estipuló la obligación a los operadores jurídicos de armonizar, en todos los casos en que sea posible, la jurisprudencia interamericana con la nacional, en caso de ser imposible la armonización, deberán aplicar el criterio que resulte más favorable a la protección de los derechos humanos<xref ref-type="fn" rid="fn23"><sup>23</sup></xref>.</p>
+			<p>La anterior determinación propició una polarización en los operadores jurídicos, toda vez que existieron pronunciamientos en el sentido de considerar que se trató de un retroceso en el proceso del respeto a derechos humanos y de la interpretación pro persona<italic>.</italic><xref ref-type="fn" rid="fn24"><sup>24</sup></xref> En oposición a ello, se presentó la postura que sugiere que se trata de una medida de salvaguarda al texto constitucional y a su supremacía<xref ref-type="fn" rid="fn25"><sup>25</sup></xref>.</p>
+			<p>No es la pretensión de estas notas dilucidar el inacabado conflicto, sin embargo, es posible aseverar que dicha postura trajo aparejado un panorama de inseguridad y confusión jurídica en el sistema jurídico mexicano, que se ha presentado en los diversos ámbitos de gobierno y en variadas actividades del Estado.</p>
+		</sec>
+		<sec>
+			<title>VI. Conflictos en el foro jurídico: convencionalidad, constitucionalidad o legalidad</title>
+			<sec>
+				<title>Matrimonio igualitario en el estado de Guanajuato</title>
+				<p>Para ilustrar esta pugna entre convencionalidad, constitucionalidad y legalidad en la solución de los quehaceres jurídicos, se encuentra, por ejemplo, el matrimonio igualitario.</p>
+				<p>En el caso del estado de Guanajuato, actualmente, el matrimonio entre parejas homosexuales se encuentra permitido, sin embargo, la “solución” que se emplea para conceder el acceso a dicha institución a parejas del mismo sexo, se estima un yerro técnico-jurídico, toda vez que mediante la circular 2261/2021 dirigida al director general del Registro Civil, la entonces titular de la Secretaría de Gobierno de Guanajuato, instruyó darle cumplimiento a las uniones civiles sin distinción de preferencia sexual.<xref ref-type="fn" rid="fn26"><sup>26</sup></xref>
+				</p>
+				<p>Contrario al panorama de protección de derechos humanos generado con motivo de la suscripción y ratificación de tratados internacionales, de los mecanismos constitucionales de protección a los mismos e incluso de la propia legislación, se trata de una circular del ejecutivo local guanajuatense lo que permite las uniones matrimoniales homosexuales. Anteriormente, era inaccesible para las personas homosexuales poder contraer matrimonio, puesto que el mismo no se encontraba regulado por la legislación civil sustantiva de la entidad ni por el reglamento del registro civil estatal. Bajo esta consideración, las personas que estimaban vulnerada su esfera de derechos ante la negativa del oficial para celebrar el matrimonio, solicitaban la protección constitucional a efecto de que un juez de distrito les otorgase la tutela federal para el efecto de obligar al referido funcionario del registro civil a celebrar el matrimonio.</p>
+				<p>El fallo dictado por los jueces de distrito se encontraba sustentado en jurisprudencia de la Suprema Corte de Justicia de la Nación<xref ref-type="fn" rid="fn27"><sup>27</sup></xref> y de la Corte Interamericana de Derechos Humanos<xref ref-type="fn" rid="fn28"><sup>28</sup></xref>, en interpretación del denominado “derecho humano al libre desarrollo de la personalidad”<italic>,</italic> la construcción jurisprudencial ha estipulado que este derecho implica la protección general de la persona humana y su capacidad para autodeterminar su vida de acuerdo con sus propias decisiones y valores. Se considera un derecho autónomo que dota a los individuos de la libertad de dirigir su vida y destino a su propia voluntad, siempre que no se vulneren los derechos de otros.</p>
+				<p>Del mismo modo, el fallo encontraba sustento en que el concepto de matrimonio ha evolucionado con la sociedad y ya no está vinculado exclusivamente a la reproducción, así pues consideraron que el pretender vincular los requisitos del matrimonio a las preferencias sexuales de quienes pueden acceder a la institución matrimonial con la procreación es discriminatorio<xref ref-type="fn" rid="fn29"><sup>29</sup></xref>, pues se excluye injustificadamente del acceso al matrimonio a las parejas homosexuales que están situadas en condiciones similares a las parejas heterosexuales.<xref ref-type="fn" rid="fn30"><sup>30</sup></xref>
+				</p>
+				<p>En las relatadas consideraciones, pese a que en la actualidad se encuentra protegido y tutelado el derecho de las personas homosexuales a acceder al matrimonio, se estima erróneo el tratamiento técnico que se ha dado al matrimonio igualitario en el estado de Guanajuato, ya que si bien es cierto que se está respetando el derecho humano a la libre autodeterminación, al libre proyecto de vida y al libre desarrollo de la personalidad, no menos cierto es que el mismo no se está respetando con fundamento en disposiciones convencionales ni con base en interpretaciones del texto constitucional ni siquiera basado en la disposición de legislaciones secundarias, sino con base en una circular, lo que visibiliza un ejemplo del evidente caos normativo que atraviesa el sistema jurídico mexicano.</p>
+			</sec>
+			<sec>
+				<title>La prisión preventiva en el sistema jurídico mexicano</title>
+				<p>Distinto ejemplo se encuentra en las consideraciones de los fallos emitidos por la Corte Interamericana de Derechos Humanos en el caso García Rodríguez y Reyes Alpízar vs México<xref ref-type="fn" rid="fn31"><sup>31</sup></xref> y en el diverso Tzompaxtle Tecpile y otros vs. México<xref ref-type="fn" rid="fn32"><sup>32</sup></xref>, donde se determinó que la constitución mexicana contiene en sus postulados preceptos inconvencionales por cuanto hace a la prisión preventiva oficiosa y al arraigo. </p>
+				<p>En consecuencia, se condenó al Estado mexicano a modificar su texto constitucional para adecuarlo a los estándares internacionales, toda vez que se consideró a la figura de la prisión preventiva oficiosa de aplicación automática para ciertos delitos, sin considerar las circunstancias específicas del caso o la necesidad de la misma; y la del arraigo como una medida punitiva y no cautelar, lesiva de los derechos a la libertad personal y a la presunción de inocencia, ya que la misma se emplea para restringir la libertad antes del juicio, con fines investigativos. Dichas instituciones, a criterio de la Corte Interamericana, se emplean de manera insipiente para compensar las deficiencias en las investigaciones penales y no así para la efectiva aplicación de justicia.</p>
+				<p>Lo anteriormente expuesto supone un desafío de suma complejidad para las autoridades mexicanas, donde no existe un acuerdo sobre la procedencia para el acatamiento de las sentencias referidas. Por una parte, las autoridades jurisdiccionales, en cumplimiento de las obligaciones convencionales y en ejercicio de un control difuso de convencionalidad, han optado -en términos generales- por inaplicar las medidas de prisión preventiva oficiosa y de arraigo, mediante el ejercicio de un control de convencionalidad ex <italic>officio</italic><xref ref-type="fn" rid="fn33"><sup>33</sup></xref>. Lo anterior por considerar la aplicación de dicha providencia sin que medie la posibilidad de determinar la finalidad, la idoneidad, la necesidad o la proporcionalidad de la medida cautelar en cada caso, transgrede los derechos a la libertad personal, a no ser privado de la libertad arbitrariamente (artículo 7, numeral 3), al control judicial de la privación de la libertad (artículo 7, numeral 5), a la presunción de inocencia (artículo 8, numeral 2) y al principio de igualdad y no discriminación, al introducir un trato diferente entre las personas imputadas por determinados delitos con respecto a las demás (artículo 24) todos ellos reconocidos en la Convención Americana sobre Derechos Humanos.<xref ref-type="fn" rid="fn34"><sup>34</sup></xref>
+				</p>
+				<p>Por su parte, las autoridades administrativas, entendiendo por estas todas aquellas que no son materialmente jurisdiccionales y no necesariamente pertenecientes a la administración pública, no se encuentran obligadas al acatamiento de la jurisprudencia emitida por la Corte Interamericana de Derechos Humanos, ni aquella generada por la Suprema Corte de Justicia de la Nación o por autoridades jurisdiccionales que pueden emitirla conforme al artículo 217 de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos. En consecuencia, para cumplir con la obligación constitucional y legal de fundar y motivar sus actos, basta con que citen específicamente la ley exactamente aplicable al caso<xref ref-type="fn" rid="fn35"><sup>35</sup></xref>, expresen las circunstancias especiales, las razones particulares o causas inmediatas y la adecuación entre los motivos aducidos y las normas aplicables<xref ref-type="fn" rid="fn36"><sup>36</sup></xref>, sin que tengan la obligación de implementar los lineamientos de los fallos convencionales o del tribunal constitucional.</p>
+				<p>En esa medida, han optado por ceñirse a lo estatuido por la propia constitución o, en su caso, por criterios de legalidad como las disposiciones contenidas en el Código Nacional de Procedimientos Penales<xref ref-type="fn" rid="fn37"><sup>37</sup></xref>, debido a que -según su criterio-, si algún tratado internacional o resolución de un tribunal internacional, en aras de proteger un derecho fundamental, se opone a los principios o postulados, o bien desconoce una restricción expresa al ejercicio de tal derecho reconocido en la norma fundamental, debe prevalecer ésta por encima de aquéllos.</p>
+				<p>Bajo este orden de ideas, en la primera sesión ordinaria de 2023 de la Conferencia Nacional de Procuración de Justicia de las zonas centro, noreste y noroeste, occidente y sureste, se han emitido pronunciamientos que se encuentran plasmados en las correspondientes actas de sesión de dichas reuniones, las cuales sustancialmente refieren lo siguiente: </p>
+				<disp-quote>
+					<p>(…) PRISIÓN PREVENTIVA OFICIOSA EN EL SISTEMA INTERAMERICANO. (…) acordamos que mientras el constituyente permanente no reforme el artículo 19 constitucional o la Suprema Corte de Justicia de la Nación adopte un criterio obligatorio que inaplique la prisión preventiva oficiosa, el Ministerio Público debe seguir solicitando su aplicación y generar estrategias para lograr la justificación de la medida cuando sea necesario.<xref ref-type="fn" rid="fn38"><sup>38</sup></xref>
+					</p>
+				</disp-quote>
+				<p>La anterior cuestión se encuentra sustentada, además, con lo acordado en el acta de sesión de la XLIX Asamblea Plenaria de la Conferencia Nacional de Procuración de Justicia, celebrada el pasado 24 de noviembre de 2023, donde en su segundo punto de acuerdo se determinó que:</p>
+				<disp-quote>
+					<p>CNPJ/XLIX/02/2023. SITUACIÓN ACTUAL DE LA PRISIÓN PREVENTIVA. Las personas integrantes de la Asamblea Plenaria de la Conferencia Nacional de Procuración de Justicia, en defensa de la supremacía constitucional y de los derechos fundamentales de las personas víctimas del delito, acordamos pronunciarnos ante la Suprema Corte de Justicia de la Nación para que prevalezca la prisión preventiva y se emitan criterios que establezcan los requisitos para justificar y revisar la medida cautelar.<xref ref-type="fn" rid="fn39"><sup>39</sup></xref>
+					</p>
+				</disp-quote>
+				<p>Al respecto, conviene repensar los postulados de la convencionalidad, la constitucionalidad y la legalidad a efecto de otorgar la solución jurídica correcta, teniendo como canon de solución el respeto irrestricto a derechos humanos.</p>
+				<p>Sin perjuicio de lo anterior, pudiera llegar a considerarse que la condena efectuada por la Corte Interamericana de Derechos Humanos en contra del Estado Mexicano es una invasión a la soberanía nacional, en virtud de que en la conformación del Estado es el pueblo mexicano, quien a través del constituyente originario permite su representación por medio de mandatarios como lo son el presidente de la república, los diputados y los senadores, de ahí que, por lo menos a primera vista, si no es voluntad del pueblo mexicano y de sus representantes reformar su texto constitucional, no puede existir una obligación a efectuar dicha enmienda. No obstante, se debe tener presente lo estatuido por la Convención de Viena sobre el derecho de los tratados; en su parte III, sección primera, apartado 27, menciona que “Una parte no podrá invocar las disposiciones de su derecho interno como justificación del incumplimiento de un tratado.”<xref ref-type="fn" rid="fn40"><sup>40</sup></xref>
+				</p>
+				<p>De la anterior transcripción es posible advertir que una vez suscrito un tratado internacional por el ejecutivo y siendo ratificado por el senado de conformidad con la convención en cita, se debe acatar a la adhesión y al cumplimiento cabal del mismo, por lo que, en caso de que el Estado Mexicano no hubiese estado de acuerdo con determinado precepto de cualquier tratado, debió haberse abstenido de suscribirlo, o bien, haberlo hecho con reserva. Toda vez que se reitera, no es posible alegar preceptos de derecho interno para incumplir con las disposiciones de los tratados internacionales, lo que además se encuentra robustecido con las sentencias de la Corte Interamericana de Derechos Humanos -comprendidas como una extensión de la Convención Americana sobre Derechos Humanos-, tal como fue reconocido por el Estado mexicano en el expediente varios 912/2010, mencionado supralíneas. En consecuencia, el Estado se encuentra ineludiblemente compelido al acatamiento del fallo convencional, a menos que de conformidad con el número 56 de la referida Convención de Viena realice la declaratoria de denuncia de la Convención Americana sobre Derechos Humanos (CADH), lo que se considera contrario al orden jurídico constitucional y a la política internacional del estado mexicano.</p>
+				<p>Por el contrario, a nuestro criterio, se estima que la modificación al texto constitucional traería aparejado un patente beneficio a la protección de Derechos Humanos de conformidad con los compromisos asumidos por el Estado mexicano, a raíz de la multicitada reforma constitucional de 2011 y bajo el paradigma de regular las actuaciones públicas de tal modo que redunden en el mayor beneficio para los gobernados.</p>
+				<p>Desde luego, la pretensión consiste en apuntalar como eje rector del quehacer estadual el respeto irrestricto a los derechos humanos de los gobernados, donde se estima propio adecuar los estándares convencionales y constitucionales evitando la pugna de disposiciones normativas, de las cuales aún hay presencia<xref ref-type="fn" rid="fn41"><sup>41</sup></xref>.</p>
+			</sec>
+			<sec>
+				<title>Separación injustificada de cargos púbicos: imposibilidad de reinstauración.</title>
+				<p>Finalmente, se estima propio explicitar 2 ejemplos sobre la pugna de disposiciones normativas constitucionales y convencionales. El primero de ellos en el caso de lo dispuesto por el artículo 123, apartado B, fracción XIII del texto constitucional, mismo que refiere:</p>
+				<disp-quote>
+					<p>…XIII. Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales de la Federación, las entidades federativas y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido. …<xref ref-type="fn" rid="fn42"><sup>42</sup></xref>
+					</p>
+				</disp-quote>
+				<p>El precepto normativo transcrito se estima inconvencional por ser violatorio de diversos preceptos de la Convención Americana sobre Derechos Humanos y de otros instrumentos internacionales que conforman el cuerpo jurídico interamericano por transgredir, entre otros, el derecho a la libertad de trabajo, a las condiciones equitativas de este y a la protección contra el desempleo. Pese a encontrarse contemplado en el texto constitucional, el mismo es violatorio de derechos humanos, a criterio de quien anota. </p>
+				<p>Lo señalado se sustenta en que, ante una eventual absolución del procedimiento administrativo disciplinario iniciado por una actividad irregular aparente, o bien del proceso laboral instaurado en el que se determine como injustificado el cese, la separación, remoción, baja o cualquier otra forma de terminación de la relación laboral, se debe exonerar de toda sanción al inculpado, existiendo a favor del operario al menos la posibilidad de acceder a una eventual reinstalación o reincorporación a sus actividades laborales, como ocurre en otros contratos de trabajo del sector privado y de trabajadores al servicio del Estado, regulados por el propio artículo 123 constitucional; de ahí que, aunado a ser violatorio de los derechos mencionados, se estima que la disposición en análisis es por demás discriminatoria en contravención de lo establecido por el último párrafo del arábigo 1 del texto constitucional.</p>
+				<p>Inhabilitación por responsabilidad administrativa: declaración patrimonial.</p>
+				<p>Un segundo precepto que del mismo modo se estima inconvencional a criterio del suscribiente es aquel que comprende el artículo 33 de la Ley General de Responsabilidades Administrativas, mismo que es del tenor literal siguiente:</p>
+				<disp-quote>
+					<p>Artículo 33. La declaración de situación patrimonial deberá presentarse en los siguientes plazos: (…)</p>
+				</disp-quote>
+				<disp-quote>
+					<p>III. Declaración de conclusión del encargo, dentro de los sesenta días naturales siguientes a la conclusión.</p>
+				</disp-quote>
+				<disp-quote>
+					<p>(…)</p>
+				</disp-quote>
+				<disp-quote>
+					<p>Para el caso de omisión, sin causa justificada, en la presentación de la declaración a que se refiere la fracción III de este artículo, se inhabilitará al infractor de tres meses a un año.</p>
+				</disp-quote>
+				<p>Lo anterior se estima así, ya que es de explorado derecho que en materia de situación patrimonial de los servidores públicos se pretende que exista acceso a la información relativa a los niveles y puestos que existan en cada dependencia, así como respecto del registro y seguimiento de la evolución patrimonial, lo que permite la existencia de un panorama de transparencia en la gestión pública. Todo esto contribuye al combate a la corrupción, eliminar la discrecionalidad de las autoridades para dar a conocer la información de que disponen y que genera, en suma, la confianza de la sociedad en los servidores públicos.</p>
+				<p>Sin perjuicio de lo anterior, debe tenerse presente que conforme al artículo 49, fracción IV del referido ordenamiento, el incumplimiento u omisión de la presentación de las declaraciones de situación patrimonial y de intereses en los plazos que determina la ley, únicamente son considerados como una falta no grave y, en esa medida, se estima vulnerado el principio de proporcionalidad en la imposición de sanciones, pues se pasa por inadvertida la auténtica responsabilidad, circunstancias y antecedentes del servidor público, entre otros aspectos.</p>
+				<p>Lo anterior es así, ya que el numeral 33 al que se ha hecho referencia constriñe a la autoridad administrativa a imponer siempre la misma sanción, sin importar la gravedad de la responsabilidad en que se incurrió, las circunstancias socioeconómicas del servidor público, su nivel jerárquico, antigüedad, condiciones exteriores, medios de ejecución y reincidencia. Esto se traduce en que a todos los servidores públicos se les aplicará invariable e inflexiblemente la sanción especificada, lo cual impide el ejercicio de la facultad prudente del arbitrio para individualizar y cuantificar la temporalidad de la inhabilitación e inclusive, la viabilidad y la pertinencia de imponer otra sanción de aquellas incluidas en el catálogo para las faltas no graves<xref ref-type="fn" rid="fn43"><sup>43</sup></xref>.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>VII. Comentarios finales</title>
+			<p>El sistema jurídico mexicano se encuentra en constante cambio en busca de adecuarse a la realidad social, no obstante, se intenta que exista una integración normativa y una interpretación jurídica dinámica, pero firme en instituciones rígidas como lo es el respeto irrestricto a los derechos humanos de los gobernados.</p>
+			<p>Consideramos fundamental que se promueva una reflexión profunda y se tomen acciones pertinentes para evaluar si los objetivos del derecho, en términos generales, se han cumplido dentro de la compleja sociedad que hemos estado configurando. </p>
+			<p>Este no es, bajo ningún concepto, un tema simple, especialmente teniendo en cuenta que las estrategias implementadas por los diferentes sectores gubernamentales de nuestro país no han producido, en todos los supuestos, los resultados más satisfactorios.</p>
+			<p>Lo anterior se asevera en virtud del evidente desorden normativo que atraviesa el sistema jurídico, donde cada operador actúa conforme considera conveniente y, en ocasiones, existen diversas posturas correctas para el abordaje de los quehaceres jurídicos más cotidianos, lo que no necesariamente conlleva un panorama adverso, puesto que el derecho moderno dejó de operar con razones perentorias, con una apreciación restrictiva de la norma que la circunscribe a un panorama de hecho y a una consecuencia jurídica en caso de actualizarse dicho supuesto; debiendo ser concebido necesariamente desde el ámbito de la argumentación, donde mediante un ir y venir de argumentos<xref ref-type="fn" rid="fn44"><sup>44</sup></xref>, se justifican las decisiones jurídicas a través de un proceso racional, lo que implica un continuo intercambio ideológico en aras de obtener conclusiones válidas y coherentes dentro del sistema legal. </p>
+			<p>Sin perjuicio de lo anterior, se exhorta a repensar los postulados teleológicos de la norma fundamental desde la perspectiva de que el actuar estatal debe tener como máxima garantizar el pleno goce de derechos humanos, cumpliendo con las obligaciones asumidas por el Estado, propiciando así una integración y una coexistencia de las estipulaciones jurídicas nacionales con el orden jurídico supranacional.</p>
+			<p>Al preguntarnos cuál es el fundamento del actuar de los operadores del sistema jurídico mexicano, no debemos colocar en pugna las disposiciones legales, constitucionales y convencionales, sino por el contrario, buscar una integración armónica de estas mediante ejercicios interpretativos que permitan el génesis de un panorama funcional que tenga como fin último propiciar el mayor beneficio a los gobernados.</p>
+			<p>Del mismo modo, se estima preciso generar consciencia sobre la importancia de la profesionalización de los operadores del sistema jurídico, toda vez que la realidad social exige una preparación amplia, un conocimiento global de los instrumentos legales, del texto constitucional y de los convenios internacionales de los que el Estado mexicano es parte. Bajo esta óptica, es preciso que los juristas se encuentren en una preparación constante y vanguardista mediante la revisión de criterios interpretativos emitidos por los órganos competentes para su expedición<xref ref-type="fn" rid="fn45"><sup>45</sup></xref>.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>VIII. Fuentes consultadas</title>
+			<ref id="B1">
+				<mixed-citation>Bodin, Jean. <italic>Los seis libros de la República: selección, traducción y estudio preliminar de Pedro Bravo Gala</italic>. Madrid: Editorial Tecnos, 1997. <ext-link ext-link-type="uri" xlink:href="https://esepuba.files.wordpress.com/2013/10/1er-enc-bodino-jean-los-seis-libros-de-la-republica.pdf">https://esepuba.files.wordpress.com/2013/10/1er-enc-bodino-jean-los-seis-libros-de-la-republica.pdf</ext-link>.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bodin</surname>
+							<given-names>Jean</given-names>
+						</name>
+					</person-group>
+					<source>Los seis libros de la República: selección, traducción y estudio preliminar de Pedro Bravo Gala</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Editorial Tecnos</publisher-name>
+					<year>1997</year>
+					<ext-link ext-link-type="uri" xlink:href="https://esepuba.files.wordpress.com/2013/10/1er-enc-bodino-jean-los-seis-libros-de-la-republica.pdf">https://esepuba.files.wordpress.com/2013/10/1er-enc-bodino-jean-los-seis-libros-de-la-republica.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Cabrera Acevedo, Lucio. <italic>El Constituyente de 1917 y el Poder Judicial de la Federación: una visión del siglo XX</italic>. Ciudad de México: Suprema Corte de Justicia de la Nación, 2002.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cabrera Acevedo</surname>
+							<given-names>Lucio</given-names>
+						</name>
+					</person-group>
+					<source>El Constituyente de 1917 y el Poder Judicial de la Federación: una visión del siglo XX</source>
+					<publisher-loc>Ciudad de México</publisher-loc>
+					<publisher-name>Suprema Corte de Justicia de la Nación</publisher-name>
+					<year>2002</year>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Cervera, Ricardo C. <italic>Relaciones Internacionales</italic>. Madrid: Ciencias Sociales de la Universidad Complutense de Madrid, 1991.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cervera</surname>
+							<given-names>Ricardo C</given-names>
+						</name>
+					</person-group>
+					<source>Relaciones Internacionales</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Ciencias Sociales de la Universidad Complutense de Madrid</publisher-name>
+					<year>1991</year>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Conferencia Nacional de Procuración de Justicia. &quot;1ª sesión ordinaria 2023 zonas noreste y noroeste, minuta de acuerdos&quot;. Acceso el 24 de enero de 2024. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Zonas%20Noreste%20%20Noroeste/1%C2%AA%20Sesi%C3%B3n%20Ordinaria%202023%20de%20la%20Zonas%20NoresteNoroeste%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf">https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Zonas%20Noreste%20%20Noroeste/1%C2%AA%20Sesi%C3%B3n%20Ordinaria%202023%20de%20la%20Zonas%20NoresteNoroeste%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="confproc">
+					<conf-name>Conferencia Nacional de Procuración de Justicia</conf-name>
+					<source>1ª sesión ordinaria 2023 zonas noreste y noroeste, minuta de acuerdos</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-01-24">24 de enero de 2024</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Zonas%20Noreste%20%20Noroeste/1%C2%AA%20Sesi%C3%B3n%20Ordinaria%202023%20de%20la%20Zonas%20NoresteNoroeste%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf">https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Zonas%20Noreste%20%20Noroeste/1%C2%AA%20Sesi%C3%B3n%20Ordinaria%202023%20de%20la%20Zonas%20NoresteNoroeste%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Conferencia Nacional de Procuración de Justicia. &quot;XLIX Asamblea Plenaria de la Conferencia Nacional de Procuración de Justicia, minuta de acuerdos&quot;. Acceso el 24 de enero de 2024. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Asambleas%20Plenarias/XLIX%20Asamblea%20Plenaria%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf">https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Asambleas%20Plenarias/XLIX%20Asamblea%20Plenaria%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="confproc">
+					<conf-name>Conferencia Nacional de Procuración de Justicia</conf-name>
+					<source>XLIX Asamblea Plenaria de la Conferencia Nacional de Procuración de Justicia, minuta de acuerdos</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-01-24">24 de enero de 2024</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Asambleas%20Plenarias/XLIX%20Asamblea%20Plenaria%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf">https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Asambleas%20Plenarias/XLIX%20Asamblea%20Plenaria%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Corte Interamericana de Derechos Humanos. <italic>ABC de la Corte Interamericana de Derechos Humanos: el qué, cómo, cuándo, dónde y porqué de la Corte Interamericana</italic>. San José: Corte IDH, 2018.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte Interamericana de Derechos Humanos</collab>
+					</person-group>
+					<source>ABC de la Corte Interamericana de Derechos Humanos: el qué, cómo, cuándo, dónde y porqué de la Corte Interamericana</source>
+					<publisher-loc>San José</publisher-loc>
+					<publisher-name>Corte IDH</publisher-name>
+					<year>2018</year>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Corte Interamericana de Derechos Humanos. <ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/">https://www.corteidh.or.cr/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Corte Interamericana de Derechos Humanos</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/">https://www.corteidh.or.cr/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>El Universal. 2021. &quot;Aprueban el matrimonio igualitario en Guanajuato.&quot; <italic>El Universal</italic>, 21 de diciembre de 2021. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.eluniversal.com.mx/estados/aprueban-el-matrimonio-igualitario-en-guanajuato">https://www.eluniversal.com.mx/estados/aprueban-el-matrimonio-igualitario-en-guanajuato</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="newspaper">
+					<person-group person-group-type="author">
+						<collab>El Universal</collab>
+					</person-group>
+					<year>2021</year>
+					<article-title>Aprueban el matrimonio igualitario en Guanajuato</article-title>
+					<source>El Universal</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2021-12-21">21 de diciembre de 2021</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.eluniversal.com.mx/estados/aprueban-el-matrimonio-igualitario-en-guanajuato">https://www.eluniversal.com.mx/estados/aprueban-el-matrimonio-igualitario-en-guanajuato</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Fix-Fierro, Hugo y Martínez Uriarte, Javier. <italic>Derechos humanos: cien años de evolución de los derechos en la Constitución mexicana</italic>. Ciudad de México: Fondo de Cultura Económica, 2018.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fix-Fierro</surname>
+							<given-names>Hugo</given-names>
+						</name>
+						<name>
+							<surname>Martínez Uriarte</surname>
+							<given-names>Javier</given-names>
+						</name>
+					</person-group>
+					<source>Derechos humanos: cien años de evolución de los derechos en la Constitución mexicana</source>
+					<publisher-loc>Ciudad de México</publisher-loc>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+					<year>2018</year>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Fix-Zamudio, Héctor yFix-Fierro, Hugo . <italic>Constitución Política de los Estados Unidos Mexicanos, comentada y concordada</italic>. <italic>17</italic>.<sup>a</sup>
+ <italic>ed.</italic> 
+ <italic>Tomo IV</italic>. Ciudad de México: Porrúa, 2018.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fix-Zamudio</surname>
+							<given-names>Héctor</given-names>
+						</name>
+						<name>
+							<surname>Fix-Fierro</surname>
+							<given-names>Hugo</given-names>
+						</name>
+					</person-group>
+					<source>Constitución Política de los Estados Unidos Mexicanos, comentada y concordada</source>
+					<edition>17</edition>
+					<issue-part>Tomo IV</issue-part>
+					<publisher-loc>Ciudad de México</publisher-loc>
+					<publisher-name>Porrúa</publisher-name>
+					<year>2018</year>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Gobernación. Secretaría de Gobernación. “Diario Oficial de la Federación”. Acceso el 6 de marzo de 2024.<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/index_113.php?year=2011&amp;month=06&amp;day=10#gsc.tab=0">https://www.dof.gob.mx/index_113.php?year=2011&amp;month=06&amp;day=10#gsc.tab=0</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Gobernación. Secretaría de Gobernación</collab>
+					</person-group>
+					<source>Diario Oficial de la Federación</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-03-06">6 de marzo de 2024</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/index_113.php?year=2011&amp;month=06&amp;day=10#gsc.tab=0">https://www.dof.gob.mx/index_113.php?year=2011&amp;month=06&amp;day=10#gsc.tab=0</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Gordillo Pérez, Luis I. &quot;¿Por qué surge el Estado? Una metodología holística para entender el origen, la función y los retos del poder público&quot;. <italic>Pensamiento. Revista de Investigación e Información Filosófica</italic> 72, n.<sup>o</sup> extra 272 (2016): 563-591. <ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/servlet/articulo?codigo=5809671">https://dialnet.unirioja.es/servlet/articulo?codigo=5809671</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gordillo Pérez</surname>
+							<given-names>Luis I</given-names>
+						</name>
+					</person-group>
+					<article-title>¿Por qué surge el Estado? Una metodología holística para entender el origen, la función y los retos del poder público</article-title>
+					<source>Pensamiento. Revista de Investigación e Información Filosófica</source>
+					<volume>72</volume>
+					<issue>extra 272</issue>
+					<year>2016</year>
+					<fpage>563</fpage>
+					<lpage>591</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/servlet/articulo?codigo=5809671">https://dialnet.unirioja.es/servlet/articulo?codigo=5809671</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Hernández, Carlos. <italic>Principios, ponderación y pretensión de corrección en el constitucionalismo discursivo de Robert Alexy</italic>. Bogotá: Universidad Libre, 2017.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hernández</surname>
+							<given-names>Carlos</given-names>
+						</name>
+					</person-group>
+					<source>Principios, ponderación y pretensión de corrección en el constitucionalismo discursivo de Robert Alexy</source>
+					<publisher-loc>Bogotá</publisher-loc>
+					<publisher-name>Universidad Libre</publisher-name>
+					<year>2017</year>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>México. <italic>Constitución Política de los Estados Unidos Mexicanos</italic>. Diario Oficial de la Federación.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<publisher-loc>México</publisher-loc>
+					<source>Constitución Política de los Estados Unidos Mexicanos</source>
+					<publisher-name>Diario Oficial de la Federación</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Ortega García, Ramón. “El enfoque restrictivo de los derechos humanos: comentarios a la contradicción de tesis 293/2011.” <italic>Cuestiones Constitucionales. Revista Mexicana de Derecho Constitucional</italic>, núm. 32 (2015): 91-102. <ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/scielo.php?pid=S1405-91932015000100009&amp;script=sci_arttext">https://www.scielo.org.mx/scielo.php?pid=S1405-91932015000100009&amp;script=sci_arttext</ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ortega García</surname>
+							<given-names>Ramón</given-names>
+						</name>
+					</person-group>
+					<article-title>El enfoque restrictivo de los derechos humanos: comentarios a la contradicción de tesis 293/2011</article-title>
+					<source>Cuestiones Constitucionales. Revista Mexicana de Derecho Constitucional</source>
+					<issue>32</issue>
+					<year>2015</year>
+					<fpage>91</fpage>
+					<lpage>102</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/scielo.php?pid=S1405-91932015000100009&amp;script=sci_arttext">https://www.scielo.org.mx/scielo.php?pid=S1405-91932015000100009&amp;script=sci_arttext</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Porrúa Pérez, Francisco. <italic>Teoría del Estado. Teoría política</italic>. Ciudad de México: Porrúa, 2005.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Porrúa Pérez</surname>
+							<given-names>Francisco</given-names>
+						</name>
+					</person-group>
+					<source>Teoría del Estado. Teoría política</source>
+					<publisher-loc>Ciudad de México</publisher-loc>
+					<publisher-name>Porrúa</publisher-name>
+					<year>2005</year>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Puppo, Alberto. &quot;De Kelsen a la contradicción de tesis 293/2011: los conflictos normativos entre jerarquías formales y decisionismo&quot;. <italic>Boletín Mexicano de Derecho Comparado</italic> 147, n.<sup>o</sup> 1 (2016): 173-213. <ext-link ext-link-type="uri" xlink:href="https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/10643">https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/10643</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Puppo</surname>
+							<given-names>Alberto</given-names>
+						</name>
+					</person-group>
+					<article-title>De Kelsen a la contradicción de tesis 293/2011: los conflictos normativos entre jerarquías formales y decisionismo</article-title>
+					<source>Boletín Mexicano de Derecho Comparado</source>
+					<volume>147</volume>
+					<issue>1</issue>
+					<year>2016</year>
+					<fpage>173</fpage>
+					<lpage>213</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/10643">https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/10643</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Semanario Judicial de la Federación y su Gaceta. <ext-link ext-link-type="uri" xlink:href="https://sjf.scjn.gob.mx/SJFHome/Index.html">https://sjf.scjn.gob.mx/SJFHome/Index.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<source>Semanario Judicial de la Federación</source>
+					<ext-link ext-link-type="uri" xlink:href="https://sjf.scjn.gob.mx/SJFHome/Index.html">https://sjf.scjn.gob.mx/SJFHome/Index.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Suprema Corte de Justicia de la Nación, Contradicción de Tesis 293/2011, Pleno, Min. Arturo Zaldívar Lelo de Larrea, sentencia de 3 de septiembre de 2013, México.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Suprema Corte de Justicia de la Nación, Contradicción de Tesis 293/2011, Pleno, Min. Arturo Zaldívar Lelo de Larrea, sentencia de 3 de septiembre de 2013</source>
+					<publisher-loc>México</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Suprema Corte de Justicia de la Nación. “El Control de Convencionalidad y la Jurisprudencia Interamericana”. Acceso el 23 de agosto de 2025. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/derechos-humanos/control-convencionalidad">https://www.scjn.gob.mx/derechos-humanos/control-convencionalidad</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Suprema Corte de Justicia de la Nación</collab>
+					</person-group>
+					<source>El Control de Convencionalidad y la Jurisprudencia Interamericana</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-08-23">23 de agosto de 2025</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/derechos-humanos/control-convencionalidad">https://www.scjn.gob.mx/derechos-humanos/control-convencionalidad</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Suprema Corte de Justicia de la Nación. “Fundamento del Matrimonio Igualitario y No Discriminación”. Acceso el 23 de agosto de 2025. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/derechos-humanos/matrimonio-igualitario">https://www.scjn.gob.mx/derechos-humanos/matrimonio-igualitario</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Suprema Corte de Justicia de la Nación</collab>
+					</person-group>
+					<source>Fundamento del Matrimonio Igualitario y No Discriminación</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-08-23">23 de agosto de 2025</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/derechos-humanos/matrimonio-igualitario">https://www.scjn.gob.mx/derechos-humanos/matrimonio-igualitario</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Suprema Corte de Justicia de la Nación. <italic>Historia del amparo en México</italic> (Ciudad de México: SCJN, 2000).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Suprema Corte de Justicia de la Nación</collab>
+					</person-group>
+					<source>Historia del amparo en México</source>
+					<publisher-loc>Ciudad de México</publisher-loc>
+					<publisher-name>SCJN</publisher-name>
+					<year>2000</year>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<ref-list>
+			<title>Documentos legales</title>
+			<ref id="B23">
+				<mixed-citation>Corte Interamericana de Derechos Humanos. 2022. Caso Tzompaxtle Tecpile y otros vs. México. Sentencia de 7 de noviembre de 2022. Serie C No. 470.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte Interamericana de Derechos Humanos</collab>
+					</person-group>
+					<year>2022</year>
+					<source>Caso Tzompaxtle Tecpile y otros vs. México. Sentencia de 7 de noviembre de 2022. Serie C No. 470</source>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Corte Interamericana de Derechos Humanos. Caso García Rodríguez y Reyes Alpízar vs. México. <ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/docs/casos/articulos/seriec_482_esp.pdf">https://www.corteidh.or.cr/docs/casos/articulos/seriec_482_esp.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte Interamericana de Derechos Humanos</collab>
+					</person-group>
+					<source>Caso García Rodríguez y Reyes Alpízar vs. México</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/docs/casos/articulos/seriec_482_esp.pdf">https://www.corteidh.or.cr/docs/casos/articulos/seriec_482_esp.pdf</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<ref-list>
+			<title>Legislación nacional</title>
+			<ref id="B25">
+				<mixed-citation>Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos</source>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Código Nacional de Procedimientos Penales.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Código Nacional de Procedimientos Penales</source>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Código Federal de Procedimientos Civiles.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Código Federal de Procedimientos Civiles</source>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Código Nacional de Procedimientos Civiles y Familiares.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Código Nacional de Procedimientos Civiles y Familiares</source>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Código Civil para el Estado de Guanajuato.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Código Civil para el Estado de Guanajuato</source>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<ref-list>
+			<title>Instrumentos internacionales</title>
+			<ref id="B30">
+				<mixed-citation>Convención Americana sobre Derechos Humanos.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Convención Americana sobre Derechos Humanos</source>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Convención de Viena sobre el Derecho de los Tratados.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Convención de Viena sobre el Derecho de los Tratados</source>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">México</xref>. Constitución Política de los Estados Unidos Mexicanos. (1917). Artículo reformado DOF 18-01-1934, 29-01-2016</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">México</xref>. Constitución Política de los Estados Unidos Mexicanos. (1917). Artículo reformado DOF 18-01-1934, 29-01-2016</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>“Decreto por el que se modifica la denominación del Capítulo 1 del Título Primero y reforma diversos artículos de la Constitución Política de los Estados Unidos Mexicanos”, Gobernación. Secretaría de Gobernación, acceso el 18 de enero de 2025, <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5194486&amp;fecha=10/06/2011">https://www.dof.gob.mx/nota_detalle.php?codigo=5194486&amp;fecha=10/06/2011</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>
+					<xref ref-type="bibr" rid="B9">Hugo Fix-Fierro y Javier Martínez Uriarte</xref>, <italic>Derechos humanos: cien años de evolución de los derechos en la Constitución mexicana</italic> (Ciudad de México: Fondo de Cultura Económica, 2018).</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Corte Interamericana de Derechos Humanos</xref>, <italic>ABC de la Corte Interamericana de Derechos Humanos: el qué, cómo, cuándo, dónde y porqué de la Corte Interamericana</italic> (San José: Corte IDH, 2018), 25.</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">Carlos Hernández</xref>, <italic>Principios, ponderación y pretensión de corrección en el constitucionalismo discursivo de Robert Alexy</italic> (Bogotá: Universidad Libre, 2017).</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>Ximena Medellín Urquiaga, <italic>Principio pro persona</italic> (México: Suprema Corte de Justicia de la Nación; Comisión de Derechos Humanos del Distrito Federal; Oficina en México del Alto Comisionado de las Naciones Unidas para los Derechos Humanos, 2013).</p>
+			</fn>
+			<fn fn-type="other" id="fn8">
+				<label>8</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">México</xref>. <italic>Constitución Política de los Estados Unidos Mexicanos</italic>. Promulgada el 5 de febrero de 1917. Publicada en el Diario Oficial de la Federación. (México).</p>
+			</fn>
+			<fn fn-type="other" id="fn9">
+				<label>9</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">México</xref>. <italic>Constitución Política de los Estados Unidos Mexicanos</italic>…</p>
+			</fn>
+			<fn fn-type="other" id="fn10">
+				<label>10</label>
+				<p><italic>Ibid</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn11">
+				<label>11</label>
+				<p><italic>Ibid</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn12">
+				<label>12</label>
+				<p><italic>Ibid</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn13">
+				<label>13</label>
+				<p><italic>Ibid</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn14">
+				<label>14</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">México</xref>. <italic>Constitución Política de los Estados Unidos Mexicanos</italic>…, artículo 110.</p>
+			</fn>
+			<fn fn-type="other" id="fn15">
+				<label>15</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">México</xref>. <italic>Constitución Política de los Estados Unidos Mexicanos</italic>…</p>
+			</fn>
+			<fn fn-type="other" id="fn16">
+				<label>16</label>
+				<p><italic>Ibid</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn17">
+				<label>17</label>
+				<p><italic>Ibid</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn18">
+				<label>18</label>
+				<p><italic>Código Federal de Procesamientos Civiles</italic>, artículos 580, 581, 582, 604 y 605, publicado en el <italic>Diario Oficial de la Federación</italic> el 24 de febrero de 1943. Última reforma publicada DOF 07-06-2021, H. Congreso de la Unión. (Última reforma publicada DOF 07-06-2023).</p>
+			</fn>
+			<fn fn-type="other" id="fn19">
+				<label>19</label>
+				<p>
+					<xref ref-type="bibr" rid="B28"><italic>Código Nacional de Procedimientos Civiles y Familiares</italic></xref><italic>,</italic> artículos 856, 857, 858, 881 y 882 del <italic>Diario Oficial de la Federación</italic> el 7 de junio de 2023. H. Congreso de la Unión. (Última reforma publicada DOF 07-06-2023).</p>
+			</fn>
+			<fn fn-type="other" id="fn20">
+				<label>20</label>
+				<p>“La Acción Colectiva”, Suprema Corte de Justicia de la Nación, acceso el 22 de agosto de 2025, <ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/derechos-humanos/accion-colectiva">https://www.scjn.gob.mx/derechos-humanos/accion-colectiva</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn21">
+				<label>21</label>
+				<p>“Diario Oficial de la Federación”, <xref ref-type="bibr" rid="B11">Gobernación. Secretaría de Gobernación</xref>, acceso el 6 de marzo de 2024, <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/index_113.php?year=2011&amp;month=06&amp;day=10#gsc.tab=0">https://www.dof.gob.mx/index_113.php?year=2011&amp;month=06&amp;day=10#gsc.tab=0</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn22">
+				<label>22</label>
+				<p>
+					<xref ref-type="bibr" rid="B19">Suprema Corte de Justicia de la Nación</xref>, Contradicción de Tesis 293/2011, Pleno, Min. Arturo Zaldívar Lelo de Larrea, sentencia de 3 de septiembre de 2013, México.</p>
+			</fn>
+			<fn fn-type="other" id="fn23">
+				<label>23</label>
+				<p>“El Control de Convencionalidad y la Jurisprudencia Interamericana”, <xref ref-type="bibr" rid="B20">Suprema Corte de Justicia de la Nación</xref>, acceso el 23 de agosto de 2025, <ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/derechos-humanos/control-convencionalidad">https://www.scjn.gob.mx/derechos-humanos/control-convencionalidad</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn24">
+				<label>24</label>
+				<p>
+					<xref ref-type="bibr" rid="B15">Ramón Ortega García</xref>, “El enfoque restrictivo de los derechos humanos: comentarios a la contradicción de tesis 293/2011”, <italic>Cuestiones Constitucionales. Revista Mexicana de Derecho Constitucional</italic>, núm. 32 (2015): 91-102, <ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/scielo.php?pid=S1405-91932015000100009&amp;script=sci_arttext">https://www.scielo.org.mx/scielo.php?pid=S1405-91932015000100009&amp;script=sci_arttext</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn25">
+				<label>25</label>
+				<p>
+					<xref ref-type="bibr" rid="B17">Alberto Puppo</xref>, &quot;De Kelsen a la contradicción de tesis 293/2011: los conflictos normativos entre jerarquías formales y decisionismo&quot;, <italic>Boletín Mexicano de Derecho Comparado</italic> 147, n.<sup>o</sup> 1 (2016) 173-213, <ext-link ext-link-type="uri" xlink:href="https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/10643">https://revistas.juridicas.unam.mx/index.php/derecho-comparado/article/view/10643</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn26">
+				<label>26</label>
+				<p>
+					<xref ref-type="bibr" rid="B8">El Universal</xref>, &quot;Aprueban el matrimonio igualitario en Guanajuato&quot;. <italic>El Universal</italic>, 21 de diciembre de 2021, acceso el 23 de enero de 2024, <ext-link ext-link-type="uri" xlink:href="https://www.eluniversal.com.mx/estados/aprueban-el-matrimonio-igualitario-en-guanajuato">https://www.eluniversal.com.mx/estados/aprueban-el-matrimonio-igualitario-en-guanajuato</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn27">
+				<label>27</label>
+				<p>Suprema Corte de Justicia de la Nación [SCJN]. 2012. Amparo en revisión 581/2012. Ministro ponente: Arturo Zaldívar Lelo de Larrea. Acuerdo del 5 de diciembre de 2012. <ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/derechos-humanos/sites/default/files/sentencias-emblematicas/sentencia/2022-02/AR%20581-2012.pdf">https://www.scjn.gob.mx/derechos-humanos/sites/default/files/sentencias-emblematicas/sentencia/2022-02/AR%20581-2012.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn28">
+				<label>28</label>
+				<p>Corte Interamericana de Derechos Humanos, “Cuadernillo de jurisprudencia de la Corte Interamericana de Derechos Humanos No. 19: Derechos de las personas LGTBI” (San José: Corte IDH, 2017). <ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/sitios/libros/todos/docs/cuadernillo19.pdf">https://www.corteidh.or.cr/sitios/libros/todos/docs/cuadernillo19.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn29">
+				<label>29</label>
+				<p>“Fundamento del matrimonio igualitario y no discriminación”, <xref ref-type="bibr" rid="B21">Suprema Corte de Justicia de la Nación</xref>, acceso el 23 de agosto de 2025, <ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/derechos-humanos/matrimonio-igualitario">https://www.scjn.gob.mx/derechos-humanos/matrimonio-igualitario</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn30">
+				<label>30</label>
+				<p>Véase la tesis 1ª/J.43/2015(10a.), publicada en la Gaceta del Semanario Judicial de la Federación. Libro 19, Noviembre de 2015, Tomo I, página 536, de rubro: MATRIMONIO. LA LEY DE CUALQUIER ENTIDAD FEDERATIVA QUE, POR UN LADO, CONSIDERE QUE LA FINALIDAD DE AQUÉL ES LA PROCREACIÓN Y/O QUE LO DEFINA COMO EL QUE SE CELEBRA ENTRE UN HOMBRE Y UNA MUJER, ES INCONSTITUCIONAL”.</p>
+			</fn>
+			<fn fn-type="other" id="fn31">
+				<label>31</label>
+				<p>“Caso García Rodríguez y Reyes Alpízar vs. México”, <xref ref-type="bibr" rid="B24">Corte Interamericana de Derechos Humanos</xref>, acceso el 18 de enero de 2024, <ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/docs/casos/articulos/seriec_482_esp.pdf">https://www.corteidh.or.cr/docs/casos/articulos/seriec_482_esp.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn32">
+				<label>32</label>
+				<p>
+					<xref ref-type="bibr" rid="B23">Corte Interamericana de Derechos Humanos</xref>. 2022. Caso Tzompaxtle Tecpile y otros vs. México. Sentencia de 7 de noviembre de 2022. Serie C No. 470.</p>
+			</fn>
+			<fn fn-type="other" id="fn33">
+				<label>33</label>
+				<p>Ejecutoria del Amparo en Revisión 630/2023 resuelto por la Primera Sala de la Suprema Corte de Justicia de la Nación. Ministro Ponente: Jorge Mario Pardo Rebolledo. Secretaria: Nínive Ileana Penagos Robles</p>
+			</fn>
+			<fn fn-type="other" id="fn34">
+				<label>34</label>
+				<p>Tesis X.P.J/1 P (11a.), publicada en la Gaceta del Semanario Judicial de la Federación. Libro 30, octubre de 2023, Tomo V, página 4694, de rubro: Prisión preventiva oficiosa. El artículo 167 del código nacional de procedimientos penales en la porción que la regula es inconvencional, de conformidad con la sentencia emitida por la <xref ref-type="bibr" rid="B24">Corte Interamericana de Derechos Humanos</xref> en el caso García Rodríguez y otro vs. México</p>
+			</fn>
+			<fn fn-type="other" id="fn35">
+				<label>35</label>
+				<p>
+					<xref ref-type="bibr" rid="B25">Ley de Amparo</xref>, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, artículos 192 y 193, publicada en el <italic>Diario Oficial de la Federación</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn36">
+				<label>36</label>
+				<p><italic>Tesis 2a./J. 38/2002</italic>, “Jurisprudencia sobre inconstitucionalidad de leyes. Las autoridades administrativas no están obligadas a aplicarla al cumplir con la garantía de fundar y motivar sus actos”, Semanario Judicial de la Federación y su Gaceta, 2002, 175.</p>
+			</fn>
+			<fn fn-type="other" id="fn37">
+				<label>37</label>
+				<p>Artículo 158 del <xref ref-type="bibr" rid="B26">Código Nacional de Procedimientos Penales</xref>. Nuevo Código publicado en el Diario Oficial de la Federación el 5 de marzo de 2014. Última reforma publicada DOF 26-01-2024</p>
+			</fn>
+			<fn fn-type="other" id="fn38">
+				<label>38</label>
+				<p>&quot;1ª sesión ordinaria 2023 zonas noreste y noroeste, minuta de acuerdos&quot;, <xref ref-type="bibr" rid="B4">Conferencia Nacional de Procuración de Justicia</xref>, acceso el 24 de enero de 2024, <ext-link ext-link-type="uri" xlink:href="https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Zonas%20Noreste%20%20Noroeste/1%C2%AA%20Sesi%C3%B3n%20Ordinaria%202023%20de%20la%20Zonas%20NoresteNoroeste%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf">https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Zonas%20Noreste%20%20Noroeste/1%C2%AA%20Sesi%C3%B3n%20Ordinaria%202023%20de%20la%20Zonas%20NoresteNoroeste%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn39">
+				<label>39</label>
+				<p>&quot;XLIX Asamblea Plenaria de la Conferencia Nacional de Procuración de Justicia, minuta de acuerdos&quot;, <xref ref-type="bibr" rid="B4">Conferencia Nacional de Procuración de Justicia</xref>, acceso el 24 de enero de 2024, <ext-link ext-link-type="uri" xlink:href="https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Asambleas%20Plenarias/XLIX%20Asamblea%20Plenaria%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf">https://stastdgv2portfgr032.blob.core.windows.net/cnpj/Acuerdos/Asambleas%20Plenarias/XLIX%20Asamblea%20Plenaria%20de%20la%20Conferencia%20Nacional%20de%20Procuraci%C3%B3n%20de%20Justicia.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn40">
+				<label>40</label>
+				<p>Naciones Unidas, <xref ref-type="bibr" rid="B31"><italic>Convención de Viena sobre el Derecho de los Tratados</italic></xref>, Viena, 23 de mayo de 1969. <ext-link ext-link-type="uri" xlink:href="https://www.oas.org/36ag/espanol/doc_referencia/convencion_viena.pdf">https://www.oas.org/36ag/espanol/doc_referencia/convencion_viena.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn41">
+				<label>41</label>
+				<p>Esta aseveración corrobora el hecho de que se encuentren pendientes de resolver los expedientes varios 1/2023, 3/2023, el Amparo en Revisión 284/2022 y la acción de inconstitucionalidad 49/202. Todos ellos por parte de la Suprema Corte de Justicia de la Nación.</p>
+			</fn>
+			<fn fn-type="other" id="fn42">
+				<label>42</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">México</xref>. <italic>Constitución Política de los Estados Unidos Mexicanos</italic>…</p>
+			</fn>
+			<fn fn-type="other" id="fn43">
+				<label>43</label>
+				<p>Artículo 75 de la Ley General de Responsabilidades Administrativas. Nueva ley publicada en el Diario Oficial de la Federación el 18 de julio de 2016. Última reforma publicada en el Diario Oficial de la Federación 27-12-2022. Sentencia de la SCJN con declaratoria de invalidez del decreto de reforma Diario Oficial de la Federación 27-12-2022, publicada en el Diario Oficial de la Federación el 24 de noviembre de 2023.</p>
+			</fn>
+			<fn fn-type="other" id="fn44">
+				<label>44</label>
+				<p>José Ibarra Cárdenas, “La dimensión política de ‘El Derecho como argumentación’ de Manuel Atienza’”, <italic>Doxa. Cuadernos de Filosofía del Derecho</italic>, 46, (2022): 6-8. <ext-link ext-link-type="uri" xlink:href="https://rua.ua.es/dspace/bitstream/10045/133367/1/Doxa_46_12.pdf">https://rua.ua.es/dspace/bitstream/10045/133367/1/Doxa_46_12.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn45">
+				<label>45</label>
+				<p>Jesús Jaime Garza Onofre, <italic>No estudies Derecho. Una revisión a la función social de los abogados</italic> (Ciudad de México: Taurus/Penguin Random House Grupo Editorial, 2022), 145-148.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

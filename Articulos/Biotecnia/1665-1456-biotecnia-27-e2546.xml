@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2546</article-id>
+			<article-id pub-id-type="other">00155</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Abono orgánico Bocashi: Aprovechamiento de los residuos orgánicos agroindustriales de la zona sur de Tamaulipas</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Bocashi organic fertilizer: Use of agroindustrial organic waste from the southern area of Tamaulipas</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0002-3762-9120</contrib-id>
+					<name>
+						<surname>Macias-Castillo</surname>
+						<given-names>Uriel Armando</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0007-7197-9008</contrib-id>
+					<name>
+						<surname>Pérez-Mosqueda</surname>
+						<given-names>Blanca Lourdes</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-3845-8474</contrib-id>
+					<name>
+						<surname>Espinoza-Ahumada</surname>
+						<given-names>César Alejandro</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-6438-6462</contrib-id>
+					<name>
+						<surname>Samaniego-Gamez</surname>
+						<given-names>Samuel Uriel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-7889-1884</contrib-id>
+					<name>
+						<surname>Castillo-Robles</surname>
+						<given-names>José Adalberto</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-4804-7874</contrib-id>
+					<name>
+						<surname>Guadarrama-Pérez</surname>
+						<given-names>Román</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="corresp" rid="c1"><sup>*</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">TecNM: Depto. De Innovación Agrícola Sustentable, Instituto Tecnológico Superior de El Mante, C.P. 89930, Quintero, Cd. Mante, Tamaulipas, México. uamacias@itsmante.edu.mx, caespinoza@itsmante.edu.mx</institution>
+				<institution content-type="normalized">Instituto Tecnológico Superior de Mante</institution>
+				<institution content-type="orgname">Instituto Tecnológico Superior de El Mante</institution>
+				<addr-line>
+					<postal-code>89930</postal-code>
+					<city>Cd. Mante</city>
+					<state>Tamaulipas</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>uamacias@itsmante.edu.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">TecNM: Depto. De Ingeniería Química, Instituto Tecnológico Superior de El Mante, C.P. 89930, Quintero, Cd. Mante, Tamaulipas, México. perez.mosqueda.20184@itsmante.edu.mx, rguadarrama@itsmante.edu.mx</institution>
+				<institution content-type="normalized">Instituto Tecnológico Superior de Mante</institution>
+				<institution content-type="orgname">Tecnológico Superior de El Mante</institution>
+				<addr-line>
+					<postal-code>89930</postal-code>
+					<city>Cd. Mante</city>
+					<state>Tamaulipas</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>perez.mosqueda.20184@itsmante.edu.mx</email>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">Instituto de Ciencias Agrícolas, Universidad Autónoma de Baja California, C.P. 21705, Ejido Nuevo León, Mexicali, Baja California, México. samaniegos@uabc.edu.mx</institution>
+				<institution content-type="normalized">Universidad Autónoma de Baja California</institution>
+				<institution content-type="orgdiv1">Instituto de Ciencias Agrícolas</institution>
+				<institution content-type="orgname">Universidad Autónoma de Baja California</institution>
+				<addr-line>
+					<postal-code>21705</postal-code>
+					<city>Mexicali</city>
+					<state>Baja California</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>samaniegos@uabc.edu.mx</email>
+			</aff>
+			<aff id="aff4">
+				<label>4</label>
+				<institution content-type="original">Universidad Politécnica de Victoria, C.P. 87138, Parque Científico y Tecnológico, Cd. Victoria, Tamaulipas, México. jcastillor@upv.edu.mx</institution>
+				<institution content-type="normalized">Universidad Politécnica de Victoria</institution>
+				<institution content-type="orgname">Universidad Politécnica de Victoria</institution>
+				<addr-line>
+					<postal-code>87138</postal-code>
+					<city>Cd. Victoria</city>
+					<state>Tamaulipas</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>jcastillor@upv.edu.mx</email>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Autor para correspondencia: Román Guadarrama-Pérez Correo-e: <email>rguadarrama@itsmante.edu.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>22</day>
+				<month>08</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2546</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>01</day>
+					<month>01</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>15</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>23</day>
+					<month>08</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El presente trabajo tuvo como objetivo el aprovechamiento de los residuos orgánicos agroindustriales (bagazo y cachaza) de la zona sur de Tamaulipas para la obtención de abono tipo Bocashi. El abono fue elaborado de manera tradicional (Control, T1) con la adición de diferentes concentraciones de bagazo y cachaza, es decir, 50 %, 75 % y 100 % de bagazo y 50 %, 75 % y 100 % de cachaza, cada una de estas composiciones fue nombrada como T2, T3, T4, T5, T6 y T7, respectivamente. Las variables utilizadas para evaluar la calidad del abono obtenido fueron pH, conductividad eléctrica (CE), materia orgánica (MO) y los macronutrimentos P, K, Ca y Mg. Los resultados obtenidos muestran que al adicionar bagazo se favorece la CE, MO y el contenido de P. Por otro lado, al agregar cachaza aumentó la composición de K, Ca y Mg. Por lo anterior, se determinó que la adición, de forma individual, tanto de bagazo como de cachaza mejoran la calidad del abono tipo Bocashi, sin embargo, resulta de interés, para un trabajo futuro, combinar estos dos residuos orgánicos y así obtener un fertilizante orgánico con los beneficios que ambos aportan.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract </title>
+				<p>The aim of this study was to evaluate the residues generated by the sugarcane industry, in Southeastern Tamaulipas, specifically bagasse and cachaza to produce Bocashi-type compost. The compost was prepared by using the traditional method (Control, T1) along with the addition of different concentrations of bagasse and cachaza, i.e., 50 %, 75 % and 100 % of bagasse, and 50 %, 75 % and 100 % of cachaza, these compositions were named as T2, T3, T4, T5, T6 and T7, respectively. pH, electrical conductivity (EC), organic matter (OM), and the macronutrients P, K, Ca, and Mg were used to evaluate the quality of the Bocashi. The results showed that the addition of bagasse improved EC, OM and P content. On the other hand, with the presence of cachaza increased levels of K, Ca and Mg. Therefore, it was determined that the individual addition of either bagasse or cachaza improves the quality of Bocashi-type compost. This means that further research is necessary to develop an organic fertilizer that combines both organic residues and harnesses the benefits they provide.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Agricultura</kwd>
+				<kwd>Bagazo</kwd>
+				<kwd>Cachaza</kwd>
+				<kwd>Macronutrimentos</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Agriculture</kwd>
+				<kwd>Bagasse</kwd>
+				<kwd>Cachaza</kwd>
+				<kwd>Macronutrients</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group award-type="contract">
+					<funding-source>Tecnológico Nacional México</funding-source>
+					<award-id>proyecto 20740</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<fig-count count="3"/>
+				<table-count count="6"/>
+				<equation-count count="0"/>
+				<ref-count count="33"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>En México se cultivan 865,310 ha de caña de azúcar por año con un rendimiento promedio de 72 ton·ha<sup>-1</sup> (<xref ref-type="bibr" rid="B27">SIAP, 2017</xref>). En este sentido, <xref ref-type="bibr" rid="B8">Cury et al. (2017)</xref> mencionan que la finalidad del cultivo de caña de azúcar es ser aprovechado para la producción de azúcar y algunos derivados. Sin embargo, durante el proceso de producción y aprovechamiento de la caña, se generan diversos residuos orgánicos, por ejemplo, bagazo, cachaza y vinaza, los cuales cuentan con bajo valor comercial, y representan un problema debido a los costos operativos de su manejo y traslado, además, al no ser procesados o dispuestos adecuadamente, contribuyen al problema de contaminación ambiental (<xref ref-type="bibr" rid="B29">Vargas y Pérez, 2018</xref>; <xref ref-type="bibr" rid="B10">Gálvez <italic>et al</italic>., 2019</xref>).</p>
+			<p>Debido a la urgente necesidad de reducir el impacto ambiental y social que pueden causar estos residuos, durante los últimos años, se han desarrollado investigaciones enfocadas en la generación de tecnologías que puedan aprovecharlos (<xref ref-type="bibr" rid="B5">Cabrera, 2016</xref>). Una de las estrategias desarrolladas para el aprovechamiento de residuos orgánicos, es su procesamiento para la reincorporación al sistema productivo agrícola en forma de fertilizante orgánico (<xref ref-type="bibr" rid="B24">Rosas <italic>et al</italic>., 2016</xref>; <xref ref-type="bibr" rid="B6">Castro <italic>et al</italic>., 2019</xref>). Por ejemplo, la producción de fertilizantes tipo Bocashi, a partir de residuos como bagazo y cachaza, puede constituir una alternativa viable para el manejo de los desechos agroindustriales, contribuyendo al reciclaje de subproductos y así, favorecer la sostenibilidad de los agroecosistemas (<xref ref-type="bibr" rid="B11">Gutiérrez et al., 2020</xref>).</p>
+			<p>El Bocashi tiene como objetivo estimular la nutrición de las plantas mediante la incorporación de nutrientes esenciales como: nitrógeno, fósforo, potasio, calcio, magnesio, hierro, manganeso, zinc, cobre y boro, al suelo (<xref ref-type="bibr" rid="B18">Orozco et al., 2015</xref>). El proceso de elaboración de Bocashi se basa en la descomposición aeróbica de materia orgánica, la cual es obtenida de subproductos vegetales, y se tienen identificadas diferentes fases en su producción, las cuales son: mesofílica, termofílica, de enfriamiento y de maduración, el desarrollo de cada una de estas etapas determina la calidad del fertilizante. La duración del proceso está relacionada con el origen de los residuos, el tipo de residuos, el tamaño de partícula, la aireación, la humedad y la población biológica activa (<xref ref-type="bibr" rid="B3">Azurduy et al., 2016</xref>).</p>
+			<p>La calidad de un abono orgánico se determina a partir de su contenido nutrimental y de su capacidad de proveer nutrimentos a un cultivo; este contenido está directamente relacionado con las concentraciones de estos nutrientes en los materiales utilizados para su elaboración (Associació Catalana d’Enginyeria Sense Fronteres, 2019; <xref ref-type="bibr" rid="B22">Rodas y Collantes, 2020</xref>). Por lo anterior, el objetivo de la presente investigación consistió en el aprovechamiento de los residuos orgánicos agroindustriales (bagazo y cachaza) de la zona sur de Tamaulipas para la obtención de abono tipo Bocashi.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Materiales y métodos</title>
+			<sec>
+				<title>Área de estudio</title>
+				<p>El estudio se realizó en el área experimental del Instituto Tecnológico Superior de El Mante, el cual se localiza en el municipio de El Mante, estado de Tamaulipas, México. El municipio se encuentra en la Llanura Costera del Golfo Norte y Sierra Madre Oriental. Las coordenadas de ubicación son: 22°44’38’’ latitud norte y 98°58’18’’ latitud oeste, con una altura sobre el nivel del mar de 55 m. El clima de la región se clasifica como cálido subhúmedo con lluvias en verano, de menor humedad. Con suelos dominantes de tipo vertisol (<xref ref-type="bibr" rid="B12">INEGI, 2020</xref>).</p>
+			</sec>
+			<sec>
+				<title>Diseño experimental</title>
+				<p>El estudio contó con un diseño de bloques completamente al azar con 7 tratamientos y 3 repeticiones. Los tratamientos evaluados fueron T1: Testigo (Bocashi), T2: Bocashi + Bagazo 50 % (B+BG50), T3: Bocashi + Bagazo 75 % (B+BG75), T4: Bocashi + Bagazo 100 % (B+BG100), T5: Bocashi + Cachaza 50 % (B+CZ50), T6: Bocashi + Cachaza 75 % (B+CZ75), T7: Bocashi + Cachaza 100 % (B+CZ100). </p>
+			</sec>
+			<sec>
+				<title>Elaboración de tratamientos</title>
+				<p>Para la fase de establecimiento se utilizó la metodología para elaboración de Bocashi descrita por <xref ref-type="bibr" rid="B21">Restrepo (2010)</xref>, la cual consistió en colocar sobre una superficie plana y protegida de sol y lluvia las siguientes cantidades de materiales por capas: 140 kg de cascarilla o rastrojo; 140 kg de tierra cernida; 140 kg de estiércol seco de ganado ovino; 60 kg de carbón quebrado o pulido de carbón; 25 kg de pulidura o salvado de arroz; 10 kg de cal agrícola; mezcla de 8 kg de melaza, 0.4 kg de levadura (<italic>Saccharomyces cerevisiae</italic>) en 20 L de agua potable, además, 300 L agua potable, una vez colocados los ingredientes se procedió a su homogeneización, posteriormente se agregó la mezcla líquida de melaza con levadura y agua, después se adicionaron gradualmente los 300 L de agua para alcanzar una humedad del 60 %. Una vez realizada la preparación, se adicionaron los materiales correspondientes a los tratamientos planteados en el diseño experimental. Fueron agregados, Bagazo (BG) y Cachaza (CZ) de caña en concentraciones de 50, 75 y 100 % respecto a los 140 kg de material seco (cascarilla o rastrojo). Una vez establecido, el estudio recibió el siguiente manejo: del día 1 al 3 se realizaron dos volteos del material, uno por la mañana y otro por las tardes, posteriormente del día 4 al 12 se realizó un volteo por las mañanas, esta fase tuvo una duración de 12 d.</p>
+			</sec>
+			<sec>
+				<title>Variables evaluadas</title>
+				<p>En este trabajo se tomaron en cuenta dos características del abono Bocashi: 1. La dinámica de su elaboración y 2. La calidad obtenida. La dinámica de elaboración da información sobre el proceso de obtención del abono. Por otro lado, la calidad brinda características nutrimentales del abono obtenido. En ambas características las variables medidas fueron: temperatura, pH y conductividad eléctrica. Adicionalmente, para evaluar la calidad de Bocashi, se determinó el contenido de materia orgánica. La obtención de estas variables se presenta a continuación.</p>
+				<p>Se utilizó la metodología descrita por <xref ref-type="bibr" rid="B30">Venegas et al. (2004)</xref> para la medición de la variable temperatura, la cual se tomó con un termómetro de acero inoxidable para compostaje marca TFA Dostmann modelo 19.2008, el dispositivo se colocó a una profundidad de 0.3 m en tres posiciones dentro del montículo; lado derecho, parte central y lado izquierdo durante un tiempo promedio de 3 minutos. Así mismo se realizó el monitoreo del pH. Este se determinó mediante un potenciómetro marca HANNA instrument modelo HI98107, para la medición de esta variable se tomaron tres muestras de 0.05 kg por montículo a una profundidad de 0.3 m, tomadas en tres posiciones, lado derecho, parte central y lado izquierdo. También se registró la conductividad eléctrica (CE). Para ello se utilizó un conductímetro marca MARZSEFLO modelo MA-088, ambas variables se midieron mediante extracto acuoso con las muestras de 50 g tomadas de cada montículo, estas mediciones se realizaron cada 24 h. Para determinar pH, CE, nitrógeno (%) y materia orgánica (M.O.) se utilizó el método descrito en la NMX-FF-109-SCFI-2008 (<xref ref-type="bibr" rid="B26">SE, 2008</xref>), para la variable Fosforo total se utilizó el método de Espectrometría UV-Visible y para determinación de las variables calcio y manganeso se usó el método de Espectrofotometría de absorción atómica, con ello se obtuvieron los valores de características finales de los abonos.</p>
+			</sec>
+			<sec>
+				<title>Análisis estadístico</title>
+				<p>Para el análisis de datos se utilizaron tablas dinámicas de Excel y el Software OriginPro®. Se utilizó un nivel de confiabilidad del 95 % para determinar diferencias significativas entre las variables evaluadas mediante un análisis de varianza (ANOVA). En caso de existir diferencias entre las variables, se procedió a realizar la prueba de Tukey (P ≤ 0.05).</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>Resultados y discusión</title>
+			<sec>
+				<title>Dinámica y generación de Bocashi</title>
+			</sec>
+			<sec>
+				<title>Temperatura</title>
+				<p>En la <xref ref-type="fig" rid="f1">Figura 1</xref>, se observan las temperaturas promedio diarias registradas durante las fases de fermentación aeróbica del abono Bocashi. Durante el día dos, la temperatura de T1 alcanzó los 69 °C, mientras que la temperatura más baja se registró en T6 y T7 con 52 °C, de acuerdo a <xref ref-type="bibr" rid="B21">Restrepo (2010)</xref> las temperaturas durante la fase mesofílica de un Bocashi no debe rebasar los 50 °C, aunque para <xref ref-type="bibr" rid="B20">Pérez (2010)</xref> el límite máximo de temperatura es de 60 °C, ya que temperaturas superiores pueden provocar sobrecalentamiento lo cual podría afectar el crecimiento de poblaciones de microorganismos termófilos y el proceso de mineralización de los sustratos orgánicos (<xref ref-type="bibr" rid="B10">Restrepo, 2010</xref>; <xref ref-type="bibr" rid="B9">Escudero y Arias, 2012</xref>). A partir del quinto día la mayor temperatura fue de 59 °C en T1 y de 45 °C en T3, estos resultados son similares a los reportados por <xref ref-type="bibr" rid="B15">Medina-Saavedra et al. (2016)</xref> donde mencionan que a partir del cuarto día existe un descenso de las temperaturas debido a la pérdida constante de humedad.</p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="es">
+						<label>Figura 1</label>
+						<caption>
+							<title>Temperatura promedio diaria para los diferentes tratamientos en la elaboración de Bocashi. T1: Testigo, T2: Bocashi + Bagazo 50 % (B+BG50), T3: Bocashi + Bagazo 75 % (B+BG75), T4: Bocashi + Bagazo 100 % (B+BG100), T5: Bocashi + Cachaza 50 % (B+CZ50), T6: Bocashi + Cachaza 75 % (B+CZ75), T7:Bocashi + Cachaza 100 % (B+CZ100).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 1:</label>
+	<caption>
+	<title>Average daily temperature for the different treatments in the production of Bocashi. T1: Control, T2: Bocashi + Bagasse 50 % (B+BG50), T3: Bocashi + Bagasse 75 % (B+BG75), T4: Bocashi + Bagasse 100 % (B+BG100), T5: Bocashi + Cachaza 50 % (B+CZ50), T6: Bocashi + Cachaza 75 % (B+CZ75), T7: Bocashi + Cachaza 100 % (B+CZ100).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2546-gf1.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+			</sec>
+			<sec>
+				<title>pH</title>
+				<p>La <xref ref-type="fig" rid="f2">Figura 2</xref> muestra la dinámica del pH en los tratamientos evaluados. En esta figura se puede observar que durante los tres primeros días del ensayo se alcanzaron valores de 9.2 en T6 y T7, mientras que para T1 se alcanzó un valor inicial de 8.7, al final del ensayo se reportaron los valores más altos en T1, T2, T3 y T4 con 8.7, 8.9, 8.7 y 8.9 respectivamente, mientras que los valores más bajos se obtuvieron en T5, T6 y T7 con 8.4, 8.6 y 8.5 respectivamente. Los resultados obtenidos muestran valores con pH alcalino, esto puede deberse a las características de los materiales utilizados para la elaboración de los diversos tratamientos, de acuerdo con <xref ref-type="bibr" rid="B21">Restrepo (2010)</xref> el pH óptimo para este tipo de abono debe oscilar entre 7.8-8.8. Para <xref ref-type="bibr" rid="B32">Zambrano et al. (2014)</xref>, los materiales orgánicos estables deben tener va-lores de pH en rangos de 7 y 8. Durante los primeros días del proceso de fermentación (Fase mesofílica), el pH se acidifica por la formación de ácidos orgánicos, mientras que en la fase termófila debido a la conversión del amonio en amoniaco el pH sube y se alcaliniza el medio, para finalmente estabilizarse en valores cercanos al neutro (<xref ref-type="bibr" rid="B23">Román et al., 2013</xref>).</p>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="es">
+						<label>Figura 2</label>
+						<caption>
+							<title>pH promedio diario para los diferentes tratamientos en la elaboración de Bocashi. T1: Testigo, T2: Bocashi + Bagazo 50 % (B+BG50), T3: Bocashi + Bagazo 75 % (B+BG75), T4: Bocashi + Bagazo 100 % (B+BG100), T5: Bocashi + Cachaza 50 % (B+CZ50), T6: Bocashi + Cachaza 75 % (B+CZ75), T7:Bocashi + Cachaza 100 % (B+CZ100).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 2:</label>
+	<caption>
+	<title>Average daily pH for the different treatments in the production of Bocashi. T1: Control, T2: Bocashi + Ba-gasse 50 % (B+BG50), T3: Bocashi + Bagasse 75 % (B+BG75), T4: Bocashi + Bagasse 100 % (B+BG100), T5: Bocashi + Cachaza 50 % (B+CZ50), T6: Bocashi + Cachaza 75 % (B+CZ75), T7: Bocashi + Cachaza 100 % (B+CZ100)</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2546-gf2.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Conductividad eléctrica</title>
+				<p>La <xref ref-type="fig" rid="f3">Figura 3</xref> muestra los valores de CE encontrados en los diversos tratamientos evaluados, en la fase inicial (mesofílica) se encontraron los valores más bajos en T1, T6, T3 y T5 con 135, 825, 990 y 1000 µS·cm<sup>-1</sup> respectivamente, mientras que los valores más altos se tienen en T2, T7 y T4 con 1100, 1125 y 1126 µS·cm<sup>-1</sup> respectivamente. Para la fase final del ensayo los valores más bajos se tienen en T4, T2, T1 y T3 con 625, 690, 760 y 880 µS·cm<sup>-1</sup>, respectivamente, por otro lado, T6, T7 y T5 presentaron valores de 1065, 1240 y 1625 µS·cm<sup>-1</sup>, respectivamente, siendo estos los valores más altos. La CE indica la capacidad de un material para conducir corriente eléctrica, a medidas que los valores aumentan se indica una mayor presencia de sales, de acuerdo con <xref ref-type="bibr" rid="B4">Barbaro et al. (2018)</xref> la CE ideal debe ser baja en cualquier sustrato no sobrepasando de 1000 µS·cm<sup>-1</sup>, ya que valores más altos pueden causar fitotoxicidad en plantas.</p>
+				<p>
+					<fig-group id="f3">
+	<fig xml:lang="es">
+						<label>Figura 3</label>
+						<caption>
+							<title>Conductividad eléctrica promedio diaria para los diferentes tratamientos en la elaboración de Bocashi. T1: Testigo, T2: Bocashi + Bagazo 50 % (B+BG50), T3: Bocashi + Bagazo 75 % (B+BG75), T4: Bocashi + Bagazo 100 % (B+BG100), T5: Bocashi + Cachaza 50 % (B+CZ50), T6: Bocashi + Cachaza 75 % (B+CZ75), T7:Bocashi + Cachaza 100 % (B+CZ100). </title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 3:</label>
+	<caption>
+	<title>Average daily electrical conductivity for the different treatments in the production of Bocashi. T1: Control, T2: Bocashi + Bagasse 50 % (B+BG50), T3: Bocashi + Bagasse 75 % (B+BG75), T4: Bocashi + Bagasse 100 % (B+BG100), T5: Bocashi + Cachaza 50 % (B+CZ50), T6: Bocashi + Cachaza 75 % (B+CZ75), T7: Bocashi + Cachaza 100 % (B+CZ100).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2546-gf3.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Comparación de parámetros de calidad</title>
+			</sec>
+			<sec>
+				<title>Temperatura</title>
+				<p>En la <xref ref-type="table" rid="t1">Tabla 1</xref> se muestran los resultados del análisis de varianza (ANOVA) para la temperatura. De acuerdo con estos resultados, existe diferencia significativa en la temperatura promedio de los tratamientos evaluados.</p>
+				<p>
+					<table-wrap-group id="t1">
+	<table-wrap xml:lang="es">
+						<label>Tabla 1</label>
+						<caption>
+							<title>Prueba de ANOVA para temperatura. </title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 1:</label>
+		<caption>
+			<title>ANOVA test for temperature.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Grados de libertad </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Suma de cuadrados </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Media cuadrada </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>F </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Valor-p </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Modelo</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">240.29</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">40.05</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.13</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.0012</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Error</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">78.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.62</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Total</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">318.95</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p>*Con un nivel de significancia de 0.05, existe diferencia entre las medias de los tratamientos.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>En la <xref ref-type="table" rid="t2">Tabla 2</xref> se presentan los resultados de la prueba de comparación de medias de Tukey (P ≤ 0.05). Con base en estos resultados, se determinó la existencia de diferencias significativas para el parámetro de temperatura entre T1 y todos los tratamientos restantes, es decir, T2, T3, T4, T5, T6 y T7, lo cual concuerda con lo reportado por <xref ref-type="bibr" rid="B16">Mendivil-Lugo et al. (2020)</xref> quienes evaluaron la elaboración de abono tipo Bocashi con mezcla de desechos de aserrín-mango-plátano y mango obteniendo temperaturas promedio que no superaron los 68 °C durante las fases de fermentación de los tratamientos evaluados. <xref ref-type="bibr" rid="B25">Ruíz-Figueroa (2009)</xref> reporta que para que se lleven de manera adecuada las fases de compostaje (Mesofílica, Termofílica, Enfriamiento y Maduración) las temperaturas óptimas deben rondar los 60-70 °C, mismos valores alcanzados en el presente trabajo.</p>
+				<p>
+					<table-wrap-group id="t2">
+	<table-wrap xml:lang="es">
+						<label>Tabla 2</label>
+						<caption>
+							<title>Prueba de Tukey para temperatura.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 2:</label>
+		<caption>
+			<title>Tukey test for temperature.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Relación entre tratamientos </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Diferencia de medias </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Valor-q </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Comparativo </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T2-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-9</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.58</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T3-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-8.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T4-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-8.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.09</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-8.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.09</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-10.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.55</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-11.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.04</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T3-T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.24</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T4-T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.49</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T4-T3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.24</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5-T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.49</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5-T3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.24</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5-T4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6-T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-1.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.97</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6-T3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-1.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.22</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6-T4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-2.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.46</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6-T5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-2.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.46</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7-T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-2.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.46</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7-T3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-2.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.70</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7-T4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-2.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.95</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7-T5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-2.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.95</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">T7-T6</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">-0.67</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.49</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN2">
+								<p>**Con un nivel de significancia de 0.05, comparativo igual a 1 indica que existe diferencia en las medias. ***Con un nivel de significancia de 0.05, comparativo igual a 0 indica que no existe diferencia en las medias.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title>pH</title>
+				<p>En la <xref ref-type="table" rid="t3">Tabla 3</xref> se muestra el ANOVA realizado para la variable pH. De acuerdo con este resultado, no existe diferencia significativa entre los valores de pH para los tratamientos evaluados. Esto puede deberse a las características de los materiales utilizados para la elaboración de los diferentes tratamientos, los valores reportados por <xref ref-type="bibr" rid="B13">Labarca-Arrieta et al. (2018)</xref> son similares a los encontrados en este estudio, cuyos valores no son mayores a 8.8, lo cual también demuestra que los resultados del presente trabajo están dentro de los parámetros de calidad del abono Bocashi de acuerdo a <xref ref-type="bibr" rid="B21">Restrepo (2010)</xref>, por su parte <xref ref-type="bibr" rid="B28">Silva et al. (2024)</xref> reportaron en su trabajo un pH mayor a 8, el cual no se encuentra dentro de los límites permisibles de la NMX-FF-109-SCFI-2008 (<xref ref-type="bibr" rid="B26">SE, 2018</xref>), el resultado final de la calidad de los abonos tipo Bocashi dependen directamente de los aportes de cada uno de los materiales utilizados para su elaboración.</p>
+				<p>
+					<table-wrap-group id="t3">
+	<table-wrap xml:lang="es">
+						<label>Tabla 3</label>
+						<caption>
+							<title>Prueba de ANOVA para pH.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 3:</label>
+		<caption>
+			<title>ANOVA test for pH.</title>
+		</caption>
+						    <table border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Grados de libertad </bold></td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Suma de cuadrados </bold></td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Media cuadrada </bold></td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>F </bold></td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Valor-p </bold></td>
+      </tr>
+      <tr>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;">Modelo</td>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;">6</td>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.034</td>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.84</td>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.0504</td>
+      </tr>
+      <tr>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;">Error</td>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;">14</td>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.17</td>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.012</td>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+        <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+      </tr>
+      <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Total</td>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20</td>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.37</td>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+      </tr>
+    </tbody>
+    </table>
+
+						<table-wrap-foot>
+							<fn id="TFN3">
+								<p>*Con un nivel de significancia de 0.05, no existe diferencia entre las medias de los tratamientos.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Conductividad eléctrica</title>
+				<p>En la <xref ref-type="table" rid="t4">Tabla 4</xref> se muestra el ANOVA realizado a la variable CE. Este análisis determinó que existe diferencia significativa entre los tratamientos evaluados en el presente trabajo.</p>
+				<p>
+					<table-wrap-group id="t4">
+	<table-wrap xml:lang="es">
+						<label>Tabla 4</label>
+						<caption>
+							<title>Prueba de ANOVA para conductividad eléctrica.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 4:</label>
+		<caption>
+			<title>ANOVA test for electrical conductivity.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Grados de libertad </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Suma de cuadrados </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Media cuadrada </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>F </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Valor-p </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Modelo</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.22×106</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">370553.97</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">28.49</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.47×10<sup>-6</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Error</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.82×105</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13005.71</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Total</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">2.41×106</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN4">
+								<p>*Con un nivel de significancia de 0.05, existe diferencia entre las medias de los tratamientos.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>En la <xref ref-type="table" rid="t5">Tabla 5</xref> se presentan los resultados de la prueba de comparación de medias de Tukey (P ≤ 0.05). Los mayores valores de conductividad eléctrica se presentaron en T5, esto puede deberse a las carac-terísticas fisicoquímicas de la cachaza. <xref ref-type="bibr" rid="B33">Zérega (1993)</xref> reporta que la cachaza es rica en N, P, K y Ca, por su parte <xref ref-type="bibr" rid="B14">López-Pérez et al. (2014)</xref> menciona que la adición de 9 meq L<sup>-1</sup> de Ca genera una tendencia de incremento de la CE hasta en 4000 µS·cm<sup>-1</sup>, mientras que <xref ref-type="bibr" rid="B19">Pérez-Méndez et al. (2011)</xref> encontraron que la composta de cachaza se caracterizó por presentar un mayor contenido de sales respecto al bagazo de caña, aunque la diferencia fue solamente de 500 µS·cm<sup>-1</sup>, estos resultados pueden ayudar a explicar los datos obtenidos en el presente estudio, donde T5: Bocashi + Cachaza 50 % presentó los valores más altos respecto a T1, T2, T3 y T4, los cuales no presentan adición de cachaza en su preparación.</p>
+				<p>
+					<table-wrap-group id="t5">
+	<table-wrap xml:lang="es">
+						<label>Tabla 5</label>
+						<caption>
+							<title>Prueba de Tukey para conductividad eléctrica.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 5:</label>
+		<caption>
+			<title>Tukey test for electrical conductivity.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Relación entre tratamientos </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Diferencia de 
+      medias </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Valor-q </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Comparativo </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">858.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13.04</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5-T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">938.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14.26</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5-T3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">735.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">11.168</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5-T4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1018.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">15.47</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5-T6</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-550.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.36</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5-T7</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-453.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.89</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6-T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">388.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.89</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6-T4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">468.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.108</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">405.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.16</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7-T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">485.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.37</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7-T4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">565.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.59</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T2-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-80.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.22</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T3-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">123.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.87</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T3-T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">203.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.09</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T4-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-160.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.43</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T4-T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-80.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.22</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T4-T3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-283.33</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.30</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6-T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">308.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.68</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6-T3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">184.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.80</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7-T3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">282.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.28</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">T7-T6</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">97.33</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1.49</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN5">
+								<p>**Con un nivel de significancia de 0.05, comparativo igual a 1 indica que existe diferencia en las medias. ***Con un nivel de significancia de 0.05, comparativo igual a 0 indica que no existe diferencia en las medias.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Características finales de los abonos orgánicos</title>
+				<p>Para evaluar las características finales de los diferentes tratamientos se realizó un ANOVA, derivado de este análisis se realizó la prueba de comparación múltiple de Tukey (P ≤ 0.05), los resultados se muestran en la <xref ref-type="table" rid="t6">Tabla 6</xref>. El pH de los tratamientos resultó alcalino, esto concuerda con lo reportado por <xref ref-type="bibr" rid="B13">Labarca-Arrieta et al. (2018)</xref> quienes reportaron en su caracterización de Bocashi un pH de 8.12, en otro estudio realizado por <xref ref-type="bibr" rid="B17">Montoya-Jasso et al. (2021)</xref> se encontraron valores de pH dentro de un rango ligeramente alcalino. Esta tendencia de alcalinidad en los tratamientos puede estar relacionada a las características de los materiales utilizados, como se puede observar los tratamientos con mayor alcalini-dad son aquellos que contenían cachaza, la cual por su mayor concentración de CaO<sub>3</sub> puede promover un incremento en la alcalinidad de los abonos.</p>
+				<p>
+					<table-wrap-group id="t6">
+	<table-wrap xml:lang="es">
+						<label>Tabla 6</label>
+						<caption>
+							<title>Propiedades fisicoquímicas de Bocashi para los diferentes tratamientos evaluados.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 6:</label>
+		<caption>
+			<title>Physicochemical properties of Bocashi for the different treatments evaluated.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;" rowspan="2"><bold>Variable </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 700px; background-color: #e6e7e8;" colspan="7"><bold>Tratamiento (µ ± D.E.) </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>T1 </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>T2 </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>T3 </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>T4 </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>T5 </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>T6 </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>T7 </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">pH</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.3<sup>a</sup> ± 0.013</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.1<sup>b</sup> ± 0.017</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.2<sup>c</sup> ± 0.012</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.1<sup>b</sup> ± 0.013</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.5<sup>d</sup> ± 0.012</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.7<sup>e</sup> ± 0.015</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.6<sup>f</sup> ± 0.014</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Conductividad    eléctrica (mS/cm)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">374300<sup>a</sup> ± 3000</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">378600<sup>a</sup> ± 2800</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">362300<sup>b</sup> ± 3100</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">360300<sup>b</sup> ± 2900</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">304000<sup>c</sup> ± 3000</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">249600<sup>d</sup> ± 3150</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">260900<sup>e</sup> ± 2900</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Nitrógeno    (%)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.61<sup>a</sup> ± 0.012 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.64<sup>a</sup> ± 0.013</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.21<sup>b</sup> ± 0.010</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.91<sup>c</sup> ± 0.014</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.62<sup>d</sup> ± 0.011</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.12<sup>e</sup> ± 0.011</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.44<sup>f</sup> ± 0.014</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Materia    orgánica (%)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">52.1<sup>a</sup> ± 0.51</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">52.8<sup>a</sup> ± 0.50</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">64.1<sup>b</sup> ± 0.47</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">58.2<sup>c</sup> ± 0.49</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.3<sup>d</sup> ± 0.51</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">22.3<sup>e</sup> ± 0.48</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">28.7<sup>f</sup> ± 0.52</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Fosforo    total (P<sub>2</sub>O<sub>5</sub>,    mg/kg)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">945.1<sup>a</sup> ± 1.5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">896.3<sup>b</sup> ± 1.9</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1214.4<sup>c</sup> ± 2.3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">795.8<sup>d</sup> ± 1.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1022.3<sup>e</sup> ± 2.5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1130.6<sup>f</sup> ± 2.1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">782.3<sup>g</sup> ± 2.9</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Potasio    (mg/kg) </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7228.7<sup>a</sup> ± 31</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8434.8<sup>b</sup> ± 35</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7035.3<sup>c</sup> ± 42</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7605.1<sup>d</sup> ± 30</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8946.6<sup>e</sup> ± 38</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8418.0<sup>b</sup> ± 45</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8967.5<sup>e</sup> ± 40</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Calcio    (mg/kg)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">19500.1<sup>a</sup> ± 15</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">28135.6<sup>b</sup> ± 18</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">20337.9<sup>c</sup> ± 23</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">19862.6<sup>d</sup> ± 16</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">20716.33<sup>e</sup> ± 20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">54251.94<sup>f</sup> ± 13</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">47098.16<sup>g</sup> ± 21</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Magnesio    (mg/kg)</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">2498.3<sup>a</sup> ± 50</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3140.3<sup>b</sup> ± 28</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">2428.6<sup>a</sup> ± 46</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">2726.1<sup>c</sup> ± 25</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">6198.1<sup>d</sup> ± 51</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">5746.3<sup>e</sup> ± 34</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">6192.2<sup>d</sup> ± 30</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN6">
+								<p>****De acuerdo con la prueba de comparación múltiple de Tukey (p &lt; 0.05), para cada variable, un superíndice con letra diferente indica diferencia significativa. µ: media, D.E.: Desviación estándar.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>Para los valores de conductividad eléctrica (CE) se encontraron diferencias significativas entre los tratamientos evaluados, siendo el valor más alto el reportado en T2, esto se puede explicar debido a los aportes de Ca que puede contener el forraje y bagazo utilizados, autores como <xref ref-type="bibr" rid="B31">Vivas-May et al. (2011)</xref> mencionan que los forrajes de agostadero contienen abundante concentración de Ca, Cu y Zn. Para la variable nitrógeno se encontraron diferencias significativas entre los diversos tratamientos encontrándose el valor más alto en T3 que contenía 75 % de bagazo, esto concuerda con lo reportado por <xref ref-type="bibr" rid="B19">Pérez-Méndez et al. (2011)</xref>, ellos encontraron que los tratamientos con concentraciones de 75 % -25 % y 50 % -50 % de cachaza y bagazo presentaban mayor concentración de nitrógeno total, esto corrobora los resultados obtenidos en el presente trabajo.</p>
+				<p>Los tratamientos que incluyeron bagazo se vieron favorecidos con el incremento de materia orgánica (MO), esto concuerda con lo reportado por <xref ref-type="bibr" rid="B19">Pérez-Méndez et al. (2011)</xref> quienes reportan que los tratamientos que incluyen alguna proporción de bagazo de caña presentan un mayor porcentaje de MO, lo cual concuerda con los resultados obtenidos en el presente trabajo. En cuanto a la variable fósforo total el tratamiento con mayor concentración fue T3 el cual contenía un 75 % de bagazo. De acuerdo con <xref ref-type="bibr" rid="B1">Alexander (1980)</xref>, los tejidos vegetales pueden contener entre un 0.05-0.50 % de fósforo, lo cual puede ayudar a explicar el resultado obtenido en este trabajo. Por otro lado, los resultados muestran que T6 y T7 presentan una mayor concentración de Ca, K y Mg, lo cual concuerda con lo reportado por <xref ref-type="bibr" rid="B7">CONADESUCA (2015)</xref>, ellos analizaron los contenidos nutrimentales de diferentes abonos a base de cachaza obteniendo las mayores concentraciones de Ca, K y Mg en el abono tipo Bocashi.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>La adición de bagazo y cachaza en diferentes concentraciones promueve un incremento favorable en las características fisicoquímicas y nutrimentales del abono tipo Bocashi elaborado de manera tradicional, los resultados finales nos ayudan a demostrar la factibilidad técnica del uso de los residuos orgánicos agroindustriales (bagazo y cachaza) de la zona sur de Tamaulipas, lo cual puede ayudar en la obtención de abonos de buena calidad, ninguno de los parámetros de calidad (temperatura, pH, CE) se vieron afectados de manera negativa con la adición de los residuos orgánicos agroindustriales. Los valores más altos de pH se obtuvieron en los tratamientos con adición de cachaza, mientras que la mayor CE y MO se presentó en los tratamientos con adición de bagazo, por su parte la mayor concentración de P se encontró en el tratamiento con 50 % bagazo, mientras que para K, Ca y Mg los valores más altos se obtuvieron en los tratamientos con adición de cachaza.</p>
+		</sec>
+		<sec>
+			<title>Conflictos de interés</title>
+			<p>Los autores declaran no tener conflicto de intereses.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>Los autores de este trabajo, agradecemos al Tecnológico Nacional México por el valioso apoyo financiero para la realización de este trabajo de investigación (proyecto 20740), así como al Instituto Tecnológico Superior de El Mante por las facilidades prestadas para el uso de las instalaciones. Un agradecimiento particular al Ingenio El Mante perteneciente a grupo Pantaleón por la donación de bagazo y cachaza indispensables para el desarrollo de la investigación.</p>
+		</ack>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Alexander, M. 1980. Introducción a la microbiología del Suelo. AGT, México. 491 pp.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alexander</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>1980</year>
+					<source>Introducción a la microbiología del Suelo</source>
+					<publisher-name>AGT</publisher-name>
+					<publisher-loc>México</publisher-loc>
+					<size units="pages">491 pp</size>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Associació Catalana d’enginyeria Sense Fronteres. 2018. Manual producción de compost. Universidad Estatal Amazónica. p.7. Disponible en: <ext-link ext-link-type="uri" xlink:href="https://esf-cat.org/wp-content/uploads/2018/12/Manual-produccion-de-compostESF.pdf">https://esf-cat.org/wp-content/uploads/2018/12/Manual-produccion-de-compostESF.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Associació Catalana d’enginyeria Sense Fronteres</collab>
+					</person-group>
+					<year>2018</year>
+					<source>Manual producción de compost</source>
+					<publisher-name>Universidad Estatal Amazónica</publisher-name>
+					<fpage>p.7</fpage>
+					<lpage>p.7</lpage>
+					<comment>Disponible en</comment>
+					<ext-link ext-link-type="uri" xlink:href="https://esf-cat.org/wp-content/uploads/2018/12/Manual-produccion-de-compostESF.pdf">https://esf-cat.org/wp-content/uploads/2018/12/Manual-produccion-de-compostESF.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Azurduy, S., Azero, M., Ortuño, N., Bolivia, C., PROINPA Centro El Paso, F., Meneces, A. y El Paso, Z . 2016. Evaluación de activadores naturales para acelerar el proceso de compostaje de residuos orgánicos en el Municipio de Quillacollo. Acta Nova. 7, 1683-0768.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Azurduy</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Azero</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ortuño</surname>
+							<given-names>N.</given-names>
+						</name>Bolivia, C.<collab>PROINPA Centro El Paso, F., Meneces, A. y El Paso, Z</collab>
+					</person-group>
+					<year>2016</year>
+					<article-title>Evaluación de activadores naturales para acelerar el proceso de compostaje de residuos orgánicos en el Municipio de Quillacollo</article-title>
+					<source>Acta Nova</source>
+					<volume>7</volume>
+					<fpage>1683</fpage>
+					<lpage>0768</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Barbaro, L., Karlanian, M. y Mata, D. 2018. Importancia del pH y la conductividad eléctrica (CE) en los sustratos para plantas. 1a Edición. Ediciones INTA. Buenos Aires. Disponible en <ext-link ext-link-type="uri" xlink:href="https://repositorio.inta.gob.ar/xmlui/bitstream/handle/20.500.12123/16823/INTA_CIRN_InstitutodeFloricultura_Karlanian_Importancia_del_ph_y_la_conductividad_electrica.pdf?squence=1&amp;isAllowed=y">https://repositorio.inta.gob.ar/xmlui/bitstream/handle/20.500.12123/16823/INTA_CIRN_InstitutodeFloricultura_Karlanian_Importancia_del_ph_y_la_conductividad_electrica.pdf?squence=1&amp;isAllowed=y</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barbaro</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Karlanian</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Mata</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Importancia del pH y la conductividad eléctrica (CE) en los sustratos para plantas</source>
+					<edition>1a Edición</edition>
+					<publisher-name>Ediciones INTA</publisher-name>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<comment>Disponible en</comment>
+					<ext-link ext-link-type="uri" xlink:href="https://repositorio.inta.gob.ar/xmlui/bitstream/handle/20.500.12123/16823/INTA_CIRN_InstitutodeFloricultura_Karlanian_Importancia_del_ph_y_la_conductividad_electrica.pdf?squence=1&amp;isAllowed=y">https://repositorio.inta.gob.ar/xmlui/bitstream/handle/20.500.12123/16823/INTA_CIRN_InstitutodeFloricultura_Karlanian_Importancia_del_ph_y_la_conductividad_electrica.pdf?squence=1&amp;isAllowed=y</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Cabrera, E., León, V., Montano, A. y Dopico, D. 2016. Caracterización de residuos agroindustriales con vistas a su aprovechamiento. Centro Azúcar 43, 27-35.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cabrera</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>León</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Montano</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Dopico</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Caracterización de residuos agroindustriales con vistas a su aprovechamiento</article-title>
+					<source>Centro Azúcar</source>
+					<volume>43</volume>
+					<fpage>27</fpage>
+					<lpage>35</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Castro-Rivera, R., Fernández-Luqueño., F., Luna-Suárez, S., Miranda-Arámbula, M., Bandala, E.R. y López-Valdez, F. 2019. Uso de Fertilizantes, Sustratos y Enmendadores para incrementar la productividad agrícola, parte 2. Frontera 3:18-21. Recuperado de: <ext-link ext-link-type="uri" xlink:href="https://www.revistafronterabiotecnologica.cibatlaxcala.ipn.mx/volumen/vol14/pdf/vol-14-4.pdf">https://www.revistafronterabiotecnologica.cibatlaxcala.ipn.mx/volumen/vol14/pdf/vol-14-4.pdf</ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castro-Rivera</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Fernández-Luqueño.</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Luna-Suárez</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Miranda-Arámbula</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Bandala</surname>
+							<given-names>E.R.</given-names>
+						</name>
+						<name>
+							<surname>López-Valdez</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Uso de Fertilizantes, Sustratos y Enmendadores para incrementar la productividad agrícola</article-title>
+					<comment>parte 2</comment>
+					<source>Frontera</source>
+					<volume>3</volume>
+					<fpage>18</fpage>
+					<lpage>21</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.revistafronterabiotecnologica.cibatlaxcala.ipn.mx/volumen/vol14/pdf/vol-14-4.pdf">https://www.revistafronterabiotecnologica.cibatlaxcala.ipn.mx/volumen/vol14/pdf/vol-14-4.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>CONADESUCA. 2015. Sistema de Información de la Investigación en la Agroindustria de la Caña de azúcar. [fecha de Consulta 30 de Junio de 2025]. Recuperado de: <comment> Recuperado de: <ext-link ext-link-type="uri" xlink:href="http://www.siiba.conadesuca.gob.mx/siiaca/">http://www.siiba.conadesuca.gob.mx/siiaca/</ext-link>
+					</comment>&gt;</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>CONADESUCA</collab>
+					</person-group>
+					<year>2015</year>
+					<source>Sistema de Información de la Investigación en la Agroindustria de la Caña de azúcar</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-06-30">30 de Junio de 2025</date-in-citation>
+					<comment> Recuperado de: <ext-link ext-link-type="uri" xlink:href="http://www.siiba.conadesuca.gob.mx/siiaca/">http://www.siiba.conadesuca.gob.mx/siiaca/</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Cury, K., Aguas, Y., Martínez, A., Olivero, R. y Chams, L. 2017. Residuos agroindustriales su impacto, manejo y aprovechamiento. Revista colombiana de ciencia animal 9, 122-132.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cury</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Aguas</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Martínez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Olivero</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Chams</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Residuos agroindustriales su impacto, manejo y aprovechamiento</article-title>
+					<source>Revista colombiana de ciencia animal</source>
+					<volume>9</volume>
+					<fpage>122</fpage>
+					<lpage>132</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Escudero, F.A. y Arias, V.C. 2012. Los microorganismos en los abonos orgánicos a partir de podas en la Universidad del Norte, Colombia. Rev. Int. Contam. Ambie. 28 Sup. (1) 67-75.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Escudero</surname>
+							<given-names>F.A.</given-names>
+						</name>
+						<name>
+							<surname>Arias</surname>
+							<given-names>V.C</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Los microorganismos en los abonos orgánicos a partir de podas en la Universidad del Norte, Colombia</article-title>
+					<source>Rev. Int. Contam. Ambie</source>
+					<issue>28</issue>
+					<supplement>Sup. (1)</supplement>
+					<fpage>67</fpage>
+					<lpage>75</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Gálvez Torres, E., Legua Cárdenas, J., Cruz Nieto, D., Caro Soto F. e Inga Sotelo, M. 2019. Evaluación de abono orgánico de vinaza y bagazo de la caña de azúcar para la producción ecológica de rabanito (<italic>Raphanus sativus</italic> L.). Aporte Santiaguino, 12(2), 236-249. Recuperado de: https://doi.org/10.32911/as.2019.v12.n2.645.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gálvez Torres</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Legua Cárdenas</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Cruz Nieto</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Caro Soto</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Inga Sotelo</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Evaluación de abono orgánico de vinaza y bagazo de la caña de azúcar para la producción ecológica de rabanito (Raphanus sativus L.)</article-title>
+					<source>Aporte Santiaguino</source>
+					<volume>12</volume>
+					<issue>2</issue>
+					<fpage>236</fpage>
+					<lpage>249</lpage>
+					<pub-id pub-id-type="doi">10.32911/as.2019.v12.n2.645</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Gutiérrez, A.C., De Lira, F.J.A., Quiroz, P.E. y Martínez, G.S.I. 2020. Conversión de residuos agroindustriales para la generación de biocombustibles, productos de valor agregado y bioenergía. Digital Ciencia@UAQRO, 13(1), 27-35. Recuperado de: <ext-link ext-link-type="uri" xlink:href="https://revistas.uaq.mx/index.php/ciencia/article/view/41">https://revistas.uaq.mx/index.php/ciencia/article/view/41</ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gutiérrez</surname>
+							<given-names>A.C.</given-names>
+						</name>
+						<name>
+							<surname>De Lira</surname>
+							<given-names>F.J.A.</given-names>
+						</name>
+						<name>
+							<surname>Quiroz</surname>
+							<given-names>P.E.</given-names>
+						</name>
+						<name>
+							<surname>Martínez</surname>
+							<given-names>G.S.I</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Conversión de residuos agroindustriales para la generación de biocombustibles, productos de valor agregado y bioenergía</article-title>
+					<source>Digital Ciencia@UAQRO</source>
+					<volume>13</volume>
+					<issue>1</issue>
+					<fpage>27</fpage>
+					<lpage>35</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://revistas.uaq.mx/index.php/ciencia/article/view/41">https://revistas.uaq.mx/index.php/ciencia/article/view/41</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>INEGI. 2020. Anuario estadístico y geográfico por entidad federativa 2020. Recuperado de: chro-me-extension://efaidnbmnnnibpcajpcglclefindmkaj/<ext-link ext-link-type="uri" xlink:href="https://sma.gob.mx/wp-content/uploads/2022/03/Anuario-2020.pdf">https://sma.gob.mx/wp-content/uploads/2022/03/Anuario-2020.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>INEGI</collab>
+					</person-group>
+					<year>2020</year>
+					<source>Anuario estadístico y geográfico por entidad federativa</source>
+					<ext-link ext-link-type="uri" xlink:href="https://sma.gob.mx/wp-content/uploads/2022/03/Anuario-2020.pdf">https://sma.gob.mx/wp-content/uploads/2022/03/Anuario-2020.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Labarca-Arrieta, R.A., González-Gómez, L.G., González-Paneque, O.S. y Jiménez-Arteaga, M.C. 2018. Caracterización del abono Bocashi y su aplicación en el cultivo del pimentón (<italic>Capsicum annum</italic>, L.), en el estado Falcón. Revista Arbitrada Interdisciplinaria Koinonía, 3(6),109-127. [fecha de Consulta 30 de Junio de 2025]. ISSN: Recuperado de: <comment> ISSN: Recuperado de: <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=576869148007">https://www.redalyc.org/articulo.oa?id=576869148007</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Labarca-Arrieta</surname>
+							<given-names>R.A.</given-names>
+						</name>
+						<name>
+							<surname>González-Gómez</surname>
+							<given-names>L.G.</given-names>
+						</name>
+						<name>
+							<surname>González-Paneque</surname>
+							<given-names>O.S.</given-names>
+						</name>
+						<name>
+							<surname>Jiménez-Arteaga</surname>
+							<given-names>M.C</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Caracterización del abono Bocashi y su aplicación en el cultivo del pimentón (Capsicum annum, L.), en el estado Falcón</article-title>
+					<source>Revista Arbitrada Interdisciplinaria Koinonía</source>
+					<volume>3</volume>
+					<issue>6</issue>
+					<fpage>109</fpage>
+					<lpage>127</lpage>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-06-30">30 de Junio de 2025</date-in-citation>
+					<comment> ISSN: Recuperado de: <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=576869148007">https://www.redalyc.org/articulo.oa?id=576869148007</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>López-Pérez, C.A., Valdez-Aguilar, L.A., Robledo-Torres, V., Mendoza-Villarreal, R. y Castillo-Gonzalez, A.M. 2014. El calcio imparte tolerancia a alta conductividad eléctrica en Lisianthus (<italic>Eustoma grandiflorum</italic> Raf. Shinn.). Revista mexicana de ciencias agrícolas, 5(7), 1193-1204. Recuperado de <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_ arttext&amp;pid=S2007-09342014000700005&amp;lng=es&amp;tlng=es">http://www.scielo.org.mx/scielo.php?script=sci_ arttext&amp;pid=S2007-09342014000700005&amp;lng=es&amp;tlng=es</ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>López-Pérez</surname>
+							<given-names>C.A.</given-names>
+						</name>
+						<name>
+							<surname>Valdez-Aguilar</surname>
+							<given-names>L.A.</given-names>
+						</name>
+						<name>
+							<surname>Robledo-Torres</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Mendoza-Villarreal</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Castillo-Gonzalez</surname>
+							<given-names>A.M</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>El calcio imparte tolerancia a alta conductividad eléctrica en Lisianthus (Eustoma grandiflorum Raf. Shinn.)</article-title>
+					<source>Revista mexicana de ciencias agrícolas</source>
+					<volume>5</volume>
+					<issue>7</issue>
+					<fpage>1193</fpage>
+					<lpage>1204</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_ arttext&amp;pid=S2007-09342014000700005&amp;lng=es&amp;tlng=es">http://www.scielo.org.mx/scielo.php?script=sci_ arttext&amp;pid=S2007-09342014000700005&amp;lng=es&amp;tlng=es</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Medina-Saavedra, T., Arroyo-Figueroa, G., Martínez-Pérez, I. y Vargas-Rodríguez, L. 2016. Fertilizante orgánico bocashi en germinación de semillas de mezquite (<italic>Prosopis glandulosa</italic>). Ciencia y Tecnol. Agrop. México, 4(2): 20-30. Recuperado de: chrome-<ext-link ext-link-type="uri" xlink:href="extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.somecta.org.mx/Revistas/2016-2/2016-2/CYTAM4-2-3-2016.pdf">extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.somecta.org.mx/Revistas/2016-2/2016-2/CYTAM4-2-3-2016.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Medina-Saavedra</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Arroyo-Figueroa</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Martínez-Pérez</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Vargas-Rodríguez</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Fertilizante orgánico bocashi en germinación de semillas de mezquite (Prosopis glandulosa). Ciencia y Tecnol</article-title>
+					<source>Agrop. México</source>
+					<volume>4</volume>
+					<issue>2</issue>
+					<fpage>20</fpage>
+					<lpage>30</lpage>
+					<ext-link ext-link-type="uri" xlink:href="extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.somecta.org.mx/Revistas/2016-2/2016-2/CYTAM4-2-3-2016.pdf">extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.somecta.org.mx/Revistas/2016-2/2016-2/CYTAM4-2-3-2016.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Mendivil-Lugo, C., Nava-Pérez, E., Armenta-Bojórquez, A.D., Ruelas-Ayala, R.D. y Félix-Herrán, J.A. 2020. Elaboración de un abono orgánico tipo bocashi y su evaluación en la germinación y crecimiento del rábano. Biotecnia, 22(1), 17-23. Disponible en: https://doi.org/10.18633/biotecnia.v22i1.1120.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mendivil-Lugo</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Nava-Pérez</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Armenta-Bojórquez</surname>
+							<given-names>A.D.</given-names>
+						</name>
+						<name>
+							<surname>Ruelas-Ayala</surname>
+							<given-names>R.D.</given-names>
+						</name>
+						<name>
+							<surname>Félix-Herrán</surname>
+							<given-names>J.A</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Elaboración de un abono orgánico tipo bocashi y su evaluación en la germinación y crecimiento del rábano</article-title>
+					<source>Biotecnia</source>
+					<volume>22</volume>
+					<issue>1</issue>
+					<fpage>17</fpage>
+					<lpage>23</lpage>
+					<pub-id pub-id-type="doi">10.18633/biotecnia.v22i1.1120</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Montoya-Jasso, V.M., Ordaz-Chaparro, V.M., Benedicto-Valdés, G.S., Ruiz-Bello, A. y Arreola-Tostado, J.M. 2021. Caracterización química y física de sustratos enriquecidos con minerales y composta. Terra Latinoamericana, <italic>39</italic>, e601. Recuperado de: https://doi.org/10.28940/terra.v39i0.601</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Montoya-Jasso</surname>
+							<given-names>V.M.</given-names>
+						</name>
+						<name>
+							<surname>Ordaz-Chaparro</surname>
+							<given-names>V.M.</given-names>
+						</name>
+						<name>
+							<surname>Benedicto-Valdés</surname>
+							<given-names>G.S.</given-names>
+						</name>
+						<name>
+							<surname>Ruiz-Bello</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Arreola-Tostado</surname>
+							<given-names>J.M</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Caracterización química y física de sustratos enriquecidos con minerales y composta</article-title>
+					<source>Terra Latinoamericana</source>
+					<volume>39</volume>
+					<elocation-id>e601</elocation-id>
+					<pub-id pub-id-type="doi">10.28940/terra.v39i0.601</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Orozco, M., Hernández, J. y Jiménez, A.E. 2015. Survival of pre-parasitic stages of gastrointestinal nematodes in Bocashi made from cattle manure. Agronomía Mesoamericana, 26(1), 165-169.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Orozco</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Hernández</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Jiménez</surname>
+							<given-names>A.E</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Survival of pre-parasitic stages of gastrointestinal nematodes in Bocashi made from cattle manure</article-title>
+					<source>Agronomía Mesoamericana</source>
+					<volume>26</volume>
+					<issue>1</issue>
+					<fpage>165</fpage>
+					<lpage>169</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Pérez Méndez, M.A., Sánchez Hernández, R., Palma-López, D.J. y Salgado García, S. 2011. Caracterización química del compostaje de residuos de caña de azúcar en el sureste de México. Interciencia, 36 (1),45-52.[fecha de Consulta 23 de diciembre de 2024]. ISSN: 0378-1844. Recuperado de: <comment> Recuperado de: <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=33917727007">https://www.redalyc.org/articulo.oa?id=33917727007</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez Méndez</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez Hernández</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Palma-López</surname>
+							<given-names>D.J.</given-names>
+						</name>
+						<name>
+							<surname>Salgado García</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Caracterización química del compostaje de residuos de caña de azúcar en el sureste de México</article-title>
+					<source>Interciencia</source>
+					<volume>36</volume>
+					<issue>1</issue>
+					<fpage>45</fpage>
+					<lpage>52</lpage>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-12-23">23 de diciembre de 2024</date-in-citation>
+					<issn>0378-1844</issn>
+					<comment> Recuperado de: <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=33917727007">https://www.redalyc.org/articulo.oa?id=33917727007</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Pérez, L.M. 2010. Producir abonos orgánicos (composta bocashi). Yahuelica, Jalisco: Brigada de Educación para el desarrollo rural No. 8 Secretaría de Educación Pública.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez</surname>
+							<given-names>L.M</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Producir abonos orgánicos (composta bocashi). Yahuelica, Jalisco:</article-title>
+					<source>Brigada de Educación para el desarrollo rural</source>
+					<issue>8</issue>
+					<publisher-name>Secretaría de Educación Pública</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Restrepo, J. 2010. A, B, C de la agricultura orgánica y panes de piedra: Abonos orgánicos fermentados. 1a Edición. Feriva S.A. Colombia. 86 pp.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Restrepo</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>A, B, C de la agricultura orgánica y panes de piedra: Abonos orgánicos fermentados</source>
+					<edition>1a Edición</edition>
+					<publisher-name>Feriva S.A</publisher-name>
+					<publisher-loc>Colombia</publisher-loc>
+					<size units="pages">86 pp</size>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Rodas-Castillo, D. y Collantes-Paz, M.R. 2020. Propuesta para la obtención de bocashi a partir de residuos sólidos orgánicos domiciliarios. Recuperado de: <ext-link ext-link-type="uri" xlink:href="chro-me-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://repositorio.upeu.edu.pe/server/api/core/bitstreams/7a68b2e6-fbe8-403e-8450-d966e53ffd46/content">chro-me-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://repositorio.upeu.edu.pe/server/api/core/bitstreams/7a68b2e6-fbe8-403e-8450-d966e53ffd46/content</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodas-Castillo</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Collantes-Paz</surname>
+							<given-names>M.R</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<source>Propuesta para la obtención de bocashi a partir de residuos sólidos orgánicos domiciliarios</source>
+					<ext-link ext-link-type="uri" xlink:href="chro-me-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://repositorio.upeu.edu.pe/server/api/core/bitstreams/7a68b2e6-fbe8-403e-8450-d966e53ffd46/content">chro-me-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://repositorio.upeu.edu.pe/server/api/core/bitstreams/7a68b2e6-fbe8-403e-8450-d966e53ffd46/content</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Román, P., Martínez, M.M. y Pantoja, A. 2013. Manual de compostaje del agricultor: Experiencias en América Latina. Organización de las Naciones Unidas para la Alimentación y la Agricultura Oficina Regional para América Latina y el Caribe. Santiago de Chile.112 pp.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Román</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Martínez</surname>
+							<given-names>M.M.</given-names>
+						</name>
+						<name>
+							<surname>Pantoja</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>Manual de compostaje del agricultor: Experiencias en América Latina</source>
+					<publisher-name>Organización de las Naciones Unidas para la Alimentación y la Agricultura Oficina Regional para América Latina y el Caribe</publisher-name>
+					<publisher-loc>Santiago de Chile</publisher-loc>
+					<fpage>112 pp</fpage>
+					<lpage>112 pp</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Rosas-Calleja, D., Ortiz-Laurel, H., Herrera-Corredor, J.A. y Leyva-Ovalle, R. 2016. Revalorización de algunos residuos agroindustriales y su potencial de aplicación a suelos agrícolas. Agroproductividad, 9(8): 18-23.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rosas-Calleja</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Ortiz-Laurel</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Herrera-Corredor</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Leyva-Ovalle</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Revalorización de algunos residuos agroindustriales y su potencial de aplicación a suelos agrícolas</article-title>
+					<source>Agroproductividad</source>
+					<volume>9</volume>
+					<issue>8</issue>
+					<fpage>18</fpage>
+					<lpage>23</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Ruíz-Figueroa, J.F. 2009. Ingeniería del compostaje. 1 ra. edición, Dirección General de Difusión Cultura y Servicio, Universidad Autonóma Chapingo. Estado de México. 237 pp.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ruíz-Figueroa</surname>
+							<given-names>J.F</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<source>Ingeniería del compostaje</source>
+					<edition>1 ra. edición</edition>
+					<publisher-name>Dirección General de Difusión Cultura y Servicio</publisher-name>
+					<publisher-name>Universidad Autonóma Chapingo</publisher-name>
+					<publisher-loc>Estado de México</publisher-loc>
+					<size units="pages">237 pp</size>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Secretaría de Economía (SE). 2008. NMX-FF-109-SCFI-2008: Humus de lombriz (lombricomposta)-especificaciones y métodos de prueba. Ciudad de México: SE.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Secretaría de Economía (SE)</collab>
+					</person-group>
+					<year>2008</year>
+					<source>NMX-FF-109-SCFI-2008: Humus de lombriz (lombricomposta)-especificaciones y métodos de prueba</source>
+					<publisher-loc>Ciudad de México</publisher-loc>
+					<publisher-name>SE</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Servicio de Información Agroalimentaria y Pesquera (SIAP). 2017. Recuperado de: <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/siap/articulos/ cana-de-azucar-cierra-la-cosecha-2017-con-56-millonesde- toneladas?idiom=es">https://www.gob.mx/siap/articulos/ cana-de-azucar-cierra-la-cosecha-2017-con-56-millonesde- toneladas?idiom=es</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<source>Servicio de Información Agroalimentaria y Pesquera (SIAP)</source>
+					<year>2017</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/siap/articulos/ cana-de-azucar-cierra-la-cosecha-2017-con-56-millonesde- toneladas?idiom=es">https://www.gob.mx/siap/articulos/ cana-de-azucar-cierra-la-cosecha-2017-con-56-millonesde- toneladas?idiom=es</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Silva, E.D., Gómez, T.L. y Corlay, L.C. 2024. Microorganismos de Montaña en la producción de Bocashi y su efecto en el desarrollo de lechuga (<italic>Lactuca sativa</italic> L.). LUMEN ET VIRTUS, 15(39): 3673-3683.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Silva</surname>
+							<given-names>E.D.</given-names>
+						</name>
+						<name>
+							<surname>Gómez</surname>
+							<given-names>T.L.</given-names>
+						</name>
+						<name>
+							<surname>Corlay</surname>
+							<given-names>L.C</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Microorganismos de Montaña en la producción de Bocashi y su efecto en el desarrollo de lechuga (Lactuca sativa L.)</article-title>
+					<source>LUMEN ET VIRTUS</source>
+					<volume>15</volume>
+					<issue>39</issue>
+					<fpage>3673</fpage>
+					<lpage>3683</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Vargas Corredor, Y.A. y Pérez Pérez, L. I. 2018. Aprovechamiento de residuos agroindustriales en el mejoramiento de la calidad del ambiente. Revista Facultad De Ciencias Básicas, 1(1), 59-72. Doi: https://doi.org/10.18359/rfcb.3108</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vargas Corredor</surname>
+							<given-names>Y.A.</given-names>
+						</name>
+						<name>
+							<surname>Pérez Pérez</surname>
+							<given-names>L. I</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Aprovechamiento de residuos agroindustriales en el mejoramiento de la calidad del ambiente</article-title>
+					<source>Revista Facultad De Ciencias Básicas</source>
+					<volume>1</volume>
+					<issue>1</issue>
+					<fpage>59</fpage>
+					<lpage>72</lpage>
+					<pub-id pub-id-type="doi">10.18359/rfcb.3108</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Venegas, G.J., Cajuste, L.J., Trinidad, S.A., Gavi, R.F. y Sánchez, G. P. 2004. Behavior of the pH and cation exchange capacity in organic wastes with different humification rate. Proc. 1st Intl. Congr. Vermicompost and Organic Wastes. Guadalajara, México. pp. 97-99.</mixed-citation>
+				<element-citation publication-type="confproc">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Venegas</surname>
+							<given-names>G.J.</given-names>
+						</name>
+						<name>
+							<surname>Cajuste</surname>
+							<given-names>L.J.</given-names>
+						</name>
+						<name>
+							<surname>Trinidad</surname>
+							<given-names>S.A.</given-names>
+						</name>
+						<name>
+							<surname>Gavi</surname>
+							<given-names>R.F.</given-names>
+						</name>
+						<name>
+							<surname>Sánchez</surname>
+							<given-names>G. P</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<source>Behavior of the pH and cation exchange capacity in organic wastes with different humification rate</source>
+					<conf-name>1stIntl. Congr. Vermicompost and Organic Wastes</conf-name>
+					<conf-loc>Guadalajara, México</conf-loc>
+					<fpage>97</fpage>
+					<lpage>99</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Vivas-May, E.F., Rosado Rubio, J.G., Castellanos Ruelas, A.F., Heredia Aguilar, M. y Cabrera-Torres, E.J. 2011. Contenido mineral de forrajes en predios de ovinocultores del estado de Yucatán. <italic>Revista mexicana de ciencias pecuarias</italic>, 2(4), 465-475. Recuperado en 28 de diciembre de 2024, de <comment> Recuperado en 28 de diciembre de 2024, de <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S2007-11242011000400009&amp;lng=es&amp;tlng=es">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S2007-11242011000400009&amp;lng=es&amp;tlng=es</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vivas-May</surname>
+							<given-names>E.F.</given-names>
+						</name>
+						<name>
+							<surname>Rosado Rubio</surname>
+							<given-names>J.G.</given-names>
+						</name>
+						<name>
+							<surname>Castellanos Ruelas</surname>
+							<given-names>A.F.</given-names>
+						</name>
+						<name>
+							<surname>Heredia Aguilar</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Cabrera-Torres</surname>
+							<given-names>E.J</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Contenido mineral de forrajes en predios de ovinocultores del estado de Yucatán</article-title>
+					<source>Revista mexicana de ciencias pecuarias</source>
+					<volume>2</volume>
+					<issue>4</issue>
+					<fpage>465</fpage>
+					<lpage>475</lpage>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-12-28">28 de diciembre de 2024</date-in-citation>
+					<comment> Recuperado en 28 de diciembre de 2024, de <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S2007-11242011000400009&amp;lng=es&amp;tlng=es">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S2007-11242011000400009&amp;lng=es&amp;tlng=es</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Zambrano, A., Paolini, J., Contreras, F. y Rivero, C. 2014. Caracterización enzimática de enmiendas orgánicas. Venesuelos 21: 73-81.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zambrano</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Paolini</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Contreras</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Rivero</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Caracterización enzimática de enmiendas orgánicas</article-title>
+					<source>Venesuelos</source>
+					<volume>21</volume>
+					<fpage>73</fpage>
+					<lpage>81</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Zérega, M.L. 1993. Manejo y uso agronómico de la cachaza en suelos cañameleros. <italic>Caña de Azúcar</italic>. <italic>11</italic>: 1-13.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zérega</surname>
+							<given-names>M.L.</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<article-title>Manejo y uso agronómico de la cachaza en suelos cañameleros</article-title>
+					<source>Caña de Azúcar</source>
+					<volume>11</volume>
+					<fpage>1</fpage>
+					<lpage>13</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

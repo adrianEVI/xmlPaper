@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biolex</journal-id>
+			<journal-title-group>
+				<journal-title>Biolex</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-5634</issn>
+			<issn pub-type="epub">2007-5545</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36796/biolex.v17i28.427</article-id>
+			<article-id pub-id-type="other">00112</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Investigación académica y el procedimiento administrativo disciplinario</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Academic Research and the Disciplinary Administrative Procedure</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-3361-7923</contrib-id>
+					<name>
+						<surname>Canales-Murillo</surname>
+						<given-names>Ana Edith</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Doctora en Derecho</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-9385-742X</contrib-id>
+					<name>
+						<surname>Villarreal-Gómez</surname>
+						<given-names>Jesús Fernando</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<role>Doctor en Ciencias Jurídicas, Maestro en Impuestos, Maestro en Derecho Fiscal y Licenciado en Derecho</role>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Doctora en Derecho por la Universidad de Zaragoza y Licenciada en Derecho. Directora de la Facultad de Derecho Mexicali de la Universidad Autónoma de Baja California. Miembro de la Asociación Mexicana de Derecho Administrativo. acanales@uabc.edu.mx.</institution>
+				<institution content-type="normalized">Universidad de Zaragoza</institution>
+				<institution content-type="orgname">Universidad de Zaragoza</institution>
+				<country country="ES">Spain</country>
+				<email>acanales@uabc.edu.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Doctor en Ciencias Jurídicas, Maestro en Impuestos, Maestro en Derecho Fiscal y Licenciado en Derecho. Profesor Investigador de la Facultad de Derecho Mexicali de la Universidad Autónoma de Baja California, Perfil Deseable PRODEP y SNII Nivel Candidato. Miembro de las Asociaciones Mexicana e Internacional de Derecho Administrativo. fernando.villarreal@uabc.edu.mx.</institution>
+				<institution content-type="normalized">Universidad Autónoma de Baja California</institution>
+				<institution content-type="orgname">Universidad Autónoma de Baja California</institution>
+				<country country="MX">Mexico</country>
+				<email>fernando.villarreal@uabc.edu.mx</email>
+			</aff>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>29</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>17</volume>
+			<issue>28</issue>
+			<elocation-id>e427</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>18</day>
+					<month>08</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>12</day>
+					<month>12</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El presente trabajo tiene objetivo central de analizar el impacto que la investigación académica genera sobre la facultad sancionadora estatal, desarrollado con un enfoque cualitativo, mediante una investigación documental con alcance descriptivo y un método analítico-sintético. Se desarrolla un ejemplo de estudio de caso de las fuentes normativas del Estado de Baja California, pero también se analizan fuentes de la doctrina de diversos países de América Latina. Los resultados permiten concluir que la investigación científico-académica tiene un impacto fortalecedor sobre el procedimiento administrativo disciplinario del Estado.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The main objective of this paper is to analyze the impact of academic research on the state's sanctioning authority. It uses a qualitative approach, following a descriptive documentary research and an analytical-synthetic method. A case study of the normative sources of the State of Baja California is developed, and doctrinal sources from various Latin American countries are also analyzed. The results suggest that scientific-academic research has a strengthening impact on the state's administrative disciplinary procedure.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>facultad sancionadora</kwd>
+				<kwd>servicio público</kwd>
+				<kwd>autoridad investigadora</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>sanctioning power</kwd>
+				<kwd>public service</kwd>
+				<kwd>investigating authority</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="36"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>I. Introducción</title>
+			<sec>
+				<title>Planteamiento del problema</title>
+				<p>La administración pública se rige por varios principios de derecho como el principio de legalidad, en virtud del cual la emisión del acto administrativo debe apegarse al Estado de Derecho. Incluso desde una perspectiva democrática, la cultura de legalidad se vincula con los principios, reglas y procedimientos de acceso a la administración pública y la protección a los derechos humanos.<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> El ente público debe observar las disposiciones que regulan el procedimiento administrativo correspondiente. Uno de los principales tipos de estos es el procedimiento administrativo sancionador, en su modalidad disciplinaria contra algún servidor público. La observancia de estas disposiciones y principios por parte de la autoridad tiene especial relevancia en este tipo de procedimientos toda vez que conlleva la facultad sancionadora, es decir, el <italic>ius puniendi</italic> ejercido por el Estado.</p>
+				<p>Sin embargo, la actuación estatal comprende importantes desafíos, sobre todo con la evolución constante de la sociedad, las nuevas tecnologías y el desarrollo de nuevas actividades por los gobernados como por la administración pública intentando alcanzarlo. Aunque los servidores públicos encargados de la substanciación de los procedimientos administrativos disciplinarios usualmente gozan de experiencia y cierto grado de conocimiento técnico-jurídico, constantemente surgen nuevos factores que exigen la actualización permanente. Aunque la formación continua representa un pilar fundamental en la preparación, también lo es que esta puede resultar insuficiente para atender las exigencias de la función cotidiana ante la amplia diversidad de asuntos e infracciones con alta complejidad jurídica, social, económica, tecnológica o de otra índole. </p>
+				<p>La propia capacitación continua requiere de todo un esfuerzo previo para su elaboración, ya que implica reformas legales o modificación a otros ordenamientos jurídicos, la concentración sistemática de retroalimentación obtenida en la práctica diaria y la formulación consensuada de soluciones institucionales ante los nuevos retos. Es decir, entre el diseño e implementación de los programas institucionales de capacitación y la necesidad urgente de substanciar el procedimiento administrativo disciplinario existe un vacío de conocimiento que tarda en ser cabalmente cubierto. Ante este vacío, la investigación científico-académica aporta una alternativa idónea. Por tanto, vale la pena cuestionar: ¿Qué impacto genera la investigación científico-académica sobre la facultad sancionadora del Estado?</p>
+			</sec>
+			<sec>
+				<title>Metodología</title>
+				<p>El presente trabajo tiene un enfoque cualitativo, con un alcance descriptivo de un fenómeno jurídico que consiste en el impacto de la investigación científico-académica en el procedimiento administrativo disciplinario. Se emplea el método analítico-sintético en una investigación de tipo documental, cuya temporalidad se delimita a un estudio transeccional en el momento actual. Este trabajo se encuentra alineado a las metas del objetivo 16 ‘Paz, justicia e instituciones sólidas’ de los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030 de las Naciones Unidas (ONU), específicamente las metas 16.3 <italic>‘Promover el estado de derecho en los planos nacional e internacional y garantizar la igualdad de acceso a la justicia para todos’</italic> y 16.5 <italic>‘Reducir considerablemente la corrupción y el soborno en todas sus formas’</italic><xref ref-type="fn" rid="fn2"><sup>2</sup></xref>. El presente trabajo proporciona los resultados de la investigación documental sobre el impacto y utilidad de la investigación científico-académica: su metodología, las fuentes doctrinarias de derecho comparado y un ejemplo o supuesto de estudio de caso aplicable localmente en el Estado de Baja California.</p>
+			</sec>
+			<sec>
+				<title>Justificación</title>
+				<p>El procedimiento administrativo disciplinario resulta crucial para el control de la función pública, la ética pública y el combate a la corrupción. Estos procedimientos de investigación y sanción deben prever las garantías y formalidades correspondientes, que van desde la protección de las partes y terceros coadyuvantes y la reparación del daño, hasta los instrumentos y técnicas de investigación, entre otros aspectos.<xref ref-type="fn" rid="fn3"><sup>3</sup></xref> Esta investigación administrativa se fortalece con la investigación científico-académica. Ya sea una investigación científica desarrollada por los mismos servidores públicos con base en sus experiencias o la derivada de proyectos de investigación de las propias instituciones académicas, esta actividad representa una solución más puntual y a su vez integral. Como ya se advirtió, la actuación administrativa debe apegarse al principio de legalidad; pero incluso una cuestión tan obvia requiere el análisis de cada asunto desde diversos aspectos, como: la normatividad jurídica, la jerarquía normativa, la igualdad y la razonabilidad jurídicas<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>. El análisis de estos diversos aspectos por parte de las autoridades investigadora, substanciadora y resolutora se robustece con la investigación académica. En atención a lo planteado, la <italic>hipótesis principal</italic> se formula en el sentido siguiente: <italic>la investigación científico-académica genera un impacto fortalecedor sobre la facultad sancionadora del Estado</italic>. Para la determinación anterior, el <italic>objetivo central</italic> del presente trabajo consiste en <italic>analizar el impacto que la investigación académica genera sobre la facultad sancionadora estatal</italic>. Así, se identifica la forma en esta labor académica puede mejorar la calidad y eficacia de las propias investigaciones administrativas sancionadoras en el procedimiento administrativo disciplinario. Así, se justifica la importancia de la investigación rigurosa en la prevención y sanción de corrupción.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>II. Algunas precisiones del marco normativo de la facultad sancionadora</title>
+			<sec>
+				<title>Fundamentos constitucionales</title>
+				<p>El marco normativo de la facultad sancionadora del Estado es amplio. En México, diversos preceptos de nuestra <italic>Constitución Política de los Estados Unidos Mexicanos</italic> fundan esta potestad sancionadora. Desde numerales como el artículo 134 constitucional que fija los principios que rigen la administración de recursos públicos (eficiencia, eficacia, economía, transparencia y honradez), hasta otros numerales como el 79 y subsecuentes relativos a la Fiscalización Superior. Pero los principales fundamentos constitucionales se mandatan en el Título IV de la Carta Magna denominado ‘De las Responsabilidades de los Servidores Públicos, Particulares Vinculados con Faltas Administrativas Graves o Hechos de Corrupción, y Patrimonial del Estado’<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>. De aquí emana la ley general marco cuyo objeto consiste en distribuir competencias entre los órdenes de gobierno en la materia.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>
+				</p>
+				<p>En concordancia con lo anterior, el Título Octavo de la <italic>Constitución Política del Estado Libre y Soberano de Baja California</italic>, en su Capítulo Único ‘De las Responsabilidades Administrativas de los Servidores Públicos, Particulares y Patrimonial del Estado y del Sistema Estatal Anticorrupción’, sienta las bases constitucionales en Baja California. El artículo 92 de esta Constitución Local establece las bases para las sanciones por responsabilidades administrativas y, en particular su apartado B enuncia las instituciones en materia de responsabilidades, siendo: los órganos internos de control, el Tribunal Estatal de Justicia Administrativa, la Auditoría Superior del Estado y la Secretaría de la Honestidad y la Función Pública, así como la Fiscalía Especializada en Combate a la Corrupción.<xref ref-type="fn" rid="fn7"><sup>7</sup></xref>
+				</p>
+			</sec>
+			<sec>
+				<title>Fundamentos legales</title>
+				<p>Con base en lo previsto en los fundamentos constitucionales federales y locales, así como en la <italic>Ley General de Responsabilidades Administrativas</italic> -la cual consiste en una ley marco que distribuye competencias entre los diversos órdenes de gobierno<xref ref-type="fn" rid="fn8"><sup>8</sup></xref> -la legislatura local expidió la <italic>Ley de Responsabilidades Administrativas del Estado de Baja California</italic>. El marco normativo, desde luego, es perfectible. En lo concerniente a la Ley General, se han señalado algunas deficiencias como: la ausencia de disposición que obligue, desde el inicio de la investigación, a la autoridad a notificar al servidor público investigado; tampoco se facultó a la autoridad para decidir iniciar la investigación por prescripción de la sanción; la dificultad para hacer valer la responsabilidad resarcitoria por prescripción debido al proceso de fiscalización posterior; y aquellas faltas especiales no previstas en el catálogo de la Ley.<xref ref-type="fn" rid="fn9"><sup>9</sup></xref> Precisamente, en lo que corresponde a la omisión legislativa de facultar a la autoridad para decidir iniciar o no la investigación administrativa, la investigación científico-académica puede complementar esta crítica -planteada desde la doctrina- con la interpretación de los tribunales del Poder Judicial de la Federación. Ante la negativa de la autoridad administrativa de iniciar una investigación, los tribunales resolvieron que el denunciante de hechos posee interés jurídico para impugnar en amparo indirecto dicha negativa<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>. Como se puede apreciar, es recomendable que la investigación científico-académica sobre el procedimiento disciplinario combine el estudio de la doctrina y de la jurisprudencia.</p>
+				<p>Aunado a lo anterior, la actual Ley General ocasionó ciertas controversias en relación con su aplicación a procedimientos disciplinarios respecto de hechos cometidos previamente a su fecha de entrada en vigor. La otrora Segunda Sala de la Suprema Corte de Justicia de la Nación (SCJN) interpretó el artículo tercero transitorio, resolviendo que le resultaría aplicable la Ley General de Responsabilidades Administrativas a aquella infracción ocurrida antes del 19 de julio de 2017 sin que se hubiere iniciado el procedimiento de responsabilidad.<xref ref-type="fn" rid="fn11"><sup>11</sup></xref> Ante futuros dilemas como estos, es fundamental que las resoluciones de las autoridades administrativas se sustenten con una fundamentación y motivación que se puede reforzar con la investigación científico-académica de precedentes y doctrina.</p>
+				<p>Una de las precisiones en este marco normativo es el relativo a las diversas autoridades dentro del procedimiento. La Ley define a la autoridad investigadora, la autoridad substanciadora y la autoridad resolutora. La competencia, tanto de la autoridad investigadora como de la autoridad substanciadora, podrá recaer, según sea el caso, en las instancias siguientes: la Secretaría Anticorrupción y Buen Gobierno, los Órganos Internos de Control, la Auditoría Superior del Estado, las Sindicaturas Municipales, y las unidades de responsabilidades correspondientes. Sin embargo, se debe precisar que la “función de la autoridad substanciadora, en ningún caso podrá ser ejercida por una Autoridad investigadora”<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>.</p>
+				<p>Respecto de la autoridad resolutora, la competencia corresponderá a la unidad de responsabilidades administrativas o al servidor público asignado en los Órganos Internos de Control (OIC), tratándose de faltas no graves. Mientras que, para el caso de faltas graves o faltas cometidas por los particulares, la autoridad resolutora competente lo será la Sala Especializada en materia de Responsabilidades Administrativas y Combate a la Corrupción del Tribunal Estatal de Justicia Administrativa (TEJA-BC). Si bien es cierto que el <italic>ius puniendi</italic> en materia administrativa vela por el bien jurídico tutelado que fue transgredido por el infractor, también es cierto que con la imposición de sanciones se deben respetar los derechos humanos de dicho infractor. En el derecho administrativo disciplinario, la autoridad debe abstenerse de aplicar sanciones inusitadas, inconstitucionales e inconvencionales, al preverse en reglamentos o en las llamadas normas blandas<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>. </p>
+				<p>Además de la Ley de Responsabilidades Administrativas, otro de los ordenamientos relevantes en la materia es la <italic>Ley del Sistema Estatal Anticorrupción de Baja California</italic>, la cual establece las bases de coordinación entre los Poderes del Estado, municipios, órganos autónomos y entes públicos para que las autoridades prevengan, detecten y sancionen las faltas administrativas y los hechos de corrupción<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>. Desde luego, con base en lo expuesto anteriormente respecto de la Sala Especializada del TEJA-BC, la <italic>Ley del Tribunal Estatal de Justicia Administrativa del Estado de Baja California</italic> también forma parte del marco normativo en la materia, que en el párrafo tercero del artículo 1 establece la competencia de dicho Tribunal para conocer de las responsabilidades administrativas de los servidores públicos y particulares relacionadas con faltas graves<xref ref-type="fn" rid="fn15"><sup>15</sup></xref>. Pero existen otros cuerpos normativos que también resultan complementariamente aplicables como la <italic>Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California y sus Municipios</italic>, la <italic>Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California</italic>, la <italic>Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California</italic>, entre otros.</p>
+				<p>Cabe señalar que también forman parte del marco normativo los demás ordenamientos e instrumentos de derecho público como lo son los reglamentos, decretos, acuerdos, manuales y demás disposiciones de carácter general que regulan la facultad sancionadora del Estado. Es importante identificar estas precisiones del marco normativo la facultad sancionadora en materia administrativa porque permite reconocer la amplitud de asuntos que puede abarcar en la cotidianidad de la administración pública y del administrado.</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|methods">
+			<title>III. Resultados sobre aspectos metodológicos de la investigación científico-académica para el procedimiento administrativo disciplinario</title>
+			<p>La metodología se refiere a la manera en que se desarrolla la investigación científica. En palabras de Jorge Witker, la metodología: “Explica los diversos pasos que deben observarse en dicho proceso, y que conlleva al planteamiento de qué se conoce (es decir, el objeto que se estudia, ontología) y de cómo se conoce (epistemología)”<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>. Algunos aspectos de la metodología se exponen a continuación para efectos de alumbrar su aplicación en la función sancionadora administrativa.</p>
+			<sec>
+				<title>La elección del enfoque de la investigación</title>
+				<p>La investigación científico-académica presenta una serie de virtudes, particularmente en lo relativo a la metodología. Primeramente, se recomienda identificar el enfoque de la investigación. Para esto, el investigador puede elegir entre el enfoque cuantitativo, cualitativo y el mixto. Aunque tradicionalmente el enfoque cuantitativo y el cualitativo se han percibido como rivales, actualmente se consideran como distintas aproximaciones que se pueden complementar, como lo refiere Roberto Hernández Sampieri y sus coautores en su obra <italic>Metodología de la Investigación</italic>.<xref ref-type="fn" rid="fn17"><sup>17</sup></xref>. Como lo indican estos autores, la investigación cuantitativa permite “generalizar los resultados más ampliamente, otorga control sobre los fenómenos (...) brinda una gran posibilidad de repetición y se centra en puntos específicos de tales fenómenos, además de que facilita la comparación entre estudios similares.”<xref ref-type="fn" rid="fn18"><sup>18</sup></xref> Pero por su parte, la investigación cualitativa también ofrece sus propias virtudes: “proporciona profundidad a los datos, dispersión, riqueza interpretativa, contextualización del ambiente o entorno, detalles y experiencias únicas (...) un punto de vista ‘fresco, natural y holístico’ de los fenómenos, así como flexibilidad.”<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>
+				</p>
+				<p>Es común que en las investigaciones de las ciencias sociales (como la ciencia jurídica) se opte por el enfoque cualitativo. Sin embargo, una de las ventajas de la administración pública y la justicia administrativa precisamente es la gran cantidad de asuntos que se estudian cotidianamente. Esto facilita un enfoque cuantitativo en la investigación académica porque permite al investigador centrarse en puntos específicos del fenómeno socio-jurídico estudiado. Cada asunto ventilado ante las autoridades investigadoras, substanciadoras y resolutoras se suman a las cifras para la estadística de la investigación científico-académica, pudiendo detectar patrones de conducta y otros componentes relevantes para su estudio. Aunque un valioso aporte del jurista investigador consiste precisamente en esa riqueza interpretativa del enfoque cualitativo, donde las autoridades aplican principios, analizan tanto disposiciones como jurisprudencia y generan razonamientos para su actuación. En virtud de lo anterior, se entiende natural que el enfoque de la investigación académica relativa a la facultad sancionadora dentro del procedimiento disciplinario pueda inclinarse por una investigación cualitativa o incluso mixta (ambos enfoques, cuantitativo y cualitativo).</p>
+			</sec>
+			<sec>
+				<title>La definición del alcance de la investigación</title>
+				<p>Un componente relevante de la metodología consiste en la definición del alcance de la investigación. En la investigación científico-académica es indispensable que el investigador defina su alcance, pudiendo ser exploratorio, descriptivo, correlacional o explicativo. Según Hernández Sampieri y coautores, los estudios exploratorios se utilizan cuando el objetivo consiste en examinar un tema poco estudiado o novedoso; los descriptivos pretenden especificar propiedades y características importantes del fenómeno analizado, describiendo tendencias de algún grupo o población; el estudio correlacional realiza la asociación de variables a través de un patrón previsible para un grupo o población determinada; y el explicativo busca establecer las causas de los sucesos o fenómenos estudiados.<xref ref-type="fn" rid="fn20"><sup>20</sup></xref> Este último tipo de estudio explicativo también es conocido como estudio con alcance causal.</p>
+				<p>El alcance de la investigación dependerá de las necesidades o pretensiones del investigador. Por ejemplo, si la autoridad substanciadora tiene la intención de medir los tiempos promedio que tardan cada una de las fases del procedimiento administrativo sancionador para mejorar la duración promedio, probablemente elija un enfoque cuantitativo mixto con un alcance descriptivo. Si, por otra parte, la autoridad investigadora pretende determinar la relación existente entre variables independientes cotidianas de la dependencia o entidad paraestatal que afectan el incumplimiento de normas en la prestación de algún servicio público, es posible que el estudio se lleve a cabo con un alcance correlacional. Y si la autoridad resolutora busca, por ejemplo, conocer la fuente de un desvío de recursos públicos que de manera sistemática se ha venido perpetrando en algún ente público, probablemente el alcance más conveniente para el estudio deba ser explicativo.</p>
+			</sec>
+			<sec>
+				<title>La selección del tipo de investigación</title>
+				<p>La investigación se puede constituir como un estudio de tipo documental, un estudio empírico (de campo) o uno mixto (documental y de campo). ¿Cuál será el tipo de investigación idóneo? Esto depende de la finalidad, tiempo y recursos de los investigadores. Las autoridades, por su propia naturaleza, cuentan con insumos de casos o asuntos de manera cotidiana. Es decir, si se trata de un estudio experimental, la autoridad tendría la posibilidad de replicar en varias pruebas un programa piloto en materia fiscal, ambiental, económica o de diversa índole.</p>
+				<p>Sin embargo, tratándose de la función sancionadora en el procedimiento disciplinario, por la naturaleza de la aplicación estricta del <italic>ius puniendi</italic> en materia administrativa, el tipo de investigación de campo, cuando se elija este, debe ser cautelosamente implementado, porque los derechos de los investigados o sancionados, las normas y los principios que rigen la materia, no se prestan para estudios experimentales. A pesar de ello, esta situación no descarta que el investigador seleccione un tipo de estudio empírico. La investigación de campo puede ser muy rica en la función sancionadora, especialmente para las actuaciones de la autoridad investigadora o la autoridad substanciadora. Si la autoridad, durante la práctica de sus diligencias dentro del procedimiento administrativo, también programa su perspectiva científico-académica, entonces podrá desarrollar simultáneamente la investigación o sustanciación administrativa, al tiempo que documenta los datos necesarios para la investigación académica. O bien, las autoridades pueden generar documentos en versiones públicas para realizar un intercambio de información con académicos de instituciones de investigación para estudios colaborativos. Esta sugerencia se complementa con el planteamiento consistente en que todos los operadores de las diversas instancias y niveles del Sistema Nacional Anticorrupción cuenten con acceso a una base de datos con información relativa a las sanciones impuestas y su respectiva vía para conocimiento de lo previamente juzgado y la prevención de contradicciones<xref ref-type="fn" rid="fn21"><sup>21</sup></xref>.</p>
+				<p>Por su parte, el tipo de investigación documental implica ventajas evidentes en las ciencias sociales y en especial en la ciencia jurídica. Desde el análisis de diversas normas, sentencias, precedentes y jurisprudencia, tratados y otros instrumentos internacionales, doctrina y otros textos jurídicos, la investigación documental proporciona enormes atributos para el profesional en el Derecho. Desde luego, una investigación de tipo mixto que combine el estudio documental con el empírico también resulta sumamente provechosa para fortalecer la función sancionadora.</p>
+			</sec>
+			<sec>
+				<title>La aproximación epistemológica y el método científico</title>
+				<p>El método se concibe como “el camino que conduce al conocimiento”<xref ref-type="fn" rid="fn22"><sup>22</sup></xref>. En lo concerniente a los métodos de investigación jurídica, hay una gran cantidad de autores y cada uno de ellos se refiere a diversos métodos. Por ejemplo, Carlos Manuel Villabella Armengol, sostiene que en la investigación jurídica se pueden emplear los métodos siguientes: 1) Histórico-lógico; 2) Análisis-síntesis; 3) Abstracción-concreción; 4) Inductivo-deductivo; 5) Sistémico-estructural-funcional; y 6) Modelación.<xref ref-type="fn" rid="fn23"><sup>23</sup></xref> Y así como se ha explicado respecto de los otros aspectos de la metodología, el investigador debe determinar cuál método empleará.</p>
+				<p>De tal forma que, si se pretende estudiar la facultad sancionadora a la luz del Sistema Estatal Anticorrupción, como subsistema del Sistema Nacional Anticorrupción, probablemente sería conveniente emplear el método sistémico-estructural-funcional. Mientras que la autoridad resolutora en materia de responsabilidades administrativas posiblemente opte por el método de abstracción-concreción para los aspectos particulares en la aplicación de la norma a algún caso difícil en concreto. En cuanto a la técnica de investigación, Witker la define como “un conjunto de herramientas y recursos de que se sirve una ciencia, para aplicar un determinado método. Son las pautas de actuación concretas, que deben seguirse para recorrer las fases del método científico.”<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>
+				</p>
+				<p>Además del método, otro aspecto trascendental de la investigación jurídica, desde la perspectiva metodológica, consiste en la aproximación epistemológica. Algunos autores identifican como aproximaciones epistemológicas la corriente del iusnaturalismo y el iuspositivismo, en las cuales se refiere a derechos humanos o derechos fundamentales, respectivamente. Más, Witker afirma que el investigador puede asumir alguna de las siguientes opciones epistémicas: la visión positivista dogmática del orden jurídico -que se centra en concebir al derecho como un conjunto de leyes- y la visión socio-jurídica -cuya concepción del derecho lo considera parte de las ciencias sociales centrando el objeto de estudio en un derecho como fenómeno jurídico-<xref ref-type="fn" rid="fn25"><sup>25</sup></xref>,coincide con las escuelas iusfilosóficas.</p>
+				<p>Respecto de la potestad sancionadora del Estado, la investigación puede aproximarse desde el derecho positivo, en donde la autoridad analiza el texto legal para el ejercicio de sus facultades. Corriente iusfilosófica que resulta muy adecuada para la aplicación estricta del <italic>ius puniendi</italic> en materia administrativa. Sin embargo, si la autoridad pretende interpretar la norma para velar por los derechos humanos, entonces podría preferir una aproximación epistemológica iusnaturalista.</p>
+			</sec>
+			<sec>
+				<title>Los instrumentos de recopilación de información</title>
+				<p>A diferencia de los investigadores de instituciones académicas o de centros de investigación, las autoridades, particularmente las autoridades administrativas tienen un amplio acceso a la información. Los convenios de colaboración entre autoridades, el principio rector de intercambio de información entre dependencias y entidades, los datos propios en su posesión, un marco normativo meticulosamente definido y el alto grado de especialización de los servidores públicos adscritos a sus unidades, representan una enorme ventaja para las autoridades en comparación con investigadores académicos que deben solicitar el acceso a la información pública mediante las plataformas de transparencia. Es decir, los casos, las cifras, los expedientes, incluso los datos personales, son activos institucionales con los que el investigador de la autoridad administrativa cuenta y que el investigador académico tendría que procurar su acceso y, en algunos supuestos, no obtenerlo. Sin embargo, los tiempos reducidos para la investigación institucional por parte de los servidores públicos convierte a los investigadores académicos en aliados idóneos para la realización de estos estudios.</p>
+				<p>Dependiendo del tipo de investigación, su enfoque y alcance, los instrumentos de recopilación de información para fortalecer la función sancionadora administrativa son muy variados. Estos pueden ser encuestas de opinión a la ciudadanía, encuestas de satisfacción a los usuarios de servicios públicos, el buzón de denuncias ciudadanas, las entrevistas a expertos, las minutas de reuniones de trabajos o actas de sesiones de órganos colegiados, los trabajos u opiniones de órganos técnicos o incluso de órganos consultivos, la información recabada por prácticas de Gobierno Abierto, y muchas otras fuentes de información, sin contar los expedientes que obran en el archivo, los registros y padrones, la estadística institucionalmente generada y los testimonios y declaraciones de servidores públicos y particulares. Las autoridades investigadoras, substanciadoras y resolutores cuentan con diversos instrumentos de recopilación de la información.</p>
+			</sec>
+			<sec>
+				<title>Otras especificaciones metodológicas</title>
+				<p>También resulta importante la delimitación de la investigación. Para una correcta investigación científico-académica que proporcione conclusiones pertinentes, resulta fundamental la delimitación del estudio. La delimitación debe ser material para circunscribir la investigación a los temas que se analizan. Por ejemplo, la autoridad investigadora puede delimitar materialmente la investigación académica a un marco teórico sobre la falta administrativa de desvío de recursos públicos y a la materia de seguridad social, específicamente a lo concerniente a aportaciones obrero-patronales. En esa construcción del marco teórico, será clave que el investigador lleve a cabo la investigación documentada con el llamado estado del arte con fuentes recientes de los últimos cinco años en la materia.</p>
+				<p>Adicionalmente, la delimitación territorial juega un papel importante en la investigación. Si se trata de un fenómeno socio-jurídico que acontece (o se pretende analizar) exclusivamente en el estado de Baja California, por ejemplo, entonces la delimitación territorial debe circunscribirse a esa entidad federativa. Si, por el contrario, el estudio implica un fenómeno más amplio que se detecta en la normatividad en todo el ámbito nacional, entonces en esa cobertura se tendría que ampliar la delimitación. Sin embargo, existen estudios realizados para abonar al intercambio de información con instancias internacionales, por lo que quizá parte de la investigación documental deba analizar el fenómeno (como la corrupción) desde una óptica internacional. Además, existe el estudio comparado, tanto el interno (con otras entidades federativas o municipios del país) como el extranjero (con otros países u otros sistemas internacionales). El investigador delimitará territorialmente su investigación conforme a la finalidad, necesidades y capacidades de su estudio.</p>
+				<p>Aunado a lo anterior, la investigación debe delimitarse temporalmente. Un estudio puede ser transeccional, o también llamado transversal, cuando la información recabada refiere a un momento específico único. Es decir, la investigación transeccional o transversal tiene como propósito “describir variables y analizar su incidencia e interrelación en un momento dado. Es como ‘tomar una fotografía’ de algo que sucede.”<xref ref-type="fn" rid="fn26"><sup>26</sup></xref> En el caso de la función sancionadora, por ejemplo, si la pretensión es analizar el impacto de alguna reforma o una ley al día de hoy, el estudio transeccional sería el idóneo. Mientras que los estudios longitudinales o evolutivos “recaban datos en diferentes puntos del tiempo, para realizar inferencias acerca de la evolución del problema de investigación o fenómeno, sus causas y sus efectos.”<xref ref-type="fn" rid="fn27"><sup>27</sup></xref> Si la autoridad pretendiera realizar un estudio sobre la evolución del fenómeno de la corrupción a partir del inicio del Sistema Estatal Anticorrupción en Baja California, entonces una investigación longitudinal sería conveniente.</p>
+			</sec>
+			<sec>
+				<title>El vínculo metodológico en la función del servidor público investigador</title>
+				<p>Todos estos aspectos metodológicos son componentes clave para los servidores públicos que pretenden enriquecer su acervo profesional y sus conocimientos técnicos para una mejor integración de los expedientes del procedimiento administrativo disciplinario. Al elaborar sus propias investigaciones científico-académicas, no solamente documentan lo obtenido en su propia investigación que pudiera ser, por ejemplo, una investigación documental, sino que además dotan una perspectiva analítica sobre el conocimiento empírico que el servidor público adquiere desde su propia experiencia personal en el ejercicio de su función pública.</p>
+				<p>De la misma forma en la que el servidor público que realiza la investigación científico-académica se apoya en los trabajos de otros autores -ya sean académicos de tiempo completo o autores servidores públicos-, la comunidad científica académica y las instituciones también se respaldan en la producción académica del servidor público que investiga. Este intercambio de aportaciones en el seno de la comunidad académica influye a los sectores público, privado y social. Además, también trasciende fronteras internacionales, permitiendo estudios comparados con base en las experiencias de distintos regímenes jurídicos.</p>
+				<p>Este impacto exige que el servidor público que produzca trabajos científico-académicos observe los aspectos metodológicos que brindan certeza y claridad a su aportación. De igual forma, cuando el servidor público sea el usuario lector de la investigación científico-académica de otros autores para ampliar y consolidar sus conocimientos, también resulta crucial que identifique los componentes metodológicos de las obras que consulta.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>IV. Aprendizaje desde fuentes doctrinarias de derecho comparado</title>
+			<p>Los servidores públicos encargados de llevar a cabo las diversas fases del procedimiento administrativo disciplinario pueden enriquecer sus conocimientos a través del análisis de fuentes doctrinarias de derecho comparado. El derecho administrativo tiene fuentes formales, reales e históricas. La investigación científica-académica recaba información de todas estas fuentes. Entre las fuentes formales se encuentran los textos normativos como la constitución (tanto federal como local), las leyes, los reglamentos, decretos, acuerdos y demás instrumentos jurídicos de derecho público de inferior jerarquía. Pero también se encuentran otras fuentes interpretativas como la jurisprudencia y la doctrina.</p>
+			<p>La doctrina internacional, especialmente los trabajos colaborativos y artículos de reflexión o de investigación académica representan una fuente valiosa en asuntos de la materia administrativa, como el procedimiento administrativo disciplinario. La investigación científico-académica se enfoca en aspectos cualitativos que pudieran ser omitidos por las resoluciones emitidas por la administración pública en su inercia cotidiana. Tal es el caso de la producción académica que estudia -desde la doctrina y las resoluciones de la Corte Interamericana de Derechos Humanos- la aplicación del principio de legalidad en el procedimiento disciplinario<xref ref-type="fn" rid="fn28"><sup>28</sup></xref>. Asimismo, los estudios doctrinarios en materia de derecho internacional de los derechos humanos, reconocen que las personas son sujetos del derecho disciplinario en atención a un ilícito de contenido ético-jurídico y una culpabilidad normativa, en el marco de la jurisprudencia constitucional, administrativa y disciplinaria de los órganos internos conforme a los estándares internacionales<xref ref-type="fn" rid="fn29"><sup>29</sup></xref>. Este tipo de investigaciones científico-académicas refuerzan el análisis de derecho internacional o extranjero de las autoridades administrativas en su procedimiento disciplinario.</p>
+			<p>Algunos ejemplos de temas que la doctrina -proveniente de las investigaciones científico-académicas- de otros países (derecho comparado) pudieran enriquecer los conocimientos y la capacidad de análisis de los servidores públicos que intervienen durante el desarrollo del procedimiento administrativo disciplinario son algunas de las que se enunciarán a continuación. Se destaca el libro colectivo titulado <italic>Derecho disciplinario iberoamericano</italic> que se integra de diversos capítulos por diversos autores de distintos países. Uno de estos capítulos desarrolla el contenido de los principios que rigen al procedimiento disciplinario -independientemente de las diferencias entre el orden jurídico argentino y el mexicano- señalando entre estos principios los siguientes: el principio de legalidad; la tipicidad; el debido proceso para una tutela administrativa efectiva; el plazo razonable; la culpabilidad; la irretroactividad y la ley más benigna; la proporcionalidad; y la presunción de inocencia<xref ref-type="fn" rid="fn30"><sup>30</sup></xref>. </p>
+			<p>Un claro ejemplo de la doctrina del derecho comparado se puede apreciar en obras colectivas como <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic><xref ref-type="fn" rid="fn31"><sup>31</sup></xref>, en el que se contienen una serie de aportaciones por diversos tratadistas. En este libro se encuentran capítulos como un análisis del ordenamiento español con aplicación en otros países, relativo a la vieja delimitación entre el ilícito administrativo y el penal. El debate resurgió debido al derecho penal económico y las empresas, concluyendo que no existe diferencia cualitativa entre el derecho penal y el derecho administrativo sancionador pues ambos derivan del <italic>ius puniendi</italic> del Estado<xref ref-type="fn" rid="fn32"><sup>32</sup></xref>. </p>
+			<p>De igual forma, en México ha surgido este debate entre juristas que reducen la diferenciación entre el derecho penal y el derecho administrativo sancionador a sólo aspectos cuantitativos y aquellos tratadistas que aseveran que las diferencias entre ambas ramas son también de índole cualitativa. Aunado al debate, también existe otro respecto de la clasificación de las sanciones. Mientras algunos mantienen que estas se clasifican en sanciones administrativas de autoprotección (infracciones <italic>ad intra</italic>) y sanciones administrativas de protección de orden general (infracciones <italic>ad extra</italic>), otros aseguran que esta distinción ya es obsoleta; por tanto proponen clasificaciones como: sanciones administrativas personales y reales, sanciones principales y accesorias, y otros reconocen la ‘administrativización del derecho penal’ a través de la imposición de la multa como infracción.<xref ref-type="fn" rid="fn33"><sup>33</sup></xref> Con algunas iniciativas de reforma penal local en puerta en Baja California, la investigación académica abona a una correcta delimitación, tanto a favor de las autoridades legislativas, administrativas y jurisdiccionales, frente a cambios sustanciales.</p>
+			<p>En seguimiento a los estudios comparados, una investigación académica en Perú sobre el procedimiento administrativo sancionador en materia de contrataciones públicas, el Tribunal de Contrataciones del Estado (TCE) de ese país impone estándares excesivos de cumplimiento que pueden resultar onerosos y rebasar la capacidad de las pequeñas y medianas empresas participantes.<xref ref-type="fn" rid="fn34"><sup>34</sup></xref> Este tipo de estudios proporciona al funcionario de una perspectiva más amplia para identificar casos en los que las propias autoridades resolutoras emiten decisiones injustas. Si el funcionario que consulta esa investigación académica se enfrenta a una coyuntura similar, podrá identificar argumentos para una mejor actuación.</p>
+			<p>Otra investigación científica se centra en la importancia de la motivación en las resoluciones sancionadoras y la preocupante ambigüedad e indeterminación que la rodea, incluso desde el propio ordenamiento jurídico y la jurisprudencia. Como el mismo trabajo académico lo señala, la potestad sancionadora no sólo es ejercida por los tribunales sino también por la Administración Pública, y existe una tendencia a la infravaloración, malas concepciones y deficiencias respecto de las exigencias de la motivación en las resoluciones sancionadoras.<xref ref-type="fn" rid="fn35"><sup>35</sup></xref> Esta clase de documentos pueden brindar algo de luz a los servidores públicos que se encuentren en un dilema parecido durante el desarrollo del procedimiento administrativo mencionado.</p>
+			<p>Cuando un servidor público pretenda fortificar los elementos teóricos sobre la responsabilidad probatoria de la administración pública dentro del procedimiento administrativo disciplinario, podrá recurrir al análisis de artículos científicos que analizan los postulados normativos de carácter administrativo en la etapa de instrucción. Así lo analiza un <italic>paper</italic> sobre un gobierno local colombiano publicado en una revista científica, el cual destaca la importancia de socializar el contenido de las normas sancionatorias para la prevención de las infracciones administrativas<xref ref-type="fn" rid="fn36"><sup>36</sup></xref>. </p>
+			<p>Si por otra, el servidor público busca profundizar en el estudio de todas las garantías constitucionales comprendidas en el debido proceso, aplicables al procedimiento administrativo disciplinario, podría realizar un análisis comparativo con el sistema constitucional chileno y su procedimiento respectivo. Mientras algunos autores aseveran que este procedimiento es una manifestación del <italic>ius puniendi</italic> estatal, una investigación científica considera que en realidad se trata de un mecanismo de cumplimiento para que ayude a la administración pública lograr los fines del Estado<xref ref-type="fn" rid="fn37"><sup>37</sup></xref>. Estas divergencias académicas potencia el debate y enarbola el estudio.</p>
+			<p>Por otra parte, existen estudios que revelan sistemas sancionatorios donde coexiste una pluralidad de ordenamientos, como el caso peruano donde la ley de servicio civil y la ley en materia de responsabilidades administrativas simultáneamente regulan las infracciones y sanciones administrativas. En esa investigación científica también se estudia la gravedad de la creación normativa de conductas infractoras indeterminadas, abiertas o genéricas, que afectan los derechos de los gobernados al fijar un entorno sancionador que provoca incertidumbre jurídica en la aplicación de sanciones<xref ref-type="fn" rid="fn38"><sup>38</sup></xref>. Este fenómeno normativo de ambigüedad no es exclusivo del Perú y de hecho podría detectarse en disposiciones de responsabilidad administrativa en otros países. El servidor público haría bien en estudiar el contenido de investigaciones académicas para robustecer correctamente su función.</p>
+			<p>Asimismo, otra investigación académica proveniente del Perú también puede ser para los funcionarios encargados del procedimiento administrativo correspondiente. En particular para aquellos casos en los que se explora la posibilidad de aplicar una atenuante con motivo de la subsanación voluntaria por parte del infractor. Este análisis se lleva a cabo a la luz de los principios de razonabilidad, buena administración y de combate a la corrupción. El referido trabajo académico expone el peligro de considerar la subsanación voluntaria de manera aislada como un eximente de responsabilidad; sin embargo, propone examinarla como una atenuante con implicaciones no sólo de cese de la conducta infractora, sino también de reparación voluntaria del daño causado.<xref ref-type="fn" rid="fn39"><sup>39</sup></xref> Estos resultados proporcionan una orientación en el marco del procedimiento administrativo referido.</p>
+			<p>Aunado a lo expuesto, los avances tecnológicos se han convertido en un factor relevante en la función investigadora y sancionadora. En aquellos asuntos en los que el servidor público investigador o substanciador pretenda reflexionar sobre el valor probatorio de los documentos públicos electrónicos entonces se podrá apoyar en trabajos académicos pertinentes. Autores chilenos han estudiado las pruebas tasadas considerando el valor probatorio pleno del documento público electrónico, con la aplicación supletoria del derecho civil<xref ref-type="fn" rid="fn40"><sup>40</sup></xref>. </p>
+			<p>Adicionalmente, el servidor público encargado de alguna fase del procedimiento administrativo disciplinario se enfrenta a un desafío relativo a la aplicación de la norma. La tipicidad de la conducta prevista como infracción es un pilar fundamental en el marco de ejercicio de la potestad sancionadora. Esto implica una dificultad que surge en diferentes latitudes del mundo. Por tal motivo, las investigaciones científicas que estudian fenómenos socio-jurídicos como la correlación entre las variables de tipificación de las faltas y el procedimiento administrativo disciplinario pueden resultar útiles a los funcionarios que ejercen la referida potestad sancionadora. Tal es el caso de un trabajo académico cuantitativo en el Perú, del cual se concluye que existe una correlación positiva débil entre la tipificación de las faltas y el cumplimiento de proporcionalidad en los procedimientos administrativos disciplinarios.<xref ref-type="fn" rid="fn41"><sup>41</sup></xref> Esta clase de aportaciones científicas mejora la actuación pública.</p>
+			<p>Otro tema recurrente en las investigaciones académicas sobre el procedimiento administrativo disciplinario es la vulneración del derecho al debido proceso. Un estudio ecuatoriano revela una de las principales violaciones al debido proceso en este procedimiento administrativo consiste en la falta de notificación oportuna del dictamen de la resolución. Esta constante ocasiona que la justicia se trastoque de manera negativa y vulnera el Estado de derecho. Por tal motivo, resulta una necesidad primordial que los servidores públicos que participan en el procedimiento administrativo disciplinario se encuentren informados y conscientes de estas vulneraciones a efectos de prevenirlas. De ahí que la investigación administrativa se perfeccione con el estudio de las investigaciones científico-académicas.</p>
+			<p>Ahora bien, ya se ha expuesto que los principios rectores del procedimiento administrativo disciplinario se aplican y se desarrollan para la implementación del orden jurídico de distintos países. Con base en esto, el aprendizaje desde fuentes de doctrina del derecho internacional y del derecho comparado permite que estos principios permeen en el derecho doméstico. Sin embargo, los pronunciamientos de la Suprema Corte en México establecen criterios de aplicación para estos principios. Un claro ejemplo de esto son las tesis P./J. 43/2014 (10a.) y III.7o.A.34 A (10a.). Mediante la primera de ellas, el Pleno de la Suprema Corte resuelve que el principio de presunción de inocencia es aplicable, en el procedimiento administrativo sancionador, con matices y modulaciones debido a su naturaleza gravosa<xref ref-type="fn" rid="fn42"><sup>42</sup></xref>.</p>
+			<p>Con fundamento en la primera tesis, en la segunda tesis los tribunales establecieron un criterio en el que consideraron que los principios de presunción de inocencia y de <italic>in dubio pro reo</italic> resultan inaplicables en el procedimiento para el fincamiento de responsabilidades resarcitorias. Esto, mientras que el procedimiento disciplinario pretende sancionar una infracción reprochable del servidor público -donde podrían aplicar los principios de presunción de inocencia y de <italic>in dubio pro reo</italic>- en el procedimiento de responsabilidades resarcitorias, por otra parte, tiene otro objeto que consiste en restituir la hacienda pública y al patrimonio de los entes públicos el monto de los daños y perjuicios estimables en dinero que se le hubieren causado.<xref ref-type="fn" rid="fn43"><sup>43</sup></xref>
+			</p>
+			<p>Aunque el derecho mexicano se enriquece con estudios del derecho internacional y del derecho comparado, su aplicación interna requiere una labor hermenéutica. Con fundamento en eso, es evidente que la investigación científico-académica debe ser exhaustiva, de tal manera que la aplicación de la doctrina internacional o el derecho comparado se analice a la luz de los criterios jurisprudenciales del orden jurídico mexicano, en aquellos casos en los que existan precedentes aplicables.</p>
+		</sec>
+		<sec sec-type="cases">
+			<title>V. Ejemplo de estudio de caso</title>
+			<p>El método de estudio de caso es uno de los más interesantes y convenientes para la investigación científico-académica en la ciencia jurídica. El Derecho es una disciplina con una dimensión teórica (conjunto de normas jurídicas) y otra práctica (derechos objetivos y subjetivos de caso particular).<xref ref-type="fn" rid="fn44"><sup>44</sup></xref> Así lo explica Witker.</p>
+			<p>Cuando se analiza el fenómeno jurídico, a veces se hace desde un aspecto teórico general, pero también desde casos prácticos. Estos implican conocer el asunto puntual desde la óptica omnicomprensiva del estudio del ordenamiento jurídico, en un momento determinado y bajo una legislación específica.</p>
+			<p>Para profundizar en este estudio de caso, a continuación, se desarrolla un caso práctico hipotético en materia de responsabilidades administrativas y combate a la corrupción. El caso práctico hipotético se desprende de la detección de posibles actos de corrupción en la Dirección del Registro Público de la Propiedad y de Comercio. Como parte de su Programa Anual de Auditoría Gubernamental, el personal de la Secretaría Anticorrupción y Buen Gobierno del Estado detectó cierta cantidad de irregularidades en la inscripción de actos jurídicos en la Sección Civil del Registro Público de la Propiedad y de Comercio.</p>
+			<p>En específico, se descubrió que algunas inscripciones fueron resueltas con una celeridad extraordinaria en un plazo tan breve que resulta prácticamente irreal un análisis jurídico-registral cabal por parte de los Registradores y Subregistradores Públicos. Mientras, otros trámites ordinariamente tardaban el doble o triple de tiempo en resolverse, y en muchos casos, las inscripciones incluso se resolvían de manera extemporánea, incumpliendo dicha dependencia centralizada con los plazos previstos en la ley de la materia. Ahora bien, en las investigaciones científico-académicas, como ya se ha expuesto, resulta conveniente que el estudio de la normativa y la doctrina se complemente con el análisis de la jurisprudencia. Respecto del caso estudiado, la investigación científico-académico pudiera anticiparse a una posible defensa argüida por los posibles infractores: la improcedencia de sanciones administrativas cuando actúen dentro del margen razonable del libre ejercicio de su profesión. Este criterio de improcedencia es sustentado por la tesis I.11o.A.38 A (11a.)<xref ref-type="fn" rid="fn45"><sup>45</sup></xref>. Por tanto, la investigación científico-académico debe considerar este tipo de pronunciamientos jurisdiccionales para que se fortalezca el ejercicio de las facultades de las autoridades administrativas investigadoras, substanciadoras y resolutoras.</p>
+			<p>Aunado a los resultados de la Auditoría Gubernamental practicada a la Dirección del Registro Público, la Secretaría Anticorrupción y Buen Gobierno, en su buzón de denuncias recibió un mensaje que contenía una denuncia de posibles faltas administrativas, toda vez que, como usuario constante de los servicios públicos registrales de la Dirección del Registro Público, un ciudadano anónimo atestiguó prácticas ilícitas por las que empleados y representantes de ciertas notarías públicas y despachos jurídicos entregaban sobres con dinero a Registradores y Subregistradores Públicos con la finalidad de dar preferencia y celeridad a sus trámites de inscripción y beneficiar así a sus clientes que premian a esos despachos y notarías con su preferencia. La denuncia anónima presentada también relata que familiares del Titular de la dependencia centralizada (el director del Registro Público) forman parte de esas notarías públicas y despachos jurídicos.</p>
+			<p>La Secretaría Anticorrupción y Buen Gobierno tiene procedimientos administrativos disciplinarios en contra de titulares predecesores de esa misma dependencia en administraciones anteriores a la actual. Las actuaciones que obran en los diversos expedientes de investigación revelan que este fenómeno de corrupción, desde el ámbito de la administración pública, no se limita a los Titulares de la dependencia ni a sus Registradores y Subregistradores Públicos. Los informes y auditorías de gobiernos anteriores revelan que los actos de corrupción en el sector público incluyen a los analistas del área de informática que manipulan los registros en los sistemas, hasta los trabajadores burócratas que desempeñan funciones en el mostrador/recepción, y que, por su estado de sindicalizado, su estabilidad en el empleo les permite continuar con sus prácticas ilícitas independientemente de los cambios de Titulares y de administraciones.</p>
+			<p>Además, este fenómeno de corrupción, desde la óptica de la iniciativa privada, implica a particulares de notarías públicas, diversos despachos de abogados, agencias inmobiliarias, entre otros usuarios constantes. Esta red de corrupción se mantiene firme desde hace décadas, sin menoscabo por cambios de administración, de titulares o por alternancia de partidos políticos en el gobierno.</p>
+			<p>Ahora bien, desde una perspectiva exclusivamente administrativa, la autoridad investigadora, la autoridad substanciadora y la autoridad resolutora podrían abocarse exclusivamente a atender los hechos concretos narrados en la denuncia. La reacción institucional que usualmente procedería consiste en dar trámite al procedimiento administrativo disciplinario. En años posteriores podrían denunciarse actos de corrupción subsecuentes y nuevamente iniciaría el ciclo sancionador.</p>
+			<p>En cambio, si se desarrollan acciones estratégicas, la dinámica institucional podría ser distinta. Con el apoyo de una investigación científico-académica para atender la problemática de manera integral, el reto sería mayor pero también más redituable a mediano y largo plazo. De hecho, la doctrina ha desarrollado el concepto de diasdoralogía como ciencia que estudia el fenómeno social de la corrupción de manera integral<xref ref-type="fn" rid="fn46"><sup>46</sup></xref>. Es decir, algunos juristas proponen que el enfoque no sólo se centre en la acción de la corrupción y su sujeto activo para efectos de la responsabilidad administrativa o penal, sino observar el fenómeno en su totalidad. Esta postura permite entender la conducta humana y a su vez enriquecer la labor intelectual de las autoridades en el ejercicio de su facultad discrecional.</p>
+			<p>A partir de la denuncia, las autoridades administrativas activan la maquinaria institucional para la investigación y eventual substanciación y resolución de los hechos denunciados. Simultáneamente, documentan toda la información adicional que podría fungir como insumos para la investigación científico-académica.</p>
+			<p>Ya sea bajo un enfoque mixto (cualitativo y cuantitativo), con un tipo de investigación documental y empírica, bajo un método analítico-sintético o de abstracción-concreción, se pueden estudiar estos hechos ilícitos y su posible encuadramiento en diversas faltas graves previstas en la ley como: cohecho, abuso de funciones, actuación bajo conflicto de interés y tráfico de influencias -desde la perspectiva del procedimiento administrativo disciplinario a servidores públicos- y soborno y tráfico de influencias -desde la perspectiva del procedimiento sancionador correctivo contra particulares- según corresponda.</p>
+			<p>Además, la investigación científico-académica pretendería analizar la eficiencia del procedimiento administrativo respecto de sanciones impuestas y confirmadas (en caso de impugnación), así como la eficacia y taxatividad de estas sanciones administrativas previstas en la ley para determinar si en realidad inhiben la conducta ilícita en los servidores públicos y los particulares. Posteriormente, se estudia el fenómeno de la corrupción desde una óptica sociológica y de la cultura de legalidad. </p>
+			<p>Estas investigaciones científico-académicas se extienden más allá del alcance que puedan tener las resoluciones en materia de responsabilidades administrativas, pero teleológicamente se encaminan a la misma finalidad: el interés público. De lo contrario, las autoridades en materia de responsabilidades administrativas y combate a la corrupción pueden estancarse en una sensación de impotencia y frustración en la que su actuación simplemente representa meras soluciones paliativas en un fenómeno de corrupción sociológicamente más arraigado que el temor por las consecuencias administrativas.</p>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>VI. Análisis y discusión de los resultados</title>
+			<p>Aunque cada Estado cuenta con un marco constitucional y legal en materia de responsabilidades administrativas y su respectivo procedimiento administrativo disciplinario, surge una gran cantidad de desafíos en su aplicación. En México, tanto la Constitución Federal como las locales, así como la Ley General de Responsabilidades Administrativas y los ordenamientos de aplicación federal y local, junto al marco normativo del Sistema Nacional y los sistemas locales de anticorrupción proporcionan una normativa amplia, persisten los grandes retos de su implementación. Las fallas que surgen en el procedimiento administrativo sancionador, ya sea el disciplinario (dirigido a servidores públicos) o el correctivo (entablado contra los particulares), conlleva una vulneración de derechos de los administrados y una transgresión contra el Estado de derecho.</p>
+			<p>Los servidores públicos encargados de participar en el desarrollo del procedimiento administrativo disciplinario podrán capacitarse constantemente en relación con la normativa y la jurisprudencia que se emita. Sin embargo, la investigación científico-académica es una fuente de información insustituible en la auto preparación y formación del funcionario investigador, substanciador o resolutor dentro del procedimiento administrativo. Ya sea que consuman esta doctrina como usuarios lectores o se conviertan ellos mismos en los autores de esta producción académica, la comunidad jurídica y de los diversos órdenes de la administración pública se benefician de este conocimiento cuando lo saben aprovechar. Por tal motivo, este binomio de investigación académica e investigación administrativa genera una sinergia clave para fortalecer el Estado de derecho y lograr los fines de este.</p>
+			<p>Ante esta urgencia de vincular los conocimientos de la investigación científico-académica con la aplicación cotidiana del procedimiento administrativo disciplinario, resulta esencial que los servidores públicos -que consumen los frutos o realizan la producción de la investigación académica- conozcan los aspectos metodológicos de dicha investigación científica. El apego a la metodología de la investigación jurídica permite compartir con mayor claridad o consumir con mayor conciencia la producción académica y la doctrina para incorporarla en el ejercicio de sus funciones. El aprendizaje de fuentes doctrinarias de otros Estados, mediante análisis de derecho comparado, también promueve el desarrollo de conocimiento científico en la investigación administrativa del procedimiento disciplinario. Conocer los retos y desafíos de la administración pública en otros sistemas jurídicos diversos al propio, amplía el panorama del funcionario y engrandece su labor profesional.</p>
+			<p>Los estudios de caso de entidades federativas, como el supuesto del Estado de Baja California que se compartió en este trabajo, revela que existen oportunidades de mejora donde la investigación científico-académica puede ocasionar un impacto altamente positivo en la administración pública como parte de la contraloría pública.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>VII. Conclusiones y recomendaciones</title>
+			<sec>
+				<title>Beneficios de la integración metodológica</title>
+				<p>La función sancionadora del Estado en materia administrativa se fortalece con la investigación científico-académica. Como se ha expuesto, tanto la actuación de la autoridad investigadora, como de la autoridad substanciadora y de la resolutora, se pueden beneficiar significativamente con la investigación académica. Parte esencial de este beneficio consiste en la integración metodológica que se produce al estudiar un fenómeno socio-jurídico en particular, es decir, los asuntos concretos, especialmente los casos difíciles ante la propia autoridad.</p>
+			</sec>
+			<sec>
+				<title>Mejora en la calidad y eficacia de las investigaciones</title>
+				<p>La investigación científico-académica, como ya se ha indicado, fortalece el ejercicio de la facultad sancionadora del Estado. Independientemente de la fase del asunto, la investigación académica abona importantes aportaciones al trabajo, ya sea dentro del procedimiento administrativo disciplinario desahogado por la autoridad administrativa o incluso en la fase resolutiva por parte del Tribunal.</p>
+				<p>Desde luego, no se trata de iniciar la investigación académica exclusivamente para un asunto específico, toda vez que la investigación científico-académica debería ser una práctica permanente que abone de manera circular. Es decir, los casos difíciles pueden generar situaciones donde el apego al principio de legalidad exija un extraordinario desarrollo en el aspecto de la razonabilidad jurídica, por ejemplo. Esta labor intelectual realizada por la autoridad produce una retroalimentación valiosa que sirve de insumo para la investigación académica la cual, a su vez, funge como insumo doctrinario para futuros asuntos.</p>
+				<p>Cabe recordar que, en la investigación científico-académica con derecho internacional o derecho comparado, se debe incluir la interpretación jurisdiccional que complemente el análisis normativo y la doctrina. Esta tropicalización jurídica al derecho doméstico requiere de ajustes y modulaciones, como ya se expuso.</p>
+			</sec>
+			<sec>
+				<title>Fortalecimiento de la legitimidad de las sanciones impuestas</title>
+				<p>Las sanciones impuestas gozan de una legitimidad más fortalecida a través de la investigación científico-académica. Esto depende del enfoque, tipo, alcance y método de las investigaciones, pero la investigación académica puede reforzar significativamente la legitimidad de la sanción impuesta por una autoridad. Esto se construye en entornos donde la cultura de la investigación científico-académica se ha gestado permanentemente, desde los trabajos de la autoridad investigadora hasta aquellos realizados por la autoridad substanciadora y la resolutora.</p>
+				<p>Una resolución que fue emitida con base en un análisis científico-académico no sólo da certeza jurídica al sancionado y al sancionador, también da luz a criterios que sirven de referente para otras autoridades resolutoras, substanciadoras e investigadoras. Además, el contenido de la resolución, aun cuando solamente se trate de la versión pública de esta, establece un ejemplo para servidores públicos y particulares que en un futuro puedan ser sujetos de ese tipo de resoluciones. Debidamente comunicado y divulgado, el contenido de una resolución con un andamiaje científico-académico puede resultar didáctico para la población.</p>
+			</sec>
+			<sec>
+				<title>Contribución a la prevención de actos de corrupción</title>
+				<p>Como ya se expuso, se encuentran a disposición diversos métodos de investigación jurídica. Uno de ellos es el método sistémico-estructural-funcional. Este presenta características clave que permiten estudiar el fenómeno de la corrupción. En esa tesitura, el Sistema Estatal Anticorrupción, como subsistema del Sistema Nacional Anticorrupción exhibe áreas susceptibles de mejora. Para ello, resulta necesario identificar la eficacia que el sistema y sus subsistemas gozan para cumplir con su objeto. Es decir, un estudio científico-académico podría ayudar a identificar las fallas estructurales, así como identificar otras áreas de oportunidad en las dinámicas entre las autoridades y componentes que forman parte de los sistemas y subsistemas de combate a la corrupción. También abonaría a detectar el grado de inhibición que las sanciones administrativas provocan en los servidores públicos o particulares corruptos. Incluso, se podría analizar la funcionalidad del Sistema Estatal Anticorrupción a la luz de las prácticas de gobernanza a través del Comité de Participación Ciudadana o algún otro mecanismo que involucre a la sociedad.</p>
+				<p>Independientemente del método o la técnica de investigación seleccionada por el investigador, su aportación a la potestad sancionadora estatal en materia administrativa es una oportunidad aprovechable por la autoridad.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>VI. Conclusiones y recomendaciones</title>
+			<p>Con base en todo lo expuesto, se recomienda a las autoridades competentes que intervienen en la potestad sancionadora del Estado en materia administrativa que promuevan entre los servidores públicos adscritos a las autoridades investigadoras, substanciadoras y resolutoras la investigación científico-académica como una práctica permanente. La producción académica y la elaboración de estudios institucionales debe ser fomentada transversalmente en la administración pública centralizada y paraestatal, especialmente en responsabilidades administrativas.</p>
+			<p>Es comprensible que la carga de trabajo cotidiana pueda obstaculizar los esfuerzos de los servidores públicos para realizar estudios científico-académicos propios. Consecuentemente, se recomienda a las autoridades celebrar convenios de colaboración con las instituciones académicas y centros de investigación que promueven el trabajo conjunto entre investigadores académicos y las autoridades.</p>
+			<p>El vacío ocasionado por la necesidad urgente de resolver asuntos sancionadores y la eventual capacitación continua de los servidores públicos provoca la necesidad de que este sea cubierto oportunamente por la investigación científico-académica. Sin embargo, esto no impide que los programas institucionales de capacitación continua de los servidores públicos se actualicen constantemente con los resultados obtenidos de las investigaciones científico-académicas.</p>
+			<p>Se recomienda a las autoridades en materia de responsabilidades administrativas y del Sistema Estatal Anticorrupción, incluidos los Órganos Internos de Control, la Secretaría Anticorrupción y Buen Gobierno, las Sindicaturas Municipales y el Tribunal Estatal de Justicia Administrativa, que establezcan un programa interinstitucional de intercambio de información especial sobre los resultados obtenidos de las investigaciones científico-académicas.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>VII. Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Alfaro-Alvarado, Alberto. «Procedimiento administrativo sancionador y motivación de las resoluciones sancionadoras». Preprint, SciELO Preprints, 19 de julio de 2024. https://doi.org/10.1590/SciELOPreprints.9212.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alfaro-Alvarado</surname>
+							<given-names>Alberto</given-names>
+						</name>
+					</person-group>
+					<article-title>Procedimiento administrativo sancionador y motivación de las resoluciones sancionadoras</article-title>
+					<source>Preprint, SciELO Preprints</source>
+					<day>19</day>
+					<month>07</month>
+					<year>2024</year>
+					<pub-id pub-id-type="doi">10.1590/SciELOPreprints.9212</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Andrade-Arrieta, Iván Fernando, María-Del-Carmen Jácome-Ordóñez, Fernando-De-Jesús Castro-Sánchez, y Patricio Secaira-Durango. «La etapa de instrucción del procedimiento administrativo sancionador del gobierno administrativo descentralizado de Riobamba, Ecuador». <italic>IUSTITIA SOCIALIS</italic> 7, n.<sup>o</sup> 2 (s. f.): 134-52. https://doi.org/10.35381/racji.v7i2.2008.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Andrade-Arrieta</surname>
+							<given-names>Iván Fernando</given-names>
+						</name>
+						<name>
+							<surname>Jácome-Ordóñez</surname>
+							<given-names>María-Del-Carmen</given-names>
+						</name>
+						<name>
+							<surname>Castro-Sánchez</surname>
+							<given-names>Fernando-De-Jesús</given-names>
+						</name>
+						<name>
+							<surname>Secaira-Durango</surname>
+							<given-names>Patricio</given-names>
+						</name>
+					</person-group>
+					<article-title>La etapa de instrucción del procedimiento administrativo sancionador del gobierno administrativo descentralizado de Riobamba, Ecuador</article-title>
+					<source>IUSTITIA SOCIALIS</source>
+					<volume>7</volume>
+					<issue>2</issue>
+					<fpage>134</fpage>
+					<lpage>152</lpage>
+					<pub-id pub-id-type="doi">10.35381/racji.v7i2.2008</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Bordalí Salamanca, André. «El debido procedimiento administrativo sancionador». <italic>Revista de Derecho Administrativo</italic>, n.<sup>o</sup> 37 (julio de 2023): 33-66. https://doi.org/10.7764/redae.37.2.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bordalí Salamanca</surname>
+							<given-names>André</given-names>
+						</name>
+					</person-group>
+					<article-title>El debido procedimiento administrativo sancionador</article-title>
+					<source>Revista de Derecho Administrativo</source>
+					<issue>37</issue>
+					<month>07</month>
+					<year>2023</year>
+					<fpage>33</fpage>
+					<lpage>66</lpage>
+					<pub-id pub-id-type="doi">10.7764/redae.37.2</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Carbajal Fierro, Solange Marianella. «Controlando al controlador: expresiones y límites de la potestad sancionadora la administración pública en el caso de la Contraloría General de la República». <italic>Vox Juris</italic> 43, n.<sup>o</sup> 2 (2025): 172-78. https://doi.org/10.24265/voxjuris.2025.v43n2.13.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carbajal Fierro</surname>
+							<given-names>Solange Marianella</given-names>
+						</name>
+					</person-group>
+					<article-title>Controlando al controlador: expresiones y límites de la potestad sancionadora la administración pública en el caso de la Contraloría General de la República</article-title>
+					<source>Vox Juris</source>
+					<volume>43</volume>
+					<issue>2</issue>
+					<year>2025</year>
+					<fpage>172</fpage>
+					<lpage>178</lpage>
+					<pub-id pub-id-type="doi">10.24265/voxjuris.2025.v43n2.13</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Castañeda Hidalgo, André Jesús. «La subsanación de la infracción en el procedimiento sancionador de la Contraloría General: una reflexión desde el principio de buena administración en el derecho peruano». <italic>Revista Digital de Derecho Administrativo</italic>, n. 32 (junio de 2024): 211-42. https://doi.org/10.18601/21452946.n32.09.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castañeda Hidalgo</surname>
+							<given-names>André Jesús</given-names>
+						</name>
+					</person-group>
+					<article-title>La subsanación de la infracción en el procedimiento sancionador de la Contraloría General: una reflexión desde el principio de buena administración en el derecho peruano</article-title>
+					<source>Revista Digital de Derecho Administrativo</source>
+					<issue>32</issue>
+					<month>06</month>
+					<year>2024</year>
+					<fpage>211</fpage>
+					<lpage>242</lpage>
+					<pub-id pub-id-type="doi">10.18601/21452946.n32.09</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Castro Figueroa, Fernando Manuel, Marina del Pilar Olmeda García, y Daniel Octavio Valdez Delgadillo. «El necesario fortalecimiento de la cultura de la legalidad para la contención de la violencia y la prevención del delito». <italic>Revista Jurídica Jalisciense</italic> 3, n.<sup>o</sup> 5 (2022): 65-93. https://doi.org/10.32870/rjj.v3i5.116.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castro Figueroa</surname>
+							<given-names>Fernando Manuel</given-names>
+						</name>
+						<name>
+							<surname>Olmeda García</surname>
+							<given-names>Marina del Pilar</given-names>
+						</name>
+						<name>
+							<surname>Valdez Delgadillo</surname>
+							<given-names>Daniel Octavio</given-names>
+						</name>
+					</person-group>
+					<article-title>El necesario fortalecimiento de la cultura de la legalidad para la contención de la violencia y la prevención del delito</article-title>
+					<source>Revista Jurídica Jalisciense</source>
+					<volume>3</volume>
+					<issue>5</issue>
+					<year>2022</year>
+					<fpage>65</fpage>
+					<lpage>93</lpage>
+					<pub-id pub-id-type="doi">10.32870/rjj.v3i5.116</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Celis-Danzinger, Gabriel. «Valor probatorio del documento electrónico en el procedimiento administrativo sancionador en Chile». <italic>Jurídicas CUC</italic> 20, n.<sup>o</sup> 1 (2024): 157-78. https://doi.org/10.17981/juridcuc.20.1.2024.06.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Celis-Danzinger</surname>
+							<given-names>Gabriel</given-names>
+						</name>
+					</person-group>
+					<article-title>Valor probatorio del documento electrónico en el procedimiento administrativo sancionador en Chile</article-title>
+					<source>Jurídicas CUC</source>
+					<volume>20</volume>
+					<issue>1</issue>
+					<year>2024</year>
+					<fpage>157</fpage>
+					<lpage>178</lpage>
+					<pub-id pub-id-type="doi">10.17981/juridcuc.20.1.2024.06</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Constitución Política de los Estados Unidos Mexicanos (últ. reforma 15-04-2025) (1917). <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf</ext-link>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Constitución Política de los Estados Unidos Mexicanos</source>
+					<comment>últ. reforma 15-04-2025</comment>
+					<year>1917</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Constitución Política del Estado Libre y Soberano de Baja California (últ. reforma 13-06-2025) (1953). <ext-link ext-link-type="uri" xlink:href="https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20250613_CONSTBC.PDF">https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20250613_CONSTBC.PDF</ext-link>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Constitución Política del Estado Libre y Soberano de Baja California</source>
+					<comment>últ. reforma 13-06-2025</comment>
+					<year>1953</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20250613_CONSTBC.PDF">https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20250613_CONSTBC.PDF</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Daga-Saravia, Rudy Alder, y Rosa Karina Gonzales-Medina. «Tipificación de las faltas y su incidencia en los procedimientos administrativos disciplinarios: el caso de un gobierno local peruano». <italic>Jurídicas</italic> 20, n.<sup>o</sup> 2 (2023): 243-65. https://doi.org/10.17151/jurid.2023.20.2.13.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Daga-Saravia</surname>
+							<given-names>Rudy Alder</given-names>
+						</name>
+						<name>
+							<surname>Gonzales-Medina</surname>
+							<given-names>Rosa Karina</given-names>
+						</name>
+					</person-group>
+					<article-title>Tipificación de las faltas y su incidencia en los procedimientos administrativos disciplinarios: el caso de un gobierno local peruano</article-title>
+					<source>Jurídicas</source>
+					<volume>20</volume>
+					<issue>2</issue>
+					<year>2023</year>
+					<fpage>243</fpage>
+					<lpage>265</lpage>
+					<pub-id pub-id-type="doi">10.17151/jurid.2023.20.2.13</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Delgadillo Gutiérrez, Luis Humberto, y Manuel Lucero Espinosa. <italic>Compendio de Derecho Administrativo</italic>. 9<sup>a</sup> ed. Porrúa, 2012.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Delgadillo Gutiérrez</surname>
+							<given-names>Luis Humberto</given-names>
+						</name>
+						<name>
+							<surname>Lucero Espinosa</surname>
+							<given-names>Manuel</given-names>
+						</name>
+					</person-group>
+					<source>Compendio de Derecho Administrativo</source>
+					<edition>9a</edition>
+					<publisher-name>Porrúa</publisher-name>
+					<year>2012</year>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Gómez Pavajeau, Carlos Arturo. «Derecho disciplinario y derechos humanos ¿su naturaleza la define la sustancialidad de los derechos o la formalidad de la potestad doméstica del derecho administrativo?» En <italic>Derecho disciplinario iberoamericano</italic>. Monografías Maior. Tirant lo Blanch, 2021.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gómez Pavajeau</surname>
+							<given-names>Carlos Arturo</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Derecho disciplinario y derechos humanos ¿su naturaleza la define la sustancialidad de los derechos o la formalidad de la potestad doméstica del derecho administrativo?</chapter-title>
+					<source>Derecho disciplinario iberoamericano</source>
+					<publisher-name>Monografías Maior. Tirant lo Blanch</publisher-name>
+					<year>2021</year>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Hernández Sampieri, Roberto, Carlos Fernández Collado, y María del Pilar Baptista Lucio. <italic>Metodología de la investigación</italic>. 6<sup>a</sup> ed. McGraw-Hill Interamericana, 2014.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hernández Sampieri</surname>
+							<given-names>Roberto</given-names>
+						</name>
+						<name>
+							<surname>Fernández Collado</surname>
+							<given-names>Carlos</given-names>
+						</name>
+						<name>
+							<surname>Baptista Lucio</surname>
+							<given-names>María del Pilar</given-names>
+						</name>
+					</person-group>
+					<source>Metodología de la investigación</source>
+					<edition>6a</edition>
+					<publisher-name>McGraw-Hill Interamericana</publisher-name>
+					<year>2014</year>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Ivanega, Miriam M. «Los principios generales del procedimiento disciplinario». En <italic>Derecho disciplinario iberoamericano. Homenajes &amp; Congresos</italic>. Tirant lo Blanch, 2021.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ivanega</surname>
+							<given-names>Miriam M</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Los principios generales del procedimiento disciplinario</chapter-title>
+					<source>Derecho disciplinario iberoamericano. Homenajes &amp; Congresos</source>
+					<publisher-name>Tirant lo Blanch</publisher-name>
+					<year>2021</year>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Ley de Responsabilidades Administrativas del Estado de Baja California (últ. reforma 11-04-2025) (2017). <ext-link ext-link-type="uri" xlink:href="https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20250411_LEYRESPADMTRA.PDF">https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20250411_LEYRESPADMTRA.PDF</ext-link>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Ley de Responsabilidades Administrativas del Estado de Baja California</source>
+					<comment>últ. reforma 11-04-2025</comment>
+					<year>2017</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20250411_LEYRESPADMTRA.PDF">https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_I/20250411_LEYRESPADMTRA.PDF</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Ley del Sistema Estatal Anticorrupción de Baja California (últ. reforma 26-01-2024) (2017). <ext-link ext-link-type="uri" xlink:href="https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20240126_LEYANTICORRUP.PDF">https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20240126_LEYANTICORRUP.PDF</ext-link>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Ley del Sistema Estatal Anticorrupción de Baja California</source>
+					<comment>últ. reforma 26-01-2024</comment>
+					<year>2017</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20240126_LEYANTICORRUP.PDF">https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20240126_LEYANTICORRUP.PDF</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Ley del Tribunal Estatal de Justicia Administrativa (2021). <ext-link ext-link-type="uri" xlink:href="https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20210618_LEYTRIBJUSTADMTVA-2.PDF">https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20210618_LEYTRIBJUSTADMTVA-2.PDF</ext-link>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Ley del Tribunal Estatal de Justicia Administrativa</source>
+					<year>2021</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20210618_LEYTRIBJUSTADMTVA-2.PDF">https://www.congresobc.gob.mx/Documentos/ProcesoParlamentario/Leyes/TOMO_V/20210618_LEYTRIBJUSTADMTVA-2.PDF</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Ley General de Responsabilidades Administrativas (últ. reforma 02-01-2025) (2016). <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf.">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf.</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Ley General de Responsabilidades Administrativas</source>
+					<comment>últ. reforma 02-01-2025</comment>
+					<year>2016</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf.">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf.</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Márquez Gómez, Daniel, y Beatriz Camarillo Cruz. La diasdoralogía como una teoría del fenómeno de la corrupción en México. Serie Estudios Jurídicos 331. Instituto de Investigaciones Jurídicas, UNAM, 2019. <ext-link ext-link-type="uri" xlink:href="https://biblio.juridicas.unam.mx/bjv/detalle-libro/5536-la-diasdoralogia-como-una-teoria-del-fenomeno-de-la-corrupcion-en-mexico">https://biblio.juridicas.unam.mx/bjv/detalle-libro/5536-la-diasdoralogia-como-una-teoria-del-fenomeno-de-la-corrupcion-en-mexico</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Márquez Gómez</surname>
+							<given-names>Daniel</given-names>
+						</name>
+						<name>
+							<surname>Camarillo Cruz</surname>
+							<given-names>Beatriz</given-names>
+						</name>
+					</person-group>
+					<source>La diasdoralogía como una teoría del fenómeno de la corrupción en México. Serie Estudios Jurídicos 331</source>
+					<publisher-name>Instituto de Investigaciones Jurídicas, UNAM</publisher-name>
+					<year>2019</year>
+					<ext-link ext-link-type="uri" xlink:href="https://biblio.juridicas.unam.mx/bjv/detalle-libro/5536-la-diasdoralogia-como-una-teoria-del-fenomeno-de-la-corrupcion-en-mexico">https://biblio.juridicas.unam.mx/bjv/detalle-libro/5536-la-diasdoralogia-como-una-teoria-del-fenomeno-de-la-corrupcion-en-mexico</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Naciones Unidas. «Objetivo 16: Promover sociedades justas, pacíficas e inclusivas». Objetivos de Desarrollo Sostenible, s/f. <ext-link ext-link-type="uri" xlink:href="https://www.un.org/sustainabledevelopment/es/peace-justice/">https://www.un.org/sustainabledevelopment/es/peace-justice/</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Naciones Unidas</collab>
+					</person-group>
+					<source>Objetivo 16: Promover sociedades justas, pacíficas e inclusivas</source>
+					<comment>Objetivos de Desarrollo Sostenible</comment>
+					<ext-link ext-link-type="uri" xlink:href="https://www.un.org/sustainabledevelopment/es/peace-justice/">https://www.un.org/sustainabledevelopment/es/peace-justice/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Navarro Cardoso, Fernando. «A vueltas con la vieja delimitación entre ilícito administrativo e ilícito penal, a propósito de algunos nuevos problemas». En <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>. Monografías Maior. Tirant lo Blanch, 2025.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Navarro Cardoso</surname>
+							<given-names>Fernando</given-names>
+						</name>
+					</person-group>
+					<chapter-title>A vueltas con la vieja delimitación entre ilícito administrativo e ilícito penal, a propósito de algunos nuevos problemas</chapter-title>
+					<source>Debates actuales del derecho disciplinario en Iberoamérica</source>
+					<publisher-name>Monografías Maior. Tirant lo Blanch</publisher-name>
+					<year>2025</year>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Olmeda García, Marina del Pilar. <italic>Ética profesional en el ejercicio del derecho</italic>. 1<sup>a</sup> ed. Universidad Autónoma de Baja California, 2020.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Olmeda García</surname>
+							<given-names>Marina del Pilar</given-names>
+						</name>
+					</person-group>
+					<source>Ética profesional en el ejercicio del derecho</source>
+					<edition>1a</edition>
+					<publisher-name>Universidad Autónoma de Baja California</publisher-name>
+					<year>2020</year>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Padilla Sanabria, Lizbeth Xóchitl. «La reinserción administrativa: la inconvencionalidad e inconstitucionalidad de las sanciones disciplinarias inusitadas». En <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>. Monografías Maior. Tirant lo Blanch, 2025.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Padilla Sanabria</surname>
+							<given-names>Lizbeth Xóchitl</given-names>
+						</name>
+					</person-group>
+					<chapter-title>La reinserción administrativa: la inconvencionalidad e inconstitucionalidad de las sanciones disciplinarias inusitadas</chapter-title>
+					<source>Debates actuales del derecho disciplinario en Iberoamérica</source>
+					<publisher-name>Monografías Maior. Tirant lo Blanch</publisher-name>
+					<year>2025</year>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Pereyra, Sergio Paulo. «El principio de legalidad en el procedimiento disciplinario y en el proceso penal. A propósito de las voces de la doctrina y de la Corte Interamericana de Derechos Humanos». En <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>. Monografías Maior. Tirant lo Blanch, 2025.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pereyra</surname>
+							<given-names>Sergio Paulo</given-names>
+						</name>
+					</person-group>
+					<chapter-title>El principio de legalidad en el procedimiento disciplinario y en el proceso penal. A propósito de las voces de la doctrina y de la Corte Interamericana de Derechos Humanos</chapter-title>
+					<source>Debates actuales del derecho disciplinario en Iberoamérica</source>
+					<publisher-name>Monografías Maior. Tirant lo Blanch</publisher-name>
+					<year>2025</year>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Reyna Alfaro, Luis Miguel. «Derecho administrativo sancionador, derecho disciplinario y derecho penal conexiones, convergencias y divergencias». En <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>. Monografías Maior. Tirant lo Blanch, 2025.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Reyna Alfaro</surname>
+							<given-names>Luis Miguel</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Derecho administrativo sancionador, derecho disciplinario y derecho penal conexiones, convergencias y divergencias</chapter-title>
+					<source>Debates actuales del derecho disciplinario en Iberoamérica</source>
+					<publisher-name>Monografías Maior. Tirant lo Blanch</publisher-name>
+					<year>2025</year>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Rodríguez Sánchez, Rodrigo. «La corrupción en México y su régimen de responsabilidades administrativas para servidores públicos». <italic>En</italic> 
+ <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>. Monografías Maior. Tirant lo Blanch, 2025.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodríguez Sánchez</surname>
+							<given-names>Rodrigo</given-names>
+						</name>
+					</person-group>
+					<chapter-title>La corrupción en México y su régimen de responsabilidades administrativas para servidores públicos</chapter-title>
+					<source>Debates actuales del derecho disciplinario en Iberoamérica</source>
+					<publisher-name>Monografías Maior. Tirant lo Blanch</publisher-name>
+					<year>2025</year>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Tesis: 2a./J. 47/2020 (10a.), Registro digital: 2022311 (Segunda Sala SCJN octubre de 2020). <ext-link ext-link-type="uri" xlink:href="https://sjf2.scjn.gob.mx/detalle/tesis/2022311">https://sjf2.scjn.gob.mx/detalle/tesis/2022311</ext-link>. Décima Época.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis: 2a./J. 47/2020 (10a.)</comment>
+					<source>Registro digital: 2022311</source>
+					<month>10</month>
+					<year>2020</year>
+					<ext-link ext-link-type="uri" xlink:href="https://sjf2.scjn.gob.mx/detalle/tesis/2022311">https://sjf2.scjn.gob.mx/detalle/tesis/2022311</ext-link>
+					<comment>Décima Época</comment>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Tesis I.11o.A.38 A (11a.), Registro digital: 2030853 (Tribunales Colegiados de Circuito agosto de 2025). <ext-link ext-link-type="uri" xlink:href="https://sjf2.scjn.gob.mx/detalle/tesis/2030853">https://sjf2.scjn.gob.mx/detalle/tesis/2030853</ext-link>. Undécima Época.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis I.11o.A.38 A (11a.)</comment>
+					<source>Registro digital: 2030853</source>
+					<month>08</month>
+					<year>2025</year>
+					<ext-link ext-link-type="uri" xlink:href="https://sjf2.scjn.gob.mx/detalle/tesis/2030853">https://sjf2.scjn.gob.mx/detalle/tesis/2030853</ext-link>
+					<comment>Undécima Época</comment>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Tesis III.7o.A.34 A (10a.), Registro digital: 2020089 (Tribunales Colegiados de Circuito junio de 2019). <ext-link ext-link-type="uri" xlink:href="https://sjf2.scjn.gob.mx/detalle/tesis/2020089">https://sjf2.scjn.gob.mx/detalle/tesis/2020089</ext-link>. Décima Época.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis III.7o.A.34 A (10a.)</comment>
+					<source>Registro digital: 2020089</source>
+					<month>06</month>
+					<year>2019</year>
+					<ext-link ext-link-type="uri" xlink:href="https://sjf2.scjn.gob.mx/detalle/tesis/2020089">https://sjf2.scjn.gob.mx/detalle/tesis/2020089</ext-link>
+					<comment>Décima Época</comment>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Tesis PC.I.A. J/177 A (10a.), Registro digital: 2023540 (Plenos de Circuito septiembre de 2021). <ext-link ext-link-type="uri" xlink:href="https://sjf2.scjn.gob.mx/detalle/tesis/2023540">https://sjf2.scjn.gob.mx/detalle/tesis/2023540</ext-link>. Undécima Época.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis PC.I.A. J/177 A (10a.)</comment>
+					<source>Registro digital: 2023540</source>
+					<month>09</month>
+					<year>2021</year>
+					<ext-link ext-link-type="uri" xlink:href="https://sjf2.scjn.gob.mx/detalle/tesis/2023540">https://sjf2.scjn.gob.mx/detalle/tesis/2023540</ext-link>
+					<comment>Undécima Época</comment>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Tesis P./J. 43/2014 (10a.), Registro digital: 2006590 (Pleno SCJN junio de 2014). <ext-link ext-link-type="uri" xlink:href="https://sjf.scjn.gob.mx/">https://sjf.scjn.gob.mx/</ext-link>. Décima Época.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis P./J. 43/2014 (10a.)</comment>
+					<source>Registro digital: 2006590</source>
+					<month>06</month>
+					<year>2014</year>
+					<ext-link ext-link-type="uri" xlink:href="https://sjf.scjn.gob.mx/">https://sjf.scjn.gob.mx/</ext-link>
+					<comment>Décima Época</comment>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Uribe Manríquez, Alfredo René. <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>. Monografías Maior. Tirant lo Blanch, 2025.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Uribe Manríquez</surname>
+							<given-names>Alfredo René</given-names>
+						</name>
+					</person-group>
+					<source>Debates actuales del derecho disciplinario en Iberoamérica</source>
+					<publisher-name>Monografías Maior. Tirant lo Blanch</publisher-name>
+					<year>2025</year>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Valencia Díaz, Mónica de los Ángeles, y Alicia Catalina Valencia Díaz. «La multiplicidad procedimental en el combate a la corrupción en México. ¿Problema o solución?» En <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>. Monografías Maior. Tirant lo Blanch, 2025.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Valencia Díaz</surname>
+							<given-names>Mónica de los Ángeles</given-names>
+						</name>
+						<name>
+							<surname>Valencia Díaz</surname>
+							<given-names>Alicia Catalina</given-names>
+						</name>
+					</person-group>
+					<chapter-title>La multiplicidad procedimental en el combate a la corrupción en México. ¿Problema o solución?</chapter-title>
+					<source>Debates actuales del derecho disciplinario en Iberoamérica</source>
+					<publisher-name>Monografías Maior. Tirant lo Blanch</publisher-name>
+					<year>2025</year>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Villabella Armengol, Carlos Manuel. «Los métodos en la investigación jurídica. Algunas precisiones». En <italic>Pasos hacia la revolución en la enseñanza del derecho en el sistema romano-germánico</italic>, Primera edición, Tomo 4. Serie Versiones de Autor, Núm. 17. Instituto de Investigaciones Jurídicas, UNAM, 2020. <ext-link ext-link-type="uri" xlink:href="https://archivos.juridicas.unam.mx/www/bjv/libros/13/6226/1a.pdf">https://archivos.juridicas.unam.mx/www/bjv/libros/13/6226/1a.pdf</ext-link>.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Villabella Armengol</surname>
+							<given-names>Carlos Manuel</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Los métodos en la investigación jurídica. Algunas precisiones</chapter-title>
+					<source>Pasos hacia la revolución en la enseñanza del derecho en el sistema romano-germánico</source>
+					<edition>Primera edición</edition>
+					<comment>Tomo 4. Serie Versiones de Autor</comment>
+					<issue>17</issue>
+					<publisher-name>Instituto de Investigaciones Jurídicas, UNAM</publisher-name>
+					<year>2020</year>
+					<ext-link ext-link-type="uri" xlink:href="https://archivos.juridicas.unam.mx/www/bjv/libros/13/6226/1a.pdf">https://archivos.juridicas.unam.mx/www/bjv/libros/13/6226/1a.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Villavicencio Benites, Luis Fernando. Análisis del régimen de responsabilidad objetiva en el procedimiento administrativo sancionador en materia de contrataciones del Estado: ¿Es viable plantear la responsabilidad subjetiva en todos los tipos infractores? Pontificia Universidad Católica del Perú, 10 de noviembre de 2023. <ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/20.500.12404/26391">http://hdl.handle.net/20.500.12404/26391</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Villavicencio Benites</surname>
+							<given-names>Luis Fernando</given-names>
+						</name>
+					</person-group>
+					<source>Análisis del régimen de responsabilidad objetiva en el procedimiento administrativo sancionador en materia de contrataciones del Estado: ¿Es viable plantear la responsabilidad subjetiva en todos los tipos infractores?</source>
+					<publisher-name>Pontificia Universidad Católica del Perú</publisher-name>
+					<day>10</day>
+					<month>11</month>
+					<year>2023</year>
+					<ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/20.500.12404/26391">http://hdl.handle.net/20.500.12404/26391</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Witker Velásquez, Jorge Alberto. Metodología de la investigación jurídica. 1<sup>a</sup>. ed. Instituto de Investigaciones Jurídicas, UNAM, 2021. <ext-link ext-link-type="uri" xlink:href="https://archivos.juridicas.unam.mx/www/bjv/libros/14/6818/16.pdf">https://archivos.juridicas.unam.mx/www/bjv/libros/14/6818/16.pdf</ext-link>.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Witker Velásquez</surname>
+							<given-names>Jorge Alberto</given-names>
+						</name>
+					</person-group>
+					<source>Metodología de la investigación jurídica</source>
+					<edition>1a</edition>
+					<publisher-name>Instituto de Investigaciones Jurídicas, UNAM</publisher-name>
+					<year>2021</year>
+					<ext-link ext-link-type="uri" xlink:href="https://archivos.juridicas.unam.mx/www/bjv/libros/14/6818/16.pdf">https://archivos.juridicas.unam.mx/www/bjv/libros/14/6818/16.pdf</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Fernando Manuel Castro Figueroa</xref> et al., «El necesario fortalecimiento de la cultura de la legalidad para la contención de la violencia y la prevención del delito», <italic>Revista Jurídica Jalisciense</italic> 3, n.<sup>o</sup> 5 (2022): 65-93, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.32870/rjj.v3i5.116">https://doi.org/10.32870/rjj.v3i5.116</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>
+					<xref ref-type="bibr" rid="B20">Naciones Unidas</xref>, «Objetivo 16: Promover sociedades justas, pacíficas e inclusivas», Objetivos de Desarrollo Sostenible, s/f.</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>
+					<xref ref-type="bibr" rid="B22">Marina del Pilar Olmeda García</xref>, <italic>Ética profesional en el ejercicio del derecho</italic>, 1<sup>a</sup> ed. (Universidad Autónoma de Baja California, 2020), 271.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>
+					<xref ref-type="bibr" rid="B11">Luis Humberto Delgadillo Gutiérrez y Manuel Lucero Espino</xref>sa, <italic>Compendio de Derecho Administrativo</italic>, 9<sup>a</sup> ed. (Porrúa, 2012).</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>
+					<xref ref-type="bibr" rid="B8">Constitución Política de los Estados Unidos Mexicanos</xref> (últ. reforma 15-04-2025) (1917), <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf. Artículo 108 y ss">https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf. Artículo 108 y ss</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>
+					<xref ref-type="bibr" rid="B18">Ley General de Responsabilidades Administrativas</xref> (últ. reforma 02-01-2025) (2016). Artículo 1.</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>
+					<xref ref-type="bibr" rid="B9">Constitución Política del Estado Libre y Soberano de Baja California</xref> (últ. reforma 13-06-2025) (1953).</p>
+			</fn>
+			<fn fn-type="other" id="fn8">
+				<label>8</label>
+				<p>
+					<xref ref-type="bibr" rid="B15">Ley de Responsabilidades Administrativas del Estado de Baja California</xref> (últ. reforma 11-04-2025) (2017). Artículo 1.</p>
+			</fn>
+			<fn fn-type="other" id="fn9">
+				<label>9</label>
+				<p>
+					<xref ref-type="bibr" rid="B26">Rodrigo Rodríguez Sánchez</xref>, «La corrupción en México y su régimen de responsabilidades administrativas para servidores públicos», en <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>, Monografías Maior (Tirant lo Blanch, 2025), 537-41.</p>
+			</fn>
+			<fn fn-type="other" id="fn10">
+				<label>10</label>
+				<p>
+					<xref ref-type="bibr" rid="B30">Tesis PC.I.A. J/177 A</xref> (10a.), Registro digital: 2023540 (Plenos de Circuito septiembre de 2021).</p>
+			</fn>
+			<fn fn-type="other" id="fn11">
+				<label>11</label>
+				<p>
+					<xref ref-type="bibr" rid="B27">Tesis: 2a./J. 47/2020</xref> (10a.), Registro digital: 2022311 (Segunda Sala SCJN octubre de 2020).</p>
+			</fn>
+			<fn fn-type="other" id="fn12">
+				<label>12</label>
+				<p>
+					<xref ref-type="bibr" rid="B15">Ley de Responsabilidades Administrativas del Estado de Baja California</xref> (últ. reforma 11-04-2025). Artículo 3, fracción III.</p>
+			</fn>
+			<fn fn-type="other" id="fn13">
+				<label>13</label>
+				<p>
+					<xref ref-type="bibr" rid="B23">Lizbeth Xóchitl Padilla Sanabria</xref>, «La reinserción administrativa: la inconvencionalidad e inconstitucionalidad de las sanciones disciplinarias inusitadas», en <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>, Monografías Maior (Tirant lo Blanch, 2025), 321.</p>
+			</fn>
+			<fn fn-type="other" id="fn14">
+				<label>14</label>
+				<p>
+					<xref ref-type="bibr" rid="B16">Ley del Sistema Estatal Anticorrupción de Baja California</xref> (últ. reforma 26-01-2024) (2017). Artículo 1.</p>
+			</fn>
+			<fn fn-type="other" id="fn15">
+				<label>15</label>
+				<p>
+					<xref ref-type="bibr" rid="B17">Ley del Tribunal Estatal de Justicia Administrativa</xref> (2021). Artículo 1.</p>
+			</fn>
+			<fn fn-type="other" id="fn16">
+				<label>16</label>
+				<p>
+					<xref ref-type="bibr" rid="B36">Jorge Alberto Witker Velásquez</xref>, <italic>Metodología de la investigación jurídica</italic>, 1a. ed. (Instituto de Investigaciones Jurídicas, UNAM, 2021), 15.</p>
+			</fn>
+			<fn fn-type="other" id="fn17">
+				<label>17</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">Roberto Hernández Sampieri</xref> et al., <italic>Metodología de la investigación</italic>, 6<sup>a</sup> ed. (McGraw-Hill Interamericana, 2014), 15.</p>
+			</fn>
+			<fn fn-type="other" id="fn18">
+				<label>18</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">Hernández Sampieri</xref> et al., <italic>Metodología de la investigación</italic>., 15.</p>
+			</fn>
+			<fn fn-type="other" id="fn19">
+				<label>19</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">Hernández Sampieri</xref> et al., <italic>Metodología de la investigación</italic>., 16.</p>
+			</fn>
+			<fn fn-type="other" id="fn20">
+				<label>20</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">Hernández Sampieri</xref> et al., <italic>Metodología de la investigación</italic>., 91-95.</p>
+			</fn>
+			<fn fn-type="other" id="fn21">
+				<label>21</label>
+				<p>
+					<xref ref-type="bibr" rid="B33">Mónica de los Ángeles Valencia Díaz y Alicia Catalina Valencia Díaz</xref>, «La multiplicidad procedimental en el combate a la corrupción en México. ¿Problema o solución?», en <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>, Monografías Maior (Tirant lo Blanch, 2025).</p>
+			</fn>
+			<fn fn-type="other" id="fn22">
+				<label>22</label>
+				<p>
+					<xref ref-type="bibr" rid="B36">Witker Velásquez</xref>, <italic>Metodología de la investigación jurídica</italic>., 3.</p>
+			</fn>
+			<fn fn-type="other" id="fn23">
+				<label>23</label>
+				<p>
+					<xref ref-type="bibr" rid="B34">Carlos Manuel Villabella Armengol</xref>, «Los métodos en la investigación jurídica. Algunas precisiones», en <italic>Pasos hacia la revolución en la enseñanza del derecho en el sistema romano-germánico</italic>, Primera edición, Tomo 4, Serie Versiones de Autor, Núm. 17 (Instituto de Investigaciones Jurídicas, UNAM, 2020).</p>
+			</fn>
+			<fn fn-type="other" id="fn24">
+				<label>24</label>
+				<p>
+					<xref ref-type="bibr" rid="B36">Witker Velásquez</xref>, <italic>Metodología de la investigación jurídica</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn25">
+				<label>25</label>
+				<p>
+					<xref ref-type="bibr" rid="B36">Witker Velásquez</xref>, <italic>Metodología de la investigación jurídica</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn26">
+				<label>26</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">Hernández Sampieri</xref> et al., <italic>Metodología de la investigación</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn27">
+				<label>27</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">Hernández Sampieri</xref> et al., <italic>Metodología de la investigación</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn28">
+				<label>28</label>
+				<p>
+					<xref ref-type="bibr" rid="B24">Sergio Paulo Pereyra</xref>, «El principio de legalidad en el procedimiento disciplinario y en el proceso penal. A propósito de las voces de la doctrina y de la Corte Interamericana de Derechos Humanos», en <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>, Monografías Maior (Tirant lo Blanch, 2025).</p>
+			</fn>
+			<fn fn-type="other" id="fn29">
+				<label>29</label>
+				<p>
+					<xref ref-type="bibr" rid="B12">Carlos Arturo Gómez Pavajeau</xref>, «Derecho disciplinario y derechos humanos ¿su naturaleza la define la sustancialidad de los derechos o la formalidad de la potestad doméstica del derecho administrativo?», en <italic>Derecho disciplinario iberoamericano</italic>, Monografías Maior (Tirant lo Blanch, 2021).</p>
+			</fn>
+			<fn fn-type="other" id="fn30">
+				<label>30</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">Miriam M. Ivanega</xref>, «Los principios generales del procedimiento disciplinario», en <italic>Derecho disciplinario iberoamericano</italic>, Homenajes &amp; Congresos (Tirant lo Blanch, 2021).</p>
+			</fn>
+			<fn fn-type="other" id="fn31">
+				<label>31</label>
+				<p>
+					<xref ref-type="bibr" rid="B32">Alfredo René Uribe Manríquez</xref>, <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>, Monografías Maior (Tirant lo Blanch, 2025).</p>
+			</fn>
+			<fn fn-type="other" id="fn32">
+				<label>32</label>
+				<p>
+					<xref ref-type="bibr" rid="B21">Fernando Navarro Cardoso</xref>, «A vueltas con la vieja delimitación entre ilícito administrativo e ilícito penal, a propósito de algunos nuevos problemas», en <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>, Monografías Maior (Tirant lo Blanch, 2025).</p>
+			</fn>
+			<fn fn-type="other" id="fn33">
+				<label>33</label>
+				<p>
+					<xref ref-type="bibr" rid="B25">Luis Miguel Reyna Alfaro</xref>, «Derecho administrativo sancionador, derecho disciplinario y derecho penal conexiones, convergencias y divergencias», en <italic>Debates actuales del derecho disciplinario en Iberoamérica</italic>, Monografías Maior (Tirant lo Blanch, 2025).</p>
+			</fn>
+			<fn fn-type="other" id="fn34">
+				<label>34</label>
+				<p>
+					<xref ref-type="bibr" rid="B35">Luis Fernando Villavicencio Benites</xref>, <italic>Análisis del régimen de responsabilidad objetiva en el procedimiento administrativo sancionador en materia de contrataciones del Estado: ¿Es viable plantear la responsabilidad subjetiva en todos los tipos infractores?</italic>, Pontificia Universidad Católica del Perú, 10 de noviembre de 2023.</p>
+			</fn>
+			<fn fn-type="other" id="fn35">
+				<label>35</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">Alberto Alfaro-Alvarado</xref>, «Procedimiento administrativo sancionador y motivación de las resoluciones sancionadoras», preprint, SciELO Preprints, 19 de julio de 2024, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/SciELOPreprints.9212">https://doi.org/10.1590/SciELOPreprints.9212</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn36">
+				<label>36</label>
+				<p>
+					<xref ref-type="bibr" rid="B2">Iván Fernando Andrade-Arrieta</xref> et al., «La etapa de instrucción del procedimiento administrativo sancionador del gobierno administrativo descentralizado de Riobamba, Ecuador», <italic>IUSTITIA SOCIALIS</italic> 7, n.<sup>o</sup> 2 (s. f.): 134-52, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.35381/racji.v7i2.2008, 151">https://doi.org/10.35381/racji.v7i2.2008, 151</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn37">
+				<label>37</label>
+				<p>
+					<xref ref-type="bibr" rid="B3">André Bordalí Salamanca</xref>, «El debido procedimiento administrativo sancionador», <italic>Revista de Derecho Administrativo</italic>, n.<sup>o</sup> 37 (julio de 2023): 33-66, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7764/redae.37.2, 63">https://doi.org/10.7764/redae.37.2, 63</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn38">
+				<label>38</label>
+				<p>
+					<xref ref-type="bibr" rid="B4">Solange Marianella Carbajal Fierro</xref>, «Controlando al controlador: expresiones y límites de la potestad sancionadora la administración pública en el caso de la Contraloría General de la República», <italic>Vox Juris</italic> 43, n.<sup>o</sup> 2 (2025): 172-78, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.24265/voxjuris.2025.v43n2.13, 177">https://doi.org/10.24265/voxjuris.2025.v43n2.13, 177</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn39">
+				<label>39</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">André Jesús Castañeda Hidalgo</xref>, «La subsanación de la infracción en el procedimiento sancionador de la Contraloría General: una reflexión desde el principio de buena administración en el derecho peruano», <italic>Revista Digital de Derecho Administrativo</italic>, n.<sup>o</sup> 32 (junio de 2024): 211-42, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.18601/21452946.n32.09, 239">https://doi.org/10.18601/21452946.n32.09, 239</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn40">
+				<label>40</label>
+				<p>
+					<xref ref-type="bibr" rid="B7">Gabriel Celis-Danzinger</xref>, «Valor probatorio del documento electrónico en el procedimiento administrativo sancionador en Chile», <italic>Jurídicas CUC</italic> 20, n.<sup>o</sup> 1 (2024): 157-78, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17981/juridcuc.20.1.2024.06">https://doi.org/10.17981/juridcuc.20.1.2024.06</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn41">
+				<label>41</label>
+				<p>
+					<xref ref-type="bibr" rid="B10">Rudy Alder Daga-Saravia y Rosa Karina Gonzales-Medina</xref>, «Tipificación de las faltas y su incidencia en los procedimientos administrativos disciplinarios: el caso de un gobierno local peruano», <italic>Jurídicas</italic> 20, n.<sup>o</sup> 2 (2023): 243-65, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.17151/jurid.2023.20.2.13">https://doi.org/10.17151/jurid.2023.20.2.13</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn42">
+				<label>42</label>
+				<p>
+					<xref ref-type="bibr" rid="B31">Tesis P./J. 43/2014</xref> (10a.), Registro digital: 2006590 (Pleno SCJN junio de 2014).</p>
+			</fn>
+			<fn fn-type="other" id="fn43">
+				<label>43</label>
+				<p>
+					<xref ref-type="bibr" rid="B29">Tesis III.7o.A.34 A</xref> (10a.), Registro digital: 2020089 (Tribunales Colegiados de Circuito junio de 2019).</p>
+			</fn>
+			<fn fn-type="other" id="fn44">
+				<label>44</label>
+				<p>
+					<xref ref-type="bibr" rid="B36">Witker Velásquez</xref>, <italic>Metodología de la Investigación Jurídica</italic>, 93.</p>
+			</fn>
+			<fn fn-type="other" id="fn45">
+				<label>45</label>
+				<p>
+					<xref ref-type="bibr" rid="B28">Tesis I.11o.A.38 A</xref> (11a.), Registro digital: 2030853 (Tribunales Colegiados de Circuito agosto de 2025).</p>
+			</fn>
+			<fn fn-type="other" id="fn46">
+				<label>46</label>
+				<p>
+					<xref ref-type="bibr" rid="B19">Daniel Márquez Gómez y Beatriz Camarillo Cruz</xref>, <italic>La diasdoralogía como una teoría del fenómeno de la corrupción en México</italic>, Serie Estudios Jurídicos 331 (Instituto de Investigaciones Jurídicas, UNAM, 2019), 149.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front><journal-meta><journal-id journal-id-type="publisher-id">SANUS</journal-id><journal-title-group><journal-title>Sanus</journal-title><abbrev-journal-title abbrev-type="publisher">SANUS</abbrev-journal-title></journal-title-group><issn pub-type="epub">2448-6094</issn><publisher><publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud, Departamento de enfermería</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.36789/sanusrevenf.vi21.561</article-id><article-id pub-id-type="other">00304</article-id><article-categories><subj-group subj-group-type="heading"><subject>Revisión</subject></subj-group></article-categories><title-group><article-title>Efectividad de la auriculoterapia para reducción del estrés en personal de salud: una revisión sistemática</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0002-0832-7900</contrib-id><name><surname>Valenzuela-Urrea</surname><given-names>Gema Estefanía</given-names></name><xref ref-type="aff" rid="aff1"/><role>Maestra en Ciencias de Enfermería</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0003-0092-0221</contrib-id><name><surname>Ahumada-Cortez</surname><given-names>Jesica Guadalupe</given-names></name><xref ref-type="aff" rid="aff1"/><role>Doctora en Ciencias de Enfermería</role><xref ref-type="corresp" rid="c1"><sup>*</sup></xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0001-8470-4782</contrib-id><name><surname>Gámez-Medina</surname><given-names>Mario Enrique</given-names></name><xref ref-type="aff" rid="aff1"/><role>Doctor en Ciencias de Enfermería</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0002-8144-3457</contrib-id><name><surname>Apodaca-Armenta</surname><given-names>Rosario Eduardo</given-names></name><xref ref-type="aff" rid="aff1"/><role>Doctor en Ciencias de Enfermería</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0002-3034-5443</contrib-id><name><surname>Gómez-Rodríguez</surname><given-names>Gustavo Alfredo</given-names></name><xref ref-type="aff" rid="aff1"/><role>Doctor en Ciencias de Enfermería</role></contrib><aff id="aff1"><label>1</label><institution content-type="original">Universidad Autónoma de Sinaloa, Facultad de Enfermería los Mochis, Los Mochis, Sinaloa, México</institution><institution content-type="orgname">Universidad Autónoma de Sinaloa</institution><institution content-type="orgdiv1">Facultad de Enfermería los Mochis</institution><addr-line><city>Los Mochis</city><state>Sinaloa</state></addr-line><country country="MX">México</country></aff></contrib-group><author-notes><corresp id="c1"><label>*</label>Autor para correspondencia: Jesica Guadalupe Ahumada-Cortez Correo-e: <email>jesica.ahumada.cortez@uas.edu.mx</email></corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>04</day><month>02</month><year>2026</year></pub-date><pub-date date-type="collection" publication-format="electronic"><season>Jan-Dec</season><year>2025</year></pub-date><volume>10</volume><issue>21</issue><elocation-id>e561</elocation-id><history><date date-type="received"><day>08</day><month>02</month><year>2025</year></date><date date-type="accepted"><day>16</day><month>09</month><year>2025</year></date></history><permissions><license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es"><license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p></license></permissions><abstract><title>Resumen</title><p>Para la elaboración de la presente revisión sistemática se siguieron los pasos del Manual Cochrane; a) Formular pregunta y desarrollo de los criterios de inclusión, b) Búsqueda de estudios, c) Selección de estudios y obtención de los datos, d) Evaluación del riesgo de sesgo en los estudios incluidos, e) Análisis de datos, f) Análisis de sesgo de informe, g) Presentación de los resultados, e h) Interpretación de los resultados y conclusiones.En un primer lugar se emplearon los componentes Población, Intervención y Outcomes/resultados (PIO) para la formulación de la pregunta de investigación. Los elementos de la pregunta fueron identificados como: P= Personal de Salud, I= Auriculoterapia y O= Reducción del estrés. Es por ello, que la pregunta de revisión sistemática fue ¿Cuál es la efectividad de la auriculoterapia para la reducción del estrés en personal de salud de acuerdo a la mejor evidencia disponible?Se incluyeron Ensayos Clínicos Aleatorios (ECA) entre 2012 y 2022 publicados en revistas indexadas en idioma español, portugués e inglés y estudios que incluyeron las variables de auriculoterapia y estrés en personal de salud. Se excluyeron artículos de metodología poco clara y dudosa, estudios de literatura gris (informes, documentos de trabajo, tesis, documentos gubernamentales) y estudios duplicados en las diferentes bases de datos.Para la estrategia de búsqueda, se utilizaron las bases de datos LILACS, PubMed, Cochrane Library, Scielo, Cochrane Library, Biblioteca Virtual en Salud (BVS) y en el buscador Google Académico. Se emplearon los operadores booleanos AND y OR, junto con los descriptores identificados en Medical Subject Headings (MeSH) y Descriptores en Ciencias de la Salud (DeCS). Las combinaciones empleadas fueron: Auriculotherapy AND stress AND nursing AND clinical trial, acupressure OR auriculotherapy AND stress AND nursing AND health personnel, y auriculotherapy OR ear acupuncture OR auricular acupuncture AND psychological stress OR stress.Se identificaron un total de 249 artículos. Eliminándose aquellos que no cumplieron con los criterios de selección. Durante el análisis de la información se realizó lectura crítica y evaluación de los estudios mediante la lista de verificación de evaluación crítica del Joanna Briggs Institute(21)para ECA. Posteriormente se seleccionaron 10 estudios, llevando a cabo una síntesis descriptiva de sus hallazgos, lo que permitió detallar sus características, considerando al autor, año de publicación, país, objetivos, hipótesis, muestra, resultados obtenidos, tasa de abandono de los participantes y efectividad de las intervenciones. Por último, se incluyó el diagrama de flujo PRISMA 2020, (Figura 1).Identificación de estudios a través de bases de datos y registrosFigura 1. Diagrama de flujo PRISMA, 2024Registros identificados en bases de datos (N= 249)LILACS (n= 11)Pubmed (n= 9)SciELO (n= 14)Cochrane Library (n= 33)BVS (n= 113)Google Académico (n= 69)blioteca Virtual en Salud (BVS) y Cochrane LibraryIncluidosRegistros examinados (n= 221)Registros evaluados para elegibilidad(n= 23)Estudios incluidos en la revisión(n= 10)Registros buscados para recuperar (n= 0)IdentificaciónRegistros eliminados antes de la selección: 0Registros duplicados eliminados (n= 28)Registros excluidos con la lectura del título y resumen (n= 198)Informes no recuperados (n= 0)Cribado y ElegibilidadRegistros excluidosArtículos excluidos por la evaluación metodológica (n= 13)Fuente: Elaboración propia</p></abstract><kwd-group xml:lang="es"><title>Palabras clave:</title><kwd>Estrés laboral</kwd><kwd>Auriculoterapia</kwd><kwd>Acupuntura</kwd><kwd>Equipo de enfermería</kwd><kwd>Personal de salud</kwd><kwd>Salud ocupacional</kwd></kwd-group><funding-group><award-group><funding-source>Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI)</funding-source><award-id>1109514</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="7"/><equation-count count="0"/><ref-count count="34"/></counts></article-meta></front>
+<body><sec id="sec1" sec-type="intro">
+<title>Introducción</title>
+<p>Una de las principales funciones del personal de salud es brindar
+  cuidados y atención de calidad. Sin embargo, esta responsabilidad
+  puede desencadenar altos niveles de estrés <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>. El estrés
+  que afecta la salud mental del personal de salud es un problema
+  relevante y preocupante que conlleva desafíos culturales, económicos y
+  sociales <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>. Afecta negativamente la calidad, eficiencia y
+  productividad laboral, lo que resulta en una disminución de la
+  satisfacción de los pacientes <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>. Además, genera estados
+  crónicos que afectan al cuerpo, la mente, la vida personal, familiar y
+  educativa de quienes lo padecen <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>.</p>
+<p>El personal de salud a nivel mundial suele experimentar niveles de
+  estrés hasta un 25.8 % más altos que los observados en la población
+  general <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>. Mientras que, en países de Latinoamérica, en
+  promedio el 60 % presenta estrés relacionado a condiciones laborales
+  <xref ref-type="bibr" rid="B4"><sup>4</sup></xref>. Cabe destacar que, el personal de salud se encuentra
+  expuesto a diversos desafíos, que incluyen las relaciones
+  interprofesionales, el manejo del sufrimiento, dolor, muerte de los
+  pacientes, la falta de insumos, materiales y equipos, la alta demanda,
+  las largas jornadas laborales, situaciones de violencia, bajos
+  salarios y condiciones laborales precarias <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref>. Además,
+  la falta de oportunidades de crecimiento, el mal liderazgo de
+  superiores y la alta exposición a enfermedades infecciosas o
+  sustancias constituyen factores de riesgo que desencadenan altos
+  niveles de estrés <xref ref-type="bibr" rid="B7"><sup>7</sup></xref>. El estrés es una respuesta innata y
+  natural del organismo frente a amenazas y estímulos desafiantes, que
+  puede presentarse en diferentes grados <xref ref-type="bibr" rid="B8"><sup>8</sup></xref> es capaz de
+  generar respuestas fisiológicas y psicológicas que alteran el estado
+  normal del organismo <xref ref-type="bibr" rid="B9"><sup>9</sup></xref>.</p>
+<p>La presencia de estímulos estresantes genera un mecanismo
+  adaptativo de supervivencia que desencadena la liberación de hormonas
+  como la epinefrina y la norepinefrina, las cuales incrementan la
+  presión arterial, la frecuencia cardíaca y los niveles de glucosa en
+  sangre <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>. Además, su manifestación recurrente puede
+  impactar negativamente y contribuir a la aparición de problemas de
+  salud <xref ref-type="bibr" rid="B11"><sup>11</sup></xref>. Estos incluyen dolor corporal, falta de
+  energía, cambios en los hábitos alimenticios, problemas del sueño,
+  enfermedades del corazón, ansiedad, migrañas, adicciones y obesidad
+  <xref ref-type="bibr" rid="B12"><sup>12</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B13"><sup>13</sup></xref>. Considerando este contexto, las Prácticas
+  Integrativas y Complementarias de Salud (PICS) son un conjunto
+  enfoques terapéuticos, servicios y métodos dentro del cuidado de la
+  salud que se orientan hacia un enfoque holístico <xref ref-type="bibr" rid="B14"><sup>14</sup></xref>.
+  Promueven medidas diseñadas para reducir los niveles de estrés y
+  mejorar el estado de bienestar general del organismo
+  <xref ref-type="bibr" rid="B5"><sup>5</sup></xref>.</p>
+<p>Dentro de las PICS, se encuentra la auriculoterapia una técnica de
+  la medicina tradicional China (MTC) <xref ref-type="bibr" rid="B6"><sup>6</sup></xref> que funciona a
+  través de la estimulación de puntos específicos en el oído
+  <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>. Estos puntos corresponden a diferentes partes del
+  organismo y su estimulación es capaz producir respuestas fisiológicas
+  como la liberación de neurotransmisores, que logran mejorar el estado
+  de ánimo, aliviar el dolor o participar en otras funciones corporales,
+  la liberación de citocinas, que optimiza la función del sistema
+  inmunológico, así como reducir la inflamación en el cuerpo y la
+  activación de reflejos neurológicos que favorecen el equilibrio del
+  organismo <xref ref-type="bibr" rid="B16"><sup>16</sup></xref>.</p>
+<p>La auriculoterapia es eficaz en el tratamiento del estrés
+  <xref ref-type="bibr" rid="B16"><sup>16</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B17"><sup>17</sup></xref>. Está respaldada por diversos estudios que han
+  demostrado su efectividad, orientando acciones y estrategias
+  específicamente hacia el personal de salud <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18 B19 B20"><sup>18-20</sup></xref>. Es un
+  tratamiento simple, fácil de aplicar, económico y con poco o ningún
+  efecto secundario <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>.</p>
+<p>En la revisión de la literatura realizada, no se encontró una
+  revisión sistemática actualizada de ensayos clínicos que estudie
+  específicamente las variables de auriculoterapia y estrés en personal
+  de salud. Es crucial abordar esta brecha en el conocimiento pues al
+  liderar la investigación en prácticas como la auriculoterapia,
+  enfermería fortalecerá su contribución al avance del conocimiento en
+  las PICS en el ámbito de la atención a la salud, consolidándose como
+  una disciplina en la implementación de estrategias holísticas
+  centradas en el ser humano y no únicamente en la enfermedad. La
+  adopción de esta técnica no solo facilitará una notable reducción del
+  estrés en el personal de salud, sino que también ejercerá una
+  influencia positiva en la calidad de los cuidados y la atención que
+  proporcionan a los pacientes en el ejercicio de su profesión.</p>
+<p>Teniendo en cuenta lo anterior, y dada la necesidad de abordar el
+  estrés mediante mecanismos naturales de prevención y recuperación de
+  la salud con un enfoque integral, se planteó el objetivo de evaluar la
+  efectividad de la auriculoterapia para la reducción del estrés en
+  personal de salud de acuerdo a la mejor evidencia disponible.</p>
+<table-wrap id="t1"><label>Tabla 1</label><caption><title>Tabla 1</title></caption><table><tbody><tr><td>Autor y Año</td><td>País</td><td>Revista</td><td>Población y Tamaño de la Muestra</td></tr><tr><td>Kurebayashi, et al. (5)</td><td>Brasil</td><td>Rev. Esc. Enferm USP</td><td>Profesionales de enfermería (n= 75)</td></tr><tr><td>Kurebayashi, et al. (22)</td><td>Brasil</td><td>Acta Paul Enferm</td><td>Profesionales de enfermería (n= 49)</td></tr><tr><td>Prado, et al. (23)</td><td>Brasil</td><td>Rev. Latino-Am. Enfermagem</td><td>Alumnos de enfermería (n= 71)</td></tr><tr><td>Kurebayashi, et al. (24)</td><td>Brasil</td><td>Rev. Latino-Am. Enfermagem</td><td>Profesionales de enfermería, auxiliares y técnicos en enfermería (n= 75)</td></tr><tr><td>Kurebayashi, et al. (25)</td><td>Brasil</td><td>Rev. Eletr. Enfermero</td><td>Profesionales de enfermería (n= 75)</td></tr><tr><td>Kurebayashi, Da Silva (18)</td><td>Brasil</td><td>Rev. Latino-Am. Enfermagem</td><td>Profesionales de enfermería (n= 175)</td></tr><tr><td>Kurebayashi, et al. (26)</td><td>Brasil</td><td>Rev.  Bras Enferm.</td><td>Profesionales de enfermería (n= 175)</td></tr><tr><td>Prado, et al. (27)</td><td>Brasil</td><td>Rev. Esc. Enferm USP</td><td>Enfermeros (n= 168)</td></tr><tr><td>Lee, et al. (20)</td><td>Corea del Sur</td><td>Complementary Therapies in Clinical Practice</td><td>Enfermeras ambulatorias (n= 54)</td></tr><tr><td>Damasceno, et al. (6)</td><td>Brasil</td><td>Rev. Latino-Am. Enfermagem</td><td>Enfermeras, técnicos de enfermería, dentistas, asistentes de salud bucal, salud comunitaria y médicos (n= 49).</td></tr></tbody></table><table-wrap-foot><fn fn-type="other" id="TFN1"><p>Fuente: Elaboración propia</p></fn></table-wrap-foot></table-wrap></sec><sec id="sec6"><title>Inteligencia artificial</title><p>Los autores declaran que no han utilizado ningún tipo de recurso de la inteligencia artificial en alguna de las secciones de este manuscrito.</p></sec><sec id="sec2" sec-type="results">
+<title>Resultados</title>
+<p>Dentro de las características de los estudios se identificó que el
+  90 % fueron realizados en Brasil <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22 B23 B24 B25 B26 B27"><sup>22-27</sup></xref> mientras
+  que el 10 % en Corea del Sur <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>. Respecto a la población
+  el 90 % de los estudios incluyó profesionales de enfermería
+  <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24 B25 B26 B27"><sup>24-27</sup></xref> y el 10 % alumnos de enfermería
+  <xref ref-type="bibr" rid="B23"><sup>23</sup></xref>. Por otro lado, otro estudio <xref ref-type="bibr" rid="B24"><sup>24</sup></xref> además de
+  profesionales de enfermería incorporó a auxiliares y técnicos en
+  enfermería, otro investigador <xref ref-type="bibr" rid="B6"><sup>6</sup></xref> abarcó una población más
+  diversa, incluyendo técnicos de enfermería, dentistas, asistentes de
+  salud bucal, personal de salud comunitaria y médicos, (<xref ref-type="table" rid="t1">Tabla 1</xref>).</p>
+<table-wrap id="t2"><label>Tabla 2</label><caption><title>Tabla 2</title></caption><table><tbody><tr><td>Autor/Año</td><td>Objetivo</td><td>Intervenciones</td><td>Intervenciones</td><td>Resultado principal</td></tr><tr><td>Autor/Año</td><td>Objetivo</td><td>Grupo experimental</td><td>Grupo control</td><td>Resultado principal</td></tr><tr><td/><td/><td>(GI)</td><td>(GC)</td><td/></tr><tr><td>Kurebayashi, et al. (5)</td><td>Evaluar los niveles de estrés en el equipo de enfermería de un hospital y analizar la eficacia de la</td><td>G2: agujas (n= 27)</td><td>G1: sin ninguna intervención (n= 22)</td><td>Los GI mostraron diferencias estadísticas (p&lt; 0.05) a partir de la segunda evaluación. Se constató que la</td></tr><tr><td/><td>auriculoterapia con agujas y semillas.</td><td>G3: semillas (n= 27)</td><td/><td>auriculoterapia redujo el estrés en los profesionales de enfermería, con mejores resultados con agujas que con</td></tr><tr><td/><td/><td/><td/><td>semillas. Mientras que en GC no se encontraron resultados estadísticos significativos.</td></tr><tr><td>Kurebayashi, et al. (22)</td><td>Evaluar la eficacia de la auriculoterapia con agujas semipermanentes sobre los niveles de estrés en el</td><td>G2: gujas semipermanentes con terapeutas menos experimentados    (n= 16)</td><td>G1: sin ninguna intervención (n= 16)</td><td>Se observó diferencia estadística significativa entre G1 y G3 (p= 0.036), lo que demostró que la</td></tr><tr><td/><td>personal de enfermería de un hospital.</td><td>G3: agujas semipermanentes con terapeutas experimentados</td><td/><td>auriculoterapia administrada por terapeutas más experimentados redujo de manera efectiva el estrés en</td></tr><tr><td/><td/><td>(n= 17)</td><td/><td>profesionales de enfermería.</td></tr><tr><td>Prado, et al. (23)</td><td>Evaluar la eficacia de la auriculoterapia verdadera y auriculoterapia placebo para reducir los niveles de</td><td>G1: auriculoterapia</td><td>G2: sin auriculoterapia</td><td>El G1 presentó índice de Cohen de 1.81 (efecto alto) y diferencia estadística después de 8 sesiones, mantenida</td></tr><tr><td/><td>estrés.</td><td>(n= 24)</td><td>(n= 25)</td><td>en el seguimiento (p &lt; 0.001). Demostrando que la auriculoterapia verdadera obtuvo mejor resultado para la</td></tr><tr><td/><td/><td/><td>G3: grupo placebo con puntos simulados</td><td>reducción del estrés.</td></tr><tr><td/><td/><td/><td>(n= 22)</td><td/></tr><tr><td>Kurebayashi, et al. (24)</td><td>Evaluar la auriculoterapia en la reducción del estrés y analizar las diferencias entre el antes y el después</td><td>G2: agujas (n= 27)</td><td>G1: control</td><td>El G3 semilla no mostró diferencia estadística significativas en cuanto a niveles de estrés en comparación con</td></tr><tr><td/><td>del tratamiento en los dominios de afrontamiento.</td><td>G:3 semillas (n= 26)</td><td>(n= 22)</td><td>otros grupos, pero si dentro del mismo grupo a lo largo del tiempo (p&lt; 0.05). La auriculoterapia con agujas</td></tr><tr><td/><td/><td/><td/><td>disminuyó niveles de estrés (p&lt; 0.05). Mientras que en la cuarta evaluación hubo diferencia entre GC y G2</td></tr><tr><td/><td/><td/><td/><td>agujas en el dominio de distanciamiento (p&lt; 0.05).</td></tr><tr><td>Kurebayashi, et al. (25)</td><td>Identificar los diagnósticos de la MTC para los síntomas de estrés que respondieron a la auriculoterapia</td><td>G2: agujas semipermanentes (n= 27)</td><td>G1: control sin tratamiento</td><td>Se encontraron diferencias estadísticas después del tratamiento (p= 0.023) entre G2 aguja y controles,</td></tr><tr><td/><td/><td>G3: semillas (n= 26)</td><td>(n= 22)</td><td>mostrando que la auriculoterapia redujo el estrés con mejores resultados con agujas que con semillas.</td></tr><tr><td>Kurebayashi,Da Silva (18)</td><td>Evaluar la eficacia de auriculoterapia con y sin protocolo para reducir los niveles de entres en el personal</td><td>G2: auriculoterapia con protocolo (puntos específicos establecidos) con agujas semipermanentes (n= 58)</td><td>G1: control</td><td>Se encontraron diferencias estadísticas entre GC y GI en las dos evaluaciones (p&lt; 0.05).</td></tr><tr><td/><td>de enfermería.</td><td>G3: auriculoterapia sin protocolo (elegidos en función de los síntomas reportados en cada consulta) con agujas</td><td>(n= 58)</td><td>El G2 protocolo logró índice de 0.79 (gran efecto) con reducción media de los niveles de estrés (27 %). El G3</td></tr><tr><td/><td/><td>semipermanentes (n= 59)</td><td/><td>sin protocolo logró gran reducción del estrés (37 %) equivalente al índice de Cohen de 1.21 (efecto muy</td></tr><tr><td/><td/><td/><td/><td>grande). Se demostró que la auriculoterapia sin protocolo (individualizada) redujo más el estrés en el</td></tr><tr><td/><td/><td/><td/><td>personal de enfermería.</td></tr><tr><td>Kurebayashi, et al. (26)</td><td>Evaluar la efectividad de la auriculoterapia para mejorar la calidad de vida y reducir el estrés en el equipo</td><td>G2: auriculoterapia con protocolo (puntos específicos establecidos) con agujas semipermanentes (n= 58)</td><td>G1: control</td><td>Se mostraron diferencias estadísticas en la lista de síntomas de estrés en la segunda evaluación entre GC y</td></tr><tr><td/><td>de enfermería.</td><td>G3: auriculoterapia sin protocolo (elegidos en función de los síntomas reportados en cada consulta) con agujas</td><td>(n= 58)</td><td>dos GI (p= 0.000) y en la tercera evaluación las diferencias fueron entre GC y protocolo (p= 0.004) y entre GC</td></tr><tr><td/><td/><td>semipermanentes (n= 59)</td><td/><td>y sin protocolo (p= 0.002). Tanto GI con protocolo y sin protocolo redujeron el estrés (p&lt; 0.05).</td></tr><tr><td>Prado, et al. (27)</td><td>Comprobar la eficacia de la auriculoterapia experimental y la auriculoterapia placebo con puntos simulados</td><td>G1: auriculoterapia</td><td>G2: placebo puntos simulados</td><td>La auriculoterapia experimental logró reducción del estrés del 43 % presentando diferencia estadística después</td></tr><tr><td/><td>para el tratamiento del estrés en enfermeros de un hospital benéfico de São Paulo</td><td/><td>G3: control sin intervención</td><td>de 8 sesiones (p&lt; 0.001). Mientras que la auriculoterapia placebo logró reducción del 26 %, logrando</td></tr><tr><td/><td/><td/><td/><td>diferencia después de 12 sesiones (p&lt; 0.001). Mientras que GC sin intervención no logró reducción del estrés.</td></tr><tr><td>Lee, et al. (20)</td><td>Examinar los efectos de la acupresión auricular sobre el estrés, la ansiedad y depresión de enfermeras</td><td>G1: con semillas</td><td>G2: placebo con semillas (n= 26)</td><td>No se observó una reducción del estrés; sin embargo, se registró una disminución del cortisol. Aun así, no se</td></tr><tr><td/><td>ambulatorias.</td><td>(n= 28)</td><td/><td>encontraron diferencias estadísticas significativas entre GI y GC.</td></tr></tbody></table></table-wrap>
+<p>La <xref ref-type="table" rid="t2">tabla 2</xref> expone las características de las intervenciones,
+  detallando los tratamientos aplicados en los distintos puntos de
+  auriculoterapia, material utilizado, tiempo de estimulación, el
+  número, duración de las sesiones, y seguimiento posterior a las
+  intervenciones. En cuanto a los resultados principales, los diferentes
+  estudios revelaron que la auriculoterapia presentó mejor efectividad
+  con agujas que con semillas <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. La auriculoterapia
+  administrada por terapeutas en comparación con quienes no contaban con
+  experiencia previa redujo de manera efectiva el estrés
+  <xref ref-type="bibr" rid="B22"><sup>22</sup></xref>. Dos estudios <xref ref-type="bibr" rid="B23"><sup>23</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref> demostraron que la
+  auriculoterapia en comparación con el placebo fue más efectiva,
+  contrario a un estudio <xref ref-type="bibr" rid="B20"><sup>20</sup></xref> que, a pesar de haber revelado
+  una reducción del estrés, no mostró diferencias en el grupo
+  experimental y el placebo. Mientras que, la auriculoterapia sin
+  protocolo, es decir, individualizada, fue más efectiva para la
+  reducción del estrés que la auriculoterapia con protocolo
+  <xref ref-type="bibr" rid="B18"><sup>18</sup></xref>, en otro estudio se obtuvo lo contrario, ya que se
+  informó una reducción del estrés tanto con la auriculoterapia con
+  protocolo como sin protocolo.</p>
+<table-wrap id="t3"><label>Tabla 3</label><caption><title>Tabla 3</title></caption><table><tbody><tr><td>Damasceno, et al. (6)</td><td>Evaluar la efectividad de la auriculoterapia en la reducción del estrés laboral entre trabajadores de la</td><td>G1: auriculoterapia</td><td>G2: grupo placebo (n= 24)</td><td>El grupo de auriculoterapia presentó reducciones del estrés laboral.</td></tr><tr><td/><td>estrategia de salud de la familia durante la pandemia de COVI-19.</td><td>(n= 25)</td><td/><td/></tr></tbody></table><table-wrap-foot><fn fn-type="other" id="TFN3"><p>Fuente: Elaboración propia</p></fn></table-wrap-foot></table-wrap>
+<p>Puntos de auriculoterapia, de acuerdo con los puntos estimulados en
+  los grupos de intervención en el 100 % se utilizó el punto Shenmen
+  <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B15"><sup>15</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22 B23 B24 B25 B26 B27"><sup>22-27</sup></xref>, el 90 % de los estudios estimuló el
+  punto de tronco encefálico <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22 B23 B24 B25 B26 B27"><sup>22-27</sup></xref>, el 60 % riñón
+  <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24 B25 B26"><sup>24-26</sup></xref>, 20 % hígado de yang 1 y 2
+  <xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref> y un 10 % en corazón, occipucio y lóbulo anterior
+  <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>. Cabe destacar que en un estudio <xref ref-type="bibr" rid="B27"><sup>27</sup></xref> se
+  utilizó el punto Shenmen en el 100 % de los participantes, lo que
+  reafirmó su relevancia en la reducción del estrés, (<xref ref-type="fig" rid="f2">Figura 2</xref>).</p>
+<fig id="f1"><label>Figura 2</label><caption><title>Puntos de auriculoterapia utilizados en los diferentes
+  estudios</title></caption><graphic mime-subtype="png" mimetype="image" xlink:href="2448-6094-sanus-10-21-e561-gf1.png"/><attrib>Fuente: Adaptado de Kurebayashi, et al. 2012(5)</attrib></fig>
+<p>Por otro lado, en el 30 % de los estudios del grupo control se
+  estimularon el punto muñeca <xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref> y oído externo
+  <xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>. En el 10 % en los puntos cara <xref ref-type="bibr" rid="B27"><sup>27</sup></xref>,
+  cadera, codo y hombro <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>. En un 20 % los puntos a
+  estimular fueron elegidos conforme a los síntomas reportados por los
+  participantes en cada consulta, según los diagnósticos de la MTC
+  <xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref>. De acuerdo con los estudios la efectividad de la
+  auriculoterapia se atribuyó a la estimulación de los puntos
+  auriculares <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref>. En un estudió se explicó que el oído
+  presenta una rica inervación y su estimulación activa mecanismos
+  neurológicos mediados por el sistema nervioso parasimpático
+  favoreciendo la liberación de neurotransmisores que actúan en el
+  organismo <xref ref-type="bibr" rid="B23"><sup>23</sup></xref>. De igual manera, en otro estudio
+  <xref ref-type="bibr" rid="B5"><sup>5</sup></xref> se detalló que los puntos estimulados son capaces de
+  activar fibras nerviosas mielinizadas que envían impulsos a la columna
+  vertebral, el cerebro, la hipófisis y el hipotálamo, provocando la
+  liberación de endorfinas a la sangre.</p>
+<p>Dispositivo/material, en lo que respecta al material o dispositivo
+  empleado en la técnica de auriculoterapia, el 70 % de los estudios
+  utilizó agujas semipermanentes <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22 B23 B24 B25 B26"><sup>22-26</sup></xref>. El 30 %
+  semillas de mostaza <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. El 20 % semillas de vacaria
+  <xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref> y un 10 % semillas no especificadas
+  <xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. En este sentido, conocer los diferentes materiales
+  empleados, permite conocer cuál de ellos es más efectivo para la
+  reducción del estrés.</p>
+<p>Duración de las sesiones empleadas en las intervenciones, se
+  observó que el 40 % de los estudios realizaron un total de 8 sesiones,
+  una por semana, con una duración de 5 a 10 minutos cada una
+  <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. Igualmente, 12 sesiones (dos veces por
+  semana) con duración de 5 a 10 min <xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>. Por el
+  contrario, un estudio <xref ref-type="bibr" rid="B20"><sup>20</sup></xref> implementó las sesiones una vez
+  por semana durante 5 semanas en ambos grupos, sin embargo, no reportó
+  reducción en el nivel de estrés. Los investigadores señalaron la
+  necesidad de realizar un seguimiento mayor a 8 semanas para obtener
+  resultados. A diferencia de otro estudio <xref ref-type="bibr" rid="B6"><sup>6</sup></xref> que mencionó
+  haber empleado entre 3 y 6 sesiones.</p>
+<p>Instrucciones adicionales, que se brindaron en los diferentes
+  estudios influyeron directamente sobre la efectividad que tendría la
+  auriculoterapia durante la intervención. Por esta razón, cabe
+  mencionar que en el 20 % se indicó a los participantes estimular las
+  semillas tres veces al día con presión semi-moderada y retirar agujas
+  24 horas antes de la consulta o si se presentaban molestias como:
+  prurito o alergia <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. Otro 20 % mencionó haber
+  utilizado localizador de puntos <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref>. Un 10 % indicó
+  presionar las semillas de forma continua los 5 días durante 5 segundos
+  con pausa de dos segundos durante 5 minutos, cuatro veces al día (7
+  am, 12 pm, 5 pm y 10 pm), posteriormente se instruyó retirar los
+  puntos al sexto día y masajear ligeramente las orejas. Por añadidura,
+  un 10 % utilizó cinta hipoalergénica <xref ref-type="bibr" rid="B18"><sup>18</sup></xref>, cinta de
+  microporosa <xref ref-type="bibr" rid="B26"><sup>26</sup></xref>, cinta adhesiva de microporos
+  hipoalergénica <xref ref-type="bibr" rid="B6"><sup>6</sup></xref>. Mientras que investigadores
+  <xref ref-type="bibr" rid="B25"><sup>25</sup></xref> hicieron hincapié en el lavado de manos con agua y
+  jabón, (<xref ref-type="table" rid="t4">Tabla 4</xref>).</p>
+<table-wrap id="t4"><label>Tabla 4</label><caption><title>Tabla 4</title></caption><table><tbody><tr><td>Autor/Año</td><td>Puntos de auriculoterapia</td><td>Dispositivo/material</td><td>Duración de las sesiones</td><td>Instrucciones adicionales</td></tr><tr><td>Kurebayashi, et al. (5)</td><td>G2 y G3: Shenmen,</td><td>Agujas semipermanentes y semillas de mostaza</td><td>G2 y G3: 8 sesiones (1 por semana) de 5 a 10 min.</td><td>Estimular las semillas tres veces al día con presión semi moderada y retirar agujas 24 horas antes de la</td></tr><tr><td/><td>riñón y tronco encefálico</td><td/><td/><td>consulta o si se presentaron molestias como: prurito o alergia.</td></tr><tr><td>Kurebayashi, et al. (22)</td><td>G2 y G3: Shenmen, riñón y tronco encefálico</td><td>Agujas semipermanentes</td><td>G2 y G3 recibieron ocho sesiones, 1 por semana con una duración de 5 a 10 minutos.</td><td>Se utilizó localizador de puntos</td></tr><tr><td>Prado, et al.  (23)</td><td>G1: Shenmen y tronco encefálico</td><td>Agujas semipermanentes</td><td>G1 y G3: 12 sesiones 1 por semana de 5 a 10 min.</td><td>Se utilizó localizador de puntos</td></tr><tr><td/><td>G3: Muñeca y oído externo</td><td/><td/><td/></tr><tr><td>Kurebayashi, et al. (24)</td><td>G2 y G3: Shenmen,</td><td>Agujas semipermanentes y semillas de mostaza</td><td>G2 y G3: 8 sesiones (1 por semana) de 5 a 10 min.</td><td>Estimular las semillas tres veces al día con presión semi moderada y retirar agujas 24 horas antes de la</td></tr><tr><td/><td>riñón y tronco encefálico</td><td/><td/><td>consulta o si se presentaron molestias como: prurito o alergia.</td></tr><tr><td>Kurebayashi, et al. (25)</td><td>G2 y G3: Shenmen, riñón y tronco encefálico</td><td>Agujas esterilizadas y semillas</td><td>G2 y G3: 8 sesiones (1 por semana) de 5 a 10 min.</td><td>Lavado de manos con agua y jabón</td></tr><tr><td>Kurebayashi, Da Silva (18)</td><td>G2: Shenmen, troco encefálico, riñón, hígado yang 1 y 2.</td><td>Agujas semipermanentes</td><td>G2 y G3: 12 sesiones (dos veces por semana) con duración de 5 a 10 min.</td><td>Las agujas se aplicaron con cinta hipoalergénica</td></tr><tr><td/><td>G3: Los puntos fueron elegidos en función de los síntomas reportados en cada consulta, según los DX de la MTC.</td><td/><td/><td/></tr><tr><td>Kurebayashi, et al. (26)</td><td>G2: Shenmen, troco encefálico, riñón, hígado yang 1 y 2.</td><td>Agujas semipermanentes</td><td>G2 y G3: 12 sesiones (dos veces por semana) con duración de 5 a 10 min.</td><td>Las agujas se aplicaron con cinta de microporos</td></tr><tr><td/><td>G3: Los puntos fueron elegidos según la respuesta del sujeto al tratamiento.</td><td/><td/><td/></tr><tr><td>Prado et al, (27)</td><td>G1: Shenmen y tronco encefálico</td><td>Semillas de vaccaria</td><td>12 sesiones dos veces por semana,</td><td/></tr><tr><td/><td>G2: Área externa de la oreja y la cara</td><td/><td>seguimiento de 15 días.</td><td/></tr><tr><td>Lee, et al. (20)</td><td>G1: Shenmen, corazón, occipucio, lóbulo anterior.</td><td>Semillas de vaccaria</td><td>Una vez por semana durante 5 semanas en ambos grupos, además, se alterno la aplicación entre cada oído cada</td><td>Presionaron las semillas de forma continua los 5 días, durante 5 segundos con pausa de dos segundos durante 5</td></tr><tr><td/><td>G2: Muñeca, cadera, codo, hombro.</td><td/><td>semana.</td><td>minutos, cuatro veces al día (7 am, 12 pm, 5 pm y 10 pm). Se retiraron los puntos al sexto días y masajearon</td></tr><tr><td/><td/><td/><td/><td>ligeramente las orejas.</td></tr><tr><td>Damasceno, et al. (6)</td><td>G1: Shenmen y punto del tronco encefálico</td><td>Semillas de mostaza</td><td>3, 6 sesiones.</td><td>Se utilizó cinta adhesiva de microporos hipoalergénica.</td></tr><tr><td/><td>G2: Muñeca y oído externo</td><td/><td/><td/></tr></tbody></table><table-wrap-foot><fn fn-type="other" id="TFN4"><p>Fuente: Elaboración propia, Nota: G1= Grupo 1, G2= Grupo 2, G3= Grupo 3, DX=Diagnostico, MTC= Medicina Tradicional China.</p></fn></table-wrap-foot></table-wrap>
+<p>Efectos Adversos, el 60 % de los estudios no reportaron efectos
+  adversos en los participantes <xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>. Un
+  estudio <xref ref-type="bibr" rid="B23"><sup>23</sup></xref> mencionó que uno de los participantes abandonó
+  el estudio por hipersensibilidad y dolor en el área auricular. Por su
+  parte, el 20 % de los estudios señaló que un participante recién
+  sometido a cirugía bariátrica se retiró del estudio debido a que la
+  auriculoterapia generó aumento de ansiedad por la comida e inquietud
+  <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. Así mismo otro 20 % refirió que un participante se
+  retiró a causa de presentar pesadillas luego de las aplicaciones de
+  auriculoterapia, cabe destacar que laboraba durante la noche y recibía
+  atención al finalizar el turno <xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. Un estudio
+  <xref ref-type="bibr" rid="B24"><sup>24</sup></xref> mencionó que algunos participantes presentaron
+  incomodidad con la colocación y la permanencia de las aguas, sin
+  generar mayores efectos adversos, salvo prurito, el cual se resolvió
+  inmediatamente al cambiar las agujas por semillas.</p>
+</sec><sec id="sec3" sec-type="discussion">
+<title>Discusión</title>
+<p>La revisión sistemática tuvo como objetivo de evaluar la
+  efectividad de la auriculoterapia para la reducción del estrés en
+  personal de salud de acuerdo a la mejor evidencia disponible, se logró
+  identificar que los estudios indicaron que el personal de salud puede
+  enfrentar estrés debido a las condiciones laborales a las que se ven
+  expuestos. Este hallazgo coincide con lo mencionado por la
+  Organización Mundial de la Salud <xref ref-type="bibr" rid="B28"><sup>28</sup></xref>, que señala que los
+  altos niveles de estrés impactan al personal de salud y de atención,
+  como respuesta a la escasez de personal, salarios bajos, condiciones
+  laborales inadecuadas e inseguras, ambientes extremadamente
+  estresantes y la falta de las garantías laborales esenciales.</p>
+<p>En cuanto al referente teórico, la auriculoterapia se fundamenta en
+  los principios básicos de la MTC, la cual sostiene que el oído se
+  encuentra conectado con 12 meridianos (canales energéticos por donde
+  circula el Qi), y al estimular el oído contribuye a restablecer el
+  equilibrio entre el Qi (energía vital) y la sangre <xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B15"><sup>15</sup></xref>.
+  Con base en el fundamento teórico del estrés, Lazarus y Folkmann
+  (<xref ref-type="bibr" rid="B1984">1984</xref>), en su modelo transaccional, explican que este no depende solo
+  de la situación en sí, sino de la evaluación subjetiva que la persona
+  hace de ella. El estrés, surge cuando la persona continuamente valora
+  las demandas del entorno y percibe que superan su capacidad de
+  afrontamiento, generando respuestas psicológicas, fisiológicas y
+  conductuales <xref ref-type="bibr" rid="B29"><sup>29</sup></xref>. En este sentido, la estimulación de los
+  puntos en el oído podría explicar la efectividad al reducir el estrés
+  ya que al ser estimulados se generan conexiones reflejas con otras
+  partes del cuerpo, a través de las vías neurales, que dan como
+  resultados reflejos víscero-somáticos que buscan una acción
+  homeostática sobre el eje hipotálamo-hipófisis-suprarrenal,
+  responsable de la liberación de cortisol <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>.</p>
+<p>Simultáneamente, durante la estimulación de los puntos, se activan
+  pequeñas fibras nerviosas mielinizadas que transmiten impulsos hacia
+  la columna espinal, el cerebro, la glándula pituitaria y el
+  hipotálamo, lo que desencadena la liberación de endorfinas en el
+  torrente sanguíneo generando una sensación de alivio y bienestar
+  <xref ref-type="bibr" rid="B22"><sup>22</sup></xref>. En ese caso, los hallazgos encontrados en los
+  estudios sobre el estrés y la auriculoterapia indican que esta técnica
+  proporciona beneficios para ayudar a reducir el estrés. Lo que se
+  encuentra respaldado por los resultados de un metaanálisis
+  <xref ref-type="bibr" rid="B30"><sup>30</sup></xref> el cual mencionó que la auriculoterapia además de
+  reducir los niveles de estrés en el personal de salud tiene
+  efectividad en la reducción de la ansiedad.</p>
+<p>En cuanto a los puntos de auriculoterapia, los más utilizados
+  fueron Shenmen, el punto de tronco encefálico y punto del riñón, los
+  cuales demostraron tener un efecto significativo sobre la reducción
+  del estrés. Estos hallazgos coinciden con lo reportado por
+  investigadores <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>, quienes indicaron que, aunque no
+  existió una estandarización en el uso de la auriculoterapia, sugieren
+  la utilización de puntos como Shenmen, tronco encefálico, riñón,
+  simpático, pulmón y hepáticos. Estos puntos, además, de ser empleados
+  para la disminución del estrés, también pueden ser utilizados para
+  tratar la ansiedad y el burnout en profesionales de la salud. Esto
+  puede explicarse por el hecho de que se ha demostrado que el punto
+  Shenmen tiene un efecto calmante, promoviendo la relajación y la
+  sedación <xref ref-type="bibr" rid="B31"><sup>31</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B32"><sup>32</sup></xref>. Por otro lado, el punto Riñón desempeña
+  una función energética, mientras que el punto Tronco Encefálico posee
+  propiedades calmantes <xref ref-type="bibr" rid="B18"><sup>18</sup></xref>.</p>
+<p>En lo que respecta al material o dispositivo empleado en la técnica
+  de auriculoterapia, los estudios señalaron que las agujas
+  semipermanentes tienen mayor efectividad en comparación con las
+  semillas. El uso de agujas semipermanentes permite mantener los puntos
+  activos de manera continua, sin necesidad de que el individuo realice
+  una estimulación adicional. Este resultado concuerda con lo encontrado
+  por investigadores <xref ref-type="bibr" rid="B30"><sup>30</sup></xref> quienes mencionaron que las agujas
+  semipermanentes fueron más efectivas para reducir los resultados
+  evaluados que otros materiales o grupos, pues cuando se compara con
+  grupos control o placebo, es eficaz para el estrés. Esto podría
+  deberse debido a que las agujas semipermanentes en comparación con las
+  semillas tienen una estimulación más constante y profunda.</p>
+<p>El uso de semillas implica una serie de instrucciones adicionales
+  para los participantes, lo que puede generar una variabilidad en los
+  resultados <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>. Esto se debe a que, si los participantes
+  olvidan estimular las semillas con la frecuencia y durante el
+  indicado, la efectividad de la técnica podría disminuir. Conjuntamente
+  la fuerza de presión que ejerzan los participantes sobre las semillas
+  será diferente. Esto muestra que el uso de agujas implica menores
+  instrucciones adicionales en comparación con las semillas. Las agujas,
+  al ser aplicadas causan dolor e inflamación local, haciendo que el
+  punto permanezca activo, sin necesidad de estimulación manual
+  <xref ref-type="bibr" rid="B33"><sup>33</sup></xref>.</p>
+<p>La duración de las sesiones empleadas en las intervenciones que
+  fueron efectivas incluyeron entre 8 a 12 sesiones, de 1 a 2 por
+  semana, con una duración de 5 a 10 minutos cada una. Esto coincide con
+  lo reportado en un estudio <xref ref-type="bibr" rid="B30"><sup>30</sup></xref> en el cual los
+  investigadores sugirieron un tratamiento de ocho sesiones, una por
+  semana. Esto refleja la falta de un protocolo estandarizado donde las
+  sesiones, puntos de estimulación e instrucciones sean específicas y
+  probados en investigaciones clínicas.</p>
+<p>Este estudio únicamente presenta evidencia sobre la efectividad de
+  la auriculoterapia en los distintos estudios, sin abordar
+  comparaciones entre técnicas o protocolos. Esta limitación se debe a
+  la heterogeneidad en la selección de puntos, los dispositivos y
+  materiales utilizados, la duración de las sesiones, las instrucciones
+  adicionales y los efectos adversos registrados durante las
+  intervenciones lo cual puede atribuirse a que la técnica ha sido
+  aplicada en distintos países. Los resultados de los estudios fueron
+  variables, lo que limitó la posibilidad de realizar un metaanálisis.
+  Asimismo, dado que esta revisión se basó en el marco PIO y no en un
+  enfoque PICO, no se realizaron comparaciones entre las diferentes
+  técnicas.</p>
+<p>La ausencia de estudios en México que profundicen en la aceptación
+  de la intervención y en su combinación con otras terapias dificulta
+  evaluar cuál intervención resulta más efectiva para la reducción del
+  estrés en el personal de salud. Se recomienda la elaboración y
+  estandarización de un protocolo que sea probado y validado en
+  población mexicana por personal de enfermería, en el cual se
+  consideren aspectos de higiene y bioseguridad <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>. Cabe
+  destacar que el personal de enfermería desempeña un papel clave en el
+  primer nivel de atención y tiene la responsabilidad de contribuir al
+  desarrollo de estrategias innovadoras para el cuidado de la salud.</p>
+</sec><sec id="sec4" sec-type="conclusions">
+<title>Conclusiones</title>
+<p>La presente revisión muestra que la auriculoterapia es efectiva
+  para la reducción del estrés en el personal de salud; empero, la falta
+  de estudios y la ausencia de revisiones sistemáticas actualizadas
+  dificultó evaluar y generalizar los resultados. No obstante, a partir
+  de estos hallazgos, es posible realizar réplicas del estudio que
+  contribuyan a fortalecer la investigación y el cuerpo de conocimientos
+  de enfermería, pues resulta primordial la incorporación de
+  alternativas como la auriculoterapia, que son mínimamente invasivas y
+  presentan pocos efectos secundarios.</p>
+<p>Por consiguiente, se requiere un consenso unánime entre los
+  profesionales del área de la salud, especialmente del personal de
+  enfermería, para impulsar investigaciones que promuevan la
+  implementación de las PICS como prácticas alternativas y
+  complementarias en la atención y el cuidado no solo del personal de
+  salud, sino también de los pacientes, que tengan el potencial de
+  fortalecer los mecanismos naturales de recuperación de la salud, tanto
+  física como mental.</p>
+<p>Por último, se recomienda la realización de estudios multicéntricos
+  que comparen la auriculoterapia con otras PICS, permitiendo evaluar
+  sus efectos a largo plazo y fomentando la generación de nuevas líneas
+  de investigación en enfermería.</p>
+</sec><sec id="sec5" sec-type="coi">
+<title>Conflicto de intereses</title>
+<p>Los autores declaran que no existe ningún conflicto de
+  intereses.</p>
+</sec></body>
+<back>
+<ref-list><title>Referencias</title><ref id="B1"><mixed-citation>Cajamarca KM, Guaita LV, Ocaña ME, Yansapanta EA, Gaibor JL.
+      Estrés y manifestaciones psicosomáticas en el personal de salud:
+      Stress and psychosomatic manifestations in health care personnel.
+      LATAM Revista Latinoamericana de Ciencias Sociales y Humanidades
+      [Internet]. 2023 [citado 20 jun 2024];4(1):2582 Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.56712/latam.v4i1.4382">http://dx.doi.org/10.56712/latam.v4i1.4382</ext-link>.</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cajamarca</surname><given-names>KM</given-names></name><name><surname>Guaita</surname><given-names>LV</given-names></name><name><surname>Ocaña</surname><given-names>ME</given-names></name><name><surname>Yansapanta</surname><given-names>EA</given-names></name><name><surname>Gaibor</surname><given-names>JL</given-names></name></person-group><article-title>Estrés y manifestaciones psicosomáticas en el personal de salud: Stress and psychosomatic manifestations in health care personnel</article-title><source>LATAM Revista Latinoamericana de Ciencias Sociales y Humanidades</source><year>2023</year><volume>4</volume><issue>1</issue><fpage>2582</fpage><pub-id pub-id-type="doi">10.56712/latam.v4i1.4382</pub-id><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.56712/latam.v4i1.4382">http://dx.doi.org/10.56712/latam.v4i1.4382</ext-link></element-citation></ref><ref id="B2"><mixed-citation>Pintado JE, Suarez JA. Efectos del estrés laboral en la salud
+      física y mental de trabajadores de la salud. Cienciamatria
+      [Internet]. 2024 [citado 20 jun 2024];10(1):281-306. Disponible
+      en:
+      <ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/servlet/articulo?codigo=9502294">https://dialnet.unirioja.es/servlet/articulo?codigo=9502294</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pintado</surname><given-names>JE</given-names></name><name><surname>Suarez</surname><given-names>JA</given-names></name></person-group><article-title>Efectos del estrés laboral en la salud física y mental de trabajadores de la salud</article-title><source>Cienciamatria</source><year>2024</year><volume>10</volume><issue>1</issue><fpage>281</fpage><lpage>306</lpage><ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/servlet/articulo?codigo=9502294">https://dialnet.unirioja.es/servlet/articulo?codigo=9502294</ext-link></element-citation></ref><ref id="B3"><mixed-citation>Couarraze S, Delamarre L, Marhar F, Quach B, Jiao J, Dorlhiac
+      RA, The major worldwide stress of healthcare professionals during
+      the first wave of the COVID-19 pandemic – the international
+      COVISTRESS survey. PLoS ONE [Internet]. 2021 [citado 20 jun
+      2024];16(10):e0257840. Disponible en:
+      https://pmc.ncbi.nlm.nih.gov/articles/PMC8494302/</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Couarraze</surname><given-names>S</given-names></name><name><surname>Delamarre</surname><given-names>L</given-names></name><name><surname>Marhar</surname><given-names>F</given-names></name><name><surname>Quach</surname><given-names>B</given-names></name><name><surname>Jiao</surname><given-names>J</given-names></name><name><surname>Dorlhiac</surname><given-names>RA</given-names></name></person-group><article-title>The major worldwide stress of healthcare professionals during the first wave of the COVID-19 pandemic – the international COVISTRESS survey</article-title><source>PLoS ONE</source><year>2021</year><volume>16</volume><issue>10</issue><fpage>e0257840</fpage><ext-link ext-link-type="uri" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8494302/">https://pmc.ncbi.nlm.nih.gov/articles/PMC8494302/</ext-link></element-citation></ref><ref id="B4"><mixed-citation>Baños RG, Barrientos SS, Arellano MA, Vega BA. Correlación
+      entre estrés laboral y resiliencia en los médicos residentes de
+      medicina familiar. Revista Mexicana de Medicina Familiar
+      [Internet]. 2022 [citado 27 abr 2025];9(3):78-85 Disponible
+      en: https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S2696-12962022000300078</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Baños</surname><given-names>RG</given-names></name><name><surname>Barrientos</surname><given-names>SS</given-names></name><name><surname>Arellano</surname><given-names>MA</given-names></name><name><surname>Vega</surname><given-names>BA</given-names></name></person-group><article-title>Correlación entre estrés laboral y resiliencia en los médicos residentes de medicina familiar</article-title><source>Revista Mexicana de Medicina Familiar</source><year>2022</year><volume>9</volume><issue>3</issue><fpage>78</fpage><lpage>85</lpage><ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S2696-12962022000300078">https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S2696-12962022000300078</ext-link></element-citation></ref><ref id="B5"><mixed-citation>Kurebayashi LF, Gnatta JR, Borges TP, Belisse G, Coca S, Minami
+      A, et al. Aplicabilidade da auriculoterapia com agulhas ou
+      sementes para diminuição de estresse em profissionais de
+      enfermagem. Rev Esc Enferm USP [Internet]. 2012 [citado 20 jun
+      2024];46(1):89-95. Disponible en:
+      https://doi.org/10.1590/S0080-62342012000100012</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurebayashi</surname><given-names>LF</given-names></name><name><surname>Gnatta</surname><given-names>JR</given-names></name><name><surname>Borges</surname><given-names>TP</given-names></name><name><surname>Belisse</surname><given-names>G</given-names></name><name><surname>Coca</surname><given-names>S</given-names></name><name><surname>Minami</surname><given-names>A</given-names></name></person-group><article-title>Aplicabilidade da auriculoterapia com agulhas ou sementes para diminuição de estresse em profissionais de enfermagem</article-title><source>Rev Esc Enferm USP</source><year>2012</year><volume>46</volume><issue>1</issue><fpage>89</fpage><lpage>95</lpage><pub-id pub-id-type="doi">10.1590/S0080-62342012000100012</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S0080-62342012000100012">https://doi.org/10.1590/S0080-62342012000100012</ext-link></element-citation></ref><ref id="B6"><mixed-citation>Damasceno KS, Oliveira GM, Beltrame M, Coelho JM, Pimentel RF,
+      Merces MC. Effectiveness of auriculotherapy on stress reduction in
+      health workers: a controlled randomized clinical trial. Rev Lat Am
+      Enfermagem [Internet]. 2022 [citado 01 dic 2024];30:e3770.
+      Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/1518-8345.5992.3771">http://dx.doi.org/10.1590/1518-8345.5992.3771</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Damasceno</surname><given-names>KS</given-names></name><name><surname>Oliveira</surname><given-names>GM</given-names></name><name><surname>Beltrame</surname><given-names>M</given-names></name><name><surname>Coelho</surname><given-names>JM</given-names></name><name><surname>Pimentel</surname><given-names>RF</given-names></name><name><surname>Merces</surname><given-names>MC</given-names></name></person-group><article-title>Effectiveness of auriculotherapy on stress reduction in health workers: a controlled randomized clinical trial</article-title><source>Rev Lat Am Enfermagem</source><year>2022</year><volume>30</volume><fpage>e3770</fpage><pub-id pub-id-type="doi">10.1590/1518-8345.5992.3771</pub-id><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/1518-8345.5992.3771">http://dx.doi.org/10.1590/1518-8345.5992.3771</ext-link></element-citation></ref><ref id="B7"><mixed-citation>Peter KA, Voirol C, Kunz S, Gurtner A, Renggli F, Juvet T, et
+      al. Factors associated with health professionals’ stress
+      reactions, job satisfaction, intention to leave and health-related
+      outcomes in acute care, rehabilitation and psychiatric hospitals,
+      nursing homes and home care organisations. BMC Health Serv Res
+      [Internet]. 2024 [citado 20 jun 2024];24(1):2-20. Disponible en:
+      https://doi.org/10.1186/s12913-024-10718-5</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Peter</surname><given-names>KA</given-names></name><name><surname>Voirol</surname><given-names>C</given-names></name><name><surname>Kunz</surname><given-names>S</given-names></name><name><surname>Gurtner</surname><given-names>A</given-names></name><name><surname>Renggli</surname><given-names>F</given-names></name><name><surname>Juvet</surname><given-names>T</given-names></name></person-group><article-title>Factors associated with health professionals’ stress reactions, job satisfaction, intention to leave and health-related outcomes in acute care, rehabilitation and psychiatric hospitals, nursing homes and home care organisations</article-title><source>BMC Health Serv Res</source><year>2024</year><volume>24</volume><issue>1</issue><fpage>2</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.1186/s12913-024-10718-5</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1186/s12913-024-10718-5">https://doi.org/10.1186/s12913-024-10718-5</ext-link></element-citation></ref><ref id="B8"><mixed-citation>Organización Mundial de la Salud (OMS). Estrés. Who.int.
+      [Internet]. 2023 [citado 27 abr 2025]. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://www.who.int/es/news-room/questions-and-answers/item/stress?gad_source=1">https://www.who.int/es/news-room/questions-and-answers/item/stress?gad_source=1</ext-link></mixed-citation><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Organización Mundial de la Salud</surname><given-names>(OMS)</given-names></name></person-group><article-title>Estrés</article-title><source>Who.int</source><publisher-name>Organización Mundial de la Salud (OMS)</publisher-name><year>2023</year><ext-link ext-link-type="uri" xlink:href="https://www.who.int/es/news-room/questions-and-answers/item/stress?gad_source=1">https://www.who.int/es/news-room/questions-and-answers/item/stress?gad_source=1</ext-link></element-citation></ref><ref id="B9"><mixed-citation>Chu B, Marwaha K, Sanvictores T, Awosika AO, Ayers D.
+      Physiology, stress reaction [Internet]. Biblioteca Nacional de
+      Médicina. StatPearls-NCBI Bookshelf; 2024 [citado 27 abr 2025].
+      Disponible en: https://www.ncbi.nlm.nih.gov/books/NBK541120/</mixed-citation><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Chu</surname><given-names>B</given-names></name><name><surname>Marwaha</surname><given-names>K</given-names></name><name><surname>Sanvictores</surname><given-names>T</given-names></name><name><surname>Awosika</surname><given-names>AO</given-names></name><name><surname>Ayers</surname><given-names>D</given-names></name></person-group><article-title>Physiology, stress reaction</article-title><source>StatPearls-NCBI Bookshelf</source><publisher-name>Biblioteca Nacional de Médicina</publisher-name><year>2024</year><ext-link ext-link-type="uri" xlink:href="https://www.ncbi.nlm.nih.gov/books/NBK541120/">https://www.ncbi.nlm.nih.gov/books/NBK541120/</ext-link></element-citation></ref><ref id="B10"><mixed-citation>Instituto Nacional del Cáncer (INC). Estrés y cáncer
+      [Internet]. INC.; 2024 [citado 13 jul 2024]. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://www.cancer.gov/espanol/cancer/sobrellevar/sentimientos/hoja-informativa-estres">https://www.cancer.gov/espanol/cancer/sobrellevar/sentimientos/hoja-informativa-estres</ext-link></mixed-citation><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Instituto Nacional del Cáncer</surname><given-names>(INC)</given-names></name></person-group><article-title>Estrés y cáncer</article-title><source>INC.</source><publisher-name>Instituto Nacional del Cáncer (INC)</publisher-name><year>2024</year><ext-link ext-link-type="uri" xlink:href="https://www.cancer.gov/espanol/cancer/sobrellevar/sentimientos/hoja-informativa-estres">https://www.cancer.gov/espanol/cancer/sobrellevar/sentimientos/hoja-informativa-estres</ext-link></element-citation></ref><ref id="B11"><mixed-citation>National Center for Complementary and Integrative Health
+      (NCCIH). Estrés. NCCIH [Internet]. 2024 [citado 13 jul 2024].
+      Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://www.nccih.nih.gov/health/espanol/estres">https://www.nccih.nih.gov/health/espanol/estres</ext-link></mixed-citation><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>National Center for Complementary and Integrative Health</surname><given-names>(NCCIH)</given-names></name></person-group><article-title>Estrés</article-title><source>NCCIH</source><publisher-name>National Center for Complementary and Integrative Health (NCCIH)</publisher-name><year>2024</year><ext-link ext-link-type="uri" xlink:href="https://www.nccih.nih.gov/health/espanol/estres">https://www.nccih.nih.gov/health/espanol/estres</ext-link></element-citation></ref><ref id="B12"><mixed-citation>Figueiredo IP, Umeoka EH. Stress: Influences and determinants
+      of psychopathology. Enciclopedia. MDPI [Internet]. 2024 [citado 27
+      abr 2025];4(2):1026-1043. Disponible en:
+      https://www.mdpi.com/2673-8392/4/2/66</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Figueiredo</surname><given-names>IP</given-names></name><name><surname>Umeoka</surname><given-names>EH</given-names></name></person-group><article-title>Stress: Influences and determinants of psychopathology</article-title><source>Enciclopedia. MDPI</source><publisher-name>MDPI</publisher-name><year>2024</year><volume>4</volume><issue>2</issue><fpage>1026</fpage><lpage>1043</lpage><ext-link ext-link-type="uri" xlink:href="https://www.mdpi.com/2673-8392/4/2/66">https://www.mdpi.com/2673-8392/4/2/66</ext-link></element-citation></ref><ref id="B13"><mixed-citation>Bedoya EY. Estrés, regulación cognitivo-emocional, adaptación y
+      salud en universitarios. Prax Saber [Internet]. 2021 [citado 02
+      sep 2024];12(30):e11534. Disponible en:
+      http://dx.doi.org/10.19053/22160159.v12.n30.2021.115342</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bedoya</surname><given-names>EY</given-names></name></person-group><article-title>Estrés, regulación cognitivo-emocional, adaptación y salud en universitarios</article-title><source>Prax Saber</source><year>2021</year><volume>12</volume><issue>30</issue><fpage>e11534</fpage><pub-id pub-id-type="doi">10.19053/22160159.v12.n30.2021.115342</pub-id><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.19053/22160159.v12.n30.2021.115342">http://dx.doi.org/10.19053/22160159.v12.n30.2021.115342</ext-link></element-citation></ref><ref id="B14"><mixed-citation>Lucas AS, Fagundes ML, Júnior OL, Menegazzo GR, Giordani JM.
+      Associação entre práticas integrativas e complementares em saúde e
+      uso de serviços odontológicos em idosos no Brasil: estudo
+      transversal, 2019. Epidemiol Serv Saude [Internet]. 2022 [citado
+      02 sep 2024];31(3): e2022314. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/s2237-96222022000300007">http://dx.doi.org/10.1590/s2237-96222022000300007</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lucas</surname><given-names>AS</given-names></name><name><surname>Fagundes</surname><given-names>ML</given-names></name><name><surname>Júnior</surname><given-names>OL</given-names></name><name><surname>Menegazzo</surname><given-names>GR</given-names></name><name><surname>Giordani</surname><given-names>JM</given-names></name></person-group><article-title>Associação entre práticas integrativas e complementares em saúde e uso de serviços odontológicos em idosos no Brasil: estudo transversal, 2019</article-title><source>Epidemiol Serv Saude</source><year>2022</year><volume>31</volume><issue>3</issue><fpage>e2022314</fpage><pub-id pub-id-type="doi">10.1590/s2237-96222022000300007</pub-id><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/s2237-96222022000300007">http://dx.doi.org/10.1590/s2237-96222022000300007</ext-link></element-citation></ref><ref id="B15"><mixed-citation>Prado JM, Kurebayashi LF, Silva MJ. Auriculoterapia verdadeira
+      e placebo para enfermeiros estressados: ensaio clínico
+      randomizado. Rev Esc Enferm USP [Internet]. 2018 [citado 02 sep
+      2024]; 52(0):e03334. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/s1980-220x2017030403334">http://dx.doi.org/10.1590/s1980-220x2017030403334</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prado</surname><given-names>JM</given-names></name><name><surname>Kurebayashi</surname><given-names>LF</given-names></name><name><surname>Silva</surname><given-names>MJ</given-names></name></person-group><article-title>Auriculoterapia verdadeira e placebo para enfermeiros estressados: ensaio clínico randomizado</article-title><source>Rev Esc Enferm USP</source><year>2018</year><volume>52</volume><issue>0</issue><fpage>e03334</fpage><pub-id pub-id-type="doi">10.1590/s1980-220x2017030403334</pub-id><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/s1980-220x2017030403334">http://dx.doi.org/10.1590/s1980-220x2017030403334</ext-link></element-citation></ref><ref id="B16"><mixed-citation>Oliveira CM de, Assis BB de, Mendes PG, Lemos IC, Sousa AL,
+      Chianca TC. Auriculoterapia em profissionais de enfermagem na
+      pandemia do coronavírus: estudo de casos múltiplos. Rev Eletrônica
+      Enferm [Internet]. 2021 [citado 19 nov 2024];23:65678. Disponible
+      en:
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5216/ree.v23.65678">http://dx.doi.org/10.5216/ree.v23.65678</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oliveira</surname><given-names>CM de</given-names></name><name><surname>Assis</surname><given-names>BB de</given-names></name><name><surname>Mendes</surname><given-names>PG</given-names></name><name><surname>Lemos</surname><given-names>IC</given-names></name><name><surname>Sousa</surname><given-names>AL</given-names></name><name><surname>Chianca</surname><given-names>TC</given-names></name></person-group><article-title>Auriculoterapia em profissionais de enfermagem na pandemia do coronavírus: estudo de casos múltiplos</article-title><source>Rev Eletrônica Enferm</source><year>2021</year><volume>23</volume><fpage>65678</fpage><pub-id pub-id-type="doi">10.5216/ree.v23.65678</pub-id><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.5216/ree.v23.65678">http://dx.doi.org/10.5216/ree.v23.65678</ext-link></element-citation></ref><ref id="B17"><mixed-citation>Jales R, Silva FV, Pereira IL, Gomes AL, Nogueira JA, Almeida
+      SA. A auriculoterapia no controle da ansiedade e do estresse.
+      Enferm Glob [Internet]. 2021 [citado 19 nov 2025];20(2):345-89.
+      Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://scielo.isciii.es/scielo.php?script=sci_abstract&amp;pid=S1695-61412021000200011">https://scielo.isciii.es/scielo.php?script=sci_abstract&amp;pid=S1695-61412021000200011</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jales</surname><given-names>R</given-names></name><name><surname>Silva</surname><given-names>FV</given-names></name><name><surname>Pereira</surname><given-names>IL</given-names></name><name><surname>Gomes</surname><given-names>AL</given-names></name><name><surname>Nogueira</surname><given-names>JA</given-names></name><name><surname>Almeida</surname><given-names>SA</given-names></name></person-group><article-title>A auriculoterapia no controle da ansiedade e do estresse</article-title><source>Enferm Glob</source><year>2021</year><volume>20</volume><issue>2</issue><fpage>345</fpage><lpage>89</lpage><ext-link ext-link-type="uri" xlink:href="https://scielo.isciii.es/scielo.php?script=sci_abstract&amp;pid=S1695-61412021000200011">https://scielo.isciii.es/scielo.php?script=sci_abstract&amp;pid=S1695-61412021000200011</ext-link></element-citation></ref><ref id="B18"><mixed-citation>Kurebayashi LF, Silva MJ. Efficacy of Chinese auriculotherapy
+      for stress in nursing staff: a randomized clinical trial. Revista
+      Latino-Americana de Enfermagem [Internet]. 2014 [citado 09 feb
+      2025];22(3):371-378. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/0104-1169.3239.2426">https://doi.org/10.1590/0104-1169.3239.2426</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurebayashi</surname><given-names>LF</given-names></name><name><surname>Silva</surname><given-names>MJ</given-names></name></person-group><article-title>Efficacy of Chinese auriculotherapy for stress in nursing staff: a randomized clinical trial</article-title><source>Revista Latino-Americana de Enfermagem</source><year>2014</year><volume>22</volume><issue>3</issue><fpage>371</fpage><lpage>378</lpage><pub-id pub-id-type="doi">10.1590/0104-1169.3239.2426</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/0104-1169.3239.2426">https://doi.org/10.1590/0104-1169.3239.2426</ext-link></element-citation></ref><ref id="B19"><mixed-citation>Corrêa HP, Moura C, Azevedo C, Bernardes MF, Mata LR, Chianca
+      TC. Efeitos da auriculoterapia sobre o estresse, ansiedade e
+      depressão em adultos e idosos: revisão sistemática. Revista da
+      Escola de Enfermagem da USP [Internet]. 2020 [citado 28 nov
+      2024];54:e03626. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S1980-220X2019006703626">https://doi.org/10.1590/S1980-220X2019006703626</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Corrêa</surname><given-names>HP</given-names></name><name><surname>Moura</surname><given-names>C</given-names></name><name><surname>Azevedo</surname><given-names>C</given-names></name><name><surname>Bernardes</surname><given-names>MF</given-names></name><name><surname>Mata</surname><given-names>LR</given-names></name><name><surname>Chianca</surname><given-names>TC</given-names></name></person-group><article-title>Efeitos da auriculoterapia sobre o estresse, ansiedade e depressão em adultos e idosos: revisão sistemática</article-title><source>Revista da Escola de Enfermagem da USP</source><year>2020</year><volume>54</volume><fpage>e03626</fpage><pub-id pub-id-type="doi">10.1590/S1980-220X2019006703626</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S1980-220X2019006703626">https://doi.org/10.1590/S1980-220X2019006703626</ext-link></element-citation></ref><ref id="B20"><mixed-citation>Lee SN, Kim B, Park H. The effects of auricular acupressure on
+      stress, anxiety, and depression of outpatient nurses in South
+      Korea. Complementary Therapies in Clinical Practice. [Internet].
+      2021 [citado 28 nov 2024];44:101447. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/34289443/">https://pubmed.ncbi.nlm.nih.gov/34289443/</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lee</surname><given-names>SN</given-names></name><name><surname>Kim</surname><given-names>B</given-names></name><name><surname>Park</surname><given-names>H</given-names></name></person-group><article-title>The effects of auricular acupressure on stress, anxiety, and depression of outpatient nurses in South Korea</article-title><source>Complementary Therapies in Clinical Practice</source><year>2021</year><volume>44</volume><fpage>101447</fpage><ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/34289443/">https://pubmed.ncbi.nlm.nih.gov/34289443/</ext-link></element-citation></ref><ref id="B21"><mixed-citation>Joanna Briggs Institute (JBI). Critical Appraisal Tools. JBI
+      [Internet]. 2020 [citado 11 ene 2025]. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://jbi.global/critical-appraisal-tools">https://jbi.global/critical-appraisal-tools</ext-link></mixed-citation><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Joanna Briggs Institute</surname><given-names>(JBI)</given-names></name></person-group><article-title>Critical Appraisal Tools</article-title><source>JBI</source><publisher-name>Joanna Briggs Institute (JBI)</publisher-name><year>2020</year><ext-link ext-link-type="uri" xlink:href="https://jbi.global/critical-appraisal-tools">https://jbi.global/critical-appraisal-tools</ext-link></element-citation></ref><ref id="B22"><mixed-citation>Kurebayashi LF, Gnatta JR, Borges TP, Silva MJ. Eficácia da
+      auriculoterapia para estresse segundo experiência do terapeuta:
+      ensaio clínico. Acta Paulista de Enfermagem. [Internet]. 2012
+      [citado 28 nov 2024];25(5):694-700. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S0103-21002012000500008">https://doi.org/10.1590/S0103-21002012000500008</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurebayashi</surname><given-names>LF</given-names></name><name><surname>Gnatta</surname><given-names>JR</given-names></name><name><surname>Borges</surname><given-names>TP</given-names></name><name><surname>Silva</surname><given-names>MJ</given-names></name></person-group><article-title>Eficácia da auriculoterapia para estresse segundo experiência do terapeuta: ensaio clínico</article-title><source>Acta Paulista de Enfermagem</source><year>2012</year><volume>25</volume><issue>5</issue><fpage>694</fpage><lpage>700</lpage><pub-id pub-id-type="doi">10.1590/S0103-21002012000500008</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S0103-21002012000500008">https://doi.org/10.1590/S0103-21002012000500008</ext-link></element-citation></ref><ref id="B23"><mixed-citation>Prado JM, Kurebayashi LF, Silva MJ. Efficacy of auriculotherapy
+      for the reduction of stress in nursing students: a randomized
+      clinical trial. Revista Latino-Americana de Enfermagem.
+      [Internet]. 2012 [citado 02 sep 2024];20(4):727-735. Disponible
+      en:
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S0104-11692012000400013">https://doi.org/10.1590/S0104-11692012000400013</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prado</surname><given-names>JM</given-names></name><name><surname>Kurebayashi</surname><given-names>LF</given-names></name><name><surname>Silva</surname><given-names>MJ</given-names></name></person-group><article-title>Efficacy of auriculotherapy for the reduction of stress in nursing students: a randomized clinical trial</article-title><source>Revista Latino-Americana de Enfermagem</source><year>2012</year><volume>20</volume><issue>4</issue><fpage>727</fpage><lpage>735</lpage><pub-id pub-id-type="doi">10.1590/S0104-11692012000400013</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S0104-11692012000400013">https://doi.org/10.1590/S0104-11692012000400013</ext-link></element-citation></ref><ref id="B24"><mixed-citation>Kurebayashi LF, Gnatta JR, Borges TP, Silva MJ. Applicability
+      of auriculotherapy in reducing stress and as a coping strategy in
+      nursing professionals. Revista Latino-Americana de Enfermagem.
+      [Internet]. 2012 [citado 09 feb 2025];20(5):980-987. Disponible
+      en:
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S0104-11692012000500021">https://doi.org/10.1590/S0104-11692012000500021</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurebayashi</surname><given-names>LF</given-names></name><name><surname>Gnatta</surname><given-names>JR</given-names></name><name><surname>Borges</surname><given-names>TP</given-names></name><name><surname>Silva</surname><given-names>MJ</given-names></name></person-group><article-title>Applicability of auriculotherapy in reducing stress and as a coping strategy in nursing professionals</article-title><source>Revista Latino-Americana de Enfermagem</source><year>2012</year><volume>20</volume><issue>5</issue><fpage>980</fpage><lpage>987</lpage><pub-id pub-id-type="doi">10.1590/S0104-11692012000500021</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S0104-11692012000500021">https://doi.org/10.1590/S0104-11692012000500021</ext-link></element-citation></ref><ref id="B25"><mixed-citation>Kurebayashi LF, Gnatta JR, Borges TP, Silva MJ. Avaliação
+      diagnóstica da medicina tradicional chinesa dos sintomas de
+      estresse tratados pela auriculoterapia: ensaio clínico. Revista
+      Eletrônica de Enfermagem. [Internet]. 2014 [citado 11 ene
+      2025];16(1):68-76. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5216/ree.v16i1.20167">https://doi.org/10.5216/ree.v16i1.20167</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurebayashi</surname><given-names>LF</given-names></name><name><surname>Gnatta</surname><given-names>JR</given-names></name><name><surname>Borges</surname><given-names>TP</given-names></name><name><surname>Silva</surname><given-names>MJ</given-names></name></person-group><article-title>Avaliação diagnóstica da medicina tradicional chinesa dos sintomas de estresse tratados pela auriculoterapia: ensaio clínico</article-title><source>Revista Eletrônica de Enfermagem</source><year>2014</year><volume>16</volume><issue>1</issue><fpage>68</fpage><lpage>76</lpage><pub-id pub-id-type="doi">10.5216/ree.v16i1.20167</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5216/ree.v16i1.20167">https://doi.org/10.5216/ree.v16i1.20167</ext-link></element-citation></ref><ref id="B26"><mixed-citation>Kurebayashi LF, Silva MJP da. Auriculoterapia Chinesa para
+      melhoria de qualidade de vida de equipe de enfermagem. Revista
+      Brasileira de Enfermagem [Internet]. 2015 [citado 03 dic
+      2024];68(1):117-123. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://www.scielo.br/pdf/reben/v68n1/0034-7167-reben-68-01-0117.pdf">https://www.scielo.br/pdf/reben/v68n1/0034-7167-reben-68-01-0117.pdf</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kurebayashi</surname><given-names>LF</given-names></name><name><surname>Silva</surname><given-names>MJP da</given-names></name></person-group><article-title>Auriculoterapia Chinesa para melhoria de qualidade de vida de equipe de enfermagem</article-title><source>Revista Brasileira de Enfermagem</source><year>2015</year><volume>68</volume><issue>1</issue><fpage>117</fpage><lpage>123</lpage><ext-link ext-link-type="uri" xlink:href="https://www.scielo.br/pdf/reben/v68n1/0034-7167-reben-68-01-0117.pdf">https://www.scielo.br/pdf/reben/v68n1/0034-7167-reben-68-01-0117.pdf</ext-link></element-citation></ref><ref id="B27"><mixed-citation>Prado JM, Kurebayashi LF, Silva MJP. Auriculoterapia verdadeira
+      e placebo para enfermeiros estressados: ensaio clínico
+      randomizado. Revista da Escola de Enfermagem da USP [Internet].
+      2018 [citado 01 dic 2024];52(0):e03334 Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S1980-220X2017030403334">https://doi.org/10.1590/S1980-220X2017030403334</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prado</surname><given-names>JM</given-names></name><name><surname>Kurebayashi</surname><given-names>LF</given-names></name><name><surname>Silva</surname><given-names>MJP</given-names></name></person-group><article-title>Auriculoterapia verdadeira e placebo para enfermeiros estressados: ensaio clínico randomizado</article-title><source>Revista da Escola de Enfermagem da USP</source><year>2018</year><volume>52</volume><issue>0</issue><fpage>e03334</fpage><pub-id pub-id-type="doi">10.1590/S1980-220X2017030403334</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/S1980-220X2017030403334">https://doi.org/10.1590/S1980-220X2017030403334</ext-link></element-citation></ref><ref id="B28"><mixed-citation>Organización Mundial de la Salud (OMS). Protecting health and
+      care workers’ mental health and well-being: Technical consultation
+      meeting. WHO [Internet]. 2024 [citado 03 dic 2024]. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://www.who.int/news/item/25-04-2024-202404_protecthw_mentalhealth">https://www.who.int/news/item/25-04-2024-202404_protecthw_mentalhealth</ext-link></mixed-citation><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Organización Mundial de la Salud</surname><given-names>(OMS)</given-names></name></person-group><article-title>Protecting health and care workers’ mental health and well-being: Technical consultation meeting</article-title><source>WHO</source><publisher-name>Organización Mundial de la Salud (OMS)</publisher-name><year>2024</year><ext-link ext-link-type="uri" xlink:href="https://www.who.int/news/item/25-04-2024-202404_protecthw_mentalhealth">https://www.who.int/news/item/25-04-2024-202404_protecthw_mentalhealth</ext-link></element-citation></ref><ref id="B29"><mixed-citation>Gómez OC, Cabrera FJ, Contreras GN, De la Roca CJ, Juárez MF.
+      Modelo transaccional del estrés y estilos de afrontamiento en
+      investigación psicológica del estrés: Análisis crítico. Uaricha
+      [Internet]. 2024 [citado 08 sep 2025];22:42-53. Disponible en:
+      https://www.revistauaricha.umich.mx/index.php/urp/article/view/708</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gómez</surname><given-names>OC</given-names></name><name><surname>Cabrera</surname><given-names>FJ</given-names></name><name><surname>Contreras</surname><given-names>GN</given-names></name><name><surname>De la Roca</surname><given-names>CJ</given-names></name><name><surname>Juárez</surname><given-names>MF</given-names></name></person-group><article-title>Modelo transaccional del estrés y estilos de afrontamiento en investigación psicológica del estrés: Análisis crítico</article-title><source>Uaricha</source><year>2024</year><volume>22</volume><fpage>42</fpage><lpage>53</lpage><ext-link ext-link-type="uri" xlink:href="https://www.revistauaricha.umich.mx/index.php/urp/article/view/708">https://www.revistauaricha.umich.mx/index.php/urp/article/view/708</ext-link></element-citation></ref><ref id="B30"><mixed-citation>Munhoz OL, Morais BX, Santos WM dos, Paula CC de, Magnago TS.
+      Effectiveness of auriculotherapy for anxiety, stress or burnout in
+      health professionals: a network meta-analysis. Revista
+      Latino-Americana de Enfermagem [Internet]. 2022 [citado 17 sep
+      2024];30. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/1518-8345.6219.3708">https://doi.org/10.1590/1518-8345.6219.3708</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Munhoz</surname><given-names>OL</given-names></name><name><surname>Morais</surname><given-names>BX</given-names></name><name><surname>Santos</surname><given-names>WM dos</given-names></name><name><surname>Paula</surname><given-names>CC de</given-names></name><name><surname>Magnago</surname><given-names>TS</given-names></name></person-group><article-title>Effectiveness of auriculotherapy for anxiety, stress or burnout in health professionals: a network meta-analysis</article-title><source>Revista Latino-Americana de Enfermagem</source><year>2022</year><volume>30</volume><pub-id pub-id-type="doi">10.1590/1518-8345.6219.3708</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1590/1518-8345.6219.3708">https://doi.org/10.1590/1518-8345.6219.3708</ext-link></element-citation></ref><ref id="B31"><mixed-citation>Kuo Y, Tsai SH, Chen SL, Tzeng YL. Auricular acupressure
+      relieves anxiety and fatigue and reduces cortisol levels in
+      post-caesarean section women: A single-blind, randomised
+      controlled study. International Journal of Nursing Studies.
+      [Internet]. 2016 [citado 17 sep 2024];53:17-26. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/26525188/">https://pubmed.ncbi.nlm.nih.gov/26525188/</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kuo</surname><given-names>Y</given-names></name><name><surname>Tsai</surname><given-names>SH</given-names></name><name><surname>Chen</surname><given-names>SL</given-names></name><name><surname>Tzeng</surname><given-names>YL</given-names></name></person-group><article-title>Auricular acupressure relieves anxiety and fatigue and reduces cortisol levels in post-caesarean section women: A single-blind, randomised controlled study</article-title><source>International Journal of Nursing Studies</source><year>2016</year><volume>53</volume><fpage>17</fpage><lpage>26</lpage><ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/26525188/">https://pubmed.ncbi.nlm.nih.gov/26525188/</ext-link></element-citation></ref><ref id="B32"><mixed-citation>Arai YP, Sakakima Y, Kawanishi J, Nishihara M, Ito A, Tawada,
+      Maruyama Y. Auricular Acupuncture at the “Shenmen” and “Point
+      Zero” points induced parasympathetic activation. Evidence-based
+      Complementary and Alternative Medicine [Internet]. 2013 [citado 28
+      abr 2025];1-4. Disponible en:
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1155/2013/945063">https://doi.org/10.1155/2013/945063</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arai</surname><given-names>YP</given-names></name><name><surname>Sakakima</surname><given-names>Y</given-names></name><name><surname>Kawanishi</surname><given-names>J</given-names></name><name><surname>Nishihara</surname><given-names>M</given-names></name><name><surname>Ito</surname><given-names>A</given-names></name><name><surname>Tawada</surname></name><name><surname>Maruyama</surname><given-names>Y</given-names></name></person-group><article-title>Auricular Acupuncture at the “Shenmen” and “Point Zero” points induced parasympathetic activation</article-title><source>Evidence-based Complementary and Alternative Medicine</source><year>2013</year><fpage>1</fpage><lpage>4</lpage><pub-id pub-id-type="doi">10.1155/2013/945063</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1155/2013/945063">https://doi.org/10.1155/2013/945063</ext-link></element-citation></ref><ref id="B33"><mixed-citation>De Castro MC, De Cássia LC, Cardoso AC, Nogueira DA, Azevedo C,
+      Chianca TC. Acupuntura auricular para dor crônica nas costas em
+      adultos: revisão sistemática e metanálise. Revista Da Escola de
+      Enfermagem Da USP [Internet]. 2019 [citado 12 sep
+      2025];19;53:e03461. Disponible en:
+      https://pubmed.ncbi.nlm.nih.gov/31433010/</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>De Castro</surname><given-names>MC</given-names></name><name><surname>De Cássia</surname><given-names>LC</given-names></name><name><surname>Cardoso</surname><given-names>AC</given-names></name><name><surname>Nogueira</surname><given-names>DA</given-names></name><name><surname>Azevedo</surname><given-names>C</given-names></name><name><surname>Chianca</surname><given-names>TC</given-names></name></person-group><article-title>Acupuntura auricular para dor crônica nas costas em adultos: revisão sistemática e metanálise</article-title><source>Revista Da Escola de Enfermagem Da USP</source><year>2019</year><volume>53</volume><fpage>e03461</fpage><ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/31433010/">https://pubmed.ncbi.nlm.nih.gov/31433010/</ext-link></element-citation></ref><ref id="B34"><mixed-citation>Valenzuela-Urrea G, Ahumada-Cortez J, Gámez-Medina M,
+  Apodaca-Armenta R, Gómez-Rodríguez G. Efectividad de la
+  auriculoterapia para reducción del estrés en personal de salud una
+  revisión sistemática. SANUS [Internet]. 2025 [citado dd mmm
+  aaaa];10(21):e561 Disponible en: DOI/URL</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Valenzuela-Urrea</surname><given-names>G</given-names></name><name><surname>Ahumada-Cortez</surname><given-names>J</given-names></name><name><surname>Gámez-Medina</surname><given-names>M</given-names></name><name><surname>Apodaca-Armenta</surname><given-names>R</given-names></name><name><surname>Gómez-Rodríguez</surname><given-names>G</given-names></name></person-group><article-title>Efectividad de la auriculoterapia para reducción del estrés en personal de salud una revisión sistemática</article-title><source>SANUS</source><year>2025</year><volume>10</volume><issue>21</issue><fpage>e561</fpage></element-citation></ref></ref-list><fn-group><fn fn-type="other"><p>Cómo citar este artículo: Valenzuela-Urrea Gema Estefanía, Ahumada-Cortez Jesica Guadalupe, Gámez-Medina Mario Enrique, Apodaca-Armenta Rosario Eduardo, Gómez-Rodríguez Gustavo Alfredo. Efectividad de la auriculoterapia para reducción del estrés en personal de salud: una revisión sistemática. SANUS. 2025;10(21):e561. https://doi.org/10.36789/sanusrevenf.vi21.561</p></fn></fn-group></back>
+<sub-article article-type="translation" id="s1" xml:lang="en">
+<front-stub>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Effectiveness of auriculotherapy in reducing stress in healthcare personnel: A systematic review</article-title>
+</title-group>
+<abstract>
+<title>Abstract</title>
+<sec id="en-sec1">
+<title>Introduction:</title>
+<p>The mental health of healthcare personnel is crucial for providing high-quality patient care. However, the demands and responsibilities of the work environment can cause stress. Auriculotherapy has been shown to be an effective way of reducing stress and promoting the well-being of healthcare personnel.</p>
+</sec>
+<sec id="en-sec2">
+<title>Objective:</title>
+<p>To evaluate the effectiveness of auriculotherapy in reducing stress in healthcare personnel based on the best available evidence.</p>
+</sec>
+<sec id="en-sec3">
+<title>Methodology:</title>
+<p>A systematic review was conducted by searching literature databases such as LILACS, PubMed, the Cochrane Library, SciELO, the Virtual Health Library and Google Scholar. Randomized clinical trials published in Spanish, Portuguese and English between 2012 and 2022 were included, with those with unclear or questionable methodology excluded. Search strategies were developed and ten articles were selected using the Joanna Briggs Institute checklist. Finally, data extraction and synthesis were performed.</p>
+</sec>
+<sec id="en-sec4">
+<title>Results: </title>
+<p>The articles showed that auriculotherapy is an effective way of reducing stress. Of these, 40 % indicated that needle auriculotherapy was more effective; while 20 % suggested that auriculotherapy without a specific protocol was more effective according to the symptoms reported at each consultation. It was also observed in 10% of the studies that the therapist's experience improved the effectiveness of the treatment.</p>
+</sec>
+<sec id="en-sec5">
+<title>Conclusions:</title>
+<p>Auriculotherapy appears to be more effective at reducing stress than the placebo and control groups. Needle auriculotherapy was more effective than seed auriculotherapy.</p>
+</sec>
+</abstract>
+<kwd-group xml:lang="en">
+<title>Key words:</title>
+<kwd>Work stress</kwd>
+<kwd>Auriculotherapy</kwd>
+<kwd>Acupuncture</kwd>
+<kwd>Nursing equipment</kwd>
+<kwd>Healthcare personnel</kwd>
+<kwd>Occupational health (DeCS)</kwd>
+</kwd-group>
+</front-stub>
+<body>
+<sec id="en-sec6" sec-type="intro">
+<title>Introduction</title>
+<p>One of the main responsibilities of healthcare personnel is to provide quality care and attention. However, this responsibility can be highly stressful <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>. The stress affecting the mental health of healthcare workers is a significant and worrying problem that brings with it cultural, economic and social challenges <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>, and has a negative effect on quality, efficiency and productivity at work. This results in a decrease in patient satisfaction. It also causes chronic disorders that affect not only the body and mind, but also personal and family life and education <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>.</p>
+<p>Globally, healthcare workers experience stress levels that are up to 25.8 % higher than those observed in the general population <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>. In Latin American countries, 60 % of healthcare workers suffer from stress related to their working conditions <xref ref-type="bibr" rid="B4"><sup>4</sup></xref>. They face various challenges, including interprofessional relationships, managing patient suffering and pain, lack of supplies and equipment, high demand, long working hours, violence, low wages and precarious conditions <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref>. In addition, a lack of personal growth opportunities, poor leadership from superiors, high exposure to infectious diseases or substances are risk factors that can trigger high levels of stress <xref ref-type="bibr" rid="B7"><sup>7</sup></xref>. Stress is the body's natural and innate response to threats and challenging stimuli, and can manifest to varying degrees <xref ref-type="bibr" rid="B8"><sup>8</sup></xref>. It can generate physiological and psychological responses that alter the body's normal state <xref ref-type="bibr" rid="B9"><sup>9</sup></xref>.</p>
+<p>The presence of stressful stimuli activates a survival mechanism that causes the release of hormones such as epinephrine and norepinephrine. These hormones increase blood pressure, heart rate and blood glucose levels <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>. Furthermore, repeated exposure can have a negative impact on health <xref ref-type="bibr" rid="B11"><sup>11</sup></xref>. This can manifest as body pain, lack of energy, changes in eating habits, sleep problems, heart disease, anxiety, migraines, addictions and obesity <xref ref-type="bibr" rid="B12"><sup>12</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B13"><sup>13</sup></xref>. In this context, integrative and complementary health practices (ICHP) are a set of therapeutic approaches, services and methods oriented towards a holistic approach <xref ref-type="bibr" rid="B14"><sup>14</sup></xref>. They promote measures designed to reduce stress levels and enhance overall well-being <xref ref-type="bibr" rid="B5"><sup>5</sup></xref>.</p>
+<p>Auriculotherapy is an ICHP originating from traditional Chinese medicine (TCM) <xref ref-type="bibr" rid="B6"><sup>6</sup></xref> that involves stimulating specific points on the ear <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>. These points correspond to different parts of the body and stimulating them can produce physiological responses such as the release of neurotransmitters that improve mood and relieve pain, as well as participating in other bodily functions. It can also lead to the release of cytokines that optimize immune system function, reduce inflammation in the body, and activate neurological reflexes that promote balance <xref ref-type="bibr" rid="B16"><sup>16</sup></xref>.</p>
+<p>Several studies have demonstrated the effectiveness of auriculotherapy in treating stress <sub>(<xref ref-type="bibr" rid="B16">16</xref>,<xref ref-type="bibr" rid="B17">17</xref>)</sub> and in the care of healthcare personnel <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref>. It is a simple, inexpensive treatment that is easy to apply and has few or no side effects <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>.</p>
+<p>No updated systematic review of clinical trials specifically studying auriculotherapy and stress variables in healthcare personnel was found in the literature review conducted. Addressing this knowledge gap is crucial, as leading research into practices such as auriculotherapy will strengthen nursing's contribution to advancing knowledge in ICHP in healthcare. This will consolidate nursing as a discipline focused on the individual, not just the disease. Adopting this technique would not only significantly reduce stress among healthcare personnel, but also positively impact the quality of care they provide to patients.</p>
+<p>In light of the above and the need to address stress through natural prevention and recovery mechanisms with a comprehensive approach, the objective was set to evaluate the effectiveness of auriculotherapy for reducing stress in healthcare personnel, based on the best available evidence.</p>
+</sec><sec id="en-sec7" sec-type="methods">
+<title>Methodology</title>
+<p>This systematic review was conducted in accordance with the steps outlined in the Cochrane Manual: a) Formulating the research question and developing the inclusion criteria. b) Searching for relevant studies. c) Selecting studies and extracting data. d) Assessing the risk of bias in the included studies. e) Analyzing the data. f) Assessing reporting bias. g) Presenting the results. h) Interpreting the results and conclusions. </p>
+<p>First, the population, intervention, outcomes (PIO) components were used to formulate the research question. The elements of the question were identified as follows: P = healthcare personnel, I = auriculotherapy and O = stress reduction. Therefore, the systematic review question was: How effective is auriculotherapy in reducing stress in healthcare personnel, based on the best available evidence?</p>
+<p>We included Randomized Clinical Trials (RCTs) published in indexed journals in Spanish, Portuguese, and English between 2012 and 2022, as well as studies that included auriculotherapy and stress variables in healthcare personnel. Articles with unclear or dubious methodology, grey literature studies (reports, working papers, theses and government documents) and duplicate studies across the different databases were excluded.</p>
+<p>The search strategy used the LILACS, PubMed, Cochrane Library, SciELO, Virtual Health Library (VHL) and Google Scholar databases. The Boolean operators AND and OR were employed alongside the descriptors identified in Medical Subject Headings (Mesh) and Health Sciences Descriptors (DeCS). The combinations used were: Auriculotherapy AND stress AND nursing AND clinical trial, acupressure OR auriculotherapy AND stress AND nursing AND health personnel, and auriculotherapy OR ear acupuncture OR auricular acupuncture AND psychological stress OR stress.</p>
+<p>A total of 249 articles were found, and those that did not meet the selection criteria were eliminated. A critical reading and evaluation of the studies was then carried out during the analysis of the information using the Joanna Briggs Institute critical appraisal checklist for RCT <xref ref-type="bibr" rid="B21"><sup>21</sup></xref>. Subsequently, ten studies were selected, and a descriptive synthesis of their results was carried out to allow a detailed description of their characteristics (author, year of publication, country, objectives, hypotheses, sample, results obtained, participant dropout rate and effectiveness of the interventions). Finally, the PRISMA 2020 flow diagram was included, (<xref ref-type="fig" rid="en-f1">Figure 1</xref>).</p>
+<fig id="en-f1">
+<label>Figure 1</label>
+<caption>
+<title>PRISMA flow diagram, 2024 </title>
+</caption>
+<graphic mime-subtype="png" mimetype="image" xlink:href="2448-6094-sanus-10-21-e561-gf2.png"/>
+<attrib>Source: Self-developed</attrib>
+</fig>
+</sec><sec id="en-sec8" sec-type="results">
+<title>Results</title>
+<p>In terms of the characteristics of the studies, it was found that 90 % were conducted in Brazil <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>, while the remaining 10 % were conducted in South Korea <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>. Of the studies that examined the population 90 % included nursing professionals <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>, while the remaining 10 % included nursing students <xref ref-type="bibr" rid="B23"><sup>23</sup></xref>. Another study <xref ref-type="bibr" rid="B24"><sup>24</sup></xref> included nursing assistants and technicians in addition to nursing professionals. A further study <xref ref-type="bibr" rid="B6"><sup>6</sup></xref> covered a more diverse population, including nursing technicians, dentists, dental assistants, community health workers and physicians, (<xref ref-type="table" rid="en-t1">Table 1</xref>).</p>
+<table-wrap id="en-t1">
+<label>Table 1</label>
+<caption>
+<title>Characteristics of the included studies, 2024 (n=10)</title>
+</caption>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px;">Author    and Year</td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">Country</td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px;">Journal</td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px;">Population and Sample Size</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B5"><sup>5</sup></xref></td>
+<td style="border: 0; text-align: center;">Brazil</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Rev.    Esc. Enferm USP.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Nursing    professionals: (n= 75).</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B22"><sup>22</sup></xref></td>
+<td style="border: 0; text-align: center;">Brazil</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Acta    Paul Enferm.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Nursing    professionals: (n= 49).</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Prado, et    al. <xref ref-type="bibr" rid="B23"><sup>23</sup></xref></td>
+<td style="border: 0; text-align: center;">Brazil</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Rev.    Latino-Am. Enfermagem.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Nursing    Students: (n= 71).</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B24"><sup>24</sup></xref></td>
+<td style="border: 0; text-align: center;">Brazil</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Rev.    Latino-Am. Enfermagem.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Nursing professionals,    nursing assistants, and nursing technicians: (n= 75).</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B25"><sup>25</sup></xref></td>
+<td style="border: 0; text-align: center;">Brazil</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Rev.    Eletr. Enfermero.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Nursing    professionals: (n= 75).</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    Da Silva <xref ref-type="bibr" rid="B18"><sup>18</sup></xref></td>
+<td style="border: 0; text-align: center;">Brazil</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Rev.    Latino-Am. Enfermagem.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Nursing    professionals: (n= 175).</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B26"><sup>26</sup></xref></td>
+<td style="border: 0; text-align: center;">Basil</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Rev. Bras Enferm.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Nursing    professionals: (n= 175).</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Prado, et    al. <xref ref-type="bibr" rid="B27"><sup>27</sup></xref></td>
+<td style="border: 0; text-align: center;">Brazil</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Rev.    Esc. Enferm USP.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Male    nurses: (n= 168).</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Lee, et al. <xref ref-type="bibr" rid="B20"><sup>20</sup></xref></td>
+<td style="border: 0; text-align: center;">South Korea</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Complementary    Therapies in Clinical Practice.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Outpatient    nurses: (n= 54).</td>
+</tr>
+<tr>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Damasceno,    et al. <xref ref-type="bibr" rid="B6"><sup>6</sup></xref></td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">Brazil</td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Rev.    Latino-Am. Enfermagem.</td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Nurses,    nursing technicians, dentists, dental assistants, community health workers,    and physicians: (n= 49).</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot><fn fn-type="other" id="en-TFN1"><p>Source: Self-developed</p></fn></table-wrap-foot>
+</table-wrap>
+<p>
+<xref ref-type="table" rid="en-t2">Table 2</xref> details the characteristics of the interventions, including the treatments applied to different auriculotherapy points, the materials used, stimulation times, the number and duration of sessions, and follow-up after the interventions. The main results of the different studies revealed that auriculotherapy was more effective with needles than with seeds <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. Auriculotherapy administered by experienced therapists was found to effectively reduce stress <xref ref-type="bibr" rid="B22"><sup>22</sup></xref>. Two studies <xref ref-type="bibr" rid="B23"><sup>23</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref> showed that auriculotherapy was more effective than placebo, contrary to the findings of one study <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>, which, despite showing a reduction in stress, found no differences between the experimental group and the placebo group. On the other hand, auriculotherapy without a protocol, i.e., individualized, was more effective than auriculotherapy with a protocol for stress reduction <xref ref-type="bibr" rid="B18"><sup>18</sup></xref>. However, another study obtained the opposite result, reporting a reduction in stress with both auriculotherapy with and without a protocol.</p>
+<table-wrap id="en-t2">
+<label>Table 2</label>
+<caption>
+<title>Characteristics of the interventions, 2024 (n=10)</title>
+</caption>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td rowspan="2" style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">Author/Year</td>
+<td rowspan="2" style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px;">Objective</td>
+<td colspan="2" style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px;">Interventions</td>
+<td rowspan="2" style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px;">Main Outcomes</td>
+</tr>
+<tr>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">Experimental    Group
+      (EG)</td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">Control Group
+      (CG)</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B5"><sup>5</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Assess    stress levels in hospital nursing staff and analyze the effectiveness of    auriculotherapy with needles and seeds.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2: needles (n=27).
+      G3: seeds (n=27).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1: Without any intervention (n=22).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">The EG    showed statistical differences (p&lt; 0.05) from the second assessment    onwards. Auriculotherapy was found to reduce stress in nursing professionals,    with better results achieved using needles than seeds. No statistically    significant results were found in the CG.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B22"><sup>22</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Evaluate    the effectiveness of auriculotherapy using semi-permanent needles in reducing    stress levels among hospital nursing staff.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2: semi-permanent needles with less    experienced therapists (n= 16).
+      G3: semi-permanent needles with    experienced therapists (n= 17).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1: Without any intervention (n=16).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">A    statistically significant difference was found between G1 and G3 (p=0.036),    demonstrating that stress in nursing professionals was effectively reduced by    auriculotherapy administered by more experienced therapists.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Prado, et    al. <xref ref-type="bibr" rid="B23"><sup>23</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Evaluate    whether real auriculotherapy or placebo auriculotherapy is more effective at    reducing stress levels.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1: auriculotherapy (n= 24).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2: Without auriculotherapy (n=25)
+      G3: Placebo group with simulated points    (n=22).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">The G1    group had a Cohen's effect size of 1.81 (considered to be a high effect) and    demonstrated a statistically significant difference after eight sessions,    which was still evident at the follow-up stage (p&lt; 0.001). This shows that    true auriculotherapy is more effective at reducing stress.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B24"><sup>24</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Evaluate    the effectiveness of auriculotherapy in reducing stress, and analyze how    coping mechanisms change during the initial and final stages of treatment.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2: needles (n=27).
+      G3: seeds (n=26).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1: Control 
+      (n= 22).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">There    were no statistically significant differences in stress levels between the G3    group with seeds and the other groups. However, there were differences within    the G3 group over time (p&lt; 0.05). Auriculotherapy with needles decreased    stress levels (p&lt; 0.05). At the fourth assessment, differences were    observed between the control group and the G2 group with needles in the    distancing domain (p&lt; 0.05).</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B25"><sup>25</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Identify    the traditional Chinese medicine (TCM) diagnoses for the stress symptoms that    responded to auriculotherapy.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2: semi-permanent needles (n= 27).
+      G3: seeds (n= 26).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1: control without treatment
+      (n=22).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Statistical    differences were found after treatment (p= 0.023) between group G2 (needles)    and the control group, showing that auriculotherapy reduced stress with    better results using needles than seeds.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    Da Silva <xref ref-type="bibr" rid="B18"><sup>18</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Evaluate    the efficacy of auriculotherapy, both with and without a protocol, in    lowering stress levels among nursing staff.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2: auriculotherapy with protocol    (specific established points) using semi-permanent needles (n= 58).
+      G3: auriculotherapy without protocol    (chosen based on the symptoms reported at each session) using semi-permanent    needles (n= 59).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1: Control 
+      (n= 58)</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Statistical    differences were found between CG and EG in both evaluations (p&lt; 0.05).
+      G2 with    protocol achieved an index of 0.79 (large effect) with an average reduction    in stress levels (27 %). G3 without protocol achieved a large reduction in    stress (37 %), equivalent to a Cohen's index of 1.21 (very large effect). It    was demonstrated that auriculotherapy without protocol (individualized)    reduced stress more effectively in nursing staff.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B26"><sup>26</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Evaluate    the effectiveness of auriculotherapy in improving quality of life and    reducing stress among nursing staff.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2: auriculotherapy with protocol    (specific established points) using semi-permanent needles (n= 58)
+      G3: auriculotherapy without protocol    (chosen based on the symptoms reported at each session) using semi-permanent    needles (n= 59).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1: Control 
+      (n= 58)</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Statistical    differences were observed in the list of stress symptoms in the second    assessment between the CG and the two EG (p= 0.000), and in the third    assessment, between the CG and the group with protocol (p= 0.004) and between    the CG and the group without protocol (p= 0.002). Both the EG with protocol    and the EG without protocol reduced stress (p&lt; 0.05).</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Prado, et    al. <xref ref-type="bibr" rid="B27"><sup>27</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Verify    the effectiveness of experimental auriculotherapy and placebo auriculotherapy    with simulated points in the treatment of stress in nurses at a charitable    hospital in São Paulo.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1: auriculotherapy.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2: Placebo simulated points
+      G3: Control without intervention.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Experimental    auriculotherapy achieved a 43 % reduction in stress, demonstrating    statistical significance after eight sessions (p&lt; 0.001). Placebo    auriculotherapy achieved a 26 % reduction in stress, with a statistically    significant difference observed after 12 sessions (p&lt; 0.001). The CG    without intervention did not achieve any reduction in stress.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Lee, et al. <xref ref-type="bibr" rid="B20"><sup>20</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Investigate    the impact of auricular acupressure on stress, anxiety and depression    experienced by outpatient nurses.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1: with seeds
+      (n=28).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2: Placebo with seeds (n=26).</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Although    no reduction in stress was observed, a decrease in cortisol was recorded.    However, no statistically significant differences were found between the EG    and the CG.</td>
+</tr>
+<tr>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Damasceno,    et al. <xref ref-type="bibr" rid="B6"><sup>6</sup></xref></td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Evaluate    the effectiveness of auriculotherapy in alleviating work-related stress    experienced by Family Health Strategy workers during the Coronavirus    (Covid-19) pandemic.</td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">G1: auriculotherapy (n=25).</td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">G2: Placebo group (n=24).</td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">The    auriculotherapy group showed reductions in work-related stress.</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot><fn fn-type="other" id="en-TFN2"><p>Source: Self-developed</p></fn></table-wrap-foot>
+</table-wrap>
+<p>In terms of auriculotherapy, 100 % of studies in the intervention groups stimulated the Shenmen point <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B15"><sup>15</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>, 90 % stimulated the brainstem point <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>, 60 % stimulated the kidney point <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref>, 20 % stimulated liver yang points 1 and 2 <xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref>, and 10 % stimulated the heart, occipital, and anterior lobe points <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>. Notably, one study <xref ref-type="bibr" rid="B27"><sup>27</sup></xref> used the Shenmen point in all participants, reaffirming its importance in reducing stress, (<xref ref-type="fig" rid="en-f2">Figure 2</xref>).</p>
+<fig id="en-f2">
+<label>Figure 2</label>
+<caption>
+<title>Auriculotherapy points used in the different studies </title>
+</caption>
+<graphic mime-subtype="png" mimetype="image" xlink:href="2448-6094-sanus-10-21-e561-gf3.png"/>
+<attrib>Source: Adapted from <xref ref-type="bibr" rid="B24">Kurebayashi, et al. 2012</xref>
+<xref ref-type="bibr" rid="B5"><sup>5</sup></xref>
+</attrib>
+</fig>
+<p>Meanwhile, 30 % of the studies in the control group involved stimulating points on the wrist <xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref> and the outer ear <xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>. Ten per cent of the studies involved stimulating points on the face <xref ref-type="bibr" rid="B27"><sup>27</sup></xref>, hip, elbow and shoulder <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>. Twenty per cent of the studies involved stimulating points based on symptoms reported by participants in each session according to TCM diagnoses <xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref>. These studies attributed the effectiveness of auriculotherapy to the stimulation of auricular points. One study explained that the ear has rich innervation and that its stimulation activates neurological mechanisms mediated by the parasympathetic nervous system, which promotes the release of neurotransmitters in the body <xref ref-type="bibr" rid="B23"><sup>23</sup></xref>. Similarly, another study <xref ref-type="bibr" rid="B5"><sup>5</sup></xref> detailed that the stimulated points activate myelinated nerve fibers that send impulses to the spine, brain, pituitary gland, and hypothalamus, causing the release of endorphins into the bloodstream.</p>
+<p>Of the studies investigating auriculotherapy, 70 % used semi-permanent needles <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>-</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref>. 30 % used mustard seeds <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. 20 % used vaccaria seeds <xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref> and 10 % used unspecified seeds <xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. Knowing which materials are used enables us to determine the most effective method of reducing stress.</p>
+<p>Regarding the duration of the intervention sessions, it was observed that 40 % of the studies involved a total of eight sessions, one per week, each lasting between five and ten minutes <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. Similarly, 12 sessions were conducted twice a week, each lasting between 5 and 10 minutes <xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>. In contrast, one study <xref ref-type="bibr" rid="B20"><sup>20</sup></xref> implemented sessions once a week for five weeks in both groups, but no reduction in stress levels was observed. The researchers emphasized the need for follow-up over a period of more than eight weeks to obtain meaningful results. Another study <xref ref-type="bibr" rid="B6"><sup>6</sup></xref> mentioned using between three and six sessions.</p>
+<p>The additional instructions provided in the various studies had a direct impact on the effectiveness of auriculotherapy during the intervention. It is therefore worth mentioning that, in 20 % of cases, participants were instructed to stimulate the seeds three times a day with moderate pressure, and to remove the needles either 24 hours before the consultation, or if they experienced any discomfort, such as itching or an allergic reaction <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. A further 20 % mentioned using a spot locator <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref>. 10 % said that they pressed the seeds continuously for five days, for five seconds at a time with a two-second pause every five minutes, four times a day (at 07:00, 12:00, 17:00 and 22:00). They were then instructed to remove the points on the sixth day and gently massage their ears. Additionally, 10 % used hypoallergenic tape <xref ref-type="bibr" rid="B18"><sup>18</sup></xref>, microporous tape <xref ref-type="bibr" rid="B26"><sup>26</sup></xref> and hypoallergenic microporous adhesive tape <xref ref-type="bibr" rid="B6"><sup>6</sup></xref>. Some researchers emphasized the importance of hand washing with soap and water, (<xref ref-type="table" rid="en-t4">Table 4</xref>). </p>
+<table-wrap id="en-t3">
+<label>Table 3</label>
+<caption>
+<title>Intervention protocol, 2024 (n = 10)</title>
+</caption>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">Author/Year</td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 180px;">Auriculotherapy Points</td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 180px;">Devices/Materials</td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px;">Duration of the Sessions</td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px;">Additional Instructions</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B5"><sup>5</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3 Shenmen, kidney, and brainstem.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Semi-permanent    needles and mustard seeds.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3: 8 sessions, one per week, each lasting between 5 and 10 minutes.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Stimulate    the seeds three times a day with moderate pressure and remove the needles 24    hours before the consultation, or if discomfort such as itching or allergy    occurs.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B22"><sup>22</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3 Shenmen, kidney, and brainstem.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Semi-permanent    needles.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3 underwent 8 sessions, one per week, each lasting between 5 and 10 minutes.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">A point    locator was used.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Prado, et    al. <xref ref-type="bibr" rid="B23"><sup>23</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1:    Shenmen and brainstem.
+      G3:    Wrist and outer ear.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Semi-permanent    needles.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3: 12 sessions, one per week, each lasting between 5 and 10 minutes.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">A point    locator was used.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B24"><sup>24</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3 Shenmen, kidney, and brainstem.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Semi-permanent    needles and mustard seeds.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3: 8 sessions, one per week, each lasting between 5 and 10 minutes.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Stimulate    the seeds three times a day with moderate pressure and remove the needles 24    hours before the consultation, or if discomfort such as itching or allergy    occurs.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B25"><sup>25</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3 Shenmen, kidney, and brainstem.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Sterilized    needles and seeds.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3: 8 sessions, one per week, each lasting between 5 and 10 minutes.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Hand    washing with soap and water.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    Da Silva <xref ref-type="bibr" rid="B18"><sup>18</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2:    Shenmen, brain stem, kidney, liver yang 1 and 2.
+      G3: The    points were chosen based on the symptoms reported in each consultation, according    to TCM diagnoses.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Semi-permanent    needles.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3: 12 sessions, twice a week, each lasting between 5 and 10 minutes.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">The    needles were applied with hypoallergenic tape.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Kurebayashi,    et al. <xref ref-type="bibr" rid="B26"><sup>26</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2:    Shenmen, brain stem, kidney, liver yang 1 and 2.
+      G3:    Points were selected based on the patient's response to treatment.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Semi-permanent    needles.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G2 and    G3: 12 sessions, twice a week, each lasting between 5 and 10 minutes.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">The    needles were applied with micropore tape.</td>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Prado, et    al. <xref ref-type="bibr" rid="B27"><sup>27</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1: Shenmen    and brainstem.
+      G2:    External area of the ear and face.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Vaccaria    seeds.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">12    sessions twice a week, 15-day follow-up.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;"/>
+</tr>
+<tr>
+<td style="border: 0; text-align: left; padding-left: 10px;">Lee, et al. <xref ref-type="bibr" rid="B20"><sup>20</sup></xref></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">G1:    Shenmen, heart, occiput, anterior lobe.
+      G2:    Wrist, hip, elbow, shoulder.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Vaccaria    seeds.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">Both    groups attended one session per week for five weeks. In addition, the    application was alternated between each ear weekly.</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">The    seeds were pressed continuously for five days, five seconds at a time, with a    two-second pause every five minutes, four times a day (at 7 a.m., 12 p.m., 5    p.m., and 10 p.m.). On the sixth day, the points were removed and the ears    were gently massaged.</td>
+</tr>
+<tr>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Damasceno,    et al. <xref ref-type="bibr" rid="B6"><sup>6</sup></xref></td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">G1:    Shenmen and brainstem point.
+      G2:    Wrist and outer ear.</td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Mustard    seeds.</td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">3, 6    sessions.</td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Hypoallergenic    microporous adhesive tape was used.</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot><fn fn-type="other" id="en-TFN3"><p>Source: Self-developed, Note: G1= Group 1, G2= Group 2, G3= Group 3, DX= Diagnosis, TCM= Traditional Chinese Medicine.</p></fn></table-wrap-foot>
+</table-wrap>
+<p>With regard to adverse effects, 60 % of the studies reported no such effects in participants <xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B26"><sup>26</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B27"><sup>27</sup></xref>. One study <xref ref-type="bibr" rid="B23"><sup>23</sup></xref> reported that a participant withdrew due to hypersensitivity and pain in the ear area. Meanwhile, 20 % of the studies reported that a participant who had recently undergone bariatric surgery withdrew because auriculotherapy caused food cravings and restlessness <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. A further 20 % reported that a participant withdrew due to experiencing nightmares following auriculotherapy sessions. It should be noted that this participant worked nights and received treatment at the end of their shift <xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. One study <xref ref-type="bibr" rid="B24"><sup>24</sup></xref> mentions that some participants reported discomfort due to the placement and permanence of the needles; however, no major adverse effects occurred except for itching, which disappeared when the needles were replaced with seeds.</p>
+</sec><sec id="en-sec9" sec-type="discussion">
+<title>Discussion</title>
+<p>This systematic review aimed to evaluate the effectiveness of auriculotherapy in reducing stress in healthcare personnel, based on the best available evidence. The studies indicated that healthcare personnel may experience stress as a result of their working conditions. This finding coincides with that reported by the World Health Organization <xref ref-type="bibr" rid="B28"><sup>28</sup></xref>, which states that high levels of stress affect healthcare and care workers in response to staff shortages, low wages, unsafe and inadequate working conditions, extremely stressful environments and a lack of job security.</p>
+<p>In terms of theoretical reference, auriculotherapy is based on the fundamental principles of traditional Chinese medicine. This approach maintains that the ear is connected to twelve meridians, or energy channels through which Qi, or vital energy, circulates. It is believed that stimulating the ear helps to restore the balance between Qi and blood <xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B15"><sup>15</sup></xref>. Lazarus and Folkman (<xref ref-type="bibr" rid="B1984">1984</xref>) explain in their transactional model that, based on the theoretical foundation of stress, stress depends not only on the situation itself, but also on the person's subjective evaluation of it. Stress arises when a person continuously assesses environmental demands and perceives them as exceeding their coping capacity, generating psychological, physiological and behavioral responses <xref ref-type="bibr" rid="B29"><sup>29</sup></xref>. In this sense, stimulating the ear points could explain its effectiveness in reducing stress, when stimulated, reflex connections are generated with other parts of the body through neural pathways. This results in viscerosomatic reflexes that act to restore homeostasis to the hypothalamic-pituitary-adrenal axis, which is responsible for the release of the cortisol hormone <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>.</p>
+<p>At the same time, stimulation of the points activates small myelinated nerve fibers, which transmit impulses to the spine, brain, pituitary gland and hypothalamus. This causes endorphins to be released into the bloodstream, generating a feeling of relief and well-being <xref ref-type="bibr" rid="B22"><sup>22</sup></xref>. Therefore, studies on stress and auriculotherapy indicate that this technique is beneficial for reducing stress. This is supported by the results of a meta-analysis <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>, which states that auriculotherapy reduces stress levels and anxiety in healthcare personnel.</p>
+<p>The most commonly used auriculotherapy points were Shenmen, the brainstem point and the kidney point. These points were shown to significantly reduce stress. These findings coincide with those reported by researchers <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>, who, despite noting a lack of standardization in auriculotherapy use, recommended the use of points such as Shenmen, the brainstem, the kidney, the sympathetic nerve, the lung and the liver. In addition to reducing stress, these points can be used to treat anxiety and burnout syndrome in healthcare professionals. This is because the Shenmen point has been shown to have a calming effect, promoting relaxation and sedation <xref ref-type="bibr" rid="B31"><sup>31</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B32"><sup>32</sup></xref>. Meanwhile, the Kidney point has an energetic function, while the Brain Stem point has calming properties <xref ref-type="bibr" rid="B18"><sup>18</sup></xref>.</p>
+<p>Regarding the materials or devices used in auriculotherapy, studies suggest that semi-permanent needles are more effective than seeds. Using semi-permanent needles means the points remain active continuously without the individual needing to stimulate them. This result is consistent with the findings of other researchers <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>, who reported that semi-permanent needles were more effective than other materials or groups in reducing the evaluated outcomes, since they were found to be effective in reducing stress when compared with control or placebo groups. This may be because, compared to seeds, semi-permanent needles provide more consistent and deeper stimulation.</p>
+<p>Using seeds requires participants to follow a series of additional instructions, which can lead to variability in results <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>. This is because if participants forget to stimulate the seeds at the indicated frequency and for the indicated duration, the technique's effectiveness could decrease. Additionally, the amount of pressure applied to the seeds by participants will vary. This demonstrates that needles require fewer additional instructions than seeds. When applied, needles cause pain and local inflammation, keeping the point active without the need for manual stimulation <xref ref-type="bibr" rid="B33"><sup>33</sup></xref>.</p>
+<p>Effective intervention sessions typically lasted between 5 and 10 minutes, with one to two sessions taking place each week for a period ranging from 8 to 12 weeks. This is consistent with the findings of one study <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>, in which the researchers recommended eight sessions, one per week. This reflects the lack of a standardized protocol for sessions, stimulation points and instructions that have already been tested in clinical research.</p>
+<p>This study only presents evidence of the efficacy of auriculotherapy across different studies, without making comparisons between techniques or protocols. This is due to the heterogeneity in the selection of points, devices and materials used, duration of sessions, additional instructions and adverse effects recorded during interventions, which can be attributed to the technique being applied in different countries. The variable results of the studies limited the possibility of performing a meta-analysis. Furthermore, as this review was based on the PIO framework rather than the PICO approach, no comparisons were made between the different techniques.</p>
+<p>The lack of in-depth studies in Mexico analyzing the acceptance of the intervention and its combination with other therapies makes it difficult to evaluate the most effective intervention for reducing stress among healthcare personnel. It is recommended that nursing staff develop and standardize a protocol that has been tested and validated in the Mexican population, taking hygiene and biosafety aspects into account <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>. It should be noted that nursing staff play a key role in primary care and are responsible for contributing to the development of innovative healthcare strategies.</p>
+</sec><sec id="en-sec10" sec-type="conclusions">
+<title>Conclusions</title>
+<p>This review shows that auriculotherapy is an effective way of reducing stress in healthcare personnel. However, the limited number of studies and the absence of updated systematic reviews made it difficult to evaluate and generalize the results. Nevertheless, based on these findings, it is possible to replicate the study to strengthen research and the nursing body of knowledge, as it is essential to incorporate alternatives such as auriculotherapy, which are minimally invasive and have few side effects.</p>
+<p>Therefore, healthcare professionals, especially nursing staff, must reach a unanimous consensus to promote research that encourages the implementation of ICHP as an alternative to conventional methods in the care and treatment of patients and healthcare personnel. These practices must strengthen the body's natural recovery mechanisms, both physical and mental.</p>
+<p>Ultimately, multicenter studies are recommended to compare auriculotherapy with other ICHP, evaluating its long-term effects and developing new areas of nursing research.</p>
+</sec><sec id="en-sec11" sec-type="coi">
+<title>Conflict of interest</title>
+<p>The authors stated that they have no conflict of interest.</p>
+</sec><sec id="en-sec12">
+<title>Artificial intelligence</title>
+<p>The authors stated that they have not used any artificial intelligence resources in any of the sections of this manuscript. </p>
+</sec><sec id="en-sec13">
+<title>Funding</title>
+<p>The main researcher (CVU number 1109514) would like to express their gratitude for the scholarship awarded by the Ministry of Science, Humanities, Technology and Innovation (Secretaría de Ciencia, Humanidades, Tecnología e Innovación - SECIHTI) to pursue doctoral studies in Nursing Sciences within the Mental Health and Risk Behaviours in Vulnerable Populations academic body at the Facultad de Enfermería Mochis.</p>
+</sec></body>
+</sub-article></article>

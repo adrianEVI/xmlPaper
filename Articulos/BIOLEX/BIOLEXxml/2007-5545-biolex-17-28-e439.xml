@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biolex</journal-id>
+			<journal-title-group>
+				<journal-title>Biolex</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-5634</issn>
+			<issn pub-type="epub">2007-5545</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36796/biolex.v17i28.439</article-id>
+			<article-id pub-id-type="other">00120</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La Comisión Nacional de Derechos Humanos bajo la jurisprudencia del debido proceso de la Corte Interamericana de Derechos Humanos</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>National Human Rights Commission Under the Due Process Jurisprudence of the Inter-American Court of Human Rights</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-5402-1227</contrib-id>
+					<name>
+						<surname>Nares Hernández</surname>
+						<given-names>José Julio</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Dr. En Derecho</role>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">*José Julio Nares Hernández, Dr. En Derecho por el Instituto Nacional de Desarrollo Jurídico (INADEJ). Universidad Autónoma del Estado de México. Estados Unidos Mexicanos. Profesor investigador de Tiempo Completo. jjnaresh@uaemex.mx. Lic. Derecho por la Facultad de Derecho de la Universidad Nacional Autónoma de México. Mtría. en Ciencias Jurídico Penales por el Instituto Nacional de Ciencias Penales (INACIPE). Miembro del Sistema Nacional de Investigadores (nivel 1). Líneas de investigación en derechos humanos, y en proceso penal acusatorio. Líder del Cuerpo Académico Sistemas Complejos, Sustentabilidad e Innovación.</institution>
+					<institution content-type="normalized">Universidad Autónoma del Estado de México</institution>
+					<institution content-type="orgname">Universidad Autónoma del Estado de México</institution>
+					<country country="MX">Mexico</country>
+					<email>jjnaresh@uaemex.mx</email>
+				</aff>
+			</contrib-group>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>31</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>17</volume>
+			<issue>28</issue>
+			<elocation-id>e439</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>03</day>
+					<month>11</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>19</day>
+					<month>12</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El objetivo del presente artículo es analizar la ineficacia de la Comisión Nacional de los Derechos Humanos (CNDH) de México, en su función constitucional de proteger a las personas por la violación de sus derechos humanos. Una de las causas de este problema se encuentra en la ley de este organismo, cuyo procedimiento origina que solo el 1 % de quejas se resuelva anualmente mediante una recomendación, sin prever derechos procesales para que el quejoso defienda su interés de conocer la verdad. Con base en el artículo 1 constitucional, se argumenta que los servidores públicos de dicha Comisión, al aplicar en el procedimiento de queja los principios pro persona y de interpretación conforme, tienen la obligación de cumplir con la jurisprudencia del debido proceso, emitida por la Corte Interamericana de Derechos Humanos para los organismos jurisdiccionales o no jurisdiccionales, que puedan afectar los derechos humanos de las personas. El quejoso tendría garantizado su derecho a una oportuna y adecuada defensa para que el procedimiento de queja concluya, en su caso, con una recomendación a la autoridad responsable para que le repare el daño material y a su dignidad como persona. El quejoso, además, gozaría del derecho de interponer el juicio de amparo indirecto para impugnar actos de autoridad de la CNDH, que durante el procedimiento de queja violen su derecho humano a una oportuna y adecuada defensa. Es una investigación documental, desarrollada a partir de la teoría constitucional y los métodos de la dogmática jurídica. </p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The aim of this article is to analyze the inefficacy of the National Human Rights Commission of Mexico (CNDH by its acronym in Spanish) in its constitutional role of protecting individuals’ human rights. One of the causes of this problem lies in the Law of this body, whose procedure results in only 1% of complaints being resolved annually through recommendations, without guaranteeing the complainant procedural rights to defend their interest to ascertain the truth. Under Article 1 of the Constitution, it is argued that CNDH officials, when applying the pro-homine and interpretation principles during the complaint procedure, must respect the due process jurisprudence issued by the Inter-American Court of Human Rights for jurisdictional or quasi-jurisdictional bodies, which may affect the human rights of individuals. Complainants are thereby guaranteed their right to a timely and adequate defense so that the complaint procedure concludes, if necessary, with a recommendation for the competent authority to remedy both the material harm suffered and the harm to complainant’s dignity. Additionally, complainants have the right to file the writ of indirect amparo to challenge acts of authority by the CNDH that violate their human right to a timely and adequate defense during the procedure. This study is based on documentary research, drawing on constitutional theory and the methods of legal dogmatics.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>procedimiento de queja</kwd>
+				<kwd>juicio de amparo</kwd>
+				<kwd>derecho procesal</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>complaint procedure</kwd>
+				<kwd>writ of amparo</kwd>
+				<kwd>procedural law</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="58"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>I. Introducción</title>
+			<p>El artículo 1 de la Constitución Política de los Estados Unidos Mexicanos<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> reconoce los derechos humanos establecidos en la Constitución y en los tratados internacionales suscritos por México en la materia, junto con sus garantías de protección. La violación de estos derechos por las autoridades o servidores públicos federales de carácter administrativo puede ser reparada por el sistema no jurisdiccional de protección de los derechos humanos, en particular mediante una recomendación emitida por la Comisión Nacional de los Derechos Humanos<xref ref-type="fn" rid="fn2"><sup>2</sup></xref> (CNDH). Sin embargo, desde la creación de este organismo en 1990 hasta 2024, el promedio de recomendaciones que formula anualmente es de 1 % que, en relación con el número de quejas que recibe, es un porcentaje que revela un problema de ineficacia en el cumplimiento de su función constitucional. </p>
+			<p>El objetivo de este artículo es analizar las causas de este problema y sostener que una de las principales causas se encuentra en la Ley de la Comisión Nacional de los Derechos Humanos<xref ref-type="fn" rid="fn3"><sup>3</sup></xref> (CNDH). El procedimiento cuasi jurisdiccional que contiene, otorga a sus servidores públicos facultades discrecionales para resolver los expedientes de queja a su arbitrio, principalmente por conciliación u otras causas, sin prever un mínimo de derechos procesales que garanticen al quejoso la solución del fondo de la queja ya sea con un documento de no responsabilidad, o con una recomendación que le repare el daño causado.</p>
+			<p> Al respecto, la Corte Interamericana de Derechos Humanos<xref ref-type="fn" rid="fn4"><sup>4</sup></xref> (IDH) ha interpretado, en su jurisprudencia, que todos los órganos de los Estados Parte -sean jurisdiccionales o no jurisdiccionales- que puedan afectar los derechos humanos de las personas, tienen la obligación de respetar las formalidades esenciales del debido proceso. Para que la CNDH tenga mayor eficacia en su función constitucional se propone, con fundamento al artículo 1 de la Ley Fundamental, que en el procedimiento cuasi jurisdiccional los servidores públicos apliquen el principio <italic>pro persona</italic> y el principio de interpretación, conforme cumplan con la jurisprudencia de la Corte IDH sobre el debido proceso y, en su caso, se incorpore a la legislación de la CNDH. En consecuencia, el quejoso gozaría no solo de estas garantías procesales, sino que también tendría derecho a promover el juicio de amparo indirecto para impugnar actos de autoridad de la CNDH que violen su derecho humano al debido proceso. </p>
+		</sec>
+		<sec>
+			<title>II. Sistema nacional no jurisdiccional de protección de los derechos humanos: ineficacia de la comisión nacional de los derechos humanos</title>
+			<p>Acorde con el primer párrafo del artículo 1 constitucional, la dignidad es el origen y fundamento de todos los derechos humanos, los cuales son definidos como un conjunto de facultades e instituciones que concretan la dignidad y la libertad humana.<xref ref-type="fn" rid="fn5"><sup>5</sup></xref> Estos derechos adquieren eficacia si su goce y ejercicio es real, lo cual depende de las garantías establecidas en la ley para su protección.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>
+			</p>
+			<p>Las garantías constitucionales que protegen los derechos humanos son los medios de control constitucional, instrumentos jurídicos y procesales previstos en la Constitución para asegurar su propia vigencia y el éxito de su cumplimiento. La doctrina denomina a estos medios como garantías procesales constitucionales, cuyo propósito es la defensa de los derechos humanos por ser de interés público y no solo particular.<xref ref-type="fn" rid="fn7"><sup>7</sup></xref> Las garantías procesales constitucionales se integran por el sistema jurisdiccional de protección de los derechos humanos y el sistema no jurisdiccional de protección de los derechos humanos. </p>
+			<p>El sistema no jurisdiccional de protección de los derechos humanos está integrado por la CNDH y sus homologas en las diversas entidades federativas del país<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>, como lo señala el artículo 102, apartado B, de la Ley Fundamental.<xref ref-type="fn" rid="fn9"><sup>9</sup></xref> De acuerdo con este precepto constitucional, la CNDH es un organismo constitucional autónomo, su naturaleza funcional consiste en conocer de quejas en contra de cualquier autoridad o servidor público federal de carácter administrativo que viole estos derechos, formular recomendaciones públicas no vinculatorias, así como presentar denuncias y quejas ante las autoridades respectivas.</p>
+			<p>Cuando una autoridad de las señaladas viola los derechos humanos, las personas tienen el derecho fundamental de tutela no jurisdiccional, el cual se puede ejercer acudiendo a la CNDH a presentar su queja. Los servidores públicos de este organismo constitucional (Ley de la CNDH, art. 74) reciben los escritos de queja y los califican. En caso de ser aceptados, forman un expediente que finalmente resuelven por alguna de las causas previstas en el artículo 125 del reglamento de la CNDH. Por su forma de resolución, se puede decir que las quejas son de dos tipos: primero, las que se resuelven sin que exista una investigación sobre el fondo de la queja como las resueltas durante el trámite, por conciliación, acumulación de expedientes, falta de interés de la persona quejosa, desistimiento, orientación, por no existir materia y por no competencia. Segundo, las que ameritan una investigación que resuelve el de fondo de la queja, a saber, por recomendación, recomendación por violación grave y documento de no responsabilidad. </p>
+			<p>Según los artículos 44 y 46 de la Ley de la CNDH, una recomendación es la efectiva restitución de los afectados en sus derechos humanos y, en su caso, para la reparación de los daños y perjuicios que se hubiesen ocasionado. Se señala que la recomendación será pública y autónoma y no tendrá carácter vinculante para la autoridad o servidor público. La consecuencia de la emisión de una recomendación se limita, esencialmente, a su publicación, con el efecto indirecto que ello pueda generar en el prestigio ético de la autoridad responsable. Las recomendaciones serán dadas a conocer a la opinión pública mediante su publicación en diversos medios de comunicación (Reglamento Interno de la Comisión Nacional de los Derechos Humanos,<xref ref-type="fn" rid="fn10"><sup>10</sup></xref> art. 136, en adelante Reglamento de la CNDH) y de no ser aceptadas, la negativa se hará del conocimiento de la opinión pública. </p>
+			<p>Desde la creación de la CNDH en 1990 y hasta 2024, el promedio de recomendaciones emitidas anualmente es de 1 %, un porcentaje mínimo que contradice las estadísticas internacionales que indican que México es uno de los países del mundo con mayor incidencia en este problema.<xref ref-type="fn" rid="fn11"><sup>11</sup></xref> Si se analizan los informes de los últimos cuatro años, el número y porcentaje de recomendaciones emitidas por violaciones graves y las emitidas por violaciones no graves, con pruebas de cumplimiento total, son las siguientes:</p>
+			<p>Informe de 2021. Número total de expedientes por presuntas violaciones a derechos humanos: 11 903, recomendaciones: 127, porcentaje: 1.1 %. Recomendación por violación grave: 7, porcentaje: 0.1 %. Aceptadas, con pruebas de cumplimiento total: 29, porcentaje: 19 %. Porcentaje entre el número total de expedientes y el porcentaje de pruebas de cumplimiento total: 0.24 %.<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>
+			</p>
+			<p>Informe de 2022. Número total de expedientes por presuntas violaciones a derechos humanos: 15 369, recomendaciones: 261, porcentaje: 1.63 %. Recomendación por violación grave: 36, porcentaje: 0.23 %. Aceptadas, con pruebas de cumplimiento total: 32, porcentaje: 10.78 %. Porcentaje entre el número total de expedientes y el porcentaje de pruebas de cumplimiento total: 0.21 %.<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>
+			</p>
+			<p>Informe de 2023. Número total de expedientes por presuntas violaciones a derechos humanos: 19 916. Recomendaciones: 294, porcentaje: 1.43 %. Recomendación por violación grave: 59, porcentaje: 0.29 %. Aceptadas, con pruebas de cumplimiento total: 2, porcentaje: 0.57 %. Porcentaje entre el número total de expedientes y porcentaje de pruebas de cumplimiento total: 0.01 %.<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>
+			</p>
+			<p>Informe de 2024. Número total de expedientes por presuntas violaciones de derechos humanos: 18 650. Recomendaciones: 265, porcentaje 1.38 %. Recomendaciones por violación grave; 30, porcentaje 0.16 %. Aceptadas, con pruebas de cumplimiento total: 2. Aceptadas en tiempo para presentar pruebas de cumplimiento total: 2 %. Porcentaje entre el número total de expedientes y el porcentaje de pruebas de cumplimiento total: 0.01 % y 98.5 %<xref ref-type="fn" rid="fn15"><sup>15</sup></xref>.</p>
+			<p>La CNDH anota que el número total de hechos violatorios señalados no necesariamente coincide con el número total de expedientes de presuntas violaciones a derechos humanos, toda vez que un mismo expediente puede integrar uno o más hechos presuntamente violatorios.</p>
+			<p>Debido a resultados prácticamente nulos, diversos estudiosos del tema han señalado que la CNDH se trata de un organismo ineficaz para garantizar los derechos humanos. Al respecto, el jurista Carpizo<xref ref-type="fn" rid="fn16"><sup>16</sup></xref> dice que la ineficacia de la institución se debe a las siguientes razones: la estructura argumentativa de la recomendación carece de una sólida base jurídica o de plano carece de ella, por lo que la autoridad responsable encuentra razones para no aceptarla; por el nulo seguimiento en el cumplimiento de las pocas recomendaciones que emite; y por la escasa legitimidad ante la sociedad por la impunidad en que deja a los servidores públicos que violan los derechos humanos.</p>
+			<p>En opinión de Báez,<xref ref-type="fn" rid="fn17"><sup>17</sup></xref> el bajo porcentaje de recomendaciones es prueba empírica de que la CNDH tiene cuantitativamente escasa eficacia. Las causas se deben a lo siguiente: las recomendaciones solo tienen un carácter axiológico; la deficiente fundamentación de sus resoluciones; exigua publicidad; su casi nula reputación ante la sociedad; y la distancia que existe entre la formalidad jurídica y la realidad de su cumplimiento. </p>
+			<p>Ante este problema de ineficacia, en el informe de actividades 2023, la presidenta de este organismo anunció que el actual modelo de la CNDH ya no responde a las necesidades del pueblo de México,<xref ref-type="fn" rid="fn18"><sup>18</sup></xref> por lo que va a impulsar una defensoría nacional de los derechos del pueblo que realmente sirva a las víctimas. Si bien es explícita al reconocer que se trata de un organismo ineficaz en la protección de los derechos humanos, no va más allá para identificar y resolver las causas del problema, por lo cual, mientras continúe existiendo o aun cuando sea sustituido por otro semejante, es necesario conocer las causas que originan este problema de ineficacia para poder contribuir a su solución.</p>
+			<p>Desde la perspectiva del presente análisis, una de las principales causas de este problema tiene su origen en la Ley de la CNDH, la cual contiene un procedimiento que confiere facultades discrecionales a sus servidores públicos para que puedan dirigir y resolver los expedientes de queja a su criterio. </p>
+		</sec>
+		<sec sec-type="methods">
+			<title>III. Procedimiento no jurisdiccional de la CNDH</title>
+			<p>El procedimiento para la tutela no jurisdiccional de los derechos humanos tiene características sustantivas y procesales muy particulares, como lo indica el artículo 4 de la Ley de la CNDH. Este precepto establece que los procesos de investigación, sanción y reparación por la violación de derechos humanos deberán ser breves y sencillos, y solo estarán sujetos a formalidades esenciales que requiera la documentación de los expedientes respectivos. Además, seguirán los principios de inmediatez, concentración y rapidez.</p>
+			<p>Sin embargo, la ley y el Reglamento de la CNDH no delimitan de forma clara el alcance de la discrecionalidad que pueda ejercer la autoridad, así como no definen las circunstancias en las que puede ser ejercida, lo cual vulnera la garantía procesal de la previsibilidad de la norma. </p>
+			<p>La previsibilidad de la norma tiene el propósito de establecer las garantías idóneas para evitar abusos, lo que permite examinar las consecuencias y los resultados de su interpretación y ejecución en el asunto concreto. En caso contrario, la imprevisibilidad de la norma puede lesionar valores jurídicos fundamentales como los de justicia y seguridad jurídica en su aplicación.<xref ref-type="fn" rid="fn19"><sup>19</sup></xref> La Corte IDH señala que una norma puede conceder a la autoridad algún tipo de indeterminación, siempre que se indique con suficiente claridad el alcance de la discrecionalidad y la forma en que se debe ejercer, para evitar una interferencia arbitraria.<xref ref-type="fn" rid="fn20"><sup>20</sup></xref>
+			</p>
+			<p>Por otro lado, tanto la ley como el Reglamento de la CNDH tratan al quejoso como objeto del procedimiento y no como sujeto del mismo, sin prever derechos para ser parte activa en la defensa de su interés de conocer la verdad sobre la violación o no de sus derechos humanos y de su derecho a la reparación del daño material y de su dignidad. </p>
+			<p>Enseguida, se analizan las principales normas de la Ley de la CNDH que, durante el procedimiento de queja, confieren facultades discrecionales a sus servidores públicos sin que al quejoso se le reconozcan derechos para la defensa de sus intereses. </p>
+			<disp-quote>
+				<p>A. El quejoso no tiene derecho a recursos de impugnación contra las resoluciones de la CNDH, como señala la ley: “Artículo 47.- En contra de las Recomendaciones, acuerdos o resoluciones definitivas de la Comisión Nacional de los Derechos Humanos, no procederá ningún recurso”. Esta disposición deja en total estado de indefensión y desamparo al quejoso, pues cualquiera que sea la decisión de la CNDH no tiene derecho de inconformarse.</p>
+			</disp-quote>
+			<disp-quote>
+				<p>B. Resoluciones de expedientes de queja mediante recomendación. La Ley de la CNDH, en los artículos 119 y 98, establece una lista de violaciones graves de derechos humanos que únicamente pueden ser resueltos por recomendación o por documento de no responsabilidad: atentados a la vida, tortura, desaparición forzada y todas las demás violaciones de lesa humanidad o cuando las anteriores infracciones atenten en contra de una comunidad o grupo social en su conjunto. La lista de violaciones graves es mínima y excluye numerosos derechos fundamentales como la dignidad humana, el libre desarrollo de la personalidad, la libertad, la igualdad, la no discriminación, la violencia de género, etcétera; las que a criterio de la CNDH se resuelven por conciliación o por las otras causas que no ameritan realizar una investigación sobre el fondo de la queja y que deriven en una recomendación o en un documento de no responsabilidad. </p>
+			</disp-quote>
+			<disp-quote>
+				<p>C. Resoluciones de expedientes de queja por conciliación u otras causas. Tratándose de los expedientes de queja que no se resuelven por recomendación, son los servidores públicos de la CNDH, quienes tienen la facultad de elaborar el contenido de la propuesta de conciliación sin que intervenga el quejoso, conforme a los artículos 120 y 121 de su reglamento. La autoridad responsable decidirá si la acepta y envía, en su caso, las pruebas correspondientes. Si la autoridad no acepta dicha propuesta, la CNDH inicia el proceso de investigación. </p>
+			</disp-quote>
+			<disp-quote>
+				<p> Al quejoso se le dará aviso del mecanismo de conciliación (Reglamento de la CNDH, art. 122) y en caso de no aceptarlo carece del derecho de impugnación, por lo que de hecho su rechazo implica renuncia al procedimiento de queja. Lo anterior es contrario a lo previsto por el artículo 17 constitucional, que establece la conciliación como un mecanismo alternativo de resolución de conflictos de carácter voluntario y no obligatorio para las partes.<xref ref-type="fn" rid="fn21"><sup>21</sup></xref>
+				</p>
+			</disp-quote>
+			<disp-quote>
+				<p> La Ley de la CNDH, al imponer como obligatoria la conciliación, priva al quejoso del derecho de saber si se violaron o no sus derechos humanos, y en caso de ser así, obtener una recomendación que le repare el daño material causado y, principalmente, la afectación a la dignidad humana,<xref ref-type="fn" rid="fn22"><sup>22</sup></xref> que es la finalidad primordial de este órgano de control constitucional.</p>
+			</disp-quote>
+			<disp-quote>
+				<p>D. La CNDH tiene la facultad de decidir si entrega o no al quejoso las pruebas o constancias que integran el expediente de queja y que fueron presentadas por la autoridad, excepto en los casos en que el quejoso las ofrezca como medio de convicción en un procedimiento jurisdiccional, como lo dispone el artículo 48 de la ley en comento. En consecuencia, el quejoso no tiene derecho de acceso al expediente de queja para conocer las pruebas presentadas por la autoridad, por lo que marialmente desconoce si son verdaderas o falsas y, en su caso, impugnarlas toda vez que con base en ellas la CNDH resuelve el expediente de queja. </p>
+			</disp-quote>
+			<disp-quote>
+				<p>E. La CNDH también puede concluir la queja mediante un acuerdo de no responsabilidad, conforme a los numerales 44 y 45 de la ley de este organismo. Cualquiera que sea la fundamentación o motivación que exponga la CNDH, el quejoso no tiene derecho a un recurso de impugnación contra dicho acuerdo, por lo que esta decisión deviene en una facultad discrecional y arbitraria de los servidores públicos de la institución. </p>
+			</disp-quote>
+			<disp-quote>
+				<p>F. El quejoso, al presentar su documento de queja ante la CNDH, tiene la obligación de conducirse con la verdad, en caso de no hacerlo incurre en delito de falsedad de declaraciones rendidas ante una autoridad distinta de la judicial, que la CNDH deberá denunciar ante la autoridad judicial (Reglamento de la CNDH, art. 146). Por el contrario, si la autoridad responsable es quien rinde un informe falso, la Ley de la CNDH no establece ningún recurso de impugnación ni alguna sanción (Ley de la CNDH, art. 38), lo cual viola el derecho de igualdad ante la ley. </p>
+			</disp-quote>
+			<p>Otro trato desigual es que la recomendación es definitiva para el quejoso sin derecho de impugnarla, pero no es definitiva para la autoridad declarada responsable, pues tiene el derecho de presentar argumentos para no aceptarla o cumplirla. Si la CNDH y los órganos legislativos consideran que la fundamentación y motivación son suficientes, entonces la recomendación queda sin efectos. La víctima no tiene derecho de impugnar los argumentos de la autoridad responsable para no cumplir la recomendación (Ley de la CNDH, art. 46).</p>
+		</sec>
+		<sec>
+			<title>IV. La CNDH como autoridad responsable para efectos del juicio de amparo</title>
+			<p>Ante las facultades discrecionales que la Ley de la CNDH confiere a sus servidores públicos durante el procedimiento no jurisdiccional y la ausencia de derechos procesales efectivos para el quejoso, surge la cuestión de si la CNDH puede incurrir en violaciones los derechos humanos de los quejosos y, de ser así, si es procedente el juicio de amparo establecido en los artículos 103 y 107 de la carta magna. </p>
+			<p>La procedencia del juicio de amparo se encuentra prevista en el artículo 1, fracción I, de la Ley de Amparo,<xref ref-type="fn" rid="fn23"><sup>23</sup></xref> donde se señala que tiene por objeto resolver toda controversia que se suscite contra todo acto, omisión o norma general que viole los derechos humanos reconocidos por la Constitución Federal y los tratados internacionales de los que el Estado mexicano sea parte. En suma, sirve para calificar la constitucionalidad de actos u omisiones de autoridad que violen derechos humanos, con el fin de proteger a la dignidad humana de los ultrajes o abusos de poder del gobernante.<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>
+			</p>
+			<p>El juicio de amparo se ejerce de acuerdo con la naturaleza del acto de autoridad que se pretende impugnar, para lo cual se contemplan dos vías: amparo directo en contra de sentencias definitivas, laudos y resoluciones que pongan fin al juicio; y amparo indirecto que procede, entre otros casos, en los señalados en el artículo 107, fracción V, de la Ley de Amparo, que dice: </p>
+			<disp-quote>
+				<p>Contra actos en juicio cuyos efectos sean de imposible reparación, entendiéndose por ellos los que afecten materialmente derechos sustantivos tutelados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte.<xref ref-type="fn" rid="fn25"><sup>25</sup></xref>
+				</p>
+			</disp-quote>
+			<p>El especial, el juicio de amparo indirecto se tramita ante los tribunales del Poder Judicial de la Federación, para proceder contra actos de autoridad dictados dentro del juicio, siempre que sean de imposible reparación, esto es, violen de manera directa e inmediata derechos sustantivos. Los tribunales federales, al aplicar las normas jurídicas generales a casos concretos, interpretan su sentido e integran sus alcances para formar la jurisprudencia. La jurisprudencia es fuente de Derecho que surge de las ejecutorias que emiten principalmente la Suprema Corte de Justicia de la Nación, los plenos regionales y los tribunales colegiados de circuito.<xref ref-type="fn" rid="fn26"><sup>26</sup></xref>
+			</p>
+			<p>La jurisprudencia es de cumplimiento obligatorio para los tribunales federales, siguiendo un orden descendente de jerarquía, de mayor a mejor. En tal sentido, cumple una función reguladora para conservar la puntual observancia de la ley y unificar su interpretación, estableciendo límites a la actuación de los órganos del Estado en relación con las normas constitucionales y los derechos humanos.<xref ref-type="fn" rid="fn27"><sup>27</sup></xref>
+			</p>
+			<p>En la evolución de los criterios interpretativos de los tribunales federales, en un principio se resolvió que la CNDH no es autoridad responsable para efectos del juicio de amparo, porque se actualiza la causal de improcedencia prevista en el artículo 61, fracción XXIII, de la Ley de Amparo, en relación con los artículos 102, apartado B y 103 de la Constitución Federal. La Tesis Aislada P. XCVII/98 resume el argumento central diciendo que este organismo tutela los derechos humanos desde una perspectiva política y cuasi jurisdiccional, de tal modo que las determinaciones finales que emita, al no ser actos de autoridad, son inimpugnables mediante el juicio de amparo; además, ello significaría ejercer un medio de control sobre otro, esto es, uno jurisdiccional sobre uno no jurisdiccional.<xref ref-type="fn" rid="fn28"><sup>28</sup></xref>
+			</p>
+			<p>En un criterio opuesto al anterior, en abril de 2000, el Pleno de la Suprema Corte de Justicia de la Nación formuló la Tesis Aislada P. XLVIII/2000, de rubro <italic>Comisión Nacional de Derechos Humanos. La negativa a expedir copia de constancias relativas a los expedientes de queja a las partes que la solicitan para exhibirlas en juicio, viola la garantía de audiencia, aun cuando se aduzcan razones de confidencialidad</italic>, en la cual interpretó que, durante el procedimiento de queja, la CNDH puede realizar actos de autoridad intraprocesales que violen los derechos humanos del quejoso, por lo que procede el juicio de amparo indirecto.<xref ref-type="fn" rid="fn29"><sup>29</sup></xref> Este criterio interpretativo fue reiterado en otras tesis aisladas, donde se señaló que pueden realizar actos de autoridad que violan los derechos humanos del quejoso, como el derecho de acceso a la justicia, de defensa, seguridad jurídica, de previa audiencia, entre otros.<xref ref-type="fn" rid="fn30"><sup>30</sup></xref>
+			</p>
+			<p>Ante la existencia de tesis aisladas con criterios divergentes, en mayo de 2016 la Segunda Sala de la Suprema Corte de Justicia de la Nación, al resolver el amparo en revisión 742/2015, emitió una jurisprudencia donde sostuvo que los actos de la CNDH, al no ser actos de autoridad, impiden que proceda el juicio de amparo en contra de sus procedimientos o en contra de las actuaciones realizadas durante su substanciación, incluyendo la resolución que deba recaer a los mismos, ya sea una recomendación, un acuerdo de no responsabilidad, el desechamiento de la queja o el requerimiento de mayor información con el fin de emitir una recomendación. </p>
+			<p>En desarrollo del mismo tema, en 2018 la Primera Sala de la Suprema Corte de Justicia de la Nación dictó la jurisprudencia 1a./J. 23/2018 (10a.), de rubro <italic>Procede el juicio de amparo cuando la comisión nacional de derechos humanos desecha un recurso de impugnación por improcedente</italic>. El fundamento legal fue el artículo 5, fracción II, de la Ley de Amparo, que define a los actos de autoridad como aquellos que crean, modifican o extinguen situaciones jurídicas de forma unilateral y obligatoria. Se expuso que la CNDH debe tramitar los recursos de inconformidad con apego a la ley sin incurrir en arbitrariedades, por ende, el desechamiento de un recurso de impugnación que se aleje de ese estándar de legalidad afecta la esfera jurídica de las personas en tanto les impide acceder a la tutela no jurisdiccional de derechos humanos, prevista en el artículo 102, apartado B constitucional. De esta manera, el desechamiento de un recurso de impugnación que no cumple con los requisitos de procedencia es un acto de autoridad, porque se trata de un acto intraprocesal que extingue situaciones jurídicas de forma unilateral, obligatoria y que puede generar violaciones a derechos humanos.<xref ref-type="fn" rid="fn31"><sup>31</sup></xref>
+			</p>
+			<p>Ante la existencia de dos jurisprudencias con criterios opuestos, el Alto Tribunal se tuvo que pronunciar para resolver la contradicción entre la jurisprudencia 1a./J. 23/2018 (10a.) emitida por la Primera Sala y la sustentada por la Segunda Sala al resolver el amparo en revisión 742/2015. El Pleno de la Suprema Corte de Justicia de la Nación resolvió dicha contradicción en la jurisprudencia P./J. 13/2025 (11a.), de rubro <italic>Comisión Nacional de los Derechos Humanos. Cuando desecha un medio de impugnación constituye un acto de autoridad para efectos del juicio de amparo</italic>, que solo en lo relativo dice: </p>
+			<disp-quote>
+				<p>Criterio jurídico: Por regla general el juicio de amparo es improcedente contra los actos u omisiones de la Comisión Nacional de los Derechos Humanos dentro de los procedimientos sometidos a su conocimiento, distintos a las recomendaciones que emite, pero excepcionalmente, sin ser limitativo, procede cuando desecha un medio de impugnación por improcedente, al tratarse de un acto que crea, modifica o extingue situaciones jurídicas en forma unilateral y obligatoria.<xref ref-type="fn" rid="fn32"><sup>32</sup></xref>
+				</p>
+			</disp-quote>
+			<p>En la justificación, el Pleno expuso como fundamento los artículos 103 de la Constitución Federal y 107 de la Ley de Amparo, de donde se desprende que el juicio de garantías no es un medio de impugnación para analizar la validez de los actos u omisiones de la CNDH, pues sus determinaciones no son vinculantes y sus resoluciones solo tienen como base una autoridad moral. No obstante, excepcionalmente procede el amparo indirecto cuando el organismo constitucional autónomo desecha un medio de impugnación por improcedente<bold>,</bold> pues los quejosos tienen derecho a que se tramite con apego a la ley y, por ende, un desechamiento ilegal y arbitrario podría afectar su esfera jurídica. </p>
+			<p>Por tanto, al no ser limitativa la procedencia del juicio de amparo, existe la posibilidad de que el quejoso lo interponga contra otro tipo de actos de autoridad intraprocesales emitidos por los servidores públicos de la CNDH que vulneren sus derechos humanos. </p>
+		</sec>
+		<sec>
+			<title>V. El debido proceso en la jurisprudencia de la corte interamericana de derechos humanos (corte IDH)</title>
+			<p>Conforme al artículo 1, en relación con el diverso 133 de la Constitución Federal, el principio de supremacía constitucional establece que los tratados internacionales suscritos por México en materia de derechos humanos tienen rango constitucional. Por ende, tienen el rango de Ley Suprema, lo que implica que todas las normas jurídicas deben ser acordes con los mismos tanto en un sentido formal como material. Para indicar la igual simetría que existe entre los derechos humanos reconocidos en la Constitución y los reconocidos en los tratados internacionales, se ha acuñado el término “bloque de constitucionalidad”. </p>
+			<p>Por su parte, el segundo párrafo del artículo 1 de la Constitución Federal prevé que las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución y con los tratados internacionales en la materia, favoreciendo en todo tiempo a las personas la protección más amplia. Con base en este párrafo, todas las autoridades y servidores públicos del Estado tienen la obligación de interpretar los derechos humanos de acuerdo con el principio <italic>pro persona</italic> y al principio de interpretación, conforme a la Constitución y tratados internacionales. </p>
+			<p>Como todas las autoridades y servidores públicos del país, los órganos jurisdiccionales y los no jurisdiccionales encargados de la protección de los derechos humanos deberán cumplir con las obligaciones contenidas en el tercer párrafo del artículo en comento, que incluyen respetar, proteger, garantizar y sancionar los derechos humanos, conforme a los principios de universalidad, interdependencia, indivisibilidad y progresividad. Por ende, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.</p>
+			<p>La fuerza normativa de la Constitución obliga por igual a todas las autoridades y servidores públicos,<xref ref-type="fn" rid="fn33"><sup>33</sup></xref> incluidos aquellos que integran organismos constitucionales autónomos quienes, pese a su independencia, no están exentos de cumplir con las normas del sistema jurídico mexicano, pues su finalidad principal radica en atender necesidades del Estado y de la sociedad en general.<xref ref-type="fn" rid="fn34"><sup>34</sup></xref> Así lo reconoce el Reglamento de la CNDH en la fracción XXV del considerando que aborda la reforma de 2011 en materia de derechos humanos, donde señala la obligación de todas las autoridades del país y de los organismos públicos de derechos humanos, de aplicar el principio <italic>pro persona</italic> y el principio de interpretación conforme a la Constitución y a los tratados internacionales.</p>
+			<p>En cumplimiento de los mencionados principios, los órganos jurisdiccionales y los órganos no jurisdiccionales protectores de derechos humanos participan en el Sistema Interamericano de Derechos Humanos.<xref ref-type="fn" rid="fn35"><sup>35</sup></xref> Este sistema se compone, entre otros, por la Convención Americana sobre Derechos Humanos<xref ref-type="fn" rid="fn36"><sup>36</sup></xref> (CADH), de contenido normativo, la cual establece la competencia de sus dos órganos de vigilancia: la Comisión Interamericana de Derechos Humanos<xref ref-type="fn" rid="fn37"><sup>37</sup></xref> encargada de la observancia, consulta y defensa de los derechos humanos; y la Corte IDH con atribuciones de opinión consultiva y jurisdiccionales para resolver las violaciones de derechos humanos de los Estados partes que puedan incurrir en responsabilidad internacional (CADH, art. 62.3).</p>
+			<p>La jurisprudencia de la Corte IDH,<xref ref-type="fn" rid="fn38"><sup>38</sup></xref> al derivar del trabajo de los órganos de vigilancia reconocidos por los Estados miembro, es parte por extensión de la CADH, por lo que resulta vinculante para los tribunales jurisdiccionales internos. México aceptó la competencia contenciosa de la Corte IDH en 1998, que fue adicionada como un mecanismo internacional para la protección de los derechos humanos.<xref ref-type="fn" rid="fn39"><sup>39</sup></xref> En 2014, el Pleno de la SCJN emitió una jurisprudencia en la que interpretó que, conforme al principio <italic>pro persona</italic>, la jurisprudencia de la Corte IDH tiene carácter de obligatoriedad para los órganos jurisdiccionales mexicanos, independientemente de que el Estado Mexicano haya sido parte o no en el litigio ante dicho tribunal.<xref ref-type="fn" rid="fn40"><sup>40</sup></xref>
+			</p>
+			<p>En lo que respecta a los servidores públicos de los organismos públicos de derechos humanos, la CNDH, al aplicar el principio <italic>pro persona</italic> y el principio de interpretación conforme durante el procedimiento no jurisdiccional, tiene la obligación cumplir con la jurisprudencia de la Corte IDH; de lo contrario, la violación de un tratado le acarrearía la responsabilidad internacional del Estado.<xref ref-type="fn" rid="fn41"><sup>41</sup></xref>
+			</p>
+			<p>Al respecto, la Corte IDH ha emitido una jurisprudencia progresiva en la que ha interpretado que el debido proceso legal es un derecho que protege a las personas en todo procedimiento donde se afectan derechos humanos, sea jurisdiccional o no jurisdiccional, como se verá enseguida.</p>
+			<p>La CADH define el debido proceso en el artículo 8.1, donde dice lo siguiente: </p>
+			<disp-quote>
+				<p>Artículo 8. Garantías Judiciales.</p>
+			</disp-quote>
+			<disp-quote>
+				<p>1. Toda persona tiene derecho a ser oída, con las debidas garantías y dentro de un plazo razonable, por un juez o tribunal competente, independiente e imparcial, establecido con anterioridad por la ley, en la sustanciación de cualquier acusación penal formulada contra ella, o para la determinación de sus derechos y obligaciones de orden civil, laboral, fiscal o de cualquier otro carácter.</p>
+			</disp-quote>
+			<p>La Corte IDH interpreta que el término “garantías judiciales” debe entenderse como el “debido proceso legal”<xref ref-type="fn" rid="fn42"><sup>42</sup></xref>, comprendido como el derecho a ser oído, el derecho a una investigación judicial efectiva, a ser juzgado por un tribunal independiente, imparcial y competente; a ser juzgado en un plazo razonable; a una resolución motivada; y a la previsibilidad de la sanción.<xref ref-type="fn" rid="fn43"><sup>43</sup></xref>
+			</p>
+			<p>El artículo 8.2 de la CADH establece las siguientes garantías mínimas del debido proceso legal: derecho a intérprete (art. 8.2.a); derecho a que se le comunique la acusación (art. 8.2.b); concesión de medios y tiempo para la preparación de la defensa (8.2.c); defensa técnica (art. 8.2.d y e); derecho a conocer la prueba y la identidad de los testigos (8.2.f); presentar prueba para esclarecer los hechos (8.2.f); derecho a recursos de impugnación ante un tribunal o un juez superior (art. 8.2.h); derecho de asistencia consular; principio de coherencia o de correlación entre acusación y sentencia; derecho a una evaluación sobre la salud mental en los casos de pena de muerte; principio de legalidad y no retroactividad (art. 9 CADH) en relación con el debido proceso (art. 8 CADH); debido proceso y grupos en situación de discriminación.</p>
+			<p>Las garantías mínimas del debido proceso legal previstas en el artículo 8.2 de la CADH constituyen un derecho no solo para la defensa del inculpado, sino también para la víctima, imponiendo al Estado a tratarlos no como un objeto del proceso penal, sino como verdaderos sujetos del proceso, es decir, como parte activa dentro del procedimiento con derechos que les aseguran una intervención eficaz en defensa de sus intereses.<xref ref-type="fn" rid="fn44"><sup>44</sup></xref>
+			</p>
+			<p>La víctima de violación de derechos humanos tiene el derecho de participar en el procedimiento<xref ref-type="fn" rid="fn45"><sup>45</sup></xref> no solo para efectos de la reparación del daño, sino también para hacer efectivos sus derechos a la verdad y a la justicia, a una resolución por un tribunal competente, a un recurso de impugnación y a la reparación del daño de acuerdo con el debido proceso y el acceso a la justicia.<xref ref-type="fn" rid="fn46"><sup>46</sup></xref>
+			</p>
+			<p>Si bien el artículo 8.1 de la Convención se refiere a un juez o tribunal competente, la Corte IDH ha interpretado mediante jurisprudencia que, “dicho artículo es igualmente aplicable a las situaciones en que alguna autoridad pública, no judicial, dicte resoluciones que afecten la determinación de tales derechos”.<xref ref-type="fn" rid="fn47"><sup>47</sup></xref>
+			</p>
+			<p>La IDH también interpreta que el alcance del debido proceso legal previsto en el artículo 8.1 de la Convención no se limita solo en el ámbito judicial en estricto sentido, sino que comprende un “conjunto de requisitos que las autoridades deben observar en las instancias procesales para asegurar una adecuada defensa de las personas ante cualquier tipo de acto emanado del Estado que pueda afectar sus derechos”.<xref ref-type="fn" rid="fn48"><sup>48</sup></xref> Estas garantías representan un derecho transversal a todos los derechos fundamentales sin excepción y a todo el sistema jurídico,<xref ref-type="fn" rid="fn49"><sup>49</sup></xref> por lo que la Corte IDH ha precisado la extensión de estas garantías “no solo en el ámbito judicial, sino en cualquier procedimiento donde se decidan derechos de las personas”.<xref ref-type="fn" rid="fn50"><sup>50</sup></xref>
+			</p>
+			<p>En suma, ha establecido mediante jurisprudencia que las garantías del debido proceso legal deben respetarse en cualquier procedimiento donde la decisión pueda afectar los derechos humanos de las personas, sea jurisdiccional o no jurisdiccional. </p>
+			<p>En el ámbito jurídico mexicano, el debido proceso se encuentra previsto en el segundo párrafo del artículo 14 constitucional, según el cual ninguna persona podrá ser privada de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, de acuerdo con las formalidades esenciales del procedimiento y conforme a las leyes expedidas con anterioridad al hecho.</p>
+			<p>Los actos de autoridad privativos de derechos tienen como efecto la disminución, menoscabo o supresión definitiva de un derecho material o inmaterial del gobernado,<xref ref-type="fn" rid="fn51"><sup>51</sup></xref> con lo cual crea, modifica o extingue situaciones jurídicas en forma unilateral y obligatoria. Antes de un acto de autoridad privativo de derechos que modifique la esfera jurídica del gobernado de forma definitiva, la persona tiene derecho al debido proceso para la oportuna y adecuada defensa de sus derechos sustantivos.<xref ref-type="fn" rid="fn52"><sup>52</sup></xref>
+			</p>
+			<p>El debido proceso es propio de un modelo de derecho garantista, pues contiene un conjunto de requisitos que condicionan la actuación de las autoridades para asegurar que las personas no sean sometidas a decisiones arbitrarias. Contiene, como mínimo, las siguientes formalidades del procedimiento: 1) la notificación del inicio del procedimiento y sus consecuencias. 2) La oportunidad de ofrecer y desahogar las pruebas en que se finque la defensa. 3) La oportunidad de alegar. 4) El dictado de una resolución que dirima las cuestiones debatidas y el derecho a un recurso de impugnación.<xref ref-type="fn" rid="fn53"><sup>53</sup></xref>
+			</p>
+			<p>El debido proceso sustantivo es un derecho con eficacia transversal en todo el sistema jurídico, toda vez que la oportunidad defensiva es exigible frente a cualquier acto privativo de derechos humanos que efectúe el poder público.<xref ref-type="fn" rid="fn54"><sup>54</sup></xref>
+			</p>
+			<p>De acuerdo con la opinión de Salinas Garza, si bien es cierto que el procedimiento no jurisdiccional debe ser diseñado con base a principios esenciales como los de expeditez, simplicidad, accesibilidad y eficacia, también lo es que debe existir un balance con las formalidades esenciales de todo procedimiento que ofrezcan seguridad jurídica a la parte quejosa.<xref ref-type="fn" rid="fn55"><sup>55</sup></xref>
+			</p>
+			<p>En consecuencia, los servidores públicos de la CNDH tienen la obligación de llevar a cabo el procedimiento no jurisdiccional conforme a las formalidades del debido proceso establecidas en la Constitución Federal y en la jurisprudencia de la Corte IDH. La jurisprudencia de la Suprema Corte de Justicia de la Nación ha interpretado que la procedencia del juicio de amparo para impugnar actos de autoridad de la CNDH es excepcional, pero no limitativa. Por lo tanto, si los servidores públicos de la CNDH violan el derecho fundamental del debido proceso durante el procedimiento de queja, el quejoso puede acudir al amparo y protección de los tribunales federales. </p>
+		</sec>
+		<sec>
+			<title>VI. Obligación de la comisión nacional de derechos humanos de armonizar su legislación con la jurisprudencia de la CNDH</title>
+			<p>Para garantizar los derechos humanos, la Primera Sala de la Suprema Corte de Justicia de la Nación ha interpretado que los derechos humanos contienen expectativas de actuación por parte de las autoridades del Estado, por lo que los individuos deben contar con garantías que hagan realidad tales aspiraciones. Por ello, dice el más Alto Tribunal que las garantías de protección son medios que permiten lograr la eficacia de los derechos humanos; en su ausencia, el goce de los derechos que reconoce nuestro orden constitucional no puede materializarse en las personas.<xref ref-type="fn" rid="fn56"><sup>56</sup></xref>
+			</p>
+			<p>Los Principios de París<xref ref-type="fn" rid="fn57"><sup>57</sup></xref> señalan que el procedimiento cuasi jurisdiccional de las instituciones nacionales de derechos humanos debe de ser efectiva y no una mera formalidad, para lo cual deben cumplir con un conjunto de condiciones que son semejantes a las del debido proceso. En el mismo sentido, la Corte IDH ha señalado que para garantizar a las personas el derecho al debido proceso se requiere que el acceso a la justicia no solo sea formal, sino que permita un acceso real a los justiciables.<xref ref-type="fn" rid="fn58"><sup>58</sup></xref>
+			</p>
+			<p>En tal virtud, el procedimiento no jurisdiccional establecido por la Ley de la CNDH debe ser idóneo y eficaz para proteger los derechos humanos cuando sean amenazados o violados, y no una mera formalidad.<xref ref-type="fn" rid="fn59"><sup>59</sup></xref> En este sentido, el procedimiento no jurisdiccional establecido por la Ley de la CNDH, al no establecer las formalidades esenciales del debido proceso, resulta ineficaz para garantizar los derechos humanos del quejoso, lo que hace que el derecho fundamental de tutela no jurisdiccional sea una formalidad ajena a la realidad. </p>
+			<p>El procedimiento no jurisdiccional establecido en la Ley de la CNDH, al contravenir la jurisprudencia de la Corte IDH sobre el debido proceso, resulta inconvencional, lo que genera incoherencia normativa e inseguridad jurídica. Los Estados miembro de la CADH tienen la obligación de proporcionar recursos judiciales efectivos de acuerdo con las reglas del debido proceso legal.<xref ref-type="fn" rid="fn60"><sup>60</sup></xref> Al respecto, la CADH dispone en el numeral 2 que, si los derechos y libertades contenidos en la Convención no se encuentran ya reconocidos, el Estado que lo suscribió se obliga a adoptar las medidas legislativas que fueren necesarias para su incorporación en su orden jurídico interno. </p>
+			<p>La jurisprudencia de la Corte IDH como parte fundamental de las obligaciones de los Estados Parte en la CADH, también debe ser integrada en su legislación interna. La Corte IDH, con fundamento en los artículos 1.1 y 2 de la CADH, tiene la autoridad para desarrollar su jurisprudencia en el contenido del sistema jurídico interamericano, el cual prevé que se debe incorporar en los ordenamientos jurídicos de los Estados Parte.</p>
+			<p>Este compromiso implica que los Estados Parte deben organizar todas las estructuras del poder de tal forma que tengan la capacidad de asegurar jurídicamente el libre y pleno ejercicio de los derechos humanos.<xref ref-type="fn" rid="fn61"><sup>61</sup></xref> Este deber incluye a los organismos autónomos que tienen competencia para reparar o evitar la vulneración de los instrumentos internacionales.<xref ref-type="fn" rid="fn62"><sup>62</sup></xref>
+			</p>
+			<p>Los órganos legislativos son fundamentales para que el nuevo paradigma de derechos humanos establecido en la Constitución Federal tenga plena efectividad, por lo que tienen la tarea de armonizar las normas legales con el <italic>corpus iuris</italic> internacional de los derechos humanos.<xref ref-type="fn" rid="fn63"><sup>63</sup></xref>
+			</p>
+			<p>La progresividad del derecho al debido proceso legal en la Jurisprudencia de la Corte IDH sobre los procedimientos no jurisdiccionales donde se determinan derechos humanos, debe incorporarse en la legislación de la CNDH. Los Estados Parte tienen el deber de legislar para adecuar la Constitución y todas las leyes secundarias y reglamentarias, a las normas convencionales del debido proceso comprendidas en los artículos 8.1 y 1.1 de la CADH, para garantizar que, en todas las etapas de los respectivos procesos, las víctimas de violación de derechos humanos puedan hacer planteamientos, recibir informaciones, aportar pruebas, formular alegaciones y, en síntesis, hacer valer sus intereses.</p>
+			<p>Si se reforma a la Ley de la CNDH para adecuar su normatividad con la jurisprudencia de la Corte IDH sobre el debido proceso, el quejoso tendría a salvo su derecho a una oportuna y adecuada defensa durante el procedimiento y, en caso de ser necesario, acudir al juicio de amparo para combatir los actos de autoridad que violen estos derechos.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>VII. Conclusiones</title>
+			<p>El análisis de los cuatro últimos informes anuales de la CNDH reveló que, por el escaso número de recomendaciones que emite, es un medio de control constitucional que carece de eficacia en la protección de los derechos humanos. </p>
+			<p>Se identificó que la causa de su ineficacia radica en su ley, la cual otorga facultades discrecionales a sus servidores públicos para resolver las quejas de acuerdo con su criterio. El artículo 1 Constitucional protege la dignidad humana como origen y fundamento de los derechos humanos. Este paradigma hace posible que medios de control constitucional, como el juicio de amparo y la jurisprudencia de la Corte IDH, sean procedentes para proteger el derecho fundamental al debido proceso del quejoso contra la discrecionalidad de los servidores públicos de la CNDH. </p>
+			<p>El derecho al debido proceso le garantiza al quejo los derechos de tutela no jurisdiccional efectiva, de seguridad jurídica, defensa, a la verdad, a un recurso de impugnación, a una resolución sobre el fondo de la queja y, en caso de ameritar una recomendación, a que se le repare de manera integral el daño causado y, aun de mayor trascendencia de acuerdo con el nuevo paradigma constitucional, se le restituya su dignidad como persona.</p>
+			<p>La Ley de la CNDH establece un procedimiento no jurisdiccional que, al ser ineficaz en su función de garantizar los derechos humanos del quejoso, hace que el derecho a de tutela no jurisdiccional sea una formalidad que carece de realidad jurídica. Se concluye que la CNDH, como medio de control constitucional protector de derechos humanos, tiene la obligación de adecuar su legislación en lo que proceda, a las normas constitucionales y convencionales del debido proceso, para hacer efectivo el derecho humano de tutela no jurisdiccional previsto en el apartado B del artículo 102 constitucional. </p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>VIII. Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Altamirano González, Arturo. <italic>El amparo contra el sobreseimiento y desistimiento de la acción penal en el sistema penal acusatorio de México</italic>. México: UBIJUS, 2021.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Altamirano González</surname>
+							<given-names>Arturo</given-names>
+						</name>
+					</person-group>
+					<source>El amparo contra el sobreseimiento y desistimiento de la acción penal en el sistema penal acusatorio de México</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>UBIJUS</publisher-name>
+					<year>2021</year>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Báez Corona, José Francisco. “Eficacia de las recomendaciones emitidas por la Comisión Nacional de Derechos Humanos en México y la reforma constitucional 2011”, <italic>Una Voz</italic> Pro Persona, n.<sup>o</sup> 1, (2013): 31-40.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Báez Corona</surname>
+							<given-names>José Francisco</given-names>
+						</name>
+					</person-group>
+					<article-title>Eficacia de las recomendaciones emitidas por la Comisión Nacional de Derechos Humanos en México y la reforma constitucional 2011</article-title>
+					<source>Una Voz Pro Persona</source>
+					<issue>1</issue>
+					<year>2013</year>
+					<fpage>31</fpage>
+					<lpage>40</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Carbonell, Miguel. <italic>El ABC de los derechos humanos y del control de convencionalidad</italic>. México: Porrúa, 2014.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carbonell</surname>
+							<given-names>Miguel</given-names>
+						</name>
+					</person-group>
+					<source>El ABC de los derechos humanos y del control de convencionalidad</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Porrúa</publisher-name>
+					<year>2014</year>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Carbonell, Miguel. <italic>Los derechos humanos en México</italic>. México: UNAM-Flores Editor y Distribuidor, 2015.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carbonell</surname>
+							<given-names>Miguel</given-names>
+						</name>
+					</person-group>
+					<source>Los derechos humanos en México</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>UNAM-Flores Editor y Distribuidor</publisher-name>
+					<year>2015</year>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Carpizo, Jorge. ”<italic>El sistema nacional no-jurisdiccional de defensa de los derechos humanos en México: algunas preocupaciones</italic>”. En <italic>Los derechos humanos en los umbrales del siglo XXI: una visión interdisciplinar</italic>, ed. por Aída Figueroa Bello (México: UNAM, 2019) ,1-58.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carpizo</surname>
+							<given-names>Jorge</given-names>
+						</name>
+					</person-group>
+					<chapter-title>El sistema nacional no-jurisdiccional de defensa de los derechos humanos en México: algunas preocupaciones</chapter-title>
+					<source>Los derechos humanos en los umbrales del siglo XXI: una visión interdisciplinar</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Figueroa Bello</surname>
+							<given-names>Aída</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>UNAM</publisher-name>
+					<year>2019</year>
+					<fpage>1</fpage>
+					<lpage>58</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Cervera Torres, Verónica y Torres Caballero, Sylvia. “La Comisión Nacional de los Derechos Humanos como autoridad responsable para efectos del Juicio de Amparo”. <italic>Revista del Posgrado en Derecho de la UNAM</italic>, n.<sup>o</sup> 6, (2017): 153-171.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cervera Torres</surname>
+							<given-names>Verónica</given-names>
+						</name>
+						<name>
+							<surname>Torres Caballero</surname>
+							<given-names>Sylvia</given-names>
+						</name>
+					</person-group>
+					<article-title>La Comisión Nacional de los Derechos Humanos como autoridad responsable para efectos del Juicio de Amparo</article-title>
+					<source>Revista del Posgrado en Derecho de la UNAM</source>
+					<issue>6</issue>
+					<year>2017</year>
+					<fpage>153</fpage>
+					<lpage>117</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Cuauhtémoc Manuel De Dienheim Barriguete. “La interpretación conforme, el control de la convencionalidad y el principio <italic>pro persona</italic> como mandato al poder legislativo”. En <italic>Derecho procesal convencional y la inconvencionalidad</italic>, coord. por Sonia Escalante López, Gonzálo Armienta Hernández, Cuahutémoc Manuel de Dienheim Barriguete, Martín Ariel López Castro y Alfonso Jaime Martínez Lazcano. México: Porrúa, 2016.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Dienheim Barriguete</surname>
+							<given-names>Cuauhtémoc Manuel</given-names>
+						</name>
+					</person-group>
+					<chapter-title>La interpretación conforme, el control de la convencionalidad y el principio pro persona como mandato al poder legislativo</chapter-title>
+					<source>Derecho procesal convencional y la inconvencionalidad</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Escalante López</surname>
+							<given-names>Sonia</given-names>
+						</name>
+						<name>
+							<surname>Armienta Hernández</surname>
+							<given-names>Gonzálo</given-names>
+						</name>
+						<name>
+							<surname>de Dienheim Barriguete</surname>
+							<given-names>Cuahutémoc Manuel</given-names>
+						</name>
+						<name>
+							<surname>López Castro</surname>
+							<given-names>Martín Ariel</given-names>
+						</name>
+						<name>
+							<surname>Martínez Lazcano</surname>
+							<given-names>Alfonso Jaime</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Porrúa</publisher-name>
+					<year>2016</year>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Del Arenal Martínez, Vicente Roberto. <italic>La jurisprudencia de los Tribunales Colegiados de Circuito</italic>. México: Flores Editor y Distribuidor, 2020.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Del Arenal Martínez</surname>
+							<given-names>Vicente Roberto</given-names>
+						</name>
+					</person-group>
+					<source>La jurisprudencia de los Tribunales Colegiados de Circuito</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Flores Editor y Distribuidor</publisher-name>
+					<year>2020</year>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Durand De Sanjuan, Erick Alberto y Gorjón Gómez, Francisco Javier. “La obligatoriedad de los métodos alternos de solución de conflictos conforme al principio del debido proceso”. En <italic>El debido proceso T. II</italic>, coord. por Acuña Zepeda, Manuel Salvador, Rodríguez Lozano, Luis Gerardo y Salinas Garza, Juan Ángel. México: Tirant lo Blanch, 2016.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Durand De Sanjuan</surname>
+							<given-names>Erick Alberto</given-names>
+						</name>
+						<name>
+							<surname>Gorjón Gómez</surname>
+							<given-names>Francisco Javier</given-names>
+						</name>
+					</person-group>
+					<chapter-title>La obligatoriedad de los métodos alternos de solución de conflictos conforme al principio del debido proceso</chapter-title>
+					<source>El debido proceso T. II</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Acuña Zepeda</surname>
+							<given-names>Manuel Salvador</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez Lozano</surname>
+							<given-names>Luis Gerardo</given-names>
+						</name>
+						<name>
+							<surname>Salinas Garza</surname>
+							<given-names>Juan Ángel</given-names>
+						</name>
+					</person-group>
+					<publisher-name>México</publisher-name>
+					<publisher-name>Tirant lo Blanch</publisher-name>
+					<year>2016</year>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Garita Alonso, Arturo, López García, Mario, Mena Álvarez, Jaime. <italic>Los Medios de Control Constitucional en México</italic>. México: Senado de la República, 2013.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Garita Alonso</surname>
+							<given-names>Arturo</given-names>
+						</name>
+						<name>
+							<surname>López García</surname>
+							<given-names>Mario</given-names>
+						</name>
+						<name>
+							<surname>Mena Álvarez</surname>
+							<given-names>Jaime</given-names>
+						</name>
+					</person-group>
+					<source>Los Medios de Control Constitucional en México</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Senado de la República</publisher-name>
+					<year>2013</year>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>González Pérez, Luis Raúl. “El sistema no-jurisdiccional de protección de los derechos humanos en México”, <italic>IUS Revista del Instituto de Ciencias Jurídicas de Puebla, México</italic>, n.o. 28 (2011): 99-22.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>González Pérez</surname>
+							<given-names>Luis Raúl</given-names>
+						</name>
+					</person-group>
+					<article-title>El sistema no-jurisdiccional de protección de los derechos humanos en México</article-title>
+					<source>IUS Revista del Instituto de Ciencias Jurídicas de Puebla, México</source>
+					<issue>28</issue>
+					<year>2011</year>
+					<fpage>99</fpage>
+					<lpage>22</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Hernández Segovia, Arturo. <italic>El derecho de amparo</italic>. México: Porrúa, 2020. <ext-link ext-link-type="uri" xlink:href="https://hchr.org.mx/historias-destacadas/mexico-una-ola-de-continuas-violaciones-de-derechos-humanos-2/#:~:text=El%20Alto%20Comisionado%20de%20las,mediante%20reformas%20jur%C3%ADdicas%20y%20constitucionales">https://hchr.org.mx/historias-destacadas/mexico-una-ola-de-continuas-violaciones-de-derechos-humanos-2/#:~:text=El%20Alto%20Comisionado%20de%20las,mediante%20reformas%20jur%C3%ADdicas%20y%20constitucionales</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hernández Segovia</surname>
+							<given-names>Arturo</given-names>
+						</name>
+					</person-group>
+					<source>El derecho de amparo</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Porrúa</publisher-name>
+					<year>2020</year>
+					<ext-link ext-link-type="uri" xlink:href="https://hchr.org.mx/historias-destacadas/mexico-una-ola-de-continuas-violaciones-de-derechos-humanos-2/#:~:text=El%20Alto%20Comisionado%20de%20las,mediante%20reformas%20jur%C3%ADdicas%20y%20constitucionales">https://hchr.org.mx/historias-destacadas/mexico-una-ola-de-continuas-violaciones-de-derechos-humanos-2/#:~:text=El%20Alto%20Comisionado%20de%20las,mediante%20reformas%20jur%C3%ADdicas%20y%20constitucionales</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>López Escarcena, Sebastián. “Los Principios de París y las instituciones nacionales de derechos humanos en América Latina”. <italic>Revista Derecho del Estado</italic> 52 (2022): 67-95. https://doi.org/10.18601/01229893.n52.03</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>López Escarcena</surname>
+							<given-names>Sebastián</given-names>
+						</name>
+					</person-group>
+					<article-title>Los Principios de París y las instituciones nacionales de derechos humanos en América Latina</article-title>
+					<source>Revista Derecho del Estado</source>
+					<volume>52</volume>
+					<year>2022</year>
+					<fpage>67</fpage>
+					<lpage>95</lpage>
+					<pub-id pub-id-type="doi">10.18601/01229893.n52.03</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Muñoz Mena, Eliceo. <italic>Principios rectores de los derechos humanos y sus garantías</italic>. México: Flores Editor y Distribuido, 2018.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muñoz Mena</surname>
+							<given-names>Eliceo</given-names>
+						</name>
+					</person-group>
+					<source>Principios rectores de los derechos humanos y sus garantías</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Flores Editor y Distribuido</publisher-name>
+					<year>2018</year>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Nares Hernández, José Julio, Colín García, Ricardo, Nava Rosales, Kennly Jared. “Derecho fundamental al debido proceso legal”. <italic>Ius Comitiãlis</italic>, n.<sup>o</sup> 2, (2018): 175-196.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nares Hernández</surname>
+							<given-names>José Julio</given-names>
+						</name>
+						<name>
+							<surname>Colín García</surname>
+							<given-names>Ricardo</given-names>
+						</name>
+						<name>
+							<surname>Nava Rosales</surname>
+							<given-names>Kennly Jared</given-names>
+						</name>
+					</person-group>
+					<article-title>Derecho fundamental al debido proceso legal</article-title>
+					<source>Ius Comitiãlis</source>
+					<issue>2</issue>
+					<year>2018</year>
+					<fpage>175</fpage>
+					<lpage>196</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Naveja Macías, José de Jesús. <italic>Los nuevos principios rectores del juicio de amparo</italic>. México: Flores Editor y Distribuidor, 2016.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Naveja Macías</surname>
+							<given-names>José de Jesús</given-names>
+						</name>
+					</person-group>
+					<source>Los nuevos principios rectores del juicio de amparo</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Flores Editor y Distribuidor</publisher-name>
+					<year>2016</year>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Organización de las Naciones Unidas. “México: una ola de continuas violaciones de derechos humanos, 2015”.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organización de las Naciones Unidas</collab>
+					</person-group>
+					<source>México: una ola de continuas violaciones de derechos humanos, 2015</source>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Orozco Solano, Víctor Eduardo. <italic>La fuerza normativa de la Constitución</italic>. México: Porrúa, 2017.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Orozco Solano</surname>
+							<given-names>Víctor Eduardo</given-names>
+						</name>
+					</person-group>
+					<source>La fuerza normativa de la Constitución</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Porrúa</publisher-name>
+					<year>2017</year>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Pérez Fernández Ceja, Ydalia, <italic>La incorporación de la jurisprudencia internacional de derechos humanos por los tribunales de derecho interno</italic>. México: Porrúa, 2017.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez Fernández Ceja</surname>
+							<given-names>Ydalia</given-names>
+						</name>
+					</person-group>
+					<source>La incorporación de la jurisprudencia internacional de derechos humanos por los tribunales de derecho interno</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Porrúa</publisher-name>
+					<year>2017</year>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Pérez Luño, Antonio. <italic>Derechos humanos, Estado y constitución</italic>. Madrid: Tecnos, 2018.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez Luño</surname>
+							<given-names>Antonio</given-names>
+						</name>
+					</person-group>
+					<source>Derechos humanos, Estado y constitución</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Tecnos</publisher-name>
+					<year>2018</year>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Quiñonez Huízar, Francisco Rubén. <italic>Jurisprudencia y control constitucional en México</italic>. México: Flores Editor y Distribuidor, 2021.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Quiñonez Huízar</surname>
+							<given-names>Francisco Rubén</given-names>
+						</name>
+					</person-group>
+					<source>Jurisprudencia y control constitucional en México</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Flores Editor y Distribuidor</publisher-name>
+					<year>2021</year>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Ruiz Miguel, Carlos. <italic>Derechos fundamentales y derecho procesal constitucional</italic>. México: Porrúa, 2014.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ruiz Miguel</surname>
+							<given-names>Carlos</given-names>
+						</name>
+					</person-group>
+					<source>Derechos fundamentales y derecho procesal constitucional</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Porrúa</publisher-name>
+					<year>2014</year>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Sagüés Néstor, Pedro. <italic>La interpretación judicial de la Constitución</italic>. México: Porrúa, 2017.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sagüés Néstor</surname>
+							<given-names>Pedro</given-names>
+						</name>
+					</person-group>
+					<source>La interpretación judicial de la Constitución</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Porrúa</publisher-name>
+					<year>2017</year>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Salinas Garza, Juan Ángel . “Los principios del debido proceso <italic>iura novit curia</italic> y suplencia de la queja en México”. En <italic>El debido proceso T. IV</italic>, coord., por Acuña Zepeda, Manuel Salvador , Rodríguez Lozano, Luis Gerardo , ySalinas Garza, Juan Ángel . México: Tirant lo Blanch, 2016. </mixed-citation>
+				<element-citation publication-type="book">
+				<person-group person-group-type="author">
+					<name>
+						<surname>Salinas Garza</surname>
+						<given-names>Juan Ángel</given-names>
+					</name>
+				</person-group>
+					<chapter-title>Los principios del debido proceso iura novit curia y suplencia de la queja en México</chapter-title>
+					<source>El debido proceso T. IV</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Acuña Zepeda</surname>
+							<given-names>Manuel Salvador</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez Lozano</surname>
+							<given-names>Luis Gerardo</given-names>
+						</name>
+						<name>
+							<surname>Salinas Garza</surname>
+							<given-names>Juan Ángel</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Tirant lo Blanch</publisher-name>
+					<year>2016</year>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Salmón, Elizabeth y Blanco, Cristina. <italic>El derecho al debido proceso en la jurisprudencia de la Corte Interamericana de Derechos Humanos</italic>. Perú: Pontificia Universidad Católica del Perú, 2012.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salmón</surname>
+							<given-names>Elizabeth</given-names>
+						</name>
+						<name>
+							<surname>Blanco</surname>
+							<given-names>Cristina</given-names>
+						</name>
+					</person-group>
+					<source>El derecho al debido proceso en la jurisprudencia de la Corte Interamericana de Derechos Humanos</source>
+					<publisher-loc>Perú</publisher-loc>
+					<publisher-name>Pontificia Universidad Católica del Perú</publisher-name>
+					<year>2012</year>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Silva García, Fernando. “Derecho de audiencia: arts. 14 constitucional y 8o., de la Convención Americana sobre Derechos Humanos”. En <italic>Derechos Humanos en la Constitución: comentarios de Jurisprudencia Constitucional e Interamericana, T. II</italic>, coord. por Ferrer Mac-Gregor Poisot, Eduardo, Caballero Ochoa, José Luis y Steiner, Christian. México: UNAM, Instituto de Investigaciones Jurídicas, 2013.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Silva García</surname>
+							<given-names>Fernando</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Derecho de audiencia: arts. 14 constitucional y 8o., de la Convención Americana sobre Derechos Humanos</chapter-title>
+					<source>Derechos Humanos en la Constitución: comentarios de Jurisprudencia Constitucional e Interamericana, T. II</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ferrer Mac-Gregor Poisot</surname>
+							<given-names>Eduardo</given-names>
+						</name>
+						<name>
+							<surname>Caballero Ochoa</surname>
+							<given-names>José Luis</given-names>
+						</name>
+						<name>
+							<surname>Steiner</surname>
+							<given-names>Christian</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>UNAM, Instituto de Investigaciones Jurídicas</publisher-name>
+					<year>2013</year>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<ref-list>
+			<title>Documentos legales</title>
+			<ref id="B27">
+				<mixed-citation>Artículo 107, fracción V, de la Ley de Amparo, Ley publicada en el <italic>Diario Oficial de la Federación</italic>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Artículo 107, fracción V, de la Ley de Amparo, Ley publicada en el Diario Oficial de la Federación</source>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Comisión Nacional de los Derechos Humanos. <italic>Informe de actividades del 1 de enero al 31 de diciembre de 2023</italic>. </mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Comisión Nacional de los Derechos Humanos</collab>
+					</person-group>
+					<source>Informe de actividades del 1 de enero al 31 de diciembre de 2023</source>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Comisión Nacional de los Derechos Humanos. <italic>Informe de Actividades del 1 de enero al 31 de diciembre de 2022</italic>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Comisión Nacional de los Derechos Humanos</collab>
+					</person-group>
+					<source>Informe de Actividades del 1 de enero al 31 de diciembre de 2022</source>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Comisión Nacional de los Derechos Humanos. <italic>Informe de Actividades. Del 1 de enero al 31 de diciembre de 2021</italic>. </mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Comisión Nacional de los Derechos Humanos</collab>
+					</person-group>
+					<source>Informe de Actividades. Del 1 de enero al 31 de diciembre de 2021</source>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Corte Interamericana de Derechos Humanos. <italic>Cuadernillo de jurisprudencia de la Corte Interamericana de Derechos Humanos</italic> n.º 12 (s/f).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Corte Interamericana de Derechos Humanos</collab>
+					</person-group>
+					<source>Cuadernillo de jurisprudencia de la Corte Interamericana de Derechos Humanos</source>
+					<issue>12</issue>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<ref-list>
+			<title>Legislaciones</title>
+			<ref id="B32">
+				<mixed-citation>Comisión Interamericana de Derechos Humanos, 08 de enero de 1998, <italic>Diario Oficial de la Federación</italic>. </mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Comisión Interamericana de Derechos Humanos</collab>
+					</person-group>
+					<day>08</day>
+					<month>01</month>
+					<year>1998</year>
+					<source>Diario Oficial de la Federación</source>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Comisión Nacional de los Derechos Humanos. 6 de junio de 1990, Congreso de los Estados Unidos Mexicanos, <italic>Diario Oficial de la Federación</italic>. </mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Comisión Nacional de los Derechos Humanos</collab>
+					</person-group>
+					<day>06</day>
+					<month>06</month>
+					<year>1990</year>
+					<publisher-name>Congreso de los Estados Unidos Mexicanos</publisher-name>
+					<publisher-loc>Diario Oficial de la Federación</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Constitución Política de los Estados Unidos Mexicanos, Congreso Constituyente, 5 de febrero de 1917, <italic>Diario Oficial de la Federación</italic>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Constitución Política de los Estados Unidos Mexicanos, Congreso Constituyente</collab>
+					</person-group>
+					<day>05</day>
+					<month>02</month>
+					<year>1917</year>
+					<source>Diario Oficial de la Federación</source>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Convención Americana sobre Derechos Humanos, 09 de enero de 1980, <italic>Diario Oficial de la Federación</italic>. </mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Convención Americana sobre Derechos Humanos</collab>
+					</person-group>
+					<day>09</day>
+					<month>01</month>
+					<year>1980</year>
+					<source>Diario Oficial de la Federación</source>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Corte Interamericana de Derechos Humanos, 08 de enero de 1998, <italic>Diario Oficial de la Federación</italic>. </mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte Interamericana de Derechos Humanos</collab>
+					</person-group>
+					<day>08</day>
+					<month>01</month>
+					<year>1998</year>
+					<source>Diario Oficial de la Federación</source>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, Congreso General de los Estados Unidos Mexicanos, 2 de abril de 2013, <italic>Diario Oficial de la Federación</italic>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<article-title>Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos</article-title>
+					<publisher-name>Congreso General de los Estados Unidos Mexicanos</publisher-name>
+					<day>02</day>
+					<month>04</month>
+					<year>2013</year>
+					<source>Diario Oficial de la Federación</source>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Ley de la Comisión Nacional de los Derechos Humanos, Congreso General de los Estados Unidos Mexicanos, 29 de junio de 1992, <italic>Diario Oficial de la Federación</italic>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<article-title>Ley de la Comisión Nacional de los Derechos Humanos</article-title>
+					<publisher-name>Congreso General de los Estados Unidos Mexicanos</publisher-name>
+					<day>29</day>
+					<month>06</month>
+					<year>1992</year>
+					<source>Diario Oficial de la Federación</source>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Principios Relativos al Estatuto de las Instituciones Nacionales (Principios de París), 1993. </mixed-citation>
+				<element-citation publication-type="other">
+					<source>Principios Relativos al Estatuto de las Instituciones Nacionales (Principios de París)</source>
+					<year>1993</year>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Reglamento Interno de la Comisión Nacional de los Derechos Humanos, Consejo Consultivo de la Comisión Nacional de los Derechos, 29 de septiembre de 2003, <italic>Diario Oficial de la Federación</italic>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<article-title>Reglamento Interno de la Comisión Nacional de los Derechos Humanos</article-title>
+					<publisher-name>Consejo Consultivo de la Comisión Nacional de los Derechos</publisher-name>
+					<day>29</day>
+					<month>09</month>
+					<year>2003</year>
+					<source>Diario Oficial de la Federación</source>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<ref-list>
+			<title>Jurisprudencias de la Corte IDH</title>
+			<ref id="B41">
+				<mixed-citation>Corte IDH. <italic>Caso del Tribunal Constitucional vs. Perú</italic>. Fondo, Reparaciones y Costas. Sentencia de 31 de enero de 2001. Serie C No. 71, párr. 69. </mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte IDH</collab>
+					</person-group>
+					<source>Caso del Tribunal Constitucional vs. Perú</source>
+					<comment>Fondo, Reparaciones y Costas. Sentencia de 31 de enero de 2001. Serie C No. 71, párr. 69</comment>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Corte IDH. <italic>Caso Ivcher Bronstein vs. Perú</italic>. Fondo, Reparaciones y Costas. Sentencia de 6 de febrero de 2001. Serie C No. 74, párr. 105.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte IDH</collab>
+					</person-group>
+					<source>Caso Ivcher Bronstein vs. Perú</source>
+					<comment>Fondo, Reparaciones y Costas. Sentencia de 6 de febrero de 2001. Serie C No. 74, párr. 105</comment>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Corte IDH. <italic>Caso López Mendoza vs. Venezuela</italic>. Fondo Reparaciones y Costas. Sentencia de 1 de septiembre de 2011. Serie C Nqaqo. 233, párr. 202.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte IDH</collab>
+					</person-group>
+					<source>Caso López Mendoza vs. Venezuela</source>
+					<comment>Fondo Reparaciones y Costas. Sentencia de 1 de septiembre de 2011. Serie C Nqaqo. 233, párr. 202</comment>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Corte IDH. <italic>Caso Ruano Torres y otros vs. El Salvador</italic>. Fondo, Reparaciones y Costas. Sentencia de 5 de octubre de 2015. Serie C No. 303, párr. 153.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte IDH</collab>
+					</person-group>
+					<source>Caso Ruano Torres y otros vs. El Salvador</source>
+					<comment>Fondo, Reparaciones y Costas. Sentencia de 5 de octubre de 2015. Serie C No. 303, párr. 153</comment>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Corte IDH. <italic>Caso Ruano Torres y otros vs. El Salvador</italic>. Fondo, Reparaciones y Costas. Sentencia de 5 de octubre de 2015. Serie C No. 303, párr. 151. </mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte IDH</collab>
+					</person-group>
+					<source>Caso Ruano Torres y otros vs. El Salvador</source>
+					<comment>Fondo, Reparaciones y Costas. Sentencia de 5 de octubre de 2015. Serie C No. 303, párr. 151</comment>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Corte IDH. <italic>Caso Velásquez Rodríguez c/Honduras</italic>, sentencia del 29 de julio de 1988 Ser. C Nº 4, 1988, párrafo 175. </mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte IDH</collab>
+					</person-group>
+					<source>Caso Velásquez Rodríguez c/Honduras</source>
+					<comment>sentencia del 29 de julio de 1988 Ser. C Nº 4, 1988, párrafo 175</comment>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Corte IDH. Opinión consultiva OC-8/87, 1987, párrafo 25.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte IDH</collab>
+					</person-group>
+					<source>Opinión consultiva OC-8/87, 1987, párrafo 25</source>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Corte IDH. <italic>Opinión consultiva OC-9/87</italic>, 1987, párrs. 27-28.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte IDH</collab>
+					</person-group>
+					<source>Opinión consultiva OC-9/87, 1987, párrs. 27-28</source>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Corte IDH. <italic>Caso</italic> 
+ <italic>Usón Ramírez vs. Venezuela</italic>. Excepción Preliminar. Fondo. Reparaciones y Costas. Sentencia de 20 de noviembre de 2009. Serie C. No. 207. </mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Corte IDH</collab>
+					</person-group>
+					<source>Usón Ramírez vs. Venezuela</source>
+					<comment>Excepción Preliminar. Fondo. Reparaciones y Costas. Sentencia de 20 de noviembre de 2009. Serie C. No. 207</comment>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<ref-list>
+			<title>Jurisprudencia nacional</title>
+			<ref id="B50">
+				<mixed-citation>Tesis 1a./J. 23/2018 (10a.), Gaceta del Semanario Judicial de la Federación, Décima Época, t. I, l. 59, octubre de 2018, pág. 716. </mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis 1a./J. 23/2018 (10a.)</comment>
+					<source>Gaceta del Semanario Judicial de la Federación</source>
+					<comment>Décima Época, t. I, l. 59</comment>
+					<month>10</month>
+					<year>2018</year>
+					<fpage>716</fpage>
+					<lpage>716</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<mixed-citation>Tesis Aislada VIII.1o.P.A.11 A (11a.), Gaceta del Semanario Judicial de la Federación, Undécima Época, t. IV, l. 19, noviembre de 2022, pág. 3757.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis Aislada VIII.1o.P.A.11 A (11a.)</comment>
+					<source>Gaceta del Semanario Judicial de la Federación</source>
+					<comment>Undécima Época, t. IV, l. 19</comment>
+					<month>11</month>
+					<year>2022</year>
+					<fpage>3757</fpage>
+					<lpage>3757</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B52">
+				<mixed-citation>Tesis Aislada, Constitucional, Tesis: 1a. CCLXXXVI/2014 (10a.), Gaceta del Semanario Judicial de la Federación, Décima Época, t. I., l. 9, agosto de 2014, pág. 529.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment>Tesis Aislada, Constitucional</comment>
+					<comment content-type="degree">Tesis: 1a. CCLXXXVI/2014 (10a.)</comment>
+					<source>Gaceta del Semanario Judicial de la Federación</source>
+					<comment>Décima Época, t. I., l. 9</comment>
+					<month>08</month>
+					<year>2014</year>
+					<fpage>529</fpage>
+					<lpage>529</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B53">
+				<mixed-citation>Tesis Aislada: P. XCVII/98, Semanario Judicial de la Federación y su Gaceta, Novena Época, t. VIII, diciembre de 1998, pág. 223. Reg. digital: 194951.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis Aislada: P. XCVII/98</comment>
+					<source>Semanario Judicial de la Federación y su Gaceta</source>
+					<comment>Novena Época, t. VIII</comment>
+					<month>12</month>
+					<year>1998</year>
+					<fpage>223</fpage>
+					<lpage>223</lpage>
+					<issue-part>Reg. digital: 194951</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B54">
+				<mixed-citation>Tesis P. XLVIII/2000, Semanario Judicial de la Federación y su Gaceta, t. XI, abril de 2000, pág. 65.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis P. XLVIII/2000</comment>
+					<source>Semanario Judicial de la Federación y su Gaceta</source>
+					<comment>t. XI</comment>
+					<month>04</month>
+					<year>2000</year>
+					<fpage>65</fpage>
+					<lpage>65</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B55">
+				<mixed-citation>Tesis P./J. 20/2007, Semanario Judicial de la Federación y su Gaceta, Novena Época, t. XXV, mayo de 2007, pág. 1647. </mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis P./J. 20/2007</comment>
+					<source>Semanario Judicial de la Federación y su Gaceta</source>
+					<comment>Novena Época, t. XXV</comment>
+					<month>05</month>
+					<year>2007</year>
+					<fpage>1647</fpage>
+					<lpage>1647</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B56">
+				<mixed-citation>Tesis P./J. 21/2014 (10a.), Gaceta del Semanario Judicial de la Federación, t. I, l. 5, abril de 2014, pág. 204.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis P./J. 21/2014 (10a.)</comment>
+					<source>Gaceta del Semanario Judicial de la Federación</source>
+					<comment>t. I, l. 5</comment>
+					<month>04</month>
+					<year>2014</year>
+					<fpage>204</fpage>
+					<lpage>204</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B57">
+				<mixed-citation>Tesis P./J. 40/96, Semanario Judicial de la Federación y su Gaceta, Novena Época, t. IV, Julio de 1996, pág. 5. </mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis P./J. 40/96</comment>
+					<source>Semanario Judicial de la Federación y su Gaceta</source>
+					<comment>Novena Época, t. IV</comment>
+					<month>07</month>
+					<year>1996</year>
+					<fpage>5</fpage>
+					<lpage>5</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B58">
+				<mixed-citation>Tesis P./J.47/95, Semanario Judicial de la Federación y su Gaceta, Novena Época, t. II, diciembre de 1995, p. 133.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<comment content-type="degree">Tesis P./J.47/95</comment>
+					<source>Semanario Judicial de la Federación y su Gaceta</source>
+					<comment>Novena Época, t. II</comment>
+					<month>12</month>
+					<year>1995</year>
+					<fpage>133</fpage>
+					<lpage>133</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>
+					<xref ref-type="bibr" rid="B34">Constitución Política de los Estados Unidos Mexicanos</xref>, Congreso Constituyente, 5 de febrero de 1917, Diario Oficial de la Federación.</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>
+					<xref ref-type="bibr" rid="B33">Comisión Nacional de los Derechos Humanos</xref>. Congreso de los Estados Unidos Mexicanos, <italic>Diario Oficial de la Federación</italic>, 6 de junio de 1990.</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>
+					<xref ref-type="bibr" rid="B38">Ley de la Comisión Nacional de los Derechos Humanos</xref>, Congreso de los Estados Unidos Mexicanos, 29 de junio de 1992, <italic>Diario Oficial de la Federación</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>
+					<xref ref-type="bibr" rid="B36">Corte Interamericana de Derechos Humanos</xref>, 08 de enero de 1998, <italic>Diario Oficial de la Federación</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>
+					<xref ref-type="bibr" rid="B20">Antonio Pérez Luño</xref>, <italic>Derechos humanos, Estado y Constitución</italic> (Madrid: Tecnos, 2018).</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>Corte Interamericana de Derechos Humanos, Opinión consultiva OC-8/87, 1987, párrafo 25.</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>
+					<xref ref-type="bibr" rid="B22">Carlos Ruiz Miguel</xref>, <italic>Derechos fundamentales y derecho procesal constitucional</italic> (México: Porrúa, 2014).</p>
+			</fn>
+			<fn fn-type="other" id="fn8">
+				<label>8</label>
+				<p>
+					<xref ref-type="bibr" rid="B10">Arturo Garita Alonso, Mario López García y Jaime Mena Álvarez</xref>, <italic>Los medios de control constitucional en México</italic> (México: Senado de la República, 2013).</p>
+			</fn>
+			<fn fn-type="other" id="fn9">
+				<label>9</label>
+				<p>
+					<xref ref-type="bibr" rid="B11">Luis Raúl González Pérez</xref>, “El sistema no-jurisdiccional de protección de los derechos humanos en México”, <italic>IUS Revista del Instituto de Ciencias Jurídicas de Puebla, México</italic>, n.<sup>o</sup> 28, (2011): 99-122.</p>
+			</fn>
+			<fn fn-type="other" id="fn10">
+				<label>10</label>
+				<p>
+					<xref ref-type="bibr" rid="B40">Reglamento Interno de la Comisión Nacional de los Derechos Humanos</xref>, última reforma incorporada el 10 de agosto de 2023 (publicada por la Comisión Nacional de los Derechos Humanos).</p>
+			</fn>
+			<fn fn-type="other" id="fn11">
+				<label>11</label>
+				<p>“México: Una ola de continuas violaciones de derechos humanos”, <xref ref-type="bibr" rid="B17">Organización de las Naciones Unidas</xref>, <ext-link ext-link-type="uri" xlink:href="https://hchr.org.mx/historias-destacadas/mexico-una-ola-de-continuas-violaciones-de-derechos-humanos-2/#:~:text=El%20Alto%20Comisionado%20de%20las,mediante%20reformas%20jur%C3%ADdicas%20y%20constitucionales">https://hchr.org.mx/historias-destacadas/mexico-una-ola-de-continuas-violaciones-de-derechos-humanos-2/#:~:text=El%20Alto%20Comisionado%20de%20las,mediante%20reformas%20jur%C3%ADdicas%20y%20constitucionales</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn12">
+				<label>12</label>
+				<p>Comisión Nacional de los Derechos Humanos, <italic>Informe de actividades del 1 de enero al 31 de diciembre de 2021</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn13">
+				<label>13</label>
+				<p>
+					<xref ref-type="bibr" rid="B29">Comisión Nacional de los Derechos Humanos</xref>, <italic>Informe de Actividades del 1 de enero al 31 de diciembre de 2022</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn14">
+				<label>14</label>
+				<p>
+					<xref ref-type="bibr" rid="B28">Comisión Nacional de los Derechos Humanos</xref>. <italic>Informe de actividades del 1 de enero al 31 de diciembre de 2023.</italic></p>
+			</fn>
+			<fn fn-type="other" id="fn15">
+				<label>15</label>
+				<p>Comisión Nacional de los Derechos Humanos. <italic>Informe de Actividades del 1 de enero al 31 de diciembre de 2024</italic>, 12.</p>
+			</fn>
+			<fn fn-type="other" id="fn16">
+				<label>16</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">Jorge Carpizo</xref>, <italic>”El sistema nacional no-jurisdiccional de defensa de los derechos humanos en México: algunas preocupaciones”</italic>, en <italic>Los derechos humanos en los umbrales del siglo XXI: una visión interdisciplinar</italic>, ed. por Aída Figueroa Bello (México: UNAM, 2019),1-58.</p>
+			</fn>
+			<fn fn-type="other" id="fn17">
+				<label>17</label>
+				<p>
+					<xref ref-type="bibr" rid="B2">José Francisco Báez Corona</xref>, “Eficacia de las recomendaciones emitidas por la Comisión Nacional de los Derechos Humanos en México y la reforma constitucional 2011”, Una Voz <italic>Pro Persona</italic>, n.<sup>o</sup> 1, (2013): 31-40.</p>
+			</fn>
+			<fn fn-type="other" id="fn18">
+				<label>18</label>
+				<p>
+					<xref ref-type="bibr" rid="B28">Comisión Nacional de los Derechos Humanos</xref><italic>. Informe de actividades del 1 de enero al 31 de diciembre de 2023</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn19">
+				<label>19</label>
+				<p>
+					<xref ref-type="bibr" rid="B23">Pedro Sagüés Néstor</xref>, <italic>La interpretación judicial de la Constitución</italic> (México: Porrúa, 2017).</p>
+			</fn>
+			<fn fn-type="other" id="fn20">
+				<label>20</label>
+				<p>
+					<xref ref-type="bibr" rid="B43">Corte IDH</xref>. <italic>Caso López Mendoza vs. Venezuela</italic>. Fondo Reparaciones y Costas<italic>.</italic> Sentencia de 1 de septiembre de 2011. Serie C No. 233, párr. 202.</p>
+			</fn>
+			<fn fn-type="other" id="fn21">
+				<label>21</label>
+				<p>
+					<xref ref-type="bibr" rid="B9">Erick Alberto Durand De Sanjuan y Francisco Javier Gorjón Gómez</xref>, “La obligatoriedad de los métodos alternos de solución de conflictos conforme al principio del debido proceso”, en <italic>El debido proceso T. II</italic>, Coord. por Manuel Salvador Acuña Zepeda, Luis Gerardo Rodríguez Lozano y Juan Ángel Salinas Garza (México: Tirant lo Blanch, 2016), 59-75.</p>
+			</fn>
+			<fn fn-type="other" id="fn22">
+				<label>22</label>
+				<p>
+					<xref ref-type="bibr" rid="B4">Miguel Carbonell</xref>, <italic>Los derechos humanos en México</italic> (México: UNAM-Flores Editor y Distribuidor, 2015).</p>
+			</fn>
+			<fn fn-type="other" id="fn23">
+				<label>23</label>
+				<p>
+					<xref ref-type="bibr" rid="B37"><italic>Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos</italic></xref>, Congreso General de los Estados Unidos Mexicanos, 2 de abril de 2013, <italic>Diario Oficial de la Federación</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn24">
+				<label>24</label>
+				<p>
+					<xref ref-type="bibr" rid="B12">Hernández Segovia, Arturo</xref>, <italic>El derecho de amparo</italic>, México, Porrúa, 2020.</p>
+			</fn>
+			<fn fn-type="other" id="fn25">
+				<label>25</label>
+				<p>
+					<xref ref-type="bibr" rid="B27">Artículo 107</xref>, fracción V, de la Ley de Amparo, Ley publicada en el <italic>Diario Oficial de la Federación</italic>,</p>
+			</fn>
+			<fn fn-type="other" id="fn26">
+				<label>26</label>
+				<p>
+					<xref ref-type="bibr" rid="B8">Vicente Roberto Del Arenal Martínez</xref>, <italic>La jurisprudencia de los Tribunales Colegiados de Circuito</italic> (México: Flores Editor y Distribuidor, 2020).</p>
+			</fn>
+			<fn fn-type="other" id="fn27">
+				<label>27</label>
+				<p>
+					<xref ref-type="bibr" rid="B21">Francisco Rubén Quiñonez Huízar</xref>, <italic>Jurisprudencia y control constitucional en México</italic> (México; Flores Editor y Distribuidor, 2021).</p>
+			</fn>
+			<fn fn-type="other" id="fn28">
+				<label>28</label>
+				<p>
+					<xref ref-type="bibr" rid="B53">Tesis Aislada P. XCVII/98</xref>, <italic>Semanario Judicial de la Federación y su Gaceta</italic>, Novena Época, t. VIII, diciembre de 1998, 223. Registro digital: 194951). <xref ref-type="bibr" rid="B51">Tesis Aislada: VIII.1o.P.A.11 A (11a.)</xref>, Gaceta del Semanario Judicial de la Federación, Undécima Época, t. IV, l. 19, noviembre de 2022, pág. 3757.</p>
+			</fn>
+			<fn fn-type="other" id="fn29">
+				<label>29</label>
+				<p>
+					<xref ref-type="bibr" rid="B54">Tesis Aislada P. XLVIII/2000</xref>, <italic>Semanario Judicial de la Federación y su Gaceta</italic>, Novena Época, t. XI, abril de 2000, 65.</p>
+			</fn>
+			<fn fn-type="other" id="fn30">
+				<label>30</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Verónica Cervera Torres y Sylvia Torres Caballero</xref>, “La Comisión Nacional de los Derechos Humanos como autoridad responsable para efectos del Juicio de Amparo”, <italic>Revista del Posgrado en Derecho de la UNAM</italic>, n.<sup>o</sup> 6 (2017): 153-171.</p>
+			</fn>
+			<fn fn-type="other" id="fn31">
+				<label>31</label>
+				<p>
+					<xref ref-type="bibr" rid="B50">Tesis: 1a./J. 23/2018 (10a.)</xref>, <italic>Gaceta del Semanario Judicial de la Federación</italic>, Décima Época, t. I, l. 59, octubre de 2018, 716.</p>
+			</fn>
+			<fn fn-type="other" id="fn32">
+				<label>32</label>
+				<p>Tesis P./J. 13/2025 (11a.), <italic>Semanario Judicial de la Federación</italic>, Undécima Época, agosto de 2025. Registro digital: 2030791.</p>
+			</fn>
+			<fn fn-type="other" id="fn33">
+				<label>33</label>
+				<p>
+					<xref ref-type="bibr" rid="B18">Víctor Eduardo Orozco Solano</xref>, <italic>La fuerza normativa de la Constitución</italic> (México: Porrúa, 2017).</p>
+			</fn>
+			<fn fn-type="other" id="fn34">
+				<label>34</label>
+				<p>
+					<xref ref-type="bibr" rid="B55">Tesis P./J. 20/2007</xref>, <italic>Semanario Judicial de la Federación y su Gacet</italic>a, Novena Época, t. XXV, mayo de 2007, 1647.</p>
+			</fn>
+			<fn fn-type="other" id="fn35">
+				<label>35</label>
+				<p>
+					<xref ref-type="bibr" rid="B11">Luis Raúl González Pérez</xref>, “El sistema no-jurisdiccional…</p>
+			</fn>
+			<fn fn-type="other" id="fn36">
+				<label>36</label>
+				<p>
+					<xref ref-type="bibr" rid="B35"><italic>Convención Americana sobre Derechos Humanos</italic></xref>, 09 de enero de 1980, <italic>Diario Oficial de la Federación</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn37">
+				<label>37</label>
+				<p>
+					<xref ref-type="bibr" rid="B32"><italic>Comisión Interamericana de Derechos Humanos</italic></xref>, 08 de enero de 1998, <italic>Diario Oficial de la Federación</italic>.</p>
+			</fn>
+			<fn fn-type="other" id="fn38">
+				<label>38</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">Arturo Altamirano González</xref>, <italic>El amparo contra el sobreseimiento y desistimiento de la acción penal en el sistema penal acusatorio de México</italic> (México: UBIJUS, 2021).</p>
+			</fn>
+			<fn fn-type="other" id="fn39">
+				<label>39</label>
+				<p>
+					<xref ref-type="bibr" rid="B3">Miguel Carbonell</xref>, <italic>El ABC de los derechos humanos y del control de convencionalidad</italic> (México: Porrúa, 2014).</p>
+			</fn>
+			<fn fn-type="other" id="fn40">
+				<label>40</label>
+				<p>
+					<xref ref-type="bibr" rid="B56">Tesis P./J. 21/2014 (10a.)</xref>, <italic>Gaceta del Semanario Judicial de la Federación</italic>, t. I, l. 5, abril de 2014, 204.</p>
+			</fn>
+			<fn fn-type="other" id="fn41">
+				<label>41</label>
+				<p>
+					<xref ref-type="bibr" rid="B19">Ydalia Pérez Fernández Ceja</xref>, <italic>La incorporación de la jurisprudencia internacional de derechos humanos por los tribunales de derecho interno</italic> (México: Porrúa, 2017).</p>
+			</fn>
+			<fn fn-type="other" id="fn42">
+				<label>42</label>
+				<p>
+					<xref ref-type="bibr" rid="B48">Corte Interamericana de Derechos Humanos</xref>. <italic>Opinión consultiva OC-9/87</italic>, 1987, párrs. 27-28.</p>
+			</fn>
+			<fn fn-type="other" id="fn43">
+				<label>43</label>
+				<p>
+					<xref ref-type="bibr" rid="B31">Corte Interamericana de Derechos Humanos</xref>, <italic>Cuadernillo de jurisprudencia de la Corte Interamericana de Derechos Humanos</italic> n.º 12 (s/f): 2.</p>
+			</fn>
+			<fn fn-type="other" id="fn44">
+				<label>44</label>
+				<p>
+					<xref ref-type="bibr" rid="B44">Corte IDH</xref>. <italic>Caso Ruano Torres y otros vs. El Salvador</italic>. Fondo, Reparaciones y Costas. Sentencia de 5 de octubre de 2015. Serie C No. 303, párr. 153.</p>
+			</fn>
+			<fn fn-type="other" id="fn45">
+				<label>45</label>
+				<p>Convención Americana de Derechos Humanos, artículo 25.1.</p>
+			</fn>
+			<fn fn-type="other" id="fn46">
+				<label>46</label>
+				<p>
+					<xref ref-type="bibr" rid="B49">Corte IHD</xref>. <italic>Caso Usón Ramírez vs. Venezuela</italic>. Excepción Preliminar. Fondo. Reparaciones y Costas. Sentencia de 20 de noviembre de 2009. Serie C. No. 207.</p>
+			</fn>
+			<fn fn-type="other" id="fn47">
+				<label>47</label>
+				<p>
+					<xref ref-type="bibr" rid="B42">Corte IDH</xref>. <italic>Caso Ivcher Bronstein vs. Perú</italic>. Fondo, Reparaciones y Costas. Sentencia de 6 de febrero de 2001. Serie C No. 74, párr. 105.</p>
+			</fn>
+			<fn fn-type="other" id="fn48">
+				<label>48</label>
+				<p>
+					<xref ref-type="bibr" rid="B41">Corte IDH</xref>. <italic>Caso del Tribunal Constitucional vs. Perú</italic>. Fondo, Reparaciones y Costas. Sentencia de 31 de enero de 2001. Serie C No. 71, párr. 69.</p>
+			</fn>
+			<fn fn-type="other" id="fn49">
+				<label>49</label>
+				<p>
+					<xref ref-type="bibr" rid="B25">Elizabeth Salmón y Cristina Blanco</xref>, <italic>El derecho al debido proceso en la jurisprudencia de la Corte Interamericana de Derechos Humanos</italic> (Perú: Pontificia Universidad Católica del Perú, 2012).</p>
+			</fn>
+			<fn fn-type="other" id="fn50">
+				<label>50</label>
+				<p>
+					<xref ref-type="bibr" rid="B31">Corte Interamericana de Derechos Humanos</xref>, <italic>Cuadernillo de jurisprudencia</italic>..., 4.</p>
+			</fn>
+			<fn fn-type="other" id="fn51">
+				<label>51</label>
+				<p>
+					<xref ref-type="bibr" rid="B57">Tesis P./J. 40/96</xref>, <italic>Semanario Judicial de la Federación y su Gaceta</italic>, Novena Época, t. IV, Julio de 1996, 5.</p>
+			</fn>
+			<fn fn-type="other" id="fn52">
+				<label>52</label>
+				<p>
+					<xref ref-type="bibr" rid="B15">José Julio Nares Hernández, Ricardo Colín García y Kennly Jared Nava Rosales</xref>, “Derecho fundamental al debido proceso legal”, <italic>Ius Comitiãlis</italic> 1, n.<sup>o</sup> 2 (2018): 175-196.</p>
+			</fn>
+			<fn fn-type="other" id="fn53">
+				<label>53</label>
+				<p>
+					<xref ref-type="bibr" rid="B58">Tesis P./J.47/95</xref>, <italic>Semanario Judicial de la Federación y su Gaceta</italic>, Novena Época, t. II, diciembre de 1995, 133.</p>
+			</fn>
+			<fn fn-type="other" id="fn54">
+				<label>54</label>
+				<p>
+					<xref ref-type="bibr" rid="B26">Fernando Silva García</xref>, “Derecho de audiencia: arts. 14 constitucional y 8.<sup>o</sup>, de la Convención Americana sobre Derechos Humanos”, en <italic>Derechos humanos en la Constitución: comentarios de jurisprudencia constitucional e interamericana T. II</italic>, coord. por Eduardo Ferrer Mac-Gregor Poisot, José Luis Caballero Ochoa y Christian Steiner (México: UNAM, Instituto de Investigaciones Jurídicas, 2013), 1497-1531.</p>
+			</fn>
+			<fn fn-type="other" id="fn55">
+				<label>55</label>
+				<p>
+					<xref ref-type="bibr" rid="B24">Juan Ángel Salinas Garza</xref>, <italic>“</italic>Los principios del debido proceso <italic>iura novit curia</italic> y suplencia de la queja en México<italic>”</italic>, en <italic>El debido proceso T. IV</italic>, coord. por Manuel Salvador Acuña Zepeda, Luis Gerardo Rodríguez Lozano y Juan Ángel Salinas Garza (México: Tirant lo Blanch, 2016), 29-54.</p>
+			</fn>
+			<fn fn-type="other" id="fn56">
+				<label>56</label>
+				<p>
+					<xref ref-type="bibr" rid="B52">Tesis 1a. CCLXXXVI/2014 (10a.)</xref>, <italic>Gaceta del Semanario Judicial de la Federación</italic>, Décima Época, t. I., l. 9, agosto de 2014, pág. 529. Registro digital: 2007057.</p>
+			</fn>
+			<fn fn-type="other" id="fn57">
+				<label>57</label>
+				<p>
+					<xref ref-type="bibr" rid="B39"><italic>Principios relativos al estatuto de las instituciones nacionales</italic></xref>, 1993.</p>
+			</fn>
+			<fn fn-type="other" id="fn58">
+				<label>58</label>
+				<p>
+					<xref ref-type="bibr" rid="B45">Corte IDH</xref>. <italic>Caso Ruano Torres y otros vs. El Salvador</italic>. Fondo, Reparaciones y Costas. Sentencia de 5 de octubre de 2015. Serie C No. 303, párr. 151.</p>
+			</fn>
+			<fn fn-type="other" id="fn59">
+				<label>59</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">Sebastián López Escarcena</xref>, “Los Principios de París y las instituciones nacionales de derechos humanos en América Latina<italic>”</italic>, <italic>Revista Derecho del Estado</italic> 52 (2022): 67-95, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.18601/01229893.n52.03">https://doi.org/10.18601/01229893.n52.03</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn60">
+				<label>60</label>
+				<p>
+					<xref ref-type="bibr" rid="B16">José de Jesús Naveja Macías</xref>, <italic>Los nuevos principios rectores del juicio de amparo</italic> (México: Flores Editor y Distribuidor, 2016).</p>
+			</fn>
+			<fn fn-type="other" id="fn61">
+				<label>61</label>
+				<p>
+					<xref ref-type="bibr" rid="B46">Corte IDH</xref>. <italic>Caso Velásquez Rodríguez c/Honduras</italic>. Sentencia del 29 de julio de 1988 Ser. C Nº 4, 1988, párr. 175.</p>
+			</fn>
+			<fn fn-type="other" id="fn62">
+				<label>62</label>
+				<p>
+					<xref ref-type="bibr" rid="B19">Ydalia Pérez Fernández Ceja</xref>, <italic>La incorporación de la jurisprudencia internacional</italic>…</p>
+			</fn>
+			<fn fn-type="other" id="fn63">
+				<label>63</label>
+				<p>
+					<xref ref-type="bibr" rid="B7">Cuauhtémoc Manuel De Dienheim Barriguete</xref>, “La interpretación conforme, el control de la convencionalidad y el principio <italic>pro persona</italic> como mandato al poder legislativo”, en <italic>Derecho procesal convencional y la inconvencionalidad</italic>, coord. por Sonia Escalante López, Gonzálo Armienta Hernández, Cuahutémoc Manuel de Dienheim Barriguete, <italic>et al</italic>. (México: Porrúa, 2016).</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

@@ -1,0 +1,2302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biolex</journal-id>
+			<journal-title-group>
+				<journal-title>Biolex</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-5634</issn>
+			<issn pub-type="epub">2007-5545</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36796/biolex.v17i28.432</article-id>
+			<article-id pub-id-type="other">00117</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Un impuesto municipal subutilizado en México, ¿por qué?</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Why is a Municipal Tax Underutilized in Mexico?<xref ref-type="fn" rid="fn1"><sup>1</sup></xref>
+					</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zúñiga Espinoza</surname>
+						<given-names>Nicolás Guadalupe</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Doctor en ciencias sociales</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zúñiga Soto</surname>
+						<given-names>Erick</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<role>Licenciado en derecho y ciencias sociales</role>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Doctor en ciencias sociales por la Universidad Autónoma de Sinaloa. Facultad de Ciencias Económicas y Administrativas, Unidad Guasave. nicozu1@uas.edu.mx</institution>
+				<institution content-type="normalized">Universidad Autónoma de Sinaloa</institution>
+				<institution content-type="orgname">Universidad Autónoma de Sinaloa</institution>
+				<institution content-type="orgdiv1">Facultad de Ciencias Económicas y Administrativas</institution>
+				<country country="MX">Mexico</country>
+				<email>nicozu1@uas.edu.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Licenciado en derecho y ciencias sociales por la Universidad Autónoma de Occidente.</institution>
+				<institution content-type="normalized">Universidad Autónoma de Occidente</institution>
+				<institution content-type="orgname">Universidad Autónoma de Occidente</institution>
+				<country country="CO">Colombia</country>
+			</aff>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>30</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>17</volume>
+			<issue>28</issue>
+			<elocation-id>e432</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>30</day>
+					<month>09</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>19</day>
+					<month>11</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El objetivo del presente estudio fue mostrar la evolución de los ingresos corrientes y constantes (deflactados a precios de 2018) del impuesto sobre adquisición de inmuebles (ISAI) del periodo 1989-2021. Además, se evidencia la escasez de datos que registran las tesorerías de los municipios mexicanos, así como la inexistencia de una relación directa entre número de notarías públicas por zona del Sistema Nacional de Coordinación Fiscal y la recaudación del ISAI. El presente trabajo se aborda con metodología mixta; primero, cuantitativa para deflactar los ingresos impositivos y, posteriormente, cualitativa para el análisis de datos extraídos de documentos gubernamentales. Los resultados indican que entidades federativas como el Estado de México y Ciudad de México tienen baja recaudación de este impuesto a pesar que son de las economías que tienen un mayor PIB. Aunque la Ley General del Timbre se eliminó, el 1 de enero de 1980, para que entrara en vigencia la Ley del ISA, aún queda pendiente fortalecer la recaudación de la hacienda pública municipal.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The objective of this study was to show the evolution of current and constant revenues (deflated to 2018 prices) from the property acquisition tax (ISAI) for the period 1989-2021. Furthermore, it highlights the scarcity of data recorded by the treasuries of Mexican municipalities, as well as the lack of a direct relationship between the number of public notaries per zone of the National Fiscal Coordination System and ISAI collection. This work employs a mixed methodology: first, a quantitative approach to deflate tax revenues, and subsequently, a qualitative approach to analyze data extracted from government documents. The results indicate that federal entities such as the State of Mexico and Mexico City have low collection of this tax despite being among the economies with the highest GDP. Although the General Stamp Tax Law was repealed on January 1, 1980, to make way for the ISA Law, strengthening municipal public finance collection remains a challenge. </p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>impuesto sobre adquisición de inmuebles</kwd>
+				<kwd>transparencia</kwd>
+				<kwd>rendición de cuentas</kwd>
+				<kwd>corrupción</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>real estate acquisition tax</kwd>
+				<kwd>transparency</kwd>
+				<kwd>accountability</kwd>
+				<kwd>corruption</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="9"/>
+				<table-count count="9"/>
+				<equation-count count="0"/>
+				<ref-count count="51"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>I. Introducción</title>
+			<p>Los impuestos más importantes para los gobiernos municipales o locales, en cualquier parte del mundo, son los que recaen sobre la tierra. En México, como en otras naciones, generalmente se estudia el impuesto predial, cuyos trabajos han sido galardonados por el Centro de Estudios de las Finanzas Públicas<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>. Sin embargo, en nuestro país también existe el Impuesto Sobre Adquisición de Inmuebles (ISAI), el cual no ha sido atendido por la política fiscal local, ni existen estudios de investigación académica que hayan abordado su desempeño. La presente investigación contribuye a explorar una ruta para observar el transitar del ISAI por el campo de la hacienda pública local mexicana. </p>
+			<p>Durante el 2021, en el Instituto Nacional de Estadística, Geografía e Informática<xref ref-type="fn" rid="fn3"><sup>3</sup></xref> (INEGI), se encontró que el ISAI en México alcanzó la cifra de 11 mil 296 millones de pesos. Aunque no es una contribución tan longeva y robusta como el impuesto predial, en ese año representó el 14 % del total de los 78 mil 93 millones de pesos provenientes de los ingresos tributarios de los gobiernos municipales, lo cual se considera representativo.</p>
+			<p>Las investigaciones sobre el ISAI en México prácticamente son inexistentes, pues nadie ha realizado un trabajo sobre este tributo local. En otros países hay evidencia empírica, como en Toronto, Canadá, donde al aplicar este impuesto, con una tasa del 1.1 %, se redujo el volumen de las transacciones inmobiliarias en 15 %; además, disminuyó los precios de la vivienda en el mismo porcentaje que lo hizo la tasa impositiva<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>. En la ciudad de Filadelfia, la aplicación de este impuesto por la venta de inmuebles generó una caída del precio de los bienes raíces<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>.</p>
+			<p>Los impuestos sobre la tierra brindan un potencial sin explotar<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>. En los municipios de México no es bien aprovechada la capacidad fiscal que tiene el ISAI. Al igual que el predial, la base gravable se erosiona<xref ref-type="fn" rid="fn7"><sup>7</sup></xref> por no actualizar los valores catastrales. Ello repercute en tener menor recaudación de los ingresos generados por dicha contribución. Muchas ventas de inmuebles se realizan con valores inferiores a los precios que indica el mercado y el impuesto declarado es más bajo.</p>
+			<p>Lo anterior ocurre porque “en muchos tipos de propiedad no existe un mercado bien desarrollado y se realizan tan pocas transacciones que resulta difícil saber cuál es el valor actual de un inmueble por lo que las autoridades tienen que estimar el valor de mercado<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>”. En México, de acuerdo al Mapa Jurídico Catastral “el territorio nacional está compuesto de tres tipos de tenencia de la tierra: la privada, la social y la pública<xref ref-type="fn" rid="fn9"><sup>9</sup></xref>”. El valor del suelo y sus construcciones son de suma importancia para este impuesto porque ambos sirven como base de su cálculo. </p>
+			<p>Los ingresos generados por el ISAI son un instrumento que puede coadyuvar a impulsar el Desarrollo Económico Local (DEL), por el cual se interesan más ahora los presidentes municipales. El DEL “es un proceso que promueve el gobierno local, en alianza con otros agentes, para ampliar la base económica local…fortaleciendo su tejido económico para el desarrollo de empresas, empleos locales y luchar contra la pobreza”<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>. </p>
+		</sec>
+		<sec>
+			<title>II. Un impuesto municipal subutilizado</title>
+			<p>Para abordar la temática sobre el ISAI, el punto de partida inicia con los artículos 40 y 115 de la Constitución Política de México (2023), donde el primero mandata que nuestro país es una “República representativa, democrática, laica y federal, compuesta por estados libres y soberanos<xref ref-type="fn" rid="fn11"><sup>11</sup></xref>”; mientras que el segundo establece que tendrá como “base de su división territorial y de su organización política y administrativa, el municipio libre”. Este último forma parte de los estados soberanos. </p>
+			<p>El ISAI requiere evolucionar al interior de la hacienda pública local. Como antecedente, el 8 de octubre de 2025 se cumplirán 148 años que se plantaron los primeros árboles del hoy frondoso bosque de la hacienda local y las investigaciones se generalizaron a partir de la década de los sesenta” en todo el mundo<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>.</p>
+			<p>La base gravable del ISAI generalmente se determina sobre el valor de la tierra y/o las edificaciones adheridas a él. Por ello, la cantidad y el valor de las tierras que posee una persona no se puede ocultar<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>; y que las disputas por igual derecho al suelo y la tendencia a monopolizarlo en posesión individual fue causa de conflictos entre Grecia y Roma<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>. </p>
+			<p> Y es que la tierra deja de tener uso natural y agrícola, dando como resultado un nuevo panorama con características donde el territorio ahora incluyen viviendas, infraestructuras y actividades industriales<xref ref-type="fn" rid="fn15"><sup>15</sup></xref>; por ello los precios del suelo impacta sobre la distribución y localización de los segmentos más pobres de la población<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>. </p>
+			<p>Partiendo de lo anterior, en México, el ISAI es una contribución que juega en la cancha de la hacienda pública local; sus ingresos se presupuestan anualmente en las leyes de ingresos de los municipios mexicanos. La Ley del Impuesto Sobre Adquisición de Inmuebles inició su vigencia el 1 de enero de 1980 y este impuesto pasó a formar parte de las leyes de hacienda locales<xref ref-type="fn" rid="fn17"><sup>17</sup></xref>. Quiere decir que ya tiene cuarenta y cinco años que lo cobran los municipios. </p>
+			<p>El artículo primero de la Ley del Impuesto Sobre Adquisición de Inmuebles establece que están obligados al pago de este impuesto las personas físicas y morales que adquieran inmuebles que consistan el suelo, o en el suelo y las construcciones adheridas a él, ubicadas en territorio nacional<xref ref-type="fn" rid="fn18"><sup>18</sup></xref>.</p>
+			<p> En el transitar de este impuesto, desde hace poco más de cuatro décadas, los principales actores son los contribuyentes y la hacienda pública. Empero, también juegan un rol en su gestión las inmobiliarias, banca privada, peritos valuadores, notarias públicas, el catastro, y registro público de la propiedad (observar <xref ref-type="fig" rid="f1">esquema 1</xref>). A diferencia del predial, el ISAI no cuenta con un padrón de inmuebles que deban tributar anualmente, ya que los ingresos solamente se enteran cuando ocurre la compra-venta de inmuebles. Una de las limitantes que se tuvieron con esta investigación es que no existen datos disponibles sobre el citado impuesto, a excepción de la recaudación de ingresos anuales, por entidad federativa, que publica el INEGI.</p>
+			<p>
+				<fig id="f1">
+					<label>Esquema 1</label>
+					<caption>
+						<title><italic>Actores que participan en este impuesto</italic></title>
+					</caption>
+					<graphic xlink:href="2007-5545-biolex-17-28-e432-gf1.jpg"/>
+					<attrib><italic>Fuente</italic>: elaboración propia en base a trabajo de campo.</attrib>
+				</fig>
+			</p>
+			<p>Una de las principales afectaciones que tiene la hacienda pública es que, generalmente, el ISAI se calcula sobre valores inferiores a los de mercado, lo cual hace que los gobiernos municipales se hagan más dependientes de los ingresos que, vía transferencias fiscales, se les entrega a través del SNCF. Por citar un caso, en el primer semestre de 2025 la captación de este impuesto para el municipio de Mazatlán, Sinaloa, era de 40 millones que entraban al mes, hoy la recaudación es de 8 millones<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>.</p>
+			<p>En la discusión de los grupos de trabajo de la Comisión Permanente de funcionarios Fiscales, perteneciente al SNCF, siempre se ha debatido la fórmula para distribuir las participaciones federales<xref ref-type="fn" rid="fn20"><sup>20</sup></xref>. Sin embargo, cada estado, a través de su secretario de finanzas, hace propuestas que son más ventajosas que para el resto de entidades federativas. Por ejemplo, a Tabasco le convendría tomar como factor la producción de petróleo; a Nuevo León la variable PIB; y a Sinaloa las divisas por la exportación de hortalizas. </p>
+			<p>Para dar soporte a lo mencionado en el párrafo anterior, en la <xref ref-type="table" rid="t1">tabla 1</xref> se observa que las Participaciones Federales (PF) y el Fondo de Fomento Municipal (FFM) durante el primer cuatrimestre de 2023, respecto al año anterior, cayeron, en términos reales, en 8.3 y 13.1 por ciento, respectivamente. Por PF las entidades federativas dejaron de recibir 7 mil 386 millones y del FFM los municipios obtuvieron mil 67 millones de pesos menos. Esto se convierte en una alarma preventiva para la hacienda pública, por lo que ya es necesario ir fortaleciendo no solamente sus impuestos locales sino el conjunto de ingresos propios, en este caso el ISAI. </p>
+			<p>
+				<table-wrap id="t1">
+					<label>Tabla 1</label>
+					<caption>
+						<title><italic>Evolución de las Transferencias no Condicionadas, 2022-2023</italic></title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center; width: 800px;" colspan="7">Fondo de Fomento Municipal y Participaciones Federales</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;" colspan="7">Abril 2022 <italic>Vs</italic>. 2023 (millones de pesos)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;" colspan="3">Abril</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;" colspan="3">Enero-abril</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Concepto/año</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">2022</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">2023</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Crecimiento real %</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">2022</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">2023</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Crecimiento real %</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Fondo de     </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">  </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">    </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">   </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">       </td>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Fomento</td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Municipal</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">4833.70 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">4036.40 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: right;">-21.4</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">15552.50 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">   14,485.40 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: right;">-13.1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Participaciones</td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;"> Federales</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">124905.20 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">113295.90 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: right;">-14.6</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">419084.50 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">411,697.60 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: right;">-8.3</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p><italic>Fuente</italic>: elaboración propia en base a Estadísticas Oportunas de Finanzas Públicas (SHCP,2023).</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<sec>
+				<title>Subsidios e incentivos</title>
+				<p>En la revisión de trabajos sobre exenciones o disminuciones de impuestos para atraer inversiones, se encontró que “la investigación sobre cómo los incentivos fiscales afectan las políticas territoriales municipales es escasa<xref ref-type="fn" rid="fn21"><sup>21</sup></xref>”. En algunos municipios aztecas se otorgan subsidios fiscales para promover inversiones para la mejora y el desarrollo de inmuebles. Por ejemplo, en el estado de Sinaloa, mediante Certificados de Promoción Fiscal (CEPROFIES), se otorgan subsidios que oscilan desde el 50 al 100 por ciento del ISAI, durante un periodo de uno a tres años y en otros hasta de siete años<xref ref-type="fn" rid="fn22"><sup>22</sup></xref>. El asunto es que no se lleva un banco de información anual sobre los incentivos otorgados por impuestos municipales, su monto e impacto para la hacienda pública municipal.</p>
+				<p>Es inexistente una base de datos que arroje información sobre los incentivos fiscales que otorga este impuesto; no se posee una relación de empresas que han sido beneficiadas con este tipo de subsidios; tampoco las cifras monetarias sobre los incentivos otorgados y la respuesta a dicho incentivo, como puede ser el número de empleos permanentes y eventuales.</p>
+				<p>No hay una política en los gobiernos municipales de México respecto a cuándo otorgar incentivos fiscales del ISAI, cuyo propósito es apoyar a las empresas para que incidan en el DEL; mucho menos la rendición de cuentas ni transparencia sobre la efectividad de los incentivos fiscales y los ingresos que dejaron de recaudar por brindar este tipo de subsidios. Hasta hoy no informan de ello los municipios mexicanos, a pesar de que a lo largo de los 32 estados de la república poseen leyes de desarrollo económico que mandatan el otorgamiento de subsidios fiscales a favor de las inversiones. La opacidad de la información no disponible sobre incentivos fiscales otorgados por el ISAI es una tarea pendiente. </p>
+			</sec>
+			<sec>
+				<title>La transparencia, rendición de cuentas y corrupción</title>
+				<p>En referencia al escrutinio de este impuesto deben tomarse medidas que propone la Convención de las Naciones Unidas contra la Corrupción, la cual establece que deben “adoptarse medidas apropiadas para promover la transparencia y la obligación de rendir cuentas en la gestión de la <italic>hacienda pública”</italic><xref ref-type="fn" rid="fn23"><sup>23</sup></xref>. Aunado a lo anterior, la Organización de Estados Americanos (OEA) menciona la necesidad de establecer “sistemas adecuados para la <italic>recaudación</italic> y el control de los <italic>ingresos</italic> del Estado, que impidan la corrupción<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>”. Estos dos lineamientos obligan a explorar el ISAI, porque es un impuesto generador de recursos propios, los cuales deben mejorar su gestión e impacto para la población que reside en los municipios aztecas.</p>
+				<p>Desde luego, El ISAI no escapa a posibles prácticas de corrupción, por ello es importante tomar <italic>medidas preventivas</italic>. Para la OCDE “la corrupción no respeta fronteras, no distingue entre niveles económicos y afecta a todas las formas de gobierno<xref ref-type="fn" rid="fn25"><sup>25</sup></xref>”. Asimismo, el Objetivo 16 de Desarrollo Sostenible (Meta 16.5 y 16.6, 2023) busca “reducir considerablemente la corrupción y el soborno en todas sus formas<xref ref-type="fn" rid="fn26"><sup>26</sup></xref>”. Y “crear en todos los niveles instituciones eficaces y transparentes que rindan cuentas”, respectivamente. También la Alliance for Integrity (2023) declara que “prevenir la corrupción contribuye a la reducción de desigualdades, fortalece el rol de la ley, posibilita las inversiones y mejora el ambiente empresarial<xref ref-type="fn" rid="fn27"><sup>27</sup></xref>”.</p>
+				<p>Respecto a cómo perciben prácticas corruptas los ciudadanos de 180 países, Transparency International (2023), al evidenciar su índice de Corrupción, muestra a México en el lugar 126 con una calificación de 3.1; la mejor calificación la tiene Dinamarca con 9 y el peor evaluado con 1.1 fue Somalia<xref ref-type="fn" rid="fn28"><sup>28</sup></xref>. Bajo esa premisa, el Estado mexicano, en su Plan Nacional de Desarrollo 2025-2030, estable que “la corrupción se debe combatir por ética y por principios”<xref ref-type="fn" rid="fn29"><sup>29</sup></xref>. De ello deben estar vigilantes los ciudadanos.</p>
+				<p>Aunado a lo anterior, la Secretaría de la Función Pública (2020) tiene como “0bjetivo prioritario 1: combatir, frontalmente y con la participación de la ciudadanía, las causas y efectos de la corrupción y la ineficiencia en la Administración Pública Federal, mediante la prevención, fiscalización y promoción de las responsabilidades asociadas con conductas ilícitas”<xref ref-type="fn" rid="fn30"><sup>30</sup></xref>. Y es que “la corrupción tiene altos costos sociales, políticos y económicos, y trastoca al Estado democrático y de derecho”<xref ref-type="fn" rid="fn31"><sup>31</sup></xref>.</p>
+				<p>Este mal afecta no solo al Estado mexicano, sino también a las empresas privadas y a la población en general. La corrupción puede ser mayor en el gobierno central porque hay menor transparencia y los montos presupuestales son más altos<xref ref-type="fn" rid="fn32"><sup>32</sup></xref>; y otros opinan que la corrupción es más fuerte en los gobiernos locales porque las camarillas políticas secuestran los presupuestos<xref ref-type="fn" rid="fn33"><sup>33</sup></xref>. </p>
+				<p>En esa tarea contra la corrupción, la World Compliance Association (2024) dice que el cumplimiento corporativo (corporate Compliance) es un conjunto de procedimientos y buenas prácticas adoptados por las organizaciones para identificar y clasificar los riesgos operativos y legales a los que se enfrentan<xref ref-type="fn" rid="fn34"><sup>34</sup></xref>. Hay casos de corrupción documentados en notarias públicas en México. “Al menos seis notarios públicos habrían otorgado escrituras apócrifas a particulares en el megafraude del Fideicomiso de Bahía de Banderas<xref ref-type="fn" rid="fn35"><sup>35</sup></xref>”. En este caso fue dañado el ISAI.</p>
+				<p>En esta última parte del contexto, desde el marco normativo del gobierno federal “la mejora de la gestión implica crear las capacidades para mejorar la calidad y la eficacia en la entrega de servicios públicos… así como para rendir cuentas claras a la ciudadanía sobre la administración de los recursos públicos<xref ref-type="fn" rid="fn36"><sup>36</sup></xref>”. Por ello es importante instrumentar practicas preventivas de transparencia, rendición de cuentas y combate a la corrupción para el ISAI.</p>
+				<p>Desde luego, también mejorar la administración del citado impuesto. En ello puede jugar un papel relevante la innovación, la cual se refiere a modificar elementos existentes para mejorarlos o implementar otros nuevos<xref ref-type="fn" rid="fn37"><sup>37</sup></xref>; mientras que las innovaciones en el gobierno pueden mejorar la productividad<xref ref-type="fn" rid="fn38"><sup>38</sup></xref>; y la innovación puede resolver problemas<xref ref-type="fn" rid="fn39"><sup>39</sup></xref>.</p>
+			</sec>
+			<sec>
+				<title>Factores que rodean al ISAI</title>
+				<p>En referencia al pago de impuestos por los ciudadanos, “el incumplimiento tributario en economías en desarrollo y emergentes socava la capacidad de las autoridades para la prestación de bienes y servicios públicos<xref ref-type="fn" rid="fn40"><sup>40</sup></xref>” y en línea con lo anterior “la autonomía local depende de la capacidad para generar ingresos propios<xref ref-type="fn" rid="fn41"><sup>41</sup></xref>”. En el caso del ISAI, la descripción y estudio de los inmuebles en cualquier país, factores como “su tamaño, ubicación, antigüedad, calidad, uso, valor e impuestos son de gran importancia<xref ref-type="fn" rid="fn42"><sup>42</sup></xref>”. De esos factores, en las escrituras realizadas por notarios públicos, no se describen todas esas características cuando se declara el ISAI.</p>
+				<p>Por ello los municipios requieren hacer un esfuerzo fiscal, es decir, mejorar la relación ingresos recaudados sobre capacidad fiscal<xref ref-type="fn" rid="fn43"><sup>43</sup></xref>; esta última puede ser el producto regional bruto<xref ref-type="fn" rid="fn44"><sup>44</sup></xref>. No obstante, continuaría ocurriendo el desequilibrio fiscal vertical, es decir, una mayor proporción de transferencias respecto al gasto total de las municipalidades<xref ref-type="fn" rid="fn45"><sup>45</sup></xref>. A este respecto, el desequilibrio fiscal vertical en México es de 28 porciento<xref ref-type="fn" rid="fn46"><sup>46</sup></xref>. </p>
+				<p>De hecho, las tesorerías de los municipios si exigen a “sus ciudadanos un determinado esfuerzo fiscal y se actúa con eficiencia en la gestión tributaria”, podrán recaudar más ingresos propios<xref ref-type="fn" rid="fn47"><sup>47</sup></xref>. Mientras que por otra parte se sostiene que este nivel de gobierno debe “buscar mecanismos que minimicen la reducción del gasto en proyectos de capital ya que puede ser contraproducente para la sostenibilidad fiscal en el largo plazo<xref ref-type="fn" rid="fn48"><sup>48</sup></xref>” Por ello es relevante el gasto de capital en obras públicas que impulsen el desarrollo de los municipios.</p>
+				<p>Algunos autores afirman que el respaldo político-administrativo por parte de los gestores públicos locales es importante para el fomento económico territorial<xref ref-type="fn" rid="fn49"><sup>49</sup></xref>. Por lo tanto, una hacienda pública municipal que construya más infraestructura aumenta la productividad de las inversiones, el stock de capital y el empleo<xref ref-type="fn" rid="fn50"><sup>50</sup></xref>. Esto puede coadyuvar a elevar la plusvalía de los bienes raíces y el desempeño de la citada contribución. También puede suceder lo contrario, es decir, un gobierno municipal que no gestione infraestructura para el desarrollo de su territorio entonces frenará el stock de capital y afectará la economía local. Esos factores circulan alrededor del ISAI (véase <xref ref-type="fig" rid="f2">esquema 2</xref>) y pueden estimular o afectar la generación de ingresos para la hacienda municipal.</p>
+				<p>
+					<fig id="f2">
+						<label>Esquema 2</label>
+						<caption>
+							<title><italic>Factores que pueden elevar plusvalía de los bienes raíces</italic></title>
+						</caption>
+						<graphic xlink:href="2007-5545-biolex-17-28-e432-gf2.jpg"/>
+						<attrib><italic>Fuente</italic>: elaboración propia con base en literatura sobre desarrollo económico local.</attrib>
+					</fig>
+				</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>III. Método de trabajo</title>
+			<p>En la búsqueda de datos, la única información que tiene el INEGI sobre el ISAI es el ingreso recaudado. Sería deseable tener más información de características de los inmuebles. Por ejemplo, tipo de vivienda, antigüedad, números de habitaciones, baños, cochera, sala, cuarto de servicio, alberca, jardín, entre otros. Las leyes de Hacienda Municipal de las 32 entidades federativas tampoco lo exigen. Debe aspirarse a reformar este marco normativo, a efecto de contar con más información. Esto debe llevarse a la mesa de debates de las legislaturas locales de los estados.</p>
+			<p>En el caso de inmuebles comerciales, industriales, agrícolas, acuícolas, ganaderos, recreativos o de cualquier otro uso, tampoco se tiene dicha información detallada, lo cual coadyuvaría a conocer qué tipo de propiedades son las más demandadas en el mercado. Asimismo, no hay una clasificación para determinar si la adquisición de inmuebles se realizó por hombres o mujeres jefas de familia, lo cual es de gran interés por las <italic>políticas de género</italic> que se promueven hoy en México. Esa información si existe en los países vecinos de Canadá y Estados Unidos, donde dicho impuesto tiene una base de datos más sólida. Desde luego que generen un banco de datos y que los gobiernos municipales los envíen a la Secretaría de Finanzas de su entidad federativa y, posteriormente, se entreguen a la Secretaría de Hacienda y Crédito Público (SHCP). En otras palabras, que esta información transite por la misma ruta por la que los gobiernos municipales envían los datos de recaudación de ingresos por concepto de impuesto predial y derechos de agua a la SHCP para el cálculo de la distribución del FFM a los ayuntamientos de México.</p>
+			<p>En ese tenor, no fue posible encontrar variables y una base de datos de largos periodos para abordar este trabajo mediante el diseño de un modelo econométrico. Ante la escasez de evidencias, aquí solo se realiza un trabajo descriptivo. Sin embargo, se hace una aportación a la hacienda pública mexicana y, desde luego, los datos analizados pueden ser útiles para el debate que se da no solo en el campo de la gestión pública municipal y estatal sino también entre los grupos de trabajo que participan al seno del SNCF, el cual se integra por los secretarios de finanzas de los estados y el titular de la Secretaría de Hacienda y Crédito Público (SHCP).</p>
+			<p>Para abordar la problemática del ISAI se decidió utilizar metodología mixta, primero cuantitativa para deflactar los ingresos provenientes del citado impuesto y, enseguida, cualitativa para el análisis crítico de la data recabada de documentos gubernamentales. La ruta de exploración de materiales se inicia con documentos referentes a los conceptos de transparencia, rendición de cuentas y corrupción por parte de organismos internacionales y nacionales. Asimismo, la revisión de artículos científicos que sustentaran el trabajo de este impuesto, su problemática y sus hipótesis de investigación. En cuanto a datos estadísticos, estos se extrajeron de los portales de INEGI<xref ref-type="fn" rid="fn51"><sup>51</sup></xref>, SNCF<xref ref-type="fn" rid="fn52"><sup>52</sup></xref> y SHCP<xref ref-type="fn" rid="fn53"><sup>53</sup></xref>. </p>
+			<p>De esas instituciones se obtuvieron cifras de la recaudación del ISAI, periodo 1989-2021 (33 años), de todos los municipios de México; el comportamiento del PIB estatal de los 4 estados que más producción generaron sus economías el año 2020 en el país; la evolución de las PF y el FFM al mes de abril de 2023; el número de notarías públicas que hay por entidad federativa y la conformación de 8 zonas de trabajo que, en el marco de la Coordinación Fiscal, organizan los tesoreros de los 32 estados de la República. Con el propósito de que los datos permitan una lectura más digerible, su análisis se realizó a través de estadística descriptiva. Así se dio inicio a las siguientes preguntas:</p>
+			<p>¿Hay una relación directa entre la recaudación de ingresos del ISAI con la aportación que hacen al Producto Interno Bruto (PIB) de las 8 zonas del SNCF? </p>
+			<p>¿Qué datos del ISAI no registran hoy las tesorerías de los municipios de México?</p>
+			<p>¿Hay una relación directa entre número de notarías públicas por zona del SNCF y la recaudación del ISAI?</p>
+			<p>Se plantearon tres hipótesis. La primera se refiera a que si las zonas del SNCF con mayor aporte del PIB a la economía nacional son las que recaudan mayores ingresos por ISAI. Con esta hipótesis se sostiene que hay una relación directa entre el tamaño y dinamismo de las economías locales con el mercado inmobiliario. La segunda menciona que, si el ISAI requiere generar más datos, más información que coadyuve a mejorar su desempeño. La tercera hipótesis menciona que si la cantidad de fiats otorgados para el ejercicio de notario público crecen porque hay una mayor recaudación del ISAI.</p>
+			<p>Para comprobar dichas hipótesis y poder conocer la evolución de los ingresos por cada región geográfica de México, se clasificaron los datos a través de ocho zonas, en sintonía con la metodología que usan los 32 secretarios de finanzas de las entidades federativas y la SHCP, cuyos grupos de trabajo se dividen en 8 zonas. Este instrumento metodológico se retomó de acuerdo a la mecánica de trabajo que tienen diseñada los 32 secretarios de finanzas de las entidades federativas con la Secretaría de Hacienda y Crédito Público, tal como se observa en la <xref ref-type="table" rid="t2">tabla 2</xref> (SNCF, 2023).</p>
+			<p>
+				<table-wrap id="t2">
+					<label>Tabla 2</label>
+					<caption>
+						<title><italic>Grupos de trabajo del SNCF</italic></title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center; width: 600px;" colspan="2">Clasificación de las Entidades Federativas    de México</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;" colspan="2">Sistema Nacional de Coordinación Fiscal</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Zona</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">1</td>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"> Baja California, Baja California Sur, Sonora    y Sinaloa </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">2</td>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"> Chihuahua, Coahuila, Durango y Zacatecas </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">3</td>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"> Hidalgo, Nuevo León, Tamaulipas y Tlaxcala </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">4</td>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"> Aguascalientes, Colima, Jalisco y Nayarit </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">5</td>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"> Guanajuato, Michoacán, Querétaro y San Luis    Potosí </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">6</td>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"> Ciudad de México, Guerrero, Estado de México    y Morelos </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">7</td>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"> Chiapas, Oaxaca, Puebla y Veracruz </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">8</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;"> Campeche, Quintana Roo, Tabasco y Yucatán </td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN2">
+							<p><italic>Fuente</italic>: elaboración propia en base a información del SNCF, marzo 20, 2023.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+		</sec>
+		<sec sec-type="results">
+			<title>IV. Resultados</title>
+			<p>En este apartado se da respuesta a las preguntas de investigación ¿Hay una relación directa entre la recaudación de ingresos del ISAI con la aportación que hacen al Producto Interno Bruto (PIB) de las 8 zonas del SNCF? ¿Qué datos del ISAI no registran hoy las tesorerías de los municipios de México? ¿Hay una relación directa entre número de notarías públicas por zona del SNCF y la recaudación del ISAI?</p>
+			<p>En ese tenor, el primer dato encontrado es sobre el monto anual de recaudación del citado impuesto para un ejercicio fiscal determinado en nuestro país. De esta forma, en 2021, esta contribución generó ingresos por 11 mil 296 millones de pesos. Desde luego, no posee características de longevidad y robustez como el impuesto predial, pero representó el 14 % del total de los 78 mil 93 millones de pesos provenientes de los ingresos tributarios municipales, lo cual es muy representativo. La cifra anterior planteó la necesidad de consultar datos estadísticos de INEGI y metodología utilizada por los grupos de trabajo que integran el SNCF. De esta forma se procede a explorar la ruta que ha transitado el ISAI por los municipios de México.</p>
+			<sec>
+				<title>Análisis de la recaudación nominal y constante</title>
+				<p>A efecto de conocer la evolución de los ingresos producidos por el ISAI, las cifras anuales del periodo 1989-2021 se procedieron a deflactar en base al año 2018, la cual permitió conocer las cifras a precios constantes (reales) y el comportamiento histórico de este impuesto local.</p>
+				<p>
+					<table-wrap id="t3">
+						<label>Tabla 3</label>
+						<caption>
+							<title><italic>ISAI, periodo 1989-2005</italic></title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;">Año</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;"> A pesos nominales</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;"> A pesos constantes (año base 2018)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1989</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">218    756 105</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">2    948 978 602</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1990</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">461    510 490</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">4    788 340 373</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1991</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">699    476 578</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">6    109 136 553</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1992</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1    001 663 783</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">7    815 391 123</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1993</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1    016 274 980</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">7    341 406 847</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1994</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">947    926 070</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">6    396 605 691</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1995</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">848    368 980</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">3    767 152 214</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1996</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">520    907 266</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">1    811 263 159</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1997</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">995    833 978</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">2    992 300 881</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1998</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1    377 540 669</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">3    489 832 455</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1999</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1    775 690 499</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">4    005 119 696</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2000</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2    236 024 542</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">4    628 715 248</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2001</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2    575 735 764</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">5    107 050 527</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2002</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">3    268 861 940</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">6    131 806 874</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2003</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">3    259 483 917</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">5    880 380 739</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2004</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">4    428 884 537</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">7    595 790 970</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2005</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">5    486 172 175</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">9    105 632 747</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN3">
+								<p><italic>Fuente</italic>: elaboración propia en base a datos de INEGI, Estadísticas de Finanzas Públicas Estatales y Municipales (julio 2022).</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Al deflactar las cifras de recaudación del ISAI del periodo 1989-2021, durante el año 2007 se registró el más alto nivel de recaudación. En un primer momento se retoma la recaudación del periodo 1989-2021, es decir, 33 años, deflactándose las cifras nominales a pesos constantes del 2018. Lo anterior permite conocer el desempeño real de la recaudación para cada ejercicio fiscal. Desde luego, también se analiza su evolución por periodo quinquenal.</p>
+				<p>
+					<table-wrap id="t4">
+						<label>Tabla 4</label>
+						<caption>
+							<title><italic>ISAI, periodo 2006-2021</italic></title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;">Año</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;"> A pesos nominales</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;"> A pesos constantes (año base  2018)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2006</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">6 444 527 595</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">10 279 595 568</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2007</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">7 972 582 424</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">12 256 261 587</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2008</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">5 665 011 126</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">8 175 143 906</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2009</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">4 874 292 659</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">6 791 370 583</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2010</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">4 891 061 956</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">6 527 425 137</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2011</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">3 770 255 340</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">4 846 560 910</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2012</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">4 418 436 121</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">5 484 091 425</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2013</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">4 389 465 794</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">5 239 898 220</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2014</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">4 851 807 531</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">5 564 702 471</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2015</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">6 499 293 269</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">7 298 737 266</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2016</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">9 373 382 652</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">10 184 138 363</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2017</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">6 768 490 604</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">6 887 444 836</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2018</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">8 365 498 279</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">8 120 266 239</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2019</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">8 103 351 581</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">7 649 434 158</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2020</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">11 780 191 944</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">10 780 712 123</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2021</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">11 296 044 004</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">9 629 389 303</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN4">
+								<p><italic>Fuente</italic>: elaboración propia en base a datos de INEGI, Estadísticas de Finanzas Públicas Estatales y Municipales (julio 2022)</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>La recaudación histórica pudiera haber sido más elevada. Sin embargo, el hecho de que el impuesto se determine sobre valores inferiores a los de mercado hace que la hacienda pública capte menos ingresos y, desde luego, la subestimación que hay hacia este gravamen. Prefieren enfocar las baterías para el impuesto predial, por ser el que mas recaudación tributaria genera, pero que también no trabaja al 100 % para explotar su potencial desaprovechado.</p>
+				<p>
+					<fig id="f3">
+						<label>Gráfica 1</label>
+						<graphic xlink:href="2007-5545-biolex-17-28-e432-gf3.jpg"/>
+						<attrib><italic>Fuente</italic>: elaboración propia en base a datos de <xref ref-type="table" rid="t3">tabla 3</xref> y <xref ref-type="table" rid="t4">4</xref>.</attrib>
+					</fig>
+				</p>
+				<p>En la <xref ref-type="fig" rid="f3">gráfica 1</xref> se observa que el nivel de recaudación más alta se registró en el año 2007, obteniéndose 12 mil 256 millones de pesos (a precios constantes de 2018), del periodo 1989-2021. En contraparte, el dato más bajo se obtuvo en el año de 1996, periodo posterior a la crisis económica que estalló en México durante diciembre de 1994, la cual afectó a los agentes económicos, es decir, empresas, gobierno y hogares. </p>
+				<p>
+					<table-wrap id="t5">
+						<label>Tabla 5</label>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;">Año</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;">Impuesto sobre adquisición de inmuebles (pesos nominales)</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;">Impuesto sobre adquisición de inmuebles (pesos constantes)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1990</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">461 510 490</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">4 788 340 373</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1995</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">848 368 980</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">3 767 152 214</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2000</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">2 236 024 542</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">4 628 715 248</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2005</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">5 486 172 175</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">9 105 632 747</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2010</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">4 891 061 956</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">6 527 425 137</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2015</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">6 499 293 269</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">7 298 737 266</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2020</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">11 780 191 944</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">10 780 712 123</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2021</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">11 296 044 004</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">9 629 389 303</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN5">
+								<p><italic>Fuente</italic>: Elaboración propia en base a datos de INEGI, Estadísticas de Finanzas Públicas Estatales y Municipales (julio 2022).</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>La <xref ref-type="fig" rid="f4">gráfica 2</xref> muestra el comportamiento de la recaudación durante siete quinquenios, donde la cifra más baja se registró en el año de 1995, derivado del estallamiento de la crisis económica de diciembre de 1994 sobre el mercado inmobiliario. Por otra parte, los ingresos más altos fueron generados durante el año 2020, pero en el siguiente ejercicio fiscal los ingresos cayeron en más de mil millones de pesos (a valores constantes de 2018) respecto al año anterior. Esto se explica porque durante el periodo 2020-2021 estuvo presente la pandemia del Sar-Cov-19, la cual tuvo impacto negativo sobre la salud de las personas y también afectó el desempeño de los impuestos recaudados por la hacienda pública local mexicana, particularmente el ISAI.</p>
+				<p>
+					<fig id="f4">
+						<label>Gráfica 2</label>
+						<graphic xlink:href="2007-5545-biolex-17-28-e432-gf4.jpg"/>
+						<attrib><italic>Fuente</italic>: elaboración propia con base en datos de <xref ref-type="table" rid="t5">tabla 5</xref>
+						</attrib>
+					</fig>
+				</p>
+			</sec>
+			<sec>
+				<title>Ingresos por zona del SNCF</title>
+				<p>Se retomaron los ingresos generados por el ISAI para las 32 entidades federativas, pero agrupados en ocho zonas, a través de los cuales se hace un análisis descriptivo sobre dicha información. Las cifras más actualizadas que posee el INEGI corresponden al año 2020, pero también se retomaron los datos de 2010.</p>
+				<p>
+					<table-wrap id="t6">
+						<label>Tabla 6</label>
+						<caption>
+							<title><italic>Ingresos del ISAI (2010 y 2020)</italic></title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px; width: 500px;" colspan="3">Impuesto sobre Adquisición de Inmuebles en    México (cifra en pesos)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;" colspan="3"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;"></td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;" colspan="2">Año</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: right;">Zona</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">2010</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">2020</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">1</td>
+    <td style="border: 0; text-align: center;">837 204 489.00</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">241 334 697.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">2</td>
+    <td style="border: 0; text-align: center;">837 390 366.00</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">1 328 716 032.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">3</td>
+    <td style="border: 0; text-align: center;">241 884 291.00</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">1 517 669 081.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">4</td>
+    <td style="border: 0; text-align: center;">1 198 016 576.00</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">2 602 547 019.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">5</td>
+    <td style="border: 0; text-align: center;">652 714 452.00</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">2 762 009 157.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">6</td>
+    <td style="border: 0; text-align: center;">21 10 ,029.00</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">1 356 350 790.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">7</td>
+    <td style="border: 0; text-align: center;">425 004 751.00</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">924 945 267.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">8</td>
+    <td style="border: 0; text-align: center;">677 747 002.00</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">576 540 194.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: right;">Total</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;"> 4 891 067 966.00 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">11 310 112 237.00</td>
+  </tr>
+</tbody>
+</table>
+
+
+						<table-wrap-foot>
+							<fn id="TFN6">
+								<p>Fuente: elaboración propia con datos de INEGI, 20 marzo 2023. Zonas del Sistema Nacional de Coordinación Fiscal.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>La zona 5, representada por los estados de Guanajuato, Michoacán, Querétaro y San Luis Potosí, fue la que obtuvo la mayor parte de la recaudación de ingresos durante el 2020, con el 24 %, seguida por la zona 4, integrada por Aguascalientes, Colima, Jalisco y Nayarit, que alcanzó el 23 % respecto al total de la cifra nacional. La zona 1, conformada por Baja California, Baja California Sur, Sonora y Sinaloa fue la que tuvo el menor desempeño, generando tan solo el 2 % a nivel nacional. </p>
+				<p>
+					<fig id="f5">
+						<label>Gráfica 3</label>
+						<caption>
+							<title><italic>ISAI por Zonas del SNCF</italic></title>
+						</caption>
+						<graphic xlink:href="2007-5545-biolex-17-28-e432-gf5.jpg"/>
+						<attrib><italic>Fuente</italic>: elaboración propia en base datos de <xref ref-type="table" rid="t6">tabla 6</xref>.</attrib>
+					</fig>
+				</p>
+				<p>En el año 2010, fue la zona 4 la que mostró mejores resultados, dado que aportó el 23 % en todo el país, seguidos por la zona 1 y 2 que aportaron un 17 %, respectivamente. En ese ejercicio fiscal el peor desempeño lo tuvo la zona 6, lo cual llama la atención porque en ese grupo de trabajo del SNCF se encuentran la Ciudad de México y el Estado de México, los cuales están en los primeros lugares de crecimiento de su PIB. </p>
+				<p>Esto hace pensar: ¿qué efectos ocultos tendrá el ISAI en estas entidades federativas?, ¿por qué su rendimiento es bajo si dichos estados son fuertes sus economías locales? Estos cuestionamientos plantean la necesidad de hacer <italic>propuesta de mejora e innovación</italic> del ISAI para todos los municipios de esta nación, por lo que es necesario observar la relación que tiene este impuesto con el PIB estatal de las entidades federativas que integran la zona 6 del SNCF. </p>
+			</sec>
+			<sec>
+				<title>Relación del PIB e ISAI</title>
+				<p>De acuerdo a estadísticas del PIB, los 4 estados que tuvieron mayor aporte a la producción en el año 2020 fueron “Ciudad de México, México, Nuevo León, y Jalisco” (INEGI, 2021). Estos datos descartan (rechazan) nuestra hipótesis de trabajo de que las entidades federativas con mayor Producto Interno Bruto (PIB) son las que más ingresos aportan por el Impuesto sobre Adquisición de Inmuebles (ISAI), ya que, durante el año 2020, los gobiernos estatales que más ingresos recaudaron por el ISAI fueron Guanajuato, Michoacán, Querétaro y San Luis Potosí, los cuales conforman la zona 5 del SNCF.</p>
+				<p>
+					<table-wrap id="t7">
+						<label>Tabla 7</label>
+						<caption>
+							<title><italic>PIB 2020 de los cuatro Estados con mayor aporte a la producción</italic></title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center; width: 500px;" colspan="6"><bold>Producto Interno Bruto 2020</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;" colspan="6"><bold>Cuatro Estados que registraron la mayor aportación al PIB</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center;" colspan="6">Variación porcentual anual</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;"></td>
+    <td style="border: 0; text-align: center;"></td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;" colspan="4">Actividad o Sector</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Estado</td>
+    <td style="border: 0; text-align: center;">Millones de pesos</td>
+    <td style="border: 0; text-align: center;">Total</td>
+    <td style="border: 0; text-align: center;">Primaria </td>
+    <td style="border: 0; text-align: center;">Secundaria</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">Terciaria</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Ciudad de México</td>
+    <td style="border: 0; text-align: center;">         3 464 828.00 </td>
+    <td style="border: 0; text-align: center;">(-) 9.1</td>
+    <td style="border: 0; text-align: center;">(-)4.5</td>
+    <td style="border: 0; text-align: center;">(-)14.5</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">(-)8.5</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Jalisco</td>
+    <td style="border: 0; text-align: center;">         1 993 874.00 </td>
+    <td style="border: 0; text-align: center;">(-) 7.5</td>
+    <td style="border: 0; text-align: center;">2.3</td>
+    <td style="border: 0; text-align: center;">(-)9.9</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">(-)7.3</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">México</td>
+    <td style="border: 0; text-align: center;">         1 774 370.00 </td>
+    <td style="border: 0; text-align: center;">(-)5.9</td>
+    <td style="border: 0; text-align: center;">2.4</td>
+    <td style="border: 0; text-align: center;">(-)9.8</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">(-)4.7</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Nuevo León</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">          1 591 000.00 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">(-) 8.4</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">1</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">(-)11.3</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">(-)6.8)</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN7">
+								<p><italic>Fuente</italic>: INEGI (2021), Producto Interno Bruto por Entidad Federativa.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Si bien es cierto que la hipótesis de la relación directa que se esperaba entre el tamaño del PIB de cada entidad federativa y el crecimiento de la recaudación del ISAI resultó negativa, ahora la pregunta sería ¿qué información oculta tiene el ISAI en el Estado de México y la Ciudad de México? Estos dos estados pertenecen a la zona 6 del SNCF y tienen mayor PIB que los estados de Guanajuato, Michoacán, Querétaro y San Luis Potosí (zona 5), pero estos últimos mostraron una mayor recaudación de ISAI en 2020. De la misma forma, la zona 4, integrada por Aguascalientes, Colima, Jalisco y Nayarit también registraron más altos ingresos públicos que la zona 6. Estos datos son interesantes y arrojan dudas sobre la transparencia, rendición de cuentas y/o posibles actos corrupción que pudieran estar ocurriendo durante la gestión del citado impuesto local. Aquí es donde caben las medidas <italic>preventivas</italic> que deben aplicarse.</p>
+				<p>
+					<fig id="f6">
+						<label>Gráfica 4</label>
+						<caption>
+							<title><italic>Estados con mayor PIB en 2020</italic></title>
+						</caption>
+						<graphic xlink:href="2007-5545-biolex-17-28-e432-gf6.jpg"/>
+						<attrib><italic>Fuente</italic>: Elaboración propia en base a datos de la <xref ref-type="table" rid="t7">tabla 7</xref>.</attrib>
+					</fig>
+				</p>
+			</sec>
+			<sec>
+				<title>¿Se requiere generar una base de datos para el ISAI?</title>
+				<p>Por lo demostrado en este trabajo, la respuesta categórica es sí. Nuestra segunda hipótesis sí se cumple, ya que la exploración realizada en el INEGI, sobre este impuesto, es que solo posee las cifras de recaudación de ingresos por cada entidad federativa, lo cual es muy limitado. Desafortunadamente, no existe una data que contenga características de las propiedades como lo son las viviendas con sus números de habitaciones, baños, cochera, sala, cuarto de servicio, antigüedad de la edificación, entre otros. Tampoco datos de inmuebles comerciales, industriales, agrícolas, acuícolas, ganaderos, recreativos o de cualquier otro uso, lo cual sería importante para conocer qué tipo de propiedades son las más demandadas en el mercado. Asimismo, no hay una clasificación para conocer si la adquisición de inmuebles se realizó por hombres o mujeres jefas de familia. Esta última clasificación es necesaria hacerla por el impulso que hoy tienen las <italic>políticas de género</italic> en México.</p>
+			</sec>
+			<sec>
+				<title>Las notarías públicas</title>
+				<p>Aunado a lo anterior, en este país existen 3 mil 892 notarías públicas (cifra actualizada al mes de noviembre de 2022). Se recabó la cifra de cada una de las 32 entidades federativas y, posteriormente, se procedió a clasificarlas por las 8 zonas que conforman el SNCF tal y como se hizo con el ISAI. De esta manera, la zona 7 (integrada por Chiapas, Oaxaca, Puebla y Veracruz) registra el mayor número de notarías, 19 por ciento respecto al total del país, es decir, 729 oficinas atendidas por notarios públicos. </p>
+				<p>En el otro extremo se encuentra la zona 1 (constituida por Baja California, Baja California Sur, Sonora y Sinaloa) que posee 327 notarias, es decir, solamente el 8 por ciento de las que hay en México. Sería interesante investigar qué factores determinan que una zona cuente con una mayor cantidad de notarías públicas que otras.</p>
+				<p>
+					<table-wrap id="t8">
+						<label>Tabla 8</label>
+						<caption>
+							<title><italic>Notarias Públicas en México</italic></title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center; width: 450px;" colspan="3">Clasificación por zona,    de acuerdo a Sistema Nacional de Coordinación Fiscal</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;" colspan="3">Cifras correspondientes a noviembre de 2022</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">Zona</td>
+    <td style="border: 0; text-align: center;">Cantidad</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">Porcentaje</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">1</td>
+    <td style="border: 0; text-align: center;">327</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">8 %</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">2</td>
+    <td style="border: 0; text-align: center;">431</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">11 %</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">3</td>
+    <td style="border: 0; text-align: center;">564</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">14 %</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">4</td>
+    <td style="border: 0; text-align: center;">446</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">11 %</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">5</td>
+    <td style="border: 0; text-align: center;">599</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">15 %</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">6</td>
+    <td style="border: 0; text-align: center;">458</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">12 %</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">7</td>
+    <td style="border: 0; text-align: center;">729</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">19 %</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center;">8</td>
+    <td style="border: 0; text-align: center;">338</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">9 %</td>
+  </tr>
+  <tr>
+    <td style="border: 0;  border-bottom: 1px solid #000000;border-left: 1px solid #000000; text-align: left; padding-left: 10px;"><bold>Total</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">3 892</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">100 %</td>
+  </tr>
+
+</tbody></table>
+
+						<table-wrap-foot>
+							<fn id="TFN8">
+								<p><italic>Fuente</italic>: elaboración propia con datos de Directorio Estadístico Nacional de Unidades Económicas de INEGI, consultado en mayo 2023.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>En la <xref ref-type="fig" rid="f7">gráfica 5</xref> puede apreciarse la cantidad de notarías públicas que hay en cada una de las ocho zonas del SNCF, así como el porcentaje que representan cada una de ellas respecto a las 3 mil 892 que existe por toda la geografía mexicana. Debe mencionarse que los Fiat para acreditarse como notario, son otorgados por los gobiernos estatales; además, cada estado tiene su propia ley del notariado público. Como se mencionó en la sección dos de este trabajo, existen casos de corrupción donde se vieron involucrados notarios públicos que omitieron realizar pagos de ISAI en el megafraude del Fideicomiso de Bahía de Banderas”. </p>
+				<p>
+					<fig id="f7">
+						<label>Gráfica 5</label>
+						<caption>
+							<title><italic>Notarias por zonas del SNCF</italic></title>
+						</caption>
+						<graphic xlink:href="2007-5545-biolex-17-28-e432-gf7.jpg"/>
+						<attrib><italic>Fuente</italic>: elaboración propia en base a datos de <xref ref-type="table" rid="t8">tabla 8</xref>.</attrib>
+					</fig>
+				</p>
+			</sec>
+			<sec>
+				<title>Crecimiento de notarías públicas y recaudación del ISAI</title>
+				<p>En la <xref ref-type="table" rid="t9">tabla 9</xref>, última columna, se muestra la recaudación promedio del ISAI por notaría pública para cada una de las ocho zonas. De esta forma, la zona 5 es la que registró la recaudación más elevada de 5 mil 835 millones de pesos, mientras que la de más baja captación fue la zona 1 con apenas 738 mil pesos. </p>
+				<p>
+					<table-wrap id="t9">
+						<label>Tabla 9</label>
+						<caption>
+							<title><italic>Recaudación promedio por notarias públicas</italic></title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center; width: 720px;" colspan="6" rowspan="2">Notarias Públicas e Ingresos por ISAI</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Zona</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Notarias</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Porcentaje</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Ingresos</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">Porcentaje</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Promedio ingresos por notaria</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">1</td>
+    <td style="border: 0; text-align: right;">327 </td>
+    <td style="border: 0; text-align: center;">8%</td>
+    <td style="border: 0; text-align: center;">      241,334,697.00 </td>
+    <td style="border: 0; text-align: right;">2%</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">738,026.60 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">2</td>
+    <td style="border: 0; text-align: right;">431 </td>
+    <td style="border: 0; text-align: center;">11%</td>
+    <td style="border: 0; text-align: center;">    1,328,716,032.00 </td>
+    <td style="border: 0; text-align: right;">12%</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">3,082,867.82 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">3</td>
+    <td style="border: 0; text-align: right;">564 </td>
+    <td style="border: 0; text-align: center;">14%</td>
+    <td style="border: 0; text-align: center;">    1,517,669,081.00 </td>
+    <td style="border: 0; text-align: right;">13%</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">2,690,902.63 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">4</td>
+    <td style="border: 0; text-align: right;">446 </td>
+    <td style="border: 0; text-align: center;">11%</td>
+    <td style="border: 0; text-align: center;">   2,602,547,019.00 </td>
+    <td style="border: 0; text-align: right;">23%</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">5,835,307.22 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">5</td>
+    <td style="border: 0; text-align: right;">599 </td>
+    <td style="border: 0; text-align: center;">15%</td>
+    <td style="border: 0; text-align: center;">   2,762,009,157.00 </td>
+    <td style="border: 0; text-align: right;">24%</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">4,611,033.65 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">6</td>
+    <td style="border: 0; text-align: right;">458 </td>
+    <td style="border: 0; text-align: center;">12%</td>
+    <td style="border: 0; text-align: center;">   1,356,350,790.00 </td>
+    <td style="border: 0; text-align: right;">12%</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">2,961,464.61 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">7</td>
+    <td style="border: 0; text-align: right;">729 </td>
+    <td style="border: 0; text-align: center;">19%</td>
+    <td style="border: 0; text-align: center;">      924,945,267.00 </td>
+    <td style="border: 0; text-align: right;">8%</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">1,268,786.37 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: right;">8</td>
+    <td style="border: 0; text-align: right;">338 </td>
+    <td style="border: 0; text-align: center;">9%</td>
+    <td style="border: 0; text-align: center;">      576,540,194.00 </td>
+    <td style="border: 0; text-align: right;">5%</td>
+    <td style="border: 0; border-right: 1px solid #000000; text-align: center;">1,705,740.22 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: right;">Total</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: right;">3,892 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">100%</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">   11,310,112,237.00 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: right;">100%</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">2,905,989.78 </td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN9">
+								<p><italic>Fuente</italic>: elaboración propia con datos de INEGI, consultado en mayo 2023.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>La zona 7, que es la que tiene el mayor número de notarías públicas, quedó en el penúltimo lugar de recaudación, evidenciando que no es la actividad económica y elevados ingresos provenientes del ISAI los factores determinantes para el crecimiento de notarías públicas por entidad federativa, por lo cual se rechaza nuestra tercera hipótesis de que la cantidad de fiats otorgados para el ejercicio de notario público depende del incremento de la recaudación del ISAI.</p>
+				<p>Por lo tanto, son otros factores, aún se desconocen, los que influyen para el otorgamiento de fiats por parte de los gobernadores de los estados. Generalmente, la mayoría de ellos se otorgan en el último año de la gestión gubernamental. ¿Por qué ocurren esas prácticas en el tramo final de las administraciones públicas estatales?</p>
+				<p>
+					<fig id="f8">
+						<label>Gráfica 6</label>
+						<caption>
+							<title><italic>Recaudación promedio de ISAI por Notaría Pública</italic></title>
+						</caption>
+						<graphic xlink:href="2007-5545-biolex-17-28-e432-gf8.jpg"/>
+						<attrib><italic>Fuente</italic>: elaboración propia en base a datos de <xref ref-type="table" rid="t9">tabla 9</xref>.</attrib>
+					</fig>
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>V. Conclusiones</title>
+			<p>Desde hace cuarenta y cinco años que los municipios mexicanos administran el ISAI, pero dicha contribución ha sido subutilizada, no se está aprovechando su potencial por parte de las tesorerías municipales. El haberse eliminado la Ley General del Timbre para que entrara en vigencia, el 1 de enero de 1980, la Ley del ISAI buscaba el espíritu de fortalecer la recaudación de la hacienda pública municipal, lo cual aún es una asignatura pendiente.</p>
+			<p>Los resultados obtenidos muestran que no necesariamente hay una relación directa entre tamaño del PIB de cada entidad federativa y el incremento de los ingresos por ISAI. Es el caso del Estado de México y la Ciudad de México, pertenecientes a la zona 6 del SNCF, tienen mayor PIB que los estados de Guanajuato, Michoacán, Querétaro y San Luis Potosí (zona 5), pero estos últimos fueron capaces de obtener una más alta recaudación de ISAI en 2020. De la misma forma, la zona 4, integrada por Aguascalientes, Colima, Jalisco y Nayarit también registraron más altos ingresos públicos que la zona 6.</p>
+			<p> Estos datos son interesantes y siembran incertidumbre sobre la transparencia, rendición de cuentas y/o posibles actos corrupción que pudieran estar realizándose durante la gestión del citado impuesto local en las entidades federativas que integran la zona 6. Aquí es donde es necesario aplicar instrumentos preventivos contra daños a la hacienda pública.</p>
+			<p>También es importante destacar otros resultados, a través del cual se pudo comprobar que no existen en los municipios una base de datos, generados por este impuesto, sobre atributos de los inmuebles como viviendas con sus números de habitaciones, baños, cochera, sala, cuarto de servicio, antigüedad de la edificación, entre otros. Tampoco existe ese tipo de información del resto de inmuebles rurales, agrícolas, acuícolas, ganaderos, comerciales, industriales recreativos o de cualquier otro uso. Es muy cuestionable que el único dato que publica el INEGI es el monto de la recaudación proveniente por dicho impuesto.</p>
+			<p>El último resultado obtenido es que la cantidad de fiats otorgados para el ejercicio de notario público no depende del crecimiento de la recaudación del ISAI, lo cual se evidencia en Chiapas, Oaxaca, Puebla y Veracruz, que conforman la zona 7, al ser la que registró el mayor número de notarías públicas, pero se ubica en el penúltimo lugar de recaudación. Esto evidencia que son otros factores los que se toman en cuenta para tomar dicha decisión. </p>
+			<p>Los datos recopilados para mostrar evidencia empírica, a pesar de ser marginales, dan luz a este trabajo que no ha sido explorado por la academia ni por ningún orden de gobierno en esta nación. ¿Será que no hay un esfuerzo fiscal por mejorar el ISAI? ¿Será que no hay interés de ayudar al hermano pobre, que es el municipio? o ¿no hay la voluntad para instrumentar propuestas de mejora e innovación para la vigilancia ciudadana, la rendición de cuentas y el combate a la corrupción? </p>
+			<p>Se puede ser algo romántico con las <italic>propuestas de mejora e innovación</italic>, pero creo que algunas de ellas sí tienen factibilidad de implementarse en la gran mayoría de los municipios aztecas. Iniciar una ruta para transparentar y rendir cuentas requiere diseñar un cambio de política del ISAI que, a futuro, se fortalezca con el diseño de un banco de datos anual sobre la compra-venta de inmuebles, combatir la opacidad y mejorar su productividad. </p>
+			<p>No se trata de abrir la “<italic>caja negra”</italic> de este impuesto sino dejar a un lado la política convencional, el letargo, la pereza fiscal en que vive el ISAI e iniciar un cambio de política que fortalezca la evaluación y el desempeño administrativo de la citada contribución local, es decir, salir del <italic>status quo</italic> en que se encuentra.</p>
+			<p>Se vislumbra, para futuras líneas de investigación, algunos incentivos que puedan otorgarse a todos los municipios de México para que administren mejor el citado impuesto. Desde luego, ello también involucrará a las legislaturas de los estados, dado que será necesario efectuar reformas a sus respectivas Leyes de Hacienda Municipal. Una idea que se tiene, para poner a trabajar mejor este impuesto, es que las cifras de recaudación del ISAI de los municipios mexicanos se incluyan en la fórmula del Fondo de Fomento Municipal (FFM).</p>
+			<p>En ese tenor, será necesario impulsar reformas al “artículo 2-A de la Ley de Coordinación Fiscal” (2018, p.5) y las respectivas leyes de coordinación fiscal de los estados para que en la distribución del FFM a sus municipios se incluya la variable ISAI. Creo que este debate llegó para quedarse.</p>
+			<sec>
+				<title>Algunas propuestas para mejorar el ISAI</title>
+				<p>A pesar de que el ISAI solo tiene como datos disponibles la recaudación que publica el INEGI, el esfuerzo realizado, mediante la estrategia empírica de investigación cualitativa, permitió diseñar tres propuestas de innovación y una propuesta de mejora. Estas son las siguientes.</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p><italic>Propuesta de innovación</italic> para que la Unidad de Coordinación con Entidades Federativas de la SHCP, al distribuir el FFM a los municipios de México, no solo use las variables del predial y derechos de agua, sino que también el factor recaudación del ISAI.</p>
+						</list-item>
+						<list-item>
+							<p><italic>Propuesta de innovación</italic> para que los 32 gobiernos estatales, a través de sus Secretarías de Finanzas, al distribuir el FFM a sus respectivos municipios, tomen como una variable adicional la recaudación del ISAI.</p>
+						</list-item>
+					</list>
+				</p>
+				<p>
+					<fig id="f9">
+						<label>Esquema 3</label>
+						<caption>
+							<title><italic>Innovar con variable ISAI</italic></title>
+						</caption>
+						<graphic xlink:href="2007-5545-biolex-17-28-e432-gf9.jpg"/>
+						<attrib><italic>Fuente</italic>: elaboración propia con el propósito de innovar el desempeño de este impuesto local</attrib>
+					</fig>
+				</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p><italic>Propuesta de innovación</italic> para que un 10% de la recaudación del ISAI se aplique en acciones para el DEL a favor de las municipalidades mexicanas.</p>
+						</list-item>
+						<list-item>
+							<p><italic>Propuesta de mejora</italic> para generar una base de datos del ISAI que arroje información sobre:</p>
+						</list-item>
+						<list-item>
+							<p>-Incentivos fiscales que otorga este impuesto.</p>
+						</list-item>
+						<list-item>
+							<p> -Relación de empresas beneficiadas con incentivos fiscales.</p>
+						</list-item>
+						<list-item>
+							<p>-Monto de los incentivos fiscales otorgados.</p>
+						</list-item>
+						<list-item>
+							<p>-Respuesta a dicho incentivo, como puede ser el número de empleos generados.</p>
+						</list-item>
+						<list-item>
+							<p>-Ingresos anuales que dejaron de obtenerse por el otorgamiento de incentivos fiscales.</p>
+						</list-item>
+						<list-item>
+							<p>-Crear un banco de datos, periodicidad anual, sobre las ventas de inmuebles que fueron sujetas al pago del ISAI.</p>
+						</list-item>
+						<list-item>
+							<p>-Informar sobre el desempeño del ISAI como un factor clave para mayor transparencia y menos opacidad.</p>
+						</list-item>
+						<list-item>
+							<p>-Revisar por qué hay bajo rendimiento de la recaudación de ISAI en los estados que más aportan al PIB.</p>
+						</list-item>
+						<list-item>
+							<p>-Acercar la base gravable del ISAI a valores de mercado.</p>
+						</list-item>
+						<list-item>
+							<p>-Actualizar con mayor periodicidad los valores catastrales de inmuebles.</p>
+						</list-item>
+						<list-item>
+							<p>-Colaborar las tesorerías municipales y las notarías públicas para el diseño de mejores prácticas transparencia y rendición de cuentas del ISAI.</p>
+						</list-item>
+					</list>
+				</p>
+			</sec>
+			<sec>
+				<title>Beneficios con implementación de propuestas</title>
+				<p>La primera propuesta de innovación estaría otorgando elementos a los funcionarios fiscales estatales y federales para: </p>
+				<p>Impulsar reformas a la Ley de Coordinación Fiscal para que <italic>haya prácticas preventivas</italic> en la administración del ISAI por parte de los municipios. El beneficio: poseer un mayor esfuerzo fiscal municipal.</p>
+				<p>La segunda propuesta de innovación favorecería la mecánica de trabajo de funcionarios fiscales estatales y municipales para:</p>
+				<p>Impulsar reformas a las Leyes de Coordinación Fiscal de cada estado para aplicar <italic>prácticas preventivas</italic> del ISAI. El beneficio: incrementar la recaudación de ingresos propios que son base para que los municipios reciban más participaciones federales.</p>
+				<p>La tercera propuesta de innovación coadyuvaría a la aplicación de <italic>prácticas innovadoras</italic> para que los secretarios de desarrollo económico de los estados y los alcaldes apoyen el tejido empresarial de sus respectivos municipios. Beneficio: apoyar el desarrollo de las empresas locales para que generen empleos e ingresos para la población.</p>
+				<p>La única propuesta de mejora cuenta con varios factores, pero todos ellos enfocados a generar más información para la rendición de cuentas, transparencia y prevenir la corrupción del multicitado impuesto local. De esta forma, se estarían realizando <italic>prácticas preventivas.</italic></p>
+				<p>Beneficios: para los contribuyentes, inmobiliarias, banca privada, peritos valuadores, mercado de inmuebles, notarias públicas, catastro y registro público de la propiedad. También para los Departamentos de Acceso a la Información Pública que operan a favor de la transparencia en los municipios mexicanos.</p>
+				<p>Toda la información que se aspira a diseñar, en un banco de datos para los municipios puede ser muy relevante por muchas razones. Aquí solo se comentan dos. La primera es que el INEGI podrá ampliar la data sobre este impuesto municipal y ponerla a disposición de usuarios nacionales y extranjeros. La segunda es que de esta forma se coadyuvará a tener más claridad y exigencia sobre la rendición de cuentas de los ingresos y, desde luego, poner freno a posibles actos de corrupción.</p>
+			</sec>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>VI. Referencias bibliográficas</title>
+			<ref id="B1">
+				<mixed-citation>Alburquerque, Francisco. <italic>El enfoque del desarrollo económico local</italic>. Ginebra: Organización Internacional del Trabajo, 2004.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alburquerque</surname>
+							<given-names>Francisco</given-names>
+						</name>
+					</person-group>
+					<source>El enfoque del desarrollo económico local</source>
+					<publisher-loc>Ginebra</publisher-loc>
+					<publisher-name>Organización Internacional del Trabajo</publisher-name>
+					<year>2004</year>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Alliance for Integrity. «Sobre nosotros». Consultado el 12 de junio de 2023. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.allianceforintegrity.org/es/alliance-for-integrity/sobre-nosotros/">https://www.allianceforintegrity.org/es/alliance-for-integrity/sobre-nosotros/</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<source>Alliance for Integrity. «Sobre nosotros»</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2023-06-12">12 de junio de 2023</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.allianceforintegrity.org/es/alliance-for-integrity/sobre-nosotros/">https://www.allianceforintegrity.org/es/alliance-for-integrity/sobre-nosotros/</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Augustine, Nancy, Michael Bell, David Brunori y Joan Youngman. <italic>Erosion of the Property Tax Base</italic>. Cambridge: Lincoln Institute of Land Policy, 2009.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Augustine</surname>
+							<given-names>Nancy</given-names>
+						</name>
+						<name>
+							<surname>Bell</surname>
+							<given-names>Michael</given-names>
+						</name>
+						<name>
+							<surname>Brunori</surname>
+							<given-names>David</given-names>
+						</name>
+						<name>
+							<surname>Youngman</surname>
+							<given-names>Joan</given-names>
+						</name>
+					</person-group>
+					<source>Erosion of the Property Tax Base</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Lincoln Institute of Land Policy</publisher-name>
+					<year>2009</year>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Bahl, Roy. «A regression approach to tax effort and tax ratio analysis». <italic>IMF Staff Papers</italic> 18 (1971): 570-612. https://doi.org/10.5089/9781451969276.024.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bahl</surname>
+							<given-names>Roy</given-names>
+						</name>
+					</person-group>
+					<article-title>A regression approach to tax effort and tax ratio analysis</article-title>
+					<source>IMF Staff Papers</source>
+					<volume>18</volume>
+					<year>1971</year>
+					<fpage>570</fpage>
+					<lpage>612</lpage>
+					<pub-id pub-id-type="doi">10.5089/9781451969276.024</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Benjamin, J. D., N. E. Coulson y S. X. Yang. «Real estate transfer taxes and property values: The Philadelphia story». <italic>Journal of Real Estate Finance and Economics</italic> 7 (1993): 151-157. https://doi.org/10.1007/BF01258324.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Benjamin</surname>
+							<given-names>J. D</given-names>
+						</name>
+						<name>
+							<surname>Coulson</surname>
+							<given-names>N. E</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>S. X</given-names>
+						</name>
+					</person-group>
+					<article-title>Real estate transfer taxes and property values: The Philadelphia story</article-title>
+					<source>Journal of Real Estate Finance and Economics</source>
+					<volume>7</volume>
+					<year>1993</year>
+					<fpage>151</fpage>
+					<lpage>157</lpage>
+					<pub-id pub-id-type="doi">10.1007/BF01258324</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Bird, Richard M., y François Vaillancourt. <italic>Fiscal Decentralization in Developing Countries</italic>. Cambridge: Cambridge University Press, 1998. <ext-link ext-link-type="uri" xlink:href="https://catalog.princeton.edu/catalog/SCSB-8686519">https://catalog.princeton.edu/catalog/SCSB-8686519</ext-link>.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bird</surname>
+							<given-names>Richard M</given-names>
+						</name>
+						<name>
+							<surname>Vaillancourt</surname>
+							<given-names>François</given-names>
+						</name>
+					</person-group>
+					<source>Fiscal Decentralization in Developing Countries</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+					<year>1998</year>
+					<ext-link ext-link-type="uri" xlink:href="https://catalog.princeton.edu/catalog/SCSB-8686519">https://catalog.princeton.edu/catalog/SCSB-8686519</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Cámara de Diputados, LXV Legislatura. <italic>Constitución Política de los Estados Unidos Mexicanos</italic>. México: Cámara de Diputados, 2023. <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm">https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm</ext-link>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Cámara de Diputados, LXV Legislatura</collab>
+					</person-group>
+					<source>Constitución Política de los Estados Unidos Mexicanos</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Cámara de Diputados</publisher-name>
+					<year>2023</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm">https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Cámara de Diputados del Congreso de la Unión. <italic>Ley de Coordinación Fiscal</italic>. 2018.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Cámara de Diputados del Congreso de la Unión</collab>
+					</person-group>
+					<source>Ley de Coordinación Fiscal</source>
+					<year>2018</year>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Casali, L., A. Arundel y H. Hollanders. «How European Public Sector Agencies Innovate». <italic>Research Policy</italic> 44 (2015): 1271-1282. https://doi.org/10.1016/j.respol.2015.04.007.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Casali</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Arundel</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Hollanders</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<article-title>How European Public Sector Agencies Innovate</article-title>
+					<source>Research Policy</source>
+					<volume>44</volume>
+					<year>2015</year>
+					<fpage>1271</fpage>
+					<lpage>1282</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.respol.2015.04.007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Centro de Estudios de las Finanzas Públicas. México: CEFP, 2024. <ext-link ext-link-type="uri" xlink:href="https://cefp.gob.mx/cefpnew/pnfp.php">https://cefp.gob.mx/cefpnew/pnfp.php</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<source>Centro de Estudios de las Finanzas Públicas</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>CEFP</publisher-name>
+					<year>2024</year>
+					<ext-link ext-link-type="uri" xlink:href="https://cefp.gob.mx/cefpnew/pnfp.php">https://cefp.gob.mx/cefpnew/pnfp.php</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Congreso del Estado de Sinaloa. <italic>Ley de Fomento Económico a la Inversión para el Desarrollo Económico del Estado de Sinaloa</italic>. Decreto n.º 166. <italic>Periódico Oficial del Estado de Sinaloa</italic>, n.º 105, 24 de agosto de 2018.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Congreso del Estado de Sinaloa</collab>
+					</person-group>
+					<source>Ley de Fomento Económico a la Inversión para el Desarrollo Económico del Estado de Sinaloa</source>
+					<issue>166</issue>
+					<comment>Periódico Oficial del Estado de Sinaloa, n.º 105</comment>
+					<day>24</day>
+					<month>08</month>
+					<year>2018</year>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Convención de las Naciones Unidas contra la Corrupción. México: CNUCC, 2004. <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/sfp/documentos/convencion-de-las-naciones-unidas-contra-la-corrupcion-onu">https://www.gob.mx/sfp/documentos/convencion-de-las-naciones-unidas-contra-la-corrupcion-onu</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Convención de las Naciones Unidas contra la Corrupción</collab>
+					</person-group>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>CNUCC</publisher-name>
+					<year>2004</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/sfp/documentos/convencion-de-las-naciones-unidas-contra-la-corrupcion-onu">https://www.gob.mx/sfp/documentos/convencion-de-las-naciones-unidas-contra-la-corrupcion-onu</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation> Cordero, José Manuel, Carlos Díaz, Francisco Pedraja y Cristina Polo. «Tributos cedidos y eficiencia en la gestión tributaria de las comunidades autónomas». <italic>Hacienda Pública Española</italic> 232, n.º 1 (2020): 75-112. https://doi.org/10.7866/hpe-rpe.20.1.4.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cordero</surname>
+							<given-names>José Manuel</given-names>
+						</name>
+						<name>
+							<surname>Díaz</surname>
+							<given-names>Carlos</given-names>
+						</name>
+						<name>
+							<surname>Pedraja</surname>
+							<given-names>Francisco</given-names>
+						</name>
+						<name>
+							<surname>Polo</surname>
+							<given-names>Cristina</given-names>
+						</name>
+					</person-group>
+					<article-title>Tributos cedidos y eficiencia en la gestión tributaria de las comunidades autónomas</article-title>
+					<source>Hacienda Pública Española</source>
+					<volume>232</volume>
+					<issue>1</issue>
+					<year>2020</year>
+					<fpage>75</fpage>
+					<lpage>112</lpage>
+					<pub-id pub-id-type="doi">10.7866/hpe-rpe.20.1.4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Dachis, Benjamin, Gilles Duranton y Matthew A. Turner. «The effects of land transfer taxes on real estate markets: evidence from a natural experiment in Toronto». <italic>Journal of Economic Geography</italic> 12, n.º 2 (2012): 327-354. https://doi.org/10.1093/jeg/lbr007.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dachis</surname>
+							<given-names>Benjamin</given-names>
+						</name>
+						<name>
+							<surname>Duranton</surname>
+							<given-names>Gilles</given-names>
+						</name>
+						<name>
+							<surname>A. Turner</surname>
+							<given-names>Matthew</given-names>
+						</name>
+					</person-group>
+					<article-title>The effects of land transfer taxes on real estate markets: evidence from a natural experiment in Toronto</article-title>
+					<source>Journal of Economic Geography</source>
+					<volume>12</volume>
+					<issue>2</issue>
+					<year>2012</year>
+					<fpage>327</fpage>
+					<lpage>354</lpage>
+					<pub-id pub-id-type="doi">10.1093/jeg/lbr007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Damanpour, Fariborz, y Marguerite Schneider. «Characteristics of Innovation and Innovation Adoption in Public Organizations». <italic>Journal of Public Administration Research and Theory</italic> 19 (2009): 495-522. https://doi.org/10.1093/jopart/mun021.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Damanpour</surname>
+							<given-names>Fariborz</given-names>
+						</name>
+						<name>
+							<surname>Schneider</surname>
+							<given-names>Marguerite</given-names>
+						</name>
+					</person-group>
+					<article-title>Characteristics of Innovation and Innovation Adoption in Public Organizations</article-title>
+					<source>Journal of Public Administration Research and Theory</source>
+					<volume>19</volume>
+					<year>2009</year>
+					<fpage>495</fpage>
+					<lpage>522</lpage>
+					<pub-id pub-id-type="doi">10.1093/jopart/mun021</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation><italic>Diario Oficial de la Federación</italic> (México). «Decreto por el que se aprueba el Programa Nacional de Combate a la Corrupción y a la Impunidad, y de Mejora de la Gestión Pública 2019-2024». Edición vespertina, 2019.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Diario Oficial de la Federación (México)</collab>
+					</person-group>
+					<source>Decreto por el que se aprueba el Programa Nacional de Combate a la Corrupción y a la Impunidad, y de Mejora de la Gestión Pública 2019-2024</source>
+					<publisher-name>Edición vespertina</publisher-name>
+					<year>2019</year>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation><italic>El Debate</italic>. «Comuna deja de recaudar millones al caer el ISAI». 18 de junio de 2025. <ext-link ext-link-type="uri" xlink:href="https://www.debate.com.mx/sinaloa/mazatlan/Comuna-deja-de-recaudar-millones-al-caer-el-ISAI-20250618-0012.html">https://www.debate.com.mx/sinaloa/mazatlan/Comuna-deja-de-recaudar-millones-al-caer-el-ISAI-20250618-0012.html</ext-link>.</mixed-citation>
+				<element-citation publication-type="newspaper">
+					<person-group person-group-type="author">
+						<collab>El Debate</collab>
+					</person-group>
+					<source>Comuna deja de recaudar millones al caer el ISAI</source>
+					<day>18</day>
+					<month>06</month>
+					<year>2025</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.debate.com.mx/sinaloa/mazatlan/Comuna-deja-de-recaudar-millones-al-caer-el-ISAI-20250618-0012.html">https://www.debate.com.mx/sinaloa/mazatlan/Comuna-deja-de-recaudar-millones-al-caer-el-ISAI-20250618-0012.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Fernández del Castillo, Bernardo Pérez. <italic>Derecho notarial</italic>. 9.ª ed. México: Editorial Porrúa, 1999. <ext-link ext-link-type="uri" xlink:href="https://instituto.colegiodenotarios.org.mx/biblioteca/detalle-biblioteca?id=185">https://instituto.colegiodenotarios.org.mx/biblioteca/detalle-biblioteca?id=185</ext-link>.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández del Castillo</surname>
+							<given-names>Bernardo Pérez</given-names>
+						</name>
+					</person-group>
+					<source>Derecho notarial</source>
+					<edition>9</edition>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Editorial Porrúa</publisher-name>
+					<year>1999</year>
+					<ext-link ext-link-type="uri" xlink:href="https://instituto.colegiodenotarios.org.mx/biblioteca/detalle-biblioteca?id=185">https://instituto.colegiodenotarios.org.mx/biblioteca/detalle-biblioteca?id=185</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Finot, Iván. <italic>Descentralización, transferencias territoriales y desarrollo local</italic>. Santiago de Chile: Instituto Latinoamericano y del Caribe de Planificación Económica y Social, 2005. Serie Gestión del Desarrollo Local y Regional, n.º 86. <ext-link ext-link-type="uri" xlink:href="https://www.cepal.org/es/publicaciones/11067-descentralizacion-transferencias-territoriales-desarrollo-local">https://www.cepal.org/es/publicaciones/11067-descentralizacion-transferencias-territoriales-desarrollo-local</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Finot</surname>
+							<given-names>Iván</given-names>
+						</name>
+					</person-group>
+					<source>Descentralización, transferencias territoriales y desarrollo local</source>
+					<publisher-loc>Santiago de Chile</publisher-loc>
+					<publisher-name>Instituto Latinoamericano y del Caribe de Planificación Económica y Social, 2005. Serie Gestión del Desarrollo Local y Regional</publisher-name>
+					<issue>86</issue>
+					<ext-link ext-link-type="uri" xlink:href="https://www.cepal.org/es/publicaciones/11067-descentralizacion-transferencias-territoriales-desarrollo-local">https://www.cepal.org/es/publicaciones/11067-descentralizacion-transferencias-territoriales-desarrollo-local</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Fundación DEMUCA. <italic>Guía de herramientas municipales para la promoción del desarrollo económico local</italic>. San José: Fundación DEMUCA, 2009. <ext-link ext-link-type="uri" xlink:href="https://www.cepal.org/sites/default/files/guia_herramientas_municipales_demuca.pdf">https://www.cepal.org/sites/default/files/guia_herramientas_municipales_demuca.pdf</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Fundación DEMUCA</collab>
+					</person-group>
+					<source>Guía de herramientas municipales para la promoción del desarrollo económico local</source>
+					<publisher-loc>San José</publisher-loc>
+					<publisher-name>Fundación DEMUCA</publisher-name>
+					<year>2009</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.cepal.org/sites/default/files/guia_herramientas_municipales_demuca.pdf">https://www.cepal.org/sites/default/files/guia_herramientas_municipales_demuca.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>George, Henry. <italic>Progress and Poverty</italic>. New York: Robert Schalkenbach Foundation, 1935.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>George</surname>
+							<given-names>Henry</given-names>
+						</name>
+					</person-group>
+					<source>Progress and Poverty</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Robert Schalkenbach Foundation</publisher-name>
+					<year>1935</year>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Götze, Vera, y Thomas Hartmann. «Why municipalities grow: The influence of fiscal incentives on municipal land policies in Germany and the Netherlands». <italic>Land Use Policy</italic> 109, n.º 1 (2021): 2-7. https://doi.org/10.1016/j.landusepol.2021.105681.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Götze</surname>
+							<given-names>Vera</given-names>
+						</name>
+						<name>
+							<surname>Hartmann</surname>
+							<given-names>Thomas</given-names>
+						</name>
+					</person-group>
+					<article-title>Why municipalities grow: The influence of fiscal incentives on municipal land policies in Germany and the Netherlands</article-title>
+					<source>Land Use Policy</source>
+					<volume>109</volume>
+					<issue>1</issue>
+					<year>2021</year>
+					<fpage>2</fpage>
+					<lpage>7</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.landusepol.2021.105681</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Instituto Nacional de Estadística, Geografía e Informática. <italic>Estadísticas de finanzas públicas estatales y municipales</italic>. México: INEGI, 2023. <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/sistemas/olap/consulta/general_ver4/MDXQueryDatos.asp?#Regreso&amp;c=11289">https://www.inegi.org.mx/sistemas/olap/consulta/general_ver4/MDXQueryDatos.asp?#Regreso&amp;c=11289</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Estadística, Geografía e Informática</collab>
+					</person-group>
+					<source>Estadísticas de finanzas públicas estatales y municipales</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>INEGI</publisher-name>
+					<year>2023</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/sistemas/olap/consulta/general_ver4/MDXQueryDatos.asp?#Regreso&amp;c=11289">https://www.inegi.org.mx/sistemas/olap/consulta/general_ver4/MDXQueryDatos.asp?#Regreso&amp;c=11289</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Instituto Nacional de Estadística, Geografía e Informática. <italic>Mapa jurídico catastral</italic>. México: INEGI, 2021a. <ext-link ext-link-type="uri" xlink:href="http://www.inegi.org.mx/app/buscador/default.html?q=mapa+juridico+catastral">http://www.inegi.org.mx/app/buscador/default.html?q=mapa+juridico+catastral</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Estadística, Geografía e Informática</collab>
+					</person-group>
+					<source>Mapa jurídico catastral</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>INEGI</publisher-name>
+					<year>2021</year>
+					<ext-link ext-link-type="uri" xlink:href="http://www.inegi.org.mx/app/buscador/default.html?q=mapa+juridico+catastral">http://www.inegi.org.mx/app/buscador/default.html?q=mapa+juridico+catastral</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Instituto Nacional de Estadística y Geografía. <italic>Producto Interno Bruto por Entidad Federativa</italic>. Comunicado de prensa n.º 727/21. 2021. <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/buscador/default.html?q=pib+por+entidad+federativa">https://www.inegi.org.mx/app/buscador/default.html?q=pib+por+entidad+federativa</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Estadística y Geografía</collab>
+					</person-group>
+					<source>Producto Interno Bruto por Entidad Federativa</source>
+					<comment>Comunicado de prensa n.º 727/21</comment>
+					<year>2021</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/buscador/default.html?q=pib+por+entidad+federativa">https://www.inegi.org.mx/app/buscador/default.html?q=pib+por+entidad+federativa</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Kalkuhl, Blanca, Milán Fernández, Gregor Schwerhoff, Michael Jakob, Maren Hahnen y Felix Creutzig. «Can land taxes foster sustainable development? An assessment of fiscal, distributional and implementation issues». <italic>Land Use Policy</italic> 78 (2018): 338-352. https://doi.org/10.1016/j.landusepol.2018.07.008.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kalkuhl</surname>
+							<given-names>Blanca</given-names>
+						</name>
+						<name>
+							<surname>Fernández</surname>
+							<given-names>Milán</given-names>
+						</name>
+						<name>
+							<surname>Schwerhoff</surname>
+							<given-names>Gregor</given-names>
+						</name>
+						<name>
+							<surname>Jakob</surname>
+							<given-names>Michael</given-names>
+						</name>
+						<name>
+							<surname>Hahnen</surname>
+							<given-names>Maren</given-names>
+						</name>
+						<name>
+							<surname>Creutzig</surname>
+							<given-names>Felix</given-names>
+						</name>
+					</person-group>
+					<article-title>Can land taxes foster sustainable development? An assessment of fiscal, distributional and implementation issues</article-title>
+					<source>Land Use Policy</source>
+					<volume>78</volume>
+					<year>2018</year>
+					<fpage>338</fpage>
+					<lpage>352</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.landusepol.2018.07.008</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Ke, L., y S. Liu. «Local governments’ adoption of innovative infrastructure finance tool: Evidence from Pennsylvania municipalities». <italic>Public Finance Review</italic> 51, n.º 4 (2023): 513-567. https://doi.org/10.1177/10911421231153787.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ke</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Local governments’ adoption of innovative infrastructure finance tool: Evidence from Pennsylvania municipalities</article-title>
+					<source>Public Finance Review</source>
+					<volume>51</volume>
+					<issue>4</issue>
+					<year>2023</year>
+					<fpage>513</fpage>
+					<lpage>567</lpage>
+					<pub-id pub-id-type="doi">10.1177/10911421231153787</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Llach, Juan J. «Un nuevo contrato fiscal federal». En <italic>XXVI Reunión Nacional de la Asociación Argentina de Economía Pública</italic>. 2001. <ext-link ext-link-type="uri" xlink:href="https://sedici.unlp.edu.ar/handle/10915/3764">https://sedici.unlp.edu.ar/handle/10915/3764</ext-link>.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Llach</surname>
+							<given-names>Juan J</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Un nuevo contrato fiscal federal</chapter-title>
+					<source>XXVI Reunión Nacional de la Asociación Argentina de Economía Pública</source>
+					<year>2001</year>
+					<ext-link ext-link-type="uri" xlink:href="https://sedici.unlp.edu.ar/handle/10915/3764">https://sedici.unlp.edu.ar/handle/10915/3764</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Martínez-Vázquez, J., y Jamenson Boex. «An analysis of alternative measures of fiscal capacity for regions of the Russian Federation». <italic>International Studies Program Working Paper</italic> n.º 97-4. Atlanta: Georgia State University, 1997. <ext-link ext-link-type="uri" xlink:href="https://icepp.gsu.edu/files/2015/03/ispwp9704.pdf">https://icepp.gsu.edu/files/2015/03/ispwp9704.pdf</ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martínez-Vázquez</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Boex</surname>
+							<given-names>Jamenson</given-names>
+						</name>
+					</person-group>
+					<article-title>An analysis of alternative measures of fiscal capacity for regions of the Russian Federation</article-title>
+					<source>International Studies Program Working Paper</source>
+					<issue>97-4</issue>
+					<publisher-loc>Atlanta</publisher-loc>
+					<publisher-name>Georgia State University</publisher-name>
+					<year>1997</year>
+					<ext-link ext-link-type="uri" xlink:href="https://icepp.gsu.edu/files/2015/03/ispwp9704.pdf">https://icepp.gsu.edu/files/2015/03/ispwp9704.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Martínez-Vázquez, J ., y Bob Searle. <italic>Fiscal Equalization: Challenges in the Design of Intergovernmental Transfers</italic>. Berlin: Springer, 2007.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martínez-Vázquez</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Searle</surname>
+							<given-names>Bob</given-names>
+						</name>
+					</person-group>
+					<source>Fiscal Equalization: Challenges in the Design of Intergovernmental Transfers</source>
+					<publisher-loc>Berlin</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+					<year>2007</year>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Oates, Wallace E. <italic>Federalismo fiscal</italic>. Madrid: Instituto de Estudios de Administración Local, 1977.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Oates</surname>
+							<given-names>Wallace E</given-names>
+						</name>
+					</person-group>
+					<source>Federalismo fiscal</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Instituto de Estudios de Administración Local</publisher-name>
+					<year>1977</year>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Objetivos de Desarrollo Sostenible. <italic>Objetivo 16. Paz, justicia e instituciones sólidas</italic>. 2023. <ext-link ext-link-type="uri" xlink:href="https://www.un.org/sustainabledevelopment/es/peace-justice/">https://www.un.org/sustainabledevelopment/es/peace-justice/</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Objetivos de Desarrollo Sostenible</collab>
+					</person-group>
+					<source>Objetivo 16. Paz, justicia e instituciones sólidas</source>
+					<year>2023</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.un.org/sustainabledevelopment/es/peace-justice/">https://www.un.org/sustainabledevelopment/es/peace-justice/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Organización de Estados Americanos. <italic>Convención Interamericana contra la Corrupción</italic>. 1996. <ext-link ext-link-type="uri" xlink:href="https://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_interamericanos_b-58_contra_corrupcion.pdf">https://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_interamericanos_b-58_contra_corrupcion.pdf</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organización de Estados Americanos</collab>
+					</person-group>
+					<source>Convención Interamericana contra la Corrupción</source>
+					<year>1996</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_interamericanos_b-58_contra_corrupcion.pdf">https://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_interamericanos_b-58_contra_corrupcion.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Organización para la Cooperación y el Desarrollo Económicos. <italic>Convención para combatir el cohecho de servidores públicos extranjeros en transacciones comerciales internacionales</italic>. París, 21 de noviembre de 1997 (en vigor 15 de febrero de 1999). <ext-link ext-link-type="uri" xlink:href="https://www.oecd.org/es/publications/convencion-para-combatir-el-cohecho-de-servidores-publicos-extranjeros-en-transacciones-comerciales-internacionales_24d80d2c-es.html">https://www.oecd.org/es/publications/convencion-para-combatir-el-cohecho-de-servidores-publicos-extranjeros-en-transacciones-comerciales-internacionales_24d80d2c-es.html</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organización para la Cooperación y el Desarrollo Económicos</collab>
+					</person-group>
+					<source>Convención para combatir el cohecho de servidores públicos extranjeros en transacciones comerciales internacionales</source>
+					<day>21</day>
+					<month>11</month>
+					<year>1997</year>
+					<comment>en vigor 15 de febrero de 1999</comment>
+					<ext-link ext-link-type="uri" xlink:href="https://www.oecd.org/es/publications/convencion-para-combatir-el-cohecho-de-servidores-publicos-extranjeros-en-transacciones-comerciales-internacionales_24d80d2c-es.html">https://www.oecd.org/es/publications/convencion-para-combatir-el-cohecho-de-servidores-publicos-extranjeros-en-transacciones-comerciales-internacionales_24d80d2c-es.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Pinto, P., P. Cabral, M. Caetano y M. F. Alves. «Urban growth on coastal erosion vulnerable stretches». <italic>J. Coast. Res</italic>. 56 (2009): 1567-1571. <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/25738053">https://www.jstor.org/stable/25738053</ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pinto</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Cabral</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Caetano</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Alves</surname>
+							<given-names>M. F</given-names>
+						</name>
+					</person-group>
+					<article-title>Urban growth on coastal erosion vulnerable stretches</article-title>
+					<source>J. Coast. Res</source>
+					<volume>56</volume>
+					<year>2009</year>
+					<fpage>1567</fpage>
+					<lpage>1571</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/25738053">https://www.jstor.org/stable/25738053</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Prud’homme, Rémy. «Discussant comments». En J. Martínez-Vázquez y Bob Searle (eds.), <italic>Fiscal Equalization: Challenges in the Design of Intergovernmental Transfers</italic>. Berlin: Springer, 2007.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Prud’homme</surname>
+							<given-names>Rémy</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Discussant comments</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Martínez-Vázquez</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Searle</surname>
+							<given-names>Bob</given-names>
+						</name>
+					</person-group>
+					<source>Fiscal Equalization: Challenges in the Design of Intergovernmental Transfers</source>
+					<publisher-loc>Berlin</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+					<year>2007</year>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Radulović, Aleksandra, Dubravka Sladić, Miro Govedarica y Dušan Raičević. «Using LADM and BIM for property and tourist taxation in the municipality of Bar, Montenegro». <italic>Land Use Policy</italic> 131 (2023): 1-10. https://doi.org/10.1016/j.landusepol.2023.106715.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Radulović</surname>
+							<given-names>Aleksandra</given-names>
+						</name>
+						<name>
+							<surname>Sladić</surname>
+							<given-names>Dubravka</given-names>
+						</name>
+						<name>
+							<surname>Govedarica</surname>
+							<given-names>Miro</given-names>
+						</name>
+						<name>
+							<surname>Raičević</surname>
+							<given-names>Dušan</given-names>
+						</name>
+					</person-group>
+					<article-title>Using LADM and BIM for property and tourist taxation in the municipality of Bar, Montenegro</article-title>
+					<source>Land Use Policy</source>
+					<volume>131</volume>
+					<year>2023</year>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.landusepol.2023.106715</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Sánchez, Luis Martín. «Señalan a seis notarios por escrituras apócrifas en Bahía de Banderas». <italic>La Jornada</italic>, 15 de agosto de 2022. <ext-link ext-link-type="uri" xlink:href="https://www.jornada.com.mx/noticia/2022/08/15/estados/al-menos-seis-notarios-otorgaron-escrituras-apocrifas-en-megafraude-fibba-7383">https://www.jornada.com.mx/noticia/2022/08/15/estados/al-menos-seis-notarios-otorgaron-escrituras-apocrifas-en-megafraude-fibba-7383</ext-link>.</mixed-citation>
+				<element-citation publication-type="newspaper">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez</surname>
+							<given-names>Luis Martín</given-names>
+						</name>
+					</person-group>
+					<article-title>Señalan a seis notarios por escrituras apócrifas en Bahía de Banderas</article-title>
+					<source>La Jornada</source>
+					<day>15</day>
+					<month>08</month>
+					<year>2022</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.jornada.com.mx/noticia/2022/08/15/estados/al-menos-seis-notarios-otorgaron-escrituras-apocrifas-en-megafraude-fibba-7383">https://www.jornada.com.mx/noticia/2022/08/15/estados/al-menos-seis-notarios-otorgaron-escrituras-apocrifas-en-megafraude-fibba-7383</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Secretaría de Gobernación. <italic>Ley del Impuesto sobre Adquisición de Inmuebles</italic>. <italic>Diario Oficial de la Federación</italic>, 31 de diciembre de 1979. <ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_detalle.php?codigo=4845155&amp;fecha=31/12/1979#gsc.tab=0">https://dof.gob.mx/nota_detalle.php?codigo=4845155&amp;fecha=31/12/1979#gsc.tab=0</ext-link>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Secretaría de Gobernación</collab>
+					</person-group>
+					<source>Ley del Impuesto sobre Adquisición de Inmuebles. Diario Oficial de la Federación</source>
+					<day>31</day>
+					<month>12</month>
+					<year>1979</year>
+					<ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_detalle.php?codigo=4845155&amp;fecha=31/12/1979#gsc.tab=0">https://dof.gob.mx/nota_detalle.php?codigo=4845155&amp;fecha=31/12/1979#gsc.tab=0</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Secretaría de Hacienda y Crédito Público. <italic>Estadísticas oportunas de finanzas públicas</italic>. México: SHCP, 2023. <ext-link ext-link-type="uri" xlink:href="https://presto.hacienda.gob.mx/EstoporLayout/Layout.jsp">https://presto.hacienda.gob.mx/EstoporLayout/Layout.jsp</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Secretaría de Hacienda y Crédito Público</collab>
+					</person-group>
+					<source>Estadísticas oportunas de finanzas públicas</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>SHCP</publisher-name>
+					<year>2023</year>
+					<ext-link ext-link-type="uri" xlink:href="https://presto.hacienda.gob.mx/EstoporLayout/Layout.jsp">https://presto.hacienda.gob.mx/EstoporLayout/Layout.jsp</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Secretaría de la Función Pública. <italic>Decreto por el que se aprueba el Programa Sectorial de la Función Pública 2020-2024</italic>. 2020. <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/buengobierno/documentos/programa-sectorial-de-funcion-publica-2020-2024">https://www.gob.mx/buengobierno/documentos/programa-sectorial-de-funcion-publica-2020-2024</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Secretaría de la Función Pública</collab>
+					</person-group>
+					<source>Decreto por el que se aprueba el Programa Sectorial de la Función Pública 2020-2024</source>
+					<year>2020</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/buengobierno/documentos/programa-sectorial-de-funcion-publica-2020-2024">https://www.gob.mx/buengobierno/documentos/programa-sectorial-de-funcion-publica-2020-2024</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Secretaría de la Función Pública. <italic>Programa de Mejora de la Gestión Pública</italic>. 9 de diciembre de 2013. Consultado el 18 de junio de 2023. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/buengobierno/documentos/mejora-de-la-gestion-publica-mejoras-practicas-internacionales">https://www.gob.mx/buengobierno/documentos/mejora-de-la-gestion-publica-mejoras-practicas-internacionales</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Secretaría de la Función Pública</collab>
+					</person-group>
+					<source>Programa de Mejora de la Gestión Pública</source>
+					<day>09</day>
+					<month>12</month>
+					<year>2013</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2023-06-18">18 de junio de 2023</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/buengobierno/documentos/mejora-de-la-gestion-publica-mejoras-practicas-internacionales">https://www.gob.mx/buengobierno/documentos/mejora-de-la-gestion-publica-mejoras-practicas-internacionales</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Smith, Adam. <italic>Investigación sobre la naturaleza y causa de la riqueza de las naciones</italic>. México: Fondo de Cultura Económica, 2014.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Smith</surname>
+							<given-names>Adam</given-names>
+						</name>
+					</person-group>
+					<source>Investigación sobre la naturaleza y causa de la riqueza de las naciones</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Fondo de Cultura Económica</publisher-name>
+					<year>2014</year>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Stiglitz, Joseph E. <italic>La economía del sector público</italic>. Barcelona: Antonio Bosch, 2000.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stiglitz</surname>
+							<given-names>Joseph E</given-names>
+						</name>
+					</person-group>
+					<source>La economía del sector público</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Antonio Bosch</publisher-name>
+					<year>2000</year>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Sistema Nacional de Coordinación Fiscal. <italic>Organigrama del SNCF</italic>. 2025. <ext-link ext-link-type="uri" xlink:href="https://www.sncf.gob.mx/#id_organigrama">https://www.sncf.gob.mx/#id_organigrama</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Sistema Nacional de Coordinación Fiscal</collab>
+					</person-group>
+					<source>Organigrama del SNCF</source>
+					<year>2025</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.sncf.gob.mx/#id_organigrama">https://www.sncf.gob.mx/#id_organigrama</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Transparency International. <italic>Corruption Perceptions Index</italic>. 2023. <ext-link ext-link-type="uri" xlink:href="https://www.transparency.org/en/cpi/2022/index/est">https://www.transparency.org/en/cpi/2022/index/est</ext-link>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Transparency International</collab>
+					</person-group>
+					<source>Corruption Perceptions Index</source>
+					<year>2023</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.transparency.org/en/cpi/2022/index/est">https://www.transparency.org/en/cpi/2022/index/est</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Vázquez Barquero, Antonio. <italic>Las nuevas fuerzas del desarrollo</italic>. Barcelona: Antonio Bosch, 2005.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vázquez Barquero</surname>
+							<given-names>Antonio</given-names>
+						</name>
+					</person-group>
+					<source>Las nuevas fuerzas del desarrollo</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Antonio Bosch</publisher-name>
+					<year>2005</year>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Vincent-Rose, Camille. «Vertical taxing rights and tax compliance norms». <italic>Journal of Economic Behavior &amp; Organization</italic> 205 (2023): 443-467. https://doi.org/10.1016/j.jebo.2022.11.003.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vincent-Rose</surname>
+							<given-names>Camille</given-names>
+						</name>
+					</person-group>
+					<article-title>Vertical taxing rights and tax compliance norms</article-title>
+					<source>Journal of Economic Behavior &amp; Organization</source>
+					<volume>205</volume>
+					<year>2023</year>
+					<fpage>443</fpage>
+					<lpage>467</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jebo.2022.11.003</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Wainer Infante, Pablo, Klett Ivo Gasic y Rodrigo Sánchez Leiva. «Agentes económicos en el mercado del suelo urbano de Santiago de Chile, período 2010-2015: aportes a la discusión pública». <italic>Working Paper</italic> WP19PW1SP. 2019. <ext-link ext-link-type="uri" xlink:href="https://www.lincolninst.edu/es/publications/working-papers/agentes-economicos-en-el-mercado-del-suelo-urbano-santiago-chile-periodo/">https://www.lincolninst.edu/es/publications/working-papers/agentes-economicos-en-el-mercado-del-suelo-urbano-santiago-chile-periodo/</ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wainer Infante</surname>
+							<given-names>Pablo</given-names>
+						</name>
+						<name>
+							<surname>Gasic</surname>
+							<given-names>Klett Ivo</given-names>
+						</name>
+						<name>
+							<surname>Sánchez Leiva</surname>
+							<given-names>Rodrigo</given-names>
+						</name>
+					</person-group>
+					<article-title>Agentes económicos en el mercado del suelo urbano de Santiago de Chile, período 2010-2015: aportes a la discusión pública</article-title>
+					<source>Working Paper WP19PW1SP</source>
+					<year>2019</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.lincolninst.edu/es/publications/working-papers/agentes-economicos-en-el-mercado-del-suelo-urbano-santiago-chile-periodo/">https://www.lincolninst.edu/es/publications/working-papers/agentes-economicos-en-el-mercado-del-suelo-urbano-santiago-chile-periodo/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>Wikipedia. «Innovación». 2023. <ext-link ext-link-type="uri" xlink:href="https://es.wikipedia.org/wiki/Innovaci%C3%B3n">https://es.wikipedia.org/wiki/Innovaci%C3%B3n</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Wikipedia</collab>
+					</person-group>
+					<source>Innovación</source>
+					<year>2023</year>
+					<ext-link ext-link-type="uri" xlink:href="https://es.wikipedia.org/wiki/Innovaci%C3%B3n">https://es.wikipedia.org/wiki/Innovaci%C3%B3n</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<mixed-citation>World Compliance Association. «Compliance, ¿qué es?». 2024. <ext-link ext-link-type="uri" xlink:href="https://www.worldcomplianceassociation.com/que-es-compliance.php">https://www.worldcomplianceassociation.com/que-es-compliance.php</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>World Compliance Association</collab>
+					</person-group>
+					<source>Compliance, ¿qué es?</source>
+					<year>2024</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.worldcomplianceassociation.com/que-es-compliance.php">https://www.worldcomplianceassociation.com/que-es-compliance.php</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>Este trabajo fue premiado por la Secretaría de la Función Pública y la Asociación de Contralores de México en San Carlos, Sonora, el 15 de noviembre de 2023.</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>
+					<xref ref-type="bibr" rid="B10">Centro de Estudios de las Finanzas Públicas</xref> (México: CEFP, 2024). <ext-link ext-link-type="uri" xlink:href="https://cefp.gob.mx/cefpnew/pnfp.php">https://cefp.gob.mx/cefpnew/pnfp.php</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>
+					<xref ref-type="bibr" rid="B25">Instituto Nacional de Estadística y Geografía</xref>, <italic>Producto Interno Bruto por Entidad Federativa</italic>, comunicado de prensa n.º 727/21 (2021), <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/buscador/default.html?q=pib+por+entidad+federativa">https://www.inegi.org.mx/app/buscador/default.html?q=pib+por+entidad+federativa</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">Benjamin Dachis, Gilles Duranton y Matthew A. Turner</xref>, «The effects of land transfer taxes on real estate markets: evidence from a natural experiment in Toronto», <italic>Journal of Economic Geography</italic> 12, n.º 2 (2012): 327-354, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/jeg/lbr007">https://doi.org/10.1093/jeg/lbr007</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>J. D. Benjamin, N. E. Coulson y S. X. Yang, «Real estate transfer taxes and property values: The Philadelphia story», <italic>Journal of Real Estate Finance and Economics</italic> 7 (1993): 151-157, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1007/BF01258324">https://doi.org/10.1007/BF01258324</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>
+					<xref ref-type="bibr" rid="B26">Blanca Kalkuhl, Milán Fernández, Gregor Schwerhoff, Michael Jakob, Maren Hahnen y Felix Creutzig</xref>, «Can land taxes foster sustainable development? An assessment of fiscal, distributional and implementation issues», <italic>Land Use Policy</italic> 78 (2018): 338-352, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.landusepol.2018.07.008">https://doi.org/10.1016/j.landusepol.2018.07.008</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>
+					<xref ref-type="bibr" rid="B3">Nancy Augustine, Michael Bell, David Brunori y Joan Youngman</xref>, <italic>Erosion of the Property Tax Base</italic> (Cambridge: Lincoln Institute of Land Policy, 2009): 359 pp.</p>
+			</fn>
+			<fn fn-type="other" id="fn8">
+				<label>8</label>
+				<p>
+					<xref ref-type="bibr" rid="B44">Joseph E. Stiglitz</xref>. <italic>La economía del sector público</italic> (Barcelona: Antonio Bosch, 2000): 738 pp.</p>
+			</fn>
+			<fn fn-type="other" id="fn9">
+				<label>9</label>
+				<p>
+					<xref ref-type="bibr" rid="B24">Instituto Nacional de Estadística, Geografía e Informática</xref>, <italic>Mapa jurídico catastral</italic> (México: INEGI, 2021a), http://www.inegi.org.mx/app/buscador/default.html?q=mapa+juridico+catastral</p>
+			</fn>
+			<fn fn-type="other" id="fn10">
+				<label>10</label>
+				<p>
+					<xref ref-type="bibr" rid="B20">Fundación DEMUCA</xref>, <italic>Guía de herramientas municipales para la promoción del desarrollo económico local</italic> (San José: Fundación DEMUCA, 2009): 194 pp., <ext-link ext-link-type="uri" xlink:href="https://www.cepal.org/sites/default/files/guia_herramientas_municipales_demuca.pdf">https://www.cepal.org/sites/default/files/guia_herramientas_municipales_demuca.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn11">
+				<label>11</label>
+				<p>
+					<xref ref-type="bibr" rid="B7">Cámara de Diputados</xref>, LXV Legislatura, <italic>Constitución Política de los Estados Unidos Mexicanos</italic> (México: Cámara de Diputados, 2023), <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm">https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn12">
+				<label>12</label>
+				<p>
+					<xref ref-type="bibr" rid="B31">Wallace E. Oates</xref>, <italic>Federalismo fiscal</italic> (Madrid: Instituto de Estudios de Administración Local, 1977): 323 pp.</p>
+			</fn>
+			<fn fn-type="other" id="fn13">
+				<label>13</label>
+				<p>
+					<xref ref-type="bibr" rid="B43">Adam Smith</xref>, <italic>Investigación sobre la naturaleza y causa de la riqueza de las naciones</italic> (México: Fondo de Cultura Económica, 2014): 919 pp.</p>
+			</fn>
+			<fn fn-type="other" id="fn14">
+				<label>14</label>
+				<p>
+					<xref ref-type="bibr" rid="B21">Henry George</xref>, <italic>Progress and Poverty</italic> (New York: Robert Schalkenbach Foundation, 1935): 591 pp.</p>
+			</fn>
+			<fn fn-type="other" id="fn15">
+				<label>15</label>
+				<p>P<xref ref-type="bibr" rid="B35">. Pinto, P. Cabral, M. Caetano y M. F. Alves</xref>, «Urban growth on coastal erosion vulnerable stretches», <italic>J. Coast. Res</italic>. 56 (2009): 1567-1571, disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.jstor.org/stable/25738053">https://www.jstor.org/stable/25738053</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn16">
+				<label>16</label>
+				<p>
+					<xref ref-type="bibr" rid="B49">Pablo Wainer Infante, Klett Ivo Gasic y Rodrigo Sánchez Leiva</xref>, «Agentes económicos en el mercado del suelo urbano de Santiago de Chile, período 2010-2015: aportes a la discusión pública», Working Paper WP19PW1SP (2019): 53 pp., disponible en <ext-link ext-link-type="uri" xlink:href="https://www.lincolninst.edu/es/publications/working-papers/agentes-economicos-en-el-mercado-del-suelo-urbano-santiago-chile-periodo/">https://www.lincolninst.edu/es/publications/working-papers/agentes-economicos-en-el-mercado-del-suelo-urbano-santiago-chile-periodo/</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn17">
+				<label>17</label>
+				<p>
+					<xref ref-type="bibr" rid="B18">Bernardo Pérez Fernández del Castillo</xref>, <italic>Derecho notarial</italic>, 9.ª ed. (Editorial Porrúa, 1999): 473 pp., <ext-link ext-link-type="uri" xlink:href="https://instituto.colegiodenotarios.org.mx/biblioteca/detalle-biblioteca?id=185">https://instituto.colegiodenotarios.org.mx/biblioteca/detalle-biblioteca?id=185</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn18">
+				<label>18</label>
+				<p>
+					<xref ref-type="bibr" rid="B39">Secretaría de Gobernación</xref>, <italic>Ley del Impuesto sobre Adquisición de Inmuebles</italic> (1979), <italic>Diario Oficial de la Federación</italic>, 31 de diciembre de 1979, <ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_detalle.php?codigo=4845155&amp;fecha=31/12/1979#gsc.tab=0">https://dof.gob.mx/nota_detalle.php?codigo=4845155&amp;fecha=31/12/1979#gsc.tab=0</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn19">
+				<label>19</label>
+				<p>
+					<xref ref-type="bibr" rid="B17"><italic>El Debate</italic></xref>, «Comuna deja de recaudar millones al caer el ISAI», 18 de junio de 2025, <ext-link ext-link-type="uri" xlink:href="https://www.debate.com.mx/sinaloa/mazatlan/Comuna-deja-de-recaudar-millones-al-caer-el-ISAI-20250618-0012.html">https://www.debate.com.mx/sinaloa/mazatlan/Comuna-deja-de-recaudar-millones-al-caer-el-ISAI-20250618-0012.html</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn20">
+				<label>20</label>
+				<p>
+					<xref ref-type="bibr" rid="B8">Cámara de Diputados del Congreso de la Unión</xref>, <italic>Ley de Coordinación Fiscal</italic> (2018): 1-98 pp.</p>
+			</fn>
+			<fn fn-type="other" id="fn21">
+				<label>21</label>
+				<p>
+					<xref ref-type="bibr" rid="B22">Vera Götze y Thomas Hartmann</xref>, «Why municipalities grow: The influence of fiscal incentives on municipal land policies in Germany and the Netherlands», <italic>Land Use Policy</italic> 109, n.º 1 (2021): 2-7, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.landusepol.2021.105681">https://doi.org/10.1016/j.landusepol.2021.105681</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn22">
+				<label>22</label>
+				<p>
+					<xref ref-type="bibr" rid="B11">Congreso del Estado de Sinaloa</xref>, <italic>Ley de Fomento Económico a la Inversión para el Desarrollo Económico del Estado de Sinaloa</italic>, Decreto n.º 166, <italic>Periódico Oficial del Estado de Sinaloa</italic>, n.º 105, 24 de agosto de 2018.</p>
+			</fn>
+			<fn fn-type="other" id="fn23">
+				<label>23</label>
+				<p>
+					<xref ref-type="bibr" rid="B12"><italic>Convención de las Naciones Unidas contra la Corrupción</italic></xref> (México: CNUCC, 2004), <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/sfp/documentos/convencion-de-las-naciones-unidas-contra-la-corrupcion-onu">https://www.gob.mx/sfp/documentos/convencion-de-las-naciones-unidas-contra-la-corrupcion-onu</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn24">
+				<label>24</label>
+				<p>
+					<xref ref-type="bibr" rid="B33">Organización de Estados Americanos</xref>, <italic>Convención Interamericana contra la Corrupción</italic> (1996), <ext-link ext-link-type="uri" xlink:href="https://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_interamericanos_b-58_contra_corrupcion.pdf">https://www.oas.org/es/sla/ddi/docs/tratados_multilaterales_interamericanos_b-58_contra_corrupcion.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn25">
+				<label>25</label>
+				<p>
+					<xref ref-type="bibr" rid="B34">Organización para la Cooperación y el Desarrollo Económicos</xref>, <italic>Convención para combatir el cohecho de servidores públicos extranjeros en transacciones comerciales internacionales</italic> (París, 21 de noviembre de 1997; en vigor 15 de febrero de 1999), <ext-link ext-link-type="uri" xlink:href="https://www.oecd.org/es/publications/convencion-para-combatir-el-cohecho-de-servidores-publicos-extranjeros-en-transacciones-comerciales-internacionales_24d80d2c-es.html">https://www.oecd.org/es/publications/convencion-para-combatir-el-cohecho-de-servidores-publicos-extranjeros-en-transacciones-comerciales-internacionales_24d80d2c-es.html</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn26">
+				<label>26</label>
+				<p>
+					<xref ref-type="bibr" rid="B32">Objetivos de Desarrollo Sostenible</xref>, <italic>Objetivo 16. Paz, justicia e instituciones sólidas</italic> (2023), <ext-link ext-link-type="uri" xlink:href="https://www.un.org/sustainabledevelopment/es/peace-justice/">https://www.un.org/sustainabledevelopment/es/peace-justice/</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn27">
+				<label>27</label>
+				<p>
+					<xref ref-type="bibr" rid="B2">Alliance for Integrity</xref>, «Sobre nosotros», <ext-link ext-link-type="uri" xlink:href="https://www.allianceforintegrity.org/es/alliance-for-integrity/sobre-nosotros/">https://www.allianceforintegrity.org/es/alliance-for-integrity/sobre-nosotros/</ext-link> (consultado el 12 de junio de 2023).</p>
+			</fn>
+			<fn fn-type="other" id="fn28">
+				<label>28</label>
+				<p>
+					<xref ref-type="bibr" rid="B46">Transparency International</xref>, <italic>Corruption Perceptions Index</italic> (2023), <ext-link ext-link-type="uri" xlink:href="https://www.transparency.org/en/cpi/2022/index/est">https://www.transparency.org/en/cpi/2022/index/est</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn29">
+				<label>29</label>
+				<p><italic>Plan Nacional de Desarrollo 2025-2030</italic> (México), Presidencia de la República, <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/presidencia/documentos/plan-nacional-de-desarrollo-2025-2030-391771">https://www.gob.mx/presidencia/documentos/plan-nacional-de-desarrollo-2025-2030-391771</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn30">
+				<label>30</label>
+				<p>
+					<xref ref-type="bibr" rid="B41">Secretaría de la Función Pública</xref>, <italic>Decreto por el que se aprueba el Programa Sectorial de la Función Pública 2020-2024</italic> (2020): 54 pp., <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/buengobierno/documentos/programa-sectorial-de-funcion-publica-2020-2024">https://www.gob.mx/buengobierno/documentos/programa-sectorial-de-funcion-publica-2020-2024</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn31">
+				<label>31</label>
+				<p>
+					<xref ref-type="bibr" rid="B16"><italic>Diario Oficial de la Federación</italic> (México)</xref>, <italic>Decreto por el que se aprueba el Programa Nacional de Combate a la Corrupción y a la Impunidad, y de Mejora de la Gestión Pública 2019-2024</italic>, edición vespertina (2019).</p>
+			</fn>
+			<fn fn-type="other" id="fn32">
+				<label>32</label>
+				<p>
+					<xref ref-type="bibr" rid="B30">J. Martínez-Vázquez y Bob Searle</xref>, <italic>Fiscal Equalization: Challenges in the Design of Intergovernmental Transfers</italic> (Berlin: Springer, 2007): 499 pp.</p>
+			</fn>
+			<fn fn-type="other" id="fn33">
+				<label>33</label>
+				<p>
+					<xref ref-type="bibr" rid="B36">Rémy Prud’homme</xref>, «Discussant comments», en <xref ref-type="bibr" rid="B30">J. Martínez-Vázquez y Bob Searle</xref> (eds.), <italic>Fiscal Equalization: Challenges in the Design of Intergovernmental Transfers</italic> (Berlin: Springer, 2007).</p>
+			</fn>
+			<fn fn-type="other" id="fn34">
+				<label>34</label>
+				<p>
+					<xref ref-type="bibr" rid="B51">World Compliance Association</xref>, «Compliance, ¿qué es?» (2024), <ext-link ext-link-type="uri" xlink:href="https://www.worldcomplianceassociation.com/que-es-compliance.php">https://www.worldcomplianceassociation.com/que-es-compliance.php</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn35">
+				<label>35</label>
+				<p>
+					<xref ref-type="bibr" rid="B38">Luis Martín Sánchez</xref>, «Señalan a seis notarios por escrituras apócrifas en Bahía de Banderas», <italic>La Jornada</italic>, 15 de agosto de 2022, <ext-link ext-link-type="uri" xlink:href="https://www.jornada.com.mx/noticia/2022/08/15/estados/al-menos-seis-notarios-otorgaron-escrituras-apocrifas-en-megafraude-fibba-7383">https://www.jornada.com.mx/noticia/2022/08/15/estados/al-menos-seis-notarios-otorgaron-escrituras-apocrifas-en-megafraude-fibba-7383</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn36">
+				<label>36</label>
+				<p>
+					<xref ref-type="bibr" rid="B42">Secretaría de la Función Pública</xref>, <italic>Programa de Mejora de la Gestión Pública</italic> (9 de diciembre de 2013), consultado el 18 de junio de 2023, <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/buengobierno/documentos/mejora-de-la-gestion-publica-mejoras-practicas-internacionales">https://www.gob.mx/buengobierno/documentos/mejora-de-la-gestion-publica-mejoras-practicas-internacionales</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn37">
+				<label>37</label>
+				<p>
+					<xref ref-type="bibr" rid="B50"><italic>Wikipedia</italic></xref>, «Innovación» (2023), <ext-link ext-link-type="uri" xlink:href="https://es.wikipedia.org/wiki/Innovaci%C3%B3n">https://es.wikipedia.org/wiki/Innovaci%C3%B3n</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn38">
+				<label>38</label>
+				<p>
+					<xref ref-type="bibr" rid="B9">L. Casali, A. Arundel y H. Hollanders</xref>, «How European Public Sector Agencies Innovate», <italic>Research Policy</italic> 44 (2015): 1271-1282, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.respol.2015.04.007">https://doi.org/10.1016/j.respol.2015.04.007</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn39">
+				<label>39</label>
+				<p>
+					<xref ref-type="bibr" rid="B15">Fariborz Damanpour y Marguerite Schneider</xref>, «Characteristics of Innovation and Innovation Adoption in Public Organizations», <italic>Journal of Public Administration Research and Theory</italic> 19 (2009): 495-522, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1093/jopart/mun021">https://doi.org/10.1093/jopart/mun021</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn40">
+				<label>40</label>
+				<p>
+					<xref ref-type="bibr" rid="B48">Camille Vincent-Rose</xref>, «Vertical taxing rights and tax compliance norms», <italic>Journal of Economic Behavior &amp; Organization</italic> 205 (2023): 443-467, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jebo.2022.11.003">https://doi.org/10.1016/j.jebo.2022.11.003</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn41">
+				<label>41</label>
+				<p>
+					<xref ref-type="bibr" rid="B19">Iván Finot</xref>, <italic>Descentralización, transferencias territoriales y desarrollo local</italic> (Santiago de Chile: Instituto Latinoamericano y del Caribe de Planificación Económica y Social, 2005), serie Gestión del Desarrollo Local y Regional, n.º 86: 29-46, <ext-link ext-link-type="uri" xlink:href="https://www.cepal.org/es/publicaciones/11067-descentralizacion-transferencias-territoriales-desarrollo-local">https://www.cepal.org/es/publicaciones/11067-descentralizacion-transferencias-territoriales-desarrollo-local</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn42">
+				<label>42</label>
+				<p>
+					<xref ref-type="bibr" rid="B37">Aleksandra Radulović, Dubravka Sladić, Miro Govedarica y Dušan Raičević</xref>, «Using LADM and BIM for property and tourist taxation in the municipality of Bar, Montenegro», <italic>Land Use Policy</italic> 131 (2023): 1-10, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.landusepol.2023.106715">https://doi.org/10.1016/j.landusepol.2023.106715</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn43">
+				<label>43</label>
+				<p>
+					<xref ref-type="bibr" rid="B4">Roy Bahl</xref>, «A regression approach to tax effort and tax ratio analysis», <italic>IMF Staff Papers</italic> 18 (1971): 570-612, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5089/9781451969276.024">https://doi.org/10.5089/9781451969276.024</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn44">
+				<label>44</label>
+				<p>J. Martínez-Vázquez y Jamenson Boex, «An analysis of alternative measures of fiscal capacity for regions of the Russian Federation», <italic>International Studies Program Working Paper</italic> n.º 97-4 (Atlanta: Georgia State University, 1997): 2-18, <ext-link ext-link-type="uri" xlink:href="https://icepp.gsu.edu/files/2015/03/ispwp9704.pdf">https://icepp.gsu.edu/files/2015/03/ispwp9704.pdf</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn45">
+				<label>45</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Richard M. Bird y François Vaillancourt</xref>, <italic>Fiscal Decentralization in Developing Countries</italic> (Cambridge: Cambridge University Press, 1998): 304 pp., <ext-link ext-link-type="uri" xlink:href="https://catalog.princeton.edu/catalog/SCSB-8686519">https://catalog.princeton.edu/catalog/SCSB-8686519</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn46">
+				<label>46</label>
+				<p>
+					<xref ref-type="bibr" rid="B28">Juan J. Llach</xref>, «Un nuevo contrato fiscal federal», en <italic>XXVI Reunión Nacional de la Asociación Argentina de Economía Pública</italic> (2001), <ext-link ext-link-type="uri" xlink:href="https://sedici.unlp.edu.ar/handle/10915/3764">https://sedici.unlp.edu.ar/handle/10915/3764</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn47">
+				<label>47</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">José Manuel Cordero, Carlos Díaz, Francisco Pedraja y Cristina Polo</xref>, «Tributos cedidos y eficiencia en la gestión tributaria de las comunidades autónomas», <italic>Hacienda Pública Española</italic> 232, n.º 1 (2020): 75-112, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7866/hpe-rpe.20.1.4">https://doi.org/10.7866/hpe-rpe.20.1.4</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn48">
+				<label>48</label>
+				<p>
+					<xref ref-type="bibr" rid="B27">L. Ke y S. Liu</xref>, «Local governments’ adoption of innovative infrastructure finance tool: Evidence from Pennsylvania municipalities», <italic>Public Finance Review</italic> 51, n.º 4 (2023): 513-567, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1177/10911421231153787">https://doi.org/10.1177/10911421231153787</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn49">
+				<label>49</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">Francisco Alburquerque</xref>, <italic>El enfoque del desarrollo económico local</italic> (Ginebra: Organización Internacional del Trabajo, 2004).</p>
+			</fn>
+			<fn fn-type="other" id="fn50">
+				<label>50</label>
+				<p>
+					<xref ref-type="bibr" rid="B47">Antonio Vázquez Barquero</xref>, <italic>Las nuevas fuerzas del desarrollo</italic> (Barcelona: Antonio Bosch, 2005): 178 pp.</p>
+			</fn>
+			<fn fn-type="other" id="fn51">
+				<label>51</label>
+				<p>
+					<xref ref-type="bibr" rid="B23">Instituto Nacional de Estadística, Geografía e Informática</xref>, <italic>Estadísticas de finanzas públicas estatales y municipales</italic> (México: INEGI, 2023), <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/sistemas/olap/consulta/general_ver4/MDXQueryDatos.asp?#Regreso&amp;c=11289">https://www.inegi.org.mx/sistemas/olap/consulta/general_ver4/MDXQueryDatos.asp?#Regreso&amp;c=11289</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn52">
+				<label>52</label>
+				<p>
+					<xref ref-type="bibr" rid="B45">Sistema Nacional de Coordinación Fiscal</xref>, <italic>Organigrama del SNCF</italic> (2025), <ext-link ext-link-type="uri" xlink:href="https://www.sncf.gob.mx/#id_organigrama">https://www.sncf.gob.mx/#id_organigrama</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn53">
+				<label>53</label>
+				<p>
+					<xref ref-type="bibr" rid="B40">Secretaría de Hacienda y Crédito Público</xref>, <italic>Estadísticas oportunas de finanzas públicas</italic> (México: SHCP, 2023), <ext-link ext-link-type="uri" xlink:href="https://presto.hacienda.gob.mx/EstoporLayout/Layout.jsp">https://presto.hacienda.gob.mx/EstoporLayout/Layout.jsp</ext-link>.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

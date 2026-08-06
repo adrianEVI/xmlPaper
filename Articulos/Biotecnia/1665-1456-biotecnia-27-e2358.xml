@@ -1,0 +1,2097 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2358</article-id>
+			<article-id pub-id-type="other">00147</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Bioaccumulation, elimination, and effect of endosulfan lactone on the concentration of <italic>Eisenia fetida</italic> fatty acids</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Bioacumulación, eliminación y efecto de endosulfán lactona en la concentración de ácidos grasos de <italic><italic>Eisenia fétida</italic></italic></trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-3975-7372</contrib-id>
+					<name>
+						<surname>Meza Gordillo</surname>
+						<given-names>Rocío</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-9155-9309</contrib-id>
+					<name>
+						<surname>Ovando Roblero</surname>
+						<given-names>Amet</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1"><sup>*</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-3606-9264</contrib-id>
+					<name>
+						<surname>Vázquez Villegas</surname>
+						<given-names>Paola Tayde</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-0572-8845</contrib-id>
+					<name>
+						<surname>Ruíz Valdiviezo</surname>
+						<given-names>Víctor Manuel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-1576-1932</contrib-id>
+					<name>
+						<surname>Villalobos Maldonado</surname>
+						<given-names>Juan José</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-1825-0097</contrib-id>
+					<name>
+						<surname>Aguilar Vázquez</surname>
+						<given-names>Jannet</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Tecnológico Nacional de México/Instituto Tecnológico de Tuxtla Gutiérrez, Departamento de ingeniería Química y Bioquímica, Carretera Panamericana Km. 1080. C.P. 29050, Tuxtla Gutiérrez, Chiapas, México. rocio.mg@tuxtla.tecnm.mx, amet_aorlive@live.com.mx, victor.rv@tuxtla.tecnm.mx, juan.vm@tuxtla.tecnm.mx, ibqjannet88@gmail.com</institution>
+				<institution content-type="orgname">Tecnológico Nacional de México/Instituto Tecnológico de Tuxtla Gutiérrez</institution>
+				<institution content-type="orgdiv1">Departamento de ingeniería Química y Bioquímica</institution>
+				<addr-line>
+					<postal-code>29050</postal-code>
+					<city>Tuxtla Gutiérrez</city>
+					<state>Chiapas</state>
+				</addr-line>
+				<country country="MX">México</country>
+				<email>rocio.mg@tuxtla.tecnm.mx</email>
+				<email>amet_aorlive@live.com.mx</email>
+				<email>victor.rv@tuxtla.tecnm.mx</email>
+				<email>juan.vm@tuxtla.tecnm.mx</email>
+				<email>ibqjannet88@gmail.com</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Tecnológico Nacional de México: Instituto Tecnológico Superior de Cintalapa, Departamento de Ingeniería de la Industria Alimentaria, Cintalapa de Figueroa 30400, México. ptayde@cintalapa.tecnm.mx</institution>
+				<institution content-type="normalized">Instituto Tecnológico Superior de Cintalapa</institution>
+				<institution content-type="orgname">Tecnológico Nacional de México: Instituto Tecnológico Superior de Cintalapa</institution>
+				<institution content-type="orgdiv1">Departamento de Ingeniería de la Industria Alimentaria</institution>
+				<addr-line>
+					<postal-code>30400</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>ptayde@cintalapa.tecnm.mx</email>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Autor para correspondencia: Amet Ovando Roblero Correo-e: <email>amet_aorlive@live.com.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>02</day>
+				<month>07</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2358</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>09</day>
+					<month>06</month>
+					<year>2024</year>
+				</date>
+				<date date-type="accepted">
+					<day>05</day>
+					<month>06</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>02</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract:</title>
+				<p>Earthworms are organisms that play an important role in soil ecology as they establish mutualist relationships with microorganisms to degrade organic matter, generating less-complex compounds and more available to be used as a carbon source. This symbiosis between Eisenia fetida and microorganisms allows xenobiotic compounds to be removed, accumulated and/or eliminated when xenobiotic compounds are present in the soil. Endosulfan is a pesticide that has been widely used and although it has a short half-life, it generates derivatives such as endosulfan ether, endosulfan sulfate, endosulfan lactone, etc. Some of them have been identified on agricultural soil so E. fetida is affected in its functions by its presence. These effects range from growth deficiencies to physiological and metabolic damage, leading to their death. In this study was assessed the effect of substrate microorganisms on weight gain, bioaccumulation and elimination of endosulfan lactone in Eisenia, at different concentrations (0.001, 0.004 and 0.009 mg kg<sup>-1</sup>), using sterile and non-sterile substrate. An 84% increase in weight of the worm was observed, with 0.004 mg kg<sup>-1</sup> of endosulfan lactone, maximum accumulation (95%), and elimination (80%) pesticide, on non-sterile substrate. Multivariate statistical analysis showed that the concentration of fatty acids present in E. fetida was higher in non-sterile substrate, demonstrating the mutualist relationship between the worm and microorganisms present in the system.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>Las lombrices de tierra son organismos que tienen un papel importante en la ecología del suelo ya que establecen relaciones mutualistas con los microorganismos para degradar la materia orgánica, generando compuestos menos complejos y más disponibles para ser utilizados como fuente de carbono. Esta simbiosis existente entre E. fetida y los microorganismos permite que, al estar presentes compuestos xenobióticos en el suelo, sean removidos, acumulados y/o eliminados. Endosulfán es un plaguicida que ha sido utilizado ampliamente y aunque tiene una vida media corta, genera derivados como endosulfán éter, endosulfán sulfato, endosulán lactona, entre otros. Algunos de ellos se han identificado en suelo agrícola por lo que Eisenia fetida se ve afectada en sus funciones por su presencia. Dichas afectaciones van desde deficiencias de crecimiento, hasta daño fisiológico y metabólico, ocasionando su muerte. En este estudio se evaluó el efecto de los microorganismos del sustrato en el incremento de peso, bioacumulación y eliminación de endosulfán lactona en E. fetida, a diferentes concentraciones (0.001, 0.004 y 0.009 mg kg<sup>-1</sup>), utilizando sustrato estéril y no estéril. Se observó 84% de incremento de peso de la lombriz con 0.004 mgkg<sup>-1</sup> de endosulfán lactona, máxima acumulación (95 %), y eliminación (80 %) del plaguicida, en sustrato no estéril. El análisis estadístico multivariante demostró que la concentración de ácidos grasos presentes en E. fetida fue mayor en el sustrato no estéril, lo que evidencia la relación mutualista que existe entre la lombriz y los microorganismos presentes en el sistema.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Vermicompost</kwd>
+				<kwd>pesticides</kwd>
+				<kwd>bioremediation</kwd>
+				<kwd>endosulfan</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Vermicomposteo</kwd>
+				<kwd>plaguicidas</kwd>
+				<kwd>bioremediación</kwd>
+				<kwd>endusolfán</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group award-type="contract">
+					<funding-source>Consejo Nacional de Artes, Humanidades, Ciencia y Tecnología</funding-source>
+					<award-id>621616</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<fig-count count="5"/>
+				<table-count count="1"/>
+				<equation-count count="2"/>
+				<ref-count count="45"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Los plaguicidas organoclorados son los agroquímicos más utilizados en el mundo y su estructura química le confiere una alta estabilidad física y química por lo que favorece su persistencia en el ambiente, bioacumulación por seres vivos y su lenta biodegradabilidad (<xref ref-type="bibr" rid="B11">Jayaraj et al., 2016</xref>). Entre los diversos tipos de plaguicidas organoclorados, un compuesto que se sabe causa un riesgo significativo es el endosulfán que ha sido ampliamente utilizado en diversos cultivos en todo el mundo. También se ha usado en la preservación de maderas y jardinería. Se comercializa como mezcla de isómeros (α y β) y se transforma en condiciones aeróbicas biológicas de oxidación en endosulfán sulfato, el cual es degradado en metabolitos polares tóxicos y peligrosos para el medio ambiente como endosulfán diol, endosulfán éter y endosulfán lactona (<xref ref-type="bibr" rid="B32">Tiwari y Guha, 2013</xref>; <xref ref-type="bibr" rid="B31">Thangadurai y Suresh, 2014</xref>; <xref ref-type="bibr" rid="B28">Silva y Beauvais, 2010</xref>), permaneciendo en suelo como residuos peligrosos y más tóxicos que el propio endosulfán (<xref ref-type="bibr" rid="B22">Odukkathil y Vasudevan, 2016)</xref>. De ellos, endosulfán lactona ha sido el menos estudiado y reportado, y de acuerdo con la concentración letal media y la concentración efectiva media evaluada por <xref ref-type="bibr" rid="B35">Vázquez-Villegas et al. (2018)</xref>, es clasificado como extremadamente tóxico, por lo que, los efectos de derivados de plaguicidas en la biota terrestre son de gran importancia. </p>
+			<p><italic>Eisenia fetida</italic> es un anélido que forma parte de la biota terrestre y durante toda su vida está en el suelo, por lo que inevitablemente está expuesta a diferentes xenobióticos y a la acumulación de contaminantes orgánicos hidrofílicos a través de la piel, e hidrofóbicos por el tracto intestinal durante el paso del suelo a través del intestino (<xref ref-type="bibr" rid="B30">Sun et al., 2005</xref>). Existen múltiples reportes de los efectos provocados por plaguicidas en diversas especies generados por reacciones de estrés oxidativo como consecuencia del daño celular, de tejidos y órganos debido a la oxidación de los lípidos presentes en la membrana celular (<xref ref-type="bibr" rid="B23">Oliveira et al., 2017</xref>; <xref ref-type="bibr" rid="B38">Xiang et al., 2018</xref>; <xref ref-type="bibr" rid="B19">Mehdi et al., 2020</xref>; <xref ref-type="bibr" rid="B10">Howell et al., 2018</xref>; <xref ref-type="bibr" rid="B33">Uchendu et al., 2018</xref>). Ya que endosulfán lactona es un derivado de endosulfán y se ha detectado su presencia en suelo agrícola (<xref ref-type="bibr" rid="B35">Vázquez-Villegas et al., 2018</xref>), resulta de interés evaluar las afectaciones que endosulfán lactona genera en el desarrollo, metabolismo y contenido de lípidos de <italic>Eisenia fetida</italic> y el efecto que los microorganismos presentes en el sustrato tienen para mitigar los daños provocados. </p>
+			<p>Por lo anterior, en este estudio se evaluó el efecto de la concentración de endosulfán lactona a 3 diferentes concentraciones (0.001, 0.004, 0.009 mgkg<sup>-1</sup>) en sustrato estéril y no estéril, y el tiempo de exposición (1, 3, 5, 7, 14, 28 y 56 días), en relación con el incremento de peso. El endosulfán lactona se detectó en <italic>Eisenia fetida</italic> y en sustrato y se evaluaron los procesos de bioacumulación y eliminación de este residuo de plaguicida.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Materiales y métodos</title>
+			<sec>
+				<title><bold>Obtención de<italic>
+ <italic>Eisenia fétida</italic>
+</italic> 
+</bold></title>
+				<p>Las lombrices (<italic>Eisenia fetida</italic>) fueron adquiridas en el rancho “Luanda” ubicado en el municipio de Ocozocoautla de Espinoza, Chiapas, y posteriormente fueron resguardadas en un contenedor de plástico cubierto con malla y alimentadas con excreta de conejo y peat moss manteniendo la humedad al 75%. </p>
+			</sec>
+			<sec>
+				<title>Preparación del sustrato</title>
+				<p>El sustrato sólido compuesto por peat moss y excreta de conejo 85-15 (p/p) (<xref ref-type="bibr" rid="B35">Vázquez-Villegas et al., 2018</xref>), se secó, molió y tamizó en malla 100 (0.144 mm), se agregó agua destilada y se homogenizó para alcanzar 75 % de humedad. En el caso de los experimentos con sustrato estéril, las unidades experimentales con sustrato obtenido con el procedimiento anterior se colocaron en la autoclave a 121 °C y 15 lb durante 15 minutos, repitiendo el procedimiento cada 24 h, tres veces (<xref ref-type="bibr" rid="B26">Peñaloza et al., 2013</xref>).</p>
+			</sec>
+			<sec>
+				<title><bold>Exposición de <italic>
+ <italic>Eisenia fetida</italic> a endosulfán lactona en sustrato estéril y no estéril</italic>
+</bold></title>
+				<p>Las unidades experimentales fueron frascos de vidrio de 1 L con 50 g de sustrato (estéril y no estéril; 85 % peat moss y 15 % excreta de conejo) ajustando la humedad a 75 % con agua destilada. Posteriormente se adicionó solución de endosulfán lactona en concentraciones de 0.001, 0.004 y 0.009 mg kg<sup>-1</sup>, determinadas por la CL50 obtenida en sustrato artificial en reportes previos (<xref ref-type="bibr" rid="B21">OCDE 207, 1984</xref>; <xref ref-type="bibr" rid="B35">Vázquez-Villegas et al., 2018</xref>), se mezcló y se dejó en una campana de extracción durante 24 h para evaporar el disolvente; posteriormente se agregaron 5 lombrices adultas con clitelo bien definido, con peso entre 0.4 y 0.5 g cada una, se cubrió la boca del frasco con pañalina para evitar que las lombrices se salieran y establecer condiciones aeróbicas. En los días 0, 1, 3, 5, 7, 14, 28 y 56, las lombrices fueron removidas, contadas, lavadas con agua destilada, secadas y durante 24 h se dejaron en cajas Petri secas para eliminar su contenido intestinal y se determinó su peso. El sustrato se inspeccionó para identificar algún huevecillo formado y lombrices jóvenes, en caso de encontrarse, se retiraron y colocaron junto con las lombrices adultas para su cuantificación. Se utilizó un diseño experimental multi-factorial categórico con tres factores y distintos niveles (<xref ref-type="table" rid="t1">Tabla 1</xref>). El análisis estadístico se realizó mediante un análisis de varianza (ANOVA) con 95% de confianza para determinar si existe diferencia significativa entre los tratamientos empleando el software STATGRAPHICS Centurión XVI.</p>
+				<p>
+					<table-wrap-group id="t1">
+	<table-wrap xml:lang="es">
+						<label>Tabla 1</label>
+						<caption>
+							<title>Factores y niveles del sistema con un diseño multifactorial categórico.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 1:</label>
+		<caption>
+			<title>Factors and levels of the system with a categoric multifactorial design.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 150px; background-color: #e6e7e8;" rowspan="2"><bold>FACTORES </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 360px; background-color: #e6e7e8;" colspan="3"><bold>NIVELES </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Bajo </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Medio </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Alto </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Concentración de endosulfán lactona    mgkg<sup>-1</sup> </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.001</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.004</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.009</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Número    de lombrices</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5,    10</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5,    10</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5,    10</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Tiempo    de exposición (d)</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1,    3, 5, 7, 14, 28, 56</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1,    3, 5, 7, 14, 28, 56</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1,3,    5, 7, 14, 28, 56</td>
+  </tr>
+</tbody>
+</table>
+
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>Para la determinación del incremento de peso (IP), las lombrices se pesaron antes (Po) y después (Pf) del experimento de acuerdo con el procedimiento descrito anteriormente y en el día de muestreo programado, es decir, los días 1, 3, 5, 7, 14, 28 y 56. Los datos obtenidos se utilizaron en la <xref ref-type="disp-formula" rid="e1">ecuación 1</xref> (<xref ref-type="bibr" rid="B36">Villalobos-Maldonado et al., 2015</xref>). </p>
+				<p>
+					<disp-formula id="e1">
+						<mml:math>
+							<mml:mi mathvariant="normal">I</mml:mi>
+							<mml:mi mathvariant="normal">P</mml:mi>
+							<mml:mo>=</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:mi mathvariant="normal">P</mml:mi>
+									<mml:mi mathvariant="normal">f</mml:mi>
+									<mml:mo>-</mml:mo>
+									<mml:mi mathvariant="normal">P</mml:mi>
+									<mml:mi mathvariant="normal">o</mml:mi>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mi mathvariant="normal">P</mml:mi>
+									<mml:mi mathvariant="normal">o</mml:mi>
+								</mml:mrow>
+							</mml:mfrac>
+							<mml:mi mathvariant="normal">*</mml:mi>
+							<mml:mn>100</mml:mn>
+						</mml:math>
+						<label>(1)</label>
+					</disp-formula>
+				</p>
+			</sec>
+			<sec>
+				<title>Cuantificación de endosulfán lactona en lombriz</title>
+				<p>Las lombrices separadas del sustrato en el experimento descrito anteriormente se lavaron, secaron y agruparon dependiendo de la unidad experimental a la que pertenecían. Para conocer la concentración de endosulfán lactona en <italic>E. fetida</italic>, se siguió la metodología de <xref ref-type="bibr" rid="B20">Mosleh et al. (2003)</xref> con ligeras modificaciones. Se tomaron las lombrices, se agregó nitrógeno líquido y se molieron en un mortero, se añadió sulfato de sodio anhidro 1.5 veces el peso de las lombrices para retirar toda la humedad de la muestra y se homogenizó, posteriormente se colocó en un matraz Erlenmeyer de 50 mL y se adicionó 6 mL de cloruro de metileno y 1 mL de acetona, se mezcló en un agitador rotatorio por dos horas a 175 rpm, se filtró y centrifugó en una centrífuga Eppendorf 510 R (Hamburgo, Alemania) a 10,000 rpm por 5 min a 4 °C. El sobrenadante se decantó y se dejó concentrar en una campana de extracción por 24 h hasta casi sequedad; posteriormente se llevó a 2 mL con acetonitrilo grado HPLC y se analizó por triplicado en cromatografía líquida de alta resolución con detector UV en un cromatógrafo Flexar (Perkin Elmer, Shelton, USA). </p>
+				<p>La bioacumulación se refiere al aumento progresivo de sustancias químicas o contaminantes en los organismos vivos a lo largo del tiempo. La bioacumulación en <italic>Eisenia fetida</italic> fue calculada a partir de la concentración inicial (CI) y final (CF) de endosulfán lactona en la lombriz durante el tiempo de exposición (1, 3, 5, 7, 14, 28 y 56), utilizando la ecuación 2 (<xref ref-type="bibr" rid="B6">Cao et al., 2015</xref>).</p>
+				<p>
+					<disp-formula>
+						<mml:math>
+							<mml:mi mathvariant="normal">B</mml:mi>
+							<mml:mi mathvariant="normal">i</mml:mi>
+							<mml:mi mathvariant="normal">o</mml:mi>
+							<mml:mi mathvariant="normal">a</mml:mi>
+							<mml:mi mathvariant="normal">c</mml:mi>
+							<mml:mi mathvariant="normal">u</mml:mi>
+							<mml:mi mathvariant="normal">m</mml:mi>
+							<mml:mi mathvariant="normal">u</mml:mi>
+							<mml:mi mathvariant="normal">l</mml:mi>
+							<mml:mi mathvariant="normal">a</mml:mi>
+							<mml:mi mathvariant="normal">c</mml:mi>
+							<mml:mi mathvariant="normal">i</mml:mi>
+							<mml:mi mathvariant="normal">ó</mml:mi>
+							<mml:mi mathvariant="normal">n</mml:mi>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mo>(</mml:mo>
+							<mml:mi mathvariant="normal">%</mml:mi>
+							<mml:mo>)</mml:mo>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mo>=</mml:mo>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mo>(</mml:mo>
+							<mml:mi mathvariant="normal">C</mml:mi>
+							<mml:mi mathvariant="normal">I</mml:mi>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mo>-</mml:mo>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mi mathvariant="normal">C</mml:mi>
+							<mml:mi mathvariant="normal">F</mml:mi>
+							<mml:mo>)</mml:mo>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mo>/</mml:mo>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mo>(</mml:mo>
+							<mml:mi mathvariant="normal">C</mml:mi>
+							<mml:mi mathvariant="normal">I</mml:mi>
+							<mml:mo>)</mml:mo>
+						</mml:math>
+						<label>(2)</label>
+					</disp-formula>
+				</p>
+			</sec>
+			<sec>
+				<title>Cuantificación de endosulfán lactona en sustrato</title>
+				<p>5 g de sustrato se adicionaron a un matraz Erlenmeyer de 250 mL y se adicionó 75 mL de acetonitrilo, se mezcló en un agitador rotatorio por una hora a 175 rpm, para su posterior centrifugación a 4000 rpm por 15 min a 20 <sup>o</sup>C (<xref ref-type="bibr" rid="B14">Li et al., 2004</xref>). El sobrenadante se decantó y se dejó concentrar en una campana de extracción por 24 h hasta alcanzar 1 mL; el concentrado se filtró y se analizó por cromatografía líquida de alta resolución con detector ultravioleta (HPLC-UV).</p>
+			</sec>
+			<sec>
+				<title>Análisis por HPLC-UV</title>
+				<p>La concentración de endosulfán lactona fue analizada en un cromatógrafo Flexar (Perkin Elmer, Shelton, USA) equipado con una columna capilar marca ZORBAX ODS-C18 (4.6 x 250 mm x 5 mm). Una alícuota de 20 μL fue inyectada utilizando una elución isocrática con acetonitrilo-agua (80:20), flujo de 1 mL min<sup>-1</sup> y longitud de onda de 217 nm. El tiempo de retención de endosulfán lactona fue de 5.3 min y el tiempo total del método de 10 min (<xref ref-type="bibr" rid="B14">Li et al., 2004</xref>). Se construyó la curva de calibración de endosulfán lactona a diferentes concentraciones (0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 0.95, 1.05, 10, 50, 100 mg L<sup>-1</sup>) de acuerdo con lo descrito por <xref ref-type="bibr" rid="B35">Vázquez-Villegas et al. (2018)</xref>. </p>
+			</sec>
+			<sec>
+				<title><bold>Eliminación de endosulfán lactona por <italic>
+ <italic>Eisenia fetida</italic>
+</italic> 
+</bold></title>
+				<p>Una vez identificados el tiempo y la concentración en el que <italic>Eisenia fetida</italic> bioacumula mayor concentración de endosulfán lactona, se repitió el experimento anterior con el fin de tener especímenes de <italic>Eisenia fetida</italic> con endosulfán lactona acumulado, para realizar el experimento de eliminación. Se prepararon unidades experimentales (por triplicado) con sustrato sin contaminante, y se agregaron 5 lombrices provenientes del experimento que genera mayor concentración de endosulfán lactona en la lombriz. Se tapó el frasco con pañalina, y se cuantificó el contenido de endosulfán lactona en lombriz y sustrato en los días 0, 1, 3, 5, 7, 14, 28, 56, con los métodos de extracción y cromatográficos ya descritos, para conocer si se presentaba o no la eliminación del contaminante presente en la lombriz.</p>
+			</sec>
+			<sec>
+				<title><bold>Efecto de endosulfán lactona en el contenido de ácidos grasos en<italic>
+ <italic>Eisenia fetida</italic> en sustrato estéril y no estéril</italic>
+</bold></title>
+				<p>Con el fin de conocer si endosulfán lactona tenía un efecto en la concentración de ácidos grasos de <italic>Eisenia fetida</italic>, se cuantificaron ácido laúrico, ácido tridecanoico ácido mirístico, ácido heptadecanoico y ácido esteárico ya que son ácidos grasos involucrados en mecanismos de estrés oxidativo. </p>
+				<p>Se colocaron 5 lombrices en unidades experimentales descritas anteriormente, con sustrato estéril y no estéril a los que se les adicionó 0.001, 0.004 y 0.009 mg kg-1 de endosulfán lactona. Se extrajeron y cuantificaron los ácidos grasos en los días 1, 3, 5, 7, 14, 28 y 56, de acuerdo con la metodología que se describe a continuación. </p>
+				<p>Para la extracción de los ácidos grasos, se siguió la metodología de <xref ref-type="bibr" rid="B7">Chen et al. (2011)</xref>, brevemente se pesaron 500 mg de lombriz tratada con nitrógeno líquido y sulfato de sodio anhidro, se añadió 1 mL de metanol al 80 % y se agitó en vórtex durante 10 minutos. La mezcla se centrifugó en una centrifugadora HERMLE Z326K (HERMLE, Alemania) durante 10 minutos a 10,000 rpm y el sobrenadante se dejó secar en una campana de extracción, se añadió 25 µL de piridina anhidra, 25 µL de N-metil-N-trimetilsilil trifluoroacetamida y se agitó durante 20 minutos en vórtex, posteriormente se colocó 1 mL de heptano grado HPLC y se agitó durante 5 minutos más. Se analizó por triplicado en un cromatógrafo de gases marca Agilent Technologies 7890A GC (Wilmington, USA) acoplado a detector de ionización de flama (FID). Se realizó una curva de calibración de los ácidos grasos a 0.003, 0.006, 0.009, 0.01, 0.015, 0.018, 0.020 y 0.025 ppm siguiendo la metodología descrita en la norma ASTM D 6584. </p>
+			</sec>
+			<sec>
+				<title>Método cromatográfico de cuantificación de ácidos grasos</title>
+				<p>Para la identificación y cuantificación de ácidos grasos en lombrices se utilizó un cromatógrafo de gases 7890A (Agilent Technologies, Wilmington, USA) acoplado a FID con columna tubular abierta Perkin Elmer Elite-5 (5 % difenil / 95 % dimetil polisiloxano) de 30 m x 0.53 mm x 5 µm. La temperatura del inyector se ajustó a 250 °C, se utilizó nitrógeno como gas acarreador e hidrógeno y aire como gases para el detector FID y se mantuvo un flujo constante de 1.1 mL min<sup>-1</sup> durante el análisis. La temperatura de la columna se mantuvo inicialmente a 65 °C durante 2 minutos, posteriormente se llevó a 230 °C a una velocidad de 6 °C min<sup>-1</sup> y a 260 °C a una velocidad de 10 °C min<sup>-1</sup>, manteniéndose durante 20 min, el volumen de la muestra fue de 1 μL.</p>
+			</sec>
+			<sec>
+				<title>Análisis estadístico</title>
+				<p>El análisis estadístico se realizó mediante un análisis de varianza (ANOVA) con 95% de confianza para determinar si existe diferencia significativa entre los tratamientos, se empleó el software STATGRAPHICS Centurión XVI. Todos los análisis fueron realizados por triplicado.</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>Resultados y discusión</title>
+			<sec>
+				<title><bold>Efecto de endosulfán lactona en el incremento de peso (%) de <italic>
+ <italic>E. fetida</italic>
+</italic> 
+</bold></title>
+				<p>El efecto de la concentración de endosulfán lactona en el incremento de peso de <italic>Eisenia fetida</italic>, en sustrato no estéril y estéril se puede observar en la <xref ref-type="fig" rid="f1">Figura 1 A y B</xref>. Se aprecia que existe diferencia estadística significativa del incremento de peso entre el control y los experimentos con sustrato contaminado con endosulfán lactona a diferentes concentraciones. </p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="es">
+						<label>Figura 1</label>
+						<caption>
+							<title>Incremento de peso con 5 lombrices en sustrato no estéril, (<bold>B</bold>) y sustrato estéril, (<bold>A</bold>), cuando se exponen a endosulfán lactona en diferentes intervalos de tiempo y concentraciones. Las letras diferentes indican diferencia estadística significativa (p &lt;0.05) entre los tratamientos determinado por la prueba de Tukey (HSD).  </title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 1:</label>
+	<caption>
+	<title>Weight increment with 5 earthworms in non-sterile substrate, (<bold>B)</bold> and sterile substrate, (<bold>A</bold>), when exposed to endosulfan lactone at different time and concentration intervals. Different letters indicate significant statistical difference (p&lt;0.05) between treatments with the Tukey test (HSD).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2358-gf1.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>En el estudio con sustrato estéril, se observó que en los experimentos control hubo incremento de peso siendo el máximo de 62.17 % en el día 14, mientras que el peso de <italic>E. fetida</italic> disminuyó en el día 1, 3, 28 y 56 cuando se utilizó la mayor concentración de endosulfán lactona (0.009 mg kg<sup>-1</sup>). En los experimentos con las menores concentraciones (0.001 y 0.004 mg kg<sup>-1</sup>), no se observó disminución de peso en la lombriz. El mayor incremento de peso de <italic>Eisenia fetida</italic> (42.38 %) se observó en el día 7, sin que la concentración de endosulfán lactona tuviera efecto.</p>
+				<p>En el sustrato no estéril (<xref ref-type="fig" rid="f1">Fig. 1B</xref>) no hubo disminución de peso de <italic>Eisenia fetida</italic> en ninguno de los experimentos en donde se utilizó endosulfán lactona ni en el control, se observa un incremento de peso desde el día 1 hasta el 56. En el caso del control, se observa el mayor incremento de peso en el día 14 (124 %), mientras que con la presencia de endosulfán lactona, el mayor incremento de peso fue en el día 7 con 84.76 % sin que la concentración tuviera efecto (p &lt;0.05). En los días 28 y 56, las lombrices presentes en el sustrato no estéril que contenía 0.004 y 0.009 mg kg<sup>-1</sup>, incrementaron su peso, pero en menor medida que las contenidas en sustrato con 0.001 mg kg<sup>-1</sup>. </p>
+				<p>En general, el peso de las lombrices fue significativamente menor en sustrato estéril que en sustrato no estéril. Las condiciones no estériles favorecen al aumento de peso debido a la relación mutualista de los microorganismos del sustrato con los propios de la lombriz y probablemente con el aumento en cantidad y variedad de las enzimas digestivas de la lombriz (<xref ref-type="bibr" rid="B8">Chen et al., 2021</xref>). Esta relación podría resumirse en que mientras las lombrices proporcionan un medio idóneo que favorece la actividad microbiana, los microorganismos degradan la materia orgánica, proporcionando metabolitos fácilmente asimilables para las lombrices (<xref ref-type="bibr" rid="B1">Ahmed and Al-Mutairi 2022</xref>). Además, estudios han demostrado que el crecimiento de las lombrices de tierra se inhibe después de la exposición a sustancias químicas tóxicas, y la reducción del peso es una respuesta común de las lombrices de tierra al estrés, ya que puede afectar gravemente al inhibir su crecimiento e inducir estrés oxidativo y daño en el ADN. Estos efectos pueden comprometer su salud, reproducción y funciones ecológicas (<xref ref-type="bibr" rid="B27">Qiao et al., 2024</xref>). <xref ref-type="bibr" rid="B43">Zhang et al. (2024)</xref> informaron que la reducción de peso en <italic>Eisenia</italic> debido a la exposición a sustancias químicas tóxicas se debe principalmente al estrés oxidativo, que agota el glucógeno, los lípidos y las proteínas. Esta alteración metabólica suele ir acompañada de daño histopatológico y deterioro del metabolismo energético, lo que resalta la sensibilidad de <italic>Eisenia</italic> a los contaminantes ambientales.</p>
+				<p>Por lo anterior, la presencia de endosulfán lactona puede influir en el metabolismo primario de estructuras moleculares como carbohidratos, lípidos y proteínas en lombrices de tierra a 0.004 mg kg<sup>-1</sup> y 0.009 mg kg<sup>-1</sup> en los días 28 y 56 ya que fueron a estas dos concentraciones donde se pudo observar la mayor pérdida de peso a diferencia de los controles. Además, estudios previos han demostrado que los mecanismos de desintoxicación de las lombrices de tierra juegan un papel importante en la eliminación de contaminantes, ya que es un proceso de metabolismo energético (<xref ref-type="bibr" rid="B44">Zhao et al., 2024</xref>). El proceso de desintoxicación consumirá sustancias energéticas, como glucógeno, lípidos y proteínas, lo que puede ser un motivo para reducir el peso de las lombrices de tierra. Li <italic>et al</italic>. (2017) reportaron un resultado similar que estudió la toxicidad de la ciflutrina para las lombrices de tierra. En su estudio, la tasa de inhibición del crecimiento aumentó significativamente desde los 10 mg kg<sup>-1</sup> después de 8 semanas de exposición. Por lo tanto, en concentraciones de 0.004 y 0.009 mg kg<sup>-1</sup>, endosulfán lactona pueden tener una toxicidad alta para las lombrices de tierra después de la exposición a 14 días, hecho que se corrobora con los trabajos de <xref ref-type="bibr" rid="B35">Vázquez-Villegas et al. (2018)</xref>, en donde identifica como concentración letal media (CL50) 0.004 mg kg<sup>-1</sup> y como concentración efectiva media (CE50) 0.003 mg kg<sup>-1</sup>.</p>
+				<p>Adicionalmente, en todas las unidades experimentales, las lombrices de tierra no mostraron efectos adversos en su desarrollo ante endosulfán lactona, se presentó sobrevivencia del 100% en todas las unidades experimentales, ni se identificaron úlceras o lesiones visibles en la superficie. Por otra parte, la duración de la exposición a contaminantes ambientales juega un papel crucial en determinar su impacto metabólico. La exposición a largo plazo a menudo conduce a cambios metabólicos adaptativos, con posibles efectos sistémicos como trastornos metabólicos y alteraciones en el metabolismo de los lípidos. Estos hallazgos destacan la importancia de considerar tanto el tipo como la duración de la exposición al evaluar los riesgos para la salud de los contaminantes ambientales (<xref ref-type="bibr" rid="B41">Zeng et al., 2023</xref>). Según <xref ref-type="bibr" rid="B16">Jiang et al. (2025)</xref> las alteraciones que sufre la lombriz al contacto con cualquier contaminante o compuesto orgánico dañino son debido al estrés, sobre todo del tipo oxidativo, liberando enzimas para su protección como catalasa o superóxido dismutasa, como lo demostraron al evaluar los efectos bioquímicos del ibuprofeno sobre la lombriz detectando aumento de la concentración de estas enzimas, especialmente con el enantiómero S. Al haber un exceso de plaguicida en la prueba por contacto, el estrés que sufre la lombriz se observa, además, mayor daño. Resultados similares se observaron en el trabajo de <xref ref-type="bibr" rid="B35">Vázquez et al. (2018)</xref> que a baja toxicidad se afectó la supervivencia de la lombriz, sin embargo, una alta toxicidad causó efectos crónicos debido a la acumulación de estas sustancias en el organismo de la lombriz. </p>
+			</sec>
+			<sec>
+				<title><bold>Bioacumulación de endosulfán lactona en <italic>
+ <italic>E. fetida</italic>
+</italic> 
+</bold></title>
+				<p>Al observarse que el sustrato no estéril favoreció el incremento de peso en comparación con el sustrato estéril, se procedió a identificar en sustrato no estéril la concentración de endosulfán lactona en la que se generaba mayor acumulación en <italic>Eisenia fetida</italic>, observándose que esto sucedía cuando el sustrato contenía 0.004 mg kg<sup>-1</sup> de endosulfán lactona (<xref ref-type="fig" rid="f2">Fig. 2</xref>), además de que esta acumulación se presentaba en el día 5.</p>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="es">
+						<label>Figura 2</label>
+						<caption>
+							<title>Concentración de endosulfán lactona presente en <italic>Eisenia fetida</italic>, en sustrato no estéril en diferentes intervalos de tiempo. Las letras diferentes indican la diferencia estadística significativa (p &lt;0.05) entre los tratamientos determinado por la prueba de Tukey (HSD). </title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 2:</label>
+	<caption>
+	<title>Endosulfan lactone concentration present in <italic>Eisenia fetida</italic>, in non-sterile substrate at different time intervals. Different letters indicate significant statistical difference (p &lt;0.05) between treatments determined by the Tukey’s test (HSD).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2358-gf2.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>Una vez identificada la concentración de mayor acumulación de endosulfán lactona (0.004 mg kg<sup>-1</sup>) en <italic>Eisenia fetida</italic>, se realizó el experimento de acumulación/remoción, cuantificando el contaminante tanto en la lombriz, como en el sustrato no estéril añadido con endosulfán lactona.</p>
+				<p>En la <xref ref-type="fig" rid="f3">Figura 3</xref> se observa la concentración de endosulfán lactona cuantificada en <italic>Eisenia fetida</italic> y en sustrato desde el día 1 hasta el 56. Se aprecia que inicialmente el sustrato contiene aproximadamente 0.004 mg kg<sup>-1</sup> de endosulfán lactona, y disminuye en los días 3, 5 y 7 para posteriormente aumentar en el día 14 y hasta el día 30, para disminuir en el día 56.</p>
+				<p>
+					<fig-group id="f3">
+	<fig xml:lang="es">
+						<label>Figura 3</label>
+						<caption>
+							<title>Experimento de acumulación y remoción con 5 lombrices de tierra después de la exposición a endosulfán lactona a una concentración de 0.004 mgkg<sup>-1</sup> a lo largo de 56 días en sustrato no estéril, (P≤0.05).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 3:</label>
+	<caption>
+	<title>Accumulation and removal experiment with 5 earthworms after the endosulfan lactone at a 0.004 mgkg<sup>-1</sup> concentration throughout the 56-day exposition in a non-sterile substrate (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2358-gf3.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>De manera opuesta, en la lombriz incrementa la concentración de endosulfán lactona desde el día 1 y hasta el día 5 (como se observó en el experimento anterior), disminuyendo gradualmente desde el día 7 y hasta el 56. Debido a que la máxima concentración de endosulfán lactona en lombriz no fue mayor a 0.004 mg kg<sup>-1</sup>, que fue la concentración inicial de ese compuesto en el sustrato no estéril, su presencia en la lombriz no puede considerarse un fenómeno de bioacumulación, ya que la concentración de endosulfán lactona no es mayor a la adicionada al sistema.</p>
+				<p>Con las concentraciones de endosulfán lactona obtenidas, se calculó la remoción en sustrato y la acumulación en <italic>E. fetida</italic>, observándose que en el día 5 y 7 se observó la mayor remoción (80-90 %), sin presentar diferencia estadística hasta el día 14. </p>
+				<p>La coincidencia de mayor remoción de endosulfán lactona en sustrato y la mayor acumulación de éste en <italic>E. fetida</italic> en los días 1-5, puede deberse a que en la vermirremediación confluyen los procesos de acumulación, transformación y degradación de contaminantes al mismo tiempo (<xref ref-type="bibr" rid="B40">Zeb et al., 2020</xref>). En diferentes reportes se ha evidenciado la remoción de contaminantes en suelo (<xref ref-type="bibr" rid="B15">Li et al., 2025</xref>, <xref ref-type="bibr" rid="B45">Zuo et al., 2023</xref>), y su acumulación en <italic>Eisenia fetida</italic> debido a las actividades de alimentación, ingiriendo, transportando y modificando estructuralmente a los compuestos (<xref ref-type="bibr" rid="B43">Zhang et al., 2024</xref>). Se ha demostrado que <italic>Lumbricus terrestris</italic> y <italic>Aporrectodea caliginosa</italic> disminuyen la mineralización de atrazina (<xref ref-type="bibr" rid="B12">Kersanté et al., 2006</xref>) y que la bioacumulación de atrazina depende de las especies debido a los diferentes mecanismos de ingesta (<xref ref-type="bibr" rid="B29">Song et al., 2023</xref>). </p>
+				<p>Los contaminantes hidrofóbicos se acumulan en las lombrices independientemente de su naturaleza, a pesar de que el principal mecanismo de bioacumulación en <italic>Eisenia fetida</italic> es por absorción dérmica (<xref ref-type="bibr" rid="B25">Owagboriaye et al., 2020</xref>).</p>
+				<p>La presencia de microorganismos en el sustrato no estéril es fundamental en el proceso de vermicomposteo. <xref ref-type="bibr" rid="B9">Coutiño et al. (2010)</xref> evaluaron la remoción de antraceno usando <italic>E. fetida</italic> encontrando el 41% en experimentos sin lombrices y 93% en experimentos con lombrices durante 70 días. <xref ref-type="bibr" rid="B2">Ali et al. (2014)</xref> evaluaron la remoción de endosulfán α y β, haciendo uso de composta de residuos vegetales inoculado con <italic>Bacillus</italic> sp.<italic>, Pseudomonas</italic> sp. <italic>y Lactobacillus</italic> sp. utilizando un cilindro giratorio continuo, obteniendo remociones de 84.95 y 83.20 % para endosulfán α y β, respectivamente. Es decir, la presencia de microorganismos en el sistema de vermicomposteo mejora la remoción.</p>
+				<p>La lombriz acelera los procesos de remoción de contaminantes en el suelo, preparando el sustrato y alterando la actividad biológica; sin embargo, los microorganismos desempeñan un papel importante ya que son responsables de la degradación bioquímica de la materia orgánica; por lo tanto, las lombrices estimulan la actividad microbiana y el crecimiento a través de la excreción de carbono degradable. </p>
+			</sec>
+			<sec>
+				<title><bold>Eliminación de endosulfán lactona en <italic>
+ <italic>E. fetida</italic>
+</italic> 
+</bold></title>
+				<p>Las lombrices del día cinco del experimento anterior (en las que se observó mayor cantidad de endosulfán lactona), fueron transferidas a un sustrato limpio no estéril para realizar la prueba de eliminación. Se encontró que en el día 1 en sustrato no estéril hay una tasa de eliminación del 88.58 % de endosulfán lactona, observándose que hasta el día 14 no hay diferencia estadística significativa (p &lt;0.05) (<xref ref-type="fig" rid="f4">Fig. 4</xref>), mientras que la concentración de endosulfán lactona en sustrato no estéril aumentó a partir del día 5 y hasta el día 14 (0.0039 %), demostrando que desde el día 1 hasta al día 5 no existe diferencia estadística significativa (P &lt;0.05).</p>
+				<p>
+					<fig-group id="f4">
+	<fig xml:lang="es">
+						<label>Figura 4</label>
+						<caption>
+							<title>Eliminación con 5 lombrices de tierra después de la exposición a endosulfán lactona y en sustrato, a una concentración inicial de 0.004 mgkg<sup>-1</sup> en sustrato libre de endosulfán lactona a lo largo del tiempo de exposición 14 días (P≤0.05).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 4:</label>
+	<caption>
+	<title>Elimination with 5 earth worms after the exposition and in substrate, at an initial 0.004 mgkg<sup>-1</sup> concentration in endosulfan lactone-free substrate throughout the 14-day exposition (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2358-gf4.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>Aunque endosulfán lactona no se acumuló en las lombrices de tierra, éste fue absorbido rápidamente, alcanzando la concentración más alta en un corto período (5 días) y posteriormente eliminado para ser transformado por los microorganismos del sustrato en moléculas que son más asimilables para las plantas u otros organismos. </p>
+				<p>
+					<xref ref-type="bibr" rid="B6">Cao et al. (2015)</xref> realizaron experimentos de eliminación bajo condiciones de laboratorio utilizando suelos contaminados con clomazona donde las lombrices fueron expuestas durante 14 días y posteriormente transferidas a un suelo artificial libre de clomazona, obteniéndose el 80 % de eliminación en el día uno. La eliminación fue relativamente rápida e indicó que clomazona no se bioacumula en <italic>E. fetida</italic>. Resultados similares son los reportados por <xref ref-type="bibr" rid="B30">Sun et al. (2005)</xref> donde se observó que la avermectina fue absorbida rápidamente por <italic>Eisenia fetida</italic> y eliminada en un 64 %. <xref ref-type="bibr" rid="B5">Cao <italic>et al</italic>. (2013)</xref> observaron que el efecto clomazona en la actividad de las enzimas antioxidantes super óxido dismutasa, catalasa, glutatión peroxidasa, puede ayudar a eliminar contaminantes del cuerpo o transformarlos en otros compuestos desconocidos, que en última instancia resultaron en una menor acumulación de concentraciones en lombrices. Por otra parte, <xref ref-type="bibr" rid="B42">Zhang et al. (2009)</xref> indicaron que la concentración de un compuesto en lombrices tierra es controlada por tres factores: absorción, eliminación y biotransformación, donde ellos reportaron que <italic>E. fetida</italic> absorbió rápidamente hexahidro-1,3,5-trinitro-1,3,5-triazina (RDX), sin embargo, después de un corto tiempo fue eliminado y transformado en otros productos. Mencionan que las características fisicoquímicas de los contaminantes también influyen en su captación en las lombrices de tierra, sus resultados demostraron que <italic>E. fetida</italic> acumuló una cantidad limitada de RDX, lo que atribuyen a la salud de las lombrices de tierra ya que si se encuentran “saludables” pueden activar sus sistemas de desintoxicación para eliminar contaminantes del cuerpo o transformarlos en otros compuestos desconocidos. </p>
+			</sec>
+			<sec>
+				<title><bold>Efecto de endosulfán lactona en el contenido de ácidos grasos en<italic>
+ <italic>Eisenia fetida</italic>
+</italic> 
+</bold></title>
+				<p>Como se puede observar en la <xref ref-type="fig" rid="f5">Figura 5</xref>, las condiciones de esterilidad del sustrato influyen en la concentración de ácidos laúrico, tridecanoico, mirístico, heptadecanoico y esteárico, así como la concentración de endosulfán lactona, observándose que la presencia de microorganismos y la menor concentración de endosulfán lactona en el sustrato, favorece la concentración de los ácidos grasos en las lombrices.</p>
+				<p>
+					<fig-group id="f5">
+	<fig xml:lang="es">
+						<label>Figura 5</label>
+						<caption>
+							<title>Heat Maps agrupa los ácidos grasos presentes en 5-10 lombrices de tierra expuesta a endosulfán lactona en tres niveles de concentraciones a 0.001, 0.004 y 0.009 mgkg<sup>-1</sup>, a lo largo de 56 días de exposición en sustrato no estéril y sustrato estéril, (P≤0.05). El color más oscuro nos reporta las concentraciones más altas.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 5:</label>
+	<caption>
+	<title>Heat Maps groups fatty acids present in 5-10 earth worms exposed to endosulfan lactone at three concentration levels of 0.001, 0.004 y 0.009 mgkg<sup>-1</sup>, throughout the 56-day exposition in a non-sterile and sterile substrate (P≤0.05). Darker color report the highest concentrations.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2358-gf5.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>Lo anterior puede deberse a la disminución del efecto tóxico de endosulfán lactona debido a la presencia de microorganismos en el sustrato (<xref ref-type="bibr" rid="B34">Vázquez-Villegas, 2021</xref>), atenuando las reacciones de oxidación de los ácidos grasos presentes en <italic>E. fetida</italic>. <xref ref-type="bibr" rid="B18">Khyzhnyak et al. (2022)</xref> reportaron que los fungicidas combinados carbendazim y cipronazol en <italic>Eisenia fetida</italic> utilizando un sustrato artificial reveló toxicidad moderada y disminución en el contenido de ácidos grasos saturados. Al mismo tiempo, se identificó aumento en el contenido de ácidos grasos poliinsaturados de cadena larga de las familias ω6 y ω3, que están involucrados en la regulación de una amplia gama de procesos fisiológicos. La modulación del perfil de ácidos grasos lipídicos en las lombrices <italic>Eisenia fetida</italic> se explica por la participación de los ácidos grasos en la reestructuración del sistema de reactividad del organismo bajo carga fungicida. La reorganización del perfil de ácidos grasos puede considerarse como un criterio temprano de perturbaciones metabólicas en las lombrices bajo la acción de plaguicidas. De acuerdo con los resultados, la concentración de ácidos grasos presentes en <italic>E. fetida</italic> depende de la concentración de endosulfán lactona y la presencia de microorganismos en el sustrato, por lo que los ácidos grasos puede ser un indicador de la sanidad del suelo.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>Al comparar los resultados de los dos estudios con sustrato no estéril y estéril, se confirmó que la presencia de los microorganismos causa importantes cambios en el destino y la biodisponibilidad del endosulfán lactona. Las diferencias entre sustrato estéril y no estéril confirmaron que las actividades microbianas son más importantes en sustrato no estéril ya que el incremento de peso máximo en las lombrices se dio en el día 7 en sustrato no estéril, lo que evidencia la relación mutualista entre los microorganismos presentes en el sistema y <italic>Eisenia fetida</italic>.</p>
+			<p>Endosulfán lactona no se bioacumula en <italic>Eisenia fetida</italic>, ya que se observa su eliminación desde el primer día. Por otra parte, la concentración de ácidos grasos en <italic>E. fetida</italic> se vio afectada por la exposición a endosulfán lactona; sin embargo, los microorganismos presentes en el medio tuvieron una influencia positiva sobre este proceso.</p>
+		</sec>
+		<sec>
+			<title>Conflictos de ínteres</title>
+			<p>Los autores declaran que no existe conflicto de interés.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>Los autores agradecen al Consejo Nacional de Artes, Humanidades, Ciencia y Tecnología (México) (J.A.V.; No. Beca: 621616) y al Tecnológico Nacional de México por el financiamiento del proyecto.</p>
+		</ack>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Ahmed, N. and Al-Mutairi, K. 2022. Earthworms effect on microbial population and soil fertility as well as their interaction with agriculture practices. Sustainability. https://doi.org/10.3390/su14137803.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ahmed</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Al-Mutairi</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Earthworms effect on microbial population and soil fertility as well as their interaction with agriculture practices</article-title>
+					<source>Sustainability</source>
+					<pub-id pub-id-type="doi">10.3390/su14137803</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Ali, M., Kazmi, A. and Ahmed, N. 2014. Estudio sobre los efectos de la temperatura, la humedad y el pH en la cinética de degradación de aldrin, endosulfán y lindano durante el compostaje continuo a gran escala del tambor rotativo. Chemosphere, 102: 68-75. https://doi.org/10.1016/j.chemosphere.2013.12.022.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ali</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Kazmi</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ahmed</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Estudio sobre los efectos de la temperatura, la humedad y el pH en la cinética de degradación de aldrin, endosulfán y lindano durante el compostaje continuo a gran escala del tambor rotativo</article-title>
+					<source>Chemosphere</source>
+					<volume>102</volume>
+					<fpage>68</fpage>
+					<lpage>75</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.chemosphere.2013.12.022</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>ASTM 6584. Standard Test Method for Determination of Total Monoglycerides, Total Diglycerides, Total Triglycerides, and Free and Total Glycerin in B-100 Biodiesel Methyl Esters by Gas Chromatography.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>ASTM 6584</collab>
+					</person-group>
+					<source>Standard Test Method for Determination of Total Monoglycerides, Total Diglycerides, Total Triglycerides, and Free and Total Glycerin in B-100 Biodiesel Methyl Esters by Gas Chromatography</source>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Astoviza, M., Cappelletti, N., Bilos, C., Migoya, M. and Colombo, J. 2016. Massive airborne endosulfan inputs related to intensive agriculture in Argentina’s Pampa. Chemosphere . 144, 1459-1466. https://doi.org/10.1016/j.chemosphere.2015.10.033.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Astoviza</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Cappelletti</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Bilos</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Migoya</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Colombo</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Massive airborne endosulfan inputs related to intensive agriculture in Argentina’s Pampa</article-title>
+					<source>Chemosphere</source>
+					<volume>144</volume>
+					<fpage>1459</fpage>
+					<lpage>1466</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.chemosphere.2015.10.033</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Cao, J., Diao, X., Hu, J., Xie, J., Du, J. and Zhao, C. 2013. Effects of clomazone on antioxidative enzymes activity and DNA damage of earthworm. J. Agro. Environ. Sci. 32, 925-931.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cao</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Diao</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Hu</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Xie</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Du</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Zhao</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Effects of clomazone on antioxidative enzymes activity and DNA damage of earthworm</article-title>
+					<source>J. Agro. Environ. Sci</source>
+					<volume>32</volume>
+					<fpage>925</fpage>
+					<lpage>931</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Cao, J., Li, P., Li, Q., Zheng, P. and Diao, X. 2015. Bioaccumulation and elimination of the herbicide clomazone in the earthworms <italic>Eisenia fetida</italic>. Bull. Env. Cont. Toxicol. 95, 606-610. https://doi.org/10.1007/s00128-015-1649-7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cao</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Zheng</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Diao</surname>
+							<given-names>X</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Bioaccumulation and elimination of the herbicide clomazone in the earthworms Eisenia fetida</article-title>
+					<source>Bull. Env. Cont. Toxicol</source>
+					<volume>95</volume>
+					<fpage>606</fpage>
+					<lpage>610</lpage>
+					<pub-id pub-id-type="doi">10.1007/s00128-015-1649-7</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Chen, T., Teng, Y., Luo, Y., Li, X., Sun, X., Li, Z. and Liu, P. 2011. Potential for biodegradation of polychlorinated biphenyls (PCBs) by <italic>Sinorhizobium meliloti</italic>. J. Haz. Mat. 186, 1438-1444. https://doi.org/10.1016/j.jhazmat.2010.12.008.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chen</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Teng</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Luo</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Sun</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Potential for biodegradation of polychlorinated biphenyls (PCBs) by Sinorhizobium meliloti</article-title>
+					<source>J. Haz. Mat</source>
+					<volume>186</volume>
+					<fpage>1438</fpage>
+					<lpage>1444</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jhazmat.2010.12.008</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Chen, W., Zhang, S., Yang, S., Tian, B., Song, L., Xu, Y. and Liu, T. 2021. Effects of substrate on the physiological characteristics and intestinal microbiota of Echiura worm (<italic>Urechis unicinctus</italic>) juveniles. Aquaculture, 530, 735710. https://doi.org/10.1016/j.aquaculture.2020.735710.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chen</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Tian</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Song</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Xu</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Effects of substrate on the physiological characteristics and intestinal microbiota of Echiura worm (Urechis unicinctus) juveniles</article-title>
+					<source>Aquaculture</source>
+					<volume>530</volume>
+					<issue-part>735710</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.aquaculture.2020.735710</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Coutiño, E., Hernández, B., Gutiérrez, R. and Dendooven, L. 2010. The earthworm <italic>Eisenia fetida</italic> accelerates the removal of anthracene and 9, 10-anthraquinone, the most abundant degradation product, in soil. Int. Biodeter. Biodegrad. 64, 525-529. https://doi.org/10.1016/j.ibiod.2010.05.002.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Coutiño</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Hernández</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Dendooven</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>The earthworm Eisenia fetida accelerates the removal of anthracene and 9, 10-anthraquinone, the most abundant degradation product, in soil</article-title>
+					<source>Int. Biodeter. Biodegrad</source>
+					<volume>64</volume>
+					<fpage>525</fpage>
+					<lpage>529</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.ibiod.2010.05.002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Howell, G., McDevitt, E., Henein, L., Mulligan, C. and Young, D. 2018. Alterations in cellular lipid metabolism produce neutral lipid accumulation following exposure to the organochlorine compound trans‐nonachlor in rat primary hepatocytes. Env. Toxicol. 33 (9), 962-971. https://doi.org/10.1002/tox.22583.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Howell</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>McDevitt</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Henein</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Mulligan</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Young</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Alterations in cellular lipid metabolism produce neutral lipid accumulation following exposure to the organochlorine compound trans‐nonachlor in rat primary hepatocytes</article-title>
+					<source>Env. Toxicol</source>
+					<volume>33</volume>
+					<issue>9</issue>
+					<fpage>962</fpage>
+					<lpage>971</lpage>
+					<pub-id pub-id-type="doi">10.1002/tox.22583</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Jayaraj, R., Megha, P. and Sreedev, P. 2016. Organochlorine pesticides, their toxic effects on living organisms and their fate in the environment. Interdisc. Toxicol. 9(3-4), 90-100. https://doi.org/10.1515/intox-2016-0012.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jayaraj</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Megha</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Sreedev</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Organochlorine pesticides, their toxic effects on living organisms and their fate in the environment</article-title>
+					<source>Interdisc. Toxicol</source>
+					<volume>9</volume>
+					<issue>3-4</issue>
+					<fpage>90</fpage>
+					<lpage>100</lpage>
+					<pub-id pub-id-type="doi">10.1515/intox-2016-0012</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Kersanté, A., Martin-Laurent, F., Soulas, G. and Binet, F. 2006. Interactions of earthworms with Atrazine-degrading bacteria in an agricultural soil. FEMS Microbiol. Ecol. 57, 192-205. https://doi.org/10.1111/j.1574-6941.2006.00108.x.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kersanté</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Martin-Laurent</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Soulas</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Binet</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>Interactions of earthworms with Atrazine-degrading bacteria in an agricultural soil</article-title>
+					<source>FEMS Microbiol. Ecol</source>
+					<volume>57</volume>
+					<fpage>192</fpage>
+					<lpage>205</lpage>
+					<pub-id pub-id-type="doi">10.1111/j.1574-6941.2006.00108.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Leesun, K., Jin-Woo, J., Ji-Young, S., Chul-Su, K., Jin Ye, H., Chang-Ho, L., Seung-Man, H. and Sung-Deuk, Ch. 2020. Nationwide levels and distribution of endosulfan in air, soil, water, and sediment in South Korea. Env. Poll., 265 (Part B), 115035. https://doi.org/10.1016/j.envpol.2020.115035.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Leesun</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Jin-Woo</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Ji-Young</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Chul-Su</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Jin Ye</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Chang-Ho</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Seung-Man</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Sung-Deuk</surname>
+							<given-names>Ch</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Nationwide levels and distribution of endosulfan in air, soil, water, and sediment in South Korea</article-title>
+					<source>Env. Poll</source>
+					<volume>265</volume>
+					<issue>Part B</issue>
+					<issue-part>115035</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.envpol.2020.115035</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Li, J., Sun, H., Wang, B. and Hu, G. 2004. Prediction of pyrene bioavailability in soil by earthworm (<italic>Eisenia fetida</italic>) bioaccumulation. J. Agr. Environ. Sci. 23, 1151-1155. https://doi.org/10.15640/jaes.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Sun</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Hu</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Prediction of pyrene bioavailability in soil by earthworm (Eisenia fetida) bioaccumulation</article-title>
+					<source>J. Agr. Environ. Sci</source>
+					<volume>23</volume>
+					<fpage>1151</fpage>
+					<lpage>1155</lpage>
+					<pub-id pub-id-type="doi">10.15640/jaes</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Li, X., Hou, J., Yang, J., Chang, G., Zhong, G., Wang, J., Li, T. and Li, S. 2025. Effect of <italic>Eisenia foetida</italic> on enzyme activity and microbial community in phytoremediation of petroleum-contaminated soil using three plant species. Applied Soil Ecology. https://doi.org/10.1016/j.apsoil.2024.105802.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Hou</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Chang</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Zhong</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Effect of Eisenia foetida on enzyme activity and microbial community in phytoremediation of petroleum-contaminated soil using three plant species</article-title>
+					<source>Applied Soil Ecology</source>
+					<pub-id pub-id-type="doi">10.1016/j.apsoil.2024.105802</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Jiang, W., Zhao, Z., Zhao, Q., He, X., Chen, H., Wu, G. and Zhang, X. 2025. Enantioselective toxicity of ibuprofen to earthworms: unraveling the effect and mechanism on enhanced toxicity of S-ibuprofen over R-ibuprofen. Environmental Science &amp; Technology 59 (1), 756-766, http:// 10.1021/acs.est.4c08655.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jiang</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Zhao</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Zhao</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>He</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Wu</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>X</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Enantioselective toxicity of ibuprofen to earthworms: unraveling the effect and mechanism on enhanced toxicity of S-ibuprofen over R-ibuprofen</article-title>
+					<source>Environmental Science &amp; Technology</source>
+					<volume>59</volume>
+					<issue>1</issue>
+					<fpage>756</fpage>
+					<lpage>766</lpage><bold>,</bold><pub-id pub-id-type="doi">10.1021/acs.est.4c08655</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Lingling, L., Yang, D., Song, Y., Shi, Y., Huang, B., Bitsch, A. and Yan, J. 2017. The potential acute and chronic toxicity of cyfluthrin on the soil model organism, <italic>Eisenia fetida</italic>. Ecotoxicol. Environ. Saf. 144, 456-463. http://doi.org/10.1016/j.ecoenv.2017.06.064.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lingling</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Song</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Shi</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Huang</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Bitsch</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Yan</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>The potential acute and chronic toxicity of cyfluthrin on the soil model organism, Eisenia fetida</article-title>
+					<source>Ecotoxicol. Environ. Saf</source>
+					<volume>144</volume>
+					<fpage>456</fpage>
+					<lpage>463</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.ecoenv.2017.06.064</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Khyzhnyak, S., Midyk, S., Polishchuk, S. and Velinska, A. 2022. Short communication: Effect of combined fungicide treatments on fatty acid content in <italic>Eisenia fetida</italic> earthworms. Spanish Journal of Agricultural Research. https://doi.org/10.5424/sjar/2022204-19509.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Khyzhnyak</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Midyk</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Polishchuk</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Velinska</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Short communication: Effect of combined fungicide treatments on fatty acid content in Eisenia fetida earthworms</article-title>
+					<source>Spanish Journal of Agricultural Research</source>
+					<pub-id pub-id-type="doi">10.5424/sjar/2022204-19509</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Mehdi, M.M., Layqat, M. and Majid, S. 2020. Biomolecular alterations by chronic sub-lethal exposure of malathion and paraquat in <italic>Drosophila melanogaster</italic>: study on pesticide tolerance in insects. Int. J Trop. Insect. Sci. 40, 869-876. https://doi.org/10.1007/s42690-020-00143-6.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mehdi</surname>
+							<given-names>M.M.</given-names>
+						</name>
+						<name>
+							<surname>Layqat</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Majid</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Biomolecular alterations by chronic sub-lethal exposure of malathion and paraquat in Drosophila melanogaster: study on pesticide tolerance in insects</article-title>
+					<source>Int. J Trop. Insect. Sci</source>
+					<volume>40</volume>
+					<fpage>869</fpage>
+					<lpage>876</lpage>
+					<pub-id pub-id-type="doi">10.1007/s42690-020-00143-6</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Mosleh, Y., Paris, S., Couderchet, M. and Verne, G. 2003. Effects of the herbicide isoproturon on survival growth rate, and protein content of mature earthworms (<italic>Lumbricus terrestris L.)</italic> and its fate in the soil. Appl. Soil Ecol. 23, 69-77. https://doi.org/10.1155/2010/678360.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mosleh</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Paris</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Couderchet</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Verne</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Effects of the herbicide isoproturon on survival growth rate, and protein content of mature earthworms (Lumbricus terrestris L.) and its fate in the soil</article-title>
+					<source>Appl. Soil Ecol</source>
+					<volume>23</volume>
+					<fpage>69</fpage>
+					<lpage>77</lpage>
+					<pub-id pub-id-type="doi">10.1155/2010/678360</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>OECD. 1984. Test No. 207: Earthworm, Acute Toxicity Tests, OECD Guidelines for the Testing of Chemicals, Section 2, OECD Publishing, Paris, https://doi.org/10.1787/9789264070042-en.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>OECD</collab>
+					</person-group>
+					<year>1984</year>
+					<source>Test No. 207: Earthworm, Acute Toxicity Tests, OECD Guidelines for the Testing of Chemicals, Section 2</source>
+					<publisher-name>OECD Publishing</publisher-name>
+					<publisher-loc>Paris</publisher-loc>
+					<pub-id pub-id-type="doi">10.1787/9789264070042-en</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Odukkathil, G. and Vasudevan, N. 2016. Residues of endosulfan in surface and subsurface agricultural soil and its bioremediation. J. Environ. Manag. 165: 72-80. https://doi.org/10.1016/j.jenvman.2015.09.020.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Odukkathil</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Vasudevan</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Residues of endosulfan in surface and subsurface agricultural soil and its bioremediation</article-title>
+					<source>J. Environ. Manag</source>
+					<volume>165</volume>
+					<fpage>72</fpage>
+					<lpage>80</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jenvman.2015.09.020</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Oliveira, J., Brinati, A., Miranda, L., Morais, D., Zanuncio, J., Gonçalves, R., Peluzio, M. and Gouveia, M. 2017. Exposure to the insecticide endosulfan induces liver morphology alterations and oxidative stress in fruit‐eating bats (<italic>Artibeus lituratus</italic>). Int. J. Exp. Path. 98 (1), 17-25. https://doi.org/10.1111/iep.12223.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Oliveira</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Brinati</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Miranda</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Morais</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Zanuncio</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Gonçalves</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Peluzio</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Gouveia</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Exposure to the insecticide endosulfan induces liver morphology alterations and oxidative stress in fruit‐eating bats (Artibeus lituratus)</article-title>
+					<source>Int. J. Exp. Path</source>
+					<volume>98</volume>
+					<issue>1</issue>
+					<fpage>17</fpage>
+					<lpage>25</lpage>
+					<pub-id pub-id-type="doi">10.1111/iep.12223</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Organization for Economic Cooperation and Development. 1984. Earthworms acute toxicity test. In Guideline for Testing of Chemicals 207. Paris, France.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organization for Economic Cooperation and Development</collab>
+					</person-group>
+					<year>1984</year>
+					<article-title>Earthworms acute toxicity test</article-title>
+					<source>Guideline for Testing of Chemicals 207</source>
+					<publisher-loc>Paris, France</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Owagboriaye, F., Dedekeb, G., Bamideleb, J., Aladesidab, A., Isiborc, P., Feyisolad, R. and Adelekea, M. 2020. Biochemical response and vermiremediation assessment of three earthworm species (<italic>Alma millsoni</italic>, <italic>Eudrilus eugeniae</italic> and <italic>Libyodrilus violaceus</italic>) in soil contaminated with a glyphosate-based herbicide. Ecol. Indic. 108, 105678. https://doi.org/10.1016/j.ecolind.2019.105678.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Owagboriaye</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Dedekeb</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Bamideleb</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Aladesidab</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Isiborc</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Feyisolad</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Adelekea</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Biochemical response and vermiremediation assessment of three earthworm species (Alma millsoni, Eudrilus eugeniae and Libyodrilus violaceus) in soil contaminated with a glyphosate-based herbicide</article-title>
+					<source>Ecol. Indic</source>
+					<volume>108</volume>
+					<issue-part>105678</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.ecolind.2019.105678</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Peñaloza, G., Rincón, D. and Restrepo, L. 2013. Evaluación de la esterilización húmeda y la esterilización por microondas de dos tipos de suelos. Revista científica. 1 (17), 87-93. https://doi.org/10.14483/23448350.4567.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Peñaloza</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Rincón</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Restrepo</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Evaluación de la esterilización húmeda y la esterilización por microondas de dos tipos de suelos</article-title>
+					<source>Revista científica</source>
+					<volume>1</volume>
+					<issue>17</issue>
+					<fpage>87</fpage>
+					<lpage>93</lpage>
+					<pub-id pub-id-type="doi">10.14483/23448350.4567</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Qiao, Z., Sun, X., Fu, M., Zhou, S., Han, Y., Zhao, X., Gong, K., Peng, C., Zhang, W., Liu, F., Ye, C. and Yang, J. 2024. Co-exposure of decabromodiphenyl ethane and cadmium increases toxicity to earthworms: Enrichment, oxidative stress, damage and molecular binding mechanisms. Journal of hazardous materials, 473, 134684. https://doi.org/10.1016/j.jhazmat.2024.134684).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Qiao</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Sun</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Fu</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Zhou</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Han</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Zhao</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Gong</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Peng</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Ye</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Co-exposure of decabromodiphenyl ethane and cadmium increases toxicity to earthworms: Enrichment, oxidative stress, damage and molecular binding mechanisms</article-title>
+					<source>Journal of hazardous materials</source>
+					<volume>473</volume>
+					<issue-part>134684</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jhazmat.2024.134684</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Silva, M. and Beauvais, S. 2010. Human health risk assessment of endosulfan. I: Toxicology and hazard identification. Reg. Toxicol. Pharmacol. 56: 4-17. https://doi.org/10.1016/j.yrtph.2009.08.013.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Silva</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Beauvais</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Human health risk assessment of endosulfan. I: Toxicology and hazard identification</article-title>
+					<source>Reg. Toxicol. Pharmacol</source>
+					<volume>56</volume>
+					<fpage>4</fpage>
+					<lpage>17</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.yrtph.2009.08.013</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Song, W., Du, Y., Li, D., Xiao, Z., Li, B., Wei, J., Huang, X., Zheng, C., Wang, J., Wang, J. and Zhu, L. 2023. Polyethylene mulch film-derived microplastics enhance the bioaccumulation of atrazine in two earthworm species (<italic>Eisenia fetida</italic> and <italic>Metaphire guillelmi</italic>) via carrier effects. Journal of hazardous materials , 455, 131603 . https://doi.org/10.1016/j.jhazmat.2023.131603.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Song</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Du</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Xiao</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Wei</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Huang</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Zheng</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Zhu</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Polyethylene mulch film-derived microplastics enhance the bioaccumulation of atrazine in two earthworm species (Eisenia fetida and Metaphire guillelmi) via carrier effects</article-title>
+					<source>Journal of hazardous materials</source>
+					<volume>455</volume>
+					<issue-part>131603</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jhazmat.2023.131603</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Sun, Y., Diao, X., Zhang, Q. and Shen, J. 2005. Bioaccumulation and elimination of avermectin B1a in the earthworms <italic>(Eisenia fetida</italic>). Chemosphere 60, 699-704. https://doi.org/10.1016/j.chemosphere.2005.01.044.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sun</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Diao</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Shen</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Bioaccumulation and elimination of avermectin B1a in the earthworms (Eisenia fetida)</article-title>
+					<source>Chemosphere</source>
+					<volume>60</volume>
+					<fpage>699</fpage>
+					<lpage>704</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.chemosphere.2005.01.044</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Thangadurai, P. and Suresh, S. 2014. Biodegradation of endosulfan by soil bacterial cultures. Int. Biodet. Biodeg., 94, 38-47. https://doi.org/10.1016/j.ibiod.2014.06.017.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Thangadurai</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Suresh</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Biodegradation of endosulfan by soil bacterial cultures</article-title>
+					<source>Int. Biodet. Biodeg</source>
+					<volume>94</volume>
+					<fpage>38</fpage>
+					<lpage>47</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.ibiod.2014.06.017</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Tiwari, M. and Guha, S. 2013. Kinetics of the biodegradation pathway of endosulfan in the aerobic and anaerobic environments. Chemosphere 93, 567-573. https://doi.org/10.1016/j.chemosphere.2013.07.005. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tiwari</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Guha</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Kinetics of the biodegradation pathway of endosulfan in the aerobic and anaerobic environments</article-title>
+					<source>Chemosphere</source>
+					<volume>93</volume>
+					<fpage>567</fpage>
+					<lpage>573</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.chemosphere.2013.07.005</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Uchendu, C., Ambali, S., Ayo, J. and Esievo, K. 2018. Chronic co-exposure to chlorpyrifos and deltamethrin pesticides induces alterations in serum lipids and oxidative stress in Wistar rats: mitigating role of alpha-lipoic acid. Env. Sci. Poll. Res. Int. 25 (20) 19605-19611. https://doi.org/10.36632/csi/2019.8.4.9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Uchendu</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Ambali</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ayo</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Esievo</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Chronic co-exposure to chlorpyrifos and deltamethrin pesticides induces alterations in serum lipids and oxidative stress in Wistar rats: mitigating role of alpha-lipoic acid</article-title>
+					<source>Env. Sci. Poll. Res. Int</source>
+					<volume>25</volume>
+					<issue>20</issue>
+					<fpage>19605</fpage>
+					<lpage>19611</lpage>
+					<pub-id pub-id-type="doi">10.36632/csi/2019.8.4.9</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Vázquez-Villegas, P., Meza-Gordillo, R., Luján-Hidalgo, M., Cruz-Salomón, A., Ruíz-Valdiviezo, V., Gutiérrez-Miceli, F., Villalobos-Maldonado, J. and Montes-Molina, J. 2021. Optimization and validation of an extraction method for endosulfan lactone on a solid substrate. Processes. 9, 284. https://doi.org/10.3390/pr9020284.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vázquez-Villegas</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Meza-Gordillo</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Luján-Hidalgo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Cruz-Salomón</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ruíz-Valdiviezo</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez-Miceli</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Villalobos-Maldonado</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Montes-Molina</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Optimization and validation of an extraction method for endosulfan lactone on a solid substrate</article-title>
+					<source>Processes</source>
+					<volume>9</volume>
+					<issue-part>284</issue-part>
+					<pub-id pub-id-type="doi">10.3390/pr9020284</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Vázquez, P., Meza, R., Gutiérrez, F., Ruíz, V., Villalobos, J., Montes, J. and Fernández, A. 2018. Determinación de CL50 y CE50 de endosulfán lactona y diazinón en lombriz de tierra (<italic>Eisenia foetida</italic>). Agroproductividad, 11 (4). Recuperado a partir de <ext-link ext-link-type="uri" xlink:href="https://revista-agroproductividad.org/index.php/agroproductividad/article/view/277">https://revista-agroproductividad.org/index.php/agroproductividad/article/view/277</ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vázquez</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Meza</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Ruíz</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Villalobos</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Montes</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Fernández</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Determinación de CL50 y CE50 de endosulfán lactona y diazinón en lombriz de tierra (Eisenia foetida)</article-title>
+					<source>Agroproductividad</source>
+					<volume>11</volume>
+					<issue>4</issue>
+					<ext-link ext-link-type="uri" xlink:href="https://revista-agroproductividad.org/index.php/agroproductividad/article/view/277">https://revista-agroproductividad.org/index.php/agroproductividad/article/view/277</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Villalobos-Maldonado, J., Meza-Gordillo, R., Mancilla-Margalli, N., Ayora-Talavera, T., Rodríguez-Mendiola, M., Arias-Castro, C., Vázquez-Villegas, P. and Ruíz-Valdiviezo, V. 2015. Removal of decachlorobiphenyl in vermicomposting process amended with rabbit manure and peat moss. Water, Air, &amp; Soil Poll., 226 (5), 1-11. https://doi.org/10.1007/s11270-015-2400-z.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Villalobos-Maldonado</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Meza-Gordillo</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Mancilla-Margalli</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Ayora-Talavera</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Mendiola</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Arias-Castro</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Vázquez-Villegas</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Ruíz-Valdiviezo</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Removal of decachlorobiphenyl in vermicomposting process amended with rabbit manure and peat moss</article-title>
+					<source>Water, Air, &amp; Soil Poll</source>
+					<volume>226</volume>
+					<issue>5</issue>
+					<fpage>1</fpage>
+					<lpage>11</lpage>
+					<pub-id pub-id-type="doi">10.1007/s11270-015-2400-z</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Wijesiri, B., Liu, A., Jayarathne, A., Duodu, G., Ayoko, D., Chen, L. and Goonetilleke, A. 2021. Influence of the hierarchical structure of land use on metals, nutrients and organochlorine pesticides in urban river sediment. Ecol. Eng. 159, 106123. https://doi.org/10.1016/j.ecoleng.2020.106123.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wijesiri</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Jayarathne</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Duodu</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Ayoko</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Goonetilleke</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Influence of the hierarchical structure of land use on metals, nutrients and organochlorine pesticides in urban river sediment</article-title>
+					<source>Ecol. Eng</source>
+					<volume>159</volume>
+					<issue-part>106123</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.ecoleng.2020.106123</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Xiang, D., Chu, T., Li, M., Wang, Q. and Zhu, G. 2018. Effects of pyrethroid pesticide cis-bifenthrin on lipogenesis in hepatic cell line. Chemosphere 201, 840-849. https:// 10.1016/j.chemosphere.2018.03.009.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Xiang</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Chu</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Zhu</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Effects of pyrethroid pesticide cis-bifenthrin on lipogenesis in hepatic cell line</article-title>
+					<source>Chemosphere</source>
+					<volume>201</volume>
+					<fpage>840</fpage>
+					<lpage>849</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.chemosphere.2018.03.009</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Yajuan, S., Xiangbo, X., Chen, J., Ruoyu, L., Xiaoqi, Z., Yajing, S. and Yurong, W. 2018. Antioxidant gene expression and metabolic responses of earthworms (<italic>Eisenia fetida</italic>) after exposure to various concentrations of hexabromocyclododecane. Environ. Pollut. 232, 2457-251. http://doi.org/10.1016/j.envpol.2017.09.039.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yajuan</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Xiangbo</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Ruoyu</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Xiaoqi</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Yajing</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Yurong</surname>
+							<given-names>W</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Antioxidant gene expression and metabolic responses of earthworms (Eisenia fetida) after exposure to various concentrations of hexabromocyclododecane</article-title>
+					<source>Environ. Pollut</source>
+					<volume>232</volume>
+					<fpage>2457</fpage>
+					<lpage>2251</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.envpol.2017.09.039</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Zeb, A., Li, S., Wu, J., Lian, J., Liu, W. and Yuebing, S. 2020. Insights into the mechanisms underlying the remediation potential of earthworms in contaminated soil: A critical review of research progress and prospects. Sci. Total Env. 740, 140145. https://doi.org/10.1016/j.scitotenv.2020.140145.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zeb</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Wu</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Lian</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Yuebing</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Insights into the mechanisms underlying the remediation potential of earthworms in contaminated soil: A critical review of research progress and prospects</article-title>
+					<source>Sci. Total Env</source>
+					<volume>740</volume>
+					<issue-part>140145</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.scitotenv.2020.140145</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Zeng, L., Wang, Y., Song, W., Ai, C., Liu, Z., Yu, M. and Zou, W. 2023. Different effects of continuous and pulsed Benzo[a]pyrene exposure on metabolism and antioxidant defense of large yellow croaker: Depend on exposure duration. Ecotoxicol. and Environ. Saf., 263, 115370. https://doi.org/10.1016/j.ecoenv.2023.115370).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zeng</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Song</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Ai</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Yu</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Zou</surname>
+							<given-names>W</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Different effects of continuous and pulsed Benzo[a]pyrene exposure on metabolism and antioxidant defense of large yellow croaker: Depend on exposure duration</article-title>
+					<source>Ecotoxicol. and Environ. Saf</source>
+					<volume>263</volume>
+					<issue-part>115370</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.ecoenv.2023.115370</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Zhang, B., Pan, X., Cobb, G. and Anderson, T. 2009. Uptake, bioaccumulation, and biodegradation of hexahydro-1, 3, 5-trinitro-1, 3, 5-triazine (RDX) and its reduced metabolites (MNX and TNX) by the earthworm (<italic>Eisenia fetida</italic>). Chemosphere 76:76-82.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhang</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Pan</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Cobb</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Anderson</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Uptake, bioaccumulation, and biodegradation of hexahydro-1, 3, 5-trinitro-1, 3, 5-triazine (RDX) and its reduced metabolites (MNX and TNX) by the earthworm (Eisenia fetida)</article-title>
+					<source>Chemosphere</source>
+					<volume>76</volume>
+					<fpage>76</fpage>
+					<lpage>82</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Zhang, S., Zhou, Y., Xia, J., Wang, Y., Wang, L., Hayat, K., Bai, S., Li, C., Qian, M. and Lin, H. 2024. Combined effects of cadmium and sulfamethoxazole on <italic>Eisenia fetida</italic>: Insights into accumulation, subcellular partitioning, biomarkers and toxicological responses. The Science of the total environment, 173303. https://doi.org/10.1016/j.scitotenv.2024.173303.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhang</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Zhou</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Xia</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Hayat</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Bai</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Qian</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Lin</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Combined effects of cadmium and sulfamethoxazole on Eisenia fetida: Insights into accumulation, subcellular partitioning, biomarkers and toxicological responses</article-title>
+					<source>The Science of the total environment</source>
+					<issue-part>173303</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.scitotenv.2024.173303</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Zhao, Q., Su, G., Chen, H., Li, X., Wu, Y., Wang, Y., Li, J., Yin, B., Ao, P., Hao, P. and Li, Y. 2024. Dynamic distribution of tetracycline and its degradation products in different organs of the geophagous earthworm <italic>Metaphire guillelmi</italic>. Ecotoxicology and environmental safety, 287, 117250. https://doi.org/10.1016/j.ecoenv.2024.117250).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhao</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Su</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Wu</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Yin</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Ao</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Hao</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Dynamic distribution of tetracycline and its degradation products in different organs of the geophagous earthworm Metaphire guillelmi</article-title>
+					<source>Ecotoxicology and environmental safety</source>
+					<volume>287</volume>
+					<issue-part>117250</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.ecoenv.2024.117250</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Zuo, W., Zhao, Y., Qi, P., Zhang, C., Zhao, X., Wu, S., An, X., Liu, X., Cheng, X., Yu, Y. and Tang, T. 2023. Current-use pesticides monitoring and ecological risk assessment in vegetable soils at the provincial scale. Env. Res., 118023. https://doi.org/10.1016/j.envres.2023.118023.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zuo</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Zhao</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Qi</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Zhao</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Wu</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>An</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Cheng</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Yu</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Tang</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Current-use pesticides monitoring and ecological risk assessment in vegetable soils at the provincial scale</article-title>
+					<source>Env. Res</source>
+					<issue-part>118023</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.envres.2023.118023</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

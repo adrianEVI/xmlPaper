@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2366</article-id>
+			<article-id pub-id-type="other">00151</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Germinación de semillas y propagación <italic><italic>in vitro</italic> de pitahaya (<italic>Hylocereus undatus</italic>)</italic></article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Seed germination and <italic>in vitro</italic> propagation of pitahaya (<italic>Hylocereus undatu</italic>s)</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0005-2604-9632</contrib-id>
+					<name>
+						<surname>Sarmiento-Gómez</surname>
+						<given-names>Erick Javier</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-5720-9652</contrib-id>
+					<name>
+						<surname>Luján-Hidalgo</surname>
+						<given-names>María Celina</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-4884-7545</contrib-id>
+					<name>
+						<surname>Porraz-Ruiz</surname>
+						<given-names>María Laura</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-5379-1518</contrib-id>
+					<name>
+						<surname>Gutiérrez-Miceli</surname>
+						<given-names>Federico Antonio</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-8404-1082</contrib-id>
+					<name>
+						<surname>Santiz-Gómez</surname>
+						<given-names>José Alfredo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Tecnológico Nacional de México/IT de Tuxtla Gutiérrez, División de Estudios de Posgrado e Investigación, Carretera Panamericana km. 1080,Tuxtla Gutiérrez, Chiapas, C.P. 29050, México. m15270391@tuxtla.tecnm.mx, maria.lh@tuxtla.tecnm.mx, pr@tuxtla.tecnm.mx, federico.gm@tuxtla.tecnm.mx, jose.sg@tuxtla.tecnm.mx</institution>
+					<institution content-type="orgname">Tecnológico Nacional de México/IT de Tuxtla Gutiérrez</institution>
+					<institution content-type="orgdiv1">División de Estudios de Posgrado e Investigación</institution>
+					<addr-line>
+						<state>Chiapas</state>
+						<postal-code>29050</postal-code>
+					</addr-line>
+					<country country="MX">México</country>
+					<email>m15270391@tuxtla.tecnm.mx</email>
+					<email>maria.lh@tuxtla.tecnm.mx</email>
+					<email>pr@tuxtla.tecnm.mx</email>
+					<email>federico.gm@tuxtla.tecnm.mx</email>
+					<email>jose.sg@tuxtla.tecnm.mx</email>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Autor para correspondencia: José Alfredo Santiz-Gómez Correo-e: <email>jose.sg@tuxtla.tecnm.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>13</day>
+				<month>08</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2366</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>10</day>
+					<month>06</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>04</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>13</day>
+					<month>08</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>Hylocereus undatus, comúnmente conocido como fruta del dragón o pitahaya, es una especie de cactus trepador perteneciente a la familia Cactaceae. Este cultivo ha ganado popularidad a nivel mundial debido a su apariencia llamativa, su sabor dulce y exótico. Además, su contenido de antioxidantes, vitaminas y minerales, lo convierte en un cultivo valioso y de gran importancia económica en diversas regiones tropicales y subtropicales del mundo. Por ello, el objetivo de esta investigación fue evaluar diferentes protocolos para la desinfección de semillas y la propagación in vitro de Hylocereus undatus. Las semillas se extrajeron de frutos maduros, fueron desinfectadas con NaClO al 50 % (v/v) y etanol al 70 % (v/v), variando los tiempos de inmersión. Para la germinación, las semillas desinfectadas se establecieron en medio Murashige y Skoog (MS) al 50 % de sales, suplementado con 30 g/L de sacarosa y 2.5 g/L de fitagel. Posteriormente, para la inducción de brotes se emplearon explantes de tallos, hipocótilos, cotiledones y reguladores de crecimiento como ácido naftalenacético (ANA), bencilaminopurina (BAP) y ácido 2,4-diclorofenoxiacético (2,4-D) en concentraciones de 0 y 2 mg/L. Con respecto a la desinfección los resultados mostraron que el protocolo 2 donde se empleó NaClO al 50 % (v/v) durante 10 min de inmersión, indujo 100 % de desinfección y 85 % de germinación. En la inducción de brotes se observó que los tratamientos suplementados con ácido naftalenacético y bencilaminopurina indujeron la formación de brotes en explantes de tallos, el mayor número de brotes (15.11) se obtuvo con 2 mg/L de BAP. Finalmente, en la aclimatación de vitro plantas a nivel invernadero se logró una sobrevivencia del 90% empleando peat moss y perlita como sustratos. Estos hallazgos destacan la efectividad del protocolo diseñado para la propagación in vitro de H. undatus, contribuyendo potencialmente a su producción comercial.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>Hylocereus undatus, commonly known as dragon fruit or pitahaya, is a species of climbing cactus belonging to the Cactaceae family. This cultivar has gained worldwide popularity due to its striking appearance, sweet and exotic flavor. Furthermore, antioxidant, vitamin, and mineral content makes it a valuable crop of great economic importance in various tropical and subtropical regions of the world. Therefore, the aim of this research was to evaluate different protocols for seed disinfection and in vitro propagation of Hylocereus undatus. Seeds were extracted from ripe fruits and disinfected with 50 % (v/v) NaClO and 70 % (v/v) ethanol, with varying immersion times. For germination, the disinfected seeds were planted in 50 % Murashige and Skoog (MS) medium supplemented with 30 g/L of sucrose and 2.5 g/L of phytagel. Stem, hypocotyl, and cotyledon explants were subsequently used for shoot induction, along with growth regulators such as naphthaleneacetic acid (NAA), benzylaminopurine (BAP), and 2,4-dichlorophenoxyacetic acid (2,4-D) at concentrations of 0 and 2 mg/L. In the disinfection phase, the results showed that protocol 2, which used 50 % (v/v) NaClO for 10 minutes of immersion, induced 100 % disinfection and 85 % germination. For shoot induction, treatments supplemented with naphthaleneacetic acid and benzylaminopurine were observed to induce shoot formation in stem explants. The highest number of shoots (15.11) was obtained with 2 mg/L of BAP. Finally, in vitro plant acclimation to greenhouse conditions resulted in a 90 % survival rate using peat moss and perlite as substrates. These findings highlight the effectiveness of the protocol designed for the in vitro propagation of Hylocereus undatus, potentially contributing to commercial production.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Disinfection</kwd>
+				<kwd>Germination</kwd>
+				<kwd>Organogenesis</kwd>
+				<kwd>Acclimatization</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Desinfección</kwd>
+				<kwd>Germinación</kwd>
+				<kwd>Organogénesis</kwd>
+				<kwd>Aclimatación</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="2"/>
+				<table-count count="3"/>
+				<equation-count count="2"/>
+				<ref-count count="28"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>La pitahaya o fruta del dragón (<italic>Hylocereus undatus</italic>) es una especie de cactus epífito nativa de América Central y del Sur (<xref ref-type="bibr" rid="B5">Esquivel y Araya-Quesada, 2012</xref>). Esta planta ha ganado interés mundial gracias a su fruta exótica, que cuenta con sabor dulce, refrescante y beneficios nutricionales, como su alto contenido de vitamina C, fibra, además de fenoles y flavonoides los cuales tienen propiedades antioxidantes (<xref ref-type="bibr" rid="B7">Ibrahim et al., 2018</xref>). Esta especie es un cactus trepador con tallos suculentos de color verde brillante, con costillas ondulados y espinas pequeñas que se agrupan en areolas que pueden alcanzar varios metros de longitud (<xref ref-type="bibr" rid="B3">Calix et al., 2005</xref>). Esta planta es epífita, lo que significa que puede crecer sobre otros árboles, utilizando sus raíces aéreas para obtener nutrientes y agua del aire y la lluvia. Las flores son grandes, nocturnas (polinizadas por murciélagos y polillas nocturnas), muy vistosas, de color blanco y con un aroma agradable (Calix <italic>et al.</italic>, 2005). </p>
+			<p>La pitahaya tiene una importancia económica debido a su alto valor en el mercado de frutas exóticas. Países como Vietnam, Israel y México son grandes productores y exportadores de esta fruta, generando altos ingresos a través de la venta tanto local como internacional (<xref ref-type="bibr" rid="B19">Ortiz-Hernández y Carrillo-Salazar, 2012</xref>). En países de la Unión Europea y Estados Unidos la demanda sigue en aumento debido a la tendencia hacia el consumo de alimentos saludables y exóticos (<xref ref-type="bibr" rid="B14">Morales-Castillo, 2021</xref>). El método tradicional de cultivo de <italic>Hylocereus undatus</italic>, basado en esquejes y semillas, presenta varios desafíos, como el tiempo prolongado que requieren las plantas para alcanzar la madurez y la variabilidad genética que puede afectar la calidad y consistencia de los frutos (<xref ref-type="bibr" rid="B15">Muñíz, 2018</xref>). Además, si no se mantienen los cuidados fitosanitarios necesarios, estos métodos son más susceptibles a enfermedades y plagas, debido a que estos pueden generar las condiciones ideales para el desarrollo y la propagación de enfermedades como la pudrición blanda del tallo y la antracnosis que son ocasionados por enterobacterias como <italic>Pectobacterium sp.</italic> y hongos como <italic>Colletotrichum gloesporiodes</italic>, respectivamente, lo que puede disminuir significativamente el rendimiento y la calidad de las cosechas (<xref ref-type="bibr" rid="B21">Ramírez-Delgadillo et al., 2011</xref>; <xref ref-type="bibr" rid="B26">Valencia-Botín et al., 2013</xref>).</p>
+			<p>La propagación <italic>in vitro</italic> de especies vegetales en condiciones estériles mediante el cultivo de tejidos, la inducción de organogénesis directa o indirecta y la aplicación de reguladores de crecimiento vegetal representa una de las herramientas biotecnológicas que permite producir plantas de interés. Esta metodología tiene un interés creciente debido a su capacidad para generar clones de la planta madre o donante, asegurando un alto grado de uniformidad genética. Además, permite la producción masiva de plantas en cortos periodos de tiempo. Posteriormente, las plántulas obtenidas pueden ser evaluadas para seleccionar aquellas con uniformidad en tamaño, forma, color y velocidad de crecimiento, aspectos clave para el establecimiento de plantaciones comerciales. Otro beneficio significativo de la propagación <italic>in vitro</italic> es la capacidad de evitar enfermedades y plagas comunes en los métodos de cultivo tradicionales, mejorando así la calidad y el rendimiento del cultivo (<xref ref-type="bibr" rid="B15">Muñiz, 2018</xref>). Sin embargo, en el caso del género Hylocereus, se ha identificado que la desinfección de semillas es un paso crítico en el cultivo <italic>in vitro</italic>, ya que las características fisiológicas de sus estructuras dificultan la efectividad de las soluciones desinfectantes. Por este motivo, a menudo se prefiere trabajar con explantes obtenidos de plántulas <italic>in vitro</italic> (<xref ref-type="bibr" rid="B28">Winson et al., 2020</xref>). Por lo que, el objetivo de esta investigación fue establecer un protocolo de propagación <italic>in vitro</italic> para <italic>Hylocereus undatus</italic>, que incluya una metodología efectiva de desinfección de semillas, así como procesos de multiplicación y aclimatación. </p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Materiales y métodos</title>
+			<sec>
+				<title>Material vegetal</title>
+				<p>Los frutos maduros de <italic>Hylocereus undatus</italic>, se obtuvieron del rancho “Las Pitahayas” ubicado en el municipio de Suchiapa, Chiapas (16° 45’ 39.23” latitud N y 93° 07’ 38.23” longitud O), los cuales se cosecharon entre los 35 y 45 días después de la fructificación. Posteriormente, la investigación se realizó en el laboratorio de cultivo de tejidos vegetales del Tecnológico Nacional de México, campus Tuxtla Gutiérrez, Chiapas. </p>
+			</sec>
+			<sec>
+				<title>Desinfección de semillas</title>
+				<p>Las semillas se extrajeron de frutos maduros, utilizando pinzas de disección, obteniendo un total de 720 semillas, estas fueron colocadas en un frasco de vidrio y almacenadas de acuerdo con <xref ref-type="bibr" rid="B11">Mc Caughey-Espinoza et al. (2018)</xref>. Posteriormente, las semillas fueron separadas de forma aleatoria en cuatro grupos de 180 semillas, las cuales se dividieron según el protocolo de desinfección a evaluar. Para la desinfección de las semillas de <italic>Hylocereus undatus</italic> se evaluaron cuatro protocolos en una campana de flujo laminar:</p>
+				<p>Protocolo 1: Las semillas fueron sumergidas, bajo agitación constante, en una solución de etanol al 70 % (v/v) durante 10 min. Posteriormente, se realizaron tres lavados con agua destilada estéril durante tres minutos cada uno.</p>
+				<p>Protocolo 2: Las semillas se sumergieron, bajo agitación constante, en una solución de NaClO al 50 % (v/v) durante 10 minutos. Posteriormente, se realizaron tres lavados con agua destilada estéril durante tres min cada uno.</p>
+				<p>Protocolo 3: Las semillas fueron sumergidas, bajo agitación constante, en una solución de etanol al 70 % (v/v) durante 5 min. Posteriormente, se realizaron tres lavados con agua destilada estéril durante tres min cada uno. Finalmente, las semillas fueron sumergidas en una solución de NaClO al 50 % (v/v) durante 10 min y después de este tiempo se realizaron tres lavados con agua destilada estéril durante tres min cada uno.</p>
+				<p>Protocolo 4: Las semillas fueron sumergidas, bajo agitación constante, en una solución NaClO al 50 % (v/v) durante 15 min. Posteriormente, se realizaron tres lavados con agua destilada estéril durante tres min cada uno.</p>
+				<p>Una vez realizados los protocolos de desinfección, se colocaron 5 semillas en frascos de cultivo con medio MS (<xref ref-type="bibr" rid="B17">Murashige y Skoog, 1962</xref>) al 50 % de sales, suplementado con 30 g/L de sacarosa y 2.5 g/L de fitagel, el pH se ajustó a 5.7 y se incubaron en una cámara bioclimática a una temperatura de 23±2 °C, con un fotoperiodo de 16 h a una intensidad lumínica de 35 µmol m<sup>2</sup>s<sup>-1</sup>. Después de 30 d, las variables de respuesta evaluadas fueron el porcentaje de desinfección y el porcentaje de germinación obtenidos con la <xref ref-type="disp-formula" rid="e1">ecuación 1</xref> y <xref ref-type="disp-formula" rid="e2">2</xref>, respectivamente.</p>
+				<p>
+					<disp-formula id="e1">
+						<mml:math>
+							<mml:mi mathvariant="normal">D</mml:mi>
+							<mml:mi mathvariant="normal">e</mml:mi>
+							<mml:mi mathvariant="normal">s</mml:mi>
+							<mml:mi mathvariant="normal">i</mml:mi>
+							<mml:mi mathvariant="normal">n</mml:mi>
+							<mml:mi mathvariant="normal">f</mml:mi>
+							<mml:mi mathvariant="normal">e</mml:mi>
+							<mml:mi mathvariant="normal">c</mml:mi>
+							<mml:mi mathvariant="normal">c</mml:mi>
+							<mml:mi mathvariant="normal">i</mml:mi>
+							<mml:mi mathvariant="normal">ó</mml:mi>
+							<mml:mi mathvariant="normal">n</mml:mi>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mo>(</mml:mo>
+							<mml:mi mathvariant="normal">%</mml:mi>
+							<mml:mo>)</mml:mo>
+							<mml:mi> </mml:mi>
+							<mml:mo>=</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:mfenced separators="|">
+										<mml:mrow>
+											<mml:mi>N</mml:mi>
+											<mml:mo>-</mml:mo>
+											<mml:mi>n</mml:mi>
+										</mml:mrow>
+									</mml:mfenced>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mi>N</mml:mi>
+								</mml:mrow>
+							</mml:mfrac>
+							<mml:mi>*</mml:mi>
+							<mml:mn>100</mml:mn>
+						</mml:math>
+						<label>(1)</label>
+					</disp-formula>
+				</p>
+				<p>Donde:</p>
+				<p>N= número total de semillas empleadas.</p>
+				<p>n= número de semillas contaminadas.</p>
+				<p>
+					<disp-formula id="e2">
+						<mml:math>
+							<mml:mi mathvariant="normal">G</mml:mi>
+							<mml:mi mathvariant="normal">e</mml:mi>
+							<mml:mi mathvariant="normal">r</mml:mi>
+							<mml:mi mathvariant="normal">m</mml:mi>
+							<mml:mi mathvariant="normal">i</mml:mi>
+							<mml:mi mathvariant="normal">n</mml:mi>
+							<mml:mi mathvariant="normal">a</mml:mi>
+							<mml:mi mathvariant="normal">c</mml:mi>
+							<mml:mi mathvariant="normal">i</mml:mi>
+							<mml:mi mathvariant="normal">ó</mml:mi>
+							<mml:mi mathvariant="normal">n</mml:mi>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mo>(</mml:mo>
+							<mml:mi mathvariant="normal">%</mml:mi>
+							<mml:mo>)</mml:mo>
+							<mml:mi> </mml:mi>
+							<mml:mo>=</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:mfenced separators="|">
+										<mml:mrow>
+											<mml:mi>A</mml:mi>
+											<mml:mo>-</mml:mo>
+											<mml:mi>B</mml:mi>
+										</mml:mrow>
+									</mml:mfenced>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mi>A</mml:mi>
+								</mml:mrow>
+							</mml:mfrac>
+							<mml:mi>*</mml:mi>
+							<mml:mn>100</mml:mn>
+						</mml:math>
+						<label>(2)</label>
+					</disp-formula>
+				</p>
+				<p>Donde:</p>
+				<p>A= número total de semillas empleadas.</p>
+				<p>B= número de semillas germinadas.</p>
+			</sec>
+			<sec>
+				<title>Inducción de brotes</title>
+				<p>Después de 90 días de crecimiento, las vitro plántulas obtenidas se emplearon como material vegetal para la inducción de brotes. Para ello, se evaluaron explantes de cotiledón, hipocótilo y tallo, los cuales se establecieron en medio MS al 100 % de sales, suplementado con 30 g/L de sacarosa, 2.5 g/L de fitagel, con los reguladores de crecimiento ácido naftalenacético (ANA), bencilaminopurina (BAP) y ácido 2,4-diclorofenoxiacético (2,4-D) a concentraciones de 0 y 2 mg/L (<xref ref-type="table" rid="t1">Tabla 1</xref>), el pH se ajustó a 5.7 y finalmente se incubaron en cámara bioclimática a una temperatura de 23±2 °C, con un fotoperiodo de 16 h a una intensidad lumínica de 35 µmol m<sup>2</sup>s<sup>-1</sup>. Cada unidad experimental contenía 4 explantes y cada tratamiento se realizó por triplicado. En el tratamiento control, los explantes se cultivaron en medio MS sin reguladores de crecimiento vegetal. Después de 60 días de incubación, la variable de respuesta evaluada fue el número de brotes por explante. </p>
+				<p>
+					<table-wrap-group id="t1">
+	<table-wrap xml:lang="es">
+						<label>Tabla 1</label>
+						<caption>
+							<title>Combinación de reguladores de crecimiento vegetal para la inducción de brotes en explantes de <italic>Hylocereus undatus</italic>.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 1:</label>
+		<caption>
+			<title>Combination of plant growth regulators for shoot induction in <italic>Hylocereus undatus</italic> explants.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;" rowspan="2">Tratamiento</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 240px; background-color: #e6e7e8;" colspan="3">Regulador    de crecimiento (mg/L)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">ANA</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">BAP</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">2,4-D</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">T8</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">2</td>
+  </tr>
+</tbody>
+</table>
+
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Aclimatación de plántulas</title>
+				<p>Después de 60 días, los brotes obtenidos fueron subcultivados en frascos de cultivo con medio MS al 50% de sales, suplementado con 30 g/L de sacarosa y 2.5 g/L de fitagel. Se incubaron en una cámara bioclimática a una temperatura de 23±2 °C, con un fotoperiodo de 16 h a una intensidad lumínica de 35 µmol m<sup>2</sup>s<sup>-1</sup>. Después de 30 días de incubación, las plántulas completamente enraizadas fueron retiradas de los frascos y se lavaron con agua corriente del grifo, eliminando el medio de cultivo adherido a las raíces. Posteriormente, las plántulas fueron sumergidas en una solución de Captan y Agrimycin® al 2 % (p/v), durante 10 min con agitación constante como método preventivo contra microorganismos (<xref ref-type="bibr" rid="B24">Santiz et al., 2012</xref>; <xref ref-type="bibr" rid="B26">Valencia-Botín et al., 2013</xref>). Posteriormente, las plántulas fueron sembradas en recipientes de polietileno de 500 mL que contenían Perlita y Peat moss®, en una relación de 2:1 respectivamente, como sustrato. A los recipientes se les colocó una cubierta de polietileno de 1000 mL, para evitar la pérdida de humedad por evaporación. Las plántulas se mantuvieron en invernadero al 50 % de iluminación con malla sombra, se mantuvo una humedad relativa mayor al 75 % y una temperatura de 26.5 ±3 °C. Las cubiertas de polietileno fueron retiradas después de 15 días. Se aplicaron 50 mL de agua destilada por planta cada semana. Después de 30 días de crecimiento se evaluó el porcentaje de supervivencia.</p>
+			</sec>
+			<sec>
+				<title>Diseño experimental y análisis estadístico</title>
+				<p>Los experimentos se llevaron a cabo bajo un diseño experimental multifactorial con tres repeticiones por cada unidad experimental. En donde, los factores evaluados fueron los reguladores de crecimiento, ácido naftalenacético (ANA), bencilaminopurina (BAP) y ácido 2,4-diclorofenoxiacético (2,4-D) y los niveles empleados fueron las concentraciones de 0 y 2 mg/L. Se realizó un ANOVA simple para determinar los efectos de las interacciones entre los niveles de los factores y un ANOVA multifactorial para establecer el efecto de cada factor y cada nivel. Las medias se compararon mediante la prueba Tukey (<italic>p</italic>≤0.05) con la ayuda del software estadístico Statgraphics Centurion versión XVII.</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>Resultados y discusión</title>
+			<sec>
+				<title>Desinfección de semillas</title>
+				<p>Con respecto a la desinfección de semillas, los protocolos 2, 3 y 4 lograron mantener el 100 % de asepsia en el medio de cultivo, en contraste con el protocolo 1, donde se alcanzó 81.48 % de desinfección (<xref ref-type="table" rid="t2">Tabla 2</xref>). Sin embargo, este porcentaje de desinfección sigue siendo efectivo, lo cual podría deberse a la facilidad con que las soluciones desinfectantes pueden alcanzar toda la superficie de la semilla, dado su superficie lisa y sin poros. Estos resultados concuerdan con los reportados por <xref ref-type="bibr" rid="B8">Kasim et al. (2016)</xref>, quienes evaluaron el efecto del potencial del medio MS y la concentración de la solución desinfectante de NaClO sobre el porcentaje de desinfección y germinación, en donde obtuvieron el 99 % de germinación con una solución al 5.25 % de NaClO. Se ha reportado que el uso de lejía doméstica o cloro comercial local que contenga un 3.5 % (p/v) de hipoclorito de sodio sobre la desinfección de explantes, es uno de los métodos más simples, eficaces y económicos. De acuerdo con <xref ref-type="bibr" rid="B18">Oyebanji et al. (2009)</xref>, una solución de NaClO al 3.5 % (p/v) es eficaz como esterilizante sobre la superficie de semillas de <italic>Oryza sativa</italic> y <italic>Sorghum bicolor</italic>, produciendo el mayor porcentaje de desinfección bacteriana y fúngica del 100 % durante una exposición de 20 a 45 min. </p>
+				<p>
+					<table-wrap-group id="t2">
+	<table-wrap xml:lang="es">
+						<label>Tabla 2</label>
+						<caption>
+							<title>Efecto del protocolo de desinfección sobre la germinación de semillas de <italic>Hylocereus undatus</italic>.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 2:</label>
+		<caption>
+			<title>Effect of the disinfection protocol on <italic>Hylocereus undatus</italic> seeds germination.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px; background-color: #e6e7e8;" colspan="2">Protocolo    de desinfección</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;">Desinfección    (%)</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;">Germinación    (%)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">T1</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Etanol    70 % (v/v) por 10 min</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">81.48    ± 19.34 b</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">29.4    ±4.6 c</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">T2</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">NaClO    al 50 % (p/v) por 10 min</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">100±    0.0 a</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">85.0    ±4.0 a</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">T3</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Etanol    70 % (v/v) por 5 min + NaClO al 50% (p/v) por 10 min</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">100±    0.0 a</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">37.2    ±3.2 c</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">T4</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">NaClO    al 50 % (p/v) por 15 min</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">100±    0.0 a</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">66.7    ±3.6 b</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">DMS</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">10.68</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3.32</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p>Las letras diferentes indican diferencias estadísticamente significativas entre cada uno de los tratamientos (<italic>p</italic> ≤ 0.05). Different letters indicate statistically significant differences between each treatment (<italic>p</italic> ≤ 0.05).</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Germinación de semillas</title>
+				<p>Después de 14 días de la desinfección de las semillas y el establecimiento en el medio de cultivo, el mayor porcentaje de germinación fue de 85.0 % (<italic>p</italic>≤0.05) cuando las semillas se trataron con NaClO durante 10 min (protocolo 2), el cual tuvo diferencia estadísticamente significativa con respecto a los demás tratamientos, mientras que las semillas tratadas con etanol al 70 % durante 10 min (protocolo 1) presentaron un 29.6 % de germinación (<xref ref-type="table" rid="t2">Tabla 2</xref>). Estos resultados son similares a los obtenidos por <xref ref-type="bibr" rid="B8">Kasim et al. (2016)</xref>, quienes obtuvieron un 99 % de germinación en semillas de <italic>Hylocereus polyrhizus</italic> después de dos semanas posteriores a la desinfección utilizando una solución al 0.788 % de NaClO durante 15 min. Por otra parte, se observó que los protocolos en donde se empleó exclusivamente NaClO al 50 % (v/v), disminuyó el porcentaje de germinación del 85.2 % (protocolo 2) hasta el 66.7 % (protocolo 4) a medida que aumentaba el tiempo de inmersión de las semillas, durante 10 y 15 minutos de inmersión, respectivamente. Este efecto negativo en la germinación por el incremento del tiempo de exposición, de acuerdo con <xref ref-type="bibr" rid="B18">Oyebanji et al. (2009)</xref> puede ser ocasionado por el NaClO que es un agente oxidante fuerte y su acción puede resultar tóxica para las semillas si se les expone por un período prolongado. A medida que aumenta el tiempo de inmersión en NaClO, la concentración de cloro activo en contacto con la semilla aumenta, lo que puede dañar las membranas celulares, el tejido interno de la semilla o las estructuras germinativas como el embrión, reduciendo su viabilidad y capacidad de germinar. En cuanto al protocolo 3, en el cual empleó etanol al 70 % (v/v) así como NaClO al 50 % (v/v), se obtuvo un porcentaje de germinación del 37 %. Estos resultados son correspondientes a los obtenidos por <xref ref-type="bibr" rid="B25">Sheng et al. (2016)</xref>, quienes evaluaron un protocolo de desinfección que consistía en el empleo de dos soluciones desinfectantes (etanol al 70 %, Clorox® al 1 % y Tween 20) en semillas de <italic>Hylocereus costaricensis</italic>. </p>
+				<p>De acuerdo con <xref ref-type="bibr" rid="B20">Quiala et al. (2009)</xref>, las semillas de <italic>Hylocereus undatus</italic> al ser de tamaño pequeño (≈ 2 mm y ≈0.003 g en masa fresca) con una textura dura y plana, limitan la superficie de adherencia de los microorganismos y por otra parte facilita el buen contacto en la testa y la desinfección. Durante la formación de las semillas, los embriones y los tejidos asociados tienden a excluir patógenos y materiales extraños que pueden estar en la planta madre a través de la migración pasiva. Por lo tanto, las semillas de frutos libres de insectos y enfermedades, permiten el fácil establecimiento de plantas asépticas, que pueden servir como material experimental (<xref ref-type="bibr" rid="B13">Mineo, 1990</xref>). Por ello, es importante el empleo de semillas como material vegetal ya que al germinar bajo condiciones <italic>in vitro</italic> permiten la inducción de callos, la regeneración de múltiples brotes y otros procesos morfogénicos importantes en la producción de metabolitos (<xref ref-type="bibr" rid="B9">Kasim et al., 2019</xref>; <xref ref-type="bibr" rid="B22">Reyes-Martínez et al., 2019</xref>). Por otro lado, el requerimiento de nutrientes no se considera esencial durante la germinación, por lo que la concentración de sales en el medio MS puede reducirse para incrementar la germinación de las semillas y evitar problemas de hiperhidricidad. Los resultados obtenidos en la germinación de las semillas <italic>Hylocereus undatus</italic> son correspondientes a lo reportado utilizando el medio MS al 50 % de sales en especies como <italic>Hylocereus polyrhizus (</italic><xref ref-type="bibr" rid="B8">Kasim <italic>et al</italic>., 2016</xref>) e <italic>Hylocereus costaricensis</italic> (<xref ref-type="bibr" rid="B10">Mahmod et al., 2021</xref>). </p>
+			</sec>
+			<sec>
+				<title><bold>Inducción de brotes en <italic>
+ <italic>Hylocereus undatus</italic>
+</italic> 
+</bold></title>
+				<p>Después de 60 días, los explantes de tallos indujeron el mayor número brotes (15.11) cuando se empleó 2 mg/L de BAP mostrando diferencia estadística significativa (<italic>p</italic>≤0.05) comparado con los demás tratamientos (<xref ref-type="fig" rid="f1">Figura 1C</xref>). De igual forma, los explantes de tallos presentaron la formación de brotes cuando se empleó la combinación de ANA y BAP a 2 mg/L (<xref ref-type="fig" rid="f1">Figura 1D</xref>), pero el número de brotes se redujo cuando se empleó únicamente 2 mg/L de ANA (<xref ref-type="fig" rid="f1">Figura 1B</xref>). Mientras que los explantes de cotiledón indujeron brotes únicamente cuando se empleó 2 mg/L de ANA (<xref ref-type="fig" rid="f1">Figura 1A</xref>). Finalmente, los explantes de hipocótilos no indujeron brotes en ninguno de los tratamientos evaluados y el empleo de 2,4-D no mostró respuesta en la regeneración de brotes en ningún tipo de explante (<xref ref-type="table" rid="t3">Tabla 3</xref>). Estos resultados son correspondientes a lo reportado en especies de cactáceas como <italic>Opuntia ficus-indica</italic> donde el balance auxina-citoquinina juega un papel importante en la inducción de brotes mediante organogénesis directa (<xref ref-type="bibr" rid="B1">Bougdaoua y El Mtili, 2020</xref>), así como el empleo de ANA y BAP para incrementar la inducción de brotes en cactáceas (<xref ref-type="bibr" rid="B23">Rodríguez y Ramírez-Pantoja, 2020</xref>). Finalmente, también se ha reportado el incremento en la inducción de brotes en cactáceas cuando se emplea únicamente BAP a concentraciones elevadas (<xref ref-type="bibr" rid="B4">El Finti et al., 2010</xref>), lo que corrobora los resultados obtenidos en <italic>Hylocereus undatus</italic>, donde la adición de BAP también mostró una eficacia significativamente mayor en la regeneración de brotes en explantes de tallo. </p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="es">
+						<label>Figura 1</label>
+						<caption>
+							<title>Efecto de los reguladores de crecimiento sobre la inducción de brotes en <italic>Hylocereus undatus</italic>. A) explante de cotiledón con 2 mg/L de ANA, B) explante de tallo con 2 mg/L de ANA, C) explante de tallo con 2 mg/L de BAP y D) explante de tallo con 2 mg/L de ANA y BAP. Barra de escala= 3 cm.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 1:</label>
+	<caption>
+	<title>Effect of growth regulators on shoot induction in <italic>Hylocereus undatus</italic>. A) cotyledon explant with 2 mg/L of ANA, B) stem explant with 2 mg/L of ANA, C) stem explant with 2 mg/L of BAP and D) stem explant with 2 mg/L of ANA and BAP. Scale bar= 3 cm. </title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2366-gf1.jpg"/>
+					</fig>
+</fig-group>
+				</p>
+				<p>
+					<table-wrap-group id="t3">
+	<table-wrap xml:lang="es">
+						<label>Tabla 3</label>
+						<caption>
+							<title>Efecto de los reguladores de crecimiento vegetal sobre la inducción de brotes en explantes de cotiledón, hipocótilo y tallo de <italic>Hylocereus undatus</italic>. </title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 3:</label>
+		<caption>
+			<title>Effect of plant growth regulators on shoot induction in cotyledon, hypocotyl and stem explants of <italic>Hylocereus undatus</italic>.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;" rowspan="3"><bold>Tratamiento </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 450px; background-color: #e6e7e8;" colspan="3"><bold>Número de brotes </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" colspan="3"><bold>Tipos de explantes </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Cotiledón </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Hipocótilo </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Tallo </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T1 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T2 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.66 ±1.41 b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.33±0.70 c </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T3 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">15.11± 5.25 a </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T4 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.44± 1.81 b </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T5 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T6 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">T7 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">T8 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0 ± 0.0 d </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">DMS </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" colspan="3">0.371 </td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN2">
+								<p>Las letras diferentes indican diferencias estadísticamente significativas entre cada uno de los tratamientos (<italic>p</italic> ≤ 0.05). Different letters indicate statistically significant differences between each treatment (<italic>p</italic> ≤ 0.05).</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Aclimatación de plántulas</title>
+				<p>La aclimatación es una etapa crítica en la propagación, donde las plántulas deben adaptarse a condiciones <italic>ex vitro</italic>. En este estudio se obtuvo una tasa de supervivencia del 90 % después de 30 d iniciada la aclimatación (<xref ref-type="fig" rid="f2">Figura 2</xref>). Estos resultados son correspondientes a lo reportado por <xref ref-type="bibr" rid="B27">Viñas et al. (2012)</xref> en <italic>Hylocereus costaricensis</italic>, donde las plántulas tratadas con un régimen de aclimatación similar mostraron una tasa de supervivencia del 96 %. Esto sugiere que los métodos de aclimatación empleados, incluyendo el uso de Perlita y Peat moss® como sustrato y el tratamiento con Captan y Agrimycin®, son efectivos para asegurar la supervivencia de las plántulas en condiciones <italic>ex vitro</italic>. Además, uno de los factores importantes durante la aclimatación de especies con metabolismo CAM es la presencia endógena de auxinas lo que promueve la inducción de raíces de forma espontánea sin la adición de reguladores de crecimiento e incrementa la asimilación de nutrientes durante la aclimatación a nivel invernadero (<xref ref-type="bibr" rid="B24">Santiz et al., 2012</xref>). </p>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="es">
+						<label>Figura 2</label>
+						<caption>
+							<title>Plántulas de <italic>Hylocereus undatus</italic> después de 30 días de aclimatación a nivel invernadero. </title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 2:</label>
+	<caption>
+	<title><italic>Hylocereus undatus</italic> plants after 30 days of acclimatization in a greenhouse.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2366-gf2.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>El empleo de NaClO al 50 % (v/v) durante 10 min incrementó el porcentaje de desinfección y germinacion de semillas de <italic>Hylocereus undatus</italic>, lo que permitió el establecimiento de cultivos asépticos para la propagación <italic>in vitro</italic>. Así mismo, los tallos <italic>Hylocereus undatus</italic> mostraron la mejor respuesta en la regeneración de brotes, ya que, con la adición de reguladores de crecimiento, especialmente BAP a 2 mg/L, incremento la formación de brotes, por el contrario, el 2,4-D no fue relevante en la inducción de brotes en esta especie. Finalmente, el proceso de aclimatación desarrollado, demostró ser eficaz, con una tasa de supervivencia del 90 % en condiciones <italic>ex vitro</italic> a nivel invernadero. La implementación de la propagación <italic>in vitro</italic> tiene el potencial de satisfacer la creciente demanda de la pitahaya en el mercado global y la conservación del material fitogenético de esta especie, contribuyendo al desarrollo económico de los países productores.</p>
+		</sec>
+		<sec>
+			<title>Conflicto de intereses</title>
+			<p>Los autores de este trabajo declaran no tener ningún conflicto de interés.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>Los autores agradecen al Consejo Nacional de Humanidades, Ciencias y Tecnologías (CONAHCYT) por otorgamiento de la beca de maestría a EJSG para realizar esta investigación. También agradecemos al Tecnológico Nacional de México por brindar el apoyo financiero del proyecto con la clave 17547.23-P.</p>
+		</ack>
+		<ref-list>
+			<title>Referencias </title>
+			<ref id="B1">
+				<mixed-citation>Bougdaoua, H. y El Mtili, N. 2020. <italic>In vitro</italic> regeneration of two northern Moroccan <italic>Opuntia ficus-indica</italic> (L.) Mill. genotypes. Moroccan Journal Biology. 17, 36-42.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bougdaoua</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>El Mtili</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>In vitro regeneration of two northern Moroccan Opuntia ficus-indica (L.) Mill. genotypes</article-title>
+					<source>Moroccan Journal Biology</source>
+					<volume>17</volume>
+					<fpage>36</fpage>
+					<lpage>42</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Calaña-Janeiro, V.M., Izquierdo-Oviedo, H., González-Cepero, M.C., Rodríguez-Llanes, Y., Rodríguez-Hernández, M. y Horta-Fernández, D. 2019. Desinfección de semillas de pimiento (<italic>Capsicum annuum</italic> L.) cultivar ‘YAMIL’ para su implantación <italic>in vitro</italic>. <italic>Cultivos Tropicales</italic>, <italic>40</italic>(3).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calaña-Janeiro</surname>
+							<given-names>V.M.</given-names>
+						</name>
+						<name>
+							<surname>Izquierdo-Oviedo</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>González-Cepero</surname>
+							<given-names>M.C.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Llanes</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Hernández</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Horta-Fernández</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Desinfección de semillas de pimiento (Capsicum annuum L.) cultivar ‘YAMIL’ para su implantación in vitro</article-title>
+					<source>Cultivos Tropicales</source>
+					<volume>40</volume>
+					<issue>3</issue>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Cálix, R., Castillo, R., Rodriguez, A. y Castañeda, R. 2005. El cultivo de la pitahaya en el trópico. Instituto para el Desarrollo de Sistemas de Producción, 50-58.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cálix</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Castillo</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Rodriguez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Castañeda</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<source>El cultivo de la pitahaya en el trópico</source>
+					<publisher-name>Instituto para el Desarrollo de Sistemas de Producción</publisher-name>
+					<fpage>50</fpage>
+					<lpage>58</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>El Finti, A., El Boullani, R., Belayadi, M., Ait Aabd, N. y El Mousadik, A. 2010. Micropropagation <italic>in vitro</italic> of <italic>Opuntia ficus-indica</italic> in Southern Morocco. International Journal of Chemical and Biochemical Sciences. 995, 93-98</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>El Finti</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>El Boullani</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Belayadi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ait Aabd</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>El Mousadik</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Micropropagation in vitro of Opuntia ficus-indica in Southern Morocco</article-title>
+					<source>International Journal of Chemical and Biochemical Sciences</source>
+					<volume>995</volume>
+					<fpage>93</fpage>
+					<lpage>98</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Esquivel, P. y Araya-Quesada, Y. 2012. Características del fruto de la pitahaya (<italic>Hylocereus sp</italic>.) y su pontecial uso en la industria alimentaria. Revista Venezolana de Ciencia y Tecnologia de Alimentos 3 (1): 113-129.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Esquivel</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Araya-Quesada</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Características del fruto de la pitahaya (Hylocereus sp.) y su pontecial uso en la industria alimentaria</article-title>
+					<source>Revista Venezolana de Ciencia y Tecnologia de Alimentos</source>
+					<volume>3</volume>
+					<issue>1</issue>
+					<fpage>113</fpage>
+					<lpage>129</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Hailu, A., Sbhatu, D.B. y Abraha, H.B. 2020. <italic>In vitro</italic> micropropagation of industrially and medicinally useful plant <italic>Aloe trichosantha</italic> berger using offshoot cuttings. The Scientific World Journal. 3947162. https://doi.org/10.1155/2020/3947162.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hailu</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Sbhatu</surname>
+							<given-names>D.B.</given-names>
+						</name>
+						<name>
+							<surname>Abraha</surname>
+							<given-names>H.B</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>In vitro micropropagation of industrially and medicinally useful plant Aloe trichosantha berger using offshoot cuttings</article-title>
+					<source>The Scientific World Journal</source>
+					<issue-part>3947162</issue-part>
+					<pub-id pub-id-type="doi">10.1155/2020/3947162</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Ibrahim, S.R.M., Mohamed, G.A., Khedr, A.I.M., Zayed, M.F. y El‐Kholy, A.A.E.S. 2018. Genus hylocereus: beneficial phytochemicals, nutritional importance, and biological relevance-A review. Journal of Food Biochemistry, 42(2), e12491.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ibrahim</surname>
+							<given-names>S.R.M.</given-names>
+						</name>
+						<name>
+							<surname>Mohamed</surname>
+							<given-names>G.A.</given-names>
+						</name>
+						<name>
+							<surname>Khedr</surname>
+							<given-names>A.I.M.</given-names>
+						</name>
+						<name>
+							<surname>Zayed</surname>
+							<given-names>M.F.</given-names>
+						</name>
+						<name>
+							<surname>El‐Kholy</surname>
+							<given-names>A.A.E.S</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Genus hylocereus: beneficial phytochemicals, nutritional importance, and biological relevance-A review</article-title>
+					<source>Journal of Food Biochemistry</source>
+					<volume>42</volume>
+					<issue>2</issue>
+					<elocation-id>e12491</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Kasim, H., Yusran, Y. y Basri, Z. 2016. The strength of MS media and sterilization technique on red dragonfruit (<italic>Hylocereus polyrhizus</italic>) seed germination. Agroland The Agricultural Sciences Journal (e-Journal), 2(1).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kasim</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Yusran</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Basri</surname>
+							<given-names>Z</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>The strength of MS media and sterilization technique on red dragonfruit (Hylocereus polyrhizus) seed germination</article-title>
+					<source>Agroland The Agricultural Sciences Journal (e-Journal)</source>
+					<volume>2</volume>
+					<issue>1</issue>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Kasim, D.P., Kishore, N.S., Suneetha, P., Rao, K.B., Kumar, M.N. y Krishna, M.S.R., 2019. Multiple shoot regeneration in seed-derived immature leaflet explants of red dragon fruit (<italic>Hylocereus costaricensis</italic>). Res. J. Pharm. Technol. 12 (4), 1491-1494.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kasim</surname>
+							<given-names>D.P.</given-names>
+						</name>
+						<name>
+							<surname>Kishore</surname>
+							<given-names>N.S.</given-names>
+						</name>
+						<name>
+							<surname>Suneetha</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Rao</surname>
+							<given-names>K.B.</given-names>
+						</name>
+						<name>
+							<surname>Kumar</surname>
+							<given-names>M.N.</given-names>
+						</name>
+						<name>
+							<surname>Krishna</surname>
+							<given-names>M.S.R</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Multiple shoot regeneration in seed-derived immature leaflet explants of red dragon fruit (Hylocereus costaricensis)</article-title>
+					<source>Res. J. Pharm. Technol</source>
+					<volume>12</volume>
+					<issue>4</issue>
+					<fpage>1491</fpage>
+					<lpage>1494</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Mahmod, N.H., Lema, A.A., Kamarudin, S.F., &amp;Shari, N., Abdullah, T.A. y Dogara, A.M. 2021. Effect of plant growth regulators, basal media strength and carbon sources on <italic>Hylocereus Costaricensis</italic> (Red Dragon Fruit) seed germination. Eurasian Journal of Science and Engineering, 7(2), 149-162.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mahmod</surname>
+							<given-names>N.H.</given-names>
+						</name>
+						<name>
+							<surname>Lema</surname>
+							<given-names>A.A.</given-names>
+						</name>
+						<name>
+							<surname>Kamarudin</surname>
+							<given-names>S.F.</given-names>
+						</name>
+						<name>
+							<surname>&amp;Shari</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Abdullah</surname>
+							<given-names>T.A.</given-names>
+						</name>
+						<name>
+							<surname>Dogara</surname>
+							<given-names>A.M</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Effect of plant growth regulators, basal media strength and carbon sources on Hylocereus Costaricensis (Red Dragon Fruit) seed germination</article-title>
+					<source>Eurasian Journal of Science and Engineering</source>
+					<volume>7</volume>
+					<issue>2</issue>
+					<fpage>149</fpage>
+					<lpage>162</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Mc Caughey-Espinoza, D.M., Ayala-Astorga, G.I., Burboa-Zazueta, M.G., Retes-López, R. y Ochoa-Meza, A. 2018. Uso de plantas nativas para la rehabilitación de canteras en Sonora. <italic>Idesia (Arica)</italic>, <italic>36</italic>(4), 17-24.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mc Caughey-Espinoza</surname>
+							<given-names>D.M.</given-names>
+						</name>
+						<name>
+							<surname>Ayala-Astorga</surname>
+							<given-names>G.I.</given-names>
+						</name>
+						<name>
+							<surname>Burboa-Zazueta</surname>
+							<given-names>M.G.</given-names>
+						</name>
+						<name>
+							<surname>Retes-López</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Ochoa-Meza</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Uso de plantas nativas para la rehabilitación de canteras en Sonora</article-title>
+					<source>Idesia (Arica)</source>
+					<volume>36</volume>
+					<issue>4</issue>
+					<fpage>17</fpage>
+					<lpage>24</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Mc Caughey Espinoza, D.M., Reyes Olivas, Á., Ayala Astorga, G.I., Lugo García, G., Ochoa Mesa, A. y Pacheco Olvera, A. 2023. Producción y aclimatación de plántulas <italic>in vitro</italic> de <italic>Krameria erecta</italic> Willd. <italic>Idesia (Arica)</italic> , 41(3), 25-33.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mc Caughey Espinoza</surname>
+							<given-names>D.M.</given-names>
+						</name>
+						<name>
+							<surname>Reyes Olivas</surname>
+							<given-names>Á.</given-names>
+						</name>
+						<name>
+							<surname>Ayala Astorga</surname>
+							<given-names>G.I.</given-names>
+						</name>
+						<name>
+							<surname>Lugo García</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Ochoa Mesa</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Pacheco Olvera</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Producción y aclimatación de plántulas in vitro de Krameria erecta Willd</article-title>
+					<source>Idesia (Arica)</source>
+					<volume>41</volume>
+					<issue>3</issue>
+					<fpage>25</fpage>
+					<lpage>33</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Mineo, L. 1990. Plant tissue culture techniques. Tested Studies For Laboratory Teaching, 11, 151-174.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mineo</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>1990</year>
+					<article-title>Plant tissue culture techniques</article-title>
+					<source>Tested Studies For Laboratory Teaching</source>
+					<volume>11</volume>
+					<fpage>151</fpage>
+					<lpage>174</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Morales-Castillo, G.P. 2021. Reino Unido post-Brexit, oportunidades para exportaciones no tradicionales centrado en frutos exóticos con valor agregado, snacks saludables. Revista Científica Retos De La Ciencia, 5(12), 124-138.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Morales-Castillo</surname>
+							<given-names>G.P</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Reino Unido post-Brexit, oportunidades para exportaciones no tradicionales centrado en frutos exóticos con valor agregado, snacks saludables</article-title>
+					<source>Revista Científica Retos De La Ciencia</source>
+					<volume>5</volume>
+					<issue>12</issue>
+					<fpage>124</fpage>
+					<lpage>138</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Muñíz, R. 2018. La propagación <italic>in vitro</italic> de plantas con Sistemas de Inmersión Temporal. Una Tecnología Apropiada para la agricultura sustentable. <italic>Tekhné</italic>, <italic>21</italic>(3).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muñíz</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>La propagación in vitro de plantas con Sistemas de Inmersión Temporal. Una Tecnología Apropiada para la agricultura sustentable</article-title>
+					<source>Tekhné</source>
+					<volume>21</volume>
+					<issue>3</issue>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Muñoz-Castellanos, L.N., Borrego-Loya, A., Villalba-Bejarano, C.V., González-Escobedo, R., Orduño-Cruz, N., Villezcas-Villegas, G.P. y Vargas-Arispuro, I. 2021. Chlorine and its importance in the inactivation of bacteria, can it inactivate viruses?. Revista Mexicana de Fitopatología, 39(SPE), 198-206.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Muñoz-Castellanos</surname>
+							<given-names>L.N.</given-names>
+						</name>
+						<name>
+							<surname>Borrego-Loya</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Villalba-Bejarano</surname>
+							<given-names>C.V.</given-names>
+						</name>
+						<name>
+							<surname>González-Escobedo</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Orduño-Cruz</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Villezcas-Villegas</surname>
+							<given-names>G.P.</given-names>
+						</name>
+						<name>
+							<surname>Vargas-Arispuro</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Chlorine and its importance in the inactivation of bacteria, can it inactivate viruses?</article-title>
+					<source>Revista Mexicana de Fitopatología</source>
+					<volume>39</volume>
+					<issue>SPE</issue>
+					<fpage>198</fpage>
+					<lpage>206</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Murashige, T. y Skoog, F. 1962. A revised medium for rapid growth and bioassays with tobacco tissue cultures. Physiology Plant 15: 473-497.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Murashige</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Skoog</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>1962</year>
+					<article-title>A revised medium for rapid growth and bioassays with tobacco tissue cultures</article-title>
+					<source>Physiology Plant</source>
+					<volume>15</volume>
+					<fpage>473</fpage>
+					<lpage>497</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Oyebanji, O.B., Nweke O., Odebunmi O., Galadima N.B., Idris M.S., Nnodi U.N., Afolabi A.S. y Ogbadu G.H., 2009. Simple, effective and economical explant-surface sterilization protocol for cowpea, rice and sorghum seeds. African Journal of Biotechnology. Vol. 8 (20), pp. 5395-5399.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Oyebanji</surname>
+							<given-names>O.B</given-names>
+						</name>
+						<name>
+							<surname>Nweke</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Odebunmi</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Galadima</surname>
+							<given-names>N.B</given-names>
+						</name>
+						<name>
+							<surname>Idris</surname>
+							<given-names>M.S</given-names>
+						</name>
+						<name>
+							<surname>Nnodi</surname>
+							<given-names>U.N</given-names>
+						</name>
+						<name>
+							<surname>Afolabi</surname>
+							<given-names>A.S</given-names>
+						</name>
+						<name>
+							<surname>Ogbadu</surname>
+							<given-names>G.H</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Simple, effective and economical explant-surface sterilization protocol for cowpea, rice and sorghum seeds</article-title>
+					<source>African Journal of Biotechnology</source>
+					<volume>8</volume>
+					<issue>20</issue>
+					<fpage>5395</fpage>
+					<lpage>5539</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Ortiz-Hernández, Y.D. y Carrillo-Salazar J.A. 2012. Pitahaya (<italic>Hylocereus spp.</italic>): A short Review. Comunicata Scientiae 3 (4): 200-237.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ortiz-Hernández</surname>
+							<given-names>Y.D</given-names>
+						</name>
+						<name>
+							<surname>Carrillo-Salazar</surname>
+							<given-names>J.A</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Pitahaya (Hylocereus spp.): A short Review</article-title>
+					<source>Comunicata Scientiae</source>
+					<volume>3</volume>
+					<issue>4</issue>
+					<fpage>200</fpage>
+					<lpage>237</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Quiala, E., Matos, J., Montalvo, G., de Feria, M., Chávez, M., Capote, A., Pérez, N., Barbón, R. y Kowalski, B. 2009. <italic>In vitro</italic> propagation of <italic>Pilosocereus robinii</italic> (Lemaire)Byles et Rowley, endemic and endangered cactus. J. Prof. Assoc. Cactus Dev. 11,18-25.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Quiala</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Matos</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Montalvo</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>de Feria</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Chávez</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Capote</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Pérez</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Barbón</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Kowalski</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>In vitro propagation of Pilosocereus robinii (Lemaire)Byles et Rowley, endemic and endangered cactus</article-title>
+					<source>J. Prof. Assoc. Cactus Dev</source>
+					<volume>11</volume>
+					<fpage>18</fpage>
+					<lpage>25</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Ramírez-Delgadillo, J.J., Rodríguez-Leyva, E., Livera-Muñoz, M., Pedroza-Sandoval, A., Bautista-Martínez, N. y Nava-Díaz, C. 2011. First report of <italic>cactophagus spinolae</italic> (gyllenhal) (coleoptera: curculionidae) on three species of hylocereus (cactaceae) in Morelos, Mexico. Acta Zoológica Mexicana (N.S.), 27(3), 863-86.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ramírez-Delgadillo</surname>
+							<given-names>J.J.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Leyva</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Livera-Muñoz</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Pedroza-Sandoval</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Bautista-Martínez</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Nava-Díaz</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>First report of cactophagus spinolae (gyllenhal) (coleoptera: curculionidae) on three species of hylocereus (cactaceae) in Morelos, Mexico</article-title>
+					<source>Acta Zoológica Mexicana (N.S.)</source>
+					<volume>27</volume>
+					<issue>3</issue>
+					<fpage>863</fpage>
+					<lpage>886</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Reyes-Martínez, A., Antunes-Ricardo, M., Gutiérrez-Uribe, J. y Santos-Díaz, M.D.S. 2019. Enhanced production and identification of antioxidants in <italic>in vitro</italic> cultures of the cacti <italic>mammillaria candida</italic> and <italic>Turbinicarpus laui</italic>. Appl. Microbiol. Biotechnol. 103 (6),2583-2595.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Reyes-Martínez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Antunes-Ricardo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez-Uribe</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Santos-Díaz</surname>
+							<given-names>M.D.S</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Enhanced production and identification of antioxidants in in vitro cultures of the cacti mammillaria candida and Turbinicarpus laui</article-title>
+					<source>Appl. Microbiol. Biotechnol</source>
+					<volume>103</volume>
+					<issue>6</issue>
+					<fpage>2583</fpage>
+					<lpage>2595</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Rodríguez, O.J.L. y Ramirez-Pantoja, P.E. 2020. Micropropagation of selected materials of <italic>Opuntia ficus indica</italic> L through culture <italic>in vitro</italic> of areola. Journal of Applied Biotechnology &amp; Bioengineering. 7, 121-126.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodríguez</surname>
+							<given-names>O.J.L.</given-names>
+						</name>
+						<name>
+							<surname>Ramirez-Pantoja</surname>
+							<given-names>P.E</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Micropropagation of selected materials of Opuntia ficus indica L through culture in vitro of areola</article-title>
+					<source>Journal of Applied Biotechnology &amp; Bioengineering</source>
+					<volume>7</volume>
+					<fpage>121</fpage>
+					<lpage>126</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Santíz, J.A., Rincón-Rosales, R. y Gutiérrez-Miceli, F.A. 2012. Propagación <italic>in vitro</italic> de <italic>Agave grijalvensis</italic> B. Ullrich, una especie endémica de Chiapas bajo protección especial. Gayana Botánica, 69, 23-30.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santíz</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Rincón-Rosales</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez-Miceli</surname>
+							<given-names>F.A</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Propagación in vitro de Agave grijalvensis B. Ullrich, una especie endémica de Chiapas bajo protección especial</article-title>
+					<source>Gayana Botánica</source>
+					<volume>69</volume>
+					<fpage>23</fpage>
+					<lpage>30</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Sheng, W.K.W., Sundarasekar, J., Sathasivam, K. y Subramaniam, S. 2016. Effects of plant growth regulators on seed germination and callus induction of <italic>Hylocereus costaricensis</italic>. Pakistan Journal of Botany 48 (3), 977-982.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sheng</surname>
+							<given-names>W.K.W.</given-names>
+						</name>
+						<name>
+							<surname>Sundarasekar</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Sathasivam</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Subramaniam</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Effects of plant growth regulators on seed germination and callus induction of Hylocereus costaricensis</article-title>
+					<source>Pakistan Journal of Botany</source>
+					<volume>48</volume>
+					<issue>3</issue>
+					<fpage>977</fpage>
+					<lpage>982</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Valencia-Botín, A.J., Kokubu, H. y Ortíz-Hernández, Y.D. 2013. A brief overview on pitahaya (<italic>Hylocereus spp</italic>.) diseases. Australasian Plant Pathology, <italic>42</italic>, 437-440.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Valencia-Botín</surname>
+							<given-names>A.J.</given-names>
+						</name>
+						<name>
+							<surname>Kokubu</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Ortíz-Hernández</surname>
+							<given-names>Y.D</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>A brief overview on pitahaya (Hylocereus spp.) diseases</article-title>
+					<source>Australasian Plant Pathology</source>
+					<volume>42</volume>
+					<fpage>437</fpage>
+					<lpage>440</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Viñas, M., Fernández-Brenes, M., Azofeifa, A. y Jiménez, V.M. 2012. <italic>In vitro</italic> propagation of purple pitahaya <italic>(Hylocereus costaricensis</italic> [F.A.C. Weber] Britton &amp; Rose) cv. <italic>Cebra</italic>. <italic>In Vitro</italic> Cellular &amp; Developmental Biology - Plant, <italic>48</italic>(5), 469-477.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Viñas</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Fernández-Brenes</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Azofeifa</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Jiménez</surname>
+							<given-names>V.M</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>In vitro propagation of purple pitahaya (Hylocereus costaricensis [F.A.C. Weber] Britton &amp; Rose) cv. Cebra</article-title>
+					<source>In Vitro Cellular &amp; Developmental Biology - Plant</source>
+					<volume>48</volume>
+					<issue>5</issue>
+					<fpage>469</fpage>
+					<lpage>477</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Winson, K.W.S., Chew, B.L., Sathasivam, K. y Subramaniam, S. 2020. The establishment of callus and cell suspension cultures of <italic>Hylocereus costaricensis</italic> for the production of betalain pigments with antioxidant potential. Industrial Crops and Products, <italic>155</italic>, 112750.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Winson</surname>
+							<given-names>K.W.S.</given-names>
+						</name>
+						<name>
+							<surname>Chew</surname>
+							<given-names>B.L.</given-names>
+						</name>
+						<name>
+							<surname>Sathasivam</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Subramaniam</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>The establishment of callus and cell suspension cultures of Hylocereus costaricensis for the production of betalain pigments with antioxidant potential</article-title>
+					<source>Industrial Crops and Products</source>
+					<volume>155</volume>
+					<issue-part>112750</issue-part>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

@@ -175,14 +175,14 @@
 <body>
 
     <div class="container">
-        <h1>Transformar Word a XML (JATS)</h1>
-        <p class="subtitle">Sube tu documento Word (.docx) y obtén el XML JATS estructurado</p>
+        <h1>Transformar Documentos a XML (JATS)</h1>
+        <p class="subtitle">Sube tu documento Word (.docx) o PDF (.pdf) y obtén el XML JATS estructurado</p>
 
         <form id="uploadForm">
             <div class="upload-area" id="dropArea">
                 <span class="upload-icon">📝</span>
-                <p id="fileName">Arrastra tu archivo Word aquí o haz clic para seleccionar</p>
-                <input type="file" id="fileInput" class="file-input" accept=".docx, application/vnd.openxmlformats-officedocument.wordprocessingml.document">
+                <p id="fileName">Arrastra tu archivo Word o PDF aquí o haz clic para seleccionar</p>
+                <input type="file" id="fileInput" class="file-input" accept=".docx, .pdf, application/pdf, application/vnd.openxmlformats-officedocument.wordprocessingml.document">
             </div>
             
             <button type="submit" id="submitBtn" class="btn" disabled>Convertir a XML</button>
@@ -258,8 +258,8 @@
             const files = e.target.files;
             if (files.length > 0) {
                 const file = files[0];
-                if (!file.name.toLowerCase().endsWith('.docx')) {
-                    showError('Por favor selecciona un archivo de Word (.docx).');
+                if (!file.name.toLowerCase().endsWith('.docx') && !file.name.toLowerCase().endsWith('.pdf')) {
+                    showError('Por favor selecciona un archivo de Word (.docx) o PDF (.pdf).');
                     return;
                 }
                 selectedFile = file;
@@ -344,7 +344,7 @@
                     
                     downloadBtn.href = url;
                     // Sugerir nombre basado en original
-                    const originalName = selectedFile.name.replace(/\.docx$/i, '');
+                    const originalName = selectedFile.name.replace(/\.(docx|pdf)$/i, '');
                     downloadBtn.download = originalName + '_jats.xml';
                     
                     setTimeout(() => {

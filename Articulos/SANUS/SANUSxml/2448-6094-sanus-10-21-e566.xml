@@ -1,0 +1,2455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">sanus</journal-id>
+			<journal-title-group>
+				<journal-title>Sanus</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Sanus</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2448-6094</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud, Departamento de enfermería</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36789/sanusrevenf.vi21.566</article-id>
+			<article-id pub-id-type="other">00202</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Praxis</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Proceso de enfermería a persona con choque séptico postoperada de laparotomía en terapia intensiva</article-title>
+				<trans-title-group xml:lang="pt">
+					<trans-title>Processo de enfermagem à pessoa com choque séptico após cirurgia de laparotomia em terapia intensiva</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0009-2815-8866</contrib-id>
+					<name>
+						<surname>López-Navarro</surname>
+						<given-names>José Manuel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1"><sup>*</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-8154-2818</contrib-id>
+					<name>
+						<surname>Valle-Figueroa</surname>
+						<given-names>María del Carmen</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<role>Maestría en Educación Basada en Competencias</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-3725-4226</contrib-id>
+					<name>
+						<surname>Quintana-Zavala</surname>
+						<given-names>María Olga</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<role>Doctorado en Enfermería</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0001-1911-1865</contrib-id>
+					<name>
+						<surname>Ponce-Meza</surname>
+						<given-names>Claudia Irene</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<role>Maestría en Educación Basada en Competencias</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-5025-1030</contrib-id>
+					<name>
+						<surname>Figueroa-Ibarra</surname>
+						<given-names>Claudia</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+					<role>Doctorado en Ciencias Sociales</role>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Especialidad en Enfermería en Cuidados Intensivos, Departamento de Enfermería, Universidad de Sonora, Hermosillo, Sonora, México.</institution>
+				<institution content-type="normalized">Universidad de Sonora</institution>
+				<institution content-type="orgdiv1">Departamento de Enfermería</institution>
+				<institution content-type="orgname">Universidad de Sonora</institution>
+				<addr-line>
+					<city>Hermosillo</city>
+					<state>Sonora</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Maestría en Educación Basada en Competencias, Departamento de Enfermería, Universidad de Sonora, Hermosillo, Sonora, México.</institution>
+				<institution content-type="normalized">Universidad de Sonora</institution>
+				<institution content-type="orgdiv1">Departamento de Enfermería</institution>
+				<institution content-type="orgname">Universidad de Sonora</institution>
+				<addr-line>
+					<city>Hermosillo</city>
+					<state>Sonora</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">Doctorado en Enfermería, Departamento de Enfermería, Universidad de Sonora, Hermosillo, Sonora, México.</institution>
+				<institution content-type="normalized">Universidad de Sonora</institution>
+				<institution content-type="orgdiv1">Departamento de Enfermería</institution>
+				<institution content-type="orgname">Universidad de Sonora</institution>
+				<addr-line>
+					<city>Hermosillo</city>
+					<state>Sonora</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+			</aff>
+			<aff id="aff4">
+				<label>4</label>
+				<institution content-type="original">Doctorado en Ciencias Sociales, Departamento de Enfermería, Universidad de Sonora, Hermosillo, Sonora, México.</institution>
+				<institution content-type="normalized">Universidad de Sonora</institution>
+				<institution content-type="orgdiv1">Departamento de Enfermería</institution>
+				<institution content-type="orgname">Universidad de Sonora</institution>
+				<addr-line>
+					<city>Hermosillo</city>
+					<state>Sonora</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Autor para correspondencia: <email>josemanuel.navarro@unison.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>15</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>10</volume>
+			<elocation-id>e566</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>03</day>
+					<month>03</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>09</day>
+					<month>10</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<sec>
+					<title>Introducción:</title>
+					<p> El estado de choque séptico es una alteración multisistémica secundaria a una infección grave, que compromete la perfusión tisular y pone en riesgo la vida, en este contexto la aplicación del proceso de enfermería es indispensable para proporcionar cuidados integrales, individualizados y basados en la evidencia. </p>
+				</sec>
+				<sec>
+					<title>Objetivo:</title>
+					<p> Aplicar el proceso de enfermería a una persona en estado de choque séptico de origen intestinal posterior a laparotomía exploradora hospitalizada en terapia intensiva. </p>
+				</sec>
+				<sec>
+					<title>Metodología:</title>
+					<p> Estudio de caso clínico a femenina de 41 años, fundamentado en el Proceso de Enfermería basado en Patrones Funcionales de Salud de Gordon, utilizando lenguaje estandarizado de Diagnósticos de Enfermería, Resultados Esperados e Intervenciones de Enfermería. Se realizó valoración identificando necesidades humanas alteradas, estableciendo prioridades en plan de cuidados, como consideraciones éticas se resguardaron los datos personales mediante anonimato y confidencialidad. </p>
+				</sec>
+				<sec>
+					<title>Resultados:</title>
+					<p> Se identificaron seis diagnósticos de enfermería prioritarios: riesgo de shock, deterioro del intercambio gaseoso, limpieza ineficaz de vías aéreas, riesgo de aspiración, hipotermia y deterioro de la integridad tisular. Los resultados esperados incluyeron estabilización hemodinámica, mejora del estado respiratorio y progresión en la cicatrización de heridas. Las intervenciones de enfermería planteadas incluyeron manejo del shock séptico, asistencia en la ventilación mecánica, aspiración de secreciones y curación de heridas, contribuyendo a la mejora de la paciente. </p>
+				</sec>
+				<sec>
+					<title>Conclusiones:</title>
+					<p> La aplicación del proceso de enfermería permitió brindar cuidados sistematizados, emplear el pensamiento crítico y utilizar el lenguaje estandarizado de enfermería, favoreciendo una atención centrada en las necesidades individuales de la persona en estado crítico con choque séptico.</p>
+				</sec>
+			</abstract>
+			<trans-abstract xml:lang="pt">
+				<title>Abstrato</title>
+				<sec>
+					<title>Introdução:</title>
+					<p> Choque séptico refere-se a alterações multissistêmicas secundárias a uma infecção grave, que comprometem a perfusão tecidual e são potencialmente fatais. Nesse contexto, a aplicação do processo de enfermagem é essencial para proporcionar um cuidado integral, individualizado e baseado em evidências. </p>
+				</sec>
+				<sec>
+					<title>Objetivo:</title>
+					<p> Aplicar o processo de enfermagem a uma paciente em choque séptico de origem intestinal após laparotomia exploradora, internada em terapia intensiva. </p>
+				</sec>
+				<sec>
+					<title>Metodologia:</title>
+					<p> Estudo de caso clínico de uma paciente do sexo feminino, 41 anos, com base no processo de enfermagem baseado nos padrões funcionais de saúde de Marjory Gordon, utilizando diagnósticos de enfermagem padronizados, resultados esperados e intervenções de enfermagem. Foi realizada uma avaliação, identificando necessidades humanas alteradas e estabelecendo prioridades no plano de cuidados. Como considerações éticas, os dados pessoais foram protegidos por meio do anonimato e da confidencialidade. </p>
+				</sec>
+				<sec>
+					<title>Resultados:</title>
+					<p> Foram identificadas intervenções de enfermagem para seis diagnósticos de enfermagem prioritários, nomeadamente, risco de choque, troca gasosa prejudicada, desobstrução ineficaz das vias aéreas, risco de aspiração, hipotermia e integridade tecidual prejudicada. Os resultados esperados incluíram estabilização hemodinâmica, melhora do estado respiratório e cicatrização progressiva da ferida. As intervenções incluíram manejo do choque séptico, assistência ventilatória mecânica, aspiração de secreções e cuidados com feridas. </p>
+				</sec>
+				<sec>
+					<title>Conclusões:</title>
+					<p> A aplicação do processo de enfermagem possibilitou a prestação de cuidados sistemáticos, o uso do pensamento crítico e a utilização de uma linguagem de enfermagem padronizada. Isso promoveu um cuidado focado nas necessidades individuais de pacientes em estado crítico com choque séptico.</p>
+				</sec>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Proceso de enfermería</kwd>
+				<kwd>Choque séptico</kwd>
+				<kwd>Enfermería de cuidados críticos (DeCS).</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="pt">
+				<title>Palavras-chave:</title>
+				<kwd>Processo de enfermagem</kwd>
+				<kwd>Choque séptico</kwd>
+				<kwd>Enfermagem em terapia intensiva (DeCS)</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="2"/>
+				<table-count count="8"/>
+				<equation-count count="0"/>
+				<ref-count count="20"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>La profesión de enfermería se caracteriza por ofrecer cuidados basados en conocimientos y técnicas específicas para cada individuo, familia o comunidad, a través de la metodología del Proceso de Enfermería (PE), que se define como un conjunto de pasos lógicos, dinámicos y sistemáticos con el objetivo de brindar cuidados de enfermería sustentado en la evidencia de carácter científico y el pensamiento crítico <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>. Durante el desarrollo del PE, la enfermera o enfermero valora y diagnóstica y con esto se planifica, ejecuta y evalúa intervenciones encaminadas al mejoramiento y/o mantenimiento de la salud, considerando la totalidad, seguridad y sobre todo continuidad requerida en el cuidado, <xref ref-type="bibr" rid="B2"><sup>2</sup></xref><sub>,</sub> en el caso de las personas que se encuentran críticamente enfermas, por lo regular son atendidas dentro de unidades de terapia intensiva (UTI) o cuidados críticos y uno de los problemas más complejos en dicho contexto es el proceso séptico constituyendo una causa importante de morbimortalidad, especialmente cuando se presenta una disfunción multiorgánica, afectando a distintos aparatos y sistemas evolucionando gradualmente a un choque séptico, que constituye una estadía prolongada en la UTI, altos costos intrahospitalarios y una disminución de la calidad de vida de los pacientes que lo superan <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>.</p>
+			<p>La gravedad de las enfermedades y complicaciones de los pacientes que ingresan a la UTI hace imprescindible el proporcionar la atención y continuidad a los cuidados que requieren, por ello la importancia de implementar el PE como metodología científica en UTI y con esto garantizar un cuidado de calidad que tome en cuenta los múltiples requerimientos del paciente<xref ref-type="bibr" rid="B4"><sup>4</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B5"><sup>5</sup></xref>. Es a través de la valoración por Patrones Funcionales de Salud (PFS) de Marjory Gordon, como marco, que se obtiene un panorama completo de las respuestas humanas de los individuos, familias y comunidades en los distintos procesos vitales y/o problemas de salud. Este marco se basa en once PFS, que permiten realizar una valoración al paciente de manera holística y con esto identificar con precisión las respuestas humanas y posterior a ello, seleccionar las intervenciones de enfermería adecuadas para mejorar los procesos vitales o resolver los problemas de salud y disminuir los riesgos <xref ref-type="bibr" rid="B6"><sup>6</sup></xref>. </p>
+			<p>El choque séptico como patología representa un reto tanto para el sector salud, el personal de enfermería y por supuesto para las personas que lo viven, así como sus familias. El sector salud, en el caso de los hospitales públicos enfrentan los altos costos económicos asociado a las complicaciones y procedimientos y por otro lado el incremento en las tasas de mortalidad, para el personal de enfermería por la complejidad del cuidado que significa y a los pacientes que lo experimentan y sus familias, a causa de que está en peligro su vida por constituir una patología compleja que se induce por la respuesta del sistema inmunológico del huésped a un proceso infeccioso <xref ref-type="bibr" rid="B7"><sup>7</sup></xref>, por lo anterior, se presenta un caso clínico con el objetivo de aplicar el PE a una persona en estado de choque séptico de origen intestinal posterior a laparotomía exploradora hospitalizada en UTI.</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>Metodología</title>
+			<p>Estudio de caso clínico único a mujer adulta de 41 años de edad, en el servicio de UTI, durante 3 días de intervención de enfermería, fundamentado científicamente en el PE basado en los 11 PFS de Marjory Gordon para la valoración de enfermería. Se desarrolló el PE cumpliendo las cinco etapas: Valoración de enfermería, donde se recolectaron los datos por medio de la exploración física y fuentes secundarias. Posteriormente, se realizó un análisis crítico, documentando los hallazgos encontrados e identificando seis diagnósticos de enfermería, los cuales se priorizaron según el modelo de enfermería Análisis de Resultados del Estado Actual (AREA) como herramienta de razonamiento clínico para el análisis de resultados del estado actual y posterior la planificación de cuidados <xref ref-type="bibr" rid="B8"><sup>8</sup></xref> (<xref ref-type="fig" rid="f1">Figura 1</xref>). </p>
+			<p>
+				<fig id="f1">
+					<label>Figura 1</label>
+					<caption>
+						<title>Red de razonamiento de diagnósticos de enfermería según el modelo AREA, 2025 </title>
+					</caption>
+					<graphic xlink:href="2448-6094-sanus-10-21-e566-gf1.jpg"/>
+					<attrib>Fuente: Elaboración propia</attrib>
+				</fig>
+			</p>
+			<p>En la etapa de planeación, se desarrolló la planificación de los cuidados utilizando como base la taxonomía profesional de Diagnósticos de enfermería (NANDA-I) <xref ref-type="bibr" rid="B9"><sup>9</sup></xref>, Resultados esperados (NOC) <xref ref-type="bibr" rid="B10"><sup>10</sup></xref> e Intervenciones de enfermería (NIC) <xref ref-type="bibr" rid="B11"><sup>11</sup></xref>, con el fin de facilitar la ejecución de las intervenciones descritas, la evaluación de su eficacia y eficiencia, la ejecución y la evaluación de enfermería. La información obtenida se describe en los formatos de los planes de cuidados, las intervenciones realizadas y la evolución presentada por la paciente. El estudio tuvo como sustento ético el garantizar el anonimato y confidencialidad en la obtención de datos, así como el respeto de los principios éticos dirigidos al paciente: autonomía, justicia, no maleficencia y beneficencia <xref ref-type="bibr" rid="B12"><sup>12</sup></xref>.</p>
+		</sec>
+		<sec sec-type="cases">
+			<title>Presentación del caso</title>
+			<p>M.C.A.G., persona femenina de 41 años, mexicana que acudió en ambulancia al servicio de urgencias de un hospital público por probable neumonía por broncoaspiración e infección de herida quirúrgica por laparotomía exploratoria secundaria a oclusión intestinal con derivación intestinal (colostomía ascendente). Como antecedentes heredofamiliares se encontró por línea paterna y materna hipertensión arterial sistémica e hipercolesterolemia.</p>
+			<p>La paciente ingresó el 15 de febrero del 2023 en estado de somnolencia, con datos de dificultad respiratoria evidenciando taquipnea (30 respiraciones por minuto, tiraje intercostal y quejido respiratorio), requiriendo apoyo de oxigenoterapia con mascarilla con reservorio a 10 litros por minutos. Taquicardia sinusal (120 latidos por minuto), hipotensión arterial (80/40 mmHg), hipoxemia (85 %) y datos de hipoperfusión tisular (palidez generalizada y llenado capilar alargado de 6 segundos). Se inició apoyo de fluidoterapia con solución Hartmann 1000 ml a 125 ml/hr y Norepinefrina 16 mg en 100 ml de solución glucosada al 5% dosis respuesta iniciando a 5 ml/h. Se identificó hipoperistaltismo intestinal y ausencia de eliminación intestinal por efluente (ostomía). Eliminación urinaria por sonda vesical tipo Foley con datos de oliguria (0.3 ml/kg/hr) y concentración elevada de orina. </p>
+			<p>Posteriormente persistió con datos de choque séptico, inestabilidad hemodinámica, aumentando progresivamente dosis del vasopresor hasta 15 ml/hr. Además de datos del incremento de la insuficiencia respiratoria, presentando hipoxemia (83 %) y taquipnea de 35 respiraciones por minuto (rpm), a pesar de apoyo de oxigenoterapia con mascarilla con reservorio. Se indicó requerimiento de soporte respiratorio invasivo, por lo que se realizó intubación orotraqueal con tubo no. 8.0, con ventilación mecánica asistida en modalidad asisto controlado, Fracción inspirada de oxígeno (FiO2) de 100 %, Presión inspiratoria (PI) de 15 cmH<sub>2</sub>0, presión positiva al final de la espiración (PEEP) de 7.0 cmH<sub>2</sub>0, Relación inspiración-espiración(I:E) de 1:2, Frecuencia de ciclados (FC) de 15 por minuto, con apoyo de sedo-analgesia profunda con infusión de Midazolam 100 mg aforados en 100 ml de solución cloruro de sodio 0.9 % administrando a 14 ml/hr, Propofol 1 gr/100 ml sin dilución agregada a 15 ml/hr, Fentanilo 500 mcg/10ml sin dilución agregada a 2 ml/hr, Rocuronio 250 mg aforados en 100 ml solución cloruro de sodio al 0.9 % a 7ml/hr. Posteriormente se inició tratamiento de antibioterapia con carbapenémicos y lincosamidas. </p>
+			<p>En fuentes secundarias presentó acidosis mixta, leucocitosis, trombocitopenia y en radiografía de tórax se encontró radiolucidez pulmonar en ápice derecha e infiltración alveolar bilateral. Dos días después fue ingresada a la UTI por choque séptico posterior a laparotomía exploratoria secundaria a oclusión intestinal con derivación intestinal (colostomía ascendente), síndrome de dificultad respiratoria aguda derivado de neumonía por broncoaspiración y neumotórax derecho. </p>
+			<p>La valoración de enfermería se realiza tres días posteriores al ingreso. En cuanto al patrón nutricional metabólico, se brindó apoyo nutricional con nutrición parenteral total con un aporte de 1400 kcal y ayuno hasta nueva orden. Piel íntegra, con leve palidez generalizada con adecuada turgencia y temperatura conservada en todas las áreas. Presentó hipotermia (35.5ºC) axilar según Kosier. Se evidenció un índice de masa corporal de 43.3 kg/m2, es decir, Obesidad tipo III, según NOM-008-SSA3-2017. Se instaló sonda nasogástrica a derivación con contenido de características biliares. Presentaba edema en miembros superiores e inferiores en grado 2 según escala de Godette (++). Cabeza, cuero cabelludo, cara, cuello y cavidad bucodental sin alteraciones, según Guía Seidel de exploración física. </p>
+			<p>Presentaba herida en hipogastrio por laparotomía exploratoria con presencia de suturas en dos tercios proximales y leve visualización de tejido de granulación en tercio distal con eritema periférico y enrojecimiento, el cual estaba expuesto, además de drenaje pasivo (penrose) con contenido purulento levemente fétido, correctamente implantado. Presentó lesión por presión en zona sacra en estadio 2. El balance hídrico de 24 horas fue positivo de 676.5 ml. En fuentes secundarias presentó hiperglucemia (153 mg/dL), leucocitosis (14.72 10<sup>3</sup>/ul), linfopenia (47 %), neutrofilia (91.9 %), anemia normocítica hipocrómica (Hemoglobina: 8.3g/dl, Volumen corpuscular medio 87 fL, y Hemoglobina corpuscular media: 28.9 g/dL). </p>
+			<p>Dentro del patrón actividad ejercicio, se observó normotórax, relación entre diámetros anteroposterior y transverso normal. Ventilación mecánica asistida con parámetros establecidos y dinámicos: Modalidad: Asisto/Controlado, Modo: Presión, PI: 15 cmH<sub>2</sub>O, FiO2: 50 %, PEEP: 8 H<sub>2</sub>O, FC de 18 por minuto, humidificador activo. La paciente presentaba estertores en área traqueal. Saturación de oxígeno limítrofe (93 %) del rango de lo normal según PISA. Evidencia de taquipnea (35 rpm), confirmando desacoplamiento moderado al ventilador mecánico. Campos pulmonares con presencia de estertores en ápices y bases. Presentó leve hipotensión arterial (109/80 mm Hg presión arterial media (PAM) de 89 mmHg dependiente de infusión continua de norepinefrina 16 mg en 100 ml de solución glucosada al 5 % a 18 ml/hr dosis respuesta, taquicardia sinusal (110 latidos por minuto) y ruidos cardíacos centrales normales según Guía Seidel de exploración física. Contaba con catéter venoso central FR 7 de 3 lúmenes en vena subclavia derecha instalado el 16 de febrero del 2023, sin datos de sangrado ni secreciones. Se encontraba con prolongación del llenado capilar (6 segundos). Con presencia de alto riesgo de caídas con 5 puntos según escala de Downton. En fuentes secundarias se encontró acidosis mixta (pH: 7.23, pCO2 82 mmHg, PO2, 155 mmHg y HCO3 34.3 mmol/L EB:-9). A la valoración de radiografía anteroposterior de tórax se identificó infiltración alveolar difuso que afectaba al espacio aéreo y se evidenciaban opacidades bilaterales en bases y radiolucidez en ápice derecho. </p>
+			<p>En el patrón cognitivo-perceptivo, se informó sobre órganos sensoriales sin alteraciones según Guía Seidel de exploración física, a excepción de hiporreactividad pupilar a la luz. con puntuación de -2 en escala RASS presentando sedación moderada donde mostraba leve apertura de ojos y realizaba leve movimiento de miembros inferiores sin vencer gravedad. En valoración de dolor con escala behavioral pain scale (BPS) se clasificó con dolor inaceptable (6 puntos), evidenciando desacoplamiento del ventilador, movimiento de miembros inferiores y leve contracción facial.</p>
+			<p>Al explorar el patrón sexualidad-reproducción, se observó genitales y glándulas mamarias sin alteraciones.</p>
+			<p>Los patrones de mantenimiento y percepción de la salud, sueño descanso, autopercepción-autoconcepto, rol relaciones, afrontamiento y tolerancia al estrés y valores y creencias, no tuvieron datos a causa de sedo-analgesia, ventilación mecánica invasiva y por no obtener información secundaria por parte de los familiares.</p>
+		</sec>
+		<sec sec-type="results">
+			<title>Resultados</title>
+			<p>Mediante la valoración de enfermería por PFS se identificaron diagnósticos de enfermería derivados de problemas reales o potenciales que presentó la paciente. Con base a los datos obtenidos en el patrón nutricional metabólico, actividad ejercicio y eliminación principalmente se identificó la etiqueta diagnóstica: 00421. Volumen de líquidos inadecuado, como prioridad para la restauración del estado hemodinámico de la paciente, (<xref ref-type="table" rid="t1">Tabla 1</xref>).</p>
+			<p>
+				<table-wrap id="t1">
+					<label>Tabla 1</label>
+					<caption>
+						<title>Plan de cuidados dirigido al diagnóstico de enfermería 00421Volumen de líquidos inadecuado</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+    <tr>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px;">Diagnóstico de enfermería (NANDA)</td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px;">Resultado esperado (NOC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">00421. Volumen de líquidos inadecuado r/c</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">421. Severidad del shock: séptico</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Dificultad para obtener líquidos, ingreso</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Dominio: 2. Salud fisiológica</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">inadecuado de líquidos m/p Alteración en la</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Clase: E. Cardiopulmonar</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">turgencia de la piel, disminución de la presión</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Indicadores:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">arterial, disminución del volumen del pulso,</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042101. Disminución de la presión arterial sistólica</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">disminución en la producción de orina,</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042102. Disminución de la presión arterial diastólica</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">incremento de la frecuencia cardíaca.</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042103. Aumento de la frecuencia cardíaca</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042106. Aumento de la frecuencia respiratoria</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042110. Disminución del oxígeno arterial</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042111. Aumento de la temperatura corporal</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042116. Palidez</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042117. Coagulación intravascular</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042118. Disminución de la diuresis</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042119. Ruidos intestinales hipoactivo.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">Intervenciones de enfermería (NIC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">4250. Manejo del shock</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Campo: 2. Fisiológico: complejo</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Clase: N. Control de la perfusión tisular</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Actividades:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar los signos vitales, presión arterial, estado mental y diuresis.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Colocar al paciente en una posición que optimice la perfusión.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Instaurar y mantener la permeabilidad de las vías aéreas.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Vigilar la pulsioximetría.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administrar oxígeno y/o ventilación mecánica.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Utilizar monitorización de la línea arterial para mejorar la exactitud de las lecturas de la presión arterial.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Realizar una gasometría arterial.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Controlar las tendencias de los parámetros hemodinámicos.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Vigilar los factores determinantes del aporte de oxígeno tisular</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Observar si hay síntomas de insuficiencia respiratoria.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar los valores de laboratorio.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administrar líquidos cristaloides o coloides I.V., según corresponda.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar el estado hiperdinámico del shock séptico tras la reanimación con líquidos.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Iniciar la administración temprana de antibióticos y comprobar cuidadosamente su eficacia.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar la glucemia y tratar los niveles anormales, según cada caso.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar el estado de hidratación.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar la función renal.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administrar diuréticos.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administrar profilaxis para TVP y úlceras de estrés.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">4255. Manejo del shock: sepsis</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Campo: 2. Fisiológico: complejo</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Clase: N. Control de la perfusión tisular</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Utilizar herramientas de cribado apropiadas una vez establecido el nivel de riesgo (qSOFA y SOFA).</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Evaluar las constantes vitales y los valores de laboratorio utilizando los criterios prescritos de las herramientas de</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">cribado.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Retirar cualquier posible fuente de infecciones.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Seguir el protocolo del paquete de cuidados de la sepsis para todas las personas con resultados positivos en el</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">cribado e infecciones confirmadas, en los plazos prescritos.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar continuamente los niveles de lactato cuando sea &#8805;2 mmol/l.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administrar antibióticos de forma temprana.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">Utilizar vasopresores para mantener la PAM &#8805;65 mmHg.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Reexaminar el estado de volumen y la perfusión tisular tras la administración inicial de líquido si persiste la</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">hipotensión (PAM &lt;65 mmHg) o si el lactato inicial era &#8805;4 mmol/l.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Documentar todas las reevaluaciones y las medidas de reanimación en curso.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Mantener un cribado continuo de los criterios de evaluación secuencial de fallo orgánico (SOFA) en las personas</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">de riesgo que cumplan los requisitos.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar los indicadores de detección precoz.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Instruir sobre los signos de infección, cómo vigilar la temperatura, la necesidad de tomar todos los antibióticos</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">prescritos hasta su finalización y la importancia del tiempo en caso de infecciones graves.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Evaluación de enfermería</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Utilizando la escala tipo Likert de los NOC, se valoró cada indicador con base a las actividades específicas</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">aplicadas. En primera instancia, los indicadores 042101 y 042101 referentes a la presión arterial aumentaron</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">sustancialmente el puntaje de 2 a 4, con el apoyo de vasopresor en infusión intravenosa y la reanimación de</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">líquidos. Se valoraron de forma constante los signos vitales de la paciente, evidenciando cambio en la frecuencia</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">respiratoria (042106) y oxígeno arterial (042110) con apoyo de ventilación mecánica invasiva aumentando</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">indicadores de 1a 3. Se monitorizó el estado de hidratación y función renal (042116 y 042118), mediante el</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">cálculo de diuresis horaria, se estimuló con la administración de líquidos y de diuréticos, mejorando indicadores</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">de 3 a 5 pasando de 0.3 a 0.7 ml/kg/hr de diuresis horaria.</td>
+    </tr>
+    </tbody>
+</table>
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p>Fuente: Elaboración propia</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>En segunda instancia, al hacer una valoración de la función respiratoria de la paciente en el patrón actividad ejercicio, se identificó el diagnóstico de enfermería: 00030. Deterioro del intercambio gaseoso como respuesta humana prioritaria al contar con apoyo ventilatorio invasivo, (<xref ref-type="table" rid="t2">Tabla 2</xref>). </p>
+			<p>
+				<table-wrap id="t2">
+					<label>Tabla 2</label>
+					<caption>
+						<title>Plan de cuidados dirigido al diagnóstico de enfermería: Deterioro del intercambio gaseoso</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tbody>
+    <tr>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px;">Diagnóstico de enfermería (NANDA)</td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px;">Resultado esperado (NOC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">00030. Deterioro del intercambio gaseoso</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">0411. Respuesta de la ventilación mecánica: adulto</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">r/c patrón respiratorio ineficaz m/p</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Dominio: II. Salud fisiológica</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">hipercapnia (82 mmHg), pH arterial</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Clase: E. Cardiopulmonar</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">anormal (7.2), color anormal en la piel,</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Indicadores:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">hipoxemia, hipoxia, taquicardia, taquipnea.</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">0D41102. Frecuencia respiratoria</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041103. Ritmo respiratorio</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041107. Capacidad vital</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041108. Fracción de oxígeno inspirado (FiO2) satisface la</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">demanda de oxígeno</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041109. Presión parcial de oxígeno en la sangre arterial (PaO2)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041110. Presión parcial de dióxido de carbono en la sangre arterial</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">(PaCO2)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041111. pH arterial</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041112. Saturación de oxígeno</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041113. Perfusión del tejido periférico</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041124. Dificultad para respirar con el ventilador</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041127. Sonidos respiratorios adventicios</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041134. Atelectasias</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041130. Hipoxia</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041131. Infección pulmonar</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041132. Secreciones respiratorias</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041137. Cognición</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041128. Inquietud</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">Intervenciones de enfermería (NIC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">3300. Manejo de la ventilación mecánica: invasiva</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Campo: 2. Fisiológico: complejo</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Clase: K. Manejo respiratorio</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Actividades:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Consultar con otros profesionales sanitarios para la selección del modo del ventilador.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Asegurarse de que las alarmas del ventilador están conectadas.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Comprobar regularmente todas las conexiones del ventilador.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administrar y manejar los agentes paralizantes musculares, sedantes y analgésicos narcóticos que sean</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">apropiados.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Controlar los síntomas que indican un aumento del trabajo respiratorio</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Vigilar la eficacia de la ventilación mecánica sobre el estado fisiológico y psicológico del paciente.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Proporcionar cuidados para aliviar las molestias del paciente.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Vaciar el agua condensada de los colectores de agua.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Realizar aspiración, en función de la presencia de sonidos adventicios y/o aumento de las presiones inspiratorias.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Controlar la cantidad, color y consistencia de las secreciones pulmonares, y documentar los resultados</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">periódicamente.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Fomentar las evaluaciones rutinarias para los criterios de destete.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Establecer el cuidado bucal de forma rutinaria con gasas blandas húmedas, antiséptico y succión suave.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar los efectos de los cambios del ventilador sobre la oxigenación.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">2260. Manejo de la sedación.</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 0; text-align: left; padding-left: 10px;">Dominio: 2 Fisiológico: complejo</td>
+    </tr>
+    <tr>
+      <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Clase: H Manejo de la medicación</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Actividades:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Comprobar si existían alergias a fármacos.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Revisar los medicamentos y comprobar la ausencia de contraindicaciones para la sedación.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Revisar el consentimiento informado escrito.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Evaluar el nivel de consciencia del paciente y los reflejos protectores antes de proceder con la sedación.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Determinar los signos vitales basales, la saturación de oxígeno, el ECG, la talla y el peso.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Asegurarse de que el equipo de reanimación de urgencia estaba disponible con facilidad, en concreto, una fuente</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">para administrar O² al 100 %, medicación de urgencia y un desfibrilador.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administrar medicación según la prescripción del profesional médico, ajustándola con cuidado según la respuesta</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">del paciente.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar el nivel de consciencia, la vía respiratoria, los signos vitales, la saturación de oxígeno, el CO2</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">espiratorio final y el ECG durante el procedimiento.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar si se producen efectos adversos como consecuencia de la medicación tras su administración.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Utilizar una escala de sedación para determinar el nivel de consciencia (RASS).</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Asegurar la disponibilidad de antagonistas y administrarlos, según correspondía, de acuerdo con la prescripción</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">del médico.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Documentar las acciones y la respuesta.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Evaluación de enfermería</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Los NOC que se valoraron mejoraron de forma sustancial. Dentro de los indicadores se encuentran la frecuencia,</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">el ritmo y la capacidad respiratoria, los cuales mejoraron de 1 a 4 con cambios específicos realizados al ventilador</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">mecánico y el aumento de dosis de sedación según la indicación médica. Se valoró constantemente el estado de</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">respuesta y conciencia con la escala Agitación y Sedación de Richmond, el indicador 041128 mejoró de 2 a 4. El</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">pH arterial y el dióxido de carbono se mantuvieron en 3, al no presentar mejora de los signos de acidosis</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">respiratoria.</td>
+    </tr>
+  </tbody>
+</table>
+					<table-wrap-foot>
+						<fn id="TFN2">
+							<p>Fuente: Elaboración propia</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>También se estableció el diagnóstico de enfermería 00031. Limpieza ineficaz de vías aéreas como respuesta a la disminución de respuesta neurológica por sedo-analgesia inducida y el aumento de producción de secreciones por la irritación del tubo orotraqueal, (<xref ref-type="table" rid="t3">Tabla 3</xref>).</p>
+			<p>
+				<table-wrap id="t3">
+					<label>Tabla 3</label>
+					<caption>
+						<title>Plan de cuidados dirigido al diagnóstico de enfermería: Limpieza ineficaz de las vías aéreas</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+    <tr>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 350px;">Diagnóstico de enfermería (NANDA)</td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 350px;">Resultado esperado (NOC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">00031. Limpieza ineficaz de las vías aéreas</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">0410. Estado respiratorio: permeabilidad de las vías</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">r/c Retención de las secreciones e/p sonidos</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">respiratorias</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">respiratorios adventicios, alteración del</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Dominio: II. Salud fisiológica</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">ritmo respiratorio, Taquipnea.</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Clase: E. Cardiopulmonar</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Indicadores:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041004. Frecuencia respiratoria</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041005. Ritmo respiratorio</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041012. Capacidad de eliminar secreciones</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041022. Índice de masa corporal (IMC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041007. Ruidos respiratorios patológicos</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041018. Uso de músculos accesorios</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041028. Secreciones en las vías respiratorias</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041030. Inflamación de los tejidos de las vías respiratorias</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Intervenciones de enfermería (NIC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">3900. Aspiración de las vías aéreas</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Campo: 2. Fisiológico: complejo</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Clase: K. Manejo respiratorio</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Actividades:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Realizar el lavado de manos.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Usar precauciones universales.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Usar el equipo de protección personal.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Determinar la necesidad de la aspiración oral y/o traqueal.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Auscultar sonidos respiratorios antes y después de la aspiración.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Proporcionar sedación.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Hiperoxigenar con oxígeno al 100%, durante al menos 30 segundos mediante la utilización del ventilador.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Utilizar aspiración de sistema cerrado.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Utilizar equipo desechable estéril para cada procedimiento de aspiración.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Dejar al paciente conectado al ventilador durante la aspiración, si se utiliza un sistema de aspiración traqueal</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">cerrado o un adaptador de dispositivo de insuflar oxígeno.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitorizar el estado de oxigenación del paciente.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Detener la aspiración traqueal y suministrar oxígeno suplementario si el paciente experimenta bradicardia, un</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">aumento de las extrasístoles ventriculares y/o desaturación.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Controlar y observar el color, cantidad y consistencia de las secreciones.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Evaluación de enfermería</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Mediante la intervención de aspiración de vías aéreas, se pudo aumentar el puntaje Likert de ciertos</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">indicadores del resultado esperado valorado. La frecuencia respiratoria de la paciente disminuyó llegando a</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">rangos normales, es decir la puntuación del indicador 041004 aumentó de 3 a 5, el indicador 041005 tuvo</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">mejoría notable. Los estertores como ruidos respiratorios patológicos se redujeron por completo.</td>
+    </tr>
+    </tbody>
+</table>
+					<table-wrap-foot>
+						<fn id="TFN3">
+							<p>Fuente: Elaboración propia.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>En cuanto a los hallazgos encontrados en el patrón nutricional metabólico, se identificó la etiqueta diagnóstica: 00044. Deterioro de la integridad tisular, (<xref ref-type="table" rid="t4">Tabla 4</xref>).</p>
+			<p>
+				<table-wrap id="t4">
+					<label>Tabla 4</label>
+					<caption>
+						<title>Plan de cuidados dirigido al diagnóstico de enfermería: 00044 Deterioro de la integridad tisular</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+    <tr>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width:350px;">Diagnóstico de enfermería (NANDA)</td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 350px;">Resultado esperado (NOC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">00044. Deterioro de la integridad tisular r/c</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">1103. Curación de la herida: por segunda intención.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Desequilibrio de fluidos, excretas m/p</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Dominio: II. Salud fisiológica</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">crecimiento anormal del tejido, alteración en el</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Clase: L. Integridad tisular</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">color de la piel, eritema persistente.</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Indicadores:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110301. Granulación</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110320. Formación de cicatriz</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110321. Disminución del tamaño de la herida</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110303. Secreción purulenta</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110304. Secreción serosa</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110305. Secreción sanguinolenta</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110307. Eritema cutáneo circundante</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110322. Inflamación de la herida</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110308. Edema perilesional</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110317. Mal olor de la herida</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Intervenciones de enfermería (NIC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">3660. Cuidados de las heridas</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Campo: 2. Fisiológico: complejo</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Clase: L. Manejo de la piel/heridas</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Actividades:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Vigilar el estado de oxigenación antes y después de un cambio de posición.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Colocar en la posición terapéutica especificada.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Colocar en posición de alineación corporal correcta.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Elevar la parte corporal afectada.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Poner apoyos en las zonas edematosas (miembros superiores e inferiores).</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Evitar colocar al paciente en una posición que le aumente el dolor.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Minimizar la fricción y las fuerzas de cizallamiento al cambiar de posición al paciente.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Girar al paciente en bloque.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Evaluación de enfermería</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">La NIC aplicada para aumentar puntuación del resultado esperado fue levemente eficaz, ya que la herida</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">quirúrgica presentaba alteraciones graves. Los indicadores del NOC aumentaron de 1 a 2 con la curación de</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">heridas, disminuyó levemente las secreciones excretadas por la herida y el mal olor. Sin embargo, se conservó</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">puntuación en la granulación, la disminución del tamaño y el edema perilesional.</td>
+    </tr>
+    </tbody>
+</table>
+					<table-wrap-foot>
+						<fn id="TFN4">
+							<p>Fuente: Elaboración propia.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+		</sec>
+		<sec sec-type="discussion">
+			<title>Discusión</title>
+			<p>La persona en estado de choque séptico evidenció hipotensión arterial grave, está se presentó a pesar de la reanimación de fluidoterapia. De forma agregada, la paciente requirió infusión de vasopresores para mantener presión arterial media &gt;65 mmHg y presentar hiperlactacidemia &gt; 20 mg/dl a pesar de la reposición de líquidos adecuada, lo cual requirió intervenciones específicas para tratar el diagnóstico de enfermería enunciado como (00421) volumen de líquidos inadecuado y una evaluación de la severidad de shock de la paciente. Los autores <xref ref-type="bibr" rid="B13"><sup>13</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B14"><sup>14</sup></xref>. concuerdan que el manejo de vasoactivos y la reanimación de líquidos en el estado de sepsis es de vital importancia para mejorar la perfusión tisular con distintas metas. </p>
+			<p>Asimismo, de acuerdo con un investigador es de vital importancia la identificación del estado de choque séptico por parte de los profesionales de enfermería, donde se presentan alteraciones que ponen en riesgo el estado de salud del usuario. Dentro de las intervenciones de enfermería que describe el autor se familiarizan en las actividades realizadas a la paciente, como son la aplicación de fluidos intravenosos, la administración de medicamentos, manejo de oxigenoterapia, llevar a cabo balance hídrico, entre otros, para la mejora del estado de salud de la paciente y evitar complicaciones futuras <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>.</p>
+			<p>Por otro lado, para el manejo del diagnóstico de enfermería (00030) Deterioro del intercambio gaseoso se utilizó ventilación mecánica asistida de tipo invasiva con volúmenes de 6 a 12 ml/kg para pacientes con dificultad respiratoria aguda y para el manejo de la (00031) Limpieza ineficaz de las vías aéreas la recomendación para mejorar la ventilación respiratoria eficaz es la aspiración de secreciones de las vías aéreas y para limitar el riesgo de aspiración es la elevación de la cabecera de 30 a 45º <xref ref-type="bibr" rid="B16"><sup>16</sup></xref>. Esas intervenciones se relacionan con lo descrito por diversos autores<xref ref-type="bibr" rid="B17"><sup>17</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref>, que han evidenciado que las actividades, como la extracción de secreciones, facilita los mecanismos ventilatorios y de oxigenación sanguínea y apoya la prevención de complicaciones, principalmente la neumonía por microorganismos.</p>
+			<p>El origen del proceso séptico de la paciente fue por una herida quirúrgica contaminada, lo que requirió el desarrollo de intervenciones de actualización para el manejo de heridas crónicas por medio de distintos métodos de curación, ya que es considerado de gran importancia para el profesional de enfermería. Esto representó un reto importante en el equipo de enfermería, ya que, si no se llevaban los tratamientos adecuados, sería difícil que se logrará curarse el área afectada y más grave aún, existía la posibilidad de desarrollar complicaciones locales y sistémicas <xref ref-type="bibr" rid="B19"><sup>19</sup></xref>. Existen distintas intervenciones como la curación avanzada de heridas, la cual favorece a la cicatrización mediante el principio de humedad. Sin embargo, el uso de productos pasivos fue considerada una práctica negativa en el manejo de heridas crónicas, ya que se consideran como débiles absorbentes y alta incidencia de propiciar una infección <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>.</p>
+			<p>Dentro de las limitaciones del estudio fue el estado de salud de la paciente y la restricción de visita de los familiares dando como resultado el que no se logrará obtener información subjetiva.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusión</title>
+			<p>El diseño y la aplicación del PE a la persona con diagnóstico médico de choque séptico de origen intestinal permitió identificar patrones disfuncionales de salud y esto llevó a describir seis diagnósticos de enfermería, los cuales fueron jerarquizados con base a las especificaciones del modelo AREA en enfermería, seleccionando los resultados que se esperaban en el estado de salud, con los cuales se presentaron las intervenciones aplicadas para la erradicación de dichos problemas, y con esto se evidencia una mejora moderada en la función hemodinámica, respiratoria y urinaria, demostrando que mediante un cuidado especializado dirigido a los pacientes en estado crítico se logra mejorar los problemas reales y/o potenciales que se presentaron. El estado de salud de la paciente tuvo leve mejoría dentro del periodo de aplicación del PE. Sin embargo, se evidenciaba un alto riesgo de mortalidad. </p>
+			<p>Por otra parte, dentro de las actualizaciones del lenguaje estandarizado de la profesión de enfermería, existe una innovación entre la selección de NOC especificando el tipo de severidad de choque que se va a valorar posterior a una NIC, como por ejemplo Severidad del shock: séptico, Severidad del shock: cardiogénico, entre otros. Del mismo modo, para la selección de la NIC, existe una especificación en el tipo de choque al que se le aplicaron las actividades, como por ejemplo manejo del shock: sepsis, manejo del shock: cardiaco, entre otros. Esto demuestra la innovación en la ciencia de enfermería, ya que se evidencia la necesidad de especificar el tipo de NIC y definir las actividades encaminadas a la mejora del estado de salud de los pacientes.</p>
+			<p>Para los profesionales de enfermería, el diseño y la aplicación del PE es una parte relevante en los servicios de urgencias, UTI y hospitalización, ya que este ayuda a tener claridad en la identificación de respuestas humanas, el proceso fisiopatológico y el tratamiento oportuno para el impacto positivo de la sobrevida de estos pacientes.</p>
+		</sec>
+		<sec>
+			<title>Conflicto de intereses</title>
+			<p>Los autores declaran que no existe ningún conflicto de intereses.</p>
+		</sec>
+		<sec>
+			<title>Financiamiento</title>
+			<p>Los autores declaran que no existió ningún tipo de financiamiento.</p>
+		</sec>
+		<sec>
+			<title>Inteligencia artificial</title>
+			<p>Los autores declaran que no han utilizado ningún tipo de recurso de la inteligencia artificial en alguna de las secciones de este manuscrito.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referencias bibliográficas</title>
+			<ref id="B1">
+				<mixed-citation>1. Alonso SN, Martínez PR, Nava MG, Gutiérrez ML, Ramírez JF. El Proceso de atención de enfermería como instrumento de investigación. Dilemas Contemporáneos: Educación, Política y Valores [Internet]. 2023 [citado 20 ene 2025];2(82):1-13. Disponible en: https://doi.org/10.46377/dilemas.v2i10.3555. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alonso</surname>
+							<given-names>SN</given-names>
+						</name>
+						<name>
+							<surname>Martínez</surname>
+							<given-names>PR</given-names>
+						</name>
+						<name>
+							<surname>Nava</surname>
+							<given-names>MG</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez</surname>
+							<given-names>ML</given-names>
+						</name>
+						<name>
+							<surname>Ramírez</surname>
+							<given-names>JF</given-names>
+						</name>
+					</person-group>
+					<article-title>El Proceso de atención de enfermería como instrumento de investigación</article-title>
+					<source>Dilemas Contemporáneos: Educación, Política y Valores</source>
+					<year>2023</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>2</volume>
+					<issue>82</issue>
+					<fpage>1</fpage>
+					<lpage>13</lpage>
+					<pub-id pub-id-type="doi">10.46377/dilemas.v2i10.3555</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>2. González-Quirarte N, Castañeda-Hidalgo H. Proceso de enfermería. Guía teórico-práctica para dar respuesta a las necesidades en salud. España: Elsevier [Internet]. 2024 [citado 20 ene 2025]. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="http://clinicalkeymeded.elsevier.com/">http://clinicalkeymeded.elsevier.com/</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>González-Quirarte</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Castañeda-Hidalgo</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>España</publisher-loc>
+					<publisher-name>Elsevier</publisher-name>
+					<source>Proceso de enfermería. Guía teórico-práctica para dar respuesta a las necesidades en salud</source>
+					<year>2024</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="http://clinicalkeymeded.elsevier.com/">http://clinicalkeymeded.elsevier.com/</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>3. Acosta JA, Vera JG, Muñoz DA, Moreira LS, Freire PG, Arreaga LA, et al. Mortalidad de la sepsis en la unidad de cuidados intensivos. Cambios-HECAM [Internet]. 2023 [citado 20 ene 2025];22(1):1-6. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://revistahcam.iess.gob.ec/index.php/cambios/article/view/865">https://revistahcam.iess.gob.ec/index.php/cambios/article/view/865</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Acosta</surname>
+							<given-names>JA</given-names>
+						</name>
+						<name>
+							<surname>Vera</surname>
+							<given-names>JG</given-names>
+						</name>
+						<name>
+							<surname>Muñoz</surname>
+							<given-names>DA</given-names>
+						</name>
+						<name>
+							<surname>Moreira</surname>
+							<given-names>LS</given-names>
+						</name>
+						<name>
+							<surname>Freire</surname>
+							<given-names>PG</given-names>
+						</name>
+						<name>
+							<surname>Arreaga</surname>
+							<given-names>LA</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Mortalidad de la sepsis en la unidad de cuidados intensivos</article-title>
+					<source>Cambios-HECAM</source>
+					<year>2023</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>22</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>6</lpage>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://revistahcam.iess.gob.ec/index.php/cambios/article/view/865">https://revistahcam.iess.gob.ec/index.php/cambios/article/view/865</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>4. Carrasco OV. La importancia y realidad actual de la unidad de cuidados intensivos en la pandemia del covid-19. Rev Med la Paz [Internet]. 2022 [citado 20 ene 2025];28(1):64-74. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1726-89582022000100064">http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1726-89582022000100064</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carrasco</surname>
+							<given-names>OV</given-names>
+						</name>
+					</person-group>
+					<article-title>La importancia y realidad actual de la unidad de cuidados intensivos en la pandemia del covid-19</article-title>
+					<source>Rev Med la Paz</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>28</volume>
+					<issue>1</issue>
+					<fpage>64</fpage>
+					<lpage>74</lpage>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1726-89582022000100064">http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1726-89582022000100064</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>5. Gavilanes KM, Coellar KG, Narváez RS, Martínez DO. Manejo de shock séptico en unidad de cuidados intensivos. RECIAMUC [Internet]. 2021 [citado 20 ene 2025];5(4):48-59. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://reciamuc.com/index.php/RECIAMUC/article/view/716">https://reciamuc.com/index.php/RECIAMUC/article/view/716</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gavilanes</surname>
+							<given-names>KM</given-names>
+						</name>
+						<name>
+							<surname>Coellar</surname>
+							<given-names>KG</given-names>
+						</name>
+						<name>
+							<surname>Narváez</surname>
+							<given-names>RS</given-names>
+						</name>
+						<name>
+							<surname>Martínez</surname>
+							<given-names>DO</given-names>
+						</name>
+					</person-group>
+					<article-title>Manejo de shock séptico en unidad de cuidados intensivos</article-title>
+					<source>RECIAMUC</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>5</volume>
+					<issue>4</issue>
+					<fpage>48</fpage>
+					<lpage>59</lpage>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://reciamuc.com/index.php/RECIAMUC/article/view/716">https://reciamuc.com/index.php/RECIAMUC/article/view/716</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>6. Butcher RC, Jones DA. An integrative review of comprehensive nursing assessment tools developed based on Gordon’s eleven functional health patterns. International Journal of Nursing Knowledge [Internet]. 2021 [citado 20 ene 2025];32(4):294-307. Disponible en: https://doi.org/10.1111/2047-3095.12321.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Butcher</surname>
+							<given-names>RC</given-names>
+						</name>
+						<name>
+							<surname>Jones</surname>
+							<given-names>DA</given-names>
+						</name>
+					</person-group>
+					<article-title>An integrative review of comprehensive nursing assessment tools developed based on Gordon’s eleven functional health patterns</article-title>
+					<source>International Journal of Nursing Knowledge</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>32</volume>
+					<issue>4</issue>
+					<fpage>294</fpage>
+					<lpage>307</lpage>
+					<pub-id pub-id-type="doi">10.1111/2047-3095.12321</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>7. Zeballos F. Shock séptico en terapia intensiva adulto del hospital San Juan de Dios de la Ciudad de Tarija. Revista Científica de Salud y Desarrollo Humano [Internet]. 2024 [citado 20 ene 25];5(2):179-187. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://revistavitalia.org/index.php/vitalia/article/view/128/201">https://revistavitalia.org/index.php/vitalia/article/view/128/201</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zeballos</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<article-title>Shock séptico en terapia intensiva adulto del hospital San Juan de Dios de la Ciudad de Tarija</article-title>
+					<source>Revista Científica de Salud y Desarrollo Humano</source>
+					<year>2024</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 25</date-in-citation>
+					<volume>5</volume>
+					<issue>2</issue>
+					<fpage>179</fpage>
+					<lpage>187</lpage>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://revistavitalia.org/index.php/vitalia/article/view/128/201">https://revistavitalia.org/index.php/vitalia/article/view/128/201</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>8. Cisneros AD, López PL. Modelo de análisis de resultados del estado actual (AREA) en un paciente con VIH/SIDA para el plan de cuidados de enfermería. Caso clínico. Casos y revisiones de Salud [Internet]. 2021 [citado 20 ene 2025];3(2):26-35. Disponible: https://doi.org/10.22201/fesz.26831422e.2021.3.2.4.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cisneros</surname>
+							<given-names>AD</given-names>
+						</name>
+						<name>
+							<surname>López</surname>
+							<given-names>PL</given-names>
+						</name>
+					</person-group>
+					<article-title>Modelo de análisis de resultados del estado actual (AREA) en un paciente con VIH/SIDA para el plan de cuidados de enfermería</article-title>
+					<source>Caso clínico. Casos y revisiones de Salud</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>3</volume>
+					<issue>2</issue>
+					<fpage>26</fpage>
+					<lpage>35</lpage>
+					<pub-id pub-id-type="doi">10.22201/fesz.26831422e.2021.3.2.4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>9. Heather HT, Kamitsuru S, Lopes CT. Diagnósticos enfermeros. Definiciones y clasificación 2024-2026. 13va. España: Elsevier. 2024.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Heather</surname>
+							<given-names>HT</given-names>
+						</name>
+						<name>
+							<surname>Kamitsuru</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Lopes</surname>
+							<given-names>CT</given-names>
+						</name>
+					</person-group>
+					<source>Diagnósticos enfermeros. Definiciones y clasificación 2024-2026</source>
+					<edition>13</edition>
+					<publisher-loc>España</publisher-loc>
+					<publisher-name>Elsevier</publisher-name>
+					<year>2024</year>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>10. Moorhead S, Swanson E, Johnson M. Clasificación de resultados de enfermería (NOC). 7ma ed. España: Elsevier. 2024.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Moorhead</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Swanson</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Johnson</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<source>Clasificación de resultados de enfermería (NOC)</source>
+					<edition>7ma</edition>
+					<publisher-loc>España</publisher-loc>
+					<publisher-name>Elsevier</publisher-name>
+					<year>2024</year>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>11. Wagner CM, Butcher HK, Clarke MF. Clasificación de intervenciones de enfermería (NIC). 8va ed. España: Elsevier. 2024.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wagner</surname>
+							<given-names>CM</given-names>
+						</name>
+						<name>
+							<surname>Butcher</surname>
+							<given-names>HK</given-names>
+						</name>
+						<name>
+							<surname>Clarke</surname>
+							<given-names>MF</given-names>
+						</name>
+					</person-group>
+					<source>Clasificación de intervenciones de enfermería (NIC)</source>
+					<edition>8va</edition>
+					<publisher-loc>España</publisher-loc>
+					<publisher-name>Elsevier</publisher-name>
+					<year>2024</year>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>12. Camargo RR. Visión holística de la bioética en la pandemia COVID-19. Acta Colomb Cuidado Intensivo [Internet]. 2021 [citado 20 ene 2025];22(Supl):S79-S92. Disponible en: https://doi.org/10.1016/j.acci.2021.03.003</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Camargo</surname>
+							<given-names>RR</given-names>
+						</name>
+					</person-group>
+					<article-title>Visión holística de la bioética en la pandemia COVID-19</article-title>
+					<source>Acta Colomb Cuidado Intensivo</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>22</volume>
+					<issue>Supl</issue>
+					<fpage>S79</fpage>
+					<lpage>S92</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.acci.2021.03.003</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>13. Sa MB, Salaverría I, Cabas AC. Fluidoterapia en la sepsis y el choque séptico. Medicina intensiva [Internet]. 2022 [citado 20 ene 2025];46(S1):14-25. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.medintensiva.org/es-pdf-S0210569122000961">https://www.medintensiva.org/es-pdf-S0210569122000961</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sa</surname>
+							<given-names>MB</given-names>
+						</name>
+						<name>
+							<surname>Salaverría</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Cabas</surname>
+							<given-names>AC</given-names>
+						</name>
+					</person-group>
+					<article-title>Fluidoterapia en la sepsis y el choque séptico</article-title>
+					<source>Medicina intensiva</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>46</volume>
+					<issue>S1</issue>
+					<fpage>14</fpage>
+					<lpage>25</lpage>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.medintensiva.org/es-pdf-S0210569122000961">https://www.medintensiva.org/es-pdf-S0210569122000961</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>14. Barahona-Correa J, Pérez CV, Rondón-Carvajal J, Laserna A. Agentes vasoactivos en sepsis: revisión crítica de la literatura. Univ. Med [Internet]. 2022 [citado 20 ene 2025];64(2):1-17. https://doi.org/10.11144/Javeriana.umed64-2.seps.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barahona-Correa</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Pérez</surname>
+							<given-names>CV</given-names>
+						</name>
+						<name>
+							<surname>Rondón-Carvajal</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Laserna</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Agentes vasoactivos en sepsis: revisión crítica de la literatura</article-title>
+					<source>Univ. Med</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>64</volume>
+					<issue>2</issue>
+					<fpage>1</fpage>
+					<lpage>17</lpage>
+					<pub-id pub-id-type="doi">10.11144/Javeriana.umed64-2.seps</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>15. Bleakley GC. Recognition and management of sepsis: the nurse’s role. British Journal of Nursing [Internet]. 2020 [citado 20 ene 2025];29(21):1248-1251. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/33242267/">https://pubmed.ncbi.nlm.nih.gov/33242267/</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bleakley</surname>
+							<given-names>GC</given-names>
+						</name>
+					</person-group>
+					<article-title>Recognition and management of sepsis: the nurse’s role</article-title>
+					<source>British Journal of Nursing</source>
+					<year>2020</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>29</volume>
+					<issue>21</issue>
+					<fpage>1248</fpage>
+					<lpage>1251</lpage>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/33242267/">https://pubmed.ncbi.nlm.nih.gov/33242267/</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>16. López DM, Castillo MM, García DC, Hernández AB. Proceso de atención de enfermería en estado de choque séptico con deterioro del intercambio de gases. Ciencia Latina [Internet]. 2025 [citado 20 ene 2025];9(3):6892-6909. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://ciencialatina.org/index.php/cienciala/article/view/18333">https://ciencialatina.org/index.php/cienciala/article/view/18333</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>López</surname>
+							<given-names>DM</given-names>
+						</name>
+						<name>
+							<surname>Castillo</surname>
+							<given-names>MM</given-names>
+						</name>
+						<name>
+							<surname>García</surname>
+							<given-names>DC</given-names>
+						</name>
+						<name>
+							<surname>Hernández</surname>
+							<given-names>AB</given-names>
+						</name>
+					</person-group>
+					<article-title>Proceso de atención de enfermería en estado de choque séptico con deterioro del intercambio de gases</article-title>
+					<source>Ciencia Latina</source>
+					<year>2025</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>9</volume>
+					<issue>3</issue>
+					<fpage>6892</fpage>
+					<lpage>6909</lpage>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://ciencialatina.org/index.php/cienciala/article/view/18333">https://ciencialatina.org/index.php/cienciala/article/view/18333</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>17. Martin LI. Sistemas de aspiración de secreciones cerrados: indicaciones y cuidados. Ene [Internet]. 2021 [citado: 20 ene 2025];15(1):1051. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1988-348X2021000100007&amp;lng=es">https://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1988-348X2021000100007&amp;lng=es</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martin</surname>
+							<given-names>LI</given-names>
+						</name>
+					</person-group>
+					<article-title>Sistemas de aspiración de secreciones cerrados: indicaciones y cuidados</article-title>
+					<source>Ene</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>15</volume>
+					<issue>1</issue>
+					<issue-part>1051</issue-part>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1988-348X2021000100007&amp;lng=es">https://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1988-348X2021000100007&amp;lng=es</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>18. Ramos BP. Neumonía asociada a ventilación mecánica: actuación de enfermería en las unidades de cuidados intensivos. Revisión bibliográfica. Rev. Portales Médicos [Internet]. 2022 [citado: 20 ene 2025];17(9):344. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://tinyurl.tools/8512c257">https://tinyurl.tools/8512c257</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ramos</surname>
+							<given-names>BP</given-names>
+						</name>
+					</person-group>
+					<article-title>Neumonía asociada a ventilación mecánica: actuación de enfermería en las unidades de cuidados intensivos. Revisión bibliográfica</article-title>
+					<source>Rev. Portales Médicos</source>
+					<year>2022</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>17</volume>
+					<issue>9</issue>
+					<issue-part>344</issue-part>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://tinyurl.tools/8512c257">https://tinyurl.tools/8512c257</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>19. Condori-Rodríguez E, Ajllahuanca-Callisaya V. Factores de riesgo asociados a complicaciones de heridas quirúrgicas en pacientes COVID-19. Rev Cient Cien Méd [Internet]. 2021[citado 20 ene 2025];24(2):95-101. Disponible en: https://doi.org/10.51581/rccm.v24i2.397</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Condori-Rodríguez</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Ajllahuanca-Callisaya</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<article-title>Factores de riesgo asociados a complicaciones de heridas quirúrgicas en pacientes COVID-19</article-title>
+					<source>Rev Cient Cien Méd</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>24</volume>
+					<issue>2</issue>
+					<fpage>95</fpage>
+					<lpage>101</lpage>
+					<pub-id pub-id-type="doi">10.51581/rccm.v24i2.397</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>20. Domínguez-Saavedra G, Hernández-Galván J. Actualización en el manejo de heridas. Cir Plast [Internet]. 2021 [citado 20 ene 2025];31(3):124-136. Disponible en: https://dx.doi.org/10.35366/103715</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Domínguez-Saavedra</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Hernández-Galván</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>Actualización en el manejo de heridas</article-title>
+					<source>Cir Plast</source>
+					<year>2021</year>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-20">20 ene 2025</date-in-citation>
+					<volume>31</volume>
+					<issue>3</issue>
+					<fpage>124</fpage>
+					<lpage>136</lpage>
+					<pub-id pub-id-type="doi">10.35366/103715</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>COMO CITAR: López-Navarro J, Valle-Figueroa M, Quintana-Zavala M, Ponce-Meza C, Figueroa-Ibarra C. Proceso de enfermería a persona con choque séptico postoperada de laparotomía en terapia intensiva. SANUS[Internet]. 2025 [citado dd mmm aaaa];10(21):e566. Disponible en: DOI/URL</p>
+			</fn>
+		</fn-group>
+	</back>
+	<sub-article article-type="translation" id="s1" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Praxis</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>The nursing process for a patient with postoperative septic shock following a laparotomy in intensive care</article-title>
+			</title-group>
+			<abstract>
+				<title>Abstract</title>
+				<sec>
+					<title>Introduction:</title>
+					<p> Septic shock is a life-threatening multisystem disorder caused by a severe infection that compromises tissue perfusion. In this context, applying the nursing process is essential in order to provide comprehensive, personalized, evidence-based care. </p>
+				</sec>
+				<sec>
+					<title>Objective:</title>
+					<p> To apply the nursing process to a patient with septic shock of intestinal origin, who has undergone exploratory laparotomy and is hospitalized in the ICU. </p>
+				</sec>
+				<sec>
+					<title>Methodology:</title>
+					<p> A clinical case study of a 41-year-old female patient was conducted based on the nursing process and Gordon's Functional Health Patterns. Standardized language was used for the nursing diagnoses, expected outcomes and nursing interventions. An assessment was performed to identify altered human needs and establish care plan priorities. Ethical considerations were taken into account, with personal data protected through anonymity and confidentiality. </p>
+				</sec>
+				<sec>
+					<title>Results:</title>
+					<p> Six priority nursing diagnoses were identified, namely, risk of shock; impaired gas exchange; ineffective airway clearance; risk of bronchoaspiration; hypothermia; and impaired tissue integrity. Expected outcomes included hemodynamic stabilization, improved respiratory status and progression in wound healing. Proposed nursing interventions included managing septic shock, assisting with mechanical ventilation, suctioning secretions, and promoting wound healing, all of which contributed to the patient's improvement. </p>
+				</sec>
+				<sec>
+					<title>Conclusions:</title>
+					<p> Applying the nursing process enabled systematic care to be provided, critical thinking to be used, and standardized nursing language to be employed. This promoted care that focused on the individual needs of critically ill patients with septic shock.</p>
+				</sec>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>Key words:</title>
+				<kwd>Nursing process</kwd>
+				<kwd>Septic shock</kwd>
+				<kwd>Critical care nursing (DeCS)</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="intro">
+				<title>Introduction</title>
+				<p>The nursing profession involves providing care based on specific knowledge and techniques for individuals, families, or communities, using the Nursing Process (NP) methodology. This methodology is defined as a set of logical, dynamic, and systematic steps aimed at providing nursing care based on scientific evidence and critical thinking <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>.</p>
+				<p>During the nursing process, nurses assess and diagnose patients, planning, executing and evaluating interventions aimed at improving and/or maintaining health. They consider the totality, safety and continuity of care required <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>. Critically ill patients are usually treated in intensive care units (ICUs) or critical care units. One of the most complex problems in this context is the septic process, which is a major cause of morbidity and mortality, particularly when multiple organ dysfunctions are present. This affects different organs and systems, gradually progressing to septic shock. This results in prolonged ICU stays, high hospital costs, and a decrease in the quality of life of surviving patients <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>.</p>
+				<p>The severity of patients' illnesses and complications when they are admitted to the ICU makes it essential to provide them with the necessary care and continuity of care. This emphasizes the importance of implementing the NP as a scientific methodology in the ICU, thereby ensuring high-quality care that considers the various needs of patients <xref ref-type="bibr" rid="B4"><sup>4</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B5"><sup>5</sup></xref>. Marjory Gordon's Functional Health Patterns (FHP) assessment framework provides a comprehensive overview of how individuals, families and communities respond to various life processes and/or health issues. The framework is based on eleven FHPs, which enable a holistic patient assessment and the accurate identification of human responses. This allows for the selection of appropriate nursing interventions to improve life processes, resolve health problems, and reduce risks <xref ref-type="bibr" rid="B6"><sup>6</sup></xref>.</p>
+				<p>Septic shock is a challenging pathology for the healthcare sector, nursing staff and, of course, those who experience it and their families. In the case of public hospitals, the healthcare sector faces high economic costs associated with complications and procedures, as well as increased mortality rates. For nursing staff, it is challenging due to the complexity of the care involved. For patients and their families, it is challenging because their lives are at risk due to the complex pathology induced by the host's immune system response to an infectious process <xref ref-type="bibr" rid="B7"><sup>7</sup></xref>. Therefore, we present a clinical case in which we apply the NP to a patient with intestinal septic shock following exploratory laparotomy admitted to the ICU. </p>
+			</sec>
+			<sec sec-type="methods">
+				<title>Methodology</title>
+				<p>This is a single clinical case study of a 41-year-old woman in the ICU over the course of three days of nursing intervention. It is based on the 11 PFS nursing process for nursing assessment, developed by Marjory Gordon. The NP was developed in accordance with the five stages: A nursing assessment was performed, during which data was collected through physical examination and secondary sources. A critical analysis was then carried out, documenting the findings and identifying six nursing diagnoses, which were prioritized using the Analysis of Current State Results (in Spanish Area) nursing model as a clinical reasoning tool to analyze the results of the current status, next, care was planned, (<xref ref-type="fig" rid="f2">Figure 1</xref>).</p>
+				<p>
+					<fig id="f2">
+						<label>Figure 1</label>
+						<caption>
+							<title>Nursing diagnosis reasoning network according to the AREA model, 2025.</title>
+						</caption>
+						<graphic xlink:href="2448-6094-sanus-10-21-e566-gf2.jpg"/>
+						<attrib>Source: Self-developed</attrib>
+					</fig>
+				</p>
+				<p>In the planning stage, care plans were developed using the professional taxonomies of Nursing Diagnoses (NANDA-I), Expected Outcomes (NOC) and Nursing Interventions (NIC) to facilitate the implementation and evaluation of interventions by nursing staff, and to assess their effectiveness and efficiency. The information obtained is documented in the care plan formats and details the interventions performed and the patient's progress. The study was based on ethical principles that guaranteed anonymity and confidentiality during the collection of data, as well as respect for the following ethical principles relating to patients: autonomy, justice, non-maleficence and beneficence <xref ref-type="bibr" rid="B12"><sup>12</sup></xref>.</p>
+			</sec>
+			<sec sec-type="cases">
+				<title>Case presentation:</title>
+				<p>M.C.A.G., is a 41-year-old Mexican female patient who was brought by ambulance to the emergency department of a public hospital with suspected pneumonia due to bronchoaspiration and infection of a surgical wound following exploratory laparotomy secondary to intestinal obstruction with intestinal diversion (ascending colostomy). Family history includes systemic arterial hypertension and hypercholesterolemia on both paternal and maternal sides.</p>
+				<p>The patient was admitted on february 15, 2023, in a drowsy state with signs of respiratory distress: Tachypnoea (30 breaths per minute), intercostal retractions and respiratory grunting. She was therefore given oxygen therapy with a reservoir mask at a flow rate of 10 liters per minute. She presented with sinus tachycardia (120 beats per minute), arterial hypotension (80/40 mmHg), hypoxaemia (85 %), and signs of tissue hypoperfusion (generalized pallor and a capillary refill time of six seconds). Fluid therapy was initiated with Hartmann's solution at 125 ml/h and norepinephrine at 5 ml/h. Intestinal hypoperistalsis and an absence of intestinal elimination via the ostomy were identified. Urinary elimination was achieved via a Foley catheter, revealing oliguria (0.3 ml/kg/h) and high urine concentration.</p>
+				<p>Subsequently, she continued to show signs of septic shock and hemodynamic instability, necessitating a progressive increase in the vasopressor dose to 15 ml/h; additionally, there was an increase in respiratory failure, with hypoxaemia (83 %) and tachypnoea at 35 breaths per minute (bpm), despite oxygen therapy support with a reservoir mask. Invasive respiratory support was indicated, so orotracheal intubation was performed using an 8-gauge tube and assisted-controlled mechanical ventilation with an inspired oxygen fraction (FiO₂) of 100 %, an inspiratory pressure (IP) of 15 cmH₂O, a positive end-expiratory pressure (PEEP) of 7 cmH₂O, an inspiration-to-expiration ratio (I:E) of 1:2 and a cycle frequency (CF) of 15 per minute. Support was provided through deep sedation and analgesia using an infusion of midazolam (100 mg/100 ml of 0.9% sodium chloride solution) at 14 ml/h, undiluted propofol (1 g/100 ml) at 15 ml/h and undiluted fentanyl (500 μg/10 ml) at 2 ml/h, onium 250 mg diluted in 100 ml of 0.9 % sodium chloride solution at 7 ml/h. Subsequently, antibiotic therapy with carbapenems and lincosamides was initiated.</p>
+				<p>Secondary sources reported mixed acidosis, leukocytosis and thrombocytopenia. A chest X-ray showed pulmonary radiolucency in the right apex and bilateral alveolar infiltration. Two days later, she was admitted to the ICU due to septic shock following exploratory laparotomy for intestinal obstruction, with subsequent intestinal diversion (ascending colostomy). She also presented with acute respiratory distress syndrome resulting from bronchoaspiration pneumonia and right pneumothorax.</p>
+				<p>The nursing assessment was performed three days after admission. With regard to nutritional and metabolic status, total parenteral nutrition was provided at an intake level of 1400 kcal, alongside fasting until further notice. The skin was intact with slight generalized pallor, adequate turgor and normal temperature in all areas. According to Kosier, axillary temperature measurement showed hypothermia (35.5 °C). The body mass index was 43.3 kg/m², indicating type III obesity according to NOM-008-SSA3-2017. A nasogastric tube was inserted to bypass the biliary system. According to the Godette scale, he had grade 2 edema in the upper and lower limbs (++). According to the Seidel Guide to Physical Examination, the head, scalp, face, neck and oral cavity showed no abnormalities.</p>
+				<p>The patient had a wound in the hypogastrium due to an exploratory laparotomy. There were sutures in the proximal two-thirds and slight visualization of granulation tissue in the distal third. There were also peripheral erythema and redness, as well as exposed passive drainage (Penrose) with purulent, slightly foul-smelling contents. This was correctly implanted. She also had a stage 2 pressure injury in the sacral area. The 24-hour fluid balance was positive at 676.5 ml. Laboratory tests showed hyperglycemia (153 mg/dL), leukocytosis (14.72 10³/μL), lymphopenia (47%), neutrophilia (91.9%) and normocytic hypochromic anemia (hemoglobin: 8.3 g/dL, mean corpuscular volume: 87 fL and mean corpuscular hemoglobin: 28.9 g/dL).</p>
+				<p>In terms of activity-exercise patterns, a normothorax was observed, with normal proportions between the anteroposterior and transverse diameters. The patient was undergoing assisted mechanical ventilation with established dynamic parameters: Assist/Control mode; pressure mode; IP: 15 cmH₂O; FiO₂: 50 %, PEEP: 8 cmH₂O and a heart rate of 18 per minute. An active humidifier was also in use. The patient had rales in the tracheal area. Oxygen saturation was borderline (93%), but within the normal range according to PISA. Tachypnoea (35 rpm) was evident, confirming moderate decoupling from the mechanical ventilator. Rales were present in the apices and bases of the lung fields. The patient had mild arterial hypotension (109/80 mmHg) and a mean arterial pressure (MAP) of 89 mmHg. She was dependent on a continuous infusion of 16 mg of norepinephrine in 100 ml of 5 % glucose solution at 18 ml/h. According to Seidel's physical examination guidelines, she had a response dose, sinus tachycardia (110 beats per minute) and normal central heart sounds.</p>
+				<p>The patient had a three-lumen FR 7 central venous catheter inserted in the right subclavian vein on 16 February 2023. There were no signs of bleeding or secretions. She had a prolonged capillary refill time of six seconds. She is at high risk of falling, with a Downton scale score of 5. Secondary sources revealed mixed acidosis (pH: 7.23; pCO₂: 82 mmHg; PO₂: 155 mmHg; HCO3 34.3 mmol/L; EB: -9). An anteroposterior chest X-ray showed diffuse alveolar infiltration affecting the airspace, as well as bilateral opacities at the bases and radiolucency at the right apex.</p>
+				<p>No alterations were observed in the sensory organs regarding cognitive-perceptual patterns, except for pupillary hyporeactivity to light, according to the Seidel Guide to Physical Examination. On the RASS scale, he scored -2, indicating moderate sedation. He showed slight eye opening and slight movement of the lower limbs but did not overcome gravity. Using the Behavioral Pain Scale (BPS), he was classified as experiencing unacceptable pain (6 points), demonstrating disconnection from the ventilator and movement of the lower limbs and slight facial contraction.</p>
+				<p>No alterations were observed in the genitals or mammary glands when exploring patterns of sexuality and reproduction.</p>
+				<p>However, no data could be obtained on health maintenance and perception, sleep and rest, self-perception and self-concept, roles and relationships, coping mechanisms and stress tolerance, or values and beliefs due to sedation, analgesia and invasive mechanical ventilation, as well as a lack of secondary information from family members.</p>
+			</sec>
+			<sec sec-type="results">
+				<title>Results</title>
+				<p>Through the PFS nursing assessment, nursing diagnoses were identified based on the actual or potential problems presented by the patient. Based on the data obtained from nutritional, metabolic, activity, exercise, and elimination patterns, the nursing diagnosis label: 00421 Inadequate fluid volume was primarily established as a priority for restoring the patient's hemodynamic status, (<xref ref-type="table" rid="t5">Table 1</xref>).</p>
+				<p>
+					<table-wrap id="t5">
+						<label>Table 1</label>
+						<caption>
+							<title>Care plan for the nursing diagnosis: 00421Inadequate fluid volume</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+    <tr>
+        <td style="border: 0; border-top: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;">Nursing Diagnosis (NANDA)</td>
+        <td style="border: 0; border-top: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;">Nursing Outcome (NOC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">00421. Inadequate fluid volume, which is related to</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">421. Shock severity: septic.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">difficulty obtaining fluids and inadequate fluid</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Domain: 2. Physiological health.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">intake, manifested by altered skin turgor, decreased</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Class: E. Cardiopulmonary.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">blood pressure, decreased pulse volume, decreased</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Indicators:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">urine output and increased heart rate.</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042101. Decreased systolic blood pressure.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042102. Decreased diastolic blood pressure.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042103. Increased heart rate.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042106. Increased respiratory rate.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042110. Decreased arterial oxygen.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042111. Increased body temperature.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042116. Pallor.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042117. Intravascular coagulation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042118. Decreased urine output.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">042119. Hypoactive bowel sounds.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Nursing Interventions (NIC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">4250. Shock management.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Field: 2. Physiological: Complex.</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Class: Tissue perfusion control.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Activities:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor vital signs, blood pressure, mental status and urine output.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Place the patient in a position that optimizes perfusion.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Ensure airway patency.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor pulse oximetry.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administer oxygen and/or mechanical ventilation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Use an arterial line to improve the accuracy of blood pressure readings.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Perform an arterial blood gas analysis.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor trends in hemodynamic parameters.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor the factors that determine tissue oxygen supply.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Observe for signs of respiratory failure.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor laboratory values.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administer crystalloid or colloid fluids intravenously as required.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor the hyperdynamic state of septic shock following fluid resuscitation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Antibiotic treatment should be started early and its effectiveness carefully monitored.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor blood glucose levels and treat abnormal levels on a case-by-case basis.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor hydration status.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor kidney function.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administer diuretics.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administer prophylaxis for deep vein thrombosis (DVT) and stress ulcers.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">4255. Shock management: Septic.</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 0; text-align: left; padding-left: 10px;">Field: 2. Physiological: Complex.</td>
+    </tr>
+    <tr>
+      <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Tissue perfusion control.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Activities:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Use the appropriate screening tools (qSOFA and SOFA) once the risk level has been established.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Assess vital signs and laboratory values according to the criteria prescribed in the screening tools.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Remove any possible sources of infection.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Follow the sepsis care package protocol for all individuals with positive screening results and confirmed infections</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">within the established timeframes.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Lactate levels should be continuously monitored when they exceed 2 mmol/L.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administer antibiotics promptly.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Use vasopressors to maintain a mean arterial pressure (MAP) of at least 65 mmHg.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Reassess volume status and tissue perfusion after the initial administration of fluids if hypotension persists (i.e. if</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">MAP is less than 65 mmHg) or if the initial lactate level was equal to or greater than 4 mmol/L.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Keep a record of all reassessments and ongoing resuscitation measures.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Eligible at-risk individuals should undergo continuous screening using the Sequential Organ Failure Assessment</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">(SOFA) criteria.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor early detection indicators.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Provide instructions on recognizing the signs of infection, taking temperature readings, completing all prescribed</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">courses of antibiotics and the importance of time in the event of serious infections.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Nursing Evaluation</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Each indicator was evaluated using the NOC Likert scale based on specific activities performed. Initially, indicators</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">042101 and 042102 (referring to blood pressure) increased substantially from 2 to 4 with intravenous vasopressor</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">infusion and fluid resuscitation support. The patient's vital signs were constantly monitored, and changes were</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">observed in respiratory rate (indicator 042106) and arterial oxygen saturation (indicator 042110). Invasive</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">mechanical ventilation support increased these indicators from 1 to 3.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Hydration status and renal function (indicators 042116 and 042118) were monitored by calculating hourly urine</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">output. The administration of fluids and diuretics stimulated urine output, improving the indicators from 3 to 5</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">(from 0.3 to 0.7 ml/kg/h).</td>
+    </tr>
+    </tbody>
+</table>
+						<table-wrap-foot>
+							<fn id="TFN5">
+								<p>Source: Self-developed</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Secondly, nursing diagnosis: 00030 Impaired gas exchange, as a priority human response to invasive ventilatory support was established when assessing the patient's respiratory function in the activity-exercise pattern, (<xref ref-type="table" rid="t6">Table 2</xref>).</p>
+				<p>
+					<table-wrap id="t6">
+						<label>Table 2</label>
+						<caption>
+							<title>Care plan for the nursing diagnosis 00030 Impaired gas exchange</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+    <tr>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 350px;">Nursing Diagnosis (NANDA)</td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 350px;">Nursing Outcome (NOC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">00030. Impaired gas exchange, which is related</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">0411. Mechanical ventilation response: Adult.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">to an ineffective breathing pattern, manifested</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Domain: II. Physiological health.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">by hypercapnia (82 mmHg), abnormal arterial</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Class: E. Cardiopulmonary.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">pH (7.23), abnormal skin color, hypoxemia,</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Indicators:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">hypoxia, tachycardia, and tachypnea.</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">0D41102. Respiratory rate.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041103. Respiratory rhythm.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041107. Vital capacity.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041108. Fraction of inspired oxygen (FiO2) meets oxygen</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">demand.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041109. Partial pressure of oxygen in arterial blood (PaO2).</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041110. Partial pressure of carbon dioxide in arterial blood</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">(PaCO2).</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041111. Arterial pH.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041112. Oxygen saturation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041113. Peripheral tissue perfusion.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041124. Difficulty breathing with ventilator.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041127. Adventitious breath sounds.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041134. Atelectasis.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041130. Hypoxia.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041131. Pulmonary infection.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041132. Respiratory secretions.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041137. Cognition.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041128. Restlessness.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Nursing Interventions (NIC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">3300. Management of mechanical ventilation: invasive.</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 0; text-align: left; padding-left: 10px;">Field: 2. Physiological: Complex.</td>
+    </tr>
+    <tr>
+      <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">Class: K. Respiratory Management.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Activities:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Consult with other healthcare professionals to select the ventilator mode.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Ensure that the ventilator alarms are connected.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Regularly check all ventilator connections.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administer appropriate muscle relaxants, sedatives and narcotic analgesics, and manage them effectively.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor symptoms indicating increased respiratory effort.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor the patient's physiological and psychological status to assess the effectiveness of mechanical ventilation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Provide care to relieve the patient's discomfort.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Empty the condensed water from the collectors.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Perform suctioning if there are adventitious sounds and/or increased inspiratory pressures.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor the amount, color and consistency of pulmonary secretions, documenting the results periodically.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Encourage routine assessments to establish weaning criteria.</td>
+    </tr>
+
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Establish oral care routine using soft, moist gauze, antiseptic and gentle suction.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor the effects of ventilator changes on oxygenation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">2260. Sedation management.</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 0; text-align: left; padding-left: 10px;">Domain: 2. Physiological: complex.</td>
+    </tr>
+    <tr>
+      <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Class: H. Medication management.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Activities:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Check for drug allergies.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Review medications and check for contraindications to sedation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Review the written informed consent.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Assess the patient's level of consciousness and protective reflexes before proceeding with sedation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Determine baseline vital signs, oxygen saturation, ECG, height, and weight.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Ensure that emergency resuscitation equipment was readily available: a source for administering 100 % O2,</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">emergency medication, and a defibrillator.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Administer medication according to the physician's prescription, carefully adjusting the dosage according to the</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">patient's response.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor the patient's level of consciousness, airways, vital signs, oxygen saturation, end-tidal CO2 and ECG during</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">the procedure.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor for any adverse effects resulting from the medication after it has been administered.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Use a sedation scale (RASS) to determine the level of consciousness.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Ensure antagonists are available and administer them as appropriate according to the physician's prescription.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">Keep a record of actions taken and responses observed.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Nursing Evaluation</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">The results of the assessed NOCs improved substantially. This included improvements in respiratory rate, rhythm</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">and capacity, which increased from level 1 to level 4 thanks to specific changes made to the mechanical ventilator</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">and an increase in the sedation dose as medically indicated. The response and consciousness status were constantly</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">assessed using the Richmond Agitation and Sedation Scale, with indicator 041128 improving from 2 to 4. Arterial</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">pH and carbon dioxide levels remained at 3 as there was no improvement in the signs of respiratory acidosis.</td>
+    </tr>
+    </tbody>
+</table>
+						<table-wrap-foot>
+							<fn id="TFN6">
+								<p>Source: Self-developed</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>The nursing diagnosis 00031 Ineffective airway clearance, was also established in response to a decreased neurological response due to induced sedation and analgesia, as well as increased secretion production due to irritation from the orotracheal tube, (<xref ref-type="table" rid="t7">Table 3</xref>).</p>
+				<p>
+					<table-wrap id="t7">
+						<label>Table 3</label>
+						<caption>
+							<title>Care plan for the nursing diagnosis 00031Ineffective airway clearance</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+    <tr>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;">Nursing Diagnosis (NANDA)</td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;">Nursing Outcome (NOC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">00031. Ineffective airway clearance, which is related to</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">04:10. Respiratory status: Airway patency.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">secretion retention, manifested by adventitious breath</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Domain: II. Physiological health.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">sounds, altered breathing pattern, and tachypnea.</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Class: E. Cardiopulmonary.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Indicators:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041004. Respiratory rate.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041005. Respiratory rhythm.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041012. Ability to clear secretions.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">04:10:22. Body Mass Index (BMI).</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041007. Abnormal breath sounds.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041018. Use of accessory muscles.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041028. Secretions in the airways.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">041030. Inflammation of airway tissues.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Nursing Interventions (NIC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">3900. Airway suctioning.</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 0; text-align: left; padding-left: 10px;">Field: 2. Physiological: Complex.</td>
+    </tr>
+    <tr>
+      <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Class: K. Respiratory management.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Activities:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Wash hands.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Use universal precautions.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Use personal protective equipment.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Determine the need for oral and/or tracheal suctioning.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Auscultate breath sounds before and after suctioning.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Provide sedation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Hyperoxygenate with 100% oxygen for at least 30 seconds using the ventilator.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Use closed-system suction.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Use sterile disposable equipment for each suctioning procedure.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">If a closed tracheal suction system or oxygen insufflation device adapter is used, leave the patient connected to the</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">ventilator during suctioning.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor the patient's oxygen status.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Stop tracheal suction and administer supplemental oxygen if the patient experiences bradycardia, increased</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">ventricular extrasystoles and/or desaturation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Observe and check the color, amount and consistency of secretions.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Nursing Evaluation</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Using the established NIC, it was possible to increase the Likert score for certain NOC indicators. The patient's</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">respiratory rate decreased to normal values, i.e., the score for indicator 041004 increased from 3 to 5, and indicator</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">041005 improved significantly. In addition, rales, which are pathological breathing sounds, disappeared completely.</td>
+    </tr>
+    </tbody>
+</table>
+						<table-wrap-foot>
+							<fn id="TFN7">
+								<p>Source: Self-developed</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Regarding the findings in the metabolic nutritional pattern, nursing diagnosis 00044 Impaired tissue integrity, was established, (<xref ref-type="table" rid="t8">Table 4</xref>).</p>
+				<p>
+					<table-wrap id="t8">
+						<label>Table 4</label>
+						<caption>
+							<title>Care plan for the nursing diagnosis 00044 Impaired tissue integrity</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+    <tr>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;">Nursing Diagnosis (NANDA)</td>
+        <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;">Nursing Outcome (NOC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">00044. Impairment of tissue integrity, which is related to</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">1103. Wound healing: Second intention.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">fluid and excretion imbalance, manifested by abnormal</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Domain: II. Physiological health.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;">tissue growth, skin color changes, and persistent erythema.</td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Class: L. Tissue integrity.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">Indicators:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110301. Granulation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110320 Scar formation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110321. Decrease in wound size.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110303. Purulent discharge.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110304. Serous discharge.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110305. Bloody discharge.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110307. Erythema of surrounding skin.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110322. Wound inflammation.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110308. Perilesional edema.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;"></td>
+        <td style="border: 0; text-align: left; padding-left: 10px;">110317. Foul odor from the wound.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Nursing Interventions (NIC)</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">3660. Wound care.</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 0; text-align: left; padding-left: 10px;">Field: 2. Physiological: Complex.</td>
+    </tr>
+    <tr>
+      <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Class: L. Skin/wound management.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Activities:</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Monitor oxygenation status before and after changing position.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Place the patient in the specified therapeutic position.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Ensure correct body alignment.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Elevate the affected body part.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Place supports on edematous areas (upper and lower limbs).</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Avoid placing the patient in positions that increase pain.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Minimize friction and shear forces when repositioning the patient.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Turn the patient as a whole.</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">Nursing Evaluation</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">The NIC applied to increase the NOC score was slightly effective, as the surgical wound presented severe</td>
+    </tr>
+    <tr>
+        <td style="border: 0; text-align: left; padding-left: 10px;" colspan="2">alterations. The NOC indicators increased from 1 to 2 with wound healing, and secretions and foul odor decreased</td>
+    </tr>
+    <tr>
+        <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;" colspan="2">slightly. However, the score remained unchanged in terms of granulation, reduction in size, and perilesional edema.</td>
+    </tr>
+    </tbody>
+</table>
+						<table-wrap-foot>
+							<fn id="TFN8">
+								<p>Source: Self-developed</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+			</sec>
+			<sec sec-type="discussion">
+				<title>Discussion</title>
+				<p>The patient was in septic shock and presented with severe hypotension despite resuscitation with fluid therapy. The patient also required a vasopressor infusion to maintain a mean arterial pressure of over 65 mmHg and had hyperlactacidaemia of over 20 mg/dL despite receiving adequate fluids. This required specific interventions to address the nursing diagnosis (00421) inadequate fluid volume, as well as to assess the severity of the patient's shock. The authors <xref ref-type="bibr" rid="B13"><sup>13</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B14"><sup>14</sup></xref> agree that administering vasoactive agents and fluid resuscitation in cases of sepsis is important for improving tissue perfusion and achieving different objectives.</p>
+				<p>Similarly, one researcher emphasizes the vital importance of nursing professionals identifying septic shock, given that it causes changes that endanger the patient's health. The author describes various nursing interventions, such as administering intravenous fluids, medications and oxygen therapy, as well as monitoring fluid balance, to improve the patient's health and prevent future complications <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>.</p>
+				<p>On the other hand, for the management of nursing diagnosis (00030) Impaired gas exchange, invasive mechanical ventilation was used with volumes between 6 and 12 ml/kg for patients with acute respiratory distress. For the management of nursing diagnosis (00031) Ineffective airway clearance, the recommendation to improve respiratory ventilation is to suction airway secretions, and to limit the risk of bronchoaspiration, raise the head of the bed between 30° and 45° <xref ref-type="bibr" rid="B16"><sup>16</sup></xref>. These interventions are related to what has been described by various authors <xref ref-type="bibr" rid="B17"><sup>17</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B18"><sup>18</sup></xref>, who have shown that activities such as secretion removal facilitate ventilatory and blood oxygenation mechanisms and help prevent complications, mainly pneumonia caused by microorganisms.</p>
+				<p>The patient's septic process originated from a contaminated surgical wound. This required the development of interventions to update the management of chronic wounds using different healing methods, which is considered of great importance to the nursing profession. This posed a significant challenge for the nursing team, as it would be difficult to heal the affected area without the appropriate treatments. There was also a possibility of local and systemic complications developing <xref ref-type="bibr" rid="B19"><sup>19</sup></xref>.</p>
+				<p>Various interventions are available, such as advanced wound care, which promotes healing through the principle of moist wound healing. However, passive products are considered a negative practice in the management of chronic wounds as they have a low absorption capacity and can cause infections <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>.</p>
+				<p>Among the limitations of the study are the patient's health status and restrictions on family visits, which meant that subjective information could not be obtained.</p>
+			</sec>
+			<sec sec-type="conclusions">
+				<title>Conclusions</title>
+				<p>Applying the NP to a patient with a medical diagnosis of intestinal septic shock enabled us to identify dysfunctional health patterns and formulate six nursing diagnoses. These were then ranked according to the AREA model. Expected health outcomes were selected and interventions to address these issues were presented. These interventions resulted in moderate improvements in hemodynamic, respiratory and urinary functions, demonstrating that specialized care for critically ill patients can address actual and/or potential health issues. The patient's health status improved slightly during the application of the nursing process. However, there was evidence of a high mortality risk.</p>
+				<p>On the other hand, among the updates to the standardized language of the nursing profession is an innovation in the selection of NOCs that specifies the type of shock severity to be assessed after an NIC. Examples include Shock severity: septic and Shock severity: cardiogenic. Similarly, when selecting an NIC, the type of shock to which the activities were applied is specified, such as septic shock management or cardiac shock management. These innovations in nursing science highlight the need to specify the type of NIC and define the activities aimed at improving patients' health status.</p>
+				<p>For nursing professionals, designing and applying the NP is a very important part of emergency, ICU and hospital services. This helps them to clearly identify human responses and pathophysiological processes, as well as the appropriate treatment, thereby improving survival rates for these patients.</p>
+			</sec>
+			<sec>
+				<title>Conflict of interest</title>
+				<p>The authors stated that they have no conflicts of interest. </p>
+			</sec>
+			<sec>
+				<title>Financing</title>
+				<p>There was no funding for the development of this research. </p>
+			</sec>
+			<sec>
+				<title>Artificial intelligence</title>
+				<p>The authors declare that they have not used any artificial intelligence resources in any of the sections of this manuscript.</p>
+			</sec>
+		</body>
+	</sub-article>
+</article>

@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biolex</journal-id>
+			<journal-title-group>
+				<journal-title>Biolex</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-5634</issn>
+			<issn pub-type="epub">2007-5545</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36796/biolex.v17i28.438</article-id>
+			<article-id pub-id-type="other">00119</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La investigación legislativa. Valoraciones y expectativas de su comunidad usuaria</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Legislative Research: Assessments and Expectations of Its User Community</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-1554-6984</contrib-id>
+					<name>
+						<surname>Zamora Sáenz</surname>
+						<given-names>Itzkuauhtli Benedicto</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Doctor en Ciencias Sociales</role>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Doctor en Ciencias Sociales, mención Sociología por la Facultad Latinoamericana de Ciencias Sociales, México. Investigador de la Dirección General de Análisis Legislativo del Instituto Belisario Domínguez del Senado de la República; itzkuauhtli.zamora@senado.gob.mx. Estancia Posdoctoral en el Instituto de Investigaciones Sociales de la UNAM. Ha impartido clases en la Facultad de Ciencias Políticas y Sociales (UNAM) y el Instituto Mora. Fue investigador del Centro para el Desarrollo Democrático del Instituto Nacional Electoral y del Programa Universitario de Estudios sobre la Ciudad. </institution>
+					<institution content-type="orgname">Instituto Belisario Domínguez del Senado de la República</institution>
+					<country country="MX">Mexico</country>
+					<email>itzkuauhtli.zamora@senado.gob.mx</email>
+				</aff>
+			</contrib-group>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>31</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>17</volume>
+			<issue>28</issue>
+			<elocation-id>e438</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>27</day>
+					<month>10</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>15</day>
+					<month>12</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El presente artículo define las características centrales de la investigación legislativa. El objetivo general consiste en presentar los resultados de una encuesta de opinión que se levantó en las oficinas de las y lo senadores que fueron reelectos en su cargo en la LXVI Legislatura para conocer su valoración y expectativas referentes a la investigación legislativa. Entre los resultados destaca la necesidad de que los informes sean breves y basados en fuentes confiables. Aunque se valora positivamente la existencia de los centros de investigación legislativa, resalta que no se han constituido en la principal fuente de información de las y los senadores para su trabajo parlamentario. Para subsanar este hecho se requiere mejorar la estrategia de transferencia y comunicación de los documentos de investigación. Aunque los resultados no pretenden ser generalizables, pueden ser un punto de referencia para que otros centros de investigación realicen estudios similares con la finalidad de revisar y mejorar su funcionamiento, así como fortalecer la vinculación con su comunidad usuaria. </p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>This article defines the core characteristics of legislative research. Its general objective is to present the results of an opinion survey conducted in the offices of senators who were reelected to office in the LXVI Legislature, with the aim of identifying their assessments and expectations regarding legislative research. Among the main findings is the need for reports that are concise and based on reliable sources. Although the existence of legislative research centers is viewed positively, the results indicate that they have not become the primary source of information for senators in their parliamentary work. Addressing this situation requires improving strategies for the transfer and communication of research outputs. While the results are not intended to be generalizable, they may serve as a reference point for other research centers to conduct similar studies in order to review and to improve their operations, as well as strengthening their engagement with their user communities.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>poder legislativo</kwd>
+				<kwd>centros de investigación</kwd>
+				<kwd>gestión del conocimiento</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>parliament</kwd>
+				<kwd>legislative research centers</kwd>
+				<kwd>knowledge management</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="4"/>
+				<table-count count="3"/>
+				<equation-count count="0"/>
+				<ref-count count="30"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>Existe un amplio consenso en las democracias contemporáneas sobre la importancia de utilizar el conocimiento científico a lo largo de todo el ciclo de la política pública, desde el diseño de la norma jurídica que la sustenta hasta su implementación, evaluación y monitoreo.<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> El argumento central sostiene que la comprensión de un problema de carácter público es más sólida si se elabora un diagnóstico basado en la mejor información disponible.<xref ref-type="fn" rid="fn2"><sup>2</sup></xref> De hecho, es importante recordar que un programa de investigación fundacional en las ciencias sociales propuso que la razón de ser de estas disciplinas radica en contribuir a la solución de problemas públicos, de forma que sus estudios puedan traducirse en políticas y programas gubernamentales.<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>
+			</p>
+			<p>El concepto de gestión del conocimiento cobró un notable auge a principios del siglo XXI, en gran medida debido a la masificación de las Tecnologías de la Información y la Comunicación. Con él se buscó destacar la importancia de que las organizaciones optimicen la generación y el flujo de la información que producen para mejorar el desempeño de sus funciones.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref> La atención puesta en la creación, transferencia, almacenamiento y aplicación de información orientada a la intervención sobre el entorno es lo que permite convertir la información en conocimiento.<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>
+			</p>
+			<p>La profesionalización del servicio público -a través de la implementación de esquemas de carrera y la creación o fortalecimiento de áreas especializadas dentro de las propias instituciones- coincidió con el surgimiento del enfoque de gestión del conocimiento. En sus inicios, prevalecía un gran optimismo sobre su capacidad para mejorar la toma de decisiones. Sin embargo, esta visión se moderó paulatinamente, al reconocerse que la relación entre conocimiento y solución de problemas no es lineal ni sencilla.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref> La complejidad de la realidad impide contar con un conocimiento completo y suficiente sobre todas las variables involucradas en una problemática determinada.<xref ref-type="fn" rid="fn7"><sup>7</sup></xref> Además, las acciones públicas generan con frecuencia consecuencias imprevistas o controversias en torno a qué soluciones son deseables para una colectividad.<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>
+			</p>
+			<p>Esto no implica renunciar a la gestión del conocimiento, sino asumir que sus alcances se desarrollan dentro de una racionalidad acotada:<xref ref-type="fn" rid="fn9"><sup>9</sup></xref> es preferible orientar la acción pública con base en la mejor evidencia disponible, antes que actuar guiados únicamente por intuiciones o convicciones ideológicas, si lo que se busca es atender de manera efectiva los problemas públicos. </p>
+			<p>Desde esta perspectiva, se comprende que quienes ocupan cargos de alta dirección en la administración pública, o quienes desempeñan funciones de representación popular, no pueden dominar con detalle todas las problemáticas que deben enfrentar en el marco de sus atribuciones. Para ello, se han creado áreas especializadas encargadas de generar o traducir conocimiento útil para la toma de decisiones. Por ejemplo, los censos y encuestas del Instituto Nacional de Estadística y Geografía (Inegi) resultan fundamentales para que el Poder Ejecutivo disponga de información sobre distintos procesos económicos, sociales y ambientales relevantes para orientar el desarrollo sostenible del país. Otro caso relevante lo constituye el Consejo Nacional de Evaluación de la Política de Desarrollo Social (Coneval), ahora incorporado al Inegi, que desempeñó un papel clave en la medición de los avances en el combate a la pobreza. </p>
+			<p>En el caso del Poder Legislativo, la gestión del conocimiento adquiere una relevancia primordial, dado que su función sustantiva consiste en elaborar el fundamento normativo a partir del cual se desarrollan todas las acciones y políticas públicas. Dicho de otro modo, las decisiones de cualquier autoridad, así como de otros actores sociales, deben estar respaldadas por el marco constitucional y legal vigente. Por ello, el diseño de normas jurídicas claras, pertinentes y bien implementadas puede contribuir significativamente al desarrollo sostenible y a la garantía de derechos para todas las personas. Bajo esta lógica se han fundado centros de investigación que ofrecen análisis y asesoría especializada para apoyar la deliberación parlamentaria.<xref ref-type="fn" rid="fn10"><sup>10</sup></xref> La organización de estos centros varía según la valoración y utilidad que les atribuye su comunidad usuaria, la cual incluye a las personas legisladoras y sus equipos de asesoría.<xref ref-type="fn" rid="fn11"><sup>11</sup></xref> Algunos países, como Estados Unidos y Chile, han optado por unificar en una sola entidad las funciones de investigación y los servicios de biblioteca especializada que atienden los requerimientos del Congreso. En México, cada cámara cuenta con diferentes centros de investigación que operan de manera independiente de otras áreas de apoyo parlamentario, como los servicios bibliotecarios o de protocolo diplomático, por mencionar algunos. </p>
+			<p>Una tendencia actual en la integración de estos centros de investigación es la composición multidisciplinaria de sus equipos de trabajo. Durante mucho tiempo, predominaron especialistas en Derecho constitucional y parlamentario. Sin embargo, ante la creciente complejidad de los temas que emergen en las sociedades contemporáneas (como la inteligencia artificial, la biotecnología o el cambio climático), se han incorporado especialistas en ciencias sociales y biofísicas que aportan evidencia desde los marcos teóricos y metodológicos de su disciplina, aunque la presentan en un formato relativamente estandarizado, de acuerdo con los principales criterios que definen la investigación legislativa. </p>
+			<p>El presente artículo tiene como hilo conductor la siguiente pregunta de investigación: ¿Cuáles son las expectativas que tienen las personas legisladoras y sus equipos de trabajo con respecto a los insumos que puede ofrecerle un centro de investigación legislativa como apoyo a su trabajo parlamentario? Para obtener información se realizó un sondeo de opinión en las oficinas de las y los senadores que fueron reelectos en su cargo en la Cámara alta para las LXVI y LXVII Legislaturas. Los resultados permiten hacer inferencias predominantes descriptivas;<xref ref-type="fn" rid="fn12"><sup>12</sup></xref> no obstante, para tener mayores elementos de análisis, en la primera parte del artículo se definen las principales características de la investigación legislativa que la distinguen de otros tipos de investigación aplicada. No se propone una visión monolítica ni concluyente sobre la investigación legislativa, pero sí se considera necesario avanzar en los fundamentos teóricos de este campo, de modo que los centros respondan a las necesidades de las instituciones a las que pertenecen y justifiquen el uso de los recursos públicos asignados.</p>
+		</sec>
+		<sec>
+			<title>II. Principios básicos de la investigación legislativa</title>
+			<p>El primer paso para identificar las características sustantivas de la investigación legislativa es precisar su definición y diferenciarla de otros usos que ha tenido el término. Por ejemplo, en ocasiones se emplea para referirse a los estudios que realizan universidades e instancias académicas sobre el Poder Legislativo. Estas investigaciones constituyen observaciones de segundo orden sobre el Parlamento que no pretenden ser insumos para el desempeño de las y los congresistas, aunque ciertamente pueden convertirse en espejos o cajas de resonancia para que el Legislativo analice sus actividades, su dinámica interna, su relación con otros poderes y su importancia para un régimen democrático.<xref ref-type="fn" rid="fn13"><sup>13</sup></xref> Otro uso común del término denomina a las comisiones extraordinarias que se crean para indagar un tema coyuntural de interés público. Estas comisiones forman parte de los mecanismos de control político que tiene el Poder Legislativo en un sistema democrático.<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>
+			</p>
+			<p>Para los fines del presente artículo, estos usos del término de “investigación legislativa” no corresponden a la gestión del conocimiento que realizan los centros de investigación al servicio del Congreso. De esta manera, por investigación legislativa se entenderán todas aquellas actividades de búsqueda, generación, sistematización y análisis de la información orientada a favorecer el trabajo de las y los legisladores. La manera en que se concreta este trabajo es muy amplia, aunque se podrían agrupar en la elaboración de documentos de apoyo (listados o reseñas bibliográficas comentadas, efemérides, numeralias, resúmenes de prensa, relatoría de eventos, por mencionar algunos) y documentos de investigación (reportes de investigación, encuestas, libros, etc.).<xref ref-type="fn" rid="fn15"><sup>15</sup></xref> Una diferencia sustantiva entre los documentos de apoyo y los documentos de investigación es que los segundos tienen la propensión a ofrecer análisis de mayor profundidad como pueden ser la realización de diagnósticos sobre un problema público que se quiere resolver mediante una nueva ley o la reforma a una existente; la revisión de técnica legislativa de una iniciativa para identificar problemas de redacción que le resten claridad y viabilidad a su cumplimiento, así como de integración sistémica con el ordenamiento jurídico existente;<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>
+				<xref ref-type="fn" rid="fn17"><sup>17</sup></xref> o la evaluación de los impactos <italic>ex ante</italic> o <italic>ex post</italic> de una nueva ley<xref ref-type="fn" rid="fn18"><sup>18</sup></xref>
+			</p>
+			<p>Como toda investigación aplicada, la legislativa responde a las necesidades de su comunidad usuaria (legisladoras, sus equipos de trabajo y personal técnico de las comisiones), por lo que los centros de investigación legislativa no tienen una libertad irrestricta para definir su agenda de investigación, ya que esta se configura a partir de la propia agenda del Congreso. </p>
+			<p>En términos de su aplicación o uso, aunque parece un aspecto demasiado obvio, se ha subrayado que los estudios de investigación legislativa no sustituyen de ninguna forma el trabajo y la atribución del Poder Legislativo, el cual cuenta con el mandato democrático de tomar decisiones relacionadas con el diseño y reforma de normas jurídicas.<xref ref-type="fn" rid="fn19"><sup>19</sup></xref> Los debates y los procesos políticolegislativos son los que crean el contenido de la norma, aunque es dentro del ciclo de su elaboración que la investigación legislativa procura contribuir a la deliberación con información oportuna y de calidad. </p>
+			<p>La investigación legislativa es una modalidad de la investigación aplicada y desde luego que dista de ser una disciplina científica en sí misma, por lo que carece de una metodología de investigación en particular, utilizará las metodologías y técnicas provenientes de las ciencias sociales, económicas y jurídicas de acuerdo con el problema particular que se está abordando. Ahora bien, hay métodos a los cuales se puede recurrir de manera más frecuente en los centros de investigación dada la solicitud de ciertos estudios como la Evaluación de Impacto Legislativo, los estudios de impacto presupuestal y el derecho comparado, por mencionar los más recurrentes. </p>
+			<p>En cuanto a su realización, la investigación legislativa se ha caracterizado a partir de tres criterios de elaboración que suelen coincidir con la misión de los propios centros de investigación. No es que estos atributos sean exclusivos de la investigación legislativa, pero su configuración sí resulta distintiva. Los criterios de elaboración más importantes son la imparcialidad, el sentido de la oportunidad, la explicación sintética y el lenguaje accesible. </p>
+			<p><italic>La imparcialidad</italic>. Sin duda, la imparcialidad es la principal característica de la investigación legislativa porque se espera que cualquier estudio sea de utilidad para todos los grupos políticos con representación en el Parlamento. La información no puede estar sesgada para favorecer ciertos intereses de partido o de algún grupo de presión.<xref ref-type="fn" rid="fn20"><sup>20</sup></xref> Este predominio de la imparcialidad es todavía más importante tomando en cuenta que la comunidad usuaria de estas investigaciones se caracteriza por sus intereses eminentemente políticos. </p>
+			<p>La investigación legislativa implica una vigilancia epistemológica continua para no emitir juicios de valor o proponer cursos de acción normativa, de manera que se debe distinguir claramente la frontera entre un dato y una opinión.<xref ref-type="fn" rid="fn21"><sup>21</sup></xref> En todo caso, la investigación podría incluir los argumentos a favor y en contra de determinada iniciativa o hacer una recapitulación sobre el debate científico que hay sobre temas que generan mucha controversia para que la persona legisladora tenga conocimiento sobre el estado de la cuestión.<xref ref-type="fn" rid="fn22"><sup>22</sup></xref>
+			</p>
+			<p>Aunque la imparcialidad sea la principal característica de la investigación legislativa, su ejercicio no está exento de la polémica, ya que se puede considerar que asumirla a cabalidad es una claudicación del potencial crítico que tienen las ciencias sociales. Desde mi perspectiva, los argumentos claves radican en que la investigación tiene que ser de utilidad para cualquier partido con representación en el Congreso (i)<xref ref-type="fn" rid="fn23"><sup>23</sup></xref> y en que la función del personal de investigación en un centro que da servicio al Parlamento no es la deliberación, sino proveer de información para favorecer el trabajo legislativo con base en las mejores fuentes disponibles en ese momento (ii). La interpretación y uso político del conocimiento son atribuciones de las y los congresistas a partir de la representación política obtenida en las urnas. El conocimiento provisto por los centros de investigación es lo que se puede utilizar en discursos políticos, iniciativas de ley o columnas de opinión con el trabajo de asesores particulares de las y los congresistas. </p>
+			<p>La imparcialidad convierte a los centros de investigación legislativa en espacios seguros en los que cualquier grupo parlamentario confía en que no recibirá información sesgada o que representa un punto de vista de algún grupo de presión público o privado sobre temas relevantes para la agenda legislativa. Otras implicaciones de esta característica para los centros de investigación legislativa es que estos no establecen jerarquías entre partidos (por ejemplo, a la bancada mayoritaria o a los partidos de oposición) o entre personas legisladoras (por ejemplo, a la coordinación de un grupo parlamentario o la presidencia de una comisión sobre cualquier otra persona legisladora sin este tipo de cargos). Todas las solicitudes de investigación son igualmente importantes, por lo que se responden con el mismo nivel de profesionalismo y bajo el principio de prelación. </p>
+			<p>Otra implicación de la imparcialidad en el manejo de la información estriba en la confidencialidad de las solicitudes de investigación, es decir, cuando un legislador o legisladora pide la realización de un estudio, no se le puede informar a otra persona, ni del mismo ni de diferente grupo parlamentario que se recibió dicha solicitud. Y cuando se le entrega, solamente se le compartirá a la persona legisladora solicitante.<xref ref-type="fn" rid="fn24"><sup>24</sup></xref> Esto no prohíbe que una vez concluido el periodo legislativo se hagan públicos los temas y los estudios solicitados en ese periodo, ya que esta práctica abona a la máxima transparencia con la que deben conducirse las instituciones financiadas con recursos públicos. </p>
+			<p><italic>El sentido de la oportunidad</italic>. El ciclo de debate y aprobación de iniciativas legislativas en el Parlamento obedece a una lógica política distinta a los tiempos de la investigación. No obstante, un centro de investigación legislativa que trabaja de manera coordinada con su comunidad usuaria logrará responder de manera eficiente a las solicitudes de información que les sean requeridas. Justo la característica distintiva de la investigación legislativa en la fase de transferencia es el sentido de la oportunidad. Bajo esta lógica, previo al inicio de un periodo de sesiones el Parlamento puede solicitar estudios <italic>exprofeso</italic> sobre los temas que considera prioritarios para su agenda de trabajo, sobre lo que se detecta falta de información o incluso sobre aquellos que pueden resultar polémicos. Esta práctica ayuda bastante a preparar los estudios y a organizar espacios de diálogo intersectorial (gobierno, academia y sociedad civil) para proveer de información al trabajo legislativo. </p>
+			<p>Como la agenda de investigación de un centro al servicio del Congreso se configura con las necesidades de trabajo legislativas, la entrega de la información debe ser en un momento en que alcance a ser un insumo para la deliberación y toma de decisiones parlamentarias. Una investigación entregada de manera extemporánea definitivamente no será de utilidad. Parafraseando a James Coleman se puede decir que el estudio no necesariamente será bueno si se entrega cuando se necesita, pero claramente no será de utilidad si se envía de manera tardía.<xref ref-type="fn" rid="fn25"><sup>25</sup></xref>
+			</p>
+			<p>El sentido de la oportunidad para la entrega de una investigación legislativa tiene una implicación muy importante para su realización: a riesgo de ser obvio se puede afirmar que para que sea oportuna, tiene que realizarse en un lapso breve. El staff que conoce la lógica de la investigación legislativa debe saber cuáles son las mejores fuentes de información disponibles sobre un tema en específico para trabajar con ellas, analizarlas y presentar el estudio en el momento más adecuado para que responda a las necesidades de las personas legisladoras. </p>
+			<p><italic>La explicación sintética y el lenguaje accesible</italic>. Estas son características que corresponden al formato del documento y que son sumamente valoradas por la comunidad usuaria. El tiempo de lectura del usuario de información es escaso, ya que su agenda política va más allá de sus actividades en el Congreso; por ejemplo, incluye el trabajo que realiza en su territorio y las participaciones que tiene en diferentes medios de comunicación. Con el conocimiento de esta característica de la persona lectora, los reportes y documentos de apoyo son breves, lo sustantivo se presenta en pocas páginas al inicio del documento, de manera muy concisa, pero bien sustentado en los anexos que se requieran. La síntesis ejecutiva que está al inicio del documento es lo que generalmente lee la persona legisladora, mientras que el resto será revisado por su equipo de trabajo. </p>
+			<p>Aunque no se pueden considerar trabajos de divulgación, los documentos de investigación legislativa tienen como objetivo facilitar la comprensión del tema para que pueda emplearse la información en el diseño de la norma.<xref ref-type="fn" rid="fn26"><sup>26</sup></xref> Al respecto, William <xref ref-type="bibr" rid="B17">Robinson y Clay Wellborn (1991</xref>) mencionan que la persona que realiza la investigación legislativa tiene que considerarse a sí misma como “corredora de información”, esto es, traduce el lenguaje académico a la esfera de la acción pública.<xref ref-type="fn" rid="fn27"><sup>27</sup></xref> Dicho con otras palabras, una vez seleccionadas las mejores fuentes de información disponibles sobre el tema, trabajarlas con el sentido de urgencia que amerita y de redactar un reporte conciso, hay que presentarlo con un lenguaje accesible que resulte de fácil asimilación para la persona usuaria que regularmente no es especialista sobre el tema, pero que deberá comprenderlo para tomar decisiones sobre el mismo. El lenguaje con el que se redacta el reporte se caracteriza por ser claro, sencillo y directo al punto. </p>
+			<p>La puesta en práctica de manera sistemática de estas características en el ejercicio de la investigación legislativa y la gestión del conocimiento es lo que permite construir una reputación confiable en estos centros de investigación, ya que se estabilizan las expectativas de la comunidad usuaria sobre la información que se puede solicitar y sobre las principales características que tendrán este tipo de estudios. </p>
+			<p>Ahora bien, se considera de mucha utilidad conocer las expectativas y valoraciones que tiene la comunidad usuaria sobre la investigación legislativa y los otros servicios que ofrece los centros como parte de sus actividades para la gestión del conocimiento en el trabajo parlamentario. Resulta de mucho interés conocer si tales expectativas se ajustan a las orientaciones teóricas y prácticas que se han venido configurando para definir la investigación legislativa o bien, si se han desplazado a otras necesidades sobre las cuales habría que reflexionar para redefinir las rutinas de trabajo de los centros de investigación legislativa. Este fue el trasfondo para realizar el sondeo de opinión que se presenta a continuación. </p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>III. Materiales y métodos</title>
+			<p>La información empírica se obtuvo mediante un sondeo de opinión en las 24 oficinas de las y los senadores reelectos para la LXVI Legislatura. La delimitación del universo de estudio obedece a que estas personas legisladoras ya tenían seis años ocupando este cargo de elección y, por lo tanto, están familiarizadas con las distintas áreas de apoyo del Senado, incluidos los centros de investigación legislativa como el Instituto Belisario Domínguez o el Centro de estudios internacionales Gilberto Bosques. Al final de la presente legislatura podría realizarse un levantamiento más amplio que incluya a todas las personas legisladoras que integran el Senado de la República (128). </p>
+			<p>Bajo esta consideración el sondeo no puede considerarse estadísticamente representativo de todo el Senado, pero sí obtuvo una amplia cobertura de la población objetivo que fue definida a partir de la continuidad en el cargo y por lo tanto del conocimiento de la institución, en particular de los centros de investigación. Se considera un levantamiento con resultados que permite aproximarse a la visión que tiene la comunidad usuaria de los centros de investigación legislativa, la cual no suele ser de fácil acceso para este tipo de investigaciones cuantitativas. </p>
+			<p>La tasa de respuesta fue de 83%, con 19 respuestas efectivas. El levantamiento se realizó entre el 5 de noviembre y el 5 de diciembre de 2024. La técnica de recolección fue mixta, 53% fue cara a cara en las oficinas de las y los legisladores, generalmente con la o el secretario particular o la persona coordinadora del grupo de asesoría. El 47% restante fue por la devolución del cuestionario resuelto a solicitud de la persona legisladora para ser respondido en un espacio libre de su agenda. </p>
+			<p>Este sondeo no busca generalizar hallazgos, sino aportar evidencia útil para conocer las opiniones sobre la investigación legislativa y los centros que la realizan por parte de su comunidad usuaria. La cédula de la encuesta estaba conformada por 22 preguntas (18 cerradas y cuatro abiertas). Para que la información sea de interés a otros centros de investigación legislativa, en el presente artículo se seleccionaron los resultados de las siete preguntas más genéricas que abordan las necesidades de insumos para el trabajo parlamentario y la valoración que se tiene hacia un centro de investigación al servicio del Poder Legislativo. Se considera que estos indicadores permitirán que profesionales de la investigación legislativa puedan reflexionar sobre sus propias rutinas de trabajo y explorar alternativas para fortalecer los vínculos con sus respectivas comunidades usuarias.</p>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>IV. Resultados y discusión</title>
+			<p>La <xref ref-type="fig" rid="f1">Gráfica 1</xref> muestra los resultados referentes a los servicios ofrecidos por un centro de investigación legislativa que son más conocidos por la comunidad usuaria. No sorprende que el primer lugar lo ocupan los documentos o reportes de investigación que se difunden en la página web (37%), seguido de las solicitudes de investigación realizadas por las oficinas de las y los senadores (29%), los documentos más extensos que se publican en formato de libros digitales o impresos (17%), los eventos y seminarios de discusión sobre temas de interés para la agenda legislativa (11%) y en último lugar los cursos de capacitación (6%). </p>
+			<p>
+				<fig id="f1">
+					<label>Gráfica 1</label>
+					<caption>
+						<title><italic>Servicios de un centro de investigación legislativa que son más conocidos por su comunidad usuaria</italic></title>
+					</caption>
+					<graphic xlink:href="2007-5545-biolex-17-28-e438-gf1.jpg"/>
+					<attrib><italic>Fuente</italic>: Elaboración propia</attrib>
+				</fig>
+			</p>
+			<p>Los dos servicios más conocidos (documentos de investigación y solicitudes de investigación) dan la pauta para hacer una diferenciación importante en cuanto al origen de una investigación legislativa: por un lado está aquella solicitada por encargo en el que las y los congresistas requieren información sobre un tema de su interés; por otro lado, se encuentran las que propone el staff de investigación de los centros sobre temas relacionados con la agenda legislativa para simplificar su comprensión y mostrar su relevancia, o bien, observaciones de segundo orden sobre el trabajo legislativo realizado en un periodo determinado sobre cierta temática como puede ser la sistematización de iniciativas que se han planteado en un periodo legislativo. </p>
+			<p>
+				<xref ref-type="bibr" rid="B6">Cuninghame (2009</xref>) elabora esta misma distinción al afirmar que los centros de investigación son proactivos y reactivos, esto es, pueden anticiparse a las necesidades de información del Parlamento y proponer líneas de investigación que eventualmente pueden formar parte de la agenda legislativa (investigación proactiva) y responder a las solicitudes de información individuales que recibe por parte de congresistas que quieren trabajar en un tema determinado de su interés (investigación reactiva).<xref ref-type="fn" rid="fn28"><sup>28</sup></xref> La Unión Interparlamentaria de la Unión Europea establece como ideal que los centros de investigación legislativa logren un balance entre ambos tipos de estudios.<xref ref-type="fn" rid="fn29"><sup>29</sup></xref>
+			</p>
+			<p>Los documentos de investigación son los servicios más conocidos por la comunidad usuaria y también los más valorados de un centro de investigación. En el <xref ref-type="table" rid="t1">Cuadro 1</xref>, se aprecia que 79% respondió que la elaboración de documentos de investigación es la actividad más importante de los centros, seguida por la coordinación de libros (21 %) y la organización de eventos sobre temas de interés (21 %). </p>
+			<p>
+				<table-wrap id="t1">
+					<label>Cuadro 1</label>
+					<caption>
+						<title><italic>Actividades más importantes que realizan los centros de investigación para apoyar el trabajo parlamentario</italic></title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 350px; background-color: #dddddd;"><bold>Actividad</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 80px; background-color: #dddddd; border-right: 1px solid #000000;"><bold>Porcentaje</bold></td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Elaboración de documentos de investigación</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; border-right: 1px solid #000000;">79%</td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0;">Coordinación de libros</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0; border-right: 1px solid #000000;">21%</td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Organización de eventos sobre temas de interés</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; border-right: 1px solid #000000;">21%</td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0;">Elaboración de documentos de apoyo para participación en tribuna</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0; border-right: 1px solid #000000;">11%</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p>Fuente: Elaboración propia. *El total supera el 100% porque se permitía elegir más de una opción.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>En varias ocasiones la coordinación de libros corresponde a la preparación de memorias de eventos organizados a solicitud de alguna persona legisladora en particular. Esto es relevante porque muestra cómo la gestión del conocimiento en estos centros va más allá de la producción documental, incluye la organización de espacios de diálogo y vinculación con especialistas de instituciones académicas, organismos públicos o de la sociedad civil, quienes pueden presentar, de manera sintética, la evidencia acumulada sobre problemáticas relevantes para la agenda legislativa. La apertura de estos espacios solventa el hecho de que los centros de investigación no pueden cubrir todas las áreas temáticas de la agenda legislativa, de manera que resulta más eficiente invitar a especialistas de entidades externas para compartir su conocimiento. </p>
+			<p>Este hecho se muestra en la <xref ref-type="fig" rid="f2">Gráfica 2</xref>, ya que la principal fuente a la que se recurre para obtener información para el trabajo parlamentario son especialistas de entidades académicas (53 %). </p>
+			<p>
+				<fig id="f2">
+					<label>Gráfica 2</label>
+					<caption>
+						<title><italic>Instancias a las que se recurre con mayor frecuencia para obtener información de utilidad para el trabajo parlamentario</italic></title>
+					</caption>
+					<graphic xlink:href="2007-5545-biolex-17-28-e438-gf2.jpg"/>
+					<attrib><italic>Fuente</italic>: Elaboración propia. *El total supera el 100% porque se permitía elegir más de una opción.</attrib>
+				</fig>
+			</p>
+			<p>En este caso llama la atención que los centros de investigación con los que cuenta el Senado estén a la mitad o al final de las instancias que se consultan con frecuencia. De esta manera, solo 26% respondió que recurre frecuentemente al Instituto Belisario Domínguez y 11% al Centro de estudios Gilberto Bosques. La gráfica también evidencia que se recurre mucho más a los grupos de asesoría personalizada (47%) con los que cuenta la o el legislador que a los cuerpos de investigación institucionales con los que cuenta el Congreso. Esta propensión resulta comprensible porque las y los asesores particulares responden directamente a las necesidades de una persona legisladora, no solamente en términos de sus requerimientos, sino también de un sentido ideológico y político determinado con el que quiera evaluar o comentar cierta evidencia en tribuna. </p>
+			<p>En la sección anterior se mencionó que una de las características distintivas de la investigación legislativa es la imparcialidad. Esta permite realizar otra distinción importante en cuanto a las personas que generan información dentro del Congreso, a saber, aquella que separa a las y los asesores institucionales (quienes hacen investigación legislativa), cuya misión “es informar, no persuadir”,<xref ref-type="fn" rid="fn30"><sup>30</sup></xref> de los asesores particulares que responden a las necesidades de información de un congresista en particular y cuyos insumos, por lo tanto, están estrechamente vinculados a la plataforma de un partido político. </p>
+			<p>En la <xref ref-type="fig" rid="f3">Gráfica 3</xref> se reitera la tendencia de recurrir primero a las y los asesores personales que a los centros de investigación legislativa. 42% de las personas que participaron en el sondeo afirmaron que no habían utilizado los servicios de algún centro de investigación dependiente del Senado. Cuando se les preguntaron las razones para no haber solicitado la prestación de algún servicio, la mitad respondió que desconocía la existencia de tales servicios, seguido de que el staff de asesoría cubría todas las necesidades de información de la persona legisladora (42%). Resultaría muy interesante conocer si en otras democracias más consolidadas, el Poder Legislativo recurre con mayor frecuencia a solicitar información a los cuerpos de asesoría institucional en vez de apoyarse en las y los asesores personales.</p>
+			<p>
+				<fig id="f3">
+					<label>Gráfica 3</label>
+					<caption>
+						<title><italic>Razones para no haber utilizado los servicios de apoyo de los institutos de investigación legislativa</italic></title>
+					</caption>
+					<graphic xlink:href="2007-5545-biolex-17-28-e438-gf3.jpg"/>
+					<attrib><italic>Fuente</italic>: Elaboración propia.</attrib>
+				</fig>
+			</p>
+			<p>El siguiente grupo de resultados están más orientados a las expectativas que tiene la comunidad usuaria sobre la investigación legislativa. Del <xref ref-type="table" rid="t2">Cuadro 2</xref> se infiere que la capacidad de síntesis es uno de los aspectos que más se valora. De esta manera, las notas sintéticas de información que sean menores a 10 cuartillas, así como las infografías, son las que la comunidad usuaria de un centro de investigación legislativa considera más útiles (63 %), seguido de documentos cortos de información que oscilen entre las 10 y las 20 cuartillas (42 %). Nótese como los libros es el tipo de documento menos valorado (16 %), y en la gestión del conocimiento los seminarios temáticos de discusión tampoco tienen una amplia valoración (11 %). </p>
+			<p>
+				<table-wrap id="t2">
+					<label>Cuadro 2</label>
+					<caption>
+						<title><italic>Tipo de información considerada más útil para el trabajo parlamentario</italic></title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 350px; background-color: #dddddd;"><bold>Tipo de información</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 80px; background-color: #dddddd; border-right: 1px solid #000000;"><bold>Porcentaje</bold></td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Notas sintéticas de información menores a 10 cuartillas</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; border-right: 1px solid #000000;">63%</td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0;">Infografías</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0; border-right: 1px solid #000000;">63%</td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Documentos cortos de información y/o análisis (entre 10 y 20 cuartillas)</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; border-right: 1px solid #000000;">42%</td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0;">Cuadernos de investigación de más de 20 cuartillas</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0; border-right: 1px solid #000000;">26%</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Libros</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; border-right: 1px solid #000000;">16%</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0;">Bases de datos</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0; border-right: 1px solid #000000;">16%</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Seminarios</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; border-right: 1px solid #000000;">11%</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN2">
+							<p>Fuente: Elaboración propia. *El porcentaje total no suma 100 porque se podía elegir más de una opción.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>Resulta comprensible que una actividad en la que hay muchas fuentes de información disponibles, poco tiempo para revisarlas y la urgencia de emitir algún posicionamiento, privilegie documentos sintéticos. Esto constituye una advertencia importante para todos los centros de investigación que en pocas páginas requieren presentar datos relevantes, de origen confiable y comprensibles para las personas lectoras. </p>
+			<p>En la <xref ref-type="fig" rid="f4">Gráfica 4</xref> se reitera la relevancia de la capacidad de síntesis como característica sustantiva de la investigación legislativa. Se solicitó que la comunidad usuaria hiciera sugerencias para mejorar los servicios del centro de investigación legislativa. La primera respuesta en términos de frecuencia fue la de mejorar la brevedad de los documentos de investigación para favorecer su revisión (37% de las respuestas). También se mencionó la importancia de incorporar elementos comparativos a nivel internacional (37%) para conocer tendencias o bien contextualizar mejor el caso mexicano. En tercer lugar, se mencionó la relevancia que debe tener el tema para la agenda legislativa, de manera que en las conclusiones puedan destacarse algunas reflexiones prácticas sobre la relevancia del documento para el trabajo legislativo. </p>
+			<p>
+				<fig id="f4">
+					<label>Gráfica 4</label>
+					<caption>
+						<title><italic>Sugerencias para mejorar los documentos de investigación legislativa</italic> Que sean más breves (información sintética)</title>
+					</caption>
+					<graphic xlink:href="2007-5545-biolex-17-28-e438-gf4.jpg"/>
+					<attrib><italic>Fuente</italic>: Elaboración propia. *El porcentaje total no suma 100 porque se podía elegir más de una opción.</attrib>
+				</fig>
+			</p>
+			<p>Nótese que la principal frecuencia está englobada en la respuesta Otra (42%). En este rubro, las sugerencias más mencionadas tienen que ver con la necesidad de mejorar los canales de difusión de los estudios y de vinculación con la comunidad usuaria; por ejemplo, entregarlos de manera personalizada a las y los legisladores, así como a las comisiones de trabajo legislativas; colocar quioscos con ejemplares de las últimas publicaciones en espacios de alta afluencia en el recinto legislativo, así como ofrecer pláticas informativas a los equipo de asesoría particulares o parlamentarios sobre los documentos publicados recientemente. Una recomendación interesante fue la de realizar reuniones de trabajo con grupos parlamentarios, comisiones y mesas directivas previo al inicio de un periodo ordinario de sesiones para alinear la agenda de investigación del centro con las prioridades legislativas para el periodo ordinario en turno. Estas últimas formas de coordinación con la comunidad usuaria raramente se llevan a cabo, lo que va en detrimento de la apropiación que puede hacer la comunidad usuaria de los servicios que ofrece un centro de investigación legislativa. </p>
+			<p>Finalmente, en el <xref ref-type="table" rid="t3">Cuadro 3</xref> se aprecia que el principal beneficio que identifica la comunidad usuaria sobre la existencia de un centro de investigación legislativa al servicio del Senado radica en la posibilidad de tener insumos de calidad para el trabajo legislativo (45%) y en fuentes de información confiables que agilizan y hacen más eficiente el trabajo de la Cámara alta (40%). </p>
+			<p>
+				<table-wrap id="t3">
+					<label>Cuadro 3</label>
+					<caption>
+						<title><italic>Beneficios de un centro de investigación legislativa al servicio del Senado</italic></title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 350px; background-color: #dddddd;"><bold>Beneficio</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 80px; background-color: #dddddd; border-right: 1px solid #000000;"><bold>Porcentaje</bold></td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Insumos de calidad para el trabajo legislativo (iniciativas y debate)</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; border-right: 1px solid #000000;">45%</td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0;">Fuentes de información confiables que agilizan y hacen más eficiente el trabajo del Senado</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0; border-right: 1px solid #000000;">40%</td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Complemento y fortalecimiento para el trabajo que realiza la oficina del senador|a</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; border-right: 1px solid #000000;">5%</td>
+    </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0;">Publicación de libros de interés para el Senado</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #f0f0f0; border-right: 1px solid #000000;">5%</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Trabajo técnico que respalda el trabajo político del Senado</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; border-right: 1px solid #000000;">5%</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN3">
+							<p>Fuente: Elaboración propia</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>Los resultados presentados pueden constituir un insumo valioso para que los centros revisen sus objetivos y procedimientos de trabajo. Como toda investigación aplicada, la legislativa responde a las exigencias de su entorno institucional, de manera que es de mucha utilidad conocer las necesidades de su comunidad usuaria para innovar y adaptar sus productos y servicios, sin perder de vista aquellas rutinas institucionales que han demostrado su eficacia en el pasado. </p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>V. Conclusiones</title>
+			<p>El informe de la conferencia <italic>Democracia informada</italic> señala que el acceso a información confiable y oportuna es fundamental para el funcionamiento de los parlamentos.<xref ref-type="fn" rid="fn31"><sup>31</sup></xref> Las distintas funciones legislativas -la elaboración de leyes, el control del Ejecutivo y el debate sobre temas de interés público- requieren de insumos informativos adecuados. Por ello, se ha recomendado que el Congreso cuente con fuentes propias de información, distintas de las que ofrecen el Ejecutivo, el Judicial o grupos de interés que promueven determinadas iniciativas conforme a sus agendas particulares. En este marco, resulta relevante fortalecer el papel de las bibliotecas, los servicios de documentación y los centros de investigación legislativa. </p>
+			<p>Se ha mencionado que el Parlamento como institución representativa atraviesa por una profunda crisis que, en otras variables, radica en una disminución de la confianza ciudadana.<xref ref-type="fn" rid="fn32"><sup>32</sup></xref> Acaso uno de los elementos para revertir esta situación consiste en demostrar la capacidad de la institución para diseñar normas jurídicas mediante consensos y la apertura de espacios para la participación ciudadana, pero también basadas en la mejor evidencia disponible, de manera que contribuya a resolver eficazmente los problemas públicos. Es en este punto en el que los centros de investigación legislativa pueden jugar un papel clave porque serían las instancias del Poder Legislativo en el que se elaborarían los estudios al servicio del trabajo y la deliberación parlamentaria. </p>
+			<p>Como se mencionó a lo largo del presente artículo, la investigación legislativa constituye una herramienta clave en la gestión del conocimiento dentro del Poder Legislativo. Su función principal es apoyar la toma de decisiones mediante productos que van desde notas informativas hasta reportes técnicos y evaluaciones legislativas, elaborados por centros de investigación institucionales. Esta investigación debe guiarse por principios de imparcialidad, brevedad y sentido de la oportunidad en cuanto al tiempo de entrega. Aunque puede originarse por solicitud directa de una legisladora o por iniciativa del personal técnico, su valor radica en la capacidad de traducir saberes complejos en formatos accesibles. </p>
+			<p>En este artículo se compartieron los resultados de un sondeo de opinión entre senadoras y senadores que fueron reelectos en su cargo para conocer la valoración y las expectativas sobre la investigación legislativa. No se pretende que sean generalizables, se requiere más evidencia para identificar si las tendencias aquí detectadas se encuentran en otros casos tanto a nivel federal como estatal. En principio, con los datos obtenidos se muestra que hay una valoración positiva sobre la existencia de centros de investigación que pongan a disposición de las personas legisladoras información que pueda apoyar su trabajo parlamentario. </p>
+			<p>Estos documentos de investigación tienen que ser breves y de fuentes confiables. Es alentador que la persona legisladora espere que la información recibida sea imparcial, lo que le da la credibilidad al centro y lo diferencia del trabajo que realiza su grupo de asesoría particular. Sin embargo, no puede dejar de señalarse que, a pesar de esta valoración positiva sobre la existencia de un centro de investigación al servicio del Senado, no es la fuente de información más importante que utilizan las y los legisladores para su trabajo parlamentario. Resulta contradictorio que, a la par de valorarse la profesionalización e imparcialidad del centro, sus documentos no se consulten con regularidad. </p>
+			<p>Lo anterior puede obedecer a diferentes razones, entre ellas el predominio de la razón política en el trabajo parlamentario. Como puede observarse en los resultados, hay una mayor frecuencia a proveerse de información por parte de las y los asesores particulares que de los centros de investigación; de hecho, una de las respuestas dadas en el sondeo era que no se utilizaban los servicios de investigación legislativa porque esa función era cubierta por la asesoría particular. </p>
+			<p>Otra causa importante descansa en estrategias deficientes en la transferencia del conocimiento generado. Para que la investigación legislativa se convierta en un insumo para la deliberación parlamentaria tiene que responder a las necesidades de su comunidad usuaria y ser entregada de manera oportuna y en formatos amigables para su consulta ágil, pero también es preciso abrir otros espacios de comunicación permanente para exponer los resultados, así como para fortalecer los vínculos entre la agenda legislativa y la agenda de investigación. Dicho con otras palabras, una gestión efectiva del conocimiento parlamentario implica también mejorar los canales de difusión y fortalecer la articulación con los órganos de decisión, lo que a su vez eleva la confianza en los centros de investigación como fuentes legítimas y útiles para todos los grupos parlamentarios. </p>
+			<p>El fortalecimiento de los centros de investigación requiere ampliar la profesionalización no sólo de sus cuerpos de investigación, también resulta deseable que esta profesionalización alcance los puestos directivos. Cuando dichos cargos son ocupados exclusivamente por perfiles políticos, existe el riesgo de que la institución se dirija bajo una lógica partidista o de asesoría particular, lo que podría socavar la confianza y credibilidad de la institución, al debilitar la imparcialidad que caracteriza sus servicios. No se busca promover una autonomía respecto a su comunidad usuaria, sino fortalecer las capacidades institucionales para gestionar el conocimiento de forma incluyente, atendiendo a todos los partidos y sectores sociales representados en el Congreso. </p>
+			<p>Cuando la lógica científica predomina en estos centros de gestión del conocimiento, resulta más sencillo que cumplan su función de proveer estudios con criterios rigurosos, bajo principios éticos y buenas prácticas académicas, como la correcta citación y el reconocimiento claro de las contribuciones individuales en documentos colectivos. No debe olvidarse que los centros de investigación legislativa, al igual que los vinculados a otros órdenes de gobierno, se financian con recursos públicos, por lo que cumplir su función conforme a la normatividad vigente es un requisito básico para su operación. </p>
+			<p>En un contexto político global donde diversos regímenes expresan un abierto desprecio hacia universidades y centros de investigación, resulta imperioso reflexionar sobre la utilidad de contar con organizaciones especializadas en el ciclo de la acción pública, sobre los fundamentos teóricos y metodológicos que sustentan su actividad y sobre las innovaciones necesarias para responder mejor a las necesidades de su comunidad usuaria. Además, es vital promover una cultura parlamentaria que valore y utilice activamente la investigación legislativa como un insumo indispensable para la toma de decisiones informadas, asegurando así un ciclo político más transparente, responsable y eficaz. Ciertamente tampoco debe idealizarse la gestión del conocimiento como garantía para “tomar mejores decisiones”, pues la decisión final es atribución exclusiva de las y los agentes políticos que recibieron su mandato en las urnas. </p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>VI. Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Elvira Bosch, Carme Álvarez, Teresa Gil, Joan Carles Graupera e Inés Montobbio, “Bibliotecas y servicios de estudios parlamentarios: estrategias de adaptación a las necesidades de información de los parlamentos”, <italic>Textos universitaris de biblioteconomia i documentació</italic> 
+ <italic>27</italic> (diciembre de 2011), <comment>Elvira Bosch, Carme Álvarez, Teresa Gil, Joan Carles Graupera e Inés Montobbio, “Bibliotecas y servicios de estudios parlamentarios: estrategias de adaptación a las necesidades de información de los parlamentos”, Textos universitaris de biblioteconomia i documentació 27 (diciembre de 2011), <ext-link ext-link-type="uri" xlink:href="https://bid.ub.edu/27/bosch2.htm">https://bid.ub.edu/27/bosch2.htm</ext-link>
+					</comment> (consultado el 7 de agosto de 2024).</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bosch</surname>
+							<given-names>Elvira</given-names>
+						</name>
+						<name>
+							<surname>Álvarez</surname>
+							<given-names>Carme</given-names>
+						</name>
+						<name>
+							<surname>Gil</surname>
+							<given-names>Teresa</given-names>
+						</name>
+						<name>
+							<surname>Graupera</surname>
+							<given-names>Joan Carles</given-names>
+						</name>
+						<name>
+							<surname>Montobbio</surname>
+							<given-names>Inés</given-names>
+						</name>
+					</person-group>
+					<article-title>Bibliotecas y servicios de estudios parlamentarios: estrategias de adaptación a las necesidades de información de los parlamentos</article-title>
+					<source>Textos universitaris de biblioteconomia i documentació</source>
+					<volume>27</volume>
+					<month>12</month>
+					<year>2011</year>
+					<comment>Elvira Bosch, Carme Álvarez, Teresa Gil, Joan Carles Graupera e Inés Montobbio, “Bibliotecas y servicios de estudios parlamentarios: estrategias de adaptación a las necesidades de información de los parlamentos”, Textos universitaris de biblioteconomia i documentació 27 (diciembre de 2011), <ext-link ext-link-type="uri" xlink:href="https://bid.ub.edu/27/bosch2.htm">https://bid.ub.edu/27/bosch2.htm</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-08-07">7 de agosto de 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Raymond Boudon, “La sociología que realmente importa”, <italic>Papers</italic> 
+ <italic>72</italic> (2004): 215-226. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boudon</surname>
+							<given-names>Raymond</given-names>
+						</name>
+					</person-group>
+					<article-title>La sociología que realmente importa</article-title>
+					<source>Papers</source>
+					<volume>72</volume>
+					<year>2004</year>
+					<fpage>215</fpage>
+					<lpage>226</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Ida Brudnick, “The Congressional Research Service and the American Legislative Process”, <italic>Congressional Research Service RL33471</italic> (diciembre 2011), <comment>Ida Brudnick, “The Congressional Research Service and the American Legislative Process”, Congressional Research Service RL33471 (diciembre 2011), <ext-link ext-link-type="uri" xlink:href="https://crsreports.congress.gov/product/pdf/RL/RL33471">https://crsreports.congress.gov/product/pdf/RL/RL33471</ext-link>
+					</comment> (consultado el 12 de noviembre de 2024). </mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Brudnick</surname>
+							<given-names>Ida</given-names>
+						</name>
+					</person-group>
+					<article-title>The Congressional Research Service and the American Legislative Process</article-title>
+					<source>Congressional Research Service RL33471</source>
+					<month>12</month>
+					<year>2011</year>
+					<comment>Ida Brudnick, “The Congressional Research Service and the American Legislative Process”, Congressional Research Service RL33471 (diciembre 2011), <ext-link ext-link-type="uri" xlink:href="https://crsreports.congress.gov/product/pdf/RL/RL33471">https://crsreports.congress.gov/product/pdf/RL/RL33471</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-11-12">12 de noviembre de 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Carlota Bustelo Ruesta y Raquel Amarilla Iglesias, “Gestión del Conocimiento y gestión de la información”, <italic>Boletín del Instituto Andaluz de Patrimonio Histórico VIII</italic> (marzo de 2001): 226230. </mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bustelo Ruesta</surname>
+							<given-names>Carlota</given-names>
+						</name>
+						<name>
+							<surname>Amarilla Iglesias</surname>
+							<given-names>Raquel</given-names>
+						</name>
+					</person-group><bold>“</bold><article-title>Gestión del Conocimiento y gestión de la información</article-title>
+					<source>Boletín del Instituto Andaluz de Patrimonio Histórico VIII</source>
+					<month>03</month>
+					<year>2001</year>
+					<issue-part>226230</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>James Coleman, “Análisis sociológico y política social”, en <italic>Historia del análisis sociológico</italic>, comp. Tom Bottomore y Ronert Nisbet (Buenos Aires: Amorrortu, 1988), 768-795. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Coleman</surname>
+							<given-names>James</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Análisis sociológico y política social</chapter-title>
+					<source>Historia del análisis sociológico</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bottomore</surname>
+							<given-names>Tom</given-names>
+						</name>
+						<name>
+							<surname>Nisbet</surname>
+							<given-names>Ronert</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Amorrortu</publisher-name>
+					<year>1988</year>
+					<fpage>768</fpage>
+					<lpage>795</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Keith Cuninghame, <italic>Directrices para bibliotecas parlamentarias</italic> (Madrid: International Federation of Library Associations and Institutions, 2009), 11-15. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cuninghame</surname>
+							<given-names>Keith</given-names>
+						</name>
+					</person-group>
+					<source>Directrices para bibliotecas parlamentarias</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>International Federation of Library Associations and Institutions</publisher-name>
+					<year>2009</year>
+					<fpage>11</fpage>
+					<lpage>15</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Héctor Díaz Santana, “Los servicios de información y asesoría en el Poder Legislativo mexicano: una reforma pendiente”, en La Cámara de Diputados en México, coord. Germán Pérez y Antonia Martínez (México: Cámara de Diputados del H. Congreso de la Unión, LVII Legislatura, 2000), 179-217 </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Díaz Santana</surname>
+							<given-names>Héctor</given-names>
+						</name>
+					</person-group>
+					<source>Los servicios de información y asesoría en el Poder Legislativo mexicano: una reforma pendiente</source>
+					<comment>La Cámara de Diputados en México</comment>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez</surname>
+							<given-names>Germán</given-names>
+						</name>
+						<name>
+							<surname>Martínez</surname>
+							<given-names>Antonia</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Cámara de Diputados del H. Congreso de la Unión, LVII Legislatura</publisher-name>
+					<year>2000</year>
+					<fpage>179</fpage>
+					<lpage>217</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Roberto Ehrman, <italic>La evaluación de impacto legislativo: un programa para la mejora de los resultados de la legislación</italic> (México: Cuadernos de la Ciudad de México, 2018). </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ehrman</surname>
+							<given-names>Roberto</given-names>
+						</name>
+					</person-group>
+					<source>La evaluación de impacto legislativo: un programa para la mejora de los resultados de la legislación</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Cuadernos de la Ciudad de México</publisher-name>
+					<year>2018</year>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Piedad García-Escudero Márquez, “Nociones de técnica legislativa para uso parlamentario”, <italic>Asamblea. Revista Parlamentaria de la Asamblea de Madrid</italic> 
+ <italic>13</italic> (diciembre 2013), 121-164. https://doi.org/10.59991/rvam/2005/n.13/609 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>García-Escudero Márquez</surname>
+							<given-names>Piedad</given-names>
+						</name>
+					</person-group>
+					<article-title>Nociones de técnica legislativa para uso parlamentario</article-title>
+					<source>Asamblea. Revista Parlamentaria de la Asamblea de Madrid</source>
+					<volume>13</volume>
+					<month>12</month>
+					<year>2013</year>
+					<fpage>121</fpage>
+					<lpage>164</lpage>
+					<pub-id pub-id-type="doi">10.59991/rvam/2005/n.13/609</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Gary King, Robert O. Keohane y Sidney Verba, <italic>El diseño de la investigación social: La inferencia científica en los estudios cualitativos</italic> (Madrid: Alianza Editorial, 2000). </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>King</surname>
+							<given-names>Gary</given-names>
+						</name>
+						<name>
+							<surname>Keohane</surname>
+							<given-names>Robert O</given-names>
+						</name>
+						<name>
+							<surname>Verba</surname>
+							<given-names>Sidney</given-names>
+						</name>
+					</person-group>
+					<source>El diseño de la investigación social: La inferencia científica en los estudios cualitativos</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Alianza Editorial</publisher-name>
+					<year>2000</year>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Felipe Meneses Tello, “La composición orgánica de las bibliotecas parlamentarias: una perspectiva global”, <italic>Investigación Bibliotecológica</italic> 
+ <italic>22</italic> (septiembre-diciembre 2008): 187-222. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Meneses Tello</surname>
+							<given-names>Felipe</given-names>
+						</name>
+					</person-group>
+					<article-title>La composición orgánica de las bibliotecas parlamentarias: una perspectiva global</article-title>
+					<source>Investigación Bibliotecológica</source>
+					<volume>22</volume>
+					<season>sep-dic</season>
+					<year>2008</year>
+					<fpage>187</fpage>
+					<lpage>222</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Cecilia Judith Mora Donatto, <italic>Las comisiones parlamentarias de investigación como órganos de control político</italic> (México: Cámara de Diputados, LVII Legislatura - Instituto de Investigaciones Jurídicas, UNAM, 1998), 17-22. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mora Donatto</surname>
+							<given-names>Cecilia Judith</given-names>
+						</name>
+					</person-group>
+					<source>Las comisiones parlamentarias de investigación como órganos de control político</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Cámara de Diputados, LVII Legislatura - Instituto de Investigaciones Jurídicas, UNAM</publisher-name>
+					<year>1998</year>
+					<fpage>17</fpage>
+					<lpage>22</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Cecilia Judith Mora Donatto, “Importancia de los servicios de apoyo técnico en el Poder Legislativo. Experiencias comparadas útiles para el caso mexicano”, <italic>Instituto Belisario Domínguez</italic> (2016), <ext-link ext-link-type="uri" xlink:href="https://bibliodigitalibd.senado.gob.mx/handle/123456789/1767">https://bibliodigitalibd.senado.gob.mx/handle/123456789/1767 </ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mora Donatto</surname>
+							<given-names>Cecilia Judith</given-names>
+						</name>
+					</person-group>
+					<article-title>Importancia de los servicios de apoyo técnico en el Poder Legislativo. Experiencias comparadas útiles para el caso mexicano</article-title>
+					<source>Instituto Belisario Domínguez</source>
+					<year>2016</year>
+					<ext-link ext-link-type="uri" xlink:href="https://bibliodigitalibd.senado.gob.mx/handle/123456789/1767">https://bibliodigitalibd.senado.gob.mx/handle/123456789/1767 </ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Dulce María Liahut Baldomar, <italic>Pautas generales para el establecimiento de un Servicio de información parlamentaria. Cuadernos de apoyo</italic> (México: Dirección General de Bibliotecas. Cámara de Diputados, 2003). </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liahut Baldomar</surname>
+							<given-names>Dulce María</given-names>
+						</name>
+					</person-group>
+					<source>Pautas generales para el establecimiento de un Servicio de información parlamentaria. Cuadernos de apoyo</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Dirección General de Bibliotecas. Cámara de Diputados</publisher-name>
+					<year>2003</year>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Elinor Ostrom, “Institutional Rational Choice: An Assessment of the Institutional Analysis and Development Framework”, en <italic>Theories of the Policy Process</italic>, ed. Paul Sabatier (Cambridge MA: Westview Press, 2007), 21-64. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ostrom</surname>
+							<given-names>Elinor</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Institutional Rational Choice: An Assessment of the Institutional Analysis and Development Framework</chapter-title>
+					<source>Theories of the Policy Process</source>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Sabatier</surname>
+							<given-names>Paul</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Cambridge MA</publisher-loc>
+					<publisher-name>Westview Press</publisher-name>
+					<year>2007</year>
+					<fpage>21</fpage>
+					<lpage>64</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Wayne Parsons, <italic>Políticas públicas: una introducción a la teoría y la práctica del análisis de políticas públicas</italic> (México: FLACSO, 2007), 35-116. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parsons</surname>
+							<given-names>Wayne</given-names>
+						</name>
+					</person-group>
+					<source>Políticas públicas: una introducción a la teoría y la práctica del análisis de políticas públicas</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>FLACSO</publisher-name>
+					<year>2007</year>
+					<fpage>35</fpage>
+					<lpage>116</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>William Robinson y Clay Wellborn, <italic>Knowledge, Power and the Congress</italic> (Washington, D.C.: Congressional Quarterly, 1991). </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Robinson</surname>
+							<given-names>William</given-names>
+						</name>
+						<name>
+							<surname>Wellborn</surname>
+							<given-names>Clay</given-names>
+						</name>
+					</person-group>
+					<source>Knowledge, Power and the Congress</source>
+					<publisher-loc>Washington, D.C.</publisher-loc>
+					<publisher-name>Congressional Quarterly</publisher-name>
+					<year>1991</year>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Paul Sabatier, “The Need for Better Theories”, en <italic>Theories of the Policy Process</italic>, ed. Paul Sabatier (Cambridge MA: Westview Press, 2007), 3-17. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sabatier</surname>
+							<given-names>Paul</given-names>
+						</name>
+					</person-group>
+					<chapter-title>The Need for Better Theories</chapter-title>
+					<source>Theories of the Policy Process</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sabatier</surname>
+							<given-names>Paul</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Cambridge MA</publisher-loc>
+					<publisher-name>Westview Press</publisher-name>
+					<year>2007</year>
+					<fpage>3</fpage>
+					<lpage>17</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Fernando Sainz Moreno, “Técnica normativa: visión unitaria de una materia plural en la técnica legislativa a debate”, en <italic>La técnica legislativa al debate</italic>, coord. Jesús María Corona Ferrero, José Tudela Aranda y Francesc Pau i (Madrid: Tecnos, 1994), 19-48. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sainz Moreno</surname>
+							<given-names>Fernando</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Técnica normativa: visión unitaria de una materia plural en la técnica legislativa a debate</chapter-title>
+					<source>La técnica legislativa al debate</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Corona Ferrero</surname>
+							<given-names>Jesús María</given-names>
+						</name>
+						<name>
+							<surname>Tudela Aranda</surname>
+							<given-names>José</given-names>
+						</name>
+						<name>
+							<surname>Pau i</surname>
+							<given-names>Francesc</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Tecnos</publisher-name>
+					<year>1994</year>
+					<fpage>19</fpage>
+					<lpage>48</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Nina María Serafino, <italic>Investigación y análisis para los parlamentos: Manual práctico</italic>. (Washington DC: Centro para la Democracia, 1997). </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Serafino</surname>
+							<given-names>Nina María</given-names>
+						</name>
+					</person-group>
+					<source>Investigación y análisis para los parlamentos: Manual práctico</source>
+					<publisher-loc>Washington DC</publisher-loc>
+					<publisher-name>Centro para la Democracia</publisher-name>
+					<year>1997</year>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Herbert A. Simon, <italic>Decision making and problem solving. Research Briefings 1986, Report on the research briefing panel on decision making and problem solving</italic> (Washington D.C.: The National Academy of Sciences. National Academy Press, 1986), 1-17. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Herbert</surname>
+							<given-names>A. Simon</given-names>
+						</name>
+					</person-group>
+					<source>Decision making and problem solving. Research Briefings 1986, Report on the research briefing panel on decision making and problem solving</source>
+					<publisher-loc>Washington D.C.</publisher-loc>
+					<publisher-name>The National Academy of Sciences. National Academy Press</publisher-name>
+					<year>1986</year>
+					<fpage>1</fpage>
+					<lpage>17</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Juan José Tarí Guilló y Mariano García Fernández, “Dimensiones de la gestión del conocimiento y de la gestión de la calidad: Una revisión de la literatura”, <italic>Investigaciones Europeas de Dirección y Economía de la Empresa</italic> 
+ <italic>15</italic> (2009): 135-148. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tarí Guilló</surname>
+							<given-names>Juan José</given-names>
+						</name>
+						<name>
+							<surname>García Fernández</surname>
+							<given-names>Mariano</given-names>
+						</name>
+					</person-group>
+					<article-title>Dimensiones de la gestión del conocimiento y de la gestión de la calidad: Una revisión de la literatura</article-title>
+					<source>Investigaciones Europeas de Dirección y Economía de la Empresa</source>
+					<volume>15</volume>
+					<year>2009</year>
+					<fpage>135</fpage>
+					<lpage>148</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>José Tudela Aranda, “El Parlamento en tiempos críticos”, <italic>Corts: Anuario de derecho parlamentario</italic> 
+ <italic>33</italic> (2020): 19-68. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tudela Aranda</surname>
+							<given-names>José</given-names>
+						</name>
+					</person-group>
+					<article-title>El Parlamento en tiempos críticos</article-title>
+					<source>Corts: Anuario de derecho parlamentario</source>
+					<volume>33</volume>
+					<year>2020</year>
+					<fpage>19</fpage>
+					<lpage>68</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Unión Interparlamentaria (UIP) y Federación Internacional de Asociaciones de Bibliotecarios y Bibliotecas (IFLA), <italic>Directrices para los servicios de investigación parlamentaria</italic> (La Haya: Unión Interparlamentaria, 2015). </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Unión Interparlamentaria (UIP) y Federación Internacional de Asociaciones de Bibliotecarios y Bibliotecas (IFLA)</collab>
+					</person-group>
+					<source>Directrices para los servicios de investigación parlamentaria</source>
+					<publisher-loc>La Haya</publisher-loc>
+					<publisher-name>Unión Interparlamentaria</publisher-name>
+					<year>2015</year>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Unión Interparlamentaria (UIP) y Federación Internacional de Asociaciones de Bibliotecarios y Bibliotecas (IFLA), <italic>Informing Democracy. Building capacity to meet parliamentarians’ information and knowledge needs</italic>. (La Haya: Unión Interparlamentaria, 2009). </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Unión Interparlamentaria (UIP) y Federación Internacional de Asociaciones de Bibliotecarios y Bibliotecas (IFLA)</collab>
+					</person-group>
+					<source>Informing Democracy. Building capacity to meet parliamentarians’ information and knowledge needs</source>
+					<publisher-loc>La Haya</publisher-loc>
+					<publisher-name>Unión Interparlamentaria</publisher-name>
+					<year>2009</year>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>David Weimer y Aidan R. Vining, <italic>Policy analysis</italic> (Boston: Longman, 2011), 23-38. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Weimer</surname>
+							<given-names>David</given-names>
+						</name>
+						<name>
+							<surname>Aidan</surname>
+							<given-names>R. Vining</given-names>
+						</name>
+					</person-group>
+					<source>Policy analysis</source>
+					<publisher-loc>Boston</publisher-loc>
+					<publisher-name>Longman</publisher-name>
+					<year>2011</year>
+					<fpage>23</fpage>
+					<lpage>38</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Clay Wellborn, <italic>Redacción de informes para el Congreso</italic> (México: Dirección General de Bibliotecas. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wellborn</surname>
+							<given-names>Clay</given-names>
+						</name>
+					</person-group>
+					<source>Redacción de informes para el Congreso</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Dirección General de Bibliotecas</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Servicio de investigación y análisis de coordinación. Cámara de diputados, 2002). </mixed-citation>
+				<element-citation publication-type="other">
+					<source>Servicio de investigación y análisis de coordinación</source>
+					<publisher-name>Cámara de diputados</publisher-name>
+					<year>2002</year>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Laura Wills Otero, “Presentación: Estudios legislativos en sistemas presidenciales. Avances de investigación”. <italic>Colombia internacional</italic> 
+ <italic>83</italic> (enero-abril 2015), https://doi.org/10.7440/colombiaint83.2015.01 (consultado el 27 de agosto de 2024). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wills Otero</surname>
+							<given-names>Laura</given-names>
+						</name>
+					</person-group>
+					<article-title>Presentación: Estudios legislativos en sistemas presidenciales. Avances de investigación</article-title>
+					<source>Colombia internacional</source>
+					<volume>83</volume>
+					<season>ene-abr</season>
+					<year>2015</year>
+					<pub-id pub-id-type="doi">10.7440/colombiaint83.2015.01</pub-id>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-08-27">27 de agosto de 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Christopher Winship, “Policy Analysis as Puzzle Solving”, en <italic>The Oxford Handbook of Public Policy</italic>, ed. Michael Moran, Martin Rein y Robert Goodin (Nueva York: Oxford University Press, 2008), 109-123.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Winship</surname>
+							<given-names>Christopher</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Policy Analysis as Puzzle Solving</chapter-title>
+					<source>The Oxford Handbook of Public Policy</source>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Moran</surname>
+							<given-names>Michael</given-names>
+						</name>
+						<name>
+							<surname>Rein</surname>
+							<given-names>Martin</given-names>
+						</name>
+						<name>
+							<surname>Goodin</surname>
+							<given-names>Robert</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Nueva York</publisher-loc>
+					<publisher-name>Oxford University Press</publisher-name>
+					<year>2008</year>
+					<fpage>109</fpage>
+					<lpage>123</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>
+					<xref ref-type="bibr" rid="B26">David Weimer y Aidan R. Vining</xref>, <italic>Policy analysis</italic> (Boston: Longman, 2011), 23-38.</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>
+					<xref ref-type="bibr" rid="B18">Paul Sabatier</xref>, “The Need for Better Theories”, en <italic>Theories of the Policy Process</italic>, <italic>ed. por Paul Sabatier</italic> (Cambridge MA: Westview Press, 2007), 3-17.</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>
+					<xref ref-type="bibr" rid="B2">Raymond Boudon</xref>, “La sociología que realmente importa”, <italic>Papers 72</italic> (2004): 215-226.</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>
+					<xref ref-type="bibr" rid="B4">Carlota Bustelo Ruesta y Raquel Amarilla Iglesias</xref>, <bold>“</bold>Gestión del Conocimiento y gestión de la información”, <italic>Boletín del Instituto Andaluz de Patrimonio Histórico VIII</italic> (marzo de 2001): 226-230.</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>
+					<xref ref-type="bibr" rid="B22">Juan José Tarí Guilló y Mariano García Fernández</xref>, “Dimensiones de la gestión del conocimiento y de la gestión de la calidad: Una revisión de la literatura”, <italic>Investigaciones Europeas de Dirección y Economía de la Empresa 15</italic> (2009): 135-148.</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>
+					<xref ref-type="bibr" rid="B16">Wayne Parsons</xref>, <italic>Políticas públicas: una introducción a la teoría y la práctica del análisis de políticas públicas</italic> (México: Flacso, 2007), 35-116.</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>
+					<xref ref-type="bibr" rid="B15">Elinor Ostrom</xref>, “Institutional Rational Choice: An Assessment of the Institutional Analysis and Development Framework”, en <italic>Theories of the Policy Process</italic>, <italic>ed. por Paul Sabatier</italic> (Cambridge MA: Westview Press, 2007), 21-64.</p>
+			</fn>
+			<fn fn-type="other" id="fn8">
+				<label>8</label>
+				<p>
+					<xref ref-type="bibr" rid="B30">Christopher Winship</xref>, “Policy Analysis as Puzzle Solving”, en <italic>The Oxford Handbook of Public Policy</italic>, <italic>ed. por Michael Moran, Martin Rein y Robert Goodin</italic> (Nueva York: Oxford University Press, 2008), 109-123.</p>
+			</fn>
+			<fn fn-type="other" id="fn9">
+				<label>9</label>
+				<p>
+					<xref ref-type="bibr" rid="B21">Herbert A. Simon</xref>, <italic>Decision making and problem solving. Research Briefings 1986, Report on the research briefing panel on decision making and problem solving</italic> (Washington D.C.: The National Academy of Sciences. National Academy Press, 1986), 1-17.</p>
+			</fn>
+			<fn fn-type="other" id="fn10">
+				<label>10</label>
+				<p>
+					<xref ref-type="bibr" rid="B7">Héctor Díaz Santana</xref>, “Los servicios de información y asesoría en el Poder Legislativo mexicano: una reforma pendiente”, en <italic>La Cámara de Diputados en México, coord. por Germán Pérez y Antonia Martínez</italic> (México: Cámara de Diputados del H. Congreso de la Unión, LVII Legislatura, 2000), 179-217</p>
+			</fn>
+			<fn fn-type="other" id="fn11">
+				<label>11</label>
+				<p>
+					<xref ref-type="bibr" rid="B11">Felipe Meneses Tello</xref>, “La composición orgánica de las bibliotecas parlamentarias: una perspectiva global”, <italic>Investigación Bibliotecológica 22</italic> (septiembre-diciembre 2008): 187-222.</p>
+			</fn>
+			<fn fn-type="other" id="fn12">
+				<label>12</label>
+				<p>
+					<xref ref-type="bibr" rid="B10">Gary King, Robert O. Keohane y Sidney Verba</xref>, <italic>El diseño de la investigación social: La inferencia científica en los estudios cualitativos</italic> (Madrid: Alianza Editorial, 2000), 13-43.</p>
+			</fn>
+			<fn fn-type="other" id="fn13">
+				<label>13</label>
+				<p>
+					<xref ref-type="bibr" rid="B29">Laura Wills Otero</xref>, “Presentación: Estudios legislativos en sistemas presidenciales. Avances de investigación”. <italic>Colombia internacional 83</italic> (enero-abril 2015), <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.7440/colombiaint83.2015.01">https://doi.org/10.7440/colombiaint83.2015.01</ext-link> (consultado el 27 de agosto de 2024).</p>
+			</fn>
+			<fn fn-type="other" id="fn14">
+				<label>14</label>
+				<p>
+					<xref ref-type="bibr" rid="B12">Cecilia Judith Mora Donatto</xref>, <italic>Las comisiones parlamentarias de investigación como órganos de control político</italic> (México: Cámara de Diputados, LVII Legislatura - Instituto de Investigaciones Jurídicas, UNAM, 1998), 17-22.</p>
+			</fn>
+			<fn fn-type="other" id="fn15">
+				<label>15</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">Elvira Bosch, Carme Álvarez, Teresa Gil, Joan Carles Graupera e Inés Montobbio</xref>, “Bibliotecas y servicios de estudios parlamentarios: estrategias de adaptación a las necesidades de información de los parlamentos”, <italic>Textos universitaris de biblioteconomia i documentació 27</italic> (diciembre de 2011), <ext-link ext-link-type="uri" xlink:href="https://bid.ub.edu/27/bosch2.htm">https://bid.ub.edu/27/bosch2.htm</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn16">
+				<label>16</label>
+				<p>
+					<xref ref-type="bibr" rid="B19">Fernando Sainz Moreno</xref>, “Técnica normativa: visión unitaria de una materia plural en la técnica legislativa a debate”, en <italic>La técnica legislativa al debate</italic>, <italic>coord. por Jesús María Corona Ferrero, José Tudela Aranda y Francesc Pau i</italic> (Madrid: Tecnos, 1994), 19-48.</p>
+			</fn>
+			<fn fn-type="other" id="fn17">
+				<label>17</label>
+				<p>
+					<xref ref-type="bibr" rid="B9">Piedad García-Escudero Márquez</xref>, “Nociones de técnica legislativa para uso parlamentario”, <italic>Asamblea. Revista Parlamentaria de la Asamblea de Madrid 13</italic> (diciembre 2013), 121-164. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.59991/rvam/2005/n.13/609">https://doi.org/10.59991/rvam/2005/n.13/609</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn18">
+				<label>18</label>
+				<p>
+					<xref ref-type="bibr" rid="B8">Roberto Ehrman</xref>, <italic>La evaluación de impacto legislativo: un programa para la mejora de los resultados de la legislación</italic> (México: Cuadernos de la Ciudad de México, 2018).</p>
+			</fn>
+			<fn fn-type="other" id="fn19">
+				<label>19</label>
+				<p>
+					<xref ref-type="bibr" rid="B13">Cecilia Judith Mora-Donatto</xref>, “Importancia de los servicios de apoyo técnico en el Poder Legislativo. Experiencias comparadas útiles para el caso mexicano”, <italic>Instituto Belisario Domínguez</italic> (2016), <ext-link ext-link-type="uri" xlink:href="https://bibliodigitalibd.senado.gob.mx/handle/123456789/1767">https://bibliodigitalibd.senado.gob.mx/handle/123456789/1767 </ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn20">
+				<label>20</label>
+				<p>
+					<xref ref-type="bibr" rid="B20">Nina María Serafino</xref>, <italic>Investigación y análisis para los parlamentos: Manual práctico</italic>. (Washington DC: Centro para la Democracia, 1997).</p>
+			</fn>
+			<fn fn-type="other" id="fn21">
+				<label>21</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">Dulce María Liahut Baldomar</xref>, <italic>Pautas generales para el establecimiento de un Servicio de información parlamentaria. Cuadernos de apoyo</italic> (México: Dirección General de Bibliotecas. Cámara de Diputados, 2003).</p>
+			</fn>
+			<fn fn-type="other" id="fn22">
+				<label>22</label>
+				<p>
+					<xref ref-type="bibr" rid="B27">Clay Wellborn</xref>, <italic>Redacción de informes para el Congreso</italic> (México: Dirección General de Bibliotecas. <xref ref-type="bibr" rid="B28">Servicio de investigación y análisis de coordinación</xref>. Cámara de diputados, 2002).</p>
+			</fn>
+			<fn fn-type="other" id="fn23">
+				<label>23</label>
+				<p>
+					<xref ref-type="bibr" rid="B3">Brudnick</xref>, “The Congressional”…, 4.</p>
+			</fn>
+			<fn fn-type="other" id="fn24">
+				<label>24</label>
+				<p>Wellborn, <italic>Redacción de informes</italic>…, 22.</p>
+			</fn>
+			<fn fn-type="other" id="fn25">
+				<label>25</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">James Coleman</xref>, “Análisis sociológico y política social”, en <italic>Historia del análisis sociológico</italic>, comp. Tom Bottomore y Ronert Nisbet (Buenos Aires: Amorrortu, 1988), 768-795.</p>
+			</fn>
+			<fn fn-type="other" id="fn26">
+				<label>26</label>
+				<p>Serafino, <italic>Investigación y análisis</italic>…, 59.</p>
+			</fn>
+			<fn fn-type="other" id="fn27">
+				<label>27</label>
+				<p>
+					<xref ref-type="bibr" rid="B17">William Robinson y Clay Wellborn</xref>, <italic>Knowledge, Power and the Congress</italic> (Washington, D.C.: Congressional Quarterly, 1991). </p>
+			</fn>
+			<fn fn-type="other" id="fn28">
+				<label>28</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Keith Cuninghame</xref>, <italic>Directrices para bibliotecas parlamentarias</italic> (Madrid: International Federation of Library Associations and Institutions, 2009), 41.</p>
+			</fn>
+			<fn fn-type="other" id="fn29">
+				<label>29</label>
+				<p>
+					<xref ref-type="bibr" rid="B24">Unión Interparlamentaria (UIP) y Federación Internacional de Asociaciones de Bibliotecarios y Bibliotecas (IFLA)</xref>, <italic>Directrices para los servicios de investigación parlamentaria</italic> (La Haya: Unión Interparlamentaria, 2015).</p>
+			</fn>
+			<fn fn-type="other" id="fn30">
+				<label>30</label>
+				<p>
+					<xref ref-type="bibr" rid="B3">Ida Brudnick</xref>, “The Congressional Research Service and the American Legislative Process”, <italic>Congressional Research Service RL33471</italic> (diciembre 2011), <ext-link ext-link-type="uri" xlink:href="https://crsreports.congress.gov/product/pdf/RL/RL33471">https://crsreports.congress.gov/product/pdf/RL/RL33471</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn31">
+				<label>31</label>
+				<p>
+					<xref ref-type="bibr" rid="B25">Unión Interparlamentaria (UIP) y Federación Internacional de Asociaciones de Bibliotecarios y Bibliotecas (IFLA)</xref>, <italic>Informing Democracy. Building capacity to meet parliamentarians’ information and knowledge needs</italic>. (La Haya: Unión Interparlamentaria, 2009).</p>
+			</fn>
+			<fn fn-type="other" id="fn32">
+				<label>32</label>
+				<p>José Tudela Aranda, “El Parlamento en tiempos críticos”, <italic>Corts: Anuario de derecho parlamentario 33</italic> (2020): 19-68.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">vu</journal-id>
+			<journal-title-group>
+				<journal-title>Vértice universitario</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Vértice univ.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-1388</issn>
+			<issn pub-type="epub">2683-2623</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Económicas y Administrativas</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36792/rvu.v28i97.509</article-id>
+			<article-id pub-id-type="other">00102</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Eficiencia y rendición de cuentas en la gestión pública: Reformas en la cadena de suministro desde la NGP y las NIF</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-2181-1868</contrib-id>
+					<name>
+						<surname>Martínez Verdugo</surname>
+						<given-names>Juan Carlos</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Doctor en Metodología y Líneas de Investigación en Contabilidad y Auditoría Maestro de Tiempo Completo</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-9019-2242</contrib-id>
+					<name>
+						<surname>Nande Vázquez</surname>
+						<given-names>Edgar Alfredo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<role>Doctor en Metodología y Líneas de Investigación en Contabilidad y Auditoría</role>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Autor de correspondencia: Doctor en Metodología y Líneas de Investigación en Contabilidad y Auditoría Maestro de Tiempo Completo, Universidad de Sonora Correo electrónico: juancarlos.martinez@unison.mx</institution>
+				<institution content-type="normalized">Universidad de Sonora</institution>
+				<institution content-type="orgname">Universidad de Sonora</institution>
+				<country country="MX">Mexico</country>
+				<email>juancarlos.martinez@unison.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Doctor en Metodología y Líneas de Investigación en Contabilidad y Auditoría. Maestro de Tiempo Completo, Universidad de Colima Correo electrónico: cpnande@ucol.mx</institution>
+				<institution content-type="normalized">Universidad de Colima</institution>
+				<institution content-type="orgname">Universidad de Colima</institution>
+				<country country="MX">Mexico</country>
+				<email>cpnande@ucol.mx</email>
+			</aff>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>26</day>
+				<month>02</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>28</volume>
+			<issue>97</issue>
+			<elocation-id>e509</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>15</day>
+					<month>10</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>06</day>
+					<month>02</month>
+					<year>2026</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>Este artículo analiza la gestión de la cadena de suministro en el sector público mexicano desde la perspectiva de la Nueva Gestión Pública (NGP). Examina la incorporación de prácticas del sector privado -especialmente el costo total de propiedad (CTP) y la gestión de relaciones con proveedores (SRM)- como mecanismos para modernizar la administración pública. El estudio revisa cuatro dimensiones analíticas: compras públicas y CTP; logística de entrada y SRM; almacenamiento y eficiencia operativa; y satisfacción ciudadana. A través de un enfoque conceptual respaldado por evidencia empírica reciente, se sostiene que la integración de prácticas logísticas con los principios de la NGP y las Normas de Información Financiera (NIF) puede fortalecer la eficiencia operativa, la transparencia y la rendición de cuentas. No obstante, persisten limitaciones institucionales, entre ellas la escasa interoperabilidad de los sistemas administrativos y la limitada aplicación de metodologías de CTP en auditorías de gestión pública. Los resultados proponen líneas futuras de investigación centradas en estudios de caso locales, evaluación cuantitativa de impactos e integración digital. El trabajo aporta un marco teórico-normativo para el rediseño institucional y la mejora continua de los servicios públicos.</p>
+			</abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Nueva Gestión Pública</kwd>
+				<kwd>Gestión de la Cadena de Suministro</kwd>
+				<kwd>Normas de Información Financiera</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Códigos JEL:</title>
+				<kwd>H83</kwd>
+				<kwd>M11</kwd>
+				<kwd>M41</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="4"/>
+				<equation-count count="0"/>
+				<ref-count count="25"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>1. Introducción</title>
+			<p>En el escenario contemporáneo de la administración pública mexicana, caracterizado por limitaciones presupuestarias, creciente demanda ciudadana y exigencias de transparencia, la adopción de modelos de gestión más eficientes se ha vuelto imperativa, como ha sido señalado en la literatura sobre administración pública. En este contexto, la Nueva Gestión Pública (NGP) ha cobrado relevancia como una corriente reformista que busca trasladar principios y prácticas del sector privado a la esfera pública, con énfasis en la orientación al desempeño, la eficiencia organizacional, la rendición de cuentas y la mejora continua en la provisión de bienes y servicios públicos (<xref ref-type="bibr" rid="B22">Pollitt y Bouckaert, 2023</xref>; <xref ref-type="bibr" rid="B19">Osborne, 2010</xref>). </p>
+			<p>Una de las áreas más relevantes para la materialización de los principios de la NGP es la gestión de la cadena de suministro, entendida como el conjunto de procesos que permiten llevar a cabo esas actividades de adquisición, recepción, almacenamiento y distribución de los bienes y servicios necesarios para que el aparato público funcione. La literatura especializada ha señalado que prácticas como la evaluación del Costo Total de Propiedad (<xref ref-type="bibr" rid="B10">Ellram y Siferd, 1993</xref>; Elram, 2009), La implementación de Sistemas de Gestión de Relaciones con Proveedores efectivos ha sido asociada en la literatura con la optimización de estos procesos, incluyendo reducciones en los tiempos de entrega y de los costos del inventario (<xref ref-type="bibr" rid="B3">Bowersox et al.,, 2012</xref>; <xref ref-type="bibr" rid="B4">Chen y Paulraj, 2004</xref>). En el ámbito público, esta gestión se ha vinculado a una gestión más eficiente de recursos básicos, como medicamentos o material educativo, para favorecer una respuesta más rápida y efectiva a la necesidad de los ciudadanos (<xref ref-type="bibr" rid="B21">Peters, 2010</xref>;).</p>
+			<p>De forma paralela, las Normas de Información Financiera (NIF), emitidas por el Consejo Mexicano para la Investigación y Desarrollo de Normas de Información Financiera (CINIF), establecieron un marco contable que estableció la obligación de las entidades gubernamentales de adoptar prácticas de registro y reporte que fueran más comprensibles, sostenidas y comprobables, las cuales fortalecen la transparencia y la trazabilidad del gasto público (<xref ref-type="bibr" rid="B7">CINIF, 2018a</xref>, <xref ref-type="bibr" rid="B8">2018b</xref>, <xref ref-type="bibr" rid="B9">2018c</xref>). La convergencia que hacen los principios de NGP y el cumplimiento de las NIF constituye una oportunidad competitiva para armonizar eficiencia administrativa con rendición de cuentas financiera.</p>
+			<p>Este trabajo busca evidenciar el potencial de mejora en la administración pública de México al poderlo cruzar con las consecuencias prácticas de la relación entre la Nueva Gestión Pública (NGP), la NIIF y el modelo de gestión moderno de la cadena de suministro. En un sentido teórico-analítico, se revisan los supuestos conceptuales y normativos de las mencionadas herramientas, se obtienen las mejores prácticas de la cadena de suministro en el sector público y se analiza el posible impacto de las mismas en la eficiencia, la transparencia y la satisfacción ciudadana. Del mismo modo, se incluyen los datos más recientes de los informes de la Auditoría Superior a la Federación, en particular el Informe del Resultado de la Fiscalización Superior de la Cuenta Pública 2021 (<xref ref-type="bibr" rid="B2">ASF, 2022</xref>), los diagnósticos proporcionados por el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (<xref ref-type="bibr" rid="B14">INAI, 2022</xref>), así como los estudios de caso de interés. </p>
+			<p>De este modo, la intención es contribuir al debate de cómo transformar las operaciones públicas con base en herramientas modernas de gestión, entendido esto como ir más allá de la simple adopción formal de normas y avanzar hacia su implementación real y estratégica. Para ello, la presente propuesta contribuye también a ofrecer recomendaciones para futuras investigaciones con el fin de generar evidencia sobre las virtudes y limitaciones justamente de estas reformas en los diferentes órdenes de gobierno.</p>
+		</sec>
+		<sec>
+			<title>2. Revisión de la literatura</title>
+			<p>La gestión de la cadena de suministro constituye un aspecto fundamental para el rendimiento organizacional, tanto en el sector privado como en el sector público, debido a la incorporación de procesos de negocio importantes como, por ejemplo, las compras, la logística de entrada o el almacenaje de productos o materiales (<xref ref-type="bibr" rid="B5">Chopra y Meindl, 2016</xref>). Desde una visión global y holística, la distribución de cada eslabón de la cadena de suministro directa e indirectamente puede permitir una mejora en el rendimiento organizacional, la disminución de los costos y la mejor satisfacción del cliente/ciudadano.</p>
+			<p>Es en este sentido, queda de manifiesto, que la eficiencia en la óptima administración de las compras, fundamentada en la Teoría del Total Cost of Ownership, hace referencia a que estos también deben incluir los costos a lo largo del ciclo de vida de los bienes y los servicios, más que por el precio de adquisición, lo cual resulta en una mejor decisión, más sostenible y compatible con los intereses de la organización (<xref ref-type="bibr" rid="B10">Ellram y Siferd, 1993</xref>; <xref ref-type="bibr" rid="B15">Monczka et al, 2015</xref>).</p>
+			<p>La logística de entrada tiene un papel importante para la eficiencia operativa, dado que cuando no se lleva a cabo de una forma coordinada, la diferencia entre el éxito o el fracaso en la entrega de los productos o los servicios finales puede ser radical. La implantación de los Sistemas de Gestión de Relaciones con Proveedores permite su optimización, lo que reduce significativamente los tiempos de entrega y los costos asociados al inventario (<xref ref-type="bibr" rid="B3">Bowersox et al., 2012</xref>; <xref ref-type="bibr" rid="B4">Chen y Paulraj, 2004</xref>). En el ámbito público, esto se traduce en una administración más eficiente de recursos esenciales, desde medicamentos hasta material educativo, lo que permite una respuesta más ágil y efectiva a las necesidades de los ciudadanos (<xref ref-type="bibr" rid="B21">Peters, 2010</xref>).</p>
+			<p>El almacenamiento de materiales y productos terminados requiere de estrategias que maximicen el uso del espacio y minimicen los daños, mientras se facilita un acceso rápido y eficiente. Un diseño de almacén eficiente y la selección de sistemas de almacenamiento adecuados son fundamentales para lograr una operación costo-efectiva, lo cual ha sido documentado en la literatura como un factor asociado con la reducción de desperdicios y la mejora en la disponibilidad de materiales críticos (<xref ref-type="bibr" rid="B12">Gu et al., 2010</xref>; Goetschalckx y McGinnis, 2010; <xref ref-type="bibr" rid="B24">Tompkins et al., 2010</xref>)<italic>.</italic> En el marco de la administración pública, debemos de realizar una correcta utilización de prácticas de almacenamiento efectivo; esto se traduce en una optimización de los recursos que permitan ofrecer sostenibilidad en los servicios públicos, en especial cuando hablamos de sectores clave como salud y educación (<xref ref-type="bibr" rid="B13">Hood y Dixon, 2015</xref>). Por último, hay que señalar que la adecuada gestión del almacenamiento promueve que la rotación de inventarios aumente y que se logre una entrega efectiva y precisa del servicio o de los productos; aspecto este de vital importancia en el sector público, ya que la calidad y eficiencia del servicio que se ofrece a los ciudadanos constituyen la palanca del éxito. La utilización de sistemas de &quot;picking&quot; eficientes, así como la aplicación de la mejora continua son una cuestión imprescindible en la mejora de la eficiencia operativa y en la satisfacción ciudadana (<xref ref-type="bibr" rid="B25">Womack y Jones, 1996</xref>; <xref ref-type="bibr" rid="B11">Frazelle, 2002</xref>).</p>
+			<p>Esta visión constituye el punto de partida para concluir, siguiendo la revisión de la literatura, que las prácticas efectivas pueden impulsar la mejora de la eficiencia operativa, la disminución de los costes y el aumento de la satisfacción del público o de los ciudadanos conforme a la Nueva Gestión Pública centrada en la buena gestión pública y en un gobierno más eficaz y eficiente (<xref ref-type="bibr" rid="B17">OECD, 2020</xref>). En este contexto, la <xref ref-type="table" rid="t1">tabla 1</xref> muestra un condensado de las principales variables empleadas para el análisis, junto con su valor y la bibliografía correspondiente.</p>
+			<p>
+				<table-wrap id="t1">
+					<label>Tabla 1</label>
+					<caption>
+						<title>Selección de variables utilizadas en el análisis, su importancia y referencia</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Variable </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Importancia </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Referencias </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Compras y la    Teoría del Costo Total de Propiedad (TCP)</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Evalúa    todos los costos asociados con la adquisición, uso y disposición de bienes y servicios.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Ellram y    Siferd (1993); Osborne (2010)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Logística de Entrada y Gestión de Relaciones con    Proveedores (SRM)<bold></bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Mejora la    eficiencia de la cadena de suministro a través de la colaboración con    proveedores.</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Bowersox et al. (2012); Chen y Paulraj (2004)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Almacenaje de    Materiales y la Importancia del Diseño Eficiente<bold></bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Maximiza    el uso del espacio y asegura la disponibilidad de insumos esenciales.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Gu et al. (2010); Tompkins et al. (2010)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Almacenaje de Productos Terminados y la Satisfacción    Ciudadana<bold></bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Asegura    la entrega oportuna de servicios, lo que mejora la satisfacción ciudadana.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Womack y    Jones (1996); Frazelle (2002)</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p>Fuente: Elaboración propia con base en <xref ref-type="bibr" rid="B10">Ellram y Siferd (1993)</xref>, <xref ref-type="bibr" rid="B19">Osborne (2010)</xref>, <xref ref-type="bibr" rid="B3">Bowersox et al. (2012)</xref>, <xref ref-type="bibr" rid="B4">Chen y Paulraj (2004)</xref>, <xref ref-type="bibr" rid="B12">Gu et al. (2010)</xref>, <xref ref-type="bibr" rid="B24">Tompkins et al. (2010)</xref>, <xref ref-type="bibr" rid="B25">Womack y Jones (1996)</xref>.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<sec>
+				<title>2.1. La Nueva Gestión Pública (NGP)</title>
+				<p>La implementación de la Nueva Gestión Pública (NGP) en México tiene un propósito explícito: incorporar eficiencias del sector privado para el manejo de los asuntos públicos, ante las complejidades económicas y sociales actuales. La NGP da mucha importancia a aspectos como la transparencia, la eficiencia y la orientación al cliente (o ciudadano), en lo relativo a cómo se gestionan los servicios públicos. La importancia que adquieren estos aspectos se intensifica en el área de las compras, la logística de entrada y el almacenamiento de materiales y productos acabados en el sector público. De alguna manera estas son las piezas clave de una buena gestión pública, que ayuda a mantener el proceso de las compras públicas de una manera más efectiva en la gestión de los recursos y la satisfacción de las necesidades de una población (<xref ref-type="bibr" rid="B19">Osborne, 2010</xref>; <xref ref-type="bibr" rid="B20">Perry 2010</xref>).</p>
+				<p>Las compras públicas desde el punto de vista de la NGP son una manera de no sólo siendo eficientes en términos económicos, sino de ser transparentes y justos en el proceso de las compras. La actualización de plataformas de e-Procurement es un modo de demostrar que la tecnología ayuda a llegar a estos objetivos, como ha sido documentado en la literatura sobre contratación pública, al ampliar el acceso a las oportunidades de contratación y fortalecer la transparencia y la rendición de cuentas (Thai, 2001; <xref ref-type="bibr" rid="B15">Monczka et al., 2015</xref>).</p>
+				<p>La función de la logística de entrada, en contraposición a la de la salida, tiene, por otro lado, una función central en reflejar la eficiencia desde la que el sector público puede dar respuesta a las necesidades del ciudadano. La manera en la que se gestiona la cadena de suministro y la forma en la que se realiza la compra o entrega de los bienes y los servicios es clave para conseguir reducir el coste, además de asegurar la disponibilidad en el momento pertinente de los recursos necesarios para la prestación de los servicios; en este sentido, el uso de los principios de gestión de la cadena de suministro que existen en el mundo de la empresa puede, sin duda, contribuir a nutrir al sector público de valiosas lecciones a tener en cuenta (en términos de planificación de recursos, gestión de inventarios o bien optimización logística (<xref ref-type="bibr" rid="B3">Bowersox et al., 2012</xref>).</p>
+				<p>En relación con el almacenamiento de materiales y la gestión de productos terminados, la NGP aboga por prácticas orientadas a asegurar un uso eficiente del espacio y los recursos, las cuales han sido asociadas en la literatura con la reducción del desperdicio y una mayor disponibilidad de materiales críticos (<xref ref-type="bibr" rid="B21">Peters, 2010</xref>). La adopción de sistemas de información dirigidos a la gestión de los inventarios o las tecnologías de automatizar procesos serían evidentes aquellas maneras de mejorar ostensiblemente en este punto, además de contribuir a la obtención de una mayor eficiencia en las operaciones y de los menores costes en la gestión pública (<xref ref-type="bibr" rid="B11">Frazelle, 2002</xref>)</p>
+				<p>Estas reformas y prácticas inspiradas en la NGP, tienen capacidad para transformar la administración pública en México. A partir de la mejora de la eficiencia, la transparencia en la gestión de las compras, la logística, el almacenamiento, etc., en el sector público se pueden ofrecer mejores servicios a la ciudadanía, a la vez que se logra una administración más comprometida y con la ayuda de los recursos públicos. Esto tiene mucha entidad en la actualidad, pues el país tiene el reto de promover un desarrollo económico, más inclusivo y sostenible, al tiempo que se refuerza la confianza de la ciudadanía en las instituciones públicas (<xref ref-type="bibr" rid="B19">Osborne, 2010</xref>; <xref ref-type="bibr" rid="B22">Pollitt y Bouckaert, 2023</xref>).</p>
+			</sec>
+			<sec>
+				<title>2.2. Las Normas de Información Financiera y la NGP</title>
+				<p>Dentro del contexto de la administración pública en México, considerando la inminente introducción de eficiencias que provengan del sector privado a través de la Nueva Gestión Pública así como el acatamiento de manera estricta de las Normas de Información Financiera (NIF) representa una estrategia esencial para enfrentar retos operativos y financieros, lo que mejora simultáneamente la calidad de los servicios ofrecidos a los ciudadanos. La NGP propicia la adopción de prácticas de gestión que se orientan a alcanzar la eficiencia, la transparencia y la atención al ciudadano, mientras que las NIF proponen un marco contable/financiero que garantice la integridad, la consistencia y la claridad de la información financiera</p>
+				<p>La integración de los principios de la NGP y de la NIF no sólo se hace imprescindible para las futuras organizaciones de una administración pública eficiente y centrada en el ciudadano, sino también para dar lugar a las normas de la integridad financiera y la responsabilidad; por ejemplo, la NGP en el ámbito de las compras públicas puede favorecer el uso de sistemas electrónicos para la compra pública y así favorecer, tanto el proceso de compras públicas como el de la NGP, la eficiencia y la transparencia en las compras. Al tiempo, las NIF aseguran que los costes asociados con las compras se registren y se reporten adecuadamente, garantizando así un sustrato que sirva a la vez para facilitar la toma de decisiones y para la rendición de cuentas.</p>
+				<p>Desde el ámbito de la gestión de las cadenas de suministros, las prácticas de la NGP en torno a la optimización de la logística de entrada y la optimización del almacenamiento de material deberán estar implementadas de forma adecuada en la contabilidad financiera en cumplimiento de las NIF. Este planteamiento da lugar a una gestión eficiente de los recursos, una gestión financiera que contemple el grado de responsabilidad y de transparencia suficiente en cuanto a la cadena de suministro, de esta forma la integración del trabajo de la gestión estratégica de la NGP con los principios contables según las NIF, se puede entender como síntoma de una administración pública que busca con destreza el cumplimiento de las demandas de la ciudadanía con un grado de transparencia y una adopción de la responsabilidad necesarios.</p>
+				<p>Este planteamiento se convierte en la expresión del compromiso con la mejora continua y con la adecuación a los cambios y a las contingencias que suponen la actual gestión pública. Es preciso defender un uso eficiente de las prácticas ejercidas con la gestión acorde a la NGP a la vez que al cumplimiento de las NIF para provocar un enfoque integrado a la administración pública que busque ser enérgicamente eficiente y económica en la gestión de los recursos públicos y a su vez, pueda ser entendida como responsable y transparente en el comportamiento ante la ciudadanía. Este enfoque es esencial para fortalecer la confianza de la población en sus instituciones gubernamentales, ya que mejora la calidad de los servicios públicos y contribuye a la construcción de un gobierno más efectivo y eficiente. </p>
+			</sec>
+			<sec>
+				<title>2.3. Delimitación del objeto de estudio</title>
+				<p>A partir del análisis de la literatura especializada, este trabajo se limita a una propuesta teórica y normativa que propone dar respuesta a cómo la incorporación de los principios orientados a la Nueva Gestión Pública (NGP) y el cumplimiento de las Normas de Información Financiera (NIF) pueden ser un afrontamiento a la gestión de la cadena de suministros en el ámbito de la administración pública mexicana. No se trata de una investigación empírica, con base en estudios de caso o análisis descriptivos, sino de un ejercicio de la conceptualización fundamentada en el análisis documental, normativo y académico. En este sentido hay que destacar que, por ejemplo, <xref ref-type="bibr" rid="B6">Cohen y Karatzimas (2017<italic>)</italic></xref> ponen de manifiesto la calidad de la información financiera para la toma de decisiones en gobierno, mientras que <xref ref-type="bibr" rid="B22">Pollitt y Bouckaert (2023<italic>)</italic></xref> subrayan las reformas comparativas en la gestión pública; al tiempo que se resalta la modernización de la contabilidad pública en América Latina desde una perspectiva de gestión. A estos aportes se suma lo de <xref ref-type="bibr" rid="B16">Navarro (2011<italic>)</italic></xref>, quien examina el vínculo entre reformas contables y gobernanza pública, y se plantean por otro lado enfoques interinstitucionales para la mejora de servicios públicos.</p>
+				<p>La unidad de análisis es el sector público mexicano en su conjunto, sin que se distingan niveles de gobierno (federal, estatal o municipal), debido a que los principios que aquí se abordan son de carácter general y transversal. Esta elección permite construir una base conceptual que pueda orientar tanto evaluaciones institucionales futuras como investigaciones aplicadas en contextos territoriales más acotados. Asimismo, busca aportar a la reflexión crítica sobre la modernización de las finanzas públicas y la gestión logística desde una perspectiva integral, interinstitucional y centrada en el ciudadano.</p>
+				<p>Pese a que el presente trabajo privilegia un enfoque teórico-normativo, resulta pertinente señalar que organismos de fiscalización y transparencia han documentado las limitaciones prácticas que enfrenta la gestión de la cadena de suministro en el sector público mexicano. Por ejemplo, de acuerdo con la Auditoría Superior de la Federación, en el Informe del Resultado de la Fiscalización Superior de la Cuenta Pública 2022 (<xref ref-type="bibr" rid="B2">ASF, 2022</xref>), el 37.5 % de las entidades fiscalizadas no presentaron evidencia documental suficiente sobre la aplicación efectiva de metodologías de análisis de costo total en sus procesos de adquisición, lo cual dificulta la implementación del enfoque de Costo Total de Propiedad (TCP). A su vez, estudios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (<xref ref-type="bibr" rid="B14">INAI, 2022</xref>), así como análisis de información pública de Compranet correspondientes a 2022, muestran que más del 60 % de los gobiernos municipales no utilizan sistemas formales de gestión de relaciones con proveedores (SRM), lo que limita los mecanismos de trazabilidad, evaluación y retroalimentación en las contrataciones públicas (<xref ref-type="bibr" rid="B23">Salgado Remigio, 2023</xref>).</p>
+				<p>Asimismo, la <xref ref-type="bibr" rid="B18">OECD (2021)</xref> en <italic>Public Procurement in Mexico: Redesigning Strategies and Institutions</italic> ha señalado que, si bien las Normas de Información Financiera (NIF) han sido adoptadas en el marco normativo federal, su implementación efectiva a nivel subnacional presenta desafíos relacionados con capacidades técnicas, interoperabilidad de sistemas y voluntad política. Estos hallazgos empíricos refuerzan la necesidad de fortalecer tanto las capacidades institucionales como los mecanismos de rendición de cuentas en la cadena de suministro pública.</p>
+			</sec>
+			<sec>
+				<title>2.4. Discusión crítica: desafíos de implementación práctica</title>
+				<p>La correcta aplicación de herramientas como la Teoría del Costo Total de Propiedad (TCP), la Gestión de Relaciones con Proveedores (SRM) y las Normas de Información Financiera (NIF) para el sector público mexicano, concretamente subnacional, confronta importantes limitaciones estructurales. En esta sección se hace un análisis crítico de los límites prácticos y de barreras genéricas de estas herramientas y de riesgos contables que presentan, el que está centrado en los gobiernos estatales y municipales. En primer lugar, la aplicación de la TCP en caso de compras públicas implica una transformación de la lógica común de tipo de compra habitual. La mayoría de las dependencias gubernamentales privilegian el criterio del menor precio, sin dejar de lado el hecho de no analizar los costos del mantenimiento, de la operación o de la disposición final de los productos. Esta visión fragmentada ha derivado, por ejemplo, en adquisiciones de vehículos o equipos médicos de baja durabilidad que, aunque económicos al inicio, generan altos costos en el mediano plazo. Estados como Veracruz y Chiapas han sido observados por la Auditoría Superior de la Federación por no incluir análisis de costo-beneficio en sus compras, lo cual revela un déficit en capacidades técnicas y de planeación.</p>
+				<p>Respecto al SRM, su implementación práctica en gobiernos locales está limitada por sistemas de contratación poco profesionalizados, falta de indicadores de desempeño por proveedor, y carencia de plataformas digitales interoperables. En muchos municipios no existe una base de datos consolidada de proveedores, ni esquemas de evaluación continua. La consecuencia es la repetición de errores administrativos, así como prácticas discrecionales y relaciones no institucionalizadas con proveedores, documentadas en estudios sobre contratación pública subnacional, lo que genera dependencia de contratistas sin evaluación sistemática de desempeño (<xref ref-type="bibr" rid="B23">Salgado Remigio, 2023</xref>; <xref ref-type="bibr" rid="B2">ASF, 2022</xref>; <xref ref-type="bibr" rid="B18">OECD, 2021</xref>; <xref ref-type="bibr" rid="B14">INAI, 2022</xref>).</p>
+				<p>En cuanto a las Normas de Información Financiera (NIF), su adopción sin respaldo tecnológico y sin personal capacitado genera riesgos significativos. Muchas entidades continúan operando con sistemas contables manuales o, cuando menos, obsoletos y de escaso aprovechamiento; lo que hace realmente difícil observar las NIF (normas de información financiera) en la prestablecimiento de la valuación de inventarios (NIF C-4), la depreciación de activos (NIF C-6) o la identificación de pasivos a los proveedores (NIF C-2). Además, esta situación no solamente hace tambalear la rendición de cuentas y la transparencia, sino que también pone en tela de juicio la credibilidad de los estados financieros y limita la toma de decisiones con plena conciencia de dicha situación. </p>
+				<p>No obstante, estas problemáticas no son solamente atribuibles a una negligencia institucional sino también a limitar las estructuras históricas, como presupuestos limitados para el propio proceso de modernización, la alta rotación de los recursos humanos cada ciclo fiscal, la ausencia de la profesionalización contable de los recursos humanos, así como la escasa coordinación entre las áreas administrativas y las operativas. </p>
+				<p>Para hacer frente a estas limitaciones no solo se requiere de voluntad política, sino también de una inversión sostenida en sistemas de información, en la formación técnica de los recursos humanos y de la generación de incentivos institucionales que vayan acordes con la observancia de calidad, de eficiencia, y cuya resultante sea la sustentabilidad financiera, etc.; y como colofón, pero por importante no menos relevante, se debe gozar de la experiencia institucional de los operadores, directivos y técnicos, que debe incluir también el aprendizaje de las experiencias por parte del operador con una relación directa a su experiencia en el contexto mexicano, en algún caso incluso exitoso, o fracasado. </p>
+				<p>La implementación del modelo de gestión de relaciones con proveedores (SRM) en gobiernos locales podría permitir mejoras sustanciales en la eficiencia operativa y la trazabilidad de los procesos de compra. No obstante, en muchos municipios, las relaciones proveedor-Estado aún se caracterizan por prácticas discrecionales y relaciones no institucionalizadas, así como por la falta de sistemas digitales y la opacidad en los procesos de licitación. Esto dificulta la construcción de relaciones de colaboración estratégica a largo plazo. Casos documentados en auditorías de la Auditoría Superior de la Federación (ASF), particularmente en los sectores de salud y obra pública, muestran cómo la ausencia de esquemas de SRM estructurados se asocia con episodios de desabasto, sobrecostos o adquisiciones fallidas.</p>
+				<p>En cuanto a la Teoría del Costo Total de Propiedad (TCP), su aplicación demanda capacidad analítica para evaluar no sólo el precio de adquisición sino costos de operación, mantenimiento y disposición. Gobiernos estatales con baja capacitación financiera o sin herramientas de planeación multianual tienden a realizar adquisiciones subóptimas. Programas federales como Compranet han intentado introducir criterios técnicos más amplios, pero su alcance sigue siendo limitado y no vinculante en muchos procesos subnacionales.</p>
+				<p>Desde el punto de vista contable, la adopción de las Normas de Información Financiera (NIF) en contextos públicos presenta un riesgo significativo si no se acompaña de sistemas de información robustos y personal técnico calificado. La automatización contable, el registro oportuno de pasivos y la valuación de inventarios son prácticas que muchas entidades públicas no logran cumplir consistentemente. La implementación incompleta de las NIF puede redundar en asientos contables erróneos, implicaciones en la rendición de cuentas y determinaciones que se basan en datos equivocados. </p>
+				<p>En conclusión, la eficaz aplicación de estos discursos teóricos no es sólo un simple acto normativo, sino una cuestión de voluntad institucional, inversión de los recursos tecnológicos, modificación de los marcos normativos locales y, sobre todo, formación del capital humano profesional. La falta de cualidades antes expuestas indica el porqué, en parte, la mayoría de los principios que la NGP y las NIF proponen no llegan a hacerse realidad en el espacio de la administración pública mexicana.</p>
+				<p>Uno de los principales desafíos es la limitada capacidad tecnológica y de infraestructura que enfrentan muchas entidades públicas, especialmente en los niveles estatal y municipal. La ausencia de sistemas de información integrados impide aplicar correctamente herramientas como la Teoría del Costo Total de Propiedad (TCP) o sistemas de gestión de relaciones con proveedores (SRM), lo que reduce su potencial para optimizar compras y logística.</p>
+				<p>Además, persisten resistencias culturales y resistencias a las organizaciones al cambio, especialmente para los casos de contratación pública en donde hábitos administrativos y normatividad tradicional suelen preceder a enfoques más estratégicos y colaborativos. Esto entorpece la implementación de prácticas como las técnicas de planificación logística fundamentadas en la demanda, el análisis del ciclo de vida de los activos o el almacenamiento orientado al cumplimiento de indicadores de rendimiento. Desde una óptica de contable y financiera, las NIF tienen serios problemas para lograr su implementación con unas prestaciones técnicas del lado del personal operativo muy deficientes en el uso de las herramientas contables que éstas determinan. En efecto, las NIF no hacen sino indicar cuáles son las reglas para seguir para la realización del libro, de la valuación y de la presentación de la información financiera y públicos, pero su aplicación implica una transformación de fondo de los sistemas de contabilidad gubernamental y de la gestión de los recursos humanos. Se origina así un desajuste entre lo que se informa y la realidad formativa, una desinformación que repercute negativamente en la rendición de cuentas y en la toma de decisiones apoyada en evidencias.</p>
+				<p>Aun cuando este trabajo se enmarca en un enfoque teórico-normativo, es importante reconocer que existen esfuerzos institucionales que han sido documentados y que pueden fortalecer la validez empírica de futuras investigaciones. Por ejemplo, plataformas como Compranet, así como los informes de la Auditoría Superior de la Federación y los registros del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, ponen a disposición información pública sobre procesos de contratación, desempeño logístico y administración de inventarios públicos (<xref ref-type="bibr" rid="B2">ASF, 2022</xref>; <xref ref-type="bibr" rid="B14">INAI, 2022</xref>). De manera exploratoria, convendría examinar si algunas entidades federativas han incorporado criterios del Costo Total de Propiedad (TCP) en sus adquisiciones, o si existen datos sistematizados sobre eficiencia logística en almacenes de insumos médicos, escolares o de obra pública. Incorporar estos elementos en investigaciones futuras permitiría contrastar las propuestas normativas con la realidad operativa y evaluar con mayor precisión los avances y obstáculos en la adopción de los principios de la Nueva Gestión Pública y las Normas de Información Financiera.</p>
+				<p>El objetivo de esta investigación es analizar el potencial de mejora en la administración pública mexicana a partir de la implementación de prácticas eficientes de gestión de la cadena de suministro, fundamentadas en la Teoría del Costo Total de Propiedad (TCP), la gestión de relaciones con proveedores (SRM), el diseño eficiente de almacenes y la mejora en la satisfacción ciudadana, bajo el marco de la Nueva Gestión Pública (NGP) y en conformidad con las Normas de Información Financiera (NIF).</p>
+			</sec>
+		</sec>
+		<sec sec-type="methods">
+			<title>3. Metodología</title>
+			<p>La metodología utilizada en este trabajo es la revisión literatura la cual integra, adhiere y aplica los principios teóricos -normativos encontrados en un ámbito determinado el cual en este caso se refiere a la gestión de la cadena de suministro encuadrada en los postulados de la Nueva Gestión Pública (NGP) en México en tanto que incorpora el componente del análisis de las Normas de Información Financiera (NIF). Con ayuda de la metodología de revisión literatura podremos sintetizar los conocimientos teóricos y normativos a prácticas de gestión pública para tener un análisis más profundo y detallado y fundamentado de cómo estas prácticas puedan contribuir a la eficiencia, a la transparencia y a la rendición de cuentas de la gestión pública; enseguida expondremos los pasos que aportan al análisis de las variables.</p>
+			<sec>
+				<title>3.1. Pasos</title>
+				<p>Identificación de Variables Clave: Cuatro variables fundamentales de la gestión de cadena de suministro fueron elegidas: Compras y la Teoría del Costo Total de Propiedad (TCP), Logística de Entrada y Gestión de Relaciones con Proveedores, Almacenaje de Materiales y la Importancia del Diseño Eficiente, Almacenaje de Productos Terminados y Satisfacción Ciudadana, teniendo en cuenta su relevancia sobre la eficiencia operativa y la satisfacción del cliente o ciudadanía. </p>
+				<p>Revisión de la Literatura y Normativa: Se llevó a cabo una revisión de la literatura académica y de las Normas de Información Financiera relacionadas para poder proporcionar un marco teórico pero también normativo, el cual incluyó consultar fuentes como artículos de investigación, libros o documentos oficiales de las NIF emitidos por el Consejo Mexicano de Normas de Información Financiera. </p>
+				<p>Análisis Integrativo: Se llevó a cabo la integración de los hallazgos teóricos y normativos de cada una de las variables para evaluar la importancia igual que cómo estaban relacionados con los principios de la NGP junto al apego a las NIF. Así, se pudo llevar a cabo el análisis de cómo las prácticas de la gestión de la cadena de suministro podían estar alineadas con los objetivos de eficiencia, transparencia y rendición de cuentas del sector público mexicano. </p>
+				<p>Síntesis y Aplicación: La información y el análisis llevados a cabo se sintetizaron para proporcionar una visión integral, que sugiere contribuir con los objetivos de la NGP y su cumplimiento de las NIF. Esto implicó una evaluación de cómo la implementación de estas prácticas podría mejorar la gestión publica. </p>
+			</sec>
+		</sec>
+		<sec sec-type="results">
+			<title>4. Resultados</title>
+			<p>El análisis de la gestión de la cadena de suministro en el contexto de la Nueva Gestión Pública (NGP) en México, con un enfoque en las Normas de Información Financiera (NIF), revela cómo prácticas específicas pueden mejorar la eficiencia, la transparencia y la rendición de cuentas en el sector público, observado en la <xref ref-type="table" rid="t2">tabla 2</xref>.</p>
+			<p>
+				<table-wrap id="t2">
+					<label>Tabla 2</label>
+					<caption>
+						<title>Relación entre la adopción de principios de la Nueva Gestión Pública (NGP) alineados con las Normas de Información Financiera (NIF) para mejorar la eficiencia del sector público</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Variable </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Importancia </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Relación    con la NGP </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Apego    a las NIF </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Compras y la Teoría del Costo Total de Propiedad    (TCP)</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Evalúa todos los costos asociados con la    adquisición, uso y disposición de bienes y servicios, más allá del precio de    compra inicial.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Promueve la eficiencia y la optimización de    recursos al considerar el costo total de propiedad, alineados con la    transparencia y la gestión financiera responsable.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Se vinculan directamente con la NIF C-2    "Instrumentos Financieros por Pagar" y con la NIF C-6    "Propiedades, Planta y Equipo", en la medida en que implica, el    reconocimiento y valoración de los costos, de la adquisición y los costos posteriores    (Consejo Mexicano de Normas de Información Financiera, 2018a; 2018b).</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Logística de Entrada y Gestión de Relaciones con    Proveedores (SRM)</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Incluye actividades de adquisición de materiales, almacenamiento y    transporte, enfocándose en la eficiencia de la cadena de suministro.</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Una buena gestión de relaciones con proveedores favorece un mejor    entendimiento y ahorra costos y plazos de entrega, pilar de la óptima    prestación de los servicios públicos.</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Significa el uso de la NIF C-2 "Instrumentos Financieros por    Pagar", para operar con las obligaciones frente a proveedores, de forma    que se garantice una correcta administración de las cuentas por pagar    (Consejo Mexicano de Normas de Información Financiera, 2018a).</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Almacenaje de Materiales y la Importancia del    Diseño Eficiente</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Se enfoca en maximizar el uso del espacio de    almacenamiento y asegurar la disponibilidad de insumos esenciales.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Un diseño eficiente de almacén contribuye a la    reducción de costos y mejora la capacidad de respuesta del sector público, lo    que se alinea con los objetivos de eficiencia y efectividad de la NGP.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Corresponde a la NIF C-4 "Inventarios",    que regula la valuación y presentación de los inventarios, un aspecto crucial    para el almacenamiento eficiente de materiales (Consejo Mexicano de Normas de    Información Financiera, 2018c).</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">
+      Almacenaje de Productos Terminados y la Satisfacción    Ciudadana</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Relacionado con la eficiencia en el almacenamiento y distribución de    productos finales o la prestación de servicios.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">La gestión eficiente garantiza la entrega de servicios a tiempo, y    también mejora la satisfacción ciudadana, tal como lo requería la calidad y    la responsabilidad de la NGP.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Aunque no hay una NIF específica para    "productos terminados" en el sector público, la NIF C-4 "Inventarios" puede resultar útil para su    gestión haciendo énfasis en el carácter trascendente de la gestión eficiente    y su reflejo en la información financiera (Consejo Mexicano de Normas de    Información Financiera, 2018c).</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN2">
+							<p>Fuente: Elaboración propia con base en <xref ref-type="bibr" rid="B10">Ellram y Siferd (1993)</xref>, Consejo Mexicano de Normas de Información Financiera (<xref ref-type="bibr" rid="B7">2018a</xref>; <xref ref-type="bibr" rid="B8">2018b</xref>) y autores claves de la NGP como los son <xref ref-type="bibr" rid="B19">Osborne (2010)</xref> y <xref ref-type="bibr" rid="B20">Perry (2010)</xref><italic>.</italic></p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>Como podemos observar, se puede demostrar que las cuatro variables esenciales (1) Compras y la Teoría del Costo Total de Propiedad (TCP); (2) Logistica de Entrada y Gestión de Relaciones con Proveedores (SRM); (3) Almacenaje de Materiales y la Relevancia del Diseño Adecuado y (4) Almacenaje de Productos Terminados y la Satisfacción Ciudadana; es una forma en que se muestra que la incorporación de principios de la NGP, alineada con las NIF favorece una gestión pública más consciente y responsable; y es en esa línea donde se detallan las variables a analizar. </p>
+			<sec>
+				<title>4.1. Compras y la Teoría del Costo Total de Propiedad (TCP)</title>
+				<p>La Teoría del Costo Total de Propiedad (TCP) enfatiza la importancia de considerar todos los costos asociados con la adquisición, uso y disposición final de bienes y servicios, más allá del precio inicial de compra. Esta visión es determinante para una correcta gestión de los recursos utilizados desde el sector público, ya que permite una mejor y más sostenida decisión de compra. En la medida que se aplica la TCP, es posible que las entidades, un tanto alocadamente, piensen que en caso de una primera mirada no puede determinarse que una solución más costosa puede ser más barata a largo plazo que otra más barata, en función del menor coste de uso, mantenimiento o de eliminación (<xref ref-type="bibr" rid="B10">Ellram y Siferd, 1993</xref>). Por ejemplo, la NIF C-6, la cual permite reconocer y valorar la propiedad, planta y equipo; permite a las entidades públicas considerar principios de TCP atendiendo a valoraciones de los costes totales de estos activos (<xref ref-type="bibr" rid="B8">Consejo Mexicano de Normas de Información Financiera, 2018b</xref>).</p>
+			</sec>
+			<sec>
+				<title>4.2. Logística de entrada y Gestión de Relaciones con Proveedores (SRM)</title>
+				<p>La eficiencia en la logística de entrada y una gestión efectiva de las relaciones con proveedores son fundamentales para asegurar la disponibilidad oportuna de bienes y servicios esenciales, optimizando los costos y tiempos de entrega. Una SRM puede permitir a las entidades públicas la posibilidad de unir esfuerzos con sus proveedores, que se puede traducir en una mejora significativa en la calidad de los bienes y los servicios recibidos, así como en el funcionamiento de la cadena de suministro (<xref ref-type="bibr" rid="B4">Chen y Paulraj, 2004</xref>). La NIF C-2 contempla la forma de contabilizar los instrumentos financieros pasivos, siendo igualmente objeto de su tratamiento las obligaciones con los proveedores, lo cual sería indicativo de la importancia de la necesidad de registrar y gestionar las relaciones que se vayan constituyendo con base en principios contables adecuados, claros y transparentes (<xref ref-type="bibr" rid="B7">Consejo Mexicano de Normas de Información Financiera, 2018a</xref>).</p>
+			</sec>
+			<sec>
+				<title>4.3. Almacenaje de materiales y la importancia del diseño eficiente</title>
+				<p>Un almacenaje de materiales se considera un factor clave para exprimir al máximo el espacio disponible, minimizar la llegada con daño a los insumos de los que se dispone y garantizar una manera rápida y eficaz de acceder a los insumos que se quieran utilizar: el diseño de almacenes y la elección de sistemas de almacenamiento adecuados pueden contribuir al máximo a la efectividad operativa dentro de un centro de distribución y al máximo a la reducción de costes (<xref ref-type="bibr" rid="B12">Gu et al., 2010</xref>). Por último, la siguiente NIF C-4, establece criterios que van desde la valuación del inventario hasta su presentación, la cual es un importante complemento a un almacenamiento de materiales eficiente: dicha NIF ayuda a las entidades estatales para llevar el control de sus propios inventarios, al tener a su disposición información que es importante para la planificación de recursos y la gestión financiera (<xref ref-type="bibr" rid="B9">Consejo Mexicano de Normas de Información Financiera, 2018c</xref>).</p>
+			</sec>
+			<sec>
+				<title>4.4. Almacenaje de productos terminados y la satisfacción ciudadana</title>
+				<p>La gestión efectiva del almacén de productos terminados es importante para la prestación puntual y adecuada de los servicios públicos. Este tipo de prácticas, como Just-In-Time pueden disminuir el nivel del inventario, incrementar la rotación de los inventarios, lo cual significa un mayor grado de satisfacción por parte de la ciudadanía (<xref ref-type="bibr" rid="B25">Womack y Jones, 1996</xref>). Las NIF prestan atención a sitios del mundo financiero y contable, pero, la gestión eficiente de productos terminados, babeando con la NIF C-4, evidencia que la información financiera mejora acorde a la operativa de las entidades públicas, y la misma sirve para la transparencia y la rendición de cuentas.</p>
+				<p>Este análisis muestra cómo la inclusión de las prácticas de gestión de la cadena de suministro sumadas a los principios de la NGP y las NIF contribuyeron a la administración pública mexicana. Dichas prácticas permiten no sólo mejorar la eficiencia, y la economía en la gestión de recursos públicos, sino también, la transparencia y de rendición de cuentas que son prácticas necesarias para el dato de la confianza de la ciudadanía por el gobierno.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions|discussion">
+			<title>5. Discusión y conclusiones</title>
+			<p>La integración de la Nueva Gestión Pública (NGP) y las Normas de Información Financiera (NIF) en el contexto de la administración pública mexicana pone de manifiesto un enfoque estratégico hacia la modernización y la eficiencia del gobierno, que permite poner en conexión la gestión pública con las prácticas y estándares que promueven la eficiencia, la transparencia y la rendición de cuentas. La discusión está sustentada en un cuerpo de estudios previos recogidos en la disciplina de la gestión de la cadena de suministro y contabilidad financiera, y pone de manifiesto la importancia de un enfoque global y holístico para conjuntamente mejorar la calidad de los servicios públicos y transmitir confianza a los ciudadanos en sus instituciones. La mejora en los procesos y la reducción de costes son prácticas a las que la literatura hace referencia como resultados de la adopción e implementación de estrategias de gestión de la cadena de suministro, como también sugieren <xref ref-type="bibr" rid="B5">Chopra y Meindl (2016)</xref> o el análisis de costes a partir de la Teoría del Costo Total de Propiedad, tal como discuten <xref ref-type="bibr" rid="B10">Ellram y Siferd (1993)</xref>. Estas prácticas no sólo dejan hacer un mejor uso de los recursos, sino que también se hallan fuertemente relacionadas con la sostenibilidad y competitividad de las organizaciones, principio que también se encuentra en la gestión pública a la vista de lo establecido en la NGP.</p>
+			<p>En relación a las características de la NGP referidas a la rendición de cuentas y la transparencia (<xref ref-type="bibr" rid="B19">Osborne, 2010</xref>; <xref ref-type="bibr" rid="B20">Perry, 2010</xref>), la aceptación de las NIF puede propiciar que las prácticas de un carácter financiero u operativo se lleven a cabo con una claridad especial, lo cual favorece la rendición de cuentas ante los ciudadanos y la integridad (Coy, 2010) para lograr construir la idoneidad de vincular el ejercicio de la gestión financiera y operativa de las entidades mediante marcos normativos. Por su parte, la satisfacción social influenciada por la eficiencia de la prestación de servicios públicos tal y como sugieren <xref ref-type="bibr" rid="B25">Womack y Jones (1996)</xref>, y la mejora continua que predica <xref ref-type="bibr" rid="B11">Frazelle (2002)</xref>, pone de relieve cómo la adopción de prácticas de gestión eficientes puede incidir en las percepciones y la satisfacción ciudadana, y pone de manifiesto el interés por incorporar vías de acción en torno a la calidad y la eficiencia en la gestión pública conformes a las exigencias de la NGP.</p>
+			<p>Los hallazgos del presente estudio sugieren que la articulación entre los principios de la Nueva Gestión Pública (NGP) y la aplicación efectiva de las Normas de Información Financiera (NIF) En conjunto, estos elementos empíricos permiten reforzar la hipótesis de que, si bien el marco normativo existe, su efectividad se encuentra condicionada a variables institucionales como la profesionalización del personal, la interoperabilidad de los sistemas y la voluntad política para su implementación.</p>
+			<p>Una implementación reflexiva y todo ello sustentado por el conocimiento-tanto teórico como práctico-es necesaria para generar una administración pública que realmente no sólo sea eficaz en la respuesta a las necesidades de los ciudadanos, sino que también cumpla con las más altas exigencias de transparencia y rendición de cuentas, contribuyendo, por tanto, a lograr un México que sea también más justo, eficiente y transparente. La dificultad consiste en transitar desde el diseño normativo hacia la acción efectiva incorporando mecanismos de evaluación de desempeño, incentivos para la mejora continua, sistemas integrales en la gestión de datos, etcétera. Para investigaciones futuras, se considera recomendable desarrollar estudios de casos de administraciones locales con experiencias exitosas, el diseño de modelos cuantitativos de impacto presupuestario y, más allá de ello, el desarrollo de soluciones digitales para el fortalecimiento de la cadena de suministro pública en un ambiente interinstitucional (<xref ref-type="bibr" rid="B1">Andersen y Skjøtt-Larsen, 2009</xref>).</p>
+			<p>En conjunto, estos elementos empíricos ayudan a corroborar la hipótesis de que, si bien el cuerpo normativo existe, su eficacia se encuentra supeditada a variables institucionales como pueden ser la profesionalización, la interoperabilidad e incluso la voluntad política para su implementación.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Andersen, M., y Skjøtt-Larsen, T. (2009). Corporate social responsibility in global supply chains. <italic>Supply Chain Management: An International Journal</italic>, <italic>14</italic>(2), 75-86. https://doi.org/10.1108/13598540910941948</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Andersen</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Skjøtt-Larsen</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Corporate social responsibility in global supply chains</article-title>
+					<source>Supply Chain Management: An International Journal</source>
+					<volume>14</volume>
+					<issue>2</issue>
+					<fpage>75</fpage>
+					<lpage>86</lpage>
+					<pub-id pub-id-type="doi">10.1108/13598540910941948</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Auditoría Superior de la Federación (ASF). (2022). <italic>Informe del resultado de la fiscalización superior de la Cuenta Pública 2021: Programa de adquisiciones, arrendamientos y servicios del sector público federal</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.asf.gob.mx/Section/58_Informes_de_auditoria">https://www.asf.gob.mx/Section/58_Informes_de_auditoria</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Auditoría Superior de la Federación (ASF)</collab>
+					</person-group>
+					<year>2022</year>
+					<source>Informe del resultado de la fiscalización superior de la Cuenta Pública 2021: Programa de adquisiciones, arrendamientos y servicios del sector público federal</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.asf.gob.mx/Section/58_Informes_de_auditoria">https://www.asf.gob.mx/Section/58_Informes_de_auditoria</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Bowersox, D. J., Closs, D. J., y Cooper, M. B. (2012). <italic>Supply chain logistics management</italic> (4th ed.). McGraw-Hill Education.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bowersox</surname>
+							<given-names>D. J.</given-names>
+						</name>
+						<name>
+							<surname>Closs</surname>
+							<given-names>D. J.</given-names>
+						</name>
+						<name>
+							<surname>Cooper</surname>
+							<given-names>M. B</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Supply chain logistics management</source>
+					<edition>4th</edition>
+					<publisher-name>McGraw-Hill Education</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Chen, I. J., y Paulraj, A. (2004). Towards a theory of supply chain management: The constructs and measurements. <italic>Journal of Operations Management</italic>, <italic>22</italic>(2), 119-150. https://doi.org/10.1016/j.jom.2003.12.007</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chen</surname>
+							<given-names>I. J.</given-names>
+						</name>
+						<name>
+							<surname>Paulraj</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Towards a theory of supply chain management: The constructs and measurements</article-title>
+					<source>Journal of Operations Management</source>
+					<volume>22</volume>
+					<issue>2</issue>
+					<fpage>119</fpage>
+					<lpage>150</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jom.2003.12.007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Chopra, S., y Meindl, P. (2016). <italic>Supply chain management: Strategy, planning, and operation</italic> (6th ed.). Pearson Education.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chopra</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Meindl</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Supply chain management: Strategy, planning, and operation</source>
+					<edition>6th</edition>
+					<publisher-name>Pearson Education</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Cohen, S., y Karatzimas, S. (2017). Accounting information quality and decision-usefulness of governmental financial reporting. <italic>Meditari Accountancy Research</italic>, <italic>25</italic>(1), 95-113. https://doi.org/10.1108/MEDAR-10-2015-0070</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cohen</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Karatzimas</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Accounting information quality and decision-usefulness of governmental financial reporting</article-title>
+					<source>Meditari Accountancy Research</source>
+					<volume>25</volume>
+					<issue>1</issue>
+					<fpage>95</fpage>
+					<lpage>113</lpage>
+					<pub-id pub-id-type="doi">10.1108/MEDAR-10-2015-0070</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Consejo Mexicano de Normas de Información Financiera (CINIF). (2018a). <italic>NIF C-2: Instrumentos financieros por pagar</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf">https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Consejo Mexicano de Normas de Información Financiera (CINIF)</collab>
+					</person-group>
+					<year>2018</year>
+					<source>NIF C-2: Instrumentos financieros por pagar</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf">https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Consejo Mexicano de Normas de Información Financiera (CINIF). (2018b). <italic>NIF C-6: Propiedades, planta y equipo</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf">https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Consejo Mexicano de Normas de Información Financiera (CINIF)</collab>
+					</person-group>
+					<year>2018</year>
+					<source>NIF C-6: Propiedades, planta y equipo</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf">https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Consejo Mexicano de Normas de Información Financiera (CINIF). (2018c). <italic>NIF C-4: Inventarios</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf">https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Consejo Mexicano de Normas de Información Financiera (CINIF)</collab>
+					</person-group>
+					<year>2018</year>
+					<source>NIF C-4: Inventarios</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf">https://www.cinif.org.mx/assets/mejoras_nif/MejorasNIF2018.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Ellram, L. M., y Siferd, S. P. (1993). Purchasing: The cornerstone of the total cost of ownership concept. <italic>Journal of Business Logistics</italic>, <italic>14</italic>(1), 163-184.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ellram</surname>
+							<given-names>L. M.</given-names>
+						</name>
+						<name>
+							<surname>Siferd</surname>
+							<given-names>S. P</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<article-title>Purchasing: The cornerstone of the total cost of ownership concept</article-title>
+					<source>Journal of Business Logistics</source>
+					<volume>14</volume>
+					<issue>1</issue>
+					<fpage>163</fpage>
+					<lpage>184</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Frazelle, E. (2002). <italic>World-class warehousing and material handling</italic>. McGraw-Hill Education.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Frazelle</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2002</year>
+					<source>World-class warehousing and material handling</source>
+					<publisher-name>McGraw-Hill Education</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Gu, J., Goetschalckx, M., y McGinnis, L. F. (2010). Research on warehouse design and performance evaluation. <italic>European Journal of Operational Research</italic>, <italic>203</italic>(3), 539-549. https://doi.org/10.1016/j.ejor.2009.07.031</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gu</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Goetschalckx</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>McGinnis</surname>
+							<given-names>L. F</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Research on warehouse design and performance evaluation</article-title>
+					<source>European Journal of Operational Research</source>
+					<volume>203</volume>
+					<issue>3</issue>
+					<fpage>539</fpage>
+					<lpage>549</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.ejor.2009.07.031</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Hood, C., y Dixon, R. (2015). <italic>A government that worked better and cost less?</italic> Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hood</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Dixon</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>A government that worked better and cost less?</source>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI). (2022). <italic>Diagnósticos y estudios sobre transparencia y contrataciones públicas en México</italic>. <ext-link ext-link-type="uri" xlink:href="https://www.inai.org.mx">https://www.inai.org.mx</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI)</collab>
+					</person-group>
+					<year>2022</year>
+					<source>Diagnósticos y estudios sobre transparencia y contrataciones públicas en México</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.inai.org.mx">https://www.inai.org.mx</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Monczka, R. M., Handfield, R. B., Giunipero, L. C., y Patterson, J. L. (2015). <italic>Purchasing and supply chain management</italic> (6th ed.). Cengage Learning.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Monczka</surname>
+							<given-names>R. M.</given-names>
+						</name>
+						<name>
+							<surname>Handfield</surname>
+							<given-names>R. B.</given-names>
+						</name>
+						<name>
+							<surname>Giunipero</surname>
+							<given-names>L. C.</given-names>
+						</name>
+						<name>
+							<surname>Patterson</surname>
+							<given-names>J. L</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Purchasing and supply chain management</source>
+					<edition>6th</edition>
+					<publisher-name>Cengage Learning</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Navarro, J. C. (2011). Contabilidad gubernamental y gobernanza en América Latina. <italic>Revista del CLAD Reforma y Democracia</italic>, 49, 87-112.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Navarro</surname>
+							<given-names>J. C</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Contabilidad gubernamental y gobernanza en América Latina</article-title>
+					<source>Revista del CLAD Reforma y Democracia</source>
+					<volume>49</volume>
+					<fpage>87</fpage>
+					<lpage>112</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Organization for Economic Co-operation and Development (OECD). (2020). <italic>Public governance reforms: Trends and lessons from OECD countries</italic>. OECD Publishing. https://doi.org/10.1787/5c5f9d4a-en</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organization for Economic Co-operation and Development (OECD)</collab>
+					</person-group>
+					<year>2020</year>
+					<source>Public governance reforms: Trends and lessons from OECD countries</source>
+					<publisher-name>OECD Publishing</publisher-name>
+					<pub-id pub-id-type="doi">10.1787/5c5f9d4a-en</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Organization for Economic Co-operation and Development (OECD). (2021). <italic>Public procurement in Mexico: Redesigning strategies and institutions</italic>. OECD Publishing. https://doi.org/10.1787/9c2f1c8e-en</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organization for Economic Co-operation and Development (OECD)</collab>
+					</person-group>
+					<year>2021</year>
+					<source>Public procurement in Mexico: Redesigning strategies and institutions</source>
+					<publisher-name>OECD Publishing</publisher-name>
+					<pub-id pub-id-type="doi">10.1787/9c2f1c8e-en</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Osborne, D. (2010). <italic>The new public governance?</italic> Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Osborne</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>The new public governance?</source>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Perry, J. L. (2010). The elements of public administration. In R. F. Durant (Ed.), <italic>The handbook of public administration</italic> (3rd ed., pp. 45-66). Jossey-Bass.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Perry</surname>
+							<given-names>J. L</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<chapter-title>The elements of public administration</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Durant</surname>
+							<given-names>R. F</given-names>
+						</name>
+					</person-group>
+					<source>The handbook of public administration</source>
+					<edition>3rd</edition>
+					<fpage>45</fpage>
+					<lpage>66</lpage>
+					<publisher-name>Jossey-Bass</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Peters, B. G. (2010). <italic>The politics of bureaucracy: An introduction to comparative public administration</italic> (6th ed.). Routledge.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Peters</surname>
+							<given-names>B. G</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>The politics of bureaucracy: An introduction to comparative public administration</source>
+					<edition>6th</edition>
+					<publisher-name>Routledge</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Pollitt, C., y Bouckaert, G. (2023). <italic>Public management reform: A comparative analysis</italic> (3rd ed.). Oxford University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pollitt</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Bouckaert</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<source>Public management reform: A comparative analysis</source>
+					<edition>3rd</edition>
+					<publisher-name>Oxford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Salgado Remigio, S. (2023). Transparencia y acceso a la información en materia de contrataciones públicas en México. <italic>Revista Mexicana de Ciencias Políticas y Sociales</italic>, <italic>68</italic>(247), 1-30. https://doi.org/10.15174/remap.v12i23.400</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salgado Remigio</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Transparencia y acceso a la información en materia de contrataciones públicas en México</article-title>
+					<source>Revista Mexicana de Ciencias Políticas y Sociales</source>
+					<volume>68</volume>
+					<issue>247</issue>
+					<fpage>1</fpage>
+					<lpage>30</lpage>
+					<pub-id pub-id-type="doi">10.15174/remap.v12i23.400</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Tompkins, J. A., White, J. A., Bozer, Y. A., y Tanchoco, J. M. A. (2010). <italic>Facilities planning</italic> (4th ed.). John Wiley &amp; Sons.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tompkins</surname>
+							<given-names>J. A.</given-names>
+						</name>
+						<name>
+							<surname>White</surname>
+							<given-names>J. A.</given-names>
+						</name>
+						<name>
+							<surname>Bozer</surname>
+							<given-names>Y. A.</given-names>
+						</name>
+						<name>
+							<surname>Tanchoco</surname>
+							<given-names>J. M. A</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>Facilities planning</source>
+					<edition>4th</edition>
+					<publisher-name>John Wiley &amp; Sons</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Womack, J. P., y Jones, D. T. (1996). <italic>Lean thinking: Banish waste and create wealth in your corporation</italic>. Simon &amp; Schuster.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Womack</surname>
+							<given-names>J. P.</given-names>
+						</name>
+						<name>
+							<surname>Jones</surname>
+							<given-names>D. T</given-names>
+						</name>
+					</person-group>
+					<year>1996</year>
+					<source>Lean thinking: Banish waste and create wealth in your corporation</source>
+					<publisher-name>Simon &amp; Schuster</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+	<sub-article article-type="translation" id="s1" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Efficiency and Accountability in Public Management: Supply Chain Reforms through NPM and Financial Reporting Standards</article-title>
+			</title-group>
+			<abstract>
+				<title>Summary</title>
+				<p>This article analyzes supply chain management in the Mexican public sector from the perspective of New Public Management (NPM). It examines the incorporation of private sector practices-especially total cost of ownership (TCO) and supplier relationship management (SRM)-as mechanisms for modernizing public administration. The study reviews four analytical dimensions: public procurement and CTP; inbound logistics and SRM; storage and operational efficiency; and citizen satisfaction. Through a conceptual approach supported by recent empirical evidence, it is argued that integrating logistics practices with the principles of NPM and Financial Reporting Standards (IFRS) can strengthen operational efficiency, transparency, and accountability. However, institutional constraints remain, including poor interoperability of administrative systems and the limited application of TK methodologies in public management audits. The results propose future lines of research focused on local case studies, quantitative impact assessment and digital integration. The work provides a theoretical-normative framework for institutional redesign and continuous improvement of public services.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>New Public Management</kwd>
+				<kwd>Supply Chain Management</kwd>
+				<kwd>Financial Reporting Standards</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>JEL Codes:</title>
+				<kwd>H83</kwd>
+				<kwd>M11</kwd>
+				<kwd>M41</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="intro">
+				<title>1. Introduction</title>
+				<p>In the contemporary scenario of Mexican public administration, characterized by budgetary limitations, growing citizen demand and demands for transparency, the adoption of more efficient management models has become imperative, as has been pointed out in the literature on public administration. In this context, the New Public Management (NPM) has gained relevance as a reformist current that seeks to transfer principles and practices from the private sector to the public sphere, with an emphasis on performance orientation, organizational efficiency, accountability, and continuous improvement in the provision of public goods and services (<xref ref-type="bibr" rid="B22">Pollitt and Bouckaert, 2023</xref>; <xref ref-type="bibr" rid="B19">Osborne, 2010</xref>). </p>
+				<p>One of the most relevant areas for the materialization of the principles of the NPM is supply chain management, understood as the set of processes that allow these activities of acquisition, reception, storage and distribution of the goods and services necessary for the public apparatus to function. The specialized literature has indicated that practices such as the evaluation of the Total Cost of Ownership (<xref ref-type="bibr" rid="B10">Ellram and Siferd, 1993</xref>; Elram, 2009), The implementation of effective Supplier Relationship Management Systems has been associated in the literature with the optimization of these processes, including reductions in lead times and inventory costs (<xref ref-type="bibr" rid="B3">Bowersox et al., 2012</xref>; <xref ref-type="bibr" rid="B4">Chen &amp; Paulraj, 2004</xref>). In the public sphere, this management has been linked to a more efficient management of basic resources, such as medicines or educational materials, to promote a faster and more effective response to the needs of citizens (<xref ref-type="bibr" rid="B21">Peters, 2010</xref>;).</p>
+				<p>At the same time, the Financial Reporting Standards (NIF), issued by the Mexican Council for the Research and Development of Financial Reporting Standards (CINIF), established an accounting framework that established the obligation of government entities to adopt recording and reporting practices that are more understandable, sustained and verifiable, which strengthen the transparency and traceability of public spending (<xref ref-type="bibr" rid="B7">CINIF, 2018a</xref>, <xref ref-type="bibr" rid="B8">2018b</xref>, <xref ref-type="bibr" rid="B9">2018c</xref>). The convergence of NPM principles and IFRS compliance is a competitive opportunity to harmonize administrative efficiency with financial accountability.</p>
+				<p>This paper seeks to demonstrate the potential for improvement in Mexico's public administration by being able to cross it with the practical consequences of the relationship between the New Public Management (NPM), the IFRS and the modern supply chain management model. In a theoretical-analytical sense, the conceptual and regulatory assumptions of the aforementioned tools are reviewed, the best practices of the supply chain in the public sector are obtained and the possible impact of these on efficiency, transparency and citizen satisfaction is analyzed. Similarly, the most recent data from the reports of the Superior Audit of the Federation are included, in particular the Report on the Result of the Superior Audit of the Public Account 2021 (<xref ref-type="bibr" rid="B2">ASF, 2022</xref>), the diagnoses provided by the National Institute of Transparency, Access to Information and Protection of Personal Data (<xref ref-type="bibr" rid="B14">INAI, 2022</xref>), as well as the case studies of interest. </p>
+				<p>In this way, the intention is to contribute to the debate on how to transform public operations based on modern management tools, understood as going beyond the simple formal adoption of standards and moving towards their real and strategic implementation. To this end, this proposal also contributes to offering recommendations for future research in order to generate evidence on the virtues and limitations of these reforms in the different levels of government.</p>
+			</sec>
+			<sec>
+				<title>2. Literature review</title>
+				<p>Supply chain management is a fundamental aspect of organizational performance, both in the private and public sectors, due to the incorporation of important business processes such as purchasing, inbound logistics, or the storage of products or materials (<xref ref-type="bibr" rid="B5">Chopra and Meindl, 2016</xref>). From a global and holistic vision, the distribution of each link in the supply chain directly and indirectly can allow an improvement in organizational performance, the reduction of costs and better customer/citizen satisfaction.</p>
+				<p>It is in this sense, it is evident that efficiency in the optimal administration of purchases, based on the Total Cost of Ownership Theory, refers to the fact that these must also include costs throughout the life cycle of goods and services, rather than by the acquisition price. which results in a better decision, more sustainable and compatible with the interests of the organization (<xref ref-type="bibr" rid="B10">Ellram &amp; Siferd, 1993</xref>; <xref ref-type="bibr" rid="B15">Monczka et al, 2015</xref>).</p>
+				<p>Inbound logistics plays an important role in operational efficiency, as when it is not carried out in a coordinated manner, the difference between success or failure in the delivery of final products or services can be radical. The implementation of Supplier Relationship Management Systems allows for their optimization, which significantly reduces delivery times and costs associated with inventory (<xref ref-type="bibr" rid="B3">Bowersox et al., 2012</xref>; <xref ref-type="bibr" rid="B4">Chen &amp; Paulraj, 2004</xref>). In the public sphere, this translates into a more efficient administration of essential resources, from medicines to educational materials, which allows for a more agile and effective response to the needs of citizens (<xref ref-type="bibr" rid="B21">Peters, 2010</xref>).</p>
+				<p>The storage of materials and finished products requires strategies that maximize the use of space and minimize damage, while facilitating quick and efficient access. An efficient warehouse design and the selection of suitable storage systems are essential to achieve a cost-effective operation, which has been documented in the literature as a factor associated with the reduction of waste and the improvement in the availability of critical materials (<xref ref-type="bibr" rid="B12">Gu et al., 2010</xref>; Goetschalckx &amp; McGinnis, 2010; <xref ref-type="bibr" rid="B24">Tompkins et al., 2010</xref>). Within the framework of public administration, we must make correct use of effective storage practices; this translates into an optimization of resources that allow us to offer sustainability in public services, especially when we are talking about key sectors such as health and education (<xref ref-type="bibr" rid="B13">Hood &amp; Dixon, 2015</xref>). Finally, it should be noted that proper storage management promotes an increase in inventory turnover and the effective and accurate delivery of the service or products; This aspect is of vital importance in the public sector, since the quality and efficiency of the service offered to citizens are the lever for success. The use of efficient picking systems, as well as the application of continuous improvement, are an essential issue in improving operational efficiency and citizen satisfaction (<xref ref-type="bibr" rid="B25">Womack &amp; Jones, 1996</xref>; <xref ref-type="bibr" rid="B11">Frazelle, 2002</xref>).</p>
+				<p>This vision constitutes the starting point to conclude, following the review of the literature, that effective practices can drive the improvement of operational efficiency, the reduction of costs and the increase of public or citizen satisfaction in accordance with the New Public Management focused on good public management and a more effective and efficient government (<xref ref-type="bibr" rid="B17">OECD, 2020</xref>). In this context, <xref ref-type="table" rid="t3">Table 1</xref> shows a condensation of the main variables used for the analysis, together with their value and the corresponding bibliography.</p>
+				<p>
+					<table-wrap id="t3">
+						<label>Table 1</label>
+						<caption>
+							<title>Selection of variables used in the analysis, their importance and reference</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Variable </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Importance </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">References </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Purchasing and the Total Cost of Ownership (TCC) Theory</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">It assesses all costs associated with    acquiring, using, and disposing of goods and services.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Ellram    and Siferd (1993); Osborne (2010)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Inbound Logistics and Supplier Relationship Management (SRM)<bold></bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Improve supply chain efficiency through collaboration with suppliers.</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Bowersox et al. (2012); Chen and Paulraj (2004)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Material Storage and the Importance of Efficient Design<bold></bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Maximizes the use of space and ensures the    availability of essential supplies.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Gu et al.    (2010); Tompkins et al. (2010) </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Finished Product Storage and Citizen Satisfaction<bold></bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">It ensures the timely delivery of services, which improves citizen    satisfaction.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Womack    and Jones (1996); Frazelle (2002)</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN3">
+								<p>Source: Authors' elaboration based on <xref ref-type="bibr" rid="B10">Ellram and Siferd (1993)</xref>, <xref ref-type="bibr" rid="B19">Osborne (2010)</xref>, <xref ref-type="bibr" rid="B3">Bowersox et al. (2012)</xref>, <xref ref-type="bibr" rid="B4">Chen and Paulraj (2004)</xref>, <xref ref-type="bibr" rid="B12">Gu et al. (2010)</xref>, <xref ref-type="bibr" rid="B24">Tompkins et al. (2010)</xref>, <xref ref-type="bibr" rid="B25">Womack and Jones (1996)</xref>.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<sec>
+					<title>2.1. The New Public Management (NPM)</title>
+					<p>The implementation of the New Public Management (NPM) in Mexico has an explicit purpose: to incorporate private sector efficiencies for the management of public affairs, in the face of current economic and social complexities. The NGP places great importance on aspects such as transparency, efficiency and customer (or citizen) orientation, when it comes to how public services are managed. The importance of these aspects is intensified in the area of purchasing, inbound logistics and the storage of materials and finished products in the public sector. In some ways, these are the key pieces of good public management, which helps to maintain the public procurement process in a more effective way in the management of resources and the satisfaction of the needs of a population (<xref ref-type="bibr" rid="B19">Osborne, 2010</xref>; <xref ref-type="bibr" rid="B20">Perry 2010</xref>).</p>
+					<p>Public procurement from the NPM point of view is a way to not only be efficient in economic terms, but to be transparent and fair in the procurement process. Updating e-procurement platforms is one way to demonstrate that technology helps achieve these goals, as documented in the literature on public procurement, by expanding access to procurement opportunities and strengthening transparency and accountability (Thai, 2001; <xref ref-type="bibr" rid="B15">Monczka et al., 2015</xref>).</p>
+					<p>The function of inbound logistics, as opposed to that of outbound, has, on the other hand, a central function in reflecting the efficiency from which the public sector can respond to the needs of the citizen. The way in which the supply chain is managed and the way in which the purchase or delivery of goods and services is carried out is key to reducing the cost, in addition to ensuring the availability at the relevant time of the resources necessary for the provision of services; in this sense, the use of supply chain management principles that exist in the business world can undoubtedly contribute to nurturing the public sector with valuable lessons to be taken into account (in terms of resource planning, inventory management or logistics optimization (<xref ref-type="bibr" rid="B3">Bowersox et al., 2012</xref>).</p>
+					<p>In relation to the storage of materials and the management of finished products, the NGP advocates practices aimed at ensuring an efficient use of space and resources, which have been associated in the literature with the reduction of waste and greater availability of critical materials (<xref ref-type="bibr" rid="B21">Peters, 2010</xref>). The adoption of information systems aimed at inventory management or technologies to automate processes would be evident ways to improve ostensibly in this regard, in addition to contributing to greater efficiency in operations and lower costs in public management (<xref ref-type="bibr" rid="B11">Frazelle, 2002</xref>)</p>
+					<p>These reforms and practices inspired by the NPM have the capacity to transform public administration in Mexico. From the improvement of efficiency, transparency in the management of purchases, logistics, storage, etc., the public sector can offer better services to citizens, while achieving a more committed administration and with the help of public resources. This is very important today, as the country faces the challenge of promoting more inclusive and sustainable economic development, while strengthening citizens' trust in public institutions (<xref ref-type="bibr" rid="B19">Osborne, 2010</xref>; <xref ref-type="bibr" rid="B22">Pollitt &amp; Bouckaert, 2023</xref>).</p>
+				</sec>
+				<sec>
+					<title>2.2. Financial Reporting Standards and the NPM</title>
+					<p>Within the context of public administration in Mexico, considering the imminent introduction of efficiencies that come from the private sector through the New Public Management as well as the strict compliance with Financial Reporting Standards (NIF), it represents an essential strategy to face operational and financial challenges, which simultaneously improves the quality of the services offered to citizens. The NPM encourages the adoption of management practices that are aimed at achieving efficiency, transparency and citizen service, while the IFRS propose an accounting/financial framework that guarantees the integrity, consistency and clarity of financial information</p>
+					<p>The integration of the principles of NPM and NIF is not only essential for future organizations of an efficient and citizen-centered public administration, but also to give rise to the standards of financial integrity and responsibility; for example, NPM in the field of public procurement can favour the use of electronic systems for public procurement and thus favour, both the public procurement process and that of the NPM, efficiency and transparency in procurement. At the same time, IFRS ensure that the costs associated with purchases are properly recorded and reported, thus ensuring a substrate that serves both to facilitate decision-making and for accountability.</p>
+					<p>From the field of supply chain management, the NPM's practices around the optimization of inbound logistics and the optimization of material storage should be appropriately implemented in financial accounting in compliance with IFRS. This approach gives rise to an efficient management of resources, a financial management that contemplates the degree of responsibility and sufficient transparency in terms of the supply chain, in this way the integration of the work of the strategic management of the NGP with the accounting principles according to the IFRS, can be understood as a symptom of a public administration that skillfully seeks to meet the demands of the citizens with a degree of transparency and an adoption of the necessary responsibility.</p>
+					<p>This approach becomes the expression of the commitment to continuous improvement and to adapting to the changes and contingencies that current public management entails. It is necessary to defend an efficient use of the practices exercised with the management according to the NPM as well as compliance with the NIF to provoke an integrated approach to the public administration that seeks to be energetically efficient and economical in the management of public resources and in turn, can be understood as responsible and transparent in its behavior before the citizenry. This approach is essential to strengthen the population's trust in their government institutions, as it improves the quality of public services and contributes to the construction of a more effective and efficient government. </p>
+				</sec>
+				<sec>
+					<title>2.3. Delimitation of the object of study</title>
+					<p>Based on the analysis of the specialized literature, this work is limited to a theoretical and normative proposal that proposes to respond to how the incorporation of the principles oriented to the New Public Management (NPM) and compliance with the Financial Reporting Standards (NIF) can be a coping with the management of the supply chain in the field of Mexican public administration. It is not an empirical research, based on case studies or descriptive analyses, but an exercise in conceptualization based on documentary, normative and academic analysis. In this regard, it should be noted that, for example, <xref ref-type="bibr" rid="B6">Cohen and Karatzimas (2017)</xref> highlight the quality of financial information for decision-making in government, while <xref ref-type="bibr" rid="B22">Pollitt and Bouckaert (2023)</xref> highlight comparative reforms in public management; while highlighting the modernization of public accounting in Latin America from a management perspective. In addition to these contributions, <xref ref-type="bibr" rid="B16">Navarro (2011)</xref> examines the link between accounting reforms and public governance, and also proposes inter-institutional approaches for the improvement of public services.</p>
+					<p>The unit of analysis is the Mexican public sector as a whole, without distinguishing levels of government (federal, state or municipal), because the principles addressed here are of a general and transversal nature. This choice allows us to build a conceptual base that can guide both future institutional evaluations and applied research in more limited territorial contexts. It also seeks to contribute to critical reflection on the modernization of public finances and logistics management from a comprehensive, inter-institutional and citizen-centered perspective.</p>
+					<p>Although this paper favors a theoretical-normative approach, it is pertinent to point out that oversight and transparency agencies have documented the practical limitations faced by supply chain management in the Mexican public sector. For example, according to the Superior Audit of the Federation, in the Report on the Result of the Superior Audit of the Public Account 2022 (<xref ref-type="bibr" rid="B2">ASF, 2022</xref>), 37.5% of the audited entities did not present sufficient documentary evidence on the effective application of total cost analysis methodologies in their procurement processes, which hinders the implementation of the Total Cost of Ownership (TCP) approach. In turn, studies by the National Institute of Transparency, Access to Information and Protection of Personal Data (<xref ref-type="bibr" rid="B14">INAI, 2022</xref>), as well as analysis of public information by Compranet corresponding to 2022, show that more than 60% of municipal governments do not use formal supplier relationship management (SRM) systems, which limits traceability mechanisms. evaluation and feedback in public procurement (<xref ref-type="bibr" rid="B23">Salgado Remigio, 2023</xref>).</p>
+					<p>Likewise, the <xref ref-type="bibr" rid="B18">OECD (2021)</xref> in <italic>Public Procurement in Mexico: Redesigning Strategies and Institutions</italic> has pointed out that, although Financial Reporting Standards (IFRS) have been adopted in the federal regulatory framework, their effective implementation at the subnational level presents challenges related to technical capabilities, system interoperability, and political will. These empirical findings reinforce the need to strengthen both institutional capacities and accountability mechanisms in the public supply chain.</p>
+				</sec>
+				<sec>
+					<title>2.4. Critical Discussion: Practical Implementation Challenges</title>
+					<p>The correct application of tools such as the Total Cost of Ownership Theory (TCC), Supplier Relationship Management (SRM) and Financial Reporting Standards (NIF) for the Mexican public sector, specifically subnational, faces important structural limitations. This section provides a critical analysis of the practical limits and generic barriers of these tools and the accounting risks they present, which is focused on state and municipal governments. Firstly, the application of TCP in the case of public procurement implies a transformation of the common logic of the usual type of purchase. Most government agencies privilege the criterion of the lowest price, without neglecting the fact of not analyzing the costs of maintenance, operation or final disposal of the products. This fragmented vision has led, for example, to the acquisition of vehicles or medical equipment of low durability that, although economical at the beginning, generate high costs in the medium term. States such as Veracruz and Chiapas have been observed by the Superior Audit Office of the Federation for not including cost-benefit analysis in their purchases, which reveals a deficit in technical and planning capacities.</p>
+					<p>Regarding the SRM, its practical implementation in local governments is limited by poorly professionalized contracting systems, lack of performance indicators per provider, and lack of interoperable digital platforms. In many municipalities, there is no consolidated database of suppliers, nor continuous evaluation schemes. The consequence is the repetition of administrative errors, as well as discretionary practices and non-institutionalized relationships with suppliers, documented in studies on subnational public procurement, which generates dependence on contractors without systematic performance evaluation (<xref ref-type="bibr" rid="B23">Salgado Remigio, 2023</xref>; <xref ref-type="bibr" rid="B2">ASF, 2022</xref>; <xref ref-type="bibr" rid="B18">OECD, 2021</xref>; <xref ref-type="bibr" rid="B14">INAI, 2022</xref>).</p>
+					<p>As for the Financial Reporting Standards (NIF), their adoption without technological support and without trained personnel generates significant risks. Many entities continue to operate with manual accounting systems or, at least, obsolete and poorly used; which makes it really difficult to observe the NIF (financial reporting standards) in the pre-establishment of inventory valuation (NIF C-4), the depreciation of assets (NIF C-6) or the identification of liabilities to suppliers (NIF C-2). Moreover, this situation not only undermines accountability and transparency, but also calls into question the credibility of the financial statements and limits informed decision-making. </p>
+					<p>However, these problems are not only attributable to institutional negligence but also to the limitation of historical structures, such as limited budgets for the modernization process itself, the high turnover of human resources each fiscal cycle, the absence of accounting professionalization of human resources, as well as the lack of coordination between administrative and operational areas. </p>
+					<p>To address these limitations, not only political will is required, but also sustained investment in information systems, in the technical training of human resources and the generation of institutional incentives that are in accordance with the observance of quality, efficiency, and whose result is financial sustainability, etc.; and as a culmination, but as important as it is no less relevant, the institutional experience of the operators, managers and technicians must be enjoyed, which must also include the learning of the experiences by the operator with a direct relationship to his experience in the Mexican context, in some cases even successful, or unsuccessful. </p>
+					<p>The implementation of the supplier relationship management (SRM) model in local governments could allow substantial improvements in the operational efficiency and traceability of purchasing processes. However, in many municipalities, supplier-state relations are still characterized by discretionary practices and non-institutionalized relationships, as well as by the lack of digital systems and opacity in bidding processes. This makes it difficult to build long-term strategic collaborative relationships. Cases documented in audits by the Superior Audit Office of the Federation (ASF), particularly in the health and public works sectors, show how the absence of structured SRM schemes is associated with episodes of shortages, cost overruns or failed acquisitions.</p>
+					<p>As for the Total Cost of Ownership (TCC) Theory, its application requires analytical capacity to evaluate not only the acquisition price but also operation, maintenance and disposal costs. State governments with low financial skills or multi-year planning tools tend to make suboptimal procurement. Federal programs such as Compranet have attempted to introduce broader technical criteria, but their scope remains limited and non-binding in many subnational processes.</p>
+					<p>From an accounting point of view, the adoption of Financial Reporting Standards (IFRS) in public contexts presents a significant risk if it is not accompanied by robust information systems and qualified technical personnel. Accounting automation, timely registration of liabilities, and inventory valuation are practices that many public entities fail to consistently comply with. Incomplete implementation of IFRS can result in erroneous accounting entries, implications for accountability, and determinations that are based on erroneous data. </p>
+					<p>In conclusion, the effective application of these theoretical discourses is not just a simple normative act, but a matter of institutional will, investment of technological resources, modification of local regulatory frameworks and, above all, training of professional human capital. The lack of qualities described above indicates why, in part, most of the principles proposed by the NPM and the NIFs do not become a reality in the space of the Mexican public administration.</p>
+					<p>One of the main challenges is the limited technological and infrastructure capacity faced by many public entities, especially at the state and municipal levels. The absence of integrated information systems prevents the correct application of tools such as the Total Cost of Ownership Theory (TCP) or supplier relationship management (SRM) systems, which reduces their potential to optimize purchasing and logistics.</p>
+					<p>In addition, cultural resistance persists and organizations resist change, especially in cases of public procurement where administrative habits and traditional regulations tend to precede more strategic and collaborative approaches. This hinders the implementation of practices such as demand-driven logistics planning techniques, asset lifecycle analysis, or warehousing geared toward compliance with performance indicators. From an accounting and financial point of view, the IFRS have serious problems in achieving their implementation with technical performance on the part of the operational staff that is very deficient in the use of the accounting tools that they determine. In effect, the IFRS do nothing more than indicate what are the rules to be followed for the preparation of the book, the valuation and the presentation of financial and public information, but their application implies a fundamental transformation of the systems of government accounting and human resources management. This creates a mismatch between what is reported and the reality of training, a misinformation that has a negative impact on accountability and evidence-based decision-making.</p>
+					<p>Even though this work is framed in a theoretical-normative approach, it is important to recognize that there are institutional efforts that have been documented and that can strengthen the empirical validity of future research. For example, platforms such as Compranet, as well as the reports of the Superior Audit of the Federation and the records of the National Institute of Transparency, Access to Information and Protection of Personal Data, make public information available on contracting processes, logistics performance and public inventory management (<xref ref-type="bibr" rid="B2">ASF, 2022</xref>; <xref ref-type="bibr" rid="B14">INAI, 2022</xref>). In an exploratory manner, it would be useful to examine whether some states have incorporated Total Cost of Ownership (TCP) criteria in their procurement, or whether there are systematized data on logistics efficiency in warehouses of medical, school, or public works supplies. Incorporating these elements into future research would make it possible to contrast regulatory proposals with operational reality and to assess more accurately the progress and obstacles in the adoption of the principles of New Public Management and Financial Reporting Standards.</p>
+					<p>The objective of this research is to analyze the potential for improvement in Mexican public administration from the implementation of efficient supply chain management practices, based on the Total Cost of Ownership (TCP) Theory, supplier relationship management (SRM), efficient warehouse design and improved citizen satisfaction. under the framework of the New Public Management (NPM) and in accordance with the Financial Reporting Standards (NIF).</p>
+				</sec>
+			</sec>
+			<sec sec-type="methods">
+				<title>3. Methodology</title>
+				<p>The methodology used in this work is the literature review which integrates, adheres and applies the theoretical-normative principles found in a given field, which in this case refers to the management of the supply chain framed in the postulates of the New Public Management (NPM) in Mexico as it incorporates the component of the analysis of the Financial Reporting Standards (NIF). With the help of the literature review methodology, we will be able to synthesize theoretical and normative knowledge of public management practices in order to have a deeper, more detailed and well-founded analysis of how these practices can contribute to the efficiency, transparency and accountability of public management; Below we will explain the steps they contribute to the analysis of the variables.</p>
+				<sec>
+					<title>3.1. Steps</title>
+					<p>Identification of Key Variables: Four fundamental variables of supply chain management were chosen: Purchasing and the Total Cost of Ownership (TCC) Theory, Inbound Logistics and Supplier Relationship Management, Material Storage and the Importance of Efficient Design, Finished Product Storage and Citizen Satisfaction, taking into account their relevance to operational efficiency and customer or citizen satisfaction. </p>
+					<p>Review of the Literature and Regulations: A review of the academic literature and the related Financial Reporting Standards was carried out in order to provide a theoretical but also normative framework, which included consulting sources such as research articles, books or official documents of the NIFs issued by the Mexican Council of Financial Reporting Standards. </p>
+					<p>Integrative Analysis: The theoretical and normative findings of each of the variables were integrated to evaluate the importance as well as how they were related to the principles of NPM together with adherence to NIFs. Thus, it was possible to carry out the analysis of how supply chain management practices could be aligned with the objectives of efficiency, transparency and accountability of the Mexican public sector. </p>
+					<p>Synthesis and Application: The information and analysis carried out were synthesized to provide a comprehensive vision, which suggests contributing to the objectives of the NPM and its compliance with the IFRS. This involved an evaluation of how the implementation of these practices could improve public management. </p>
+				</sec>
+			</sec>
+			<sec sec-type="results">
+				<title>4. Results</title>
+				<p>The analysis of supply chain management in the context of New Public Management (NPM) in Mexico, with a focus on Financial Reporting Standards (IFRS), reveals how specific practices can improve efficiency, transparency, and accountability in the public sector, observed in <xref ref-type="table" rid="t4">table 2</xref>.</p>
+				<p>
+					<table-wrap id="t4">
+						<label>Table 2</label>
+						<caption>
+							<title>Relationship between the adoption of New Public Management (NPM) principles aligned with Financial Reporting Standards (IFRS) to improve the efficiency of the public sector</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Variable </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Importance </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Relationship    with NPM </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;">Compliance    with the NIF </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Purchasing and the Total Cost of Ownership (TCC) Theory</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">It assesses all costs    associated with acquiring, using, and disposing of goods and services, beyond    the initial purchase price.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">It promotes efficiency    and resource optimization by considering the total cost of ownership, aligned    with transparency and responsible financial management.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">They are directly linked    to NIF C-2 &quot;Financial Instruments Payable&quot; and NIF C-6    &quot;Property, Plant and Equipment&quot;, insofar as it implies the    recognition and valuation of acquisition costs and subsequent costs (Mexican    Council of Financial Reporting Standards, 2018a; 2018b).</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Inbound Logistics and Supplier Relationship Management (SRM)</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">It includes material    procurement, warehousing, and transportation activities, focusing on supply    chain efficiency.</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Good management of    relationships with suppliers favors a better understanding and saves costs    and delivery times, a pillar of the optimal provision of public services.</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">It means the use of NIF    C-2 &quot;Financial Instruments Payable&quot;, to operate with obligations to    suppliers, in a way that guarantees a correct administration of accounts    payable (Mexican Council of Financial Reporting Standards, 2018a).</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Material Storage and the Importance of Efficient Design</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">It focuses on maximizing    the use of storage space and ensuring the availability of essential supplies.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">An efficient warehouse    design contributes to cost reduction and improves the responsiveness of the    public sector, which aligns with the efficiency and effectiveness objectives    of the NGP.</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">It corresponds to NIF C-4    &quot;Inventories&quot;, which regulates the valuation and presentation of    inventories, a crucial aspect for the efficient storage of materials (Mexican    Council of Financial Reporting Standards, 2018c).</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">&nbsp;
+      Finished Product Storage and Citizen Satisfaction</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Related to efficiency in    the storage and distribution of final products or the provision of services.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Efficient management    ensures the delivery of services on time, and also improves citizen    satisfaction, as required by the quality and accountability of the NPM.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Although there is no    specific NIF for &quot;finished products&quot; in the public sector, NIF C-4    &quot;Inventories&quot; can be useful for its management, emphasizing the    transcendent nature of efficient management and its reflection in financial    information (Mexican Council of Financial Reporting Standards, 2018c).</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN4">
+								<p>Source: Authors' elaboration based on <xref ref-type="bibr" rid="B10">Ellram and Siferd (1993)</xref>, the Mexican Council of Financial Reporting Standards (<xref ref-type="bibr" rid="B7">2018a</xref>; <xref ref-type="bibr" rid="B8">2018b</xref>) and key authors of the NPM such as <xref ref-type="bibr" rid="B19">Osborne (2010)</xref> and <xref ref-type="bibr" rid="B20">Perry (2010)</xref><italic>.</italic></p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>As we can see, it can be shown that the four essential variables (1) Purchases and the Total Cost of Ownership (TCT) Theory; (2) Inbound Logistics and Supplier Relationship Management (SRM); (3) Storage of Materials and the Relevance of Adequate Design and (4) Storage of Finished Products and Citizen Satisfaction; it is a way in which it is shown that the incorporation of NGP principles, aligned with the NIF, favors a more conscious and responsible public management; and it is in this line where the variables to be analyzed are detailed. </p>
+				<sec>
+					<title>4.1. Purchasing and the Total Cost of Ownership (TCC) Theory</title>
+					<p>The Total Cost of Ownership (TCP) Theory emphasizes the importance of considering all costs associated with the acquisition, use, and final disposition of goods and services, beyond the initial purchase price. This vision is decisive for the correct management of the resources used by the public sector, as it allows for a better and more sustained purchase decision. To the extent that TCP is applied, entities may somewhat wildly think that at first glance it cannot be determined that a more expensive solution may be cheaper in the long run than a cheaper one, based on the lower cost of use, maintenance or disposal (<xref ref-type="bibr" rid="B10">Ellram and Siferd, 1993</xref>). For example, NIF C-6, which allows the recognition and valuation of property, plant and equipment; allows public entities to consider TCP principles based on valuations of the total costs of these assets (<xref ref-type="bibr" rid="B8">Mexican Council of Financial Reporting Standards, 2018b</xref>).</p>
+				</sec>
+				<sec>
+					<title>4.2. Inbound Logistics and Supplier Relationship Management (SRM)</title>
+					<p>Efficiency in inbound logistics and effective supplier relationship management are critical to ensuring the timely availability of essential goods and services, optimizing costs and delivery times. An SRM can allow public entities the possibility of joining forces with their suppliers, which can translate into a significant improvement in the quality of the goods and services received, as well as in the functioning of the supply chain (<xref ref-type="bibr" rid="B4">Chen and Paulraj, 2004</xref>). NIF C-2 contemplates the way in which passive financial instruments are accounted for, and obligations with suppliers are also subject to its treatment, which would be indicative of the importance of the need to record and manage the relationships that are constituted based on adequate, clear and transparent accounting principles (<xref ref-type="bibr" rid="B7">Mexican Council of Financial Reporting Standards, 2018a</xref>).</p>
+				</sec>
+				<sec>
+					<title>4.3. Material storage and the importance of efficient design</title>
+					<p>A storage of materials is considered a key factor to squeeze the most out of the available space, minimize the arrival with damage to the available inputs and guarantee a fast and efficient way to access the inputs that are to be used: the design of warehouses and the choice of appropriate storage systems can contribute the maximum to operational effectiveness within a distribution center and to the maximum cost reduction (<xref ref-type="bibr" rid="B12">Gu et al., 2010</xref>). Finally, the following NIF C-4 establishes criteria ranging from the valuation of the inventory to its presentation, which is an important complement to an efficient storage of materials: this NIF helps state entities to keep control of their own inventories, by having at their disposal information that is important for resource planning and financial management (<xref ref-type="bibr" rid="B9">Mexican Council of Financial Reporting Standards, 2018c</xref>).</p>
+				</sec>
+				<sec>
+					<title>4.4. Storage of finished products and citizen satisfaction</title>
+					<p>Effective management of the finished goods warehouse is important for the timely and proper delivery of public services. This type of practice, such as Just-In-Time, can decrease the level of inventory, increase inventory turnover, which means a greater degree of satisfaction on the part of citizens (<xref ref-type="bibr" rid="B25">Womack and Jones, 1996</xref>). The NIFs pay attention to sites in the financial and accounting world, but the efficient management of finished products, drooling over NIF C-4, shows that financial information improves according to the operations of public entities, and it serves for transparency and accountability.</p>
+					<p>This analysis shows how the inclusion of supply chain management practices in addition to the principles of NPM and IFRS contributed to Mexican public administration. These practices allow not only to improve efficiency and economy in the management of public resources, but also the transparency and accountability that are necessary practices for the data of the trust of citizens by the government.</p>
+				</sec>
+			</sec>
+			<sec sec-type="conclusions|discussion">
+				<title>5. Discussion and conclusions</title>
+				<p>The integration of New Public Management (NPM) and Financial Reporting Standards (IFRS) in the context of Mexican public administration highlights a strategic approach towards government modernization and efficiency, which allows public management to be connected with practices and standards that promote efficiency, transparency, and accountability. The discussion is based on a body of previous studies collected in the discipline of supply chain management and financial accounting, and highlights the importance of a global and holistic approach to jointly improve the quality of public services and transmit confidence to citizens in their institutions. Process improvement and cost reduction are practices that the literature refers to as results of the adoption and implementation of supply chain management strategies, as also suggested by <xref ref-type="bibr" rid="B5">Chopra and Meindl (2016)</xref> or cost analysis based on the Total Cost of Ownership Theory. as discussed by <xref ref-type="bibr" rid="B10">Ellram and Siferd (1993)</xref>. These practices not only allow for a better use of resources, but are also strongly related to the sustainability and competitiveness of organizations, a principle that is also found in public management in view of the provisions of the NGP.</p>
+				<p>In relation to the characteristics of NPM in terms of accountability and transparency (<xref ref-type="bibr" rid="B19">Osborne, 2010</xref>; <xref ref-type="bibr" rid="B20">Perry, 2010</xref>), the acceptance of IFRS can lead to financial or operational practices being carried out with special clarity, which favors accountability to citizens and integrity (Coy, 2010) in order to build the suitability of linking the exercise of financial and operational management of entities through regulatory frameworks. On the other hand, social satisfaction influenced by the efficiency of the provision of public services, as suggested by <xref ref-type="bibr" rid="B25">Womack and Jones (1996)</xref>, and the continuous improvement preached by <xref ref-type="bibr" rid="B11">Frazelle (2002)</xref>, highlights how the adoption of efficient management practices can have an impact on citizen perceptions and satisfaction, and highlights the interest in incorporating courses of action around quality and efficiency in public management compliant with the requirements of the NPM.</p>
+				<p>The findings of this study suggest that the articulation between the principles of the New Public Management (NPM) and the effective application of Financial Reporting Standards (IFRS) Together, these empirical elements reinforce the hypothesis that, although the regulatory framework exists, its effectiveness is conditioned by institutional variables such as the professionalization of personnel, the interoperability of systems and the political will for their implementation.</p>
+				<p>A thoughtful implementation and all of this supported by knowledge-both theoretical and practical-is necessary to generate a public administration that is truly not only effective in responding to the needs of citizens, but also meets the highest demands of transparency and accountability, contributing, therefore, to achieving a Mexico that is also fairer. efficient and transparent. The difficulty is to move from regulatory design to effective action by incorporating performance evaluation mechanisms, incentives for continuous improvement, comprehensive systems in data management, etc. For future research, it is considered advisable to develop case studies of local administrations with successful experiences, the design of quantitative models of budgetary impact and, beyond that, the development of digital solutions for the strengthening of the public supply chain in an inter-institutional environment (<xref ref-type="bibr" rid="B1">Andersen and Skjøtt-Larsen, 2009</xref>).</p>
+				<p>Together, these empirical elements help to corroborate the hypothesis that, although the normative body exists, its effectiveness is subject to institutional variables such as professionalization, interoperability, and even the political will for its implementation.</p>
+			</sec>
+		</body>
+	</sub-article>
+</article>
