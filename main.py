@@ -310,7 +310,8 @@ async def extract_metadata_from_text(text: str) -> ArticleMetadata:
                 if line:
                     title_candidates.append(line)
                 # Para evitar truncar títulos largos que ocupan varias líneas, detenemos si la línea parece un autor (corta) o si ya tenemos un título razonable y la línea actual no es conectora
-                if len(" ".join(title_candidates)) > 45 and not line.endswith("de") and not line.endswith("la") and not line.endswith("el") and not line.endswith("y"):
+                connector_words = ("de", "la", "el", "y", "un", "una", "del", "los", "las", "con", "por", "para", "en", "al", "o", "a")
+                if len(" ".join(title_candidates)) > 45 and not any(line.lower().rstrip('.').endswith(" " + cw) or line.lower().rstrip('.').endswith(cw) for cw in connector_words):
                     # Verificamos si la siguiente línea parece un autor en lugar de continuación del título
                     break
         if title_candidates:
@@ -819,14 +820,13 @@ def clean_body_duplicate_metadata(soup: BeautifulSoup, metadata: ArticleMetadata
         title_elem = child.find('title')
         title_clean = unaccent(title_elem.get_text(strip=True).lower()) if title_elem else ''
         
-        # Detener la purga ÚNICAMENTE al alcanzar la verdadera sección de Introducción o Metodología en Español
+        # Detener la purga al alcanzar cualquier encabezado de sección principal (Sumario, Resumen, Abstract, Introducción, I. Introducción, etc.)
         is_portuguese = any(w in title_clean or w in text_clean for w in ["introducao", "abstrato", "resumo", "palavras-chave"])
         is_english = any(w in title_clean or w in text_clean for w in ["introduction", "abstract", "key words", "keywords"])
         
-        is_spanish_intro = ("introduccion" in title_clean or "introduccion" in text_clean) and not (is_portuguese or is_english)
-        is_spanish_methods = ("material" in text_clean or "metodo" in text_clean or "metodologia" in text_clean) and not (is_portuguese or is_english)
+        is_main_section = any(w in title_clean or w in text_clean[:60] for w in ["sumario", "resumen", "abstract", "introduccion", "introduction", "metodo", "metodologia", "materiales"]) or re.match(r'^(?:[i|v|x|l|c|d|m]+\.|\d+[\.\)])\s*', text_clean)
         
-        if is_spanish_intro or is_spanish_methods:
+        if is_main_section and not (is_portuguese or is_english):
             break
             
         child.decompose()
@@ -850,18 +850,30 @@ def extract_structured_abstracts_from_body(soup: BeautifulSoup, metadata: Articl
         return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
         
     from bs4.element import Tag
-    for p in list(body.find_all(['p', 'sec'], limit=25)):
+    def safe_decompose_abstract_sec(node):
+        if not isinstance(node, Tag):
+            return
+        if node.name == 'sec':
+            for child in list(node.children):
+                if isinstance(child, Tag) and child.name == 'sec':
+                    node.insert_before(child)
+            node.decompose()
+        else:
+            node.decompose()
+
+    for p in list(body.find_all(['p', 'sec'], limit=35)):
         if not isinstance(p, Tag):
             continue
         txt = p.get_text(strip=True)
         txt_clean = unaccent(txt.lower())
+        sec_title_txt = unaccent(p.find('title').get_text(strip=True).lower()) if (isinstance(p, Tag) and p.find('title')) else ""
         
         # Spanish Abstract (Structured or Unstructured)
         if ("introduccion" in txt_clean or "resumen" in txt_clean) and sum(1 for kw in ["objetivo", "metodologia", "resultados", "conclusiones", "conclusion"] if kw in txt_clean) >= 3:
             clean_txt = re.sub(r'^(?:Resumen|Resumen:)\s*', '', txt, flags=re.IGNORECASE).strip()
             if len(clean_txt) > 50:
                 metadata.abstract_es = format_abstract_text(clean_txt)
-                p.decompose()
+                safe_decompose_abstract_sec(p)
                 # Update <front>
                 front = soup.find('front')
                 if front:
@@ -872,31 +884,69 @@ def extract_structured_abstracts_from_body(soup: BeautifulSoup, metadata: Articl
                         title.string = "Resumen:"
                         abstract_tag.append(title)
                         p_abs = soup.new_tag('p')
-                        p_abs.string = clean_txt
+                        p_abs.string = format_abstract_text(clean_txt)
                         abstract_tag.append(p_abs)
                 continue
+
+        # Continuous Spanish Resumen (Unstructured)
+        if sec_title_txt in ["resumen", "resumen:"] or txt_clean.startswith("resumen:"):
+            clean_txt = re.sub(r'^(?:Resumen|Resumen:)\s*', '', txt, flags=re.IGNORECASE).strip()
+            if len(clean_txt) > 30 and (not metadata.abstract_es or metadata.abstract_es == "Resumen no disponible."):
+                metadata.abstract_es = format_abstract_text(clean_txt)
+                front = soup.find('front')
+                if front:
+                    abstract_tag = front.find('abstract')
+                    if abstract_tag:
+                        abstract_tag.clear()
+                        title = soup.new_tag('title')
+                        title.string = "Resumen:"
+                        abstract_tag.append(title)
+                        p_abs = soup.new_tag('p')
+                        p_abs.string = format_abstract_text(clean_txt)
+                        abstract_tag.append(p_abs)
+            safe_decompose_abstract_sec(p)
+            continue
                 
         # English Abstract (Structured or Unstructured)
         if ("introduction" in txt_clean or "abstract" in txt_clean) and sum(1 for kw in ["objective", "methodology", "results", "conclusions", "conclusion"] if kw in txt_clean) >= 3:
             clean_txt = re.sub(r'^(?:Abstract|Abstract:)\s*', '', txt, flags=re.IGNORECASE).strip()
             if len(clean_txt) > 50:
                 metadata.abstract_en = format_abstract_text(clean_txt)
-                p.decompose()
+                safe_decompose_abstract_sec(p)
                 continue
+
+        # Continuous English Abstract (Unstructured)
+        if sec_title_txt in ["abstract", "abstract:"] or txt_clean.startswith("abstract:"):
+            clean_txt = re.sub(r'^(?:Abstract|Abstract:)\s*', '', txt, flags=re.IGNORECASE).strip()
+            if len(clean_txt) > 30 and (not metadata.abstract_en or metadata.abstract_en == "Abstract not available."):
+                metadata.abstract_en = format_abstract_text(clean_txt)
+                front = soup.find('front')
+                if front:
+                    trans_abstract_tag = front.find('trans-abstract', **{"xml:lang": "en"})
+                    if trans_abstract_tag:
+                        trans_abstract_tag.clear()
+                        title = soup.new_tag('title')
+                        title.string = "Abstract:"
+                        trans_abstract_tag.append(title)
+                        p_abs = soup.new_tag('p')
+                        p_abs.string = format_abstract_text(clean_txt)
+                        trans_abstract_tag.append(p_abs)
+            safe_decompose_abstract_sec(p)
+            continue
                 
         # Portuguese Abstract (Resumo/Abstrato - single or multi-paragraph)
         if ("introducao" in txt_clean or "abstrato" in txt_clean or "resumo" in txt_clean) and sum(1 for kw in ["objetivo", "metodologia", "resultados", "conclusoes", "conclusao"] if kw in txt_clean) >= 2:
             clean_txt = re.sub(r'^(?:Resumo|Resumo:|Abstrato|Abstrato:)\s*', '', txt, flags=re.IGNORECASE).strip()
             if len(clean_txt) > 30:
                 metadata.abstract_pt = format_abstract_text(clean_txt)
-                p.decompose()
+                safe_decompose_abstract_sec(p)
                 continue
                 
         # Portuguese Abstract multi-paragraph collection starting with Abstrato/Resumo header
         if txt_clean in ["abstrato", "abstrato:", "resumo", "resumo:"]:
             pt_parts = []
             curr = p.next_sibling
-            p.decompose()
+            safe_decompose_abstract_sec(p)
             while curr:
                 nxt = curr.next_sibling
                 if isinstance(curr, Tag):
@@ -904,7 +954,7 @@ def extract_structured_abstracts_from_body(soup: BeautifulSoup, metadata: Articl
                     c_clean = unaccent(c_txt.lower())
                     if any(c_clean.startswith(kw) for kw in ["introducao", "objetivo", "metodologia", "resultados", "conclusoes", "conclusao", "palavras-chave"]):
                         pt_parts.append(c_txt)
-                        curr.decompose()
+                        safe_decompose_abstract_sec(curr)
                     else:
                         break
                 curr = nxt
@@ -915,13 +965,32 @@ def extract_structured_abstracts_from_body(soup: BeautifulSoup, metadata: Articl
             
         # Lone Keywords / Titles sections in body
         if any(txt_clean.startswith(prefix) for prefix in ["palabras clave", "keywords", "key words", "palavras-chave"]):
-            p.decompose()
+            # Extract keywords if not present in front
+            kw_match = re.sub(r'^(?:palabras\s+clave|keywords|key\s+words|palavras-chave):\s*', '', txt, flags=re.IGNORECASE).rstrip('.')
+            if kw_match and (not metadata.keywords_es or metadata.keywords_es == ["Palabra clave no disponible"]):
+                kw_list = [k.strip() for k in re.split(r'[;,]', kw_match) if k.strip()]
+                if kw_list:
+                    metadata.keywords_es = kw_list
+                    front = soup.find('front')
+                    if front:
+                        kwd_grp = front.find('kwd-group', **{"xml:lang": "es"})
+                        if kwd_grp:
+                            kwd_grp.clear()
+                            t_kw = soup.new_tag('title')
+                            t_kw.string = "Palabras clave:"
+                            kwd_grp.append(t_kw)
+                            for kw in kw_list:
+                                k_tag = soup.new_tag('kwd')
+                                k_tag.string = kw
+                                kwd_grp.append(k_tag)
+            safe_decompose_abstract_sec(p)
             continue
 
 def restructure_body_to_sections(soup: BeautifulSoup):
     """
     Convierte párrafos que simulan ser títulos de sección en verdaderas etiquetas <sec> de JATS,
     preservando la capitalización original del manuscrito y evitando convertir tablas o figuras.
+    Detecta negritas (<bold>), numerales romanos (I., II., III., etc.) y encabezados canónicos.
     """
     body = soup.find('body')
     if not body:
@@ -935,6 +1004,15 @@ def restructure_body_to_sections(soup: BeautifulSoup):
     children = list(body.children)
     current_sec = None
     
+    # Patrón para numerales romanos (ej. I., II., III., IV.), números de sección (ej. 1., 1.1) o títulos canónicos
+    section_title_regex = re.compile(
+        r'^(?:'
+        r'[IVXLCDM]+\.|\d+[\.\)]|\d+\.\d+'
+        r'|SUMARIO|RESUMEN|ABSTRACT|INTRODUCCIÓN|INTRODUCTION|METODOLOGÍA|METHODOLOGY|MATERIALES|MATERIAL Y MÉTODOS|RESULTADOS|RESULTS|DISCUSIÓN|DISCUSSION|CONCLUSIONES|CONCLUSIONS|REFERENCIAS|REFERENCES|BIBLIOGRAFÍA'
+        r')(?:\s+|$)',
+        re.IGNORECASE
+    )
+    
     for child in children:
         if getattr(child, 'name', None) == 'p':
             text = child.get_text(strip=True)
@@ -944,21 +1022,17 @@ def restructure_body_to_sections(soup: BeautifulSoup):
                 continue
                 
             bold = child.find('bold')
+            is_sec_title = False
+            clean_title = ""
+            
             if bold and len(text) > 2:
                 bold_text = bold.get_text(strip=True)
                 clean_bold = bold_text.rstrip(':').strip()
                 
                 # Caso A: El párrafo completo es el título (ej. <p><bold>Introducción</bold></p>)
                 if text == bold_text or text.rstrip(':').strip() == clean_bold or len(bold_text) > (len(text) * 0.8):
-                    new_sec = soup.new_tag("sec")
-                    sec_title = soup.new_tag("title")
-                    sec_title.string = clean_bold
-                    new_sec.append(sec_title)
-                    
-                    child.insert_before(new_sec)
-                    child.extract()
-                    current_sec = new_sec
-                    continue
+                    is_sec_title = True
+                    clean_title = clean_bold
                 # Caso B: Subtítulo incrustado al inicio (ej. <p><bold>Introducción:</bold> Texto del párrafo...</p>)
                 elif text.startswith(bold_text) and len(clean_bold) < 60:
                     new_sec = soup.new_tag("sec")
@@ -979,6 +1053,22 @@ def restructure_body_to_sections(soup: BeautifulSoup):
                         new_sec.append(child)
                     current_sec = new_sec
                     continue
+
+            # Si no se detectó por negrita, pero coincide con el patrón de numeral romano o encabezado canónico corto
+            if not is_sec_title and len(text) < 130 and section_title_regex.match(text):
+                is_sec_title = True
+                clean_title = text.rstrip(':').strip()
+
+            if is_sec_title and clean_title:
+                new_sec = soup.new_tag("sec")
+                sec_title = soup.new_tag("title")
+                sec_title.string = clean_title
+                new_sec.append(sec_title)
+                
+                child.insert_before(new_sec)
+                child.extract()
+                current_sec = new_sec
+                continue
                     
         if current_sec and getattr(child, 'name', None) != 'sec':
             if child.parent:
