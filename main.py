@@ -219,11 +219,13 @@ def build_structured_abstract_xml(soup: BeautifulSoup, abstract_text: str, tag_n
         
     return abs_tag
 
-async def extract_metadata_from_text(text: str) -> ArticleMetadata:
+async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
     api_key = os.getenv("GEMINI_API_KEY")
+    used_fallback = False
     if not api_key:
         print("Advertencia: No hay GEMINI_API_KEY. Devolviendo metadatos vacíos.")
-        return ArticleMetadata(article_title="Sin Título")
+        used_fallback = True
+        return ArticleMetadata(article_title="Sin Título"), used_fallback
     prompt = """
     Analiza el siguiente texto extraído de un artículo científico (DOCX/PDF) y extrae los siguientes metadatos en un formato JSON estricto.
     REGLAS DE EXTRACCIÓN:
@@ -272,6 +274,7 @@ async def extract_metadata_from_text(text: str) -> ArticleMetadata:
             time.sleep(3)
             
     if not metadata:
+        used_fallback = True
         metadata = ArticleMetadata(article_title="Sin Título")
         
     # Regex fallback desde encabezados si falta DOI, elocation_id, volume o issue
@@ -351,7 +354,13 @@ async def extract_metadata_from_text(text: str) -> ArticleMetadata:
             kw_str = kw_en_match.group(1).replace('\n', ' ').strip().rstrip('.')
             metadata.keywords_en = [k.strip() for k in re.split(r'[;,]', kw_str) if k.strip()]
 
-    return metadata
+    # Sanitizar prefijos en las palabras clave extraídas
+    if metadata.keywords_es:
+        metadata.keywords_es = [re.sub(r'^(?:Palabras?\s+clave|Keywords?|Key\s+words)[:\s]*', '', k, flags=re.IGNORECASE).strip() for k in metadata.keywords_es if k.strip()]
+    if metadata.keywords_en:
+        metadata.keywords_en = [re.sub(r'^(?:Palabras?\s+clave|Keywords?|Key\s+words)[:\s]*', '', k, flags=re.IGNORECASE).strip() for k in metadata.keywords_en if k.strip()]
+
+    return metadata, used_fallback
 
 def build_scielo_front(soup: BeautifulSoup, metadata: ArticleMetadata) -> BeautifulSoup:
     """Modifica el soup XML inyectando la estructura de SciELO en el <front>"""
@@ -1202,38 +1211,110 @@ def format_tables(soup: BeautifulSoup):
 
 def fix_footnotes(soup: BeautifulSoup):
     """
-    Renumera las notas al pie desde 1, limpia cualquier residuo ("1F", "2F", "3F") en el texto previo a <xref>
-    y envuelve el número del <xref> en un <sup>.
+    1. Filtra y remueve notas al pie impropias (fechas de arbitraje/historial, etc. en fn-group).
+    2. Renumera secuencialmente desde 1 las notas al pie que aparecen en el cuerpo (body),
+       sincronizando <xref ref-type="fn" rid="fnX"><sup>X</sup></xref> y <fn id="fnX"><label>X</label>...</fn>.
     """
-    fn_counter = 1
-    fn_mapping = {}
+    body = soup.find('body')
     
-    for fn in soup.find_all('fn'):
-        old_id = fn.get('id')
-        new_id = f"fn{fn_counter}"
-        fn['id'] = new_id
-        if old_id:
-            fn_mapping[old_id] = new_id
-        fn_counter += 1
-        
-    for xref in soup.find_all('xref', **{"ref-type": "fn"}):
-        old_rid = xref.get('rid')
-        if old_rid and old_rid in fn_mapping:
-            xref['rid'] = fn_mapping[old_rid]
+    # 1. Limpieza de notas de historial / arbitraje en <fn-group>
+    for fn in list(soup.find_all('fn')):
+        fn_text = fn.get_text(strip=True)
+        # Detectar notas con fechas de recepción / aceptación (ej. "09/11/2025 Aceptado: 20/12/2025")
+        if re.search(r'\b\d{2}/\d{2}/\d{4}\b', fn_text) or any(k in fn_text.lower() for k in ["aceptado:", "recibido:", "received:", "accepted:"]):
+            # Intentar extraer fechas para <history> si no existen o están en blanco/00
+            m_rec = re.search(r'(?:recibido|received)[\s:]*(\d{1,2}/\d{1,2}/\d{4})', fn_text, re.IGNORECASE)
+            m_acc = re.search(r'(?:aceptado|accepted)[\s:]*(\d{1,2}/\d{1,2}/\d{4})', fn_text, re.IGNORECASE)
             
-        # Limpiar residuo del documento original ("1F", "2F", "3F", etc.) en el texto anterior a <xref>
-        from bs4.element import NavigableString
-        prev = xref.previous_sibling
-        if prev and isinstance(prev, NavigableString):
-            clean_text = re.sub(r'\b\d+[FfNn]$|\d+[FfNn]$', '', str(prev))
-            prev.replace_with(clean_text)
-        
-        if not xref.find('sup'):
-            text = xref.get_text()
-            xref.clear()
-            sup = soup.new_tag("sup")
-            sup.string = text
-            xref.append(sup)
+            history = soup.find('history')
+            if history:
+                if m_rec:
+                    d_rec = history.find('date', **{'date-type': 'received'})
+                    if d_rec and d_rec.find('day') and d_rec.find('day').string in ['00', '0', None]:
+                        pts = m_rec.group(1).split('/')
+                        if len(pts) == 3:
+                            d_rec.find('day').string = pts[0].zfill(2)
+                            d_rec.find('month').string = pts[1].zfill(2)
+                            d_rec.find('year').string = pts[2]
+                if m_acc:
+                    d_acc = history.find('date', **{'date-type': 'accepted'})
+                    if d_acc and d_acc.find('day') and d_acc.find('day').string in ['00', '0', None]:
+                        pts = m_acc.group(1).split('/')
+                        if len(pts) == 3:
+                            d_acc.find('day').string = pts[0].zfill(2)
+                            d_acc.find('month').string = pts[1].zfill(2)
+                            d_acc.find('year').string = pts[2]
+            fn.decompose()
+            continue
+
+    # 2. Mapa de notas existentes por su id original
+    all_fns = {fn.get('id'): fn for fn in soup.find_all('fn') if fn.get('id')}
+    
+    # 3. Recorrer llamadas en el cuerpo <body> para re-indexar a base 1 (fn1, fn2, fn3...)
+    fn_counter = 1
+    processed_fn_ids = set()
+    fn_id_map = {}
+    
+    if body:
+        for xref in body.find_all('xref', **{"ref-type": "fn"}):
+            old_rid = xref.get('rid')
+            if not old_rid:
+                continue
+                
+            if old_rid not in fn_id_map:
+                new_id = f"fn{fn_counter}"
+                fn_id_map[old_rid] = new_id
+                fn_counter += 1
+            else:
+                new_id = fn_id_map[old_rid]
+                
+            xref['rid'] = new_id
+            
+            # Extraer el número secuencial (ej. "1", "2"...)
+            seq_num = new_id.replace("fn", "")
+            
+            # Limpiar residuo del texto anterior ("1F", "2F", etc.)
+            from bs4.element import NavigableString
+            prev = xref.previous_sibling
+            if prev and isinstance(prev, NavigableString):
+                clean_text = re.sub(r'\b\d+[FfNn]$|\d+[FfNn]$', '', str(prev))
+                prev.replace_with(clean_text)
+                
+            # Actualizar el <sup> con el número secuencial correcto
+            sup = xref.find('sup')
+            if not sup:
+                xref.clear()
+                sup = soup.new_tag("sup")
+                sup.string = seq_num
+                xref.append(sup)
+            else:
+                sup.string = seq_num
+
+            # Actualizar la nota de destino <fn> en <fn-group>
+            target_fn = all_fns.get(old_rid)
+            if target_fn and target_fn not in processed_fn_ids:
+                target_fn['id'] = new_id
+                target_fn['fn-type'] = "other"
+                label = target_fn.find('label')
+                if not label:
+                    label = soup.new_tag('label')
+                    target_fn.insert(0, label)
+                label.string = seq_num
+                processed_fn_ids.add(target_fn)
+
+    # 4. Renumerar cualquier otra nota al pie <fn> restante que no estuviera vinculada en el body
+    for fn in soup.find_all('fn'):
+        if fn not in processed_fn_ids:
+            new_id = f"fn{fn_counter}"
+            fn['id'] = new_id
+            fn['fn-type'] = "other"
+            seq_num = str(fn_counter)
+            label = fn.find('label')
+            if not label:
+                label = soup.new_tag('label')
+                fn.insert(0, label)
+            label.string = seq_num
+            fn_counter += 1
 
 def fix_section_title_case(soup: BeautifulSoup):
     """
@@ -1528,28 +1609,32 @@ def format_sections(soup: BeautifulSoup):
         elif "conclusi" in text:
             sec['sec-type'] = 'conclusions'
 
-def extract_bibliography_paragraphs(soup: BeautifulSoup) -> List[dict]:
+def extract_bibliography_paragraphs(soup: BeautifulSoup) -> tuple[list[dict], str]:
     body = soup.find('body')
+    default_title = "Referencias"
     if not body:
-        return []
+        return [], default_title
         
     ref_nodes = []
+    section_title = default_title
     
-    # 1. Buscar en secciones <sec> cuyo <title> contenga "referenc", "bibliograf" o "references"
+    # 1. Buscar en secciones <sec> cuyo <title> contenga "referenc", "bibliograf", "fuentes", "works cited", "obras citadas"
     for sec in list(body.find_all('sec')):
         title = sec.find('title')
         if title:
-            title_text = title.get_text(strip=True).lower()
-            if any(k in title_text for k in ["bibliograf", "referenc", "works cited", "obras citadas"]):
+            raw_title_text = title.get_text(strip=True)
+            title_text = raw_title_text.lower()
+            if any(k in title_text for k in ["bibliograf", "referenc", "fuentes", "works cited", "obras citadas"]):
+                section_title = raw_title_text
                 for p in list(sec.find_all('p')):
                     raw_html = p.decode_contents()
                     raw_text = p.get_text(strip=True)
                     if raw_text and len(raw_text) > 10:
                         ref_nodes.append({'raw_text': raw_text, 'raw_html': raw_html})
                 sec.decompose()
-                return ref_nodes
+                return ref_nodes, section_title
 
-    # 2. Buscar por sec/p cuyo texto empiece por Referencias o Bibliografía, o párrafos numerados al final
+    # 2. Buscar por sec/p cuyo texto empiece por Referencias, Bibliografía o Fuentes, o párrafos numerados al final
     p_tags = list(body.find_all('p'))
     in_ref_section = False
     ref_ps = []
@@ -1557,11 +1642,9 @@ def extract_bibliography_paragraphs(soup: BeautifulSoup) -> List[dict]:
         text = p.get_text(strip=True)
         text_lower = text.lower()
         if not in_ref_section:
-            if text_lower in ["bibliografía", "bibliografia", "referencias", "referencias bibliográficas", "references", "works cited"]:
+            if any(text_lower.startswith(prefix) for prefix in ["bibliografía", "bibliografia", "referencias", "fuentes", "references"]):
                 in_ref_section = True
-                ref_ps.append(p)
-            elif any(text_lower.startswith(prefix) for prefix in ["bibliografía", "bibliografia", "referencias", "references"]):
-                in_ref_section = True
+                section_title = text
                 ref_ps.append(p)
             elif re.match(r'^\s*\[?1\]?[\.\s]+[A-Z]', text):
                 in_ref_section = True
@@ -1572,7 +1655,7 @@ def extract_bibliography_paragraphs(soup: BeautifulSoup) -> List[dict]:
     if in_ref_section and len(ref_ps) >= 1:
         for p in ref_ps:
             text = p.get_text(strip=True)
-            if p == ref_ps[0] and any(text.lower().startswith(k) for k in ["bibliografía", "bibliografia", "referencias", "references"]):
+            if p == ref_ps[0] and any(text.lower().startswith(k) for k in ["bibliografía", "bibliografia", "referencias", "fuentes", "references"]):
                 p.decompose()
                 continue
             raw_html = p.decode_contents()
@@ -1581,7 +1664,7 @@ def extract_bibliography_paragraphs(soup: BeautifulSoup) -> List[dict]:
                 ref_nodes.append({'raw_text': raw_text, 'raw_html': raw_html})
             p.decompose()
             
-    return ref_nodes
+    return ref_nodes, section_title
 
 def parse_reference_item_fallback(raw_text: str, ref_id: str = "B1") -> ReferenceItem:
     import re
@@ -1696,10 +1779,10 @@ async def parse_references_with_gemini(ref_items: List[dict]) -> List[ReferenceI
     # Fallback si IA no responde
     return [parse_reference_item_fallback(item['raw_text'], f"B{idx+1}") for idx, item in enumerate(ref_items)]
 
-def build_ref_list_xml(soup: BeautifulSoup, references: List[ReferenceItem], raw_nodes: List[dict]) -> BeautifulSoup:
+def build_ref_list_xml(soup: BeautifulSoup, references: List[ReferenceItem], raw_nodes: List[dict], section_title: str = "Referencias") -> BeautifulSoup:
     ref_list = soup.new_tag('ref-list')
     title = soup.new_tag('title')
-    title.string = "Referencias"
+    title.string = section_title if section_title else "Referencias"
     ref_list.append(title)
     
     if references:
@@ -2006,7 +2089,65 @@ def process_eng_docx_to_subarticle(soup_main: BeautifulSoup, eng_docx_path: str,
         sub_article.append(new_body)
         
 
-    return sub_article
+def validate_sps(xml_str: str) -> dict:
+    """
+    Validador estricto SciELO SPS basado en lxml.etree y XPath.
+    Audita el XML generado por BeautifulSoup para certificar el cumplimiento de la norma.
+    """
+    from lxml import etree
+    errors = []
+    warnings = []
+    
+    # 1. Parseo estricto sintáctico XML con lxml
+    try:
+        parser = etree.XMLParser(recover=False)
+        xml_doc = etree.fromstring(xml_str.encode('utf-8'), parser=parser)
+    except etree.XMLSyntaxError as e:
+        return {
+            "is_valid": False,
+            "errors": [f"Error sintáctico XML: {str(e)}"],
+            "warnings": []
+        }
+
+    # 2. Regla SciELO SPS: Verificar que ref-list contenga al menos un elemento <ref>
+    if xml_doc.xpath('//ref-list') and not xml_doc.xpath('//ref-list/ref'):
+        errors.append("SciELO SPS exige al menos un elemento <ref> dentro de <ref-list>.")
+
+    # 3. Regla SciELO SPS: Atributo 'country' en <country> debe ser un código ISO 3166-1 alpha-2 de 2 letras
+    for country_elem in xml_doc.xpath('//aff/country'):
+        iso_code = country_elem.get('country')
+        if not iso_code or len(iso_code) != 2 or not iso_code.isupper():
+            errors.append(f"El atributo 'country' en <country> debe ser un código ISO de 2 letras mayúsculas (ej. MX, ES). Valor actual: '{iso_code}'")
+
+    # 4. Regla SciELO SPS: Verificar que todas las citas cruzadas <xref rid="..."> apunten a un id existente
+    all_ids = set(xml_doc.xpath('//@id'))
+    for xref in xml_doc.xpath('//xref'):
+        rid = xref.get('rid')
+        if rid:
+            for target_id in rid.split():
+                if target_id not in all_ids:
+                    warnings.append(f"Referencia cruzada <xref rid='{target_id}'> huérfana: no existe ningún elemento con id='{target_id}'.")
+
+    # 5. Regla SciELO SPS: Atributos específicos en <article>
+    article_nodes = xml_doc.xpath('//article')
+    if article_nodes:
+        art = article_nodes[0]
+        if art.get('specific-use') != 'sps-1.9':
+            warnings.append(f"Atributo specific-use debe ser 'sps-1.9'. Valor actual: '{art.get('specific-use')}'")
+        if art.get('dtd-version') != '1.1':
+            warnings.append(f"Atributo dtd-version debe ser '1.1'. Valor actual: '{art.get('dtd-version')}'")
+
+    # 6. Regla SciELO SPS: <pub-date> debe contener <year>
+    for pub_date in xml_doc.xpath('//pub-date'):
+        if not pub_date.xpath('year'):
+            errors.append("El elemento <pub-date> debe incluir la etiqueta <year>.")
+
+    is_valid = len(errors) == 0
+    return {
+        "is_valid": is_valid,
+        "errors": errors,
+        "warnings": warnings
+    }
 
 @app.get("/", response_class=HTMLResponse)
 async def read_index():
@@ -2049,7 +2190,7 @@ async def convert_docx(file: UploadFile = File(...)):
             header_text = extract_docx_headers_text(input_path)
             raw_text = header_text + "\n" + soup.get_text(separator='\n', strip=True)
             
-            metadata = await extract_metadata_from_text(raw_text)
+            metadata, used_fallback = await extract_metadata_from_text(raw_text)
             
             old_front = soup.find('front')
             scielo_front = build_scielo_front(soup, metadata)
@@ -2090,13 +2231,13 @@ async def convert_docx(file: UploadFile = File(...)):
             # Corregir footnotes y x-refs
             fix_footnotes(soup)
             
-            # SciELO Style Fixes: fn-type and ref-list
+            # SciELO Style Fixes: fn-type en <fn>
             for fn in soup.find_all('fn'):
                 if not fn.has_attr('fn-type'):
                     fn['fn-type'] = "other"
                     
             # Extraer referencias del body y parsearlas con Gemini
-            raw_ref_nodes = extract_bibliography_paragraphs(soup)
+            raw_ref_nodes, ref_section_title = extract_bibliography_paragraphs(soup)
             parsed_references = await parse_references_with_gemini(raw_ref_nodes)
             
             back = soup.find('back')
@@ -2109,8 +2250,14 @@ async def convert_docx(file: UploadFile = File(...)):
                 old_ref_list = back.find('ref-list')
                 if old_ref_list:
                     old_ref_list.decompose()
-                ref_list_tag = build_ref_list_xml(soup, parsed_references, raw_ref_nodes)
+                ref_list_tag = build_ref_list_xml(soup, parsed_references, raw_ref_nodes, ref_section_title)
                 back.append(ref_list_tag)
+                
+                # Garantizar orden de marcado igual al experto: <ref-list> primero, luego <fn-group>
+                fn_group = back.find('fn-group')
+                if fn_group:
+                    fn_group.extract()
+                    back.append(fn_group)
                 
             if soup.article:
                 soup.article['xmlns:mml'] = "http://www.w3.org/1998/Math/MathML"
@@ -2154,7 +2301,22 @@ async def convert_docx(file: UploadFile = File(...)):
             doctype = '<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">'
             final_xml = f'<?xml version="1.0" encoding="utf-8"?>\n{doctype}\n{final_xml.strip()}'
             
-            return Response(content=final_xml, media_type="application/xml")
+            # Auditoría y Validación Final SciELO SPS con lxml.etree
+            validation_report = validate_sps(final_xml)
+            print(f"Resultado de Validación SciELO SPS lxml: Válido={validation_report['is_valid']}, Errores={len(validation_report['errors'])}, Advertencias={len(validation_report['warnings'])}")
+            if validation_report['errors']:
+                print("Errores de validación:", validation_report['errors'])
+            if validation_report['warnings']:
+                print("Advertencias de validación:", validation_report['warnings'])
+
+            headers = {
+                "X-SPS-Validation-Valid": str(validation_report["is_valid"]).lower(),
+                "X-SPS-Errors-Count": str(len(validation_report["errors"])),
+                "X-SPS-Warnings-Count": str(len(validation_report["warnings"])),
+                "X-Metadata-Extraction-Fallback": str(used_fallback).lower()
+            }
+            
+            return Response(content=final_xml.encode('utf-8'), media_type="application/xml; charset=utf-8", headers=headers)
         except Exception as e:
             import traceback
             traceback.print_exc()

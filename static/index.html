@@ -199,9 +199,12 @@
         </div>
 
         <div class="result-area" id="resultArea">
-            <p>¡Conversión exitosa!</p>
+            <p style="font-weight: 600; color: var(--success); font-size: 1.1rem; margin-bottom: 0.5rem;">¡Conversión exitosa!</p>
+            <div id="fallbackNotice" style="display:none; margin-bottom: 1.25rem; padding: 0.85rem 1rem; background: rgba(234, 179, 8, 0.12); border: 1px solid rgba(234, 179, 8, 0.4); border-radius: 0.5rem; color: #fef08a; text-align: left; font-size: 0.85rem; line-height: 1.4;">
+                ⚡ <strong>Aviso de Extracción por Reglas (Fallback)</strong>: La API de Gemini no estuvo disponible durante la conversión (cuota, red o autenticación). Se utilizó el motor de extracción determinista por reglas (Regex Fallback). Algunos metadatos o resúmenes traducidos podrían requerir verificación en el XML resultante.
+            </div>
             <a id="downloadBtn" class="btn btn-download" download="resultado.xml">
-                <span>⬇️</span> Descargar XML
+                <span>⬇️</span> Descargar XML JATS
             </a>
         </div>
 
@@ -337,6 +340,17 @@
                     progressPercent.textContent = '100%';
                     progressText.textContent = '¡Completado!';
                     progressFill.classList.add('success');
+                    
+                    // Verificar si se activó el motor de rescate por reglas (fallback)
+                    const fallbackHeader = xhr.getResponseHeader('X-Metadata-Extraction-Fallback');
+                    const fallbackNotice = document.getElementById('fallbackNotice');
+                    if (fallbackNotice) {
+                        if (fallbackHeader === 'true') {
+                            fallbackNotice.style.display = 'block';
+                        } else {
+                            fallbackNotice.style.display = 'none';
+                        }
+                    }
                     
                     // Crear blob para descargar
                     const blob = new Blob([xhr.response], {type: 'application/xml'});
