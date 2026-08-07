@@ -39,7 +39,7 @@ async def convert_docx_file_to_xml(input_path: str, eng_input_path: str = None) 
     raw_text = header_text + "\n" + soup.get_text(separator='\n', strip=True)
     
     print(f"  [2/6] Extrayendo metadatos con Gemini (incluyendo encabezados DOCX: DOI, volumen, número)...", flush=True)
-    metadata = await extract_metadata_from_text(raw_text)
+    metadata, used_fallback = await extract_metadata_from_text(raw_text)
     extract_structured_abstracts_from_body(soup, metadata)
     
     print(f"  [3/6] Construyendo sección <front> según SciELO SPS...", flush=True)
@@ -70,7 +70,7 @@ async def convert_docx_file_to_xml(input_path: str, eng_input_path: str = None) 
             fn['fn-type'] = "other"
             
     print(f"  [5/6] Extrayendo y parseando bibliografía con Gemini...", flush=True)
-    raw_ref_nodes = extract_bibliography_paragraphs(soup)
+    raw_ref_nodes, ref_section_title = extract_bibliography_paragraphs(soup)
     parsed_references = await parse_references_with_gemini(raw_ref_nodes)
     
     back = soup.find('back')
@@ -83,7 +83,7 @@ async def convert_docx_file_to_xml(input_path: str, eng_input_path: str = None) 
         old_ref_list = back.find('ref-list')
         if old_ref_list:
             old_ref_list.decompose()
-        ref_list_tag = build_ref_list_xml(soup, parsed_references, raw_ref_nodes)
+        ref_list_tag = build_ref_list_xml(soup, parsed_references, raw_ref_nodes, ref_section_title)
         back.append(ref_list_tag)
         
     if eng_input_path and os.path.exists(eng_input_path):

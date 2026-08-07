@@ -45,7 +45,7 @@ async def convert_biolex_docx_to_xml(input_path: str) -> tuple[str, str, str]:
     raw_text = header_text + "\n" + soup.get_text(separator='\n', strip=True)
     
     print(f"  [2/6] Extrayendo metadatos con Gemini...", flush=True)
-    metadata = await extract_metadata_from_text(raw_text)
+    metadata, used_fallback = await extract_metadata_from_text(raw_text)
     
     # Enforzar metadatos estándar de la revista BIOLEX
     metadata.journal_id = "biolex"
@@ -86,7 +86,7 @@ async def convert_biolex_docx_to_xml(input_path: str) -> tuple[str, str, str]:
             fn['fn-type'] = "other"
             
     print(f"  [5/6] Extrayendo y parseando bibliografía con Gemini...", flush=True)
-    raw_ref_nodes = extract_bibliography_paragraphs(soup)
+    raw_ref_nodes, ref_section_title = extract_bibliography_paragraphs(soup)
     parsed_references = await parse_references_with_gemini(raw_ref_nodes)
     
     back = soup.find('back')
@@ -99,7 +99,7 @@ async def convert_biolex_docx_to_xml(input_path: str) -> tuple[str, str, str]:
         old_ref_list = back.find('ref-list')
         if old_ref_list:
             old_ref_list.decompose()
-        ref_list_tag = build_ref_list_xml(soup, parsed_references, raw_ref_nodes)
+        ref_list_tag = build_ref_list_xml(soup, parsed_references, raw_ref_nodes, ref_section_title)
         back.append(ref_list_tag)
         
     if soup.article:

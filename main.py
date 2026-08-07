@@ -151,8 +151,11 @@ def clean_article_title(title_text: str) -> str:
 def format_abstract_text(text: str) -> str:
     if not text:
         return text
-    # Agregar espacios después de puntos o dos puntos pegados a títulos o palabras
-    formatted = re.sub(r'([\.a-zA-ZáéíóúÁÉÍÓÚñÑ])(?=[A-ZÁÉÍÓÚ][a-zâêîôûãõçáéíóúñ]+\s*:)', r'\1 ', text)
+    formatted = text
+    # Insertar dos puntos y espacio si encabezados estructurados están pegados a la siguiente palabra (ej. MetodologíaPara -> Metodología: Para)
+    formatted = re.sub(r'\b(Introducción|Objetivo|Metodología|Resultados|Conclusiones|Introduction|Objective|Methodology|Results|Conclusions|Introdução|Metodologia|Conclusões)\s*(?=[A-ZÁÉÍÓÚ])', r'\1: ', formatted)
+    formatted = re.sub(r':\s*:', ':', formatted)
+    formatted = re.sub(r'([\.a-zA-ZáéíóúÁÉÍÓÚñÑ])(?=[A-ZÁÉÍÓÚ][a-zâêîôûãõçáéíóúñ]+\s*:)', r'\1 ', formatted)
     formatted = re.sub(r':(?=[A-ZÁÉÍÓÚa-z])', ': ', formatted)
     formatted = re.sub(r'\s+', ' ', formatted).strip()
     return formatted
@@ -164,6 +167,7 @@ def build_structured_abstract_xml(soup: BeautifulSoup, abstract_text: str, tag_n
     abs_tag = soup.new_tag(tag_name, **attrs)
     
     clean_txt = format_abstract_text(abstract_text) if abstract_text else ""
+    clean_txt = re.sub(r'^\s*(?:Resumen|Abstract|Resumo)\b[\s:]*', '', clean_txt, flags=re.IGNORECASE).strip()
     if not clean_txt or clean_txt in ["Resumen no disponible.", "Abstract not available."]:
         title = soup.new_tag("title")
         title.string = "Abstract:" if (lang == "en" or tag_name == "trans-abstract") else "Resumen:"
@@ -181,7 +185,8 @@ def build_structured_abstract_xml(soup: BeautifulSoup, abstract_text: str, tag_n
     
     matches = list(section_pattern.finditer(clean_txt))
     if matches:
-        if matches[0].start() > 0:
+        first_hdr = matches[0].group(1).lower()
+        if matches[0].start() > 0 or first_hdr not in ["introduccion", "introducción", "introduction", "introducao", "introdução"]:
             if lang == "en":
                 prefix_header = "Introduction: "
             elif lang == "pt":
@@ -198,6 +203,8 @@ def build_structured_abstract_xml(soup: BeautifulSoup, abstract_text: str, tag_n
             end_pos = matches[i+1].start() if i + 1 < len(matches) else len(clean_txt)
             sec_body_text = clean_txt[start_pos:end_pos].strip()
             sec_body_text = re.sub(r'^(?:Introducción|Objetivo|Metodología|Resultados|Conclusiones|Introduction|Objective|Methodology|Results|Conclusions|Introdução|Introducao|Metodologia|Conclusões|Conclusoes|Resumo|Abstrato)[:\s]*', '', sec_body_text, flags=re.IGNORECASE).strip()
+            if not sec_body_text:
+                continue
             
             sec = soup.new_tag("sec")
             t_tag = soup.new_tag("title")
@@ -252,7 +259,7 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
     
     import time
     metadata = None
-    models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-1.5-flash']
+    models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.0-flash-lite']
     for model_name in models_to_try:
         try:
             response = client.models.generate_content(
@@ -323,10 +330,16 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
     metadata.article_title_es = clean_article_title(metadata.article_title_es)
     if metadata.article_title_en:
         metadata.article_title_en = clean_article_title(metadata.article_title_en)
+        if metadata.article_title_es and metadata.article_title_en:
+            en_words = metadata.article_title_en.split()
+            if len(en_words) >= 3:
+                en_prefix = " ".join(en_words[:3])
+                if en_prefix in metadata.article_title_es:
+                    metadata.article_title_es = metadata.article_title_es.split(en_prefix)[0].strip().rstrip(':').strip()
 
     # Extracción determinista de Resumen (Español)
     if not metadata.abstract_es or metadata.abstract_es == "Resumen no disponible.":
-        abs_es_match = re.search(r'Resumen:\s*(.*?)(?=\n\s*(?:Abstract:|Palabras clave:|Keywords:|Key words:|Introducción|1\.|I\.)|$)', text, re.DOTALL | re.IGNORECASE)
+        abs_es_match = re.search(r'Resumen:\s*(.*?)(?=\n\s*(?:Abstract:|Palabras clave:|Keywords:|Key words:|1\.|I\.)|$)', text, re.DOTALL | re.IGNORECASE)
         if abs_es_match:
             metadata.abstract_es = format_abstract_text(abs_es_match.group(1).strip())
     else:
@@ -334,7 +347,7 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
 
     # Extracción determinista de Abstract (Inglés)
     if not metadata.abstract_en or metadata.abstract_en in ["Abstract not available.", "Resumen no disponible."]:
-        abs_en_match = re.search(r'Abstract:\s*(.*?)(?=\n\s*(?:Resumen:|Palabras clave:|Keywords:|Key words:|Introduction|Introducción|1\.|I\.)|$)', text, re.DOTALL | re.IGNORECASE)
+        abs_en_match = re.search(r'Abstract:\s*(.*?)(?=\n\s*(?:Resumen:|Palabras clave:|Keywords:|Key words:|1\.|I\.)|$)', text, re.DOTALL | re.IGNORECASE)
         if abs_en_match:
             metadata.abstract_en = format_abstract_text(abs_en_match.group(1).strip())
     else:
@@ -434,6 +447,12 @@ def build_scielo_front(soup: BeautifulSoup, metadata: ArticleMetadata) -> Beauti
     title_group = soup.new_tag("title-group")
     article_title = soup.new_tag("article-title")
     title_es_clean = clean_article_title(metadata.article_title_es) if metadata.article_title_es else (clean_article_title(metadata.article_title_en) if metadata.article_title_en else "Título no disponible")
+    if metadata.article_title_en and title_es_clean:
+        en_words = clean_article_title(metadata.article_title_en).split()
+        if len(en_words) >= 3:
+            en_prefix = " ".join(en_words[:3])
+            if en_prefix in title_es_clean:
+                title_es_clean = title_es_clean.split(en_prefix)[0].strip().rstrip(':').strip()
     article_title.string = title_es_clean
     title_group.append(article_title)
     
@@ -833,7 +852,8 @@ def clean_body_duplicate_metadata(soup: BeautifulSoup, metadata: ArticleMetadata
         is_portuguese = any(w in title_clean or w in text_clean for w in ["introducao", "abstrato", "resumo", "palavras-chave"])
         is_english = any(w in title_clean or w in text_clean for w in ["introduction", "abstract", "key words", "keywords"])
         
-        is_main_section = any(w in title_clean or w in text_clean[:60] for w in ["sumario", "resumen", "abstract", "introduccion", "introduction", "metodo", "metodologia", "materiales"]) or re.match(r'^(?:[i|v|x|l|c|d|m]+\.|\d+[\.\)])\s*', text_clean)
+        is_structured_abstract = sum(1 for kw in ["objetivo", "metodologia", "resultados", "conclusiones", "conclusion"] if kw in text_clean) >= 2
+        is_main_section = (any(w in title_clean or w in text_clean[:60] for w in ["sumario", "resumen", "abstract", "introduccion", "introduction", "metodo", "metodologia", "materiales"]) or re.match(r'^(?:[i|v|x|l|c|d|m]+\.|\d+[\.\)])\s*', text_clean)) and not is_structured_abstract
         
         if is_main_section and not (is_portuguese or is_english):
             break
@@ -878,7 +898,8 @@ def extract_structured_abstracts_from_body(soup: BeautifulSoup, metadata: Articl
         sec_title_txt = unaccent(p.find('title').get_text(strip=True).lower()) if (isinstance(p, Tag) and p.find('title')) else ""
         
         # Spanish Abstract (Structured or Unstructured)
-        if ("introduccion" in txt_clean or "resumen" in txt_clean) and sum(1 for kw in ["objetivo", "metodologia", "resultados", "conclusiones", "conclusion"] if kw in txt_clean) >= 3:
+        already_has_valid_es = metadata.abstract_es and len(metadata.abstract_es) > 100 and "introduccion" in unaccent(metadata.abstract_es.lower())
+        if not already_has_valid_es and ("introduccion" in txt_clean or "resumen" in txt_clean) and sum(1 for kw in ["objetivo", "metodologia", "resultados", "conclusiones", "conclusion"] if kw in txt_clean) >= 3:
             clean_txt = re.sub(r'^(?:Resumen|Resumen:)\s*', '', txt, flags=re.IGNORECASE).strip()
             if len(clean_txt) > 50:
                 metadata.abstract_es = format_abstract_text(clean_txt)
@@ -886,15 +907,12 @@ def extract_structured_abstracts_from_body(soup: BeautifulSoup, metadata: Articl
                 # Update <front>
                 front = soup.find('front')
                 if front:
-                    abstract_tag = front.find('abstract')
-                    if abstract_tag:
-                        abstract_tag.clear()
-                        title = soup.new_tag('title')
-                        title.string = "Resumen:"
-                        abstract_tag.append(title)
-                        p_abs = soup.new_tag('p')
-                        p_abs.string = format_abstract_text(clean_txt)
-                        abstract_tag.append(p_abs)
+                    old_abstract = front.find('abstract')
+                    new_abstract = build_structured_abstract_xml(soup, metadata.abstract_es, tag_name="abstract")
+                    if old_abstract:
+                        old_abstract.replace_with(new_abstract)
+                    elif front.find('article-meta'):
+                        front.find('article-meta').append(new_abstract)
                 continue
 
         # Continuous Spanish Resumen (Unstructured)
@@ -1107,17 +1125,17 @@ def format_tables(soup: BeautifulSoup):
     for container in containers:
         is_sub = container.name == 'sub-article'
         t_prefix = "en-t" if is_sub else "t"
-        table_counter = 1
+        label_word = "Table" if is_sub else "Tabla"
         
-        for tbl_wrap in container.find_all('table-wrap'):
-            t_id = f"{t_prefix}{table_counter}"
-            tbl_wrap['id'] = t_id
+        table_wraps = list(container.find_all('table-wrap'))
+        table_counter = 1
+        processed_tables = []
+        
+        for tbl_wrap in table_wraps:
+            detected_num = None
+            caption_title_str = ""
             
-            # Search up to 2 preceding siblings or parent siblings for table label/caption
-            caption_str = ""
-            label_match = None
-            
-            # Check previous 2 siblings
+            # Check previous 2 siblings for title/label paragraph
             prev_nodes = []
             curr = tbl_wrap
             for _ in range(2):
@@ -1128,13 +1146,38 @@ def format_tables(soup: BeautifulSoup):
 
             for p_elem in prev_nodes:
                 p_txt = p_elem.get_text(strip=True)
-                m_cap = re.match(r'^(?:Tabla|Table|Tabela)\s*\d*[\.\:]?\s*(.*)$', p_txt, re.IGNORECASE)
-                if m_cap:
-                    caption_str = m_cap.group(1).strip()
+                m = re.search(r'^(?:Tabla|Table|Tabela)\s*(\d+)[\.\:]?\s*(.*)$', p_txt, re.IGNORECASE)
+                if m:
+                    detected_num = int(m.group(1))
+                    caption_title_str = m.group(2).strip().lstrip('.').lstrip(':').strip()
                     p_elem.decompose()
                     break
 
-            label_str = f"Tabla {table_counter}" if not is_sub else f"Table {table_counter}"
+            if not detected_num:
+                lbl = tbl_wrap.find('label')
+                cap = tbl_wrap.find('caption')
+                lbl_txt = lbl.get_text(strip=True) if lbl else ""
+                cap_txt = cap.get_text(strip=True) if cap else ""
+                
+                m_cap = re.search(r'^(?:Tabla|Table|Tabela)\s*(\d+)[\.\:]?\s*(.*)$', cap_txt, re.IGNORECASE)
+                m_lbl = re.search(r'\b(\d+)\b', lbl_txt)
+                
+                if m_cap:
+                    detected_num = int(m_cap.group(1))
+                    caption_title_str = m_cap.group(2).strip().lstrip('.').lstrip(':').strip()
+                elif m_lbl:
+                    detected_num = int(m_lbl.group(1))
+                    
+            if not detected_num:
+                detected_num = table_counter
+                table_counter += 1
+            else:
+                table_counter = max(table_counter, detected_num + 1)
+                
+            t_id = f"{t_prefix}{detected_num}"
+            tbl_wrap['id'] = t_id
+            
+            label_str = f"{label_word} {detected_num}"
             label = tbl_wrap.find('label')
             if not label:
                 label = soup.new_tag('label')
@@ -1144,36 +1187,23 @@ def format_tables(soup: BeautifulSoup):
                 label.string = label_str
                 
             caption = tbl_wrap.find('caption')
-            if caption_str:
+            if caption_title_str:
                 if not caption:
                     caption = soup.new_tag('caption')
                     tbl_wrap.insert(1, caption)
-                if not caption.find('title'):
+                t_title = caption.find('title')
+                if not t_title:
                     t_title = soup.new_tag('title')
-                    t_title.string = caption_str
                     caption.append(t_title)
-            elif caption and not caption.get_text(strip=True):
-                caption.decompose()
-                
-            next_p = tbl_wrap.find_next_sibling('p')
-            foot_text = None
-            if next_p:
-                np_txt = next_p.get_text(strip=True)
-                if np_txt.lower().startswith(('fuente:', 'nota:', 'source:', 'note:', 'elaboración', 'elaboracion')):
-                    foot_text = np_txt
-                    next_p.decompose()
-                    
-            if foot_text:
-                foot = tbl_wrap.find('table-wrap-foot')
-                if not foot:
-                    foot = soup.new_tag('table-wrap-foot')
-                    tbl_wrap.append(foot)
-                fn_tag = soup.new_tag('fn', id=f"TFN{table_counter}", **{'fn-type': 'other'})
-                p_foot = soup.new_tag('p')
-                p_foot.string = foot_text
-                fn_tag.append(p_foot)
-                foot.append(fn_tag)
-                
+                t_title.string = caption_title_str
+            elif caption:
+                t_title = caption.find('title')
+                if t_title:
+                    t_txt = t_title.get_text(strip=True)
+                    m_clean = re.search(r'^(?:Tabla|Table|Tabela)\s*\d*[\.\:]?\s*(.*)$', t_txt, re.IGNORECASE)
+                    if m_clean and m_clean.group(1).strip():
+                        t_title.string = m_clean.group(1).strip()
+                        
             # Unwrap table-wrap if it is direct child of <p>
             p_parent = tbl_wrap.parent
             if p_parent and p_parent.name == 'p':
@@ -1193,21 +1223,45 @@ def format_tables(soup: BeautifulSoup):
                     xr.unwrap()
 
             # Consolidate and deduplicate <table-wrap-foot>
+            next_p = tbl_wrap.find_next_sibling('p')
+            foot_text = None
+            if next_p:
+                np_txt = next_p.get_text(strip=True)
+                if np_txt.lower().startswith(('fuente:', 'nota:', 'source:', 'note:', 'elaboración', 'elaboracion')):
+                    foot_text = np_txt
+                    next_p.decompose()
+                    
             foot = tbl_wrap.find('table-wrap-foot')
+            if foot_text:
+                if not foot:
+                    foot = soup.new_tag('table-wrap-foot')
+                    tbl_wrap.append(foot)
+            
             if foot:
                 txt_content = foot.get_text(separator=' ', strip=True)
+                if foot_text and foot_text not in txt_content:
+                    txt_content = f"{txt_content} {foot_text}".strip()
                 txt_clean = re.sub(r'^(Fuente:[^\.]*[\.]?)\s+\1$', r'\1', txt_content, flags=re.IGNORECASE).strip()
                 if not txt_clean:
                     txt_clean = "Source: Self-developed" if is_sub else "Fuente: Elaboración propia"
                 foot.clear()
                 tfn_prefix = "en-TFN" if is_sub else "TFN"
-                fn_tag = soup.new_tag('fn', id=f"{tfn_prefix}{table_counter}", **{'fn-type': 'other'})
+                fn_tag = soup.new_tag('fn', id=f"{tfn_prefix}{detected_num}", **{'fn-type': 'other'})
                 p_foot = soup.new_tag('p')
                 p_foot.string = txt_clean
                 fn_tag.append(p_foot)
                 foot.append(fn_tag)
 
-            table_counter += 1
+            processed_tables.append((detected_num, tbl_wrap))
+
+        # Re-ubicar las tablas en el lugar donde son citadas en el texto si no están en orden
+        for num, tbl in processed_tables:
+            t_id = tbl.get('id')
+            ref_xref = container.find('xref', **{'ref-type': 'table', 'rid': t_id})
+            if ref_xref:
+                parent_p = ref_xref.find_parent(['p', 'sec'])
+                if parent_p and parent_p != tbl.parent:
+                    parent_p.insert_after(tbl)
 
 def fix_footnotes(soup: BeautifulSoup):
     """
@@ -1755,7 +1809,7 @@ async def parse_references_with_gemini(ref_items: List[dict]) -> List[ReferenceI
         """ + combined_text[:60000]
 
         import time
-        models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-1.5-flash']
+        models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.0-flash-lite']
         for model_name in models_to_try:
             try:
                 response = client.models.generate_content(
@@ -2087,7 +2141,8 @@ def process_eng_docx_to_subarticle(soup_main: BeautifulSoup, eng_docx_path: str,
                     
                 new_body.append(BeautifulSoup(str(child), 'xml'))
         sub_article.append(new_body)
-        
+    return sub_article
+
 
 def validate_sps(xml_str: str) -> dict:
     """
@@ -2155,10 +2210,16 @@ async def read_index():
         return f.read()
 
 @app.post("/convert")
-async def convert_docx(file: UploadFile = File(...)):
+async def convert_docx(file: UploadFile = File(...), eng_file: Optional[UploadFile] = File(None)):
     with tempfile.TemporaryDirectory() as tmpdir:
         file_extension = os.path.splitext(file.filename)[1].lower() if file.filename else ".docx"
         input_path = os.path.join(tmpdir, f"{uuid.uuid4()}.docx")
+        
+        eng_input_path = None
+        if eng_file and eng_file.filename:
+            eng_input_path = os.path.join(tmpdir, f"{uuid.uuid4()}_ENG.docx")
+            with open(eng_input_path, "wb") as f:
+                f.write(await eng_file.read())
         
         if file_extension == ".pdf":
             pdf_path = os.path.join(tmpdir, f"{uuid.uuid4()}.pdf")
@@ -2258,6 +2319,22 @@ async def convert_docx(file: UploadFile = File(...)):
                 if fn_group:
                     fn_group.extract()
                     back.append(fn_group)
+
+            # Si se proporcionó la traducción en inglés (_ENG.docx), procesar e insertar <sub-article>
+            if eng_input_path and os.path.exists(eng_input_path):
+                sub_art_tag = process_eng_docx_to_subarticle(soup, eng_input_path, metadata)
+                if sub_art_tag and soup.article:
+                    old_sub = soup.article.find('sub-article')
+                    if old_sub:
+                        old_sub.decompose()
+                    soup.article.append(sub_art_tag)
+                    
+                scielo_front_updated = build_scielo_front(soup, metadata)
+                old_front = soup.find('front')
+                if old_front:
+                    old_front.replace_with(scielo_front_updated)
+                elif soup.article:
+                    soup.article.insert(0, scielo_front_updated)
                 
             if soup.article:
                 soup.article['xmlns:mml'] = "http://www.w3.org/1998/Math/MathML"

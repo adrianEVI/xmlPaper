@@ -179,13 +179,25 @@
         <p class="subtitle">Sube tu documento Word (.docx) o PDF (.pdf) y obtén el XML JATS estructurado</p>
 
         <form id="uploadForm">
+            <div style="text-align: left; margin-bottom: 0.5rem;">
+                <label style="font-weight: 600; font-size: 0.9rem; color: #cbd5e1;">📄 Documento Principal (Obligatorio)</label>
+            </div>
             <div class="upload-area" id="dropArea">
                 <span class="upload-icon">📝</span>
-                <p id="fileName">Arrastra tu archivo Word o PDF aquí o haz clic para seleccionar</p>
+                <p id="fileName">Arrastra tu archivo Word (.docx) o PDF (.pdf) principal aquí o haz clic para seleccionar</p>
                 <input type="file" id="fileInput" class="file-input" accept=".docx, .pdf, application/pdf, application/vnd.openxmlformats-officedocument.wordprocessingml.document">
             </div>
             
-            <button type="submit" id="submitBtn" class="btn" disabled>Convertir a XML</button>
+            <div style="text-align: left; margin-bottom: 0.5rem; margin-top: 1rem;">
+                <label style="font-weight: 600; font-size: 0.9rem; color: #cbd5e1;">🌐 Traducción al Inglés (Opcional - _ENG.docx)</label>
+            </div>
+            <div class="upload-area" id="dropAreaEng" style="padding: 2rem 1rem; border-style: dashed; background: rgba(255, 255, 255, 0.015);">
+                <span class="upload-icon" style="font-size: 2.2rem; margin-bottom: 0.5rem;">🔤</span>
+                <p id="engFileName" style="font-size: 0.9rem; margin: 0; color: var(--text-muted);">Arrastra el archivo Word en Inglés aquí o haz clic para seleccionar (Opcional)</p>
+                <input type="file" id="engFileInput" class="file-input" accept=".docx, application/vnd.openxmlformats-officedocument.wordprocessingml.document">
+            </div>
+            
+            <button type="submit" id="submitBtn" class="btn" style="margin-top: 1.5rem;" disabled>Convertir a XML</button>
         </form>
 
         <div class="progress-container" id="progressContainer">
@@ -215,6 +227,11 @@
         const dropArea = document.getElementById('dropArea');
         const fileInput = document.getElementById('fileInput');
         const fileNameDisplay = document.getElementById('fileName');
+
+        const dropAreaEng = document.getElementById('dropAreaEng');
+        const engFileInput = document.getElementById('engFileInput');
+        const engFileNameDisplay = document.getElementById('engFileName');
+
         const submitBtn = document.getElementById('submitBtn');
         const uploadForm = document.getElementById('uploadForm');
         
@@ -228,48 +245,63 @@
         const errorMsg = document.getElementById('errorMsg');
 
         let selectedFile = null;
+        let selectedEngFile = null;
 
-        // Manejo de arrastrar y soltar
-        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
-            dropArea.addEventListener(eventName, preventDefaults, false);
-        });
-
-        function preventDefaults(e) {
-            e.preventDefault();
-            e.stopPropagation();
-        }
-
-        ['dragenter', 'dragover'].forEach(eventName => {
-            dropArea.addEventListener(eventName, () => dropArea.classList.add('dragover'), false);
-        });
-
-        ['dragleave', 'drop'].forEach(eventName => {
-            dropArea.addEventListener(eventName, () => dropArea.classList.remove('dragover'), false);
-        });
-
-        dropArea.addEventListener('drop', handleDrop, false);
-        dropArea.addEventListener('click', () => fileInput.click());
-        fileInput.addEventListener('change', handleFiles);
-
-        function handleDrop(e) {
-            let dt = e.dataTransfer;
-            let files = dt.files;
-            handleFiles({ target: { files: files } });
-        }
-
-        function handleFiles(e) {
-            const files = e.target.files;
-            if (files.length > 0) {
-                const file = files[0];
-                if (!file.name.toLowerCase().endsWith('.docx') && !file.name.toLowerCase().endsWith('.pdf')) {
-                    showError('Por favor selecciona un archivo de Word (.docx) o PDF (.pdf).');
-                    return;
-                }
-                selectedFile = file;
-                fileNameDisplay.textContent = file.name;
-                submitBtn.disabled = false;
-                resetUI();
+        // Configuración de Drop Area Principal
+        setupDropZone(dropArea, fileInput, (file) => {
+            if (!file.name.toLowerCase().endsWith('.docx') && !file.name.toLowerCase().endsWith('.pdf')) {
+                showError('Por favor selecciona un archivo de Word (.docx) o PDF (.pdf) para el documento principal.');
+                return;
             }
+            selectedFile = file;
+            fileNameDisplay.innerHTML = `<strong>${file.name}</strong>`;
+            submitBtn.disabled = false;
+            resetUI();
+        });
+
+        // Configuración de Drop Area Inglés (Opcional)
+        setupDropZone(dropAreaEng, engFileInput, (file) => {
+            if (!file.name.toLowerCase().endsWith('.docx')) {
+                showError('El archivo de traducción en inglés debe ser un documento Word (.docx).');
+                return;
+            }
+            selectedEngFile = file;
+            engFileNameDisplay.innerHTML = `<strong>${file.name}</strong> <span style="cursor:pointer; color:#ef4444; margin-left:0.5rem;" onclick="removeEngFile(event)">✕ Quitar</span>`;
+            resetUI();
+        });
+
+        function removeEngFile(e) {
+            if (e) e.stopPropagation();
+            selectedEngFile = null;
+            engFileInput.value = '';
+            engFileNameDisplay.textContent = 'Arrastra el archivo Word en Inglés aquí o haz clic para seleccionar (Opcional)';
+        }
+
+        function setupDropZone(area, input, handleFileCallback) {
+            ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+                area.addEventListener(eventName, (e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                }, false);
+            });
+
+            ['dragenter', 'dragover'].forEach(eventName => {
+                area.addEventListener(eventName, () => area.classList.add('dragover'), false);
+            });
+
+            ['dragleave', 'drop'].forEach(eventName => {
+                area.addEventListener(eventName, () => area.classList.remove('dragover'), false);
+            });
+
+            area.addEventListener('drop', (e) => {
+                const files = e.dataTransfer.files;
+                if (files.length > 0) handleFileCallback(files[0]);
+            }, false);
+
+            area.addEventListener('click', () => input.click());
+            input.addEventListener('change', (e) => {
+                if (e.target.files.length > 0) handleFileCallback(e.target.files[0]);
+            });
         }
 
         function showError(msg) {
@@ -294,24 +326,26 @@
             // Iniciar UI
             submitBtn.disabled = true;
             dropArea.style.pointerEvents = 'none';
+            dropAreaEng.style.pointerEvents = 'none';
             progressContainer.style.display = 'block';
             errorMsg.style.display = 'none';
             resultArea.style.display = 'none';
 
             const formData = new FormData();
             formData.append('file', selectedFile);
+            if (selectedEngFile) {
+                formData.append('eng_file', selectedEngFile);
+            }
 
-            // Simular el progreso usando XMLHttpRequest para tener eventos de progreso reales (subida)
-            // y luego simular el tiempo de respuesta del servidor.
             const xhr = new XMLHttpRequest();
             
             xhr.upload.onprogress = (event) => {
                 if (event.lengthComputable) {
-                    const percentComplete = Math.round((event.loaded / event.total) * 50); // Subida es el 50%
+                    const percentComplete = Math.round((event.loaded / event.total) * 50);
                     progressFill.style.width = percentComplete + '%';
                     progressPercent.textContent = percentComplete + '%';
                     if (percentComplete === 50) {
-                        progressText.textContent = 'Procesando con Pandoc...';
+                        progressText.textContent = selectedEngFile ? 'Procesando ambos documentos con Pandoc y Gemini...' : 'Procesando con Pandoc y Gemini...';
                         startFakeProcessingProgress();
                     }
                 }
@@ -321,7 +355,6 @@
 
             function startFakeProcessingProgress() {
                 let current = 50;
-                // Simular hasta llegar al 90%
                 fakeProgressInterval = setInterval(() => {
                     if (current < 90) {
                         current += Math.random() * 5;
@@ -335,13 +368,11 @@
             xhr.onload = function() {
                 clearInterval(fakeProgressInterval);
                 if (xhr.status === 200) {
-                    // Éxito total
                     progressFill.style.width = '100%';
                     progressPercent.textContent = '100%';
                     progressText.textContent = '¡Completado!';
                     progressFill.classList.add('success');
                     
-                    // Verificar si se activó el motor de rescate por reglas (fallback)
                     const fallbackHeader = xhr.getResponseHeader('X-Metadata-Extraction-Fallback');
                     const fallbackNotice = document.getElementById('fallbackNotice');
                     if (fallbackNotice) {
@@ -352,12 +383,10 @@
                         }
                     }
                     
-                    // Crear blob para descargar
                     const blob = new Blob([xhr.response], {type: 'application/xml'});
                     const url = window.URL.createObjectURL(blob);
                     
                     downloadBtn.href = url;
-                    // Sugerir nombre basado en original
                     const originalName = selectedFile.name.replace(/\.(docx|pdf)$/i, '');
                     downloadBtn.download = originalName + '_jats.xml';
                     
@@ -388,11 +417,11 @@
             function resetAfterError() {
                 submitBtn.disabled = false;
                 dropArea.style.pointerEvents = 'auto';
+                dropAreaEng.style.pointerEvents = 'auto';
                 progressContainer.style.display = 'none';
             }
 
             xhr.open('POST', '/convert', true);
-            // Para poder obtener la respuesta binaria correctamente
             xhr.responseType = 'blob'; 
             xhr.send(formData);
         });

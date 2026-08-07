@@ -256,14 +256,32 @@ def build_jats_table_from_docx(docx_path: str, soup: BeautifulSoup) -> Beautiful
             foot_tag.append(attrib_tag)
             tbl_wrap.append(foot_tag)
             
-        if idx - 1 < len(existing_tables):
-            existing_tables[idx - 1].replace_with(tbl_wrap)
+        matched_existing = None
+        for et in existing_tables:
+            et_txt = et.get_text(strip=True)
+            if f"Tabla {dt['counter']}" in et_txt or f"Table {dt['counter']}" in et_txt or dt['title'] in et_txt:
+                matched_existing = et
+                break
+                
+        if matched_existing:
+            matched_existing.replace_with(tbl_wrap)
         else:
-            intro_sec = body_tag.find('sec', **{"sec-type": "intro"}) or body_tag.find('sec')
-            if intro_sec:
-                intro_sec.append(tbl_wrap)
+            cite_xref = body_tag.find(lambda tag: tag.name == 'xref' and tag.get('rid') == f"t{dt['counter']}")
+            if not cite_xref:
+                cite_p = body_tag.find(lambda tag: tag.name == 'p' and f"tabla {dt['counter']}" in tag.get_text(strip=True).lower())
             else:
-                body_tag.append(tbl_wrap)
+                cite_p = cite_xref.find_parent('p')
+                
+            if cite_p:
+                cite_p.insert_after(tbl_wrap)
+            elif idx - 1 < len(existing_tables):
+                existing_tables[idx - 1].replace_with(tbl_wrap)
+            else:
+                intro_sec = body_tag.find('sec', **{"sec-type": "intro"}) or body_tag.find('sec')
+                if intro_sec:
+                    intro_sec.append(tbl_wrap)
+                else:
+                    body_tag.append(tbl_wrap)
 
     # Actualizar contador de tablas en <counts>
     tc_tag = soup.find('table-count')
