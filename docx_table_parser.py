@@ -135,10 +135,7 @@ def build_jats_table_from_docx(docx_path: str, soup: BeautifulSoup) -> Beautiful
                         if not p_text: continue
                         for l in p_text.split('\n'):
                             if l.strip():
-                                if len(l.strip()) > 110 and not any(kw in l.lower() for kw in ['00421', 'diagnóstico', 'volumen']):
-                                    lines.extend(split_long_paragraph(l.strip(), max_len=110))
-                                else:
-                                    lines.append(l.strip())
+                                lines.append(l.strip())
                     if not lines:
                         lines = [cell.text.strip()] if cell.text.strip() else []
                     col_paragraphs.append(lines)
@@ -147,12 +144,7 @@ def build_jats_table_from_docx(docx_path: str, soup: BeautifulSoup) -> Beautiful
                 
                 final_col_lines = []
                 for cp in col_paragraphs:
-                    if len(cp) == 1 and max_p_count > 1 and len(cp[0]) > 40:
-                        k = min(max_p_count, max(2, (len(cp[0]) + 39) // 40))
-                        chunks = split_text_into_n_chunks(cp[0], k)
-                        final_col_lines.append(chunks)
-                    else:
-                        final_col_lines.append(cp)
+                    final_col_lines.append(cp)
                         
                 max_len = max((len(cl) for cl in final_col_lines), default=0)
                 if max_len <= 1:

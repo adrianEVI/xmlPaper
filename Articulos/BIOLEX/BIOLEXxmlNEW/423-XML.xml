@@ -1,582 +1,715 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
 <article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
-<front>
-<journal-meta>
-<journal-id journal-id-type="publisher-id">biolex</journal-id>
-<journal-title-group>
-<journal-title>Biolex</journal-title>
-<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
-</journal-title-group>
-<issn pub-type="ppub">2007-5634</issn>
-<issn pub-type="epub">2007-5545</issn>
-<publisher>
-<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
-</publisher>
-</journal-meta>
-<article-meta>
-<article-id pub-id-type="doi">10.36796/biolex.v17i28.423</article-id>
-<article-id pub-id-type="other">00109</article-id>
-<article-categories>
-<subj-group subj-group-type="heading">
-<subject>Artículos</subject>
-</subj-group>
-</article-categories>
-<title-group>
-<article-title>La importancia de visibilizar a las personas con discapacidad mental e intelectual y de realizar ajustes razonables personalizados para garantizar un entorno educativo inclusivo</article-title>
-<trans-title-group xml:lang="en">
-<trans-title>The Importance of Making People with Mental and Intellectual Disabilities Visible and Making Reasonable, Personalized Adjustments to Ensure an Inclusive Educational Environment</trans-title>
-</trans-title-group>
-</title-group>
-<contrib-group>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0000-0001-8832-1543</contrib-id>
-<name>
-<surname>García Villegas</surname>
-<given-names>Jaime Ernesto</given-names>
-</name>
-<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-<role>Licenciado en Derecho, maestro en Procuración y Administración de Justicia y doctor en Derecho</role>
-</contrib>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0000-0001-6153-7416</contrib-id>
-<name>
-<surname>Maguregui Alcaraz</surname>
-<given-names>Lila</given-names>
-</name>
-<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-<role>Licenciada en Derecho y maestra en Derecho Financiero</role>
-</contrib>
-</contrib-group>
-<aff id="aff1">
-<label>1</label>
-<institution content-type="original">Licenciado en Derecho, maestro en Procuración y Administración de Justicia y doctor en Derecho por la Universidad Autónoma de Chihuahua. Profesor de tiempo completo en la Facultad de Derecho de dicha Universidad. Investigador nacional nivel I adscrito al SNI. jegarciav@uach.mx</institution>
-<institution content-type="normalized">Universidad Autónoma de Chihuahua</institution>
-<institution content-type="orgname">Universidad Autónoma de Chihuahua</institution>
-<country country="MX">Mexico</country>
-<email>jegarciav@uach.mx</email>
-</aff>
-<aff id="aff2">
-<label>2</label>
-<institution content-type="original">Licenciada en Derecho y maestra en Derecho Financiero por la Universidad Autónoma de Chihuahua, doctora en Administración Pública por el Instituto Internacional del Derecho y del Estado, especialista, maestra y doctora en Negociación y Mediación por el Instituto de Mediación de México S. C, Candidata a investigadora nacional en el SNI y profesora de tiempo completo en la Facultad de Derecho de dicha Universidad, México. lmaguregui@uach.mx</institution>
-<institution content-type="normalized">Universidad Autónoma de Chihuahua</institution>
-<institution content-type="orgname">Universidad Autónoma de Chihuahua</institution>
-<country country="MX">Mexico</country>
-<email>lmaguregui@uach.mx</email>
-</aff>
-<pub-date date-type="pub" publication-format="electronic">
-<day>29</day>
-<month>12</month>
-<year>2025</year>
-</pub-date>
-<pub-date date-type="collection" publication-format="electronic">
-<season>Jan-Dec</season>
-<year>2025</year>
-</pub-date>
-<volume>17</volume>
-<issue>28</issue>
-<elocation-id>e423</elocation-id>
-<history>
-<date date-type="received">
-<day>20</day>
-<month>08</month>
-<year>2025</year>
-</date>
-<date date-type="accepted">
-<day>20</day>
-<month>11</month>
-<year>2025</year>
-</date>
-</history>
-<permissions>
-<license xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" license-type="open-access" xml:lang="es">
-<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
-</license>
-</permissions>
-<abstract>
-<title>Resumen</title>
-<p>En el entramado del orden jurídico mexicano, tanto la discapacidad mental como la intelectual se reconocen como condiciones que alteran las facultades psíquicas, cognitivas e incluso conductuales de las personas, generando limitaciones sustantivas que pueden trascender en su interacción social y el pleno ejercicio de su desarrollo en sociedad. La distinción entre estas manifestaciones y aquellas de índole física o sensorial es imperativa, con la finalidad de visibilizarles, atenderles, incluirles y evitar prácticas discriminatorias. Mientras que las discapacidades corporales o sensoriales afectan primordialmente las funciones motrices o perceptivas, las de carácter mental e intelectual inciden en la estructura misma de la personalidad y en la convivencia con las personas del entorno, incluyendo la comunidad educativa integrada por estudiantes, docentes y personal administrativo. Esta diferencia esencial impone a las instituciones educativas la obligación jurídica y ética de articular políticas y mecanismos de accesibilidad diferenciados, diseñados conforme al tipo específico de discapacidad, bajo el principio de ajustes razonables previsto en el artículo 3, inciso (f) de la Constitución Política de los Estados Unidos Mexicanos. La propuesta académica que en esta contribución se desarrolla pretende visibilizar lo específico de las discapacidades mentales e intelectuales, no como simples variantes dentro de una categoría general, sino como realidades diversas que demandan estrategias especializadas de detección, atención y acompañamiento. Ello exige el establecimiento de medidas efectivas que aseguren el acceso, la permanencia y la conclusión exitosa de los estudios de nivel superior para las personas pertenecientes a estos grupos en situación de vulnerabilidad.</p>
-</abstract>
-<trans-abstract xml:lang="en">
-<title>Abstract</title>
-<p>Within the intricate framework of the Mexican legal order, both mental and intellectual disabilities are recognized as conditions that alter individuals’ psychic, cognitive, and even behavioral faculties, generating substantive limitations that may transcend into their social interaction and the full exercise of their development within society. The distinction between these manifestations and those of a physical or sensory nature is imperative, as it aims to render them visible, to ensure their inclusion and care, and to prevent discriminatory practices. Whereas corporal or sensory disabilities primarily affect motor or perceptual functions, mental and intellectual disabilities exert their impact upon the very structure of personality and upon interpersonal coexistence, including within educational communities composed of students, faculty, and administrative staff. This essential differentiation imposes upon educational institutions both a legal and ethical obligation to articulate differentiated accessibility policies and mechanisms, designed in accordance with the specific type of disability, under the principle of reasonable accommodation established in Article 3, subsection (f), of the Political Constitution of the United Mexican States. The academic proposal developed in this contribution seeks to highlight the specific nature of mental and intellectual disabilities, not as mere variants within a general category, but as distinct realities that demand specialized strategies for detection, care, and accompaniment. This endeavor requires the establishment of effective measures ensuring access, retention, and the successful completion of higher education studies for individuals belonging to these groups in situations of vulnerability.</p>
-</trans-abstract>
-<kwd-group xml:lang="es">
-<title>Palabras clave:</title>
-<kwd>inclusión</kwd>
-<kwd>derechos humanos</kwd>
-<kwd>dignidad</kwd>
-</kwd-group>
-<kwd-group xml:lang="en">
-<title>Keywords:</title>
-<kwd>inclusion</kwd>
-<kwd>human rights</kwd>
-<kwd>dignity</kwd>
-</kwd-group>
-<counts>
-<fig-count count="0"/>
-<table-count count="0"/>
-<equation-count count="0"/>
-<ref-count count="14"/>
-</counts>
-</article-meta>
-</front>
+<front><article-meta><article-categories><subj-group subj-group-type="heading"><subject>Artículos</subject></subj-group></article-categories><title-group><article-title>La importancia de visibilizar a las personas con discapacidad</article-title><trans-title-group xml:lang="en"><trans-title>The Importance of Making People with Mental and Intellectual
+Disabilities Visible and Making Reasonable, Personalized Adjustments to
+Ensure an Inclusive Educational Environment</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>García Villegas</surname><given-names>Jaime Ernesto</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0001-8832-1543</contrib-id><name><surname>Maguregui Alcaraz</surname><given-names>Lila</given-names></name><xref ref-type="aff" rid="aff2"/></contrib><aff id="aff1"><label>1</label><institution content-type="original">Recibido: 20/08/2025 Aceptado: 20/11/2025, México</institution><institution content-type="orgname">Recibido: 20/08/2025 Aceptado: 20/11/2025</institution><country country="MX">México</country></aff><aff id="aff2"><label>2</label><institution content-type="original">Universidad
+    Autónoma de Chihuahua, México</institution><institution content-type="orgname">Universidad
+    Autónoma de Chihuahua</institution><country country="MX">México</country><email>jegarciav@uach.mx</email></aff></contrib-group><pub-date date-type="pub" publication-format="electronic"><day>01</day><month>01</month><year>2025</year></pub-date><pub-date date-type="collection" publication-format="electronic"><season>Jan-Dec</season><year>2025</year></pub-date><issue>22</issue><elocation-id>e000</elocation-id><history><date date-type="received"><day>20</day><month>08</month><year>2025</year></date><date date-type="accepted"><day>20</day><month>11</month><year>2025</year></date></history><permissions><license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es"><license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p></license></permissions><abstract><title>Resumen:</title><p>En el entramado del orden jurídico mexicano, tanto la discapacidad mental como la intelectual se reconocen como condiciones que alteran las facultades psíquicas, cognitivas e incluso conductuales de las personas, generando limitaciones sustantivas que pueden trascender en su interacción social y el pleno ejercicio de su desarrollo en sociedad. La distinción entre estas manifestaciones y aquellas de índole física o sensorial es imperativa, con la finalidad de visibilizarles, atenderles, incluirles y evitar prácticas discriminatorias. Mientras que las discapacidades corporales o sensoriales afectan primordialmente las funciones motrices o perceptivas, las de carácter mental e intelectual inciden en la estructura misma de la personalidad y en la convivencia con las personas del entorno, incluyendo la comunidad educativa integrada por estudiantes, docentes y personal administrativo. Esta diferencia esencial impone a las instituciones educativas la obligación jurídica y ética de articular políticas y mecanismos de accesibilidad diferenciados, diseñados conforme al tipo específico de discapacidad, bajo el principio de ajustes razonables previsto en el artículo 3, inciso (f) de la Constitución Política de los Estados Unidos Mexicanos. La propuesta académica que en esta contribución se desarrolla pretende visibilizar lo específico de las discapacidades mentales e intelectuales, no como simples variantes dentro de una categoría general, sino como realidades diversas que demandan estrategias especializadas de detección, atención y acompañamiento. Ello exige el establecimiento de medidas efectivas que aseguren el acceso, la permanencia y la conclusión exitosa de los estudios de nivel superior para las personas pertenecientes a estos grupos en situación de vulnerabilidad.</p></abstract><trans-abstract xml:lang="en"><title>Abstract:</title><p>Within the intricate framework of the Mexican legal order, both mental and intellectual disabilities are recognized as conditions that alter individuals’ psychic, cognitive, and even behavioral faculties, generating substantive limitations that may transcend into their social interaction and the full exercise of their development within society. The distinction between these manifestations and those of a physical or sensory nature is imperative, as it aims to render them visible, to ensure their inclusion and care, and to prevent discriminatory practices. Whereas corporal or sensory disabilities primarily affect motor or perceptual functions, mental and intellectual disabilities exert their impact upon the very structure of personality and upon interpersonal coexistence, including within educational communities composed of students, faculty, and administrative staff. This essential differentiation imposes upon educational institutions both a legal and ethical obligation to articulate differentiated accessibility policies and mechanisms, designed in accordance with the specific type of disability, under the principle of reasonable accommodation established in Article 3, subsection (f), of the Political Constitution of the United Mexican States. The academic proposal developed in this contribution seeks to highlight the specific nature of mental and intellectual disabilities, not as mere variants within a general category, but as distinct realities that demand specialized strategies for detection, care, and accompaniment. This endeavor requires the establishment of effective measures ensuring access, retention, and the successful completion of higher education studies for individuals belonging to these groups in situations of vulnerability.</p></trans-abstract><kwd-group xml:lang="es"><title>Palabras clave:</title><kwd>inclusión</kwd><kwd>derechos humanos</kwd><kwd>dignidad</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords:</title><kwd>inclusion</kwd><kwd>human rights</kwd><kwd>dignity</kwd></kwd-group><counts><fig-count count="0"/><table-count count="0"/><equation-count count="0"/><ref-count count="14"/></counts></article-meta></front>
 <body>
-<sec sec-type="intro">
-<title>I. Introducción. La importancia de distinguir entre los diversos tipos de discapacidad</title>
-<p>Como punto de partida, resulta indispensable comprender lo que nuestro marco jurídico -tanto nacional como internacional- reconoce o define como discapacidad, así como cada una de las modalidades que la conforman, considerando que existen diferentes variedades que ameritan un análisis específico. Analizando la expresión de lo general a lo particular, consideramos pertinente establecer que, conforme a la Real Academia Española, el término “discapacidad” se entiende como: “[…] situación de la persona que, por sus condiciones físicas, sensoriales, intelectuales o mentales duraderas, encuentra dificultades para su participación e inclusión social”.<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> En este orden de ideas debemos destacar que, desde el significado mismo de la palabra, se advierte la existencia de diversos tipos de condiciones que pueden provocar dificultades en la forma de convivir o interactuar dentro del tejido social, desde lo físico hasta lo intelectual o mental. </p>
-<p>Lo anterior resulta acertado, sin embargo, en ocasiones el significado gramatical de la palabra no logra reflejar plenamente la connotación jurídica o sociológica de una expresión. En el presente caso, se nos proporciona una idea cercana. </p>
-<p>No debemos soslayar que la expresión actualmente aceptada para referirse a quienes presentan alguna de las características mencionadas es “persona con discapacidad”. Resulta pertinente enfatizar este tópico en virtud de que aún suelen utilizarse expresiones como “personas con capacidades diferentes” o incluso otros calificativos que desbordan en lo peyorativo, lo cual evidentemente no es adecuado. La última de las expresiones aludidas puede incurrir en una perífrasis que no termina siendo realmente incluyente, como lo pretende. </p>
-<p>En esta tesitura sobre las expresiones como la cuestionada en supra líneas, es decir, personas con capacidades diferentes o especiales, se ha dicho que: </p>
-<disp-quote>
-<p>[…] podemos comprobar que actualmente la falta de rigor o actualidad en el uso de denominaciones, etiquetas o diagnósticos, contribuyen a alimentar los prejuicios, al definir a la persona con discapacidad en lugar de considerarla como una condición con la que se vive. Debemos tomar en cuenta que, al usar estas expresiones u otras parecidas, se está contraviniendo a la corriente de pensamiento y a los lineamientos éticos-jurídicos aceptados internacionalmente. Las causas principales las encontramos en un déficit en la formación educativa y cultural en materia de discapacidad. En la actualidad, la expresión persona con discapacidad, es la que se considera más adecuada, tanto por los Organismos Internacionales, como por las organizaciones de personas con discapacidad, para designar con respeto y precisión a quienes por una particularidad biológico-conductual padecen exclusión y se ven obligadas a superar obstáculos impuestos y desventajas creadas por la sociedad y para ejercer sus derechos, llevar una vida digna y lograr la plena integración al desarrollo<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>. </p>
-</disp-quote>
-<p>Debe resaltarse que, dentro del texto original de la Constitución Política de los Estados Unidos Mexicanos, con vigencia a partir del año 1917, no se hacía referencia expresa a las personas con discapacidad. No fue sino hasta más de ocho décadas después del inicio de la vigencia, por decreto publicado en el Diario Oficial de la Federación el 14 de agosto del año 2001, que se incorporó al ordinal primero del Magno Texto, la prohibición de la discriminación basada en las capacidades diferentes. Posteriormente, con la publicación del diverso decreto de fecha 4 de diciembre de 2006, se abandonó dicha terminología para hablar de discriminación por razón de <italic>discapacidades</italic> de la siguiente manera:</p>
-<disp-quote>
-<p>Artículo 1. […] </p>
-</disp-quote>
-<disp-quote>
-<p>Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, <italic>las discapacidades</italic>, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>. </p>
-</disp-quote>
-<p>Lo anterior refuerza lo aseverado en torno a la expresión que goza actualmente de reconocimiento y aceptación, tanto social como jurídica, en el sistema nacional e internacional. Consideramos que no sobra precisarlo toda vez que no es poco frecuente que sigamos tropezando con personas e incluso instituciones, tanto públicas como privadas, que siguen refiriéndose de otras formas a las personas con discapacidad. Por tanto, implica lo siguiente: </p>
-<disp-quote>
-<p>[…] exclusión o restricción que tenga el propósito obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo, incluye todas las formas de discriminación entre ellas, la denegación de ajustes razonables.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>
-</p>
-</disp-quote>
-<p>En este sentido, la base para combatir la discriminación y garantizar la inclusión es el reconocimiento de la dignidad del ser humano. La concreción material de los derechos de la persona con discapacidad, desde una perspectiva de integración e igualdad, no opera desde su situación particular, sino desde su carácter como sujetos de pleno derecho en el Estado Constitucional. Para ello, existen dos grandes herramientas: la consagración en el ordenamiento jurídico y la materialización del derecho a la educación inclusiva, según lo explica Mijancos Garruchaga<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>. Ahora bien, una vez precisada la denominación, debemos agregar que en la Constitución mexicana solo se establecen las bases de los derechos fundamentales a la inclusión, la igualdad y la no discriminación. No obstante, en lo inherente al tema que nos ocupa -la noción jurídica y especies de discapacidad-habremos de acudir a la legislación secundaria para conocer su desarrollo. </p>
-<p>En efecto, la Ley General para la Inclusión de las Personas con Discapacidad determina, en la novena porción normativa de su segundo arábigo, que la discapacidad es:</p>
-<disp-quote>
-<p>[…] la consecuencia de la presencia de una deficiencia o limitación en una persona, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>
-</p>
-</disp-quote>
-<p>A nuestra consideración, podemos desglosar y explicar esta definición legislativa en los siguientes elementos: </p>
-<p>a. <bold>Deficiencia o limitación de una persona.</bold> Aunque en diversos instrumentos jurídicos -tanto nacionales como internacionales- se utilizan y validan estas palabras, preferimos considerarles dificultades o particularidades físicas, mentales, intelectuales o sensoriales del ser humano. Estas implican un desempeño diverso al de la generalidad en un contexto social. Lo anterior obedece a que, como se puntualizará enseguida, las limitaciones son impuestas por la colectividad y el entono, ya que, de existir un contexto verdaderamente inclusivo, tales características no deberían considerarse obstáculos o deficiencias, sobre todo si logramos comprender que tal término en realidad se refiere a una imperfección o defecto y que, en realidad, todas las personas somos imperfectas, con carencias y defectos. El prefijo <italic>dis</italic> implica una negación, dificultad o distinción, que aunado a la palabra capacidad nos lleva a la idea de una capacidad para adaptarse al entorno una mayor dificultad. Sin embargo, por tratarse de expresiones validadas internacionalmente, las retomaremos en parágrafos posteriores.</p>
-<p>b<italic>.</italic>
-<bold>Barreras que impone el entorno social.</bold> Acertadamente, el legislador considera que las barreras de las personas con discapacidad no resultan auto impuestas o inherentes a su voluntad, sino al entorno de los seres que mayoritariamente forman parte el tejido social, toda vez que en la pluralidad de sujetos que integramos la colectividad se genera la organización y dinámica para vivir y convivir, lo que infortunadamente puede crear barreras de diversa naturaleza para quienes cuentan con alguna forma de discapacidad. Sobre este punto, la Organización de las Naciones Unidas se ha pronunciado explicando lo siguiente: </p>
-<disp-quote>
-<p>[…] La discapacidad radica en la sociedad, no en la persona. Es posible que una persona en silla de ruedas tenga dificultades para obtener empleo remunerado, no debido a su condición, sino porque hay obstáculos ambientales que le impiden el acceso, por ejemplo, autobuses inaccesibles o escaleras que no puede utilizar en el lugar de trabajo. Un niño o niña que tenga una discapacidad intelectual puede tener dificultades en la escuela debido a la actitud de los maestros hacia él o ella, un plan de estudios o materiales didácticos poco apropiados, juntas escolares inflexibles y padres que son incapaces de adaptarse a alumnos con capacidad distinta de aprendizaje. En una sociedad en la que existan lentes correctoras para las personas con miopía extrema -cortas de vista-, no se consideraría que esas personas tengan una discapacidad. Pero alguien en la misma situación en una sociedad en la que no se disponga de lentes correctoras sería considerado como persona con discapacidad, especialmente si no pudiera ejecutar las tareas que se espere de ella, como cuidar ganado, coser o cultivar la tierra. <xref ref-type="fn" rid="fn7"><sup>7</sup></xref>
-</p>
-</disp-quote>
-<p>c<italic>.</italic>
-<bold>Riesgo de impedir la inclusión.</bold> Las barreras que impone el tejido social se traducen en el peligro real para impedir la integración efectiva de las personas con discapacidad en el contexto social, desde una interacción o participación activa en el sector laboral, educativo o recreativo.</p>
-<p>Por su parte, en el marco jurídico internacional se reconoce que: </p>
-<disp-quote>
-<p>[…] la discapacidad es un concepto que evoluciona y que resulta de la interacción entre las personas con deficiencias y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás […] Las personas con discapacidad incluyen a aquellas que tengan deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás.<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>
-</p>
-</disp-quote>
-<p>Finalmente, consideramos pertinente poner en relieve que, para el sistema interamericano de los derechos humanos, la discapacidad significa: </p>
-<disp-quote>
-<p>[…] una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social.<xref ref-type="fn" rid="fn9"><sup>9</sup></xref>
-</p>
-</disp-quote>
-<p>Lo anterior, además de precisar la noción aceptada de la discapacidad, nos permite ser capaces de advertir que desde la normativa internacional se precisan con meridiana claridad las distintas especies de discapacidad, como se desarrollará a continuación.</p>
-</sec>
-<sec>
-<title>II. De los diferentes tipos de discapacidad</title>
-<p>Sin duda, el conocimiento permite visibilizar la problemática, por lo tanto, distinguiremos con puntualidad los diversos tipos de discapacidad. Tal como mencionamos anteriormente al referirnos al marco jurídico internacional -mencionado en líneas anteriores-, estas disposiciones contenidas en instrumentos internacionales se desarrollan en nuestra legislación interna. En esta última se deja debidamente puntualizado que se reconocen cuatro grandes tipos: 1. física, 2. mental, 3. intelectual y 4. sensorial, de la siguiente forma: </p>
-<disp-quote>
-<p>Discapacidad física. Es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás; </p>
-</disp-quote>
-<disp-quote>
-<p>Discapacidad mental. A la alteración o deficiencia en el sistema neuronal de una persona, que aunado a una sucesión de hechos que no puede manejar, detona un cambio en su comportamiento que dificulta su pleno desarrollo y convivencia social, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás. Discapacidad Intelectual. Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás; </p>
-</disp-quote>
-<disp-quote>
-<p>Discapacidad sensorial. Es la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás.<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>
-</p>
-</disp-quote>
-<p>En esta tesitura, podemos comprender que la discapacidad física encuentra relación con temas neuromusculares que afectan de manera esencial al movimiento o la postura en lo inherente a la dificultad o imposibilidad de controlarle con plena funcionalidad. </p>
-<p>La discapacidad mental se refiere a alteraciones del sistema neuronal que impactan en el comportamiento de una persona, de manera que no le es posible controlarlo por sí misma y pueden dificultar su interacción o convivencia en lo colectivo. Principalmente, se refiere a ciertas dificultades en el pensamiento razonado, es decir, la forma en la que las personas aprenden, comprenden, razonan, se adaptan a los cambios (conducta adaptativa) y adquieren habilidades sociales (conceptos, prácticas o relaciones), lo que significa que estas habilidades les resultan más complicadas que a la mayoría. </p>
-<p>Finalmente, la discapacidad sensorial implica limitantes estructurales o en el funcionamiento de los órganos que permiten la vista, audición, el olfato o el gusto. </p>
-<p>Entender esto nos permitirá visibilizar a las personas con discapacidad mental e intelectual y, a su vez, facilitará transitar hacia la verdadera inclusión de las mismas. </p>
-<p>No menos cierto resulta que al abordar temas relacionados con la discapacidad e incluso para diseñar y ejecutar acciones afirmativas, medidas de inclusión y de nivelación, suele identificarse más sencillamente a quienes cuentan con una discapacidad física o sensorial. Sin embargo, es igualmente importante tomar en consideración a las personas con discapacidades mentales e intelectuales para la implementación de ajustes razonables en los distintos entornos sociales, particularmente en cuanto al nicho que nos ocupa, es decir, el sector educativo. Es importante ser capaces de advertir que no consideramos que se encuentre debidamente cumplida la tarea relativa a las acciones afirmativas necesarias, medidas y ajustes razonables para quienes tienen una discapacidad física o sensorial. Esto se debe a que las políticas públicas y la idiosincrasia social aún tienen una gran deuda con este grupo, teniendo -infortunadamente, a estas alturas del siglo XXI- grandes desafíos y cuentas pendientes. No obstante, percibimos que existe un mayor desconocimiento, falta de sensibilidad e inclusión para quienes cuentan con una discapacidad mental o intelectual en la educación superior tanto pública como privada, situación que debe atenderse con urgencia. </p>
-</sec>
-<sec>
-<title>III. Educación inclusiva para personas con discapacidad mental e intelectual. La necesidad de elaborar protocolos personalizados para la implementación de ajustes razonables</title>
-<p>La educación inclusiva es un derecho humano, la constitución política de los Estados Unidos Mexicanos consagra, en su artículo tercero, que habrán de tomarse en consideración las circunstancias, necesidades, limitaciones y las capacidades del educando para garantizar su acceso y permanencia efectiva en el sistema educativo, eliminando las barreras del aprendizaje y de la interacción o participación. En efecto, “[…] podemos afirmar que el derecho de la discapacidad está relacionado íntimamente con los derechos fundamentales y, muy especialmente con la efectiva aplicación del principio de igualdad y con el diseño de políticas eficaces que actúen contra toda discriminación”. <xref ref-type="fn" rid="fn11"><sup>11</sup></xref>
-</p>
-<p>Debemos comprender que en la actualidad el sistema educativo debe adaptarse a las personas con discapacidad y no ellas al sistema común y corriente. Es por esa razón hemos transitado del modelo de educación especial al modelo de educación integradora y de este último al modelo de educación inclusiva, como lo explica el colombiano Biel Portero citando las pautas para la inclusión de la Organización de las Naciones Unidas para Educación, la Cultura y la Ciencia (UNESCO): </p>
-<disp-quote>
-<p>En el fondo de la cuestión, más que tratarse de un asunto sobre cómo determinados estudiantes pueden integrarse en la educación ordinaria, la inclusión en la educación supone un enfoque dirigido a transformar los sistemas educativos y los entornos relacionados con el aprendizaje para que puedan ofrecer una respuesta adecuada a la diversidad de los estudiantes<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>. </p>
-</disp-quote>
-<p>Habremos de resaltar que para garantizar el derecho humano a la educación de carácter inclusivo deben implementarse acciones afirmativas, medidas de inclusión y, desde luego, medidas de nivelación eficientes. Para el modelo que nos ocupa, es particularmente relevante la detección e identificación oportuna del sector estudiantil con discapacidad mental o intelectual. Esto requiere acciones muy particulares, dado que suele resultar más difícil detectar alguna discapacidad mental o intelectual, que una de naturaleza física o sensorial, debido a la gran variedad de condiciones que pueden provocarlas, así como distintos niveles dentro de cada condición. </p>
-<p>Nuestra aportación o propuesta para el avance del conocimiento en campo de la educación inclusiva radica en puntualizar la necesidad de realizar protocolos <italic>ad hoc</italic> o personalizados para quienes tienen una discapacidad mental o intelectual una vez que han sido identificadas por los instrumentos correspondientes desde el trámite administrativo para el ingreso al sistema universitario. Por lo tanto, nosotros consideramos inexorable que las instituciones de educación superior cuenten con una unidad de inclusión que funcione a través de un equipo multidisciplinario integrado por personas expertas en psicología, neurología, psiquiatría, educación y trabajo social, con el objetivo de lograr la detección temprana de personas con capacidades cognitivas distintas. Esto significa que, desde la solicitud y el inicio de los trámites administrativos para el ingreso a los programas de estudios que ofrece cada universidad, se soliciten los documentos necesarios y se apliquen los estudios pertinentes para identificar con meridiana claridad a las personas que se encuentran dentro de estos sectores. Además, es fundamental establecer un programa de seguimiento o acompañamiento permanente para elaborar un protocolo idóneo y proporcional para cada persona, que incluya los ajustes razonables que debe realizar el personal docente, administrativo y los pares estudiantes de la persona con discapacidad mental o intelectual. Este protocolo personalizado implica una serie de recomendaciones o lineamientos elaborado por personas expertas que integran el equipo multidisciplinario, mismas que deben de socializarse con quienes convivan dentro del sector educativo con la persona con discapacidad mental o intelectual, dichos lineamientos habrán de ser personalizados atendiendo al tipo y nivel de la condición con la que cuente cada persona. </p>
-<p>Nosotros consideramos que, si bien es cierto que puede existir un protocolo general para la detección y seguimiento de la discapacidad mental o intelectual, no resulta conveniente establecer lineamientos generales para la atención y seguimiento de cada condición que ocasione la discapacidad mental o intelectual, ya que existen discapacidades leves, moderadas, graves o incluso la coexistencia de varias especies de discapacidades en una misma persona que hacen muy particular el tipo de ajustes razonables para cada una de ellas. </p>
-<p>Podemos establecer políticas generales para la detección de la discapacidad mental o intelectual, pero una vez identificada la persona debe de elaborarse un protocolo personalizado que responda eficientemente al tipo y nivel de discapacidad o discapacidades que presente. Este protocolo debe ser adecuadamente socializado dentro de la institución de educación superior. Solo entonces se podrá visibilizar y garantizar la inclusión de las personas con discapacidad mental e intelectual. Por tanto, podemos colegir que: </p>
-<disp-quote>
-<p>conseguir la innovación y la inclusión en la educación superior implica transformar el modelo educativo tradicional hacia uno más flexible, equitativo y centrado en el estudiante. Esto comienza con el desarrollo de políticas institucionales que garanticen el acceso y permanencia de estudiantes de diversos contextos sociales, culturales y económicos<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>. </p>
-</disp-quote>
-</sec>
-<sec>
-<title>IV. Conocimiento práctico o empírico sobre la discapacidad mental e intelectual en la educación superior</title>
-<p>En el decurso del ejercicio de la docencia y de la tutoría, esta autoría ha sido capaz de advertir las deficiencias en torno a la capacitación docente y las dificultades relativas a la sensibilización, detección y seguimiento o atención permanente de personas con discapacidad mental o intelectual en instituciones de educación superior. El documento conocido como DSM-5 es un instrumento internacional que:</p>
-<disp-quote>
-<p>ha supuesto mucha reflexión y deliberación para evaluar los criterios diagnósticos, teniendo en cuenta la organización de cada aspecto del manual y creando nuevas características que se estimaron más útiles para los clínicos. Todos estos esfuerzos han ido dirigidos hacia el objetivo de aumentar la utilidad clínica del DSM-5 como guía para el diagnóstico de los trastornos mentales<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>. </p>
-</disp-quote>
-<p>En esta guía se reconocen y definen condiciones que afectan la salud mental, tales como los trastornos del neurodesarrollo, espectros de la esquizofrenia, trastorno bipolar, depresivo, de ansiedad, de la personalidad, entre otros. Evidentemente, la generalidad de las personas docentes se encuentra ante la imposibilidad de interpretar esta guía u otra literatura especializada para detectar y proceder ante este tipo de condiciones, en virtud de que se requiere la intervención de personal experto que apoye y se coordine con la docencia para tal efecto, mismo que se encuentra limitado cualitativa y cuantitativamente en la mayoría de las instituciones de educación superior públicas y como privadas o incluso en situación de inexistencia. Por lo que, ante el comportamiento indebidamente y prejuiciosamente etiquetado como indiferente, apático, incluso irritable de algunas personas pertenecientes a la comunidad estudiantil, suele reaccionarse con sanciones académicas como hacerles abandonar aula de clase o disminuir sus calificaciones. </p>
-<p>Infortunadamente, en nuestra experiencia no ha sido poco frecuente recomendar o canalizar ante autoridades académicas o defensorías de los derechos universitarios a tutorandas y tutorandos que han presentado justificantes médicos por ausencias a clases, derivadas de fuertes episodios de depresión o ansiedad debidamente certificados por médicos psiquiatras o neurólogos. Sin embargo, estos justificantes han sido rechazados o ignorados por el personal docente de diversas asignaturas, minimizando su situación o soslayando que son también condiciones que afectan la salud mental, misma que resulta igualmente justificable que un accidente, percance o condición que afecta su salud corporal. </p>
-<p>En esta tesitura se ha tenido conocimiento directo e intervención en casos concretos de estudiantes con trastorno del espectro autista, cuyos médicos tratantes -de neurología o psiquiatría- han recomendado, debido al nivel de manifestación o particularidades propias de la persona que cuenta con dicho trastorno, que el estudiante cuente con tiempo o modalidades especiales para realizar sus exámenes e incluso que no sea cuestionado frente a todo su grupo o pedirle que pase al frente a realizar algún ejercicio. Incluso se ha sugerido que este tipo de exhibiciones suele ser incompatible con personas con estas características, enfrentando la molestia, incomodidad o indiferencia del personal docente ante dicha instrucción. Empíricamente, se ha tenido contacto con personal docente que indebidamente ha externado que personas con neuro divergencias o condiciones que afectan su salud mental “no se encuentran en aptitud de obtener un título profesional”, o bien, “son personas caprichosas que requieren facilidades”, siendo que en realidad, quienes realizan ese tipo de manifestaciones son quienes ameritan una deconstrucción para desarrollar perspectiva de discapacidad y lograr distinguir entre “facilidades” o “condescendencias” y ajustes razonables. </p>
-<p>En efecto, existe la:</p>
-<disp-quote>
-<p>[…] necesidad de avanzar hacia un modelo de inclusión educativa más eficaz y generalizado, el cual requiere un compromiso más fuerte a nivel organizativo y de recursos, así como una transformación en las concepciones docentes sobre la diversidad y la inclusión. Solo con una mayor reflexión sobre el papel del maestro y una distribución equitativa de los recursos, se podrá garantizar que todos los estudiantes tengan las mismas oportunidades de progresar académica y socialmente en el marco del aprendizaje cooperativo.<xref ref-type="fn" rid="fn15"><sup>15</sup></xref>
-</p>
-</disp-quote>
-<p>Evidentemente, la responsabilidad no debe ser absoluta para el docente, en virtud de que debe contar con suficiencia de personal multidisciplinar coadyuvante para lograr detectar este tipo de condiciones y proceder de manera pertinente. Además, este equipo debe monitorear la adecuada implementación de los ajustes razonables establecidos <italic>ad hoc</italic>, con la opinión y participación de la persona interesada. Esto implicaría, incluso, la creación de unidades de inclusión para personas con discapacidad en cada facultad, escuela o instituto de educación superior, integrada por personal de trabajo social, psiquiatría, neurología y psicología. La carencia de auxiliares de la docencia que permitan detectar, implementar y mantener los ajustes razonables, se traducen en la falta de visibilización, discriminación y violación de los derechos de las personas con discapacidad mental e intelectual. </p>
-</sec>
-<sec sec-type="conclusions">
-<title>V. Conclusiones</title>
-<p>
-<list list-type="alpha-lower">
+
+
+
+
+
+
+
+
+
+
+
+
+<list list-type="roman-upper">
 <list-item>
-<p>La educación inclusiva es un modelo que permite identificar, comprender y sobre todo, atender las necesidades particulares de cada estudiante, por lo tanto, debe garantizarse que las personas con discapacidad puedan integrarse al sistema de instrucción universal, detectando y eliminando las barreras en la interacción con las personas que no cuentan con alguna discapacidad. Lo anterior fomenta irrefragablemente el pleno desarrollo de todos los grupos sociales, el aprendizaje para una convivencia armónica, la cultura de paz y el combate a la discriminación.</p>
-</list-item>
-<list-item>
-<p>Deben distinguirse con meridiana claridad los diferentes tipos de discapacidad. Entenderlos nos permitirá visibilizarlos y visibilizarlos nos permitirá garantizar el acceso de todas las personas en igualdad real de oportunidades, eliminando las barreras que obstaculizan el ejercicio de sus derechos.</p>
-</list-item>
-<list-item>
-<p>La discapacidad mental e intelectual puede ser más difícil de detectar y, por lo tanto, de atender en el sector educativo. </p>
-</list-item>
-<list-item>
-<p>Deben diseñarse y ejecutarse acciones afirmativas, medidas de inclusión y de nivelación que permitan la detección temprana de personas con discapacidad mental e intelectual. </p>
-</list-item>
-<list-item>
-<p>La detección temprana de discapacidad mental e intelectual en la educación superior debe materializarse desde la solicitud de ingreso o los trámites administrativos iniciales de las personas aspirantes. En caso de no detectarse al inicio o manifestarse supervinientemente, debe existir un programa permanente para detección y acompañamiento.</p>
-</list-item>
-<list-item>
-<p>Detectada la discapacidad mental e intelectual, deben realizarse los ajustes razonables para la permanencia de las personas estudiantes. </p>
-</list-item>
-<list-item>
-<p>Los ajustes razonables para las personas con discapacidad mental o intelectual implican la elaboración de un protocolo <italic>ad hoc</italic> o personalizado que contenga lineamientos específicos que habrán de ejecutarse sensibilizando al sector docente, administrativo y estudiantil que interactúe con la persona con discapacidad mental e intelectual. </p>
-</list-item>
-<list-item>
-<p>Las instituciones de educación superior deberán contar con un grupo multidisciplinario integrado por personas con experticia en psicología, neurología, psiquiatría, educación y trabajo social para la elaboración del protocolo general para la detección temprana de discapacidades mentales e intelectuales y, a su vez, de los protocolos personalizados para la atención, seguimiento y metodología para la enseñanza-aprendizaje de quien cuente con discapacidad mental o intelectual. </p>
+<p>INTRODUCCIÓN. LA IMPORTANCIA DE DISTINGUIR ENTRE LOS DIVERSOS
+    TIPOS DE DISCAPACIDAD</p>
 </list-item>
 </list>
-</p>
-</sec>
-</body>
+<p>Como punto de partida, resulta indispensable comprender lo que
+nuestro marco jurídico —tanto nacional como internacional— reconoce o
+define como discapacidad, así como cada una de las modalidades que la
+conforman, considerando que existen diferentes variedades que ameritan
+un análisis específico. Analizando la expresión de lo general a lo
+particular, consideramos pertinente establecer que, conforme a la Real
+Academia Española, el término “discapacidad” se entiende como: “[…]
+situación de la persona que, por sus condiciones físicas, sensoriales,
+intelectuales o mentales duraderas, encuentra dificultades para su
+participación e inclusión social”.<xref ref-type="fn" rid="fn1"><sup>1</sup></xref>
+En este orden de ideas debemos destacar que, desde el significado mismo
+de la palabra, se advierte la existencia de diversos tipos de
+condiciones que pueden provocar dificultades en la forma de convivir o
+interactuar dentro del tejido social, desde lo físico hasta lo
+intelectual o mental.</p>
+<p>Lo anterior resulta acertado, sin embargo, en ocasiones el
+significado gramatical de la palabra no logra reflejar plenamente la
+connotación jurídica o sociológica de una expresión. En el presente
+caso, se nos proporciona una idea cercana.</p>
+<p>No debemos soslayar que la expresión actualmente aceptada para
+referirse a quienes presentan alguna de las características mencionadas
+es “persona con discapacidad”. Resulta pertinente enfatizar este tópico
+en virtud de que aún suelen utilizarse expresiones como “personas con
+capacidades diferentes” o incluso otros calificativos que desbordan en
+lo peyorativo, lo cual evidentemente no es adecuado. La última de las
+expresiones aludidas puede incurrir en una perífrasis que no termina
+siendo realmente incluyente, como lo pretende.</p>
+<p>En esta tesitura sobre las expresiones como la cuestionada en supra
+líneas, es decir, personas con capacidades diferentes o especiales, se
+ha dicho que:</p>
+<p>[…] podemos comprobar que actualmente la falta de rigor o actualidad
+en el uso de denominaciones, etiquetas o diagnósticos, contribuyen a
+alimentar los prejuicios, al definir a la persona con discapacidad en
+lugar de considerarla como una condición con la que se vive. Debemos
+tomar en cuenta que, al usar estas expresiones u otras parecidas, se
+está contraviniendo a la corriente de pensamiento y a los lineamientos
+éticos-jurídicos aceptados internacionalmente. Las causas principales
+las encontramos en un déficit en la formación educativa y cultural en
+materia de discapacidad. En la actualidad, la expresión persona con
+discapacidad, es la que se considera más adecuada, tanto por los
+Organismos Internacionales, como por las organizaciones de personas con
+discapacidad, para designar con respeto y precisión a quienes por una
+particularidad biológico-conductual padecen exclusión y se ven obligadas
+a superar obstáculos impuestos y desventajas creadas por la sociedad y
+para ejercer sus derechos, llevar una vida digna y lograr la plena
+integración al desarrollo<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>.</p>
+<p>Debe resaltarse que, dentro del texto original de la Constitución
+Política de los Estados Unidos Mexicanos, con vigencia a partir del año
+1917, no se hacía referencia expresa a las personas con discapacidad. No
+fue sino hasta más de ocho décadas después del inicio de la vigencia,
+por decreto publicado en el Diario Oficial de la Federación el 14 de
+agosto del año 2001, que se incorporó al ordinal primero del Magno
+Texto, la prohibición de la discriminación basada en las capacidades
+diferentes. Posteriormente, con la publicación del diverso decreto de
+fecha 4 de diciembre de 2006, se abandonó dicha terminología para hablar
+de discriminación por razón de <italic>discapacidades</italic> de la
+siguiente manera:</p>
+<p>Artículo 1. […]</p>
+<p>Queda prohibida toda discriminación motivada por origen étnico o
+nacional, el género, la edad, <italic>las discapacidades</italic>, la
+condición social, las condiciones de salud, la religión, las opiniones,
+las preferencias sexuales, el estado civil o cualquier otra que atente
+contra la dignidad humana y tenga por objeto anular o menoscabar los
+derechos y libertades de las
+personas<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>.</p>
+<p>Lo anterior refuerza lo aseverado en torno a la expresión que goza
+actualmente de reconocimiento y aceptación, tanto social como jurídica,
+en el sistema nacional e internacional. Consideramos que no sobra
+precisarlo toda vez que no es poco frecuente que sigamos tropezando con
+personas e incluso instituciones, tanto públicas como privadas, que
+siguen refiriéndose de otras formas a las personas con discapacidad. Por
+tanto, implica lo siguiente:</p>
+<p>[…] exclusión o restricción que tenga el propósito obstaculizar o
+dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de
+condiciones, de todos los derechos humanos y libertades fundamentales en
+los ámbitos político, económico, social, cultural, civil o de otro tipo,
+incluye todas las formas de discriminación entre ellas, la denegación de
+ajustes razonables.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref></p>
+<p>En este sentido, la base para combatir la discriminación y garantizar
+la inclusión es el reconocimiento de la dignidad del ser humano. La
+concreción material de los derechos de la persona con discapacidad,
+desde una perspectiva de integración e igualdad, no opera desde su
+situación particular, sino desde su carácter como sujetos de pleno
+derecho en el Estado Constitucional. Para ello, existen dos grandes
+herramientas: la consagración en el ordenamiento jurídico y la
+materialización del derecho a la educación inclusiva, según lo explica
+Mijancos Garruchaga<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>. Ahora bien,
+una vez precisada la denominación, debemos agregar que en la
+Constitución mexicana solo se establecen las bases de los derechos
+fundamentales a la inclusión, la igualdad y la no discriminación. No
+obstante, en lo inherente al tema que nos ocupa —la noción jurídica y
+especies de discapacidad—habremos de acudir a la legislación secundaria
+para conocer su desarrollo.</p>
+<p>En efecto, la Ley General para la Inclusión de las Personas con
+Discapacidad determina, en la novena porción normativa de su segundo
+arábigo, que la discapacidad es:</p>
+<p>[…] la consecuencia de la presencia de una deficiencia o limitación
+en una persona, que al interactuar con las barreras que le impone el
+entorno social, pueda impedir su inclusión plena y efectiva en la
+sociedad, en igualdad de condiciones con los
+demás.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref></p>
+<p>A nuestra consideración, podemos desglosar y explicar esta definición
+legislativa en los siguientes elementos:</p>
+<p>a. <bold>Deficiencia o limitación de una persona.</bold> Aunque en
+diversos instrumentos jurídicos —tanto nacionales como internacionales—
+se utilizan y validan estas palabras, preferimos considerarles
+dificultades o particularidades físicas, mentales, intelectuales o
+sensoriales del ser humano. Estas implican un desempeño diverso al de la
+generalidad en un contexto social. Lo anterior obedece a que, como se
+puntualizará enseguida, las limitaciones son impuestas por la
+colectividad y el entono, ya que, de existir un contexto verdaderamente
+inclusivo, tales características no deberían considerarse obstáculos o
+deficiencias, sobre todo si logramos comprender que tal término en
+realidad se refiere a una imperfección o defecto y que, en realidad,
+todas las personas somos imperfectas, con carencias y defectos. El
+prefijo <italic>dis</italic> implica una negación, dificultad o
+distinción, que aunado a la palabra capacidad nos lleva a la idea de una
+capacidad para adaptarse al entorno una mayor dificultad. Sin embargo,
+por tratarse de expresiones validadas internacionalmente, las
+retomaremos en parágrafos posteriores.</p>
+<p>b<italic>.</italic> <bold>Barreras que impone el entorno
+social.</bold> Acertadamente, el legislador considera que las barreras
+de las personas con discapacidad no resultan auto impuestas o inherentes
+a su voluntad, sino al entorno de los seres que mayoritariamente forman
+parte el tejido social, toda vez que en la pluralidad de sujetos que
+integramos la colectividad se genera la organización y dinámica para
+vivir y convivir, lo que infortunadamente puede crear barreras de
+diversa naturaleza para quienes cuentan con alguna forma de
+discapacidad. Sobre este punto, la Organización de las Naciones Unidas
+se ha pronunciado explicando lo siguiente:</p>
+<p>[…] La discapacidad radica en la sociedad, no en la persona. Es
+posible que una persona en silla de ruedas tenga dificultades para
+obtener empleo remunerado, no debido a su condición, sino porque hay
+obstáculos ambientales que le impiden el acceso, por ejemplo, autobuses
+inaccesibles o escaleras que no puede utilizar en el lugar de trabajo.
+Un niño o niña que tenga una discapacidad intelectual puede tener
+dificultades en la escuela debido a la actitud de los maestros hacia él
+o ella, un plan de estudios o materiales didácticos poco apropiados,
+juntas escolares inflexibles y padres que son incapaces de adaptarse a
+alumnos con capacidad distinta de aprendizaje. En una sociedad en la que
+existan lentes correctoras para las personas con miopía extrema —cortas
+de vista—, no se consideraría que esas personas tengan una discapacidad.
+Pero alguien en la misma situación en una sociedad en la que no se
+disponga de lentes correctoras sería considerado como persona con
+discapacidad, especialmente si no pudiera ejecutar las tareas que se
+espere de ella, como cuidar ganado, coser o cultivar la tierra.
+<xref ref-type="fn" rid="fn7"><sup>7</sup></xref></p>
+<p>c<italic>.</italic> <bold>Riesgo de impedir la inclusión.</bold> Las
+barreras que impone el tejido social se traducen en el peligro real para
+impedir la integración efectiva de las personas con discapacidad en el
+contexto social, desde una interacción o participación activa en el
+sector laboral, educativo o recreativo.</p>
+<p>Por su parte, en el marco jurídico internacional se reconoce que:</p>
+<p>[…] la discapacidad es un concepto que evoluciona y que resulta de la
+interacción entre las personas con deficiencias y las barreras debidas a
+la actitud y al entorno que evitan su participación plena y efectiva en
+la sociedad, en igualdad de condiciones con las demás […] Las personas
+con discapacidad incluyen a aquellas que tengan deficiencias físicas,
+mentales, intelectuales o sensoriales a largo plazo que, al interactuar
+con diversas barreras, puedan impedir su participación plena y efectiva
+en la sociedad, en igualdad de condiciones con las
+demás.<xref ref-type="fn" rid="fn8"><sup>8</sup></xref></p>
+<p>Finalmente, consideramos pertinente poner en relieve que, para el
+sistema interamericano de los derechos humanos, la discapacidad
+significa:</p>
+<p>[…] una deficiencia física, mental o sensorial, ya sea de naturaleza
+permanente o temporal, que limita la capacidad de ejercer una o más
+actividades esenciales de la vida diaria, que puede ser causada o
+agravada por el entorno económico y
+social.<xref ref-type="fn" rid="fn9"><sup>9</sup></xref></p>
+<p>Lo anterior, además de precisar la noción aceptada de la
+discapacidad, nos permite ser capaces de advertir que desde la normativa
+internacional se precisan con meridiana claridad las distintas especies
+de discapacidad, como se desarrollará a continuación.</p>
+<list list-type="roman-upper">
+<list-item>
+<label>II.</label>
+<p>DE LOS DIFERENTES TIPOS DE DISCAPACIDAD</p>
+</list-item>
+</list>
+<p>Sin duda, el conocimiento permite visibilizar la problemática, por lo
+tanto, distinguiremos con puntualidad los diversos tipos de
+discapacidad. Tal como mencionamos anteriormente al referirnos al marco
+jurídico internacional —mencionado en líneas anteriores—, estas
+disposiciones contenidas en instrumentos internacionales se desarrollan
+en nuestra legislación interna. En esta última se deja debidamente
+puntualizado que se reconocen cuatro grandes tipos: 1. física, 2.
+mental, 3. intelectual y 4. sensorial, de la siguiente forma:</p>
+<sec><title>Discapacidad física.</title><p>Es la secuela o malformación que
+deriva de una afección en el sistema neuromuscular a nivel central o
+periférico, dando como resultado alteraciones en el control del
+movimiento y la postura, y que al interactuar con las barreras que le
+impone el entorno social, pueda impedir su inclusión plena y efectiva en
+la sociedad, en igualdad de condiciones con los demás;</p>
+</sec><sec><title>Discapacidad mental.</title><p>A la alteración o deficiencia en el
+sistema neuronal de una persona, que aunado a una sucesión de hechos que
+no puede manejar, detona un cambio en su comportamiento que dificulta su
+pleno desarrollo y convivencia social, y que al interactuar con las
+barreras que le impone el entorno social, pueda impedir su inclusión
+plena y efectiva en la sociedad, en igualdad de condiciones con los
+demás. Discapacidad Intelectual. Se caracteriza por limitaciones
+significativas tanto en la estructura del pensamiento razonado, como en
+la conducta adaptativa de la persona, y que al interactuar con las
+barreras que le impone el entorno social, pueda impedir su inclusión
+plena y efectiva en la sociedad, en igualdad de condiciones con los
+demás;Discapacidad sensorial.Es la deficiencia estructural o
+funcional de los órganos de la visión, audición, tacto, olfato y gusto,
+así como de las estructuras y funciones asociadas a cada uno de ellos, y
+que al interactuar con las barreras que le impone el entorno social,
+pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad
+de condiciones con los
+demás.13</p>
+<p>En esta tesitura, podemos comprender que la discapacidad física
+encuentra relación con temas neuromusculares que afectan de manera
+esencial al movimiento o la postura en lo inherente a la dificultad o
+imposibilidad de controlarle con plena funcionalidad.</p>
+<p>La discapacidad mental se refiere a alteraciones del sistema neuronal
+que impactan en el comportamiento de una persona, de manera que no le es
+posible controlarlo por sí misma y pueden dificultar su interacción o
+convivencia en lo colectivo. Principalmente, se refiere a ciertas
+dificultades en el pensamiento razonado, es decir, la forma en la que
+las personas aprenden, comprenden, razonan, se adaptan a los cambios
+(conducta adaptativa) y adquieren habilidades sociales (conceptos,
+prácticas o relaciones), lo que significa que estas habilidades les
+resultan más complicadas que a la mayoría.</p>
+<p>Finalmente, la discapacidad sensorial implica limitantes
+estructurales o en el funcionamiento de los órganos que permiten la
+vista, audición, el olfato o el gusto.</p>
+<p>Entender esto nos permitirá visibilizar a las personas con
+discapacidad mental e intelectual y, a su vez, facilitará transitar
+hacia la verdadera inclusión de las mismas.</p>
+<p>No menos cierto resulta que al abordar temas relacionados con la
+discapacidad e incluso para diseñar y ejecutar acciones afirmativas,
+medidas de inclusión y de nivelación, suele identificarse más
+sencillamente a quienes cuentan con una discapacidad física o sensorial.
+Sin embargo, es igualmente importante tomar en consideración a las
+personas con discapacidades mentales e intelectuales para la
+implementación de ajustes razonables en los distintos entornos sociales,
+particularmente en cuanto al nicho que nos ocupa, es decir, el sector
+educativo. Es importante ser capaces de advertir que no consideramos que
+se encuentre debidamente cumplida la tarea relativa a las acciones
+afirmativas necesarias, medidas y ajustes razonables para quienes tienen
+una discapacidad física o sensorial. Esto se debe a que las políticas
+públicas y la idiosincrasia social aún tienen una gran deuda con este
+grupo, teniendo —infortunadamente, a estas alturas del siglo XXI—
+grandes desafíos y cuentas pendientes. No obstante, percibimos que
+existe un mayor desconocimiento, falta de sensibilidad e inclusión para
+quienes cuentan con una discapacidad mental o intelectual en la
+educación superior tanto pública como privada, situación que debe
+atenderse con urgencia.</p>
+<list list-type="roman-upper">
+<list-item>
+<label>III.</label>
+<p>EDUCACIÓN INCLUSIVA PARA PERSONAS CON DISCAPACIDAD MENTAL E
+    INTELECTUAL. LA NECESIDAD DE ELABORAR PROTOCOLOS PERSONALIZADOS PARA
+    LA IMPLEMENTACIÓN DE AJUSTES RAZONABLES</p>
+</list-item>
+</list>
+<p>La educación inclusiva es un derecho humano, la constitución política
+de los Estados Unidos Mexicanos consagra, en su artículo tercero, que
+habrán de tomarse en consideración las circunstancias, necesidades,
+limitaciones y las capacidades del educando para garantizar su acceso y
+permanencia efectiva en el sistema educativo, eliminando las barreras
+del aprendizaje y de la interacción o participación. En efecto, “[…]
+podemos afirmar que el derecho de la discapacidad está relacionado
+íntimamente con los derechos fundamentales y, muy especialmente con la
+efectiva aplicación del principio de igualdad y con el diseño de
+políticas eficaces que actúen contra toda discriminación”.
+<xref ref-type="fn" rid="fn10"><sup>10</sup></xref></p>
+<p>Debemos comprender que en la actualidad el sistema educativo debe
+adaptarse a las personas con discapacidad y no ellas al sistema común y
+corriente. Es por esa razón hemos transitado del modelo de educación
+especial al modelo de educación integradora y de este último al modelo
+de educación inclusiva, como lo explica el colombiano Biel Portero
+citando las pautas para la inclusión de la Organización de las Naciones
+Unidas para Educación, la Cultura y la Ciencia (UNESCO):</p>
+<p>En el fondo de la cuestión, más que tratarse de un asunto sobre cómo
+determinados estudiantes pueden integrarse en la educación ordinaria, la
+inclusión en la educación supone un enfoque dirigido a transformar los
+sistemas educativos y los entornos relacionados con el aprendizaje para
+que puedan ofrecer una respuesta adecuada a la diversidad de los
+estudiantes<xref ref-type="fn" rid="fn11"><sup>11</sup></xref>.</p>
+<p>Habremos de resaltar que para garantizar el derecho humano a la
+educación de carácter inclusivo deben implementarse acciones
+afirmativas, medidas de inclusión y, desde luego, medidas de nivelación
+eficientes. Para el modelo que nos ocupa, es particularmente relevante
+la detección e identificación oportuna del sector estudiantil con
+discapacidad mental o intelectual. Esto requiere acciones muy
+particulares, dado que suele resultar más difícil detectar alguna
+discapacidad mental o intelectual, que una de naturaleza física o
+sensorial, debido a la gran variedad de condiciones que pueden
+provocarlas, así como distintos niveles dentro de cada condición.</p>
+<p>Nuestra aportación o propuesta para el avance del conocimiento en
+campo de la educación inclusiva radica en puntualizar la necesidad de
+realizar protocolos <italic>ad hoc</italic> o personalizados para
+quienes tienen una discapacidad mental o intelectual una vez que han
+sido identificadas por los instrumentos correspondientes desde el
+trámite administrativo para el ingreso al sistema universitario. Por lo
+tanto, nosotros consideramos inexorable que las instituciones de
+educación superior cuenten con una unidad de inclusión que funcione a
+través de un equipo multidisciplinario integrado por personas expertas
+en psicología, neurología, psiquiatría, educación y trabajo social, con
+el objetivo de lograr la detección temprana de personas con capacidades
+cognitivas distintas. Esto significa que, desde la solicitud y el inicio
+de los trámites administrativos para el ingreso a los programas de
+estudios que ofrece cada universidad, se soliciten los documentos
+necesarios y se apliquen los estudios pertinentes para identificar con
+meridiana claridad a las personas que se encuentran dentro de estos
+sectores. Además, es fundamental establecer un programa de seguimiento o
+acompañamiento permanente para elaborar un protocolo idóneo y
+proporcional para cada persona, que incluya los ajustes razonables que
+debe realizar el personal docente, administrativo y los pares
+estudiantes de la persona con discapacidad mental o intelectual. Este
+protocolo personalizado implica una serie de recomendaciones o
+lineamientos elaborado por personas expertas que integran el equipo
+multidisciplinario, mismas que deben de socializarse con quienes
+convivan dentro del sector educativo con la persona con discapacidad
+mental o intelectual, dichos lineamientos habrán de ser personalizados
+atendiendo al tipo y nivel de la condición con la que cuente cada
+persona.</p>
+<p>Nosotros consideramos que, si bien es cierto que puede existir un
+protocolo general para la detección y seguimiento de la discapacidad
+mental o intelectual, no resulta conveniente establecer lineamientos
+generales para la atención y seguimiento de cada condición que ocasione
+la discapacidad mental o intelectual, ya que existen discapacidades
+leves, moderadas, graves o incluso la coexistencia de varias especies de
+discapacidades en una misma persona que hacen muy particular el tipo de
+ajustes razonables para cada una de ellas.</p>
+<p>Podemos establecer políticas generales para la detección de la
+discapacidad mental o intelectual, pero una vez identificada la persona
+debe de elaborarse un protocolo personalizado que responda
+eficientemente al tipo y nivel de discapacidad o discapacidades que
+presente. Este protocolo debe ser adecuadamente socializado dentro de la
+institución de educación superior. Solo entonces se podrá visibilizar y
+garantizar la inclusión de las personas con discapacidad mental e
+intelectual. Por tanto, podemos colegir que:</p>
+<p>conseguir la innovación y la inclusión en la educación superior
+implica transformar el modelo educativo tradicional hacia uno más
+flexible, equitativo y centrado en el estudiante. Esto comienza con el
+desarrollo de políticas institucionales que garanticen el acceso y
+permanencia de estudiantes de diversos contextos sociales, culturales y
+económicos<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>.</p>
+<list list-type="roman-upper">
+<list-item>
+<label>IV.</label>
+<p>CONOCIMIENTO PRÁCTICO O EMPÍRICO SOBRE LA DISCAPACIDAD MENTAL E
+    INTELECTUAL EN LA EDUCACIÓN SUPERIOR</p>
+</list-item>
+</list>
+<p>En el decurso del ejercicio de la docencia y de la tutoría, esta
+autoría ha sido capaz de advertir las deficiencias en torno a la
+capacitación docente y las dificultades relativas a la sensibilización,
+detección y seguimiento o atención permanente de personas con
+discapacidad mental o intelectual en instituciones de educación
+superior. El documento conocido como DSM-5 es un instrumento
+internacional que:</p>
+<p>ha supuesto mucha reflexión y deliberación para evaluar los criterios
+diagnósticos, teniendo en cuenta la organización de cada aspecto del
+manual y creando nuevas características que se estimaron más útiles para
+los clínicos. Todos estos esfuerzos han ido dirigidos hacia el objetivo
+de aumentar la utilidad clínica del DSM-5 como guía para el diagnóstico
+de los trastornos mentales<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>.</p>
+<p>En esta guía se reconocen y definen condiciones que afectan la salud
+mental, tales como los trastornos del neurodesarrollo, espectros de la
+esquizofrenia, trastorno bipolar, depresivo, de ansiedad, de la
+personalidad, entre otros. Evidentemente, la generalidad de las personas
+docentes se encuentra ante la imposibilidad de interpretar esta guía u
+otra literatura especializada para detectar y proceder ante este tipo de
+condiciones, en virtud de que se requiere la intervención de personal
+experto que apoye y se coordine con la docencia para tal efecto, mismo
+que se encuentra limitado cualitativa y cuantitativamente en la mayoría
+de las instituciones de educación superior públicas y como privadas o
+incluso en situación de inexistencia. Por lo que, ante el comportamiento
+indebidamente y prejuiciosamente etiquetado como indiferente, apático,
+incluso irritable de algunas personas pertenecientes a la comunidad
+estudiantil, suele reaccionarse con sanciones académicas como hacerles
+abandonar aula de clase o disminuir sus calificaciones.</p>
+<p>Infortunadamente, en nuestra experiencia no ha sido poco frecuente
+recomendar o canalizar ante autoridades académicas o defensorías de los
+derechos universitarios a tutorandas y tutorandos que han presentado
+justificantes médicos por ausencias a clases, derivadas de fuertes
+episodios de depresión o ansiedad debidamente certificados por médicos
+psiquiatras o neurólogos. Sin embargo, estos justificantes han sido
+rechazados o ignorados por el personal docente de diversas asignaturas,
+minimizando su situación o soslayando que son también condiciones que
+afectan la salud mental, misma que resulta igualmente justificable que
+un accidente, percance o condición que afecta su salud corporal.</p>
+<p>En esta tesitura se ha tenido conocimiento directo e intervención en
+casos concretos de estudiantes con trastorno del espectro autista, cuyos
+médicos tratantes —de neurología o psiquiatría— han recomendado, debido
+al nivel de manifestación o particularidades propias de la persona que
+cuenta con dicho trastorno, que el estudiante cuente con tiempo o
+modalidades especiales para realizar sus exámenes e incluso que no sea
+cuestionado frente a todo su grupo o pedirle que pase al frente a
+realizar algún ejercicio. Incluso se ha sugerido que este tipo de
+exhibiciones suele ser incompatible con personas con estas
+características, enfrentando la molestia, incomodidad o indiferencia del
+personal docente ante dicha instrucción. Empíricamente, se ha tenido
+contacto con personal docente que indebidamente ha externado que
+personas con neuro divergencias o condiciones que afectan su salud
+mental “no se encuentran en aptitud de obtener un título profesional”, o
+bien, “son personas caprichosas que requieren facilidades”, siendo que
+en realidad, quienes realizan ese tipo de manifestaciones son quienes
+ameritan una deconstrucción para desarrollar perspectiva de discapacidad
+y lograr distinguir entre “facilidades” o “condescendencias” y ajustes
+razonables.</p>
+<p>En efecto, existe la:</p>
+<p>[…] necesidad de avanzar hacia un modelo de inclusión educativa más
+eficaz y generalizado, el cual requiere un compromiso más fuerte a nivel
+organizativo y de recursos, así como una transformación en las
+concepciones docentes sobre la diversidad y la inclusión. Solo con una
+mayor reflexión sobre el papel del maestro y una distribución equitativa
+de los recursos, se podrá garantizar que todos los estudiantes tengan
+las mismas oportunidades de progresar académica y socialmente en el
+marco del aprendizaje
+cooperativo.<xref ref-type="fn" rid="fn14"><sup>14</sup></xref></p>
+<p>Evidentemente, la responsabilidad no debe ser absoluta para el
+docente, en virtud de que debe contar con suficiencia de personal
+multidisciplinar coadyuvante para lograr detectar este tipo de
+condiciones y proceder de manera pertinente. Además, este equipo debe
+monitorear la adecuada implementación de los ajustes razonables
+establecidos <italic>ad hoc</italic>, con la opinión y participación de
+la persona interesada. Esto implicaría, incluso, la creación de unidades
+de inclusión para personas con discapacidad en cada facultad, escuela o
+instituto de educación superior, integrada por personal de trabajo
+social, psiquiatría, neurología y psicología. La carencia de auxiliares
+de la docencia que permitan detectar, implementar y mantener los ajustes
+razonables, se traducen en la falta de visibilización, discriminación y
+violación de los derechos de las personas con discapacidad mental e
+intelectual.</p>
+</sec><sec sec-type="conclusions"><title>V. Conclusiones</title>
+<list list-type="alpha-lower">
+<list-item>
+<label>a)</label>
+<p>La educación inclusiva es un modelo que permite identificar,
+    comprender y sobre todo, atender las necesidades particulares de
+    cada estudiante, por lo tanto, debe garantizarse que las personas
+    con discapacidad puedan integrarse al sistema de instrucción
+    universal, detectando y eliminando las barreras en la interacción
+    con las personas que no cuentan con alguna discapacidad. Lo anterior
+    fomenta irrefragablemente el pleno desarrollo de todos los grupos
+    sociales, el aprendizaje para una convivencia armónica, la cultura
+    de paz y el combate a la discriminación.</p>
+</list-item>
+<list-item>
+<label>b)</label>
+<p>Deben distinguirse con meridiana claridad los diferentes tipos de
+    discapacidad. Entenderlos nos permitirá visibilizarlos y
+    visibilizarlos nos permitirá garantizar el acceso de todas las
+    personas en igualdad real de oportunidades, eliminando las barreras
+    que obstaculizan el ejercicio de sus derechos.</p>
+</list-item>
+<list-item>
+<label>c)</label>
+<p>La discapacidad mental e intelectual puede ser más difícil de
+    detectar y, por lo tanto, de atender en el sector educativo.</p>
+</list-item>
+<list-item>
+<label>d)</label>
+<p>Deben diseñarse y ejecutarse acciones afirmativas, medidas de
+    inclusión y de nivelación que permitan la detección temprana de
+    personas con discapacidad mental e intelectual.</p>
+</list-item>
+<list-item>
+<label>e)</label>
+<p>La detección temprana de discapacidad mental e intelectual en la
+    educación superior debe materializarse desde la solicitud de ingreso
+    o los trámites administrativos iniciales de las personas aspirantes.
+    En caso de no detectarse al inicio o manifestarse
+    supervinientemente, debe existir un programa permanente para
+    detección y acompañamiento.</p>
+</list-item>
+<list-item>
+<label>f)</label>
+<p>Detectada la discapacidad mental e intelectual, deben realizarse
+    los ajustes razonables para la permanencia de las personas
+    estudiantes.</p>
+</list-item>
+<list-item>
+<label>g)</label>
+<p>Los ajustes razonables para las personas con discapacidad mental
+    o intelectual implican la elaboración de un protocolo <italic>ad
+    hoc</italic> o personalizado que contenga lineamientos específicos
+    que habrán de ejecutarse sensibilizando al sector docente,
+    administrativo y estudiantil que interactúe con la persona con
+    discapacidad mental e intelectual.</p>
+</list-item>
+<list-item>
+<label>h)</label>
+<p>Las instituciones de educación superior deberán contar con un
+    grupo multidisciplinario integrado por personas con experticia en
+    psicología, neurología, psiquiatría, educación y trabajo social para
+    la elaboración del protocolo general para la detección temprana de
+    discapacidades mentales e intelectuales y, a su vez, de los
+    protocolos personalizados para la atención, seguimiento y
+    metodología para la enseñanza-aprendizaje de quien cuente con
+    discapacidad mental o intelectual.</p>
+</list-item>
+</list>
+<list list-type="roman-upper">
+<list-item>
+<label>VI.</label>
+
+</list-item>
+</list>
+
+
+
+
+
+
+
+
+
+
+
+
+</sec><sec><title>Legislaciones</title>
+
+
+</sec></body>
 <back>
-<ref-list>
-<title>VI. Referencias bibliográficas</title>
-<ref id="B1">
-<mixed-citation>Alto Comisionado de las Naciones Unidas para los Derechos Humanos. Discapacidad, de la exclusión a la igualdad hacia el pleno ejercicio de los derechos de las personas con discapacidad. Naciones Unidas, 2007.</mixed-citation>
-<element-citation publication-type="other">
-<source>Alto Comisionado de las Naciones Unidas para los Derechos Humanos. Discapacidad, de la exclusión a la igualdad hacia el pleno ejercicio de los derechos de las personas con discapacidad. Naciones Unidas</source>
-<year>2007</year>
-</element-citation>
-</ref>
-<ref id="B2">
-<mixed-citation>Asociación Americana de Psiquiatría. Manual Diagnóstico y Estadístico de los Trastornos. España: Editorial Médica Panamericana, 2014.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<collab>Asociación Americana de Psiquiatría</collab>
-</person-group>
-<source>Manual Diagnóstico y Estadístico de los Trastornos</source>
-<publisher-loc>España</publisher-loc>
-<publisher-name>Editorial Médica Panamericana</publisher-name>
-<year>2014</year>
-</element-citation>
-</ref>
-<ref id="B3">
-<mixed-citation>Biel Portero, Israel. Los derechos humanos de las personas con discapacidad. Valencia: Tirant Lo Blanch, 2011.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Biel Portero</surname>
-<given-names>Israel</given-names>
-</name>
-</person-group>
-<source>Los derechos humanos de las personas con discapacidad</source>
-<publisher-loc>Valencia</publisher-loc>
-<publisher-name>Tirant Lo Blanch</publisher-name>
-<year>2011</year>
-</element-citation>
-</ref>
-<ref id="B4">
-<mixed-citation>Comisión Nacional de los Derechos Humanos. “Convención Interamericana para la Eliminación de Todas las Formas de Discriminación Contra las Personas con Discapacidad”. Acceso el 27 de marzo de 2024. <comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source">https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source</ext-link>
-</comment>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>Comisión Nacional de los Derechos Humanos</collab>
-</person-group>
-<source>Convención Interamericana para la Eliminación de Todas las Formas de Discriminación Contra las Personas con Discapacidad</source>
-<date-in-citation content-type="access-date" iso-8601-date="2024-03-27">27 de marzo de 2024</date-in-citation>
-<comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source">https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source</ext-link>
-</comment>
-</element-citation>
-</ref>
-<ref id="B5">
-<mixed-citation>Diccionario de la Real Academia Española, “Discapacidad”. <ext-link ext-link-type="uri" xlink:href="https://dle.rae.es/discapacidad">https://dle.rae.es/discapacidad</ext-link>
-</mixed-citation>
-<element-citation publication-type="webpage">
-<person-group person-group-type="author">
-<collab>Diccionario de la Real Academia Española</collab>
-</person-group>
-<source>Discapacidad</source>
-<ext-link ext-link-type="uri" xlink:href="https://dle.rae.es/discapacidad">https://dle.rae.es/discapacidad</ext-link>
-</element-citation>
-</ref>
-<ref id="B6">
-<mixed-citation>Fajardo Martínez, Carmen María. “Discapacidad intelectual y capacidad de obrar, de la sustitución de la voluntad al apoyo en la toma de decisiones”. En Discapacidad intelectual y capacidad de obrar, de la sustitución de la voluntad al apoyo en la toma de decisiones, dirigido por Juana Morcillo Moreno. Valencia: Tirant Lo Blanch, 2019.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Fajardo Martínez</surname>
-<given-names>Carmen María</given-names>
-</name>
-</person-group>
-<chapter-title>Discapacidad intelectual y capacidad de obrar, de la sustitución de la voluntad al apoyo en la toma de decisiones</chapter-title>
-<source>Discapacidad intelectual y capacidad de obrar, de la sustitución de la voluntad al apoyo en la toma de decisiones, dirigido por Juana Morcillo Moreno</source>
-<publisher-loc>Valencia</publisher-loc>
-<publisher-name>Tirant Lo Blanch</publisher-name>
-<year>2019</year>
-</element-citation>
-</ref>
-<ref id="B7">
-<mixed-citation>Louleli, Natalia. “¿Cómo se puede conseguir la innovación y la inclusión en la educación superior?” En Innovar para incluir. La educación superior como motor de sociedades resilientes, coordinado por María Orcasitas-Vicandi, Gorka Roman y Natalia Loudeli. Valencia: Tirant Humanidades, 2025.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Louleli</surname>
-<given-names>Natalia</given-names>
-</name>
-</person-group>
-<chapter-title>¿Cómo se puede conseguir la innovación y la inclusión en la educación superior?</chapter-title>
-<source>Innovar para incluir. La educación superior como motor de sociedades resilientes</source>
-<person-group person-group-type="author">
-<name>
-<surname>Orcasitas-Vicandi</surname>
-<given-names>María</given-names>
-</name>
-<name>
-<surname>Roman</surname>
-<given-names>Gorka</given-names>
-</name>
-<name>
-<surname>Loudeli</surname>
-<given-names>Natalia</given-names>
-</name>
-</person-group>
-<publisher-loc>Valencia</publisher-loc>
-<publisher-name>Tirant Humanidades</publisher-name>
-<year>2025</year>
-</element-citation>
-</ref>
-<ref id="B8">
-<mixed-citation>Lozano Molina, Tomás. Discapacidad y algunos de sus problemas. México: Tirant Lo Blanch, 2025.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Lozano Molina</surname>
-<given-names>Tomás</given-names>
-</name>
-</person-group>
-<source>Discapacidad y algunos de sus problemas</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Tirant Lo Blanch</publisher-name>
-<year>2025</year>
-</element-citation>
-</ref>
-<ref id="B9">
-<mixed-citation>Maldonado, Victoria y Alfonso, Jorge. Hablemos sobre discapacidad y derechos humanos. México: Centro de Estudios de Derechos e Investigaciones Parlamentarias, 2015.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Maldonado</surname>
-<given-names>Victoria</given-names>
-</name>
-<name>
-<surname>Alfonso</surname>
-<given-names>Jorge</given-names>
-</name>
-</person-group>
-<source>Hablemos sobre discapacidad y derechos humanos</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Centro de Estudios de Derechos e Investigaciones Parlamentarias</publisher-name>
-<year>2015</year>
-</element-citation>
-</ref>
-<ref id="B10">
-<mixed-citation>Mijancos Garruchaga, Liliana. “El respeto de la dignidad del ser humano con especial atención al caso de la mujer discapacitada”. En Mujer, discapacidad y derecho, coordinado por Joan Andreu Ferrer G, 13-15. Valencia: Tirant Lo Blanch, 2023. </mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Mijancos Garruchaga</surname>
-<given-names>Liliana</given-names>
-</name>
-</person-group>
-<chapter-title>El respeto de la dignidad del ser humano con especial atención al caso de la mujer discapacitada</chapter-title>
-<source>Mujer, discapacidad y derecho</source>
-<person-group person-group-type="author">
-<name>
-<surname>Ferrer G</surname>
-<given-names>Joan Andreu</given-names>
-</name>
-</person-group>
-<fpage>13</fpage>
-<lpage>15</lpage>
-<publisher-loc>Valencia</publisher-loc>
-<publisher-name>Tirant Lo Blanch</publisher-name>
-<year>2023</year>
-</element-citation>
-</ref>
-<ref id="B11">
-<mixed-citation>Naciones Unidas. Convención Sobre los Derechos de las Personas con Discapacidad. Naciones Unidas, 2008. </mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>Naciones Unidas</collab>
-</person-group>
-<source>Convención Sobre los Derechos de las Personas con Discapacidad</source>
-<publisher-name>Naciones Unidas</publisher-name>
-<year>2008</year>
-</element-citation>
-</ref>
-<ref id="B12">
-<mixed-citation>Riera Romero, Gemma y Amenabarro Iraola, Estibaliz. Exploración de las concepciones docentes y desafíos en la implementación del aprendizaje cooperativo para la inclusión educativa: un Estudio de caso en Cataluña. Coord. por María Orcasitas-Vicandi, Gorka Roman y Asier León. Valencia: Tirant Humanidades, 2025.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Riera Romero</surname>
-<given-names>Gemma</given-names>
-</name>
-<name>
-<surname>Amenabarro Iraola</surname>
-<given-names>Estibaliz</given-names>
-</name>
-</person-group>
-<source>Exploración de las concepciones docentes y desafíos en la implementación del aprendizaje cooperativo para la inclusión educativa: un Estudio de caso en Cataluña</source>
-<person-group person-group-type="author">
-<name>
-<surname>Orcasitas-Vicandi</surname>
-<given-names>María</given-names>
-</name>
-<name>
-<surname>Roman</surname>
-<given-names>Gorka</given-names>
-</name>
-<name>
-<surname>León</surname>
-<given-names>Asier</given-names>
-</name>
-</person-group>
-<publisher-loc>Valencia</publisher-loc>
-<publisher-name>Tirant Humanidades</publisher-name>
-<year>2025</year>
-</element-citation>
-</ref>
-</ref-list>
-<ref-list>
-<title>Legislaciones</title>
-<ref id="B13">
-<mixed-citation>Constitución Política de los Estados Unidos Mexicanos. Congreso de la Unión, Diario Oficial de la Federación. 22 de marzo de 2024. <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>Constitución Política de los Estados Unidos Mexicanos</collab>
-</person-group>
-<source>Congreso de la Unión, Diario Oficial de la Federación</source>
-<day>22</day>
-<month>03</month>
-<year>2024</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B14">
-<mixed-citation>Ley General para la Inclusión de las Personas con Discapacidad. Congreso de la Unión. Diario Oficial de la Federación. 14 de junio de 2024.<comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf</ext-link>
-</comment>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>Ley General para la Inclusión de las Personas con Discapacidad</collab>
-</person-group>
-<source>Congreso de la Unión. Diario Oficial de la Federación</source>
-<date-in-citation content-type="access-date" iso-8601-date="2024-06-14">14 de junio de 2024</date-in-citation>
-<comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf</ext-link>
-</comment>
-</element-citation>
-</ref>
-</ref-list>
 <fn-group>
+
+
+<fn fn-type="other" id="fn15">
+<label>15</label><p>Licenciada en Derecho y maestra en Derecho
+    Financiero por la Universidad Autónoma de Chihuahua, doctora en
+    Administración Pública por el Instituto Internacional del Derecho y
+    del Estado, especialista, maestra y doctora en Negociación y
+    Mediación por el Instituto de Mediación de México S. C, Candidata a
+    investigadora nacional en el SNI y profesora de tiempo completo en
+    la Facultad de Derecho de dicha Universidad, México.
+    <ext-link ext-link-type="uri">lmaguregui@uach.mx</ext-link>.
+    <ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0001-6153-7416">https://orcid.org/0000-0001-6153-7416</ext-link>.</p>
+</fn>
 <fn fn-type="other" id="fn1">
-<label>1</label>
-<p>“Discapacidad”, Real Academia Española, acceso el 27 de marzo de 2024. <ext-link ext-link-type="uri" xlink:href="https://dle.rae.es/discapacidad">https://dle.rae.es/discapacidad</ext-link>
-</p>
+<label>1</label><p>“Discapacidad”, Real Academia Española, acceso el
+    27 de marzo de 2024.
+    <ext-link ext-link-type="uri" xlink:href="https://dle.rae.es/discapacidad%20">https://dle.rae.es/discapacidad</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn2">
-<label>2</label>
-<p>
-<xref ref-type="bibr" rid="B9">Victoria Maldonado y Jorge Alfonso</xref>, <italic>Hablemos sobre discapacidad y derechos humanos</italic> (México: Centro de Estudios de Derechos e Investigaciones Parlamentarias, 2015), 23.</p>
+<label>2</label><p>Victoria Maldonado y Jorge Alfonso,
+    <italic>Hablemos sobre discapacidad y derechos humanos</italic>
+    (México: Centro de Estudios de Derechos e Investigaciones
+    Parlamentarias, 2015), 23.</p>
 </fn>
 <fn fn-type="other" id="fn3">
-<label>3</label>
-<p>
-<xref ref-type="bibr" rid="B13">Congreso de la Unión</xref>. <italic>Constitución Política de los Estados Unidos Mexicanos</italic>. Diario Oficial de la Federación<italic>,</italic> 22 de marzo de 2024. <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf</ext-link>
-</p>
+<label>3</label><p>Congreso de la Unión. <italic>Constitución
+    Política de los Estados Unidos Mexicanos</italic>. Diario Oficial de
+    la Federación<italic>,</italic> 22 de marzo de 2024.
+    <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn4">
-<label>4</label>
-<p>
-<xref ref-type="bibr" rid="B8">Tomás Lozano Molina</xref>, <italic>Discapacidad y algunos de sus problemas</italic> (México: Tirant Lo Blanch, 2025), 16.</p>
+<label>4</label><p>Tomás Lozano Molina, <italic>Discapacidad y
+    algunos de sus problemas</italic> (México: Tirant Lo Blanch, 2025),
+    16.</p>
 </fn>
 <fn fn-type="other" id="fn5">
-<label>5</label>
-<p>
-<xref ref-type="bibr" rid="B10">Liliana Mijancos Garruchaga</xref>, “El respeto de la dignidad del ser humano con especial atención al caso de la mujer discapacitada”. En <italic>Mujer, capacidad y derecho</italic>, coordinado por Joan Andreu Ferrer G. (Valencia: Tirant Lo Blanch, 2023), 246 - 247.</p>
+<label>5</label><p>Liliana Mijancos Garruchaga, “El respeto de la
+    dignidad del ser humano con especial atención al caso de la mujer
+    discapacitada”. En <italic>Mujer, capacidad y derecho</italic>,
+    coordinado por Joan Andreu Ferrer G. (Valencia: Tirant Lo Blanch,
+    2023), 246 – 247.</p>
 </fn>
 <fn fn-type="other" id="fn6">
-<label>6</label>
-<p>Congreso de la Unión. <xref ref-type="bibr" rid="B14">Ley General para la Inclusión de las Personas con Discapacidad</xref>. Diario Oficial de la Federación, 14 de junio de 2024. <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf</ext-link>
-</p>
+<label>6</label><p>Congreso de la Unión. Ley General para la
+    Inclusión de las Personas con Discapacidad. Diario Oficial de la
+    Federación, 14 de junio de 2024.
+    <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn7">
-<label>7</label>
-<p>
-<xref ref-type="bibr" rid="B1">Alto Comisionado de las Naciones Unidas para los Derechos Humanos</xref>, <italic>Discapacidad, de la exclusión a la igualdad hacia el pleno ejercicio de los derechos de las personas con discapacidad: manual para palamentarios sobre la Convención sobre los derechos de las personas con discapacidad y su Protocolo Facultativo</italic> (Naciones Unidas, 2007).</p>
+<label>7</label><p>Alto Comisionado de las Naciones Unidas para los
+    Derechos Humanos, <italic>Discapacidad, de la exclusión a la
+    igualdad hacia el pleno ejercicio de los derechos de las personas
+    con discapacidad: manual para palamentarios sobre la Convención
+    sobre los derechos de las personas con discapacidad y su Protocolo
+    Facultativo</italic> (Naciones Unidas, 2007).</p>
 </fn>
 <fn fn-type="other" id="fn8">
-<label>8</label>
-<p>
-<xref ref-type="bibr" rid="B11">Naciones Unidas</xref>, <italic>Convención sobre los derechos de las personas con discapacidad</italic> (Naciones Unidas, 2008). <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/sites/default/files/Documents/Publications/AdvocacyTool_sp.pdf">https://www.ohchr.org/sites/default/files/Documents/Publications/AdvocacyTool_sp.pdf</ext-link>
-</p>
+<label>8</label><p>Naciones Unidas, <italic>Convención sobre los
+    derechos de las personas con discapacidad</italic> (Naciones Unidas,
+    2008).
+    <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/sites/default/files/Documents/Publications/AdvocacyTool_sp.pdf">https://www.ohchr.org/sites/default/files/Documents/Publications/AdvocacyTool_sp.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn9">
-<label>9</label>
-<p>“Convención Interamericana para la Eliminación de Todas las Formas de Discriminación Contra las Personas con Discapacidad”, <xref ref-type="bibr" rid="B4">Comisión Nacional de los Derechos Humanos</xref>, acceso el 27 de marzo de 2024. <ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source">https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source</ext-link>
-</p>
+<label>9</label><p>“Convención Interamericana para la Eliminación
+    de Todas las Formas de Discriminación Contra las Personas con
+    Discapacidad”, Comisión Nacional de los Derechos Humanos, acceso el
+    27 de marzo de 2024.
+    <ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source">https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source</ext-link></p>
+</fn>
+<fn fn-type="other" id="fn16">
+<label>16</label><p>Congreso de la Unión. Ley General para la
+    Inclusión de las Personas con Discapacidad…</p>
 </fn>
 <fn fn-type="other" id="fn10">
-<label>10</label>
-<p>Congreso de la Unión. <xref ref-type="bibr" rid="B14">Ley General para la Inclusión de las Personas con Discapacidad</xref>…</p>
+<label>10</label><p>Carmen María Fajardo Martínez, “Educación
+    inclusiva, formación dual universitaria y cláusulas sociales”, en
+    <italic>Discapacidad intelectual y capacidad de obrar, de la
+    sustitución de la voluntad al apoyo en la toma de
+    decisiones,</italic> dirigido por Juana Morcillo Moreno (México:
+    Tirant Lo Blanch, 2019), 140.</p>
 </fn>
 <fn fn-type="other" id="fn11">
-<label>11</label>
-<p>
-<xref ref-type="bibr" rid="B6">Carmen María Fajardo Martínez</xref>, “Educación inclusiva, formación dual universitaria y cláusulas sociales”, en <italic>Discapacidad intelectual y capacidad de obrar, de la sustitución de la voluntad al apoyo en la toma de decisiones,</italic> dirigido por Juana Morcillo Moreno (México: Tirant Lo Blanch, 2019), 140.</p>
+<label>11</label><p>Israel Biel Portero, <italic>Los derechos
+    humanos de las personas con discapacidad</italic> (Valencia: Tirant
+    Lo Blanch, 2011), 413.</p>
 </fn>
 <fn fn-type="other" id="fn12">
-<label>12</label>
-<p>
-<xref ref-type="bibr" rid="B3">Israel Biel Portero</xref>, <italic>Los derechos humanos de las personas con discapacidad</italic> (Valencia: Tirant Lo Blanch, 2011), 413.</p>
+<label>12</label><p>Natali Louleli. “¿Cómo se puede conseguir la
+    innovación y la inclusión en la educación superior?” <italic>En
+    Innovar para incluir. La educación superior como motor de sociedades
+    resilientes</italic>, coordinado por María Orcasitas-Vicandi, Gorka
+    Roman y Natalia Loudeli (Valencia: Tirant Humanidades, 2025).</p>
 </fn>
 <fn fn-type="other" id="fn13">
-<label>13</label>
-<p>
-<xref ref-type="bibr" rid="B7">Natali Louleli</xref>. “¿Cómo se puede conseguir la innovación y la inclusión en la educación superior?” <italic>En Innovar para incluir. La educación superior como motor de sociedades resilientes</italic>, coordinado por María Orcasitas-Vicandi, Gorka Roman y Natalia Loudeli (Valencia: Tirant Humanidades, 2025).</p>
+<label>13</label><p>Asociación Americana de Psiquiatría,
+    <italic>Manual Diagnóstico y Estadístico de los Trastornos</italic>
+    (España: Editorial Médica Panamericana, 2014), 05.</p>
 </fn>
 <fn fn-type="other" id="fn14">
-<label>14</label>
-<p>
-<xref ref-type="bibr" rid="B2">Asociación Americana de Psiquiatría</xref>, <italic>Manual Diagnóstico y Estadístico de los Trastornos</italic> (España: Editorial Médica Panamericana, 2014), 05.</p>
-</fn>
-<fn fn-type="other" id="fn15">
-<label>15</label>
-<p>
-<xref ref-type="bibr" rid="B12">Gemma Riera Romero y Estibaliz Amenabarro Iraola</xref>, <italic>Exploración de las concepciones docentes y desafíos en la implementación del aprendizaje cooperativo para la inclusión educativa: un estudio de caso en Cataluña.</italic> Coord. por María Orcasitas-Vicandi, Gorka Roman, Asier León (Valencia: Tirant Humanidades, 2025), 37. </p>
+<label>14</label><p>Gemma Riera Romero y Estibaliz Amenabarro
+    Iraola, <italic>Exploración de las concepciones docentes y desafíos
+    en la implementación del aprendizaje cooperativo para la inclusión
+    educativa: un estudio de caso en Cataluña.</italic> Coord. por María
+    Orcasitas-Vicandi, Gorka Roman, Asier León (Valencia: Tirant
+    Humanidades, 2025), 37.</p>
 </fn>
 </fn-group>
-</back>
+<ref-list><title>REFERENCIAS BIBLIOGRÁFICAS</title><ref id="B1"><mixed-citation>Alto Comisionado de las Naciones Unidas para los Derechos Humanos.
+Discapacidad, de la exclusión a la igualdad hacia el pleno ejercicio de
+los derechos de las personas con discapacidad. Naciones Unidas,
+2007.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Alto</surname><given-names>Comisionado de las Naciones Unidas para los Derechos Humanos</given-names></name></person-group><article-title>Discapacidad, de la exclusión a la igualdad hacia el pleno ejercicio de
+los derechos de las personas con discapacidad</article-title><source>Naciones Unidas,
+2007</source><year>2007</year></element-citation></ref><ref id="B2"><mixed-citation>Asociación Americana de Psiquiatría. Manual Diagnóstico y Estadístico
+de los Trastornos. España: Editorial Médica Panamericana, 2014.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Asociación</surname><given-names>Americana de Psiquiatría</given-names></name></person-group><article-title>Manual Diagnóstico y Estadístico
+de los Trastornos</article-title><source>España: Editorial Médica Panamericana, 2014</source><year>2014</year></element-citation></ref><ref id="B3"><mixed-citation>Biel Portero, Israel. Los derechos humanos de las personas con
+discapacidad. Valencia: Tirant Lo Blanch, 2011.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Biel</surname><given-names>Portero</given-names></name><name><surname>Israel</surname></name></person-group><article-title>Los derechos humanos de las personas con
+discapacidad</article-title><source>Valencia: Tirant Lo Blanch, 2011</source><year>2011</year></element-citation></ref><ref id="B4"><mixed-citation>Comisión Nacional de los Derechos Humanos. “Convención Interamericana
+para la Eliminación de Todas las Formas de Discriminación Contra las
+Personas con Discapacidad”. Acceso el 27 de marzo de 2024.
+<ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source">https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Comisión</surname><given-names>Nacional de los Derechos Humanos</given-names></name></person-group><article-title>“Convención Interamericana
+para la Eliminación de Todas las Formas de Discriminación Contra las
+Personas con Discapacidad”</article-title><source>Acceso el 27 de marzo de 2024</source><year>2024</year><ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source">https://www.cndh.org.mx/documento/convencion-interamericana-para-la-eliminacion-de-todas-las-formas-de-discriminacion?utm_source</ext-link></element-citation></ref><ref id="B5"><mixed-citation>Diccionario de la Real Academia Española, “Discapacidad”.
+<ext-link ext-link-type="uri" xlink:href="https://dle.rae.es/discapacidad%20">https://dle.rae.es/discapacidad</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Diccionario</surname><given-names>de la Real Academia Española</given-names></name><name><surname>“Discapacidad”</surname></name></person-group><article-title>https://dle</article-title><source>rae</source><ext-link ext-link-type="uri" xlink:href="https://dle.rae.es/discapacidad">https://dle.rae.es/discapacidad</ext-link></element-citation></ref><ref id="B6"><mixed-citation>Fajardo Martínez, Carmen María. “Discapacidad intelectual y capacidad
+de obrar, de la sustitución de la voluntad al apoyo en la toma de
+decisiones”. En Discapacidad intelectual y capacidad de obrar, de la
+sustitución de la voluntad al apoyo en la toma de decisiones, dirigido
+por Juana Morcillo Moreno. Valencia: Tirant Lo Blanch, 2019.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Fajardo</surname><given-names>Martínez</given-names></name><name><surname>Carmen</surname><given-names>María</given-names></name></person-group><article-title>“Discapacidad intelectual y capacidad
+de obrar, de la sustitución de la voluntad al apoyo en la toma de
+decisiones”</article-title><source>En Discapacidad intelectual y capacidad de obrar, de la
+sustitución de la voluntad al apoyo en la toma de decisiones, dirigido
+por Juana Morcillo Moreno</source><year>2019</year></element-citation></ref><ref id="B7"><mixed-citation>Louleli, Natalia. “¿Cómo se puede conseguir la innovación y la
+inclusión en la educación superior?” En Innovar para incluir. La
+educación superior como motor de sociedades resilientes, coordinado por
+María Orcasitas-Vicandi, Gorka Roman y Natalia Loudeli. Valencia: Tirant
+Humanidades, 2025.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Louleli</surname></name><name><surname>Natalia</surname></name></person-group><article-title>“¿Cómo se puede conseguir la innovación y la
+inclusión en la educación superior?” En Innovar para incluir</article-title><source>La
+educación superior como motor de sociedades resilientes, coordinado por
+María Orcasitas-Vicandi, Gorka Roman y Natalia Loudeli</source><year>2025</year></element-citation></ref><ref id="B8"><mixed-citation>Lozano Molina, Tomás. Discapacidad y algunos de sus problemas.
+México: Tirant Lo Blanch, 2025.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Lozano</surname><given-names>Molina</given-names></name><name><surname>Tomás</surname></name></person-group><article-title>Discapacidad y algunos de sus problemas</article-title><source>México: Tirant Lo Blanch, 2025</source><year>2025</year></element-citation></ref><ref id="B9"><mixed-citation>Maldonado, Victoria y Alfonso, Jorge. Hablemos sobre discapacidad y
+derechos humanos. México: Centro de Estudios de Derechos e
+Investigaciones Parlamentarias, 2015.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Maldonado</surname></name><name><surname>Victoria</surname><given-names>y Alfonso</given-names></name><name><surname>Jorge</surname></name></person-group><article-title>Hablemos sobre discapacidad y
+derechos humanos</article-title><source>México: Centro de Estudios de Derechos e
+Investigaciones Parlamentarias, 2015</source><year>2015</year></element-citation></ref><ref id="B10"><mixed-citation>Mijancos Garruchaga, Liliana. “El respeto de la dignidad del ser
+humano con especial atención al caso de la mujer discapacitada”. En
+Mujer, discapacidad y derecho, coordinado por Joan Andreu Ferrer G,
+13-15. Valencia: Tirant Lo Blanch, 2023.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Mijancos</surname><given-names>Garruchaga</given-names></name><name><surname>Liliana</surname></name></person-group><article-title>“El respeto de la dignidad del ser
+humano con especial atención al caso de la mujer discapacitada”</article-title><source>En
+Mujer, discapacidad y derecho, coordinado por Joan Andreu Ferrer G,
+13-15</source><year>2023</year></element-citation></ref><ref id="B11"><mixed-citation>Naciones Unidas. Convención Sobre los Derechos de las Personas con
+Discapacidad. Naciones Unidas, 2008.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Naciones</surname><given-names>Unidas</given-names></name></person-group><article-title>Convención Sobre los Derechos de las Personas con
+Discapacidad</article-title><source>Naciones Unidas, 2008</source><year>2008</year></element-citation></ref><ref id="B12"><mixed-citation>Riera Romero, Gemma y Amenabarro Iraola, Estibaliz. Exploración de
+las concepciones docentes y desafíos en la implementación del
+aprendizaje cooperativo para la inclusión educativa: un Estudio de caso
+en Cataluña. Coord. por María Orcasitas-Vicandi, Gorka Roman y Asier
+León. Valencia: Tirant Humanidades, 2025.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Riera</surname><given-names>Romero</given-names></name><name><surname>Gemma</surname><given-names>y Amenabarro Iraola</given-names></name><name><surname>Estibaliz</surname></name></person-group><article-title>Exploración de
+las concepciones docentes y desafíos en la implementación del
+aprendizaje cooperativo para la inclusión educativa: un Estudio de caso
+en Cataluña</article-title><source>Coord</source><year>2025</year></element-citation></ref><ref id="B13"><mixed-citation>Constitución Política de los Estados Unidos Mexicanos. Congreso de la
+Unión, Diario Oficial de la Federación. 22 de marzo de 2024.
+<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Constitución</surname><given-names>Política de los Estados Unidos Mexicanos</given-names></name></person-group><article-title>Congreso de la
+Unión, Diario Oficial de la Federación</article-title><source>22 de marzo de 2024</source><year>2024</year><ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf</ext-link></element-citation></ref><ref id="B14"><mixed-citation>Ley General para la Inclusión de las Personas con Discapacidad.
+Congreso de la Unión. Diario Oficial de la Federación. 14 de junio de
+2024.
+<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Ley</surname><given-names>General para la Inclusión de las Personas con Discapacidad</given-names></name></person-group><article-title>Congreso de la Unión</article-title><source>Diario Oficial de la Federación</source><year>2024</year><ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf</ext-link></element-citation></ref></ref-list></back>
 </article>

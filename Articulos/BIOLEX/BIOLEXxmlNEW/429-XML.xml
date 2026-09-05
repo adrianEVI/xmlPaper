@@ -1,1220 +1,956 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
 <article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
-<front>
-<journal-meta>
-<journal-id journal-id-type="publisher-id">biolex</journal-id>
-<journal-title-group>
-<journal-title>Biolex</journal-title>
-<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
-</journal-title-group>
-<issn pub-type="ppub">2007-5634</issn>
-<issn pub-type="epub">2007-5545</issn>
-<publisher>
-<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
-</publisher>
-</journal-meta>
-<article-meta>
-<article-id pub-id-type="doi">10.36796/biolex.v17i28.429</article-id>
-<article-id pub-id-type="other">00114</article-id>
-<article-categories>
-<subj-group subj-group-type="heading">
-<subject>Artículos</subject>
-</subj-group>
-</article-categories>
-<title-group>
-<article-title>Procedimiento administrativo en materia aduanera: restricciones legales y prácticas informales en su ejecución</article-title>
-<trans-title-group xml:lang="en">
-<trans-title>Administrative Procedure in Customs Matters: Legal Restrictions and Informal Practices in Their Implementation</trans-title>
-</trans-title-group>
-</title-group>
-<contrib-group>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0009-0003-6016-6037</contrib-id>
-<name>
-<surname>Zalazar Zavala</surname>
-<given-names>Martín Eduardo</given-names>
-</name>
-<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-<role>octorado en Administración Educativa, Maestro Investigador de Tiempo Completo y Coordinador de la Maestría en Impuestos </role>
-</contrib>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0000-0002-5415-4502</contrib-id>
-<name>
-<surname>Landavazo Moreno</surname>
-<given-names>Ernesto</given-names>
-</name>
-<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-<role>Doctorado en Negociación y Mediación</role>
-</contrib>
-</contrib-group>
-<aff id="aff1">
-<label>1</label>
-<institution content-type="original">Instituto Pedagógico de Posgrado en Sonora: Doctorado en Administración Educativa, Maestro Investigador de Tiempo Completo y Coordinador de la Maestría en Impuestos de la Universidad de Sonora, martin.zalazar@unison.mx</institution>
-<institution content-type="normalized">Instituto Pedagógico de Posgrado de Sonora</institution>
-<institution content-type="orgname">Instituto Pedagógico de Posgrado en Sonora</institution>
-<country country="MX">Mexico</country>
-<email>martin.zalazar@unison.mx</email>
-</aff>
-<aff id="aff2">
-<label>2</label>
-<institution content-type="original">Colegio de Mediación de México: Doctorado en Negociación y Mediación. Universidad Pedagógica Nacional, Plantel Hermosillo: Doctorado en Educación. Universidad Estatal de Sonora, Campus Hermosillo, Profesor de Asignatura Universidad de Sonora, Profesor de Asignatura, ernesto.landavazo@unison.mx</institution>
-<institution content-type="orgname">Colegio de Mediación de México</institution>
-<country country="MX">Mexico</country>
-<email>ernesto.landavazo@unison.mx</email>
-</aff>
-<pub-date date-type="pub" publication-format="electronic">
-<day>29</day>
-<month>12</month>
-<year>2025</year>
-</pub-date>
-<pub-date date-type="collection" publication-format="electronic">
-<season>Jan-Dec</season>
-<year>2025</year>
-</pub-date>
-<volume>17</volume>
-<issue>28</issue>
-<elocation-id>e429</elocation-id>
-<history>
-<date date-type="received">
-<day>01</day>
-<month>09</month>
-<year>2025</year>
-</date>
-<date date-type="accepted">
-<day>19</day>
-<month>11</month>
-<year>2025</year>
-</date>
-</history>
-<permissions>
-<license xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" license-type="open-access" xml:lang="es">
-<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
-</license>
-</permissions>
-<abstract>
-<title>Resumen</title>
-<p>El objetivo de este estudio es identificar los obstáculos, tanto restricciones legales como prácticas informales, que inciden en la correcta ejecución del Procedimiento Administrativo en Materia Aduanera (PAMA), desde la perspectiva de especialistas en comercio exterior y aduanas de los sectores público y privado. Se empleó un enfoque cualitativo de alcance descriptivo, apoyándose en las técnicas de entrevista, observación y revisión documental. La muestra de expertos estuvo compuesta por diez personas especialistas en el PAMA, pertenecientes al sector público y privado. Se realizaron diez entrevistas para obtener los obstáculos legales y prácticas informales respecto al PAMA. Los resultados mostraron que el servidor público lleva a cabo sus funciones fuera del marco regulatorio, notificando el acta de inicio del PAMA, después de seis años de haberse llevado a cabo las facultades de comprobación, no se valoran las pruebas y/o se hace de forma incorrecta, para salvaguardar los intereses institucionales. Además, no se ponen a disposición del poseedor y/o tenedor los bienes de procedencia extranjera embargados precautoriamente, una vez comprobada su legal estancia en el país de forma inmediata ni se resuelve el PAMA dentro del periodo de cuatro meses, una vez que se ha integrado el expediente. Se concluye que el PAMA presenta deficiencias en su desarrollo, ya que el personal adscrito a las distintas instituciones gubernamentales, ya sea en materia estatal y federal, llevan a cabo sus actuaciones, fuera del marco regulatorio.</p>
-</abstract>
-<trans-abstract xml:lang="en">
-<title>Abstract</title>
-<p>The objective is to identify obstacles, including legal restrictions and informal practices that affect the proper implementation of the Customs Administrative Procedure (PAMA, for its Spanish acronym), from the perspective of foreign trade and customs specialists in the public and private sectors. A qualitative approach with a descriptive scope was used, supported by interview, observation and documentary review techniques. The sample of experts consisted of ten PAMA specialists, belonging to the public and private sectors. Ten interviews were conducted to identify legal obstacles and informal practices regarding PAMA. The results showed that public servants carry out their functions outside the regulatory framework, often notifying the PAMA initiation document six years after the verification powers were exercised. In many cases, evidence is either assessed or assessed incorrectly, in order to safeguard institutional interests. Additionally, foreign goods seized by precautionary measures are not immediately made available to the possessor or holder, even after their legal stay in the country has been verified. Furthermore, the PAMA is not resolved within a period of four months after the file has been properly integrated. It is concluded that the PAMA presents deficiencies in its implementation, as personnel in various government institutions, whether in state or federal matters, frequently act outside the regulatory framework.</p>
-</trans-abstract>
-<kwd-group xml:lang="es">
-<title>Palabras clave:</title>
-<kwd>mercancía de procedencia extranjera</kwd>
-<kwd>embargo precautorio</kwd>
-<kwd>comercio exterior</kwd>
-</kwd-group>
-<kwd-group xml:lang="en">
-<title>Keywords:</title>
-<kwd>imported goods</kwd>
-<kwd>precautionary seizure</kwd>
-<kwd>international trade</kwd>
-</kwd-group>
-<counts>
-<fig-count count="0"/>
-<table-count count="3"/>
-<equation-count count="0"/>
-<ref-count count="28"/>
-</counts>
-</article-meta>
-</front>
+<front><journal-meta><journal-id journal-id-type="publisher-id">revistadeinvest</journal-id><journal-title-group><journal-title>Revista de Investigações Constitucionais</journal-title><abbrev-journal-title abbrev-type="publisher">Revista de Investigações </abbrev-journal-title></journal-title-group></journal-meta><article-meta><article-id pub-id-type="doi">10.15174/cj.v8i16.319</article-id><article-categories><subj-group subj-group-type="heading"><subject>Artículos</subject></subj-group></article-categories><title-group><article-title>Procedimiento administrativo en materia aduanera: restricciones</article-title><trans-title-group xml:lang="en"><trans-title>Administrative Procedure in Customs Matters: Legal Restrictions
+and Informal Practices in Their Implementation</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Zalazar Zavala</surname><given-names>Martín Eduardo</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0009-0003-6016-6037</contrib-id><name><surname>Landavazo Moreno</surname><given-names>Ernesto</given-names></name><xref ref-type="aff" rid="aff2"/></contrib><aff id="aff1"><label>1</label><institution content-type="original">01/09/2025 Aceptado: 19/11/2025, México</institution><institution content-type="orgname">01/09/2025 Aceptado: 19/11/2025</institution><country country="MX">México</country></aff><aff id="aff2"><label>2</label><institution content-type="original">Instituto Pedagógico de Posgrado en Sonora:
+    Doctorado en Administración Educativa, México</institution><institution content-type="orgname">Instituto Pedagógico de Posgrado en Sonora:
+    Doctorado en Administración Educativa</institution><country country="MX">México</country><email>martin.zalazar@unison.mx</email></aff></contrib-group><pub-date date-type="pub" publication-format="electronic"><day>01</day><month>01</month><year>2025</year></pub-date><pub-date date-type="collection" publication-format="electronic"><season>Jan-Dec</season><year>2025</year></pub-date><volume>16</volume><issue>3</issue><elocation-id>e000</elocation-id><history><date date-type="accepted"><day>19</day><month>11</month><year>2025</year></date></history><permissions><license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es"><license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p></license></permissions><abstract><title>Resumen:</title><p>El objetivo de este estudio es identificar los obstáculos, tanto restricciones legales como prácticas informales, que inciden en la correcta ejecución del Procedimiento Administrativo en Materia Aduanera (PAMA), desde la perspectiva de especialistas en comercio exterior y aduanas de los sectores público y privado. Se empleó un enfoque cualitativo de alcance descriptivo, apoyándose en las técnicas de entrevista, observación y revisión documental. La muestra de expertos estuvo compuesta por diez personas especialistas en el PAMA, pertenecientes al sector público y privado. Se realizaron diez entrevistas para obtener los obstáculos legales y prácticas informales respecto al PAMA. Los resultados mostraron que el servidor público lleva a cabo sus funciones fuera del marco regulatorio, notificando el acta de inicio del PAMA, después de seis años de haberse llevado a cabo las facultades de comprobación, no se valoran las pruebas y/o se hace de forma incorrecta, para salvaguardar los intereses institucionales. Además, no se ponen a disposición del poseedor y/o tenedor los bienes de procedencia extranjera embargados precautoriamente, una vez comprobada su legal estancia en el país de forma inmediata ni se resuelve el PAMA dentro del periodo de cuatro meses, una vez que se ha integrado el expediente. Se concluye que el PAMA presenta deficiencias en su desarrollo, ya que el personal adscrito a las distintas instituciones gubernamentales, ya sea en materia estatal y federal, llevan a cabo sus actuaciones, fuera del marco regulatorio.</p></abstract><trans-abstract xml:lang="en"><title>Abstract:</title><p>The objective is to identify obstacles, including legal restrictions and informal practices that affect the proper implementation of the Customs Administrative Procedure (PAMA, for its Spanish acronym), from the perspective of foreign trade and customs specialists in the public and private sectors. A qualitative approach with a descriptive scope was used, supported by interview, observation and documentary review techniques. The sample of experts consisted of ten PAMA specialists, belonging to the public and private sectors. Ten interviews were conducted to identify legal obstacles and informal practices regarding PAMA. The results showed that public servants carry out their functions outside the regulatory framework, often notifying the PAMA initiation document six years after the verification powers were exercised. In many cases, evidence is either assessed or assessed incorrectly, in order to safeguard institutional interests. Additionally, foreign goods seized by precautionary measures are not immediately made available to the possessor or holder, even after their legal stay in the country has been verified. Furthermore, the PAMA is not resolved within a period of four months after the file has been properly integrated. It is concluded that the PAMA presents deficiencies in its implementation, as personnel in various government institutions, whether in state or federal matters, frequently act outside the regulatory framework.</p></trans-abstract><kwd-group xml:lang="es"><title>Palabras clave:</title><kwd>mercancía de procedencia extranjera</kwd><kwd>embargo precautorio</kwd><kwd>comercio exterior</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords:</title><kwd>imported goods</kwd><kwd>precautionary seizure</kwd><kwd>international trade</kwd></kwd-group><counts><fig-count count="0"/><table-count count="3"/><equation-count count="0"/><ref-count count="25"/></counts></article-meta></front>
 <body>
-<sec sec-type="intro">
-<title>I. Introducción</title>
-<p>El órgano administrativo desconcentrado, con base en la revisión de las declaraciones en formato electrónico, así como los documentos digitales o electrónicos exhibidos por el sujeto pasivo, y derivado de la identificación aduanera, la inspección o comprobación de bienes en el transporte, detecta ciertas irregularidades. En consecuencia, da inicio al procedimiento administrativo en materia aduanera (PAMA), llevando a cabo el embargo precautorio de la mercancía de procedencia extranjera, a efecto de garantizar que el contribuyente cumpla con todas las formalidades que exige el marco regulatorio en la introducción de la mercancía al país. </p>
-<p>Derivado de la implementación de las facultades de comprobación y ejecución del proceso legal, se presentan restricciones de carácter legal y prácticas informales por parte del sector público, las cuales afectan los intereses de la persona jurídica individual, personas jurídicas colectivas e instituciones gubernamentales. Entre dichas problemáticas destacan actos de corrupción, falta de valoración de pruebas y falta de capacitación.</p>
-<p>El marco metodológico utilizado en la presente investigación es un estudio con enfoque cualitativo e investigación descriptiva, con el soporte de la técnica de la entrevista, observación y revisión documental, además de la muestra de expertos. Asimismo, los procedimientos y herramientas para la recopilación de datos como la entrevista estructurada, también conocida como entrevista directiva y la bitácora.</p>
-<p>Se estudian y decodifican los hallazgos de la investigación, como producto de las entrevistas realizadas a los expertos en la disciplina aduanera y comercio exterior del ámbito público y privado, sobre el conocimiento de los obstáculos (restricciones legales y prácticas informales), en la ejecución del procedimiento legal, clasificándose mediante subcategorías.</p>
-<p>Por último, se concluye que el procedimiento legal presenta deficiencias en su desarrollo, tanto en el ámbito federal como el estatal, atribuibles a servidores públicos que llevan a cabo sus actuaciones fuera del marco regulatorio. En tales irregularidades se encuentran la falta de valoración de las pruebas, no resolver el procedimiento dentro de los cuatro meses, no poner a disposición del poseedor o tenedor los bienes embargados precautoriamente, justo después de comprobar la presencia legal en México, así como actos de corrupción entre funcionarios públicos adscritos a los diferentes niveles de gobierno, entre otras.</p>
-</sec>
-<sec>
-<title>II. El institucionalismo</title>
-<p>Las instituciones constituyen un marco normativo con el que cuenta la sociedad para conducirse, ya que establecen el conjunto de reglas y procedimientos que deben observar los funcionarios públicos en el ejercicio de sus cargos, así como las reglas cívicas y jurídicas que rigen la conducta de los ciudadanos. Por esta razón, las actuaciones del funcionario público deben ser apegadas al derecho, es decir, a cada uno de los marcos normativos adaptable a la materia aduanera. </p>
-<p>Las instituciones se definen como las normas de juego en una comunidad o, de carácter más formal, como las obligaciones o prohibiciones establecidas por los humanos que moldean la interacción humana.<xref ref-type="fn" rid="fn1"><sup>1</sup></xref>
-</p>
-<p>Las instituciones, a través de los marcos normativos, conducen el actuar del funcionario público y conciben relaciones e intereses entre la sociedad y política, llegándose a anteponer los intereses personales sobre la aplicación de la normatividad. Hay de destacar que las instituciones no solamente restringen al ciudadano, sino que también conllevan relaciones de poder e intereses entre la sociedad. Por lo que para algunos actores resulta ser racional, mientras que, para otros, irracional. Las instituciones no solo se crean y se implementan de manera lógica, sino que también se encuentran incrustadas en la realidad política de una comunidad.<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>
-</p>
-<p>La interpretación y ejecución de las reglas por los diferentes actores que integran la institución gubernamental es fundamental para cada uno de los ciudadanos, ya que a través de ella se brinda un estado de derecho y certeza jurídica en sus promociones y trámites. La burocracia como instrumento de dominación que emerge por necesidades históricas será, en su aspecto positivo, un instrumento de administración estatal a favor de la colectividad en su agrupación. Por otro lado, en su aspecto negativo, empleará su posición para perpetuar su control y dominio sobre los gobernados.<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>
-</p>
-<p>Para el nuevo institucionalismo, la institucionalidad se concibe como un proceso intelectual, donde las responsabilidades legislativas ingresan a la existencia colectiva como acontecimientos que los participantes reconocen, no se refiere a reglas y principios, sino como guiones dados por supuestos, reglas y clasificaciones. Los entornos organizacionales están formados por creencias reconocidas como hechos y normas ampliamente establecidas, que actúan como base en la organización, considerándose las instituciones como un resultado de la actividad humana.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>
-</p>
-<p>En el institucionalismo contemporáneo, la conducta organizacional no se encuentra primordialmente en el marco formal de la entidad organizativa ni en la definición del fin y objetivos ni siquiera en generación de productos y prestaciones. En realidad, se encuentra en la infinidad de métodos subyacentes de un conjunto de participantes formales e informales de una organización, las disputas entre estos grupos, las políticas de contratación, las fuerzas externas que limiten la dinámica organizativa, la contienda por el reconocimiento, los principios sociales y la organización de la jurisdicción se centra en aquellos elementos que, en un momento específico, sirven para la elaboración de mitos racionales que otorgan orden y significado aparente a la organización.<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>
-</p>
-</sec>
-<sec sec-type="materials|methods">
-<title>III. El procedimiento administrativo en materia aduanera</title>
-<p>Dentro de las facultades de comprobación se encuentra el PAMA, a través del cual la Aduana realiza una serie de observaciones al contribuyente, por incumplimiento al marco regulatorio. Las autoridades aduaneras poseen atribuciones oficiales para implementar el reconocimiento en aduanas, la revisión de mercancías mientras se transporta, la verificación de documentos entregados durante el proceso aduanero y las habilidades para revisar en el ámbito aduanero.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>
-</p>
-<p>Para Vallejo, el PAMA es la serie de acciones establecidas en la legislación, vinculadas de manera sucesiva con el propósito de dictar una resolución condenatoria o absolutoria, procedente de las situaciones identificadas por la jurisdicción aduanera en el uso de sus derechos de comprobación en operaciones de comercio internacional, venerando la garantía de audiencia del individuo al evaluar las evidencias y examinar las razones que intenten probar la legitima importación, posesión o estancia de bienes.<xref ref-type="fn" rid="fn7"><sup>7</sup></xref>
-</p>
-<p>Cualquier acto privativo de parte de la autoridad debe constar por escrito y encontrarse debidamente fundado y motivado, debiendo cumplirse la autoridad con las formalidades legales aplicables. En caso contrario, este acto podrá ser declarado ilegal o inconstitucional por la autoridad competente, lo que dará lugar a la nulidad del acto administrativo, incluso cuando derive de las facultades de fiscalización o de procedimiento legal. En cuanto a la base legal y razonamiento de cualquier acto de autoridad, la norma suprema de México dicta que ninguno debe ser perturbado en su persona, familia, residencia, cargos o bienes, a menos que sea por mandato escrito de la jurisdicción correspondiente que establezca y fundamente la razón legal del proceso.<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>
-</p>
-<p>El acta circunstanciada de hechos, redactada con el propósito de verificar productos y automóviles en transporte, debe incluir la información de identificación del personal responsable del procedimiento. En el supuesto de que este requiera el soporte documental que confirme la presencia legal y posesión de estos, se deberá remitir a las instalaciones oficiales para efectuar un reconocimiento exhaustivo.<xref ref-type="fn" rid="fn9"><sup>9</sup></xref>
-</p>
-<p>De acuerdo con <italic>García</italic> et al., el embargo precautorio se define como la medida cautelar para garantizar el cumplimiento de una sentencia definitiva, con relación a los bienes del deudor, con el único objetivo de asegurar el cumplimiento de una obligación personal.<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>
-</p>
-<p>El embargo precautorio efectuado por el Órgano Administrativo Desconcentrado conlleva la retención de los productos y, en su caso, el bien donde se transporta, para garantizar el interés fiscal. Es decir, cubrir el importe de los aranceles, aprovechamientos, sanciones y accesorios que se puedan generar. La restricción preventiva que implementen las autoridades de aduanas podrá ser reemplazada conforme a los tipos de garantías definidos en el Código Fiscal de la Federación, salvo lo determinado en el artículo 183-A de la Ley Aduanera.<xref ref-type="fn" rid="fn11"><sup>11</sup></xref>
-</p>
-<p>Implementar el proceso de fiscalización indica que la autoridad aduanera haya detectado una irregularidad en los productos de origen extranjero, motivo por el cual se procedió al embargo precautorio, a fin de que el contribuyente, en un plazo de diez días hábiles, compruebe su legal posesión, automotor o gestión de artículos de origen extranjero. En el transcurso del proceso administrativo aduanero, las autoridades de aduanas emitirán el acta de inicio del procedimiento legal cuando, por razones de la revisión aduanera, comprobación de bienes en transporte o el uso del procedimiento de fiscalización, se lleve a cabo la retención precautoria de bienes, de acuerdo con lo establecido por el marco normativo en materia aduanera.<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>
-</p>
-<p>Las autoridades federales y estatales tienen la obligación de comunicar al sujeto pasivo el acta de inicio derivada del acto de comprobación, ya sea en las instalaciones de la institución gubernamental, en el domicilio manifestado para escuchar y admitir todo tipo de notificaciones o en su domicilio fiscal. La autoridad encargada de elaborar el acta mencionada convendrá proporcionar al propietario, poseedor y/o tenedor, en el mismo momento, una copia del acta de inicio derivada de la comprobación de cumplimiento de obligaciones, dándose como notificado.<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>
-</p>
-<p>Mediante el acta de inicio derivada de la comprobación de cumplimiento de obligaciones, al contribuyente se le da a conocer el motivo de la incautación provisional de los artículos de origen extranjero, así como el sustento legal que originó el mismo. </p>
-<p>La autoridad de aduana informará, mediante un escrito o un acta, sobre los eventos o faltas en el entero de aranceles, cuotas compensatorias y, si es necesario, aplicará sanciones. El interesado tiene diez días hábiles, comenzando el día después de recibir la notificación del escrito o acta, para presentar documentos probatorios y argumentos que considere necesarios.<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>
-</p>
-<p>Es así como se expondrán los argumentos y se presentarán las pruebas con el propósito de desvirtuar las irregularidades identificadas por la autoridad fiscalizadora que se mencionaron en el acta de inicio derivada de la comprobación de cumplimiento de obligaciones.<xref ref-type="fn" rid="fn15"><sup>15</sup></xref> Respecto a las pruebas en el procedimiento administrativo relacionado con la aduana se pueden presentar: documentales de origen público o privado, y periciales.<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>
-</p>
-<p>La autoridad cuenta con el periodo de cuatro meses para dictar y comunicar la resolución una vez que el expediente se haya integrado correctamente<xref ref-type="fn" rid="fn17"><sup>17</sup></xref>. Tal resolución puede ser de carácter absolutoria, si se comprueba la estancia legal o posesión en México de los productos provenientes del extranjero; o condenatoria, al no haberse comprobado la estancia legal o posesión en México los productos de origen extranjero, pasando propiedad del fisco federal, fincándose créditos fiscales, correspondientes a la contribuciones, aprovechamientos, multas y accesorios omitidos. </p>
-</sec>
-<sec sec-type="methods">
-<title>IV. Metodología</title>
-<sec>
-<title><italic>Tipo de estudio</italic></title>
-<p>El proceso de investigación es de orientación cualitativa, a efecto de entender los obstáculos legales y prácticas informales que se muestran en el transcurso de la ejecución del PAMA, tanto en el ámbito público como en el privado. Lo anterior por especialistas en materia aduanera, a fin de lograr un mejor desarrollo del procedimiento legal. </p>
-<p>En relación con la investigación descriptiva, se seleccionaron diez especialistas en materia aduanera con el propósito de realizarles una entrevista. Dicha entrevista se divide en una categoría, centrada en los obstáculos legales y prácticas informales, conformada por cinco preguntas abiertas. </p>
-<p>A efectos de esta exploración, se utilizó la muestra de individuos expertos en el tema de estudio<xref ref-type="fn" rid="fn18"><sup>18</sup></xref>, provenientes tanto del gobierno y el sector privado, cuya formación y experiencia en materia aduanera permitiera comprender los obstáculos legales y prácticas informales.</p>
-<p>El criterio de elección de los actores a entrevistar se fundó en aquellos sujetos expertos en el procedimiento legal, que contaran con el conocimiento y la experiencia del tema.</p>
-<p>Al momento de llevar a cabo las entrevistas, se observaron los gestos, mímicas y muecas de los participantes, con la intención de interpretar lo que expresaban y relacionar con lo que comentaban de viva voz. </p>
-<p>Se realizó la revisión documental relacionada con el tema de exploración con el fin de adquirir información de diferentes teóricos que expusieran distintas visiones sobre el procedimiento legal a nivel internacional, nacional y local. </p>
-</sec>
-<sec>
-<title><italic>Técnicas e instrumentos para la recolección de la información</italic></title>
-<p>Para fines de la presente exploración, se aplicó la técnica de entrevista estructurada, utilizando un cuestionario compuesto por cinco preguntas abiertas, con el objetivo de permitir a los participantes contestar con sus propias palabras. Estas sesiones se llevaron a cabo en oficinas de trabajo y áreas de cubículo.</p>
-<p>Con el objetivo de detectar los obstáculos legales y prácticas informales, que inciden en el procedimiento legal, a través del análisis de las prácticas formales de acuerdo con el marco normativo e informales, contrarias a las disposiciones legales que se presentan durante la ejecución del procedimiento legal en el sector público y privado. </p>
-<p>Se utilizó una bitácora en la que se plasmaron comentarios, sentimientos y conductas expresadas durante el desarrollo de la entrevista. Las notas se guardaron de manera independiente, por fecha y hora. Se consideraron considerando ideas, experiencias, creencias, actitudes y valores, interactuando lo formal e informal. </p>
-<p>Las cinco preguntas estructuradas en una sola categoría se distribuyeron de la siguiente manera: </p>
-<p>
-<list list-type="order">
-<list-item>
-<p>¿Cuál es su opinión del proceder o actuar de la autoridad en el desarrollo del procedimiento administrativo en materia aduanera? </p>
-</list-item>
-<list-item>
-<p>¿Qué está funcionando? </p>
-</list-item>
-<list-item>
-<p>¿Qué no está funcionando?</p>
-</list-item>
-<list-item>
-<p>¿Cómo se pudiera mejorar el procedimiento administrativo en materia aduanera? </p>
-</list-item>
-<list-item>
-<p>¿Qué obstaculiza la realización de estas mejoras?</p>
-</list-item>
-</list>
-</p>
-</sec>
-</sec>
-<sec sec-type="results|discussion">
-<title>V. Resultados y discusión</title>
-<p>El proceso de codificación de las entrevistas se llevó a cabo una vez obtenidas las respuestas de los participantes, o al menos las respuestas más relevantes dentro de la muestra de interrogatorios aplicados. De igual forma, se señala que el análisis del contenido se efectúa mediante la codificación, procedimiento por el cual los atributos pertinentes de los elementos de un mensaje son convertidos en unidades que faciliten su representación y un estudio objetivo.<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>
-</p>
-<p>Como resultado de las entrevistas, se realizó una transcripción de la información proporcionada por cada uno de los participantes, con el objetivo de realizar un análisis integral de lo informado. </p>
-<p>Mediante una evaluación del contenido, se definió un conjunto de categorías que están sistemáticamente interconectadas a través de declaraciones de relaciones, las cuales permiten responden a las interrogantes quién, qué, dónde, cuándo, por qué y con qué efectos sucede un evento social.<xref ref-type="fn" rid="fn20"><sup>20</sup></xref>
-</p>
-<p>Asimismo, se utilizó una matriz para organizar los datos en el orden en que se realizaron las entrevistas, incluyendo en ellas el número de orden, preguntas y respuestas de los entrevistados, tipificados con las letras A, B, C, D, E, F, G, H, I y J.</p>
-<p>En caso de que existan grabaciones de audio y video derivadas de entrevistas y sesiones, es necesario transcribirlas para realizar un análisis exhaustivo del lenguaje. No obstante, algunos individuos podrían optar por analizar directamente los materiales. La mayor parte de los escritores recomiendan transcribir y examinar las transcripciones, asimismo de examinar verdaderamente los recursos ópticos y ótico. Todo se basa en los medios a nuestro alcance y en el dispositivo de investigadores que poseamos.<xref ref-type="fn" rid="fn21"><sup>21</sup></xref>
-</p>
-<p>Se definió la categoría “obstáculos” (restricciones legales y prácticas informales), de la cual se desprendieron trece subcategorías. Cada una de estas fue subrayada y clasificada con distintos colores de acuerdo al tema, apegándose a la técnica de colores, como producto del análisis realizado de los datos proporcionados por los sujetos de investigación.</p>
-<p>La clasificación de la información comprende aspectos referentes a la numeración de cada segmento de una entrevista escrita; la numeración de las planas en una libreta de campo; el coloreado de los datos de código que se obtuvieron de diversos lugares (aulas o instituciones distintas); y la transformación de las anotaciones de campo redactadas manualmente en instrumentos que pueden ser consultados. La única norma que se requiere para la organización de datos es garantizar la utilización de símbolos y tonalidades que tengan significado para los investigadores y que sean sencillamente recordables.<xref ref-type="fn" rid="fn22"><sup>22</sup></xref>
-</p>
-<p>En relación con las diez entrevistas realizadas a los especialistas en materia aduanera, se realizó una codificación de la información como técnica para identificar los datos y clasificar cada una de las subcategorías sistemáticamente en los obstáculos (restricciones legales y prácticas informales) del procedimiento administrativo en materia aduanera, utilizando un código alfabético para su identificación y coloreando cada una de ellas.</p>
-<p>De acuerdo a las conversaciones individuales con cada persona participante, se enuncian las principales tendencias y patrones generales de respuestas obtenidas a continuación. </p>
-<sec>
-<title><italic>Conocimiento de los obstáculos (restricciones legales y prácticas informales)</italic></title>
-<p>En relación con la presente categoría, se enmarcan los obstáculos (restricciones legales y prácticas informales) que se presentan durante el desarrollo del procedimiento legal de acuerdo con la información recabada en las entrevistas.</p>
-<p>
-<table-wrap id="t1">
-<label>Tabla 1</label>
-<caption>
-<title><italic>Clasificación y puesto de los actores entrevistados</italic></title>
-</caption>
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; width: 100px; background-color: #eaeaea;"><bold>Actor</bold><bold> </bold></td>
-<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center; width: 250px; background-color: #eaeaea;"><bold>Puesto</bold><bold> </bold></td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">A</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Exfuncionario público</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">B</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Exfuncionario público</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">C</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Exfuncionario público</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">D</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Exfuncionario público</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">E</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Exfuncionaria pública</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">F</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Abogado de Aduana</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">G</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Jefe de departamento</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">H</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Exfuncionario público</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">I</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Analista de recursos y servicios</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">J</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center;">Coordinador jurídico</td>
-</tr>
-</tbody>
-</table>
-<table-wrap-foot>
-<fn id="TFN1">
-<p><italic>Fuente</italic>: elaboración propia con base en información obtenida mediante las entrevistas realizadas.</p>
-</fn>
-</table-wrap-foot>
-</table-wrap>
-</p>
-</sec>
-<sec>
-<title><italic>Subcategoría 1. Marco regulatorio</italic></title>
-<p>“El PAMA, es un procedimiento administrativo muy complicado, donde es necesario observar una normatividad muy compleja, que regula el comercio exterior” (Actor A). </p>
-<p>La autoridad debe de aplicar al pie de la letra cada uno de los preceptos legales citados, para una eficiente actuación, no obstante, “falta voluntad o actitud de mejora en el proceso y pensar en el sujeto fiscalizado” (Actor B), ya que no se apega al marco regulatorio en sus actuaciones, siendo el caso de la implementación del procedimiento legal al ser “omiso al no manifestar las características de los bienes embargados precautoriamente” (Actor J), “violando las garantías al contribuyente, sobre todo en verificación de mercancía en transporte” (Actor E). </p>
-<p>En diversas actuaciones que desarrollan las autoridades, no se apegan cabalmente a los procedimientos establecidos, pasando por alto el principio de seguridad jurídica, instituido en el artículo 14 de la carta fundamental, donde se establecen las formalidades esenciales del procedimiento.<xref ref-type="fn" rid="fn23"><sup>23</sup></xref>
-</p>
-</sec>
-<sec>
-<title><italic>Subcategoría 2. Abuso de autoridad</italic></title>
-<p>En virtud de que el sujeto pasivo desconoce la ley ―en particular, el PAMA―, “el órgano desconcentrado abusa del contribuyente” (Actor I), siendo el caso del propietario o poseedor de los artículos de origen extranjero, embargados de forma precautoria en los operativos o inspecciones en los domicilios, con independencia de comprobar su presencia legal en México, a través de la evidencia documental probatoria. Los derechos fundamentales se otorgan a la sociedad mediante una norma que sanciona, derechos, deberes, formalidades, funcionamiento y cumplimiento de los referidos derechos.<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>
-</p>
-</sec>
-<sec>
-<title><italic>Subcategoría 3. Falta de actuación de parte de la autoridad</italic></title>
-<p>En el desempeño de la autoridad, tanto en materia estatal y federal, “el número de actos no es suficiente, basta ver el número de vehículos ilegales que circulan en el estado”, (Actor D). Se continúa introduciendo mercancía de procedencia extranjera al país, sin haber cumplido con las formalidades requeridas en el proceso de importación por el contribuyente, siendo el caso de los automóviles ilegales que transitan en la ciudad. Observar y garantizar el cumplimiento correcto de las normativas vinculadas con la introducción o despacho de bienes desde o en México y, si fuera preciso, emplear las atribuciones de fiscalización establecidas en tales marcos legales.<xref ref-type="fn" rid="fn25"><sup>25</sup></xref>
-</p>
-</sec>
-<sec>
-<title><italic>Subcategoría 4. Actos de corrupción</italic></title>
-<p>La corrupción se hace presente por fallas en el sistema y se trata de un problema administrativo que se surge por marcos normativos de escasa efectividad y entidades públicas debilitadas que no implementan la legislación vigente o lo hacen de forma discrecional con el gobernado, fracasando al ofrecer controles, supervisión y transparencia inadecuados.<xref ref-type="fn" rid="fn26"><sup>26</sup></xref>
-</p>
-<p>Entre las observaciones recabadas de las entrevistas, uno de los participantes afirma lo siguiente: </p>
-<disp-quote>
-<p>Se continúan presentando actos de corrupción en las aduanas y en las administraciones de auditoría de comercio exterior; en los organismos estatales coordinados de parte de funcionarios públicos de las diferentes unidades administrativas encargadas de llevar actos de fiscalización, ya que reciben remuneraciones económicas a cambio de agilizar trámites a los contribuyentes, propiciando que el sujeto pasivo busque alternativas para no ser sujeto de revisión y caer en actos de corrupción, con independencia de que la mercadería de origen extranjero se encuentre de forma legal en el país. (Actor A)</p>
-</disp-quote>
-</sec>
-<sec>
-<title><italic>Subcategoría 5. Funcionalidad del recinto fiscal</italic></title>
-<p>Una de las atribuciones de la Unidad de Administración y Finanzas es ofrecer y gestionar, de forma directa o mediante terceros especializados que se contraten los bienes muebles requeridos, con el objeto de almacenamiento y conservación respecto a los bienes muebles proporcionados por las unidades administrativas de la Agencia Nacional de Aduanas de México en lo que respecta a los procedimientos administrativos de aduana, tomándose en consideración el desistimiento, además de realizar el cuidado y salvaguarda de estos.<xref ref-type="fn" rid="fn27"><sup>27</sup></xref>
-</p>
-<p>Como mencionó el Actor B: “En el caso de inspección de mercadería en tránsito con recintos fiscales, en el lugar del retén que permitan una mayor rapidez y seguridad en el desarrollo del PAMA”, facilitando el desarrollo del PAMA y brindando una mayor certeza jurídica al contribuyente sobre los productos de origen extranjero. </p>
-</sec>
-<sec>
-<title><italic>Subcategoría 6. Entrega de mercancía embargada precautoriamente</italic></title>
-<p>Cuando el contribuyente presente evidencias documentales que demuestren estancia legal o posesión de los bienes en el país, a través de las cuales se aclaren las circunstancias por las cuales fueron embargados de forma preventiva, la autoridad administrativa que dio inicio al acta por la comprobación del cumplimiento emitirá la resolución absolutoria al instante, sin que el sujeto pasivo sea objeto de multa. En caso de que haya bienes embargados, se procederá a su entrega.<xref ref-type="fn" rid="fn28"><sup>28</sup></xref>
-</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<sec sec-type="intro"><title>I. Introducción</title>
+<p>El órgano administrativo desconcentrado, con base en la revisión de
+las declaraciones en formato electrónico, así como los documentos
+digitales o electrónicos exhibidos por el sujeto pasivo, y derivado de
+la identificación aduanera, la inspección o comprobación de bienes en el
+transporte, detecta ciertas irregularidades. En consecuencia, da inicio
+al procedimiento administrativo en materia aduanera (PAMA), llevando a
+cabo el embargo precautorio de la mercancía de procedencia extranjera, a
+efecto de garantizar que el contribuyente cumpla con todas las
+formalidades que exige el marco regulatorio en la introducción de la
+mercancía al país.</p>
+<p>Derivado de la implementación de las facultades de comprobación y
+ejecución del proceso legal, se presentan restricciones de carácter
+legal y prácticas informales por parte del sector público, las cuales
+afectan los intereses de la persona jurídica individual, personas
+jurídicas colectivas e instituciones gubernamentales. Entre dichas
+problemáticas destacan actos de corrupción, falta de valoración de
+pruebas y falta de capacitación.</p>
+<p>El marco metodológico utilizado en la presente investigación es un
+estudio con enfoque cualitativo e investigación descriptiva, con el
+soporte de la técnica de la entrevista, observación y revisión
+documental, además de la muestra de expertos. Asimismo, los
+procedimientos y herramientas para la recopilación de datos como la
+entrevista estructurada, también conocida como entrevista directiva y la
+bitácora.</p>
+<p>Se estudian y decodifican los hallazgos de la investigación, como
+producto de las entrevistas realizadas a los expertos en la disciplina
+aduanera y comercio exterior del ámbito público y privado, sobre el
+conocimiento de los obstáculos (restricciones legales y prácticas
+informales), en la ejecución del procedimiento legal, clasificándose
+mediante subcategorías.</p>
+<p>Por último, se concluye que el procedimiento legal presenta
+deficiencias en su desarrollo, tanto en el ámbito federal como el
+estatal, atribuibles a servidores públicos que llevan a cabo sus
+actuaciones fuera del marco regulatorio. En tales irregularidades se
+encuentran la falta de valoración de las pruebas, no resolver el
+procedimiento dentro de los cuatro meses, no poner a disposición del
+poseedor o tenedor los bienes embargados precautoriamente, justo después
+de comprobar la presencia legal en México, así como actos de corrupción
+entre funcionarios públicos adscritos a los diferentes niveles de
+gobierno, entre otras.</p>
+</sec><sec><title>II. El institucionalismo</title>
+<p>Las instituciones constituyen un marco normativo con el que cuenta la
+sociedad para conducirse, ya que establecen el conjunto de reglas y
+procedimientos que deben observar los funcionarios públicos en el
+ejercicio de sus cargos, así como las reglas cívicas y jurídicas que
+rigen la conducta de los ciudadanos. Por esta razón, las actuaciones del
+funcionario público deben ser apegadas al derecho, es decir, a cada uno
+de los marcos normativos adaptable a la materia aduanera.</p>
+<p>Las instituciones se definen como las normas de juego en una
+comunidad o, de carácter más formal, como las obligaciones o
+prohibiciones establecidas por los humanos que moldean la interacción
+humana.<xref ref-type="fn" rid="fn1"><sup>1</sup></xref></p>
+<p>Las instituciones, a través de los marcos normativos, conducen el
+actuar del funcionario público y conciben relaciones e intereses entre
+la sociedad y política, llegándose a anteponer los intereses personales
+sobre la aplicación de la normatividad. Hay de destacar que las
+instituciones no solamente restringen al ciudadano, sino que también
+conllevan relaciones de poder e intereses entre la sociedad. Por lo que
+para algunos actores resulta ser racional, mientras que, para otros,
+irracional. Las instituciones no solo se crean y se implementan de
+manera lógica, sino que también se encuentran incrustadas en la realidad
+política de una comunidad.<xref ref-type="fn" rid="fn2"><sup>2</sup></xref></p>
+<p>La interpretación y ejecución de las reglas por los diferentes
+actores que integran la institución gubernamental es fundamental para
+cada uno de los ciudadanos, ya que a través de ella se brinda un estado
+de derecho y certeza jurídica en sus promociones y trámites. La
+burocracia como instrumento de dominación que emerge por necesidades
+históricas será, en su aspecto positivo, un instrumento de
+administración estatal a favor de la colectividad en su agrupación. Por
+otro lado, en su aspecto negativo, empleará su posición para perpetuar
+su control y dominio sobre los
+gobernados.<xref ref-type="fn" rid="fn3"><sup>3</sup></xref></p>
+<p>Para el nuevo institucionalismo, la institucionalidad se concibe como
+un proceso intelectual, donde las responsabilidades legislativas
+ingresan a la existencia colectiva como acontecimientos que los
+participantes reconocen, no se refiere a reglas y principios, sino como
+guiones dados por supuestos, reglas y clasificaciones. Los entornos
+organizacionales están formados por creencias reconocidas como hechos y
+normas ampliamente establecidas, que actúan como base en la
+organización, considerándose las instituciones como un resultado de la
+actividad humana.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref></p>
+<p>En el institucionalismo contemporáneo, la conducta organizacional no
+se encuentra primordialmente en el marco formal de la entidad
+organizativa ni en la definición del fin y objetivos ni siquiera en
+generación de productos y prestaciones. En realidad, se encuentra en la
+infinidad de métodos subyacentes de un conjunto de participantes
+formales e informales de una organización, las disputas entre estos
+grupos, las políticas de contratación, las fuerzas externas que limiten
+la dinámica organizativa, la contienda por el reconocimiento, los
+principios sociales y la organización de la jurisdicción se centra en
+aquellos elementos que, en un momento específico, sirven para la
+elaboración de mitos racionales que otorgan orden y significado aparente
+a la organización.<xref ref-type="fn" rid="fn5"><sup>5</sup></xref></p>
+</sec><sec><title>III. El procedimiento administrativo en materia aduanera</title>
+<p>Dentro de las facultades de comprobación se encuentra el PAMA, a
+través del cual la Aduana realiza una serie de observaciones al
+contribuyente, por incumplimiento al marco regulatorio. Las autoridades
+aduaneras poseen atribuciones oficiales para implementar el
+reconocimiento en aduanas, la revisión de mercancías mientras se
+transporta, la verificación de documentos entregados durante el proceso
+aduanero y las habilidades para revisar en el ámbito
+aduanero.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref></p>
+<p>Para Vallejo, el PAMA es la serie de acciones establecidas en la
+legislación, vinculadas de manera sucesiva con el propósito de dictar
+una resolución condenatoria o absolutoria, procedente de las situaciones
+identificadas por la jurisdicción aduanera en el uso de sus derechos de
+comprobación en operaciones de comercio internacional, venerando la
+garantía de audiencia del individuo al evaluar las evidencias y examinar
+las razones que intenten probar la legitima importación, posesión o
+estancia de bienes.<xref ref-type="fn" rid="fn7"><sup>7</sup></xref></p>
+<p>Cualquier acto privativo de parte de la autoridad debe constar por
+escrito y encontrarse debidamente fundado y motivado, debiendo cumplirse
+la autoridad con las formalidades legales aplicables. En caso contrario,
+este acto podrá ser declarado ilegal o inconstitucional por la autoridad
+competente, lo que dará lugar a la nulidad del acto administrativo,
+incluso cuando derive de las facultades de fiscalización o de
+procedimiento legal. En cuanto a la base legal y razonamiento de
+cualquier acto de autoridad, la norma suprema de México dicta que
+ninguno debe ser perturbado en su persona, familia, residencia, cargos o
+bienes, a menos que sea por mandato escrito de la jurisdicción
+correspondiente que establezca y fundamente la razón legal del
+proceso.<xref ref-type="fn" rid="fn8"><sup>8</sup></xref></p>
+<p>El acta circunstanciada de hechos, redactada con el propósito de
+verificar productos y automóviles en transporte, debe incluir la
+información de identificación del personal responsable del
+procedimiento. En el supuesto de que este requiera el soporte documental
+que confirme la presencia legal y posesión de estos, se deberá remitir a
+las instalaciones oficiales para efectuar un reconocimiento
+exhaustivo.<xref ref-type="fn" rid="fn9"><sup>9</sup></xref></p>
+<p>De acuerdo con <italic>García</italic> et al., el embargo precautorio
+se define como la medida cautelar para garantizar el cumplimiento de una
+sentencia definitiva, con relación a los bienes del deudor, con el único
+objetivo de asegurar el cumplimiento de una obligación
+personal.<xref ref-type="fn" rid="fn10"><sup>10</sup></xref></p>
+<p>El embargo precautorio efectuado por el Órgano Administrativo
+Desconcentrado conlleva la retención de los productos y, en su caso, el
+bien donde se transporta, para garantizar el interés fiscal. Es decir,
+cubrir el importe de los aranceles, aprovechamientos, sanciones y
+accesorios que se puedan generar. La restricción preventiva que
+implementen las autoridades de aduanas podrá ser reemplazada conforme a
+los tipos de garantías definidos en el Código Fiscal de la Federación,
+salvo lo determinado en el artículo 183-A de la Ley
+Aduanera.<xref ref-type="fn" rid="fn11"><sup>11</sup></xref></p>
+<p>Implementar el proceso de fiscalización indica que la autoridad
+aduanera haya detectado una irregularidad en los productos de origen
+extranjero, motivo por el cual se procedió al embargo precautorio, a fin
+de que el contribuyente, en un plazo de diez días hábiles, compruebe su
+legal posesión, automotor o gestión de artículos de origen extranjero.
+En el transcurso del proceso administrativo aduanero, las autoridades de
+aduanas emitirán el acta de inicio del procedimiento legal cuando, por
+razones de la revisión aduanera, comprobación de bienes en transporte o
+el uso del procedimiento de fiscalización, se lleve a cabo la retención
+precautoria de bienes, de acuerdo con lo establecido por el marco
+normativo en materia
+aduanera.<xref ref-type="fn" rid="fn12"><sup>12</sup></xref></p>
+<p>Las autoridades federales y estatales tienen la obligación de
+comunicar al sujeto pasivo el acta de inicio derivada del acto de
+comprobación, ya sea en las instalaciones de la institución
+gubernamental, en el domicilio manifestado para escuchar y admitir todo
+tipo de notificaciones o en su domicilio fiscal. La autoridad encargada
+de elaborar el acta mencionada convendrá proporcionar al propietario,
+poseedor y/o tenedor, en el mismo momento, una copia del acta de inicio
+derivada de la comprobación de cumplimiento de obligaciones, dándose
+como notificado.<xref ref-type="fn" rid="fn13"><sup>13</sup></xref></p>
+<p>Mediante el acta de inicio derivada de la comprobación de
+cumplimiento de obligaciones, al contribuyente se le da a conocer el
+motivo de la incautación provisional de los artículos de origen
+extranjero, así como el sustento legal que originó el mismo.</p>
+<p>La autoridad de aduana informará, mediante un escrito o un acta,
+sobre los eventos o faltas en el entero de aranceles, cuotas
+compensatorias y, si es necesario, aplicará sanciones. El interesado
+tiene diez días hábiles, comenzando el día después de recibir la
+notificación del escrito o acta, para presentar documentos probatorios y
+argumentos que considere
+necesarios.<xref ref-type="fn" rid="fn14"><sup>14</sup></xref></p>
+<p>Es así como se expondrán los argumentos y se presentarán las pruebas
+con el propósito de desvirtuar las irregularidades identificadas por la
+autoridad fiscalizadora que se mencionaron en el acta de inicio derivada
+de la comprobación de cumplimiento de
+obligaciones.<xref ref-type="fn" rid="fn15"><sup>15</sup></xref> Respecto a las
+pruebas en el procedimiento administrativo relacionado con la aduana se
+pueden presentar: documentales de origen público o privado, y
+periciales.<xref ref-type="fn" rid="fn16"><sup>16</sup></xref></p>
+<p>La autoridad cuenta con el periodo de cuatro meses para dictar y
+comunicar la resolución una vez que el expediente se haya integrado
+correctamente<xref ref-type="fn" rid="fn17"><sup>17</sup></xref>. Tal resolución
+puede ser de carácter absolutoria, si se comprueba la estancia legal o
+posesión en México de los productos provenientes del extranjero; o
+condenatoria, al no haberse comprobado la estancia legal o posesión en
+México los productos de origen extranjero, pasando propiedad del fisco
+federal, fincándose créditos fiscales, correspondientes a la
+contribuciones, aprovechamientos, multas y accesorios omitidos.</p>
+</sec><sec sec-type="methods"><title>IV. Metodología</title>
+</sec><sec><title>Tipo de estudio</title>
+<p>El proceso de investigación es de orientación cualitativa, a efecto
+de entender los obstáculos legales y prácticas informales que se
+muestran en el transcurso de la ejecución del PAMA, tanto en el ámbito
+público como en el privado. Lo anterior por especialistas en materia
+aduanera, a fin de lograr un mejor desarrollo del procedimiento
+legal.</p>
+<p>En relación con la investigación descriptiva, se seleccionaron diez
+especialistas en materia aduanera con el propósito de realizarles una
+entrevista. Dicha entrevista se divide en una categoría, centrada en los
+obstáculos legales y prácticas informales, conformada por cinco
+preguntas abiertas.</p>
+<p>A efectos de esta exploración, se utilizó la muestra de individuos
+expertos en el tema de estudio<xref ref-type="fn" rid="fn18"><sup>18</sup></xref>,
+provenientes tanto del gobierno y el sector privado, cuya formación y
+experiencia en materia aduanera permitiera comprender los obstáculos
+legales y prácticas informales.</p>
+<p>El criterio de elección de los actores a entrevistar se fundó en
+aquellos sujetos expertos en el procedimiento legal, que contaran con el
+conocimiento y la experiencia del tema.</p>
+<p>Al momento de llevar a cabo las entrevistas, se observaron los
+gestos, mímicas y muecas de los participantes, con la intención de
+interpretar lo que expresaban y relacionar con lo que comentaban de viva
+voz.</p>
+<p>Se realizó la revisión documental relacionada con el tema de
+exploración con el fin de adquirir información de diferentes teóricos
+que expusieran distintas visiones sobre el procedimiento legal a nivel
+internacional, nacional y local.</p>
+</sec><sec><title>Técnicas e instrumentos para la recolección de la
+información</title>
+<p>Para fines de la presente exploración, se aplicó la técnica de
+entrevista estructurada, utilizando un cuestionario compuesto por cinco
+preguntas abiertas, con el objetivo de permitir a los participantes
+contestar con sus propias palabras. Estas sesiones se llevaron a cabo en
+oficinas de trabajo y áreas de cubículo.</p>
+<p>Con el objetivo de detectar los obstáculos legales y prácticas
+informales, que inciden en el procedimiento legal, a través del análisis
+de las prácticas formales de acuerdo con el marco normativo e
+informales, contrarias a las disposiciones legales que se presentan
+durante la ejecución del procedimiento legal en el sector público y
+privado.</p>
+<p>Se utilizó una bitácora en la que se plasmaron comentarios,
+sentimientos y conductas expresadas durante el desarrollo de la
+entrevista. Las notas se guardaron de manera independiente, por fecha y
+hora. Se consideraron considerando ideas, experiencias, creencias,
+actitudes y valores, interactuando lo formal e informal.</p>
+<p>Las cinco preguntas estructuradas en una sola categoría se
+distribuyeron de la siguiente manera:</p>
+<p>1. ¿Cuál es su opinión del proceder o actuar de la autoridad en el
+desarrollo del procedimiento administrativo en materia aduanera?</p>
+</sec><sec><title>2. ¿Qué está funcionando?</title>
+</sec><sec><title>3. ¿Qué no está funcionando?</title>
+</sec><sec><title>4. ¿Cómo se pudiera mejorar el procedimiento administrativo en
+materia aduanera?</title>
+</sec><sec><title>5. ¿Qué obstaculiza la realización de estas mejoras?</title>
+</sec><sec sec-type="results"><title>V. Resultados y discusión</title>
+<p>El proceso de codificación de las entrevistas se llevó a cabo una vez
+obtenidas las respuestas de los participantes, o al menos las respuestas
+más relevantes dentro de la muestra de interrogatorios aplicados. De
+igual forma, se señala que el análisis del contenido se efectúa mediante
+la codificación, procedimiento por el cual los atributos pertinentes de
+los elementos de un mensaje son convertidos en unidades que faciliten su
+representación y un estudio
+objetivo.<xref ref-type="fn" rid="fn19"><sup>19</sup></xref></p>
+<p>Como resultado de las entrevistas, se realizó una transcripción de la
+información proporcionada por cada uno de los participantes, con el
+objetivo de realizar un análisis integral de lo informado.</p>
+<p>Mediante una evaluación del contenido, se definió un conjunto de
+categorías que están sistemáticamente interconectadas a través de
+declaraciones de relaciones, las cuales permiten responden a las
+interrogantes quién, qué, dónde, cuándo, por qué y con qué efectos
+sucede un evento social.<xref ref-type="fn" rid="fn20"><sup>20</sup></xref></p>
+<p>Asimismo, se utilizó una matriz para organizar los datos en el orden
+en que se realizaron las entrevistas, incluyendo en ellas el número de
+orden, preguntas y respuestas de los entrevistados, tipificados con las
+letras A, B, C, D, E, F, G, H, I y J.</p>
+<p>En caso de que existan grabaciones de audio y video derivadas de
+entrevistas y sesiones, es necesario transcribirlas para realizar un
+análisis exhaustivo del lenguaje. No obstante, algunos individuos
+podrían optar por analizar directamente los materiales. La mayor parte
+de los escritores recomiendan transcribir y examinar las
+transcripciones, asimismo de examinar verdaderamente los recursos
+ópticos y ótico. Todo se basa en los medios a nuestro alcance y en el
+dispositivo de investigadores que
+poseamos.<xref ref-type="fn" rid="fn21"><sup>21</sup></xref></p>
+<p>Se definió la categoría “obstáculos” (restricciones legales y
+prácticas informales), de la cual se desprendieron trece subcategorías.
+Cada una de estas fue subrayada y clasificada con distintos colores de
+acuerdo al tema, apegándose a la técnica de colores, como producto del
+análisis realizado de los datos proporcionados por los sujetos de
+investigación.</p>
+<p>La clasificación de la información comprende aspectos referentes a la
+numeración de cada segmento de una entrevista escrita; la numeración de
+las planas en una libreta de campo; el coloreado de los datos de código
+que se obtuvieron de diversos lugares (aulas o instituciones distintas);
+y la transformación de las anotaciones de campo redactadas manualmente
+en instrumentos que pueden ser consultados. La única norma que se
+requiere para la organización de datos es garantizar la utilización de
+símbolos y tonalidades que tengan significado para los investigadores y
+que sean sencillamente
+recordables.<xref ref-type="fn" rid="fn22"><sup>22</sup></xref></p>
+<p>En relación con las diez entrevistas realizadas a los especialistas
+en materia aduanera, se realizó una codificación de la información como
+técnica para identificar los datos y clasificar cada una de las
+subcategorías sistemáticamente en los obstáculos (restricciones legales
+y prácticas informales) del procedimiento administrativo en materia
+aduanera, utilizando un código alfabético para su identificación y
+coloreando cada una de ellas.</p>
+<p>De acuerdo a las conversaciones individuales con cada persona
+participante, se enuncian las principales tendencias y patrones
+generales de respuestas obtenidas a continuación.</p>
+</sec><sec><title>Conocimiento de los obstáculos (restricciones legales y
+prácticas informales)</title>
+<p>En relación con la presente categoría, se enmarcan los obstáculos
+(restricciones legales y prácticas informales) que se presentan durante
+el desarrollo del procedimiento legal de acuerdo con la información
+recabada en las entrevistas.</p>
+
+<table-wrap id="t1"><label>Tabla 1</label><caption><title>Clasificación y puesto de los actores entrevistados</title></caption><table><tbody><tr><td>Actor</td><td>Puesto</td></tr><tr><td>A</td><td>Exfuncionario público</td></tr><tr><td>B</td><td>Exfuncionario público</td></tr><tr><td>C</td><td>Exfuncionario público</td></tr><tr><td>D</td><td>Exfuncionario público</td></tr><tr><td>E</td><td>Exfuncionaria pública</td></tr><tr><td>F</td><td>Abogado de Aduana</td></tr><tr><td>G</td><td>Jefe de departamento</td></tr><tr><td>H</td><td>Exfuncionario público</td></tr><tr><td>I</td><td>Analista de recursos y servicios</td></tr><tr><td>J</td><td>Coordinador jurídico</td></tr></tbody></table><table-wrap-foot><fn fn-type="other" id="fn37"><label>37</label><p>Fuente: elaboración propia con base en información obtenida mediante las entrevistas realizadas.</p></fn></table-wrap-foot></table-wrap>
+
+</sec><p><italic>Fuente</italic>: elaboración propia con base en información
+obtenida mediante las entrevistas realizadas.</p><sec><title>Subcategoría 1. Marco regulatorio</title>
+<p>“El PAMA, es un procedimiento administrativo muy complicado, donde es
+necesario observar una normatividad muy compleja, que regula el comercio
+exterior” (Actor A).</p>
+<p>La autoridad debe de aplicar al pie de la letra cada uno de los
+preceptos legales citados, para una eficiente actuación, no obstante,
+“falta voluntad o actitud de mejora en el proceso y pensar en el sujeto
+fiscalizado” (Actor B), ya que no se apega al marco regulatorio en sus
+actuaciones, siendo el caso de la implementación del procedimiento legal
+al ser “omiso al no manifestar las características de los bienes
+embargados precautoriamente” (Actor J), “violando las garantías al
+contribuyente, sobre todo en verificación de mercancía en transporte”
+(Actor E).</p>
+<p>En diversas actuaciones que desarrollan las autoridades, no se apegan
+cabalmente a los procedimientos establecidos, pasando por alto el
+principio de seguridad jurídica, instituido en el artículo 14 de la
+carta fundamental, donde se establecen las formalidades esenciales
+del procedimiento.<xref ref-type="fn" rid="fn23"><sup>23</sup></xref></p>
+</sec><sec><title>Subcategoría 2. Abuso de autoridad</title>
+<p>En virtud de que el sujeto pasivo desconoce la ley ―en particular, el
+PAMA―, “el órgano desconcentrado abusa del contribuyente” (Actor I),
+siendo el caso del propietario o poseedor de los artículos de origen
+extranjero, embargados de forma precautoria en los operativos o
+inspecciones en los domicilios, con independencia de comprobar su
+presencia legal en México, a través de la evidencia documental
+probatoria. Los derechos fundamentales se otorgan a la sociedad mediante
+una norma que sanciona, derechos, deberes, formalidades, funcionamiento
+y cumplimiento de los referidos
+derechos.<xref ref-type="fn" rid="fn24"><sup>24</sup></xref></p>
+</sec><sec><title>Subcategoría 3. Falta de actuación de parte de la
+autoridad</title>
+<p>En el desempeño de la autoridad, tanto en materia estatal y federal,
+“el número de actos no es suficiente, basta ver el número de vehículos
+ilegales que circulan en el estado”, (Actor D). Se continúa
+introduciendo mercancía de procedencia extranjera al país, sin haber
+cumplido con las formalidades requeridas en el proceso de importación
+por el contribuyente, siendo el caso de los automóviles ilegales que
+transitan en la ciudad. Observar y garantizar el cumplimiento correcto
+de las normativas vinculadas con la introducción o despacho de bienes
+desde o en México y, si fuera preciso, emplear las atribuciones de
+fiscalización establecidas en tales marcos
+legales.<xref ref-type="fn" rid="fn25"><sup>25</sup></xref></p>
+</sec><sec><title>Subcategoría 4. Actos de corrupción</title>
+<p>La corrupción se hace presente por fallas en el sistema y se trata de
+un problema administrativo que se surge por marcos normativos de escasa
+efectividad y entidades públicas debilitadas que no implementan la
+legislación vigente o lo hacen de forma discrecional con el gobernado,
+fracasando al ofrecer controles, supervisión y transparencia
+inadecuados.<xref ref-type="fn" rid="fn26"><sup>26</sup></xref></p>
+<p>Entre las observaciones recabadas de las entrevistas, uno de los
+participantes afirma lo siguiente:</p>
+<p>Se continúan presentando actos de corrupción en las aduanas y en las
+administraciones de auditoría de comercio exterior; en los organismos
+estatales coordinados de parte de funcionarios públicos de las
+diferentes unidades administrativas encargadas de llevar actos de
+fiscalización, ya que reciben remuneraciones económicas a cambio de
+agilizar trámites a los contribuyentes, propiciando que el sujeto pasivo
+busque alternativas para no ser sujeto de revisión y caer en actos de
+corrupción, con independencia de que la mercadería de origen extranjero
+se encuentre de forma legal en el país. (Actor A)</p>
+</sec><sec><title>Subcategoría 5. Funcionalidad del recinto
+fiscal</title>
+<p>Una de las atribuciones de la Unidad de Administración y Finanzas es
+ofrecer y gestionar, de forma directa o mediante terceros especializados
+que se contraten los bienes muebles requeridos, con el objeto de
+almacenamiento y conservación respecto a los bienes muebles
+proporcionados por las unidades administrativas de la Agencia Nacional
+de Aduanas de México en lo que respecta a los procedimientos
+administrativos de aduana, tomándose en consideración el desistimiento,
+además de realizar el cuidado y salvaguarda de
+estos.<xref ref-type="fn" rid="fn27"><sup>27</sup></xref></p>
+<p>Como mencionó el Actor B: “En el caso de inspección de mercadería en
+tránsito con recintos fiscales, en el lugar del retén que permitan una
+mayor rapidez y seguridad en el desarrollo del PAMA”, facilitando el
+desarrollo del PAMA y brindando una mayor certeza jurídica al
+contribuyente sobre los productos de origen extranjero.</p>
+</sec><sec><title>Subcategoría 6. Entrega de mercancía embargada
+precautoriamente</title>
+<p>Cuando el contribuyente presente evidencias documentales que
+demuestren estancia legal o posesión de los bienes en el país, a través
+de las cuales se aclaren las circunstancias por las cuales fueron
+embargados de forma preventiva, la autoridad administrativa que dio
+inicio al acta por la comprobación del cumplimiento emitirá la
+resolución absolutoria al instante, sin que el sujeto pasivo sea objeto
+de multa. En caso de que haya bienes embargados, se procederá a su
+entrega.<xref ref-type="fn" rid="fn28"><sup>28</sup></xref></p>
 <p>Tal como mencionó el Actor A:</p>
-<disp-quote>
-<p>La Ley Aduanera señala que cuando el contribuyente acredite con documentación su legal importación de los bienes dentro del plazo de diez días, deberá ser puesta de inmediato en favor de éste […] Por el contrario, invariablemente siempre se toma el plazo de cuatro meses que indican las disposiciones legales, como si fuese necesario en muchos casos, tanto tiempo para validar la existencia de un pedimento de importación en sus bases de datos institucionales. (Actor A)</p>
-</disp-quote>
-</sec>
-<sec>
-<title><italic>Subcategoría 7. Falta de valoración de las pruebas</italic></title>
-<p>Una vez que se da inicio al PAMA, el contribuyente cuenta con el lapso de diez días hábiles para exhibir el escrito de probanzas y argumentos, exhibiendo las pruebas documentales para desvirtuar el embargo precautorio en tiempo y forma. </p>
-<disp-quote>
-<p>“La autoridad muchas veces no valora las pruebas o lo hace de forma incorrecta, que aportan los contribuyentes y paisanos, mediante las cuales acreditan la legal estancia en el territorio mexicano de sus bienes y mercancías” (Actor C), afectando el patrimonio del sujeto pasivo que ingresa al país en calidad de turista y dejándolo en estado de indefensión ante la unidad administrativa, “siendo un acto unilateral, favoreciendo los intereses de autoridad aduanera” (Actor E). </p>
-</disp-quote>
-<p>El Estado se aprovecha de la institucionalidad fiscal y judicial, con el fin de infringir los derechos del sujeto pasivo, careciendo de sensibilidad y comprensión.<xref ref-type="fn" rid="fn29"><sup>29</sup></xref>
-</p>
-<p>Por otro lado, resalta una de las aportaciones de los entrevistados: </p>
-<disp-quote>
-<p>Se da la situación de que la autoridad tiene metas específicas de fiscalización que tiene que ir incrementando, por lo que tratan de llevar a cabo el mayor número de procedimientos administrativos en materia aduanera a efecto de obtener más ingreso para la administración pública, por lo que recae en que no valoren dichas pruebas ofrecidas por los contribuyentes con la finalidad de que éste abandone la mercancía para adjudicársela y posteriormente realizar gestiones de cobro del crédito fiscal que determinará. (Actor C)</p>
-</disp-quote>
-</sec>
-<sec>
-<title><italic>Subcategoría 8. Resolución del procedimiento administrativo en materia aduanera</italic></title>
-<p>La autoridad en competencia federal y estatal dispone de un periodo de cuatro meses para pronunciar una resolución de carácter absolutoria o condenatoria, contados a partir de que se considera debidamente anexada la documentación al expediente derivado de la comprobación de cumplimiento, “en el ámbito estatal, demasiados casos exceden de cuatro meses para la resolución final” (Actor B). La anterior afirmación incumple el término legal establecido, emitiéndose la resolución de forma extemporánea, propiciando que el propietario, poseedor y/o tenedor, presente un mecanismo de defensa, con el fin de anular el acto realizado por la autoridad, en virtud de no haber resuelto conforme al termino estipulado. </p>
-<p>Este procedimiento administrativo tiene como finalidad pronunciar una resolución, ya sea de carácter condenatoria o absolutoria dentro del término legal de cuatro meses, para determinar los impuestos omitidos, créditos fiscales y sanciones que correspondan, en el caso de ser procedente.<xref ref-type="fn" rid="fn30"><sup>30</sup></xref>
-</p>
-</sec>
-<sec>
-<title><italic>Subcategoría 9. Créditos fiscales</italic></title>
-<p>La resolución del PAMA puede ser de carácter absolutoria o condenatoria, siendo en esta última donde se fincan créditos fiscales por la omisión del pago de impuestos, debido a la introducción de productos extranjeros al país, requiriendo al contribuyente el entero de los aranceles, derechos y sanciones, “siendo en la mayoría de los casos excesivos y se vuelven muchas veces impagables” (Actor A), por el sujeto pasivo, encontrándose “fuera de su alcance” (Actor J), en razón de no contar con los medios para liquidar los créditos fincados por la Administración Desconcentrada de Recaudación, perdiendo el derecho del descuento, por no liquidarse dentro del término legal establecido.</p>
-<p>Con el fin de que pueda observar los comportamientos típicos antijuridicos, es de gran importancia que la unidad administrativa diseñe de manera asertiva las sanciones para causar el suficiente menoscabo al sujeto pasivo y minimizar la conducta de incumplimiento a la norma jurídica.<xref ref-type="fn" rid="fn31"><sup>31</sup></xref>
-</p>
-</sec>
-<sec>
-<title><italic>Subcategoría 10. Transferencia de mercancía que pasó a propiedad del fisco federal</italic></title>
-<p>El proceso de trasferencia de productos embargados precautoriamente, que pasaron a propiedad del Gobierno Federal por no haberse comprobado la legal estancia en el país, al Instituto para Devolver al Pueblo lo Robado (INDEP), “es demasiado lento, ya que existe mercancía pendiente de transferirse de varios ejercicios y el personal adscrito al INDEP, ocasionalmente no acepta la totalidad de los bienes, quedando mercancía pendiente de transferirse” (Actor I). </p>
-<p>Las propiedades embargadas o aseguradas en el desempeño de sus funciones que han transferido a propiedad del órgano desconcentrado o de las que pueda organizar de acuerdo con la legislación pertinente, deben ser transferidas a la instancia competente<xref ref-type="fn" rid="fn32"><sup>32</sup></xref>.</p>
-</sec>
-<sec>
-<title><italic>Subcategoría 11. Asistencia al contribuyente</italic></title>
-<p>Como resaltan los entrevistados, “Se debe brindar mayor información a los paisanos y contribuyentes respecto a los documentos con los que pueden acreditar la estancia legal de sus bienes o mercancía en México” (Actor C), a fin de que puedan recuperar los productos de origen extranjero asegurados precautoriamente en el país y proporcionarle “una mayor celeridad a los procedimientos iniciados” (Actor C). </p>
-<p>Asimismo, concientizarlos para “que se cercioren de la documentación que les van a dar, ya sean facturas, pedimentos de importación” (Actor G), derivado de la compra de mercancía de procedencia extranjera, ya que pueden resultar apócrifos. Por otro lado, manifestar mucha más calidez, calidad y empatía al ciudadano, durante el desarrollo de las atribuciones de fiscalización.</p>
-<p>En los organismos del sector público, la transparencia fiscal considera la asistencia al sujeto pasivo de forma gratuita de parte de la autoridad, siendo una de sus atribuciones proveerlo de información en el ejercicio de sus responsabilidades fiscales e informarle al contribuyente sobre las disposiciones fiscales y los estándares que regulan el sistema fiscal mexicano.<xref ref-type="fn" rid="fn33"><sup>33</sup></xref>
-</p>
-</sec>
-<sec>
-<title><italic>Subcategoría 12. Falta de capacitación</italic></title>
-<p>El funcionario público que ingrese a la aduana y vaya desempeñar funciones en el área jurídica, relacionado con el PAMA, debe recibir una “constante capacitación” (Actor F), así como el personal que ya se encuentra adscrito a la institución, ya que “resulta perjudicial” (Actor F) para la aduana, en razón al desconocimiento del marco regulatorio, viéndose reflejado en las “sentencias definitivas condenatorias ante los órganos jurisdiccionales federales, así como, los fallos de la Suprema Corte de Justicia de la Nación” (Actor F). </p>
-<p>Es competencia de la Unidad de Administración y Finanzas, se debe de proporcionar la asistencia administrativa requerida en lo que concierne a la educación necesaria para la gestión de los asuntos de la agencia y trazar, establecer e implementar los cursos de formación para los colaboradores públicos que contribuyen al buen funcionamiento óptimo de sus cargos y a su desarrollo y ascenso dentro de la Agencia Nacional de Aduanas de México.<xref ref-type="fn" rid="fn34"><sup>34</sup></xref>
-</p>
-<p>El Actor A mencionó la importancia de evitar contratar personal que no cubra con el “perfil, experiencia y conocimiento en control aduanero, debiendo la autoridad “establecer filtros de control”. Es importante Interrogar y administrar las pruebas necesarias a los candidatos que quieren ser funcionarios públicos de la Agencia Nacional de Aduanas de México, así como revisar su perfil académico y experiencia laboral de acuerdo con los procedimientos establecidos.<xref ref-type="fn" rid="fn35"><sup>35</sup></xref>
-</p>
-</sec>
-<sec>
-<title><italic>Subcategoría 13. Exceso de trabajo</italic></title>
-<p>El Actor H aportó que “El exceso de trabajo o la premura del tiempo se incumplen formalidades esenciales del procedimiento”, propiciando que las actividades no se desarrollen con calidad por el personal de la aduana, transgrediendo las disposiciones legales y propiciando que el contribuyente se inconforme mediante la interposición de algún medio de defensa. </p>
-<p>Se busca hacer un diagnóstico regular del clima en la organización y crear estrategias para mejorarlo, también sensibilizar y motivar al personal y fortalecer una cultura laboral enfocada en la eficiencia, productividad y calidad.<xref ref-type="fn" rid="fn36"><sup>36</sup></xref>
-</p>
-<p>
-<table-wrap id="t2">
-<label>Tabla 2</label>
-<caption>
-<title><italic>Restricciones legales</italic></title>
-</caption>
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;"><bold>Núm.</bold></td>
-<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;"><bold>Restricciones legales</bold></td>
-<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: center; width: 400px;"><bold>Ejemplo</bold></td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">1</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Marco regulatorio</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">La ineficiente    ejecución de la Ley Aduanera y su reglamento por parte de servidores y    funcionarios públicos adscritos a la ANAM, durante la tramitación del PAMA,    se manifiesta en actuaciones inconsistentes que retrasan el procedimiento y    afectan la debida conducción de las diligencias. </td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">2</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Abuso de autoridad</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Los servidores    y funcionarios públicos adscritos a las diferentes dependencias, en    ocasiones, se aprovechan del desconocimiento que tiene el propietario,    poseedor y/o tenedor sobre el PAMA, especialmente cuando se práctica un    embargo precautorio por la presunta introducción de mercancía de procedencia    extranjera sin acreditar su legal estancia en el país.</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">3</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Falta de actuación de parte de la autoridad</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Se sigue    introduciendo al país mercancía de procedencia extrajera por parte del    propietario, poseedor y/o tenedor sin cumplir las formalidades exigidas por    la normativa aplicable.  </td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">4</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Funcionalidad del recinto fiscal</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Resulta    conveniente que la autoridad administrativa establezca y habilite el servicio    de recinto fiscal en los puntos destinados a la inspección de mercancía de    procedencia extranjera, con el propósito de ofrecer una atención más    eficiente y ordenada al propietario, poseedor y/o tenedor.</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">5</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Notificación del acta de inicio del    administrativo en materia aduanera</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">En la práctica,    al propietario, poseedor y/o tenedor de la mercancía de procedencia    extranjera, no se le notifica de manera inmediata el acta de inicio del PAMA,    sino hasta después haber transcurrido un lapso considerable.  </td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">6</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Falta de valoración de las pruebas</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">En diversas    ocasiones, la autoridad aduanera no valora debidamente las pruebas que ofrece    el propietario, poseedor y/o tenedor de la mercancía de procedencia    extranjera, ya sea por omisión o por un análisis superficial. </td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">7</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Resolución del procedimiento administrativo    en materia aduanera</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Con frecuencia,    no se emite la resolución del PAMA, ya sea absolutoria o condenatoria, dentro    del plazo de cuatro meses, aun cuando el expediente ya se encuentra    debidamente integrado.</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">8</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Créditos fiscales</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">La    Administración Desconcentrada de Recaudación establece, en ocasiones,    créditos fiscales de montos desproporcionadamente altos al propietario,    poseedor y/o tenedor de la mercancía de procedencia extranjera que no    acreditó su legal estancia en el país.</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">9</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Asistencia al contribuyente</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Con frecuencia,    no se proporciona orientación suficiente y clara al propietario, poseedor y/o    tenedor respecto de la documentación necesaria para acreditar la legal    procedencia y estancia de la mercancía de origen extranjero que fue sujeta a    embargo precautorio. </td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center;">10</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Falta de capacitación</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Resulta    indispensable fortalecer la formación y capacitación del personal adscrito al    área jurídica de la Agencia Nacional de Aduanas de México en materia del    PAMA, a fin de garantizar actuaciones uniformes, técnicamente sólidas y    apegadas la normatividad aplicable. </td>
-</tr>
-</tbody>
-</table>
-<table-wrap-foot>
-<fn id="TFN2">
-<p><italic>Fuente</italic>: elaboración propia con base en información obtenida mediante las entrevistas realizadas.</p>
-</fn>
-</table-wrap-foot>
-</table-wrap>
-</p>
-<p>
-<table-wrap id="t3">
-<label>Tabla 3</label>
-<caption>
-<title><italic>Prácticas informales</italic></title>
-</caption>
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;"><bold>Núm.</bold></td>
-<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;"><bold>Prácticas informales</bold></td>
-<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;"><bold>Ejemplo</bold></td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">1</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Actos de corrupción</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">En algunos casos, el propietario, poseedor    y/o tenedor de la mercancía de procedencia extranjera otorga una remuneración    económica indebida al personal vinculado con la aduana, a las    Administraciones de Auditoría de Comercio Exterior y/o a organismos estatales    coordinados, con la finalidad de agilizar el trámite de sus promociones y, en    su caso, eludir o flexibilizar la norma jurídica. </td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">2</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Transferencia de mercancía que pasó a    propiedad del fisco federal</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">El procedimiento para transferir al INDEP la    mercancía de procedencia extranjera embargada precautoriamente, cuya legal    estancia en el país no fue acreditada por el propietario, poseedor y/o    tenedor, resulta excesivamente lento debido a la gestión del órgano    desconcentrado de la Secretaría de Hacienda.</td>
-</tr>
-<tr>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">3</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Exceso de trabajo</td>
-<td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Derivado de la sobrecarga laboral, diversos    servidores públicos no logran desempeñar sus funciones con la eficiencia    requerida. </td>
-</tr>
-</tbody>
-</table>
-<table-wrap-foot>
-<fn id="TFN3">
-<p><italic>Fuente</italic>: elaboración propia con base en información obtenida mediante las entrevistas realizadas.</p>
-</fn>
-</table-wrap-foot>
-</table-wrap>
-</p>
-</sec>
-</sec>
-<sec sec-type="conclusions">
-<title>VI. Conclusiones</title>
-<p>El PAMA presenta deficiencias en el desarrollo, ya que el personal adscrito a las distintas instituciones gubernamentales ―ya sea en materia federal y estatal― llevan a cabo sus actuaciones fuera del marco regulatorio, sin valorar las pruebas o haciéndolo de manera incorrecta, las cuales amparan la legal permanencia en México de los bienes de origen extranjero embargados precautoriamente. </p>
-<p>La autoridad, para salvaguardar los intereses institucionales, no resuelve el PAMA dentro del periodo de cuatro meses una vez que se ha integrado de manera adecuada el expediente y tampoco pone a disposición del poseedor o tendedor, de manera inmediata, los bienes de procedencia extranjera embargados precautoriamente después de comprobar la legal estancia en el país, generándole un agravio al contribuyente y pérdidas monetarias a la federación. </p>
-<p>Los créditos fiscales derivados del inicio del PAMA, generados por la omisión del pago de impuestos, derechos, accesorios y multas al introducir mercancía de procedencia extranjera por el poseedor o tenedor, suelen ser, en ocasiones, incobrables para la autoridad. Esto se debe a que resultan excesivos para ser cubiertos por el sujeto pasivo, al no contar con recursos económicos, bienes y medios para garantizar el interés fiscal, lo que impide que la autoridad lleve a cabo el proceso recaudatorio. </p>
-<p>Se presentan actos de corrupción entre las distintas autoridades estatales y federales. Los contribuyentes entregan remuneraciones económicas para recibir un mejor servicio en materia aduanera, propiciando en el sujeto pasivo la búsqueda de alternativas para evadir las actuaciones de la autoridad, referentes a las facultades de comprobación fiscal. </p>
-<p>El proceso de transferencia de bienes embargados precautoriamente, que pasaron a propiedad del Fisco Federal, por no haberse legitimado los productos introducidos a México por el contribuyente, es demasiado lento, ya que pasan varios ejercicios para realizar el acto. Esto propicia que los bienes sean obsoletos e inutilizables para su venta y donación, por el organismo público descentralizado en México.</p>
-<p>La falta de orientación, información y asistencia al contribuyente sobre el PAMA lo vuelve vulnerable frente las facultades de comprobación, ya que desconoce sus derechos y deberes, al igual que las implicaciones que conlleva el procedimiento, al no contar con la documentación que acredite la tenencia legal en el estado mexicano de la mercancía proveniente del extranjero. Asimismo, se ve limitado en cuanto a los medios de defensa disponibles para inconformarse frente a posibles actos ilegales de la autoridad, derivados del embargo precautorio de los bienes de origen extranjero. </p>
-<p>La falta de conocimiento y experiencia del personal que ingresa a la aduana, para desempeñar sus funciones, así como la ausencia de capacitación continua del funcionario público que ya se encuentra laborando en la institución, genera un menoscabo a la autoridad como producto de sus actuaciones.</p>
-</sec>
-</body>
+<p>La Ley Aduanera señala que cuando el contribuyente acredite con
+documentación su legal importación de los bienes dentro del plazo de
+diez días, deberá ser puesta de inmediato en favor de éste […] Por el
+contrario, invariablemente siempre se toma el plazo de cuatro meses que
+indican las disposiciones legales, como si fuese necesario en muchos
+casos, tanto tiempo para validar la existencia de un pedimento de
+importación en sus bases de datos institucionales. (Actor A)</p>
+</sec><sec><title>Subcategoría 7. Falta de valoración de las
+pruebas</title>
+<p>Una vez que se da inicio al PAMA, el contribuyente cuenta con el
+lapso de diez días hábiles para exhibir el escrito de probanzas y
+argumentos, exhibiendo las pruebas documentales para desvirtuar el
+embargo precautorio en tiempo y forma.</p>
+<p>“La autoridad muchas veces no valora las pruebas o lo hace de forma
+incorrecta, que aportan los contribuyentes y paisanos, mediante las
+cuales acreditan la legal estancia en el territorio mexicano de sus
+bienes y mercancías” (Actor C), afectando el patrimonio del sujeto
+pasivo que ingresa al país en calidad de turista y dejándolo en estado
+de indefensión ante la unidad administrativa, “siendo un acto
+unilateral, favoreciendo los intereses de autoridad aduanera” (Actor
+E).</p>
+<p>El Estado se aprovecha de la institucionalidad fiscal y judicial, con
+el fin de infringir los derechos del sujeto pasivo, careciendo de
+sensibilidad y comprensión.<xref ref-type="fn" rid="fn29"><sup>29</sup></xref></p>
+<p>Por otro lado, resalta una de las aportaciones de los
+entrevistados:</p>
+<p>Se da la situación de que la autoridad tiene metas específicas de
+fiscalización que tiene que ir incrementando, por lo que tratan de
+llevar a cabo el mayor número de procedimientos administrativos en
+materia aduanera a efecto de obtener más ingreso para la administración
+pública, por lo que recae en que no valoren dichas pruebas ofrecidas por
+los contribuyentes con la finalidad de que éste abandone la mercancía
+para adjudicársela y posteriormente realizar gestiones de cobro del
+crédito fiscal que determinará. (Actor C)</p>
+</sec><sec><title>Subcategoría 8. Resolución del procedimiento
+administrativo en materia aduanera</title>
+<p>La autoridad en competencia federal y estatal dispone de un periodo
+de cuatro meses para pronunciar una resolución de carácter absolutoria o
+condenatoria, contados a partir de que se considera debidamente anexada
+la documentación al expediente derivado de la comprobación de
+cumplimiento, “en el ámbito estatal, demasiados casos exceden de cuatro
+meses para la resolución final” (Actor B). La anterior afirmación
+incumple el término legal establecido, emitiéndose la resolución de
+forma extemporánea, propiciando que el propietario, poseedor y/o
+tenedor, presente un mecanismo de defensa, con el fin de anular el acto
+realizado por la autoridad, en virtud de no haber resuelto conforme al
+termino estipulado.</p>
+<p>Este procedimiento administrativo tiene como finalidad pronunciar una
+resolución, ya sea de carácter condenatoria o absolutoria dentro del
+término legal de cuatro meses, para determinar los impuestos omitidos,
+créditos fiscales y sanciones que correspondan, en el caso de ser
+procedente.<xref ref-type="fn" rid="fn30"><sup>30</sup></xref></p>
+</sec><sec><title>Subcategoría 9. Créditos fiscales</title>
+<p>La resolución del PAMA puede ser de carácter absolutoria o
+condenatoria, siendo en esta última donde se fincan créditos fiscales
+por la omisión del pago de impuestos, debido a la introducción de
+productos extranjeros al país, requiriendo al contribuyente el entero de
+los aranceles, derechos y sanciones, “siendo en la mayoría de los casos
+excesivos y se vuelven muchas veces impagables” (Actor A), por el sujeto
+pasivo, encontrándose “fuera de su alcance” (Actor J), en razón de no
+contar con los medios para liquidar los créditos fincados por la
+Administración Desconcentrada de Recaudación, perdiendo el derecho del
+descuento, por no liquidarse dentro del término legal establecido.</p>
+<p>Con el fin de que pueda observar los comportamientos típicos
+antijuridicos, es de gran importancia que la unidad administrativa
+diseñe de manera asertiva las sanciones para causar el suficiente
+menoscabo al sujeto pasivo y minimizar la conducta de incumplimiento a
+la norma jurídica.<xref ref-type="fn" rid="fn31"><sup>31</sup></xref></p>
+</sec><sec><title>Subcategoría 10. Transferencia de mercancía que pasó a
+propiedad del fisco federal</title>
+<p>El proceso de trasferencia de productos embargados precautoriamente,
+que pasaron a propiedad del Gobierno Federal por no haberse comprobado
+la legal estancia en el país, al Instituto para Devolver al Pueblo lo
+Robado (INDEP), “es demasiado lento, ya que existe mercancía pendiente
+de transferirse de varios ejercicios y el personal adscrito al INDEP,
+ocasionalmente no acepta la totalidad de los bienes, quedando mercancía
+pendiente de transferirse” (Actor I).</p>
+<p>Las propiedades embargadas o aseguradas en el desempeño de sus
+funciones que han transferido a propiedad del órgano desconcentrado o de
+las que pueda organizar de acuerdo con la legislación pertinente, deben
+ser transferidas a la instancia
+competente<xref ref-type="fn" rid="fn32"><sup>32</sup></xref>.</p>
+</sec><sec><title>Subcategoría 11. Asistencia al
+contribuyente</title>
+<p>Como resaltan los entrevistados, “Se debe brindar mayor información a
+los paisanos y contribuyentes respecto a los documentos con los que
+pueden acreditar la estancia legal de sus bienes o mercancía en México”
+(Actor C), a fin de que puedan recuperar los productos de origen
+extranjero asegurados precautoriamente en el país y proporcionarle “una
+mayor celeridad a los procedimientos iniciados” (Actor C).</p>
+<p>Asimismo, concientizarlos para “que se cercioren de la documentación
+que les van a dar, ya sean facturas, pedimentos de importación” (Actor
+G), derivado de la compra de mercancía de procedencia extranjera, ya que
+pueden resultar apócrifos. Por otro lado, manifestar mucha más calidez,
+calidad y empatía al ciudadano, durante el desarrollo de las
+atribuciones de fiscalización.</p>
+<p>En los organismos del sector público, la transparencia fiscal
+considera la asistencia al sujeto pasivo de forma gratuita de parte de
+la autoridad, siendo una de sus atribuciones proveerlo de información en
+el ejercicio de sus responsabilidades fiscales e informarle al
+contribuyente sobre las disposiciones fiscales y los estándares que
+regulan el sistema fiscal
+mexicano.<xref ref-type="fn" rid="fn33"><sup>33</sup></xref></p>
+</sec><sec><title>Subcategoría 12. Falta de
+capacitación</title>
+<p>El funcionario público que ingrese a la aduana y vaya desempeñar
+funciones en el área jurídica, relacionado con el PAMA, debe recibir una
+“constante capacitación” (Actor F), así como el personal que ya se
+encuentra adscrito a la institución, ya que “resulta perjudicial” (Actor
+F) para la aduana, en razón al desconocimiento del marco regulatorio,
+viéndose reflejado en las “sentencias definitivas condenatorias ante los
+órganos jurisdiccionales federales, así como, los fallos de la Suprema
+Corte de Justicia de la Nación” (Actor F).</p>
+<p>Es competencia de la Unidad de Administración y Finanzas, se debe de
+proporcionar la asistencia administrativa requerida en lo que concierne
+a la educación necesaria para la gestión de los asuntos de la agencia y
+trazar, establecer e implementar los cursos de formación para los
+colaboradores públicos que contribuyen al buen funcionamiento óptimo de
+sus cargos y a su desarrollo y ascenso dentro de la Agencia Nacional de
+Aduanas de México.<xref ref-type="fn" rid="fn34"><sup>34</sup></xref></p>
+<p>El Actor A mencionó la importancia de evitar contratar personal que
+no cubra con el “perfil, experiencia y conocimiento en control aduanero,
+debiendo la autoridad “establecer filtros de control”. Es importante
+Interrogar y administrar las pruebas necesarias a los candidatos que
+quieren ser funcionarios públicos de la Agencia Nacional de Aduanas de
+México, así como revisar su perfil académico y experiencia laboral de
+acuerdo con los procedimientos
+establecidos.<xref ref-type="fn" rid="fn35"><sup>35</sup></xref></p>
+</sec><sec><title>Subcategoría 13. Exceso de trabajo</title>
+<p>El Actor H aportó que “El exceso de trabajo o la premura del tiempo
+se incumplen formalidades esenciales del procedimiento”, propiciando que
+las actividades no se desarrollen con calidad por el personal de la
+aduana, transgrediendo las disposiciones legales y propiciando que el
+contribuyente se inconforme mediante la interposición de algún medio de
+defensa.</p>
+<p>Se busca hacer un diagnóstico regular del clima en la organización y
+crear estrategias para mejorarlo, también sensibilizar y motivar al
+personal y fortalecer una cultura laboral enfocada en la eficiencia,
+productividad y calidad.<xref ref-type="fn" rid="fn36"><sup>36</sup></xref></p>
+
+<p><italic>Restricciones legales</italic></p>
+<table-wrap id="t2"><label>Tabla 2</label><caption><title>Tabla 2</title></caption><table><tbody><tr><td>Núm.</td><td>Restricciones legales</td><td>Ejemplo</td></tr><tr><td>1</td><td>Marco regulatorio</td><td>La ineficiente ejecución de la Ley Aduanera y su reglamento por parte de servidores y funcionarios públicos adscritos a la ANAM, durante la tramitación del PAMA, se manifiesta en actuaciones inconsistentes que retrasan el procedimiento y afectan la debida conducción de las diligencias.</td></tr><tr><td>2</td><td>Abuso de autoridad</td><td>Los servidores y funcionarios públicos adscritos a las diferentes dependencias, en ocasiones, se aprovechan del desconocimiento que tiene el propietario, poseedor y/o tenedor sobre el PAMA, especialmente cuando se práctica un embargo precautorio por la presunta introducción de mercancía de procedencia extranjera sin acreditar su legal estancia en el país.</td></tr><tr><td>3</td><td>Falta de actuación de parte de la autoridad</td><td>Se sigue introduciendo al país mercancía de procedencia extrajera por parte del propietario, poseedor y/o tenedor sin cumplir las formalidades exigidas por la normativa aplicable.</td></tr><tr><td>4</td><td>Funcionalidad del recinto fiscal</td><td>Resulta conveniente que la autoridad administrativa establezca y habilite el servicio de recinto fiscal en los puntos destinados a la inspección de mercancía de procedencia extranjera, con el propósito de ofrecer una atención más eficiente y ordenada al propietario, poseedor y/o tenedor.</td></tr><tr><td>5</td><td>Notificación del acta de inicio del administrativo en materia aduanera</td><td>En la práctica, al propietario, poseedor y/o tenedor de la mercancía de procedencia extranjera, no se le notifica de manera inmediata el acta de inicio del PAMA, sino hasta después haber transcurrido un lapso considerable.</td></tr><tr><td>6</td><td>Falta de valoración de las pruebas</td><td>En diversas ocasiones, la autoridad aduanera no valora debidamente las pruebas que ofrece el propietario, poseedor y/o tenedor de la mercancía de procedencia extranjera, ya sea por omisión o por un análisis superficial.</td></tr><tr><td>7</td><td>Resolución del procedimiento administrativo en materia aduanera</td><td>Con frecuencia, no se emite la resolución del PAMA, ya sea absolutoria o condenatoria, dentro del plazo de cuatro meses, aun cuando el expediente ya se encuentra debidamente integrado.</td></tr><tr><td>8</td><td>Créditos fiscales</td><td>La Administración Desconcentrada de Recaudación establece, en ocasiones, créditos fiscales de montos desproporcionadamente altos al propietario, poseedor y/o tenedor de la mercancía de procedencia extranjera que no acreditó su legal estancia en el país.</td></tr><tr><td>9</td><td>Asistencia al contribuyente</td><td>Con frecuencia, no se proporciona orientación suficiente y clara al propietario, poseedor y/o tenedor respecto de la documentación necesaria para acreditar la legal procedencia y estancia de la mercancía de origen extranjero que fue sujeta a embargo precautorio.</td></tr><tr><td>10</td><td>Falta de capacitación</td><td>Resulta indispensable fortalecer la formación y capacitación del personal adscrito al área jurídica de la Agencia Nacional de Aduanas de México en materia del PAMA, a fin de garantizar actuaciones uniformes, técnicamente sólidas y apegadas la normatividad aplicable.</td></tr></tbody></table><table-wrap-foot><fn fn-type="other" id="fn38"><label>38</label><p>Fuente: elaboración propia con base en información obtenida mediante las entrevistas realizadas.</p></fn></table-wrap-foot></table-wrap>
+
+
+<p><italic>Prácticas informales</italic></p>
+<table-wrap id="t3"><label>Tabla 3</label><caption><title>Tabla 3</title></caption><table><tbody><tr><td>Núm.</td><td>Prácticas informales</td><td>Ejemplo</td></tr><tr><td>1</td><td>Actos de corrupción</td><td>En algunos casos, el propietario, poseedor y/o tenedor de la mercancía de procedencia extranjera otorga una remuneración económica indebida al personal vinculado con la aduana, a las Administraciones de Auditoría de Comercio Exterior y/o a organismos estatales coordinados, con la finalidad de agilizar el trámite de sus promociones y, en su caso, eludir o flexibilizar la norma jurídica.</td></tr><tr><td>2</td><td>Transferencia de mercancía que pasó a propiedad del fisco federal</td><td>El procedimiento para transferir al INDEP la mercancía de procedencia extranjera embargada precautoriamente, cuya legal estancia en el país no fue acreditada por el propietario, poseedor y/o tenedor, resulta excesivamente lento debido a la gestión del órgano desconcentrado de la Secretaría de Hacienda.</td></tr><tr><td>3</td><td>Exceso de trabajo</td><td>Derivado de la sobrecarga laboral, diversos servidores públicos no logran desempeñar sus funciones con la eficiencia requerida.</td></tr></tbody></table><table-wrap-foot><fn fn-type="other" id="fn39"><label>39</label><p>Fuente: elaboración propia con base en información obtenida mediante las entrevistas realizadas.</p></fn></table-wrap-foot></table-wrap>
+
+</sec><p><italic>Fuente</italic>: elaboración propia con base en información
+obtenida mediante las entrevistas realizadas.</p><p><italic>Fuente</italic>: elaboración propia con base en información
+obtenida mediante las entrevistas realizadas.</p><sec sec-type="conclusions"><title>VI. Conclusiones</title>
+<p>El PAMA presenta deficiencias en el desarrollo, ya que el personal
+adscrito a las distintas instituciones gubernamentales ―ya sea en
+materia federal y estatal― llevan a cabo sus actuaciones fuera del marco
+regulatorio, sin valorar las pruebas o haciéndolo de manera incorrecta,
+las cuales amparan la legal permanencia en México de los bienes de
+origen extranjero embargados precautoriamente.</p>
+<p>La autoridad, para salvaguardar los intereses institucionales, no
+resuelve el PAMA dentro del periodo de cuatro meses una vez que se ha
+integrado de manera adecuada el expediente y tampoco pone a disposición
+del poseedor o tendedor, de manera inmediata, los bienes de procedencia
+extranjera embargados precautoriamente después de comprobar la legal
+estancia en el país, generándole un agravio al contribuyente y pérdidas
+monetarias a la federación.</p>
+<p>Los créditos fiscales derivados del inicio del PAMA, generados por la
+omisión del pago de impuestos, derechos, accesorios y multas al
+introducir mercancía de procedencia extranjera por el poseedor o
+tenedor, suelen ser, en ocasiones, incobrables para la autoridad. Esto
+se debe a que resultan excesivos para ser cubiertos por el sujeto
+pasivo, al no contar con recursos económicos, bienes y medios para
+garantizar el interés fiscal, lo que impide que la autoridad lleve a
+cabo el proceso recaudatorio.</p>
+<p>Se presentan actos de corrupción entre las distintas autoridades
+estatales y federales. Los contribuyentes entregan remuneraciones
+económicas para recibir un mejor servicio en materia aduanera,
+propiciando en el sujeto pasivo la búsqueda de alternativas para evadir
+las actuaciones de la autoridad, referentes a las facultades de
+comprobación fiscal.</p>
+<p>El proceso de transferencia de bienes embargados precautoriamente,
+que pasaron a propiedad del Fisco Federal, por no haberse legitimado los
+productos introducidos a México por el contribuyente, es demasiado
+lento, ya que pasan varios ejercicios para realizar el acto. Esto
+propicia que los bienes sean obsoletos e inutilizables para su venta y
+donación, por el organismo público descentralizado en México.</p>
+<p>La falta de orientación, información y asistencia al contribuyente
+sobre el PAMA lo vuelve vulnerable frente las facultades de
+comprobación, ya que desconoce sus derechos y deberes, al igual que las
+implicaciones que conlleva el procedimiento, al no contar con la
+documentación que acredite la tenencia legal en el estado mexicano de la
+mercancía proveniente del extranjero. Asimismo, se ve limitado en cuanto
+a los medios de defensa disponibles para inconformarse frente a posibles
+actos ilegales de la autoridad, derivados del embargo precautorio de los
+bienes de origen extranjero.</p>
+<p>La falta de conocimiento y experiencia del personal que ingresa a la
+aduana, para desempeñar sus funciones, así como la ausencia de
+capacitación continua del funcionario público que ya se encuentra
+laborando en la institución, genera un menoscabo a la autoridad como
+producto de sus actuaciones.</p>
+</sec><sec><title>Documentos legales</title>
+<p>Constitución Política de los Estados Unidos Mexicanos (<italic>Diario
+Oficial de la Federación</italic>, 5 de febrero de 1917).</p>
+<p>Ley Aduanera, de 12 de noviembre, por el que se reforman, adicionan y
+derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de
+la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Especial
+sobre Producción y Servicios, de la Ley Federal del Impuesto sobre
+Automóviles Nuevos, del Código Fiscal de la Federación y otros
+ordenamientos (DOF, de 15 de diciembre de 1995.
+<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf</ext-link></p>
+<p>Reglamento Interior del Servicio de Administración Tributaria
+(<italic>Diario Oficial de la Federación</italic>, 24 de agosto de
+2015).
+<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/regla/n154.pdf">https://www.diputados.gob.mx/LeyesBiblio/regla/n154.pdf</ext-link></p>
+</sec></body>
 <back>
-<ref-list>
-<title>VII. Referencias</title>
-<ref id="B1">
-<mixed-citation>Aguado Romero, Gabriela. “Violaciones al debido proceso en el procedimiento administrativo por contribuciones omitidas. Un análisis a luz de los derechos humanos”. <italic>Ciencia Jurídica</italic> 8, n.<sup>o</sup> 16 (2019): 171-191. https://doi.org/10.15174/cj.v8i16.319</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Aguado Romero</surname>
-<given-names>Gabriela</given-names>
-</name>
-</person-group>
-<article-title>Violaciones al debido proceso en el procedimiento administrativo por contribuciones omitidas. Un análisis a luz de los derechos humanos</article-title>
-<source>Ciencia Jurídica</source>
-<volume>8</volume>
-<issue>16</issue>
-<year>2019</year>
-<fpage>171</fpage>
-<lpage>191</lpage>
-<pub-id pub-id-type="doi">10.15174/cj.v8i16.319</pub-id>
-</element-citation>
-</ref>
-<ref id="B2">
-<mixed-citation>Aguilera Arredondo, Laura y Tamayo Contreras, Porfirio. “El Procedimiento administrativo en materia aduanera y sus consecuencias fiscales”. <italic>Jóvenes en la Ciencia</italic> 3, n.<sup>o</sup> 2 (2017): 1267-1271. <ext-link ext-link-type="uri" xlink:href="http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004">http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004</ext-link>
-</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Aguilera Arredondo</surname>
-<given-names>Laura</given-names>
-</name>
-<name>
-<surname>Tamayo Contreras</surname>
-<given-names>Porfirio</given-names>
-</name>
-</person-group>
-<article-title>El Procedimiento administrativo en materia aduanera y sus consecuencias fiscales</article-title>
-<source>Jóvenes en la Ciencia</source>
-<volume>3</volume>
-<issue>2</issue>
-<year>2017</year>
-<fpage>1267</fpage>
-<lpage>1271</lpage>
-<ext-link ext-link-type="uri" xlink:href="http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004">http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004</ext-link>
-</element-citation>
-</ref>
-<ref id="B3">
-<mixed-citation>Arellano Gault, David y Lepore, Walter. “Poder, patrón de dependencia y nuevo institucionalismo económico: Límites y restricciones de la literatura contemporánea”. <italic>Gestión y Política Pública</italic> 18, n.<sup>o</sup> 2 (2009): 260-261. <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=13311978002">https://www.redalyc.org/articulo.oa?id=13311978002</ext-link>
-</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Arellano Gault</surname>
-<given-names>David</given-names>
-</name>
-<name>
-<surname>Lepore</surname>
-<given-names>Walter</given-names>
-</name>
-</person-group>
-<article-title>Poder, patrón de dependencia y nuevo institucionalismo económico: Límites y restricciones de la literatura contemporánea</article-title>
-<source>Gestión y Política Pública</source>
-<volume>18</volume>
-<issue>2</issue>
-<year>2009</year>
-<fpage>260</fpage>
-<lpage>261</lpage>
-<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=13311978002">https://www.redalyc.org/articulo.oa?id=13311978002</ext-link>
-</element-citation>
-</ref>
-<ref id="B4">
-<mixed-citation>Becerril Hernández, Mario. <italic>Facultades de comprobación, procedimiento administrativo en materia aduanera y medios de impugnación</italic>. México: Tax Editores Unidos, 2011.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Becerril Hernández</surname>
-<given-names>Mario</given-names>
-</name>
-</person-group>
-<source>Facultades de comprobación, procedimiento administrativo en materia aduanera y medios de impugnación</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Tax Editores Unidos</publisher-name>
-<year>2011</year>
-</element-citation>
-</ref>
-<ref id="B5">
-<mixed-citation>Bernal Ladrón de Guevara, Diana, Guerra Juárez, Alejandra, De La Torre Flores, César Iván y Morales Mata, Carmelo. <italic>Los derechos fundamentales y la condonación de multas fiscales</italic>. <italic>Recomendaciones 03/2011 y 04/2011.</italic> s. Procuraduría de la Defensa del Contribuyente, 2011. Acceso el 12 de mayo de 2025. <comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf">https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf</ext-link>
-</comment>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<name>
-<surname>Bernal Ladrón de Guevara</surname>
-<given-names>Diana</given-names>
-</name>
-<name>
-<surname>Guerra Juárez</surname>
-<given-names>Alejandra</given-names>
-</name>
-<name>
-<surname>De La Torre Flores</surname>
-<given-names>César Iván</given-names>
-</name>
-<name>
-<surname>Morales Mata</surname>
-<given-names>Carmelo</given-names>
-</name>
-</person-group>
-<source>Los derechos fundamentales y la condonación de multas fiscales</source>
-<publisher-name>Procuraduría de la Defensa del Contribuyente</publisher-name>
-<year>2011</year>
-<date-in-citation content-type="access-date" iso-8601-date="2025-05-12">12 de mayo de 2025</date-in-citation>
-<comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf">https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf</ext-link>
-</comment>
-</element-citation>
-</ref>
-<ref id="B6">
-<mixed-citation>Bernal Torres César Augusto. <italic>Metodología de la investigación</italic>. Sabana: Universidad de la Sabana, 2016. <ext-link ext-link-type="uri" xlink:href="https://bibliotecadigital.utn.edu.ec/download/files/original/fb0b0cfee2ae990609933d17c6890848960051aa.pdf">https://bibliotecadigital.utn.edu.ec/download/files/original/fb0b0cfee2ae990609933d17c6890848960051aa.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Bernal Torres</surname>
-<given-names>César Augusto</given-names>
-</name>
-</person-group>
-<source>Metodología de la investigación</source>
-<publisher-loc>Sabana</publisher-loc>
-<publisher-name>Universidad de la Sabana</publisher-name>
-<year>2016</year>
-<ext-link ext-link-type="uri" xlink:href="https://bibliotecadigital.utn.edu.ec/download/files/original/fb0b0cfee2ae990609933d17c6890848960051aa.pdf">https://bibliotecadigital.utn.edu.ec/download/files/original/fb0b0cfee2ae990609933d17c6890848960051aa.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B7">
-<mixed-citation>Cansino, Rodolfo y Askar Camacho, Rubén Abdo. <italic>El PAMA, el procedimiento administrativo en materia aduanera, teoría y práctica</italic>. Ciudad Juárez: Universidad Tecnológica de Ciudad Juárez, 2017. </mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Cansino</surname>
-<given-names>Rodolfo</given-names>
-</name>
-<name>
-<surname>Camacho</surname>
-<given-names>Askar</given-names>
-</name>
-<name>
-<surname>Abdo</surname>
-<given-names>Rubén</given-names>
-</name>
-</person-group>
-<source>El PAMA, el procedimiento administrativo en materia aduanera, teoría y práctica</source>
-<publisher-loc>Ciudad Juárez</publisher-loc>
-<publisher-name>Universidad Tecnológica de Ciudad Juárez</publisher-name>
-<year>2017</year>
-</element-citation>
-</ref>
-<ref id="B8">
-<mixed-citation>Cisneros García, Juan Rabindrana. <italic>Derecho aduanero mexicano</italic>. México: Porrúa, 2013.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Cisneros García</surname>
-<given-names>Juan Rabindrana</given-names>
-</name>
-</person-group>
-<source>Derecho aduanero mexicano</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Porrúa</publisher-name>
-<year>2013</year>
-</element-citation>
-</ref>
-<ref id="B9">
-<mixed-citation>Del Castillo, Arturo. <italic>El Nuevo institucionalismo en el análisis organizacional: conceptos y enunciados explicativos</italic>. México: Centro de Investigación y Docencia Económicas, A. C., 1997. <ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/11651/3640">http://hdl.handle.net/11651/3640</ext-link>
-</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Del Castillo</surname>
-<given-names>Arturo</given-names>
-</name>
-</person-group>
-<source>El Nuevo institucionalismo en el análisis organizacional: conceptos y enunciados explicativos</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Centro de Investigación y Docencia Económicas, A. C</publisher-name>
-<year>1997</year>
-<ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/11651/3640">http://hdl.handle.net/11651/3640</ext-link>
-</element-citation>
-</ref>
-<ref id="B10">
-<mixed-citation>Diana Bernal Ladrón de Guevara, Alejandra Guerra Juárez, César Iván de la Torre Flores y Carmelo Morales Mata, <italic>Los derechos fundamentales y la condonación de multas fiscales</italic>, <italic>Recomendaciones 03/2011 y 04/2011</italic> (México: Procuraduría de la Defensa del Contribuyente, 2011), 16, <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf">https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<name>
-<surname>Ladrón de Guevara</surname>
-<given-names>Diana Bernal</given-names>
-</name>
-<name>
-<surname>Guerra Juárez</surname>
-<given-names>Alejandra</given-names>
-</name>
-<name>
-<surname>de la Torre Flores</surname>
-<given-names>César Iván</given-names>
-</name>
-<name>
-<surname>Morales Mata</surname>
-<given-names>Carmelo</given-names>
-</name>
-</person-group>
-<source>Los derechos fundamentales y la condonación de multas fiscales, Recomendaciones 03/2011 y 04/2011</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Procuraduría de la Defensa del Contribuyente</publisher-name>
-<year>2011</year>
-<issue-part>16</issue-part>
-<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf">https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B11">
-<mixed-citation>García Arredondo, Jaime Armando. <italic>Derecho Aduanero</italic>. México: Themis, 2022. </mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>García Arredondo</surname>
-<given-names>Jaime Armando</given-names>
-</name>
-</person-group>
-<source>Derecho Aduanero</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Themis</publisher-name>
-<year>2022</year>
-</element-citation>
-</ref>
-<ref id="B12">
-<mixed-citation>García Jaimes, José David, Jaimes Rodríguez, Agustina y García Saavedra, José David. <italic>Diccionario Jurídico</italic>. Hermosillo: Universidad de Sonora, 2020.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>García Jaimes</surname>
-<given-names>José David</given-names>
-</name>
-<name>
-<surname>Jaimes Rodríguez</surname>
-<given-names>Agustina</given-names>
-</name>
-<name>
-<surname>García Saavedra</surname>
-<given-names>José David</given-names>
-</name>
-</person-group>
-<source>Diccionario Jurídico</source>
-<publisher-loc>Hermosillo</publisher-loc>
-<publisher-name>Universidad de Sonora</publisher-name>
-<year>2020</year>
-</element-citation>
-</ref>
-<ref id="B13">
-<mixed-citation>García Martínez, Rolando Javier. 2017. “Tópicos jurisdiccionales del Procedimiento Administrativo en Materia Aduanera”. Tesis de maestría. Universidad Panamericana. <ext-link ext-link-type="uri" xlink:href="https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238">https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238 </ext-link>
-</mixed-citation>
-<element-citation publication-type="thesis">
-<person-group person-group-type="author">
-<name>
-<surname>García Martínez</surname>
-<given-names>Rolando Javier</given-names>
-</name>
-</person-group>
-<year>2017</year>
-<source>Tópicos jurisdiccionales del Procedimiento Administrativo en Materia Aduanera</source>
-<comment content-type="degree">Tesis de maestría</comment>
-<publisher-name>Universidad Panamericana</publisher-name>
-<ext-link ext-link-type="uri" xlink:href="https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238">https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238 </ext-link>
-</element-citation>
-</ref>
-<ref id="B14">
-<mixed-citation>Gobernación. Secretaría de Gobernación. “Decreto por el que se reforman y adicionan diversas disposiciones del Reglamento Interior de la Secretaría de Hacienda y Crédito Público y del Reglamento Interior del Servicio de Administración Tributaria, y por el que se expide el Reglamento Interior de la Agencia Nacional de Aduanas de México”. <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5639045&amp;fecha=21/12/2021#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5639045&amp;fecha=21/12/2021#gsc.tab=0</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>Gobernación. Secretaría de Gobernación</collab>
-</person-group>
-<source>Decreto por el que se reforman y adicionan diversas disposiciones del Reglamento Interior de la Secretaría de Hacienda y Crédito Público y del Reglamento Interior del Servicio de Administración Tributaria, y por el que se expide el Reglamento Interior de la Agencia Nacional de Aduanas de México</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5639045&amp;fecha=21/12/2021#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5639045&amp;fecha=21/12/2021#gsc.tab=0</ext-link>
-</element-citation>
-</ref>
-<ref id="B15">
-<mixed-citation>Knobel, Michele y Colin, Lankshear. <italic>Maneras de ver: el análisis de datos en investigación cualitativa</italic>. Durango: Centro Pedagógico de Durango, 2005. </mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Knobel</surname>
-<given-names>Michele</given-names>
-</name>
-<name>
-<surname>Colin</surname>
-<given-names>Lankshear</given-names>
-</name>
-</person-group>
-<source>Maneras de ver: el análisis de datos en investigación cualitativa</source>
-<publisher-loc>Durango</publisher-loc>
-<publisher-name>Centro Pedagógico de Durango</publisher-name>
-<year>2005</year>
-</element-citation>
-</ref>
-<ref id="B16">
-<mixed-citation>Luna Pla, Issa y Ríos Granados, Gabriela. <italic>Transparencia, acceso a la información tributaria y el secreto fiscal. desafíos en México</italic>. México: Instituto Federal de Acceso a la Información Pública; Universidad Nacional Autónoma de México, 2010. <ext-link ext-link-type="uri" xlink:href="http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861">http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861</ext-link>
-</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Luna Pla</surname>
-<given-names>Issa</given-names>
-</name>
-<name>
-<surname>Ríos Granados</surname>
-<given-names>Gabriela</given-names>
-</name>
-</person-group>
-<source>Transparencia, acceso a la información tributaria y el secreto fiscal. desafíos en México</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Instituto Federal de Acceso a la Información Pública; Universidad Nacional Autónoma de México</publisher-name>
-<year>2010</year>
-<ext-link ext-link-type="uri" xlink:href="http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861">http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861</ext-link>
-</element-citation>
-</ref>
-<ref id="B17">
-<mixed-citation>Martínez Castilla, Santiago. “La burocracia: elemento de dominación en la obra de Max Weber”. <italic>Misión Jurídica</italic> 2, n.<sup>o</sup> 2 (2016): 142. https://doi.org/10.25058/1794600X.12</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Martínez Castilla</surname>
-<given-names>Santiago</given-names>
-</name>
-</person-group>
-<article-title>La burocracia: elemento de dominación en la obra de Max Weber</article-title>
-<source>Misión Jurídica</source>
-<volume>2</volume>
-<issue>2</issue>
-<year>2016</year>
-<issue-part>142</issue-part>
-<pub-id pub-id-type="doi">10.25058/1794600X.12</pub-id>
-</element-citation>
-</ref>
-<ref id="B18">
-<mixed-citation>Masbernat, Patricio y Ramos Fuentes, Gloria. “Asuntos tributarios en la jurisprudencia de la Corte Interamericana de Derechos Humanos”. <italic>Díkaion</italic>, 28, n.<sup>o</sup> 2 (2019): 404-439. https://doi.org/10.5294/dika.2019.28.2.8</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Masbernat</surname>
-<given-names>Patricio</given-names>
-</name>
-<name>
-<surname>Ramos Fuentes</surname>
-<given-names>Gloria</given-names>
-</name>
-</person-group>
-<article-title>Asuntos tributarios en la jurisprudencia de la Corte Interamericana de Derechos Humanos</article-title>
-<source>Díkaion</source>
-<volume>28</volume>
-<issue>2</issue>
-<year>2019</year>
-<fpage>404</fpage>
-<lpage>439</lpage>
-<pub-id pub-id-type="doi">10.5294/dika.2019.28.2.8</pub-id>
-</element-citation>
-</ref>
-<ref id="B19">
-<mixed-citation>Moreno Valdez, Hadar y Navarro Chavarría, Luis Enrique. <italic>Materia aduanera</italic>. México: Porrúa, 2007.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Moreno Valdez</surname>
-<given-names>Hadar</given-names>
-</name>
-<name>
-<surname>Navarro Chavarría</surname>
-<given-names>Luis Enrique</given-names>
-</name>
-</person-group>
-<source>Materia aduanera</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Porrúa</publisher-name>
-<year>2007</year>
-</element-citation>
-</ref>
-<ref id="B20">
-<mixed-citation>North, Douglass C. <italic>Institutional Change and Economic Performance</italic>. Cambridge: Cambridge University Press, 1990. <ext-link ext-link-type="uri" xlink:href="https://epistemh.pbworks.com/f/8.Institutions__Institutional_Change_and_Economic_Performance.pdf">https://epistemh.pbworks.com/f/8.Institutions__Institutional_Change_and_Economic_Performance.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>North</surname>
-<given-names>Douglass C</given-names>
-</name>
-</person-group>
-<source>Institutional Change and Economic Performance</source>
-<publisher-loc>Cambridge</publisher-loc>
-<publisher-name>Cambridge University Press</publisher-name>
-<year>1990</year>
-<ext-link ext-link-type="uri" xlink:href="https://epistemh.pbworks.com/f/8.Institutions__Institutional_Change_and_Economic_Performance.pdf">https://epistemh.pbworks.com/f/8.Institutions__Institutional_Change_and_Economic_Performance.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B21">
-<mixed-citation>Organización para la Cooperación y el Desarrollo Económicos. <italic>Las reglas del juego cambiaron: la lucha contra el soborno y la corrupción</italic>. París: OCDE, 2020. <ext-link ext-link-type="uri" xlink:href="https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf">https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<publisher-name>Organización para la Cooperación y el Desarrollo Económicos</publisher-name>
-<source>Las reglas del juego cambiaron: la lucha contra el soborno y la corrupción</source>
-<publisher-loc>París</publisher-loc>
-<publisher-name>OCDE</publisher-name>
-<year>2020</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf">https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B22">
-<mixed-citation>Powell, Walter W. y Dimaggio, Paul J. <italic>El nuevo institucionalismo en el análisis organizacional</italic>. México: Fondo de cultura económica, 1999. </mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Powell</surname>
-<given-names>Walter W.</given-names>
-</name>
-<name>
-<surname>Dimaggio</surname>
-<given-names>Paul J</given-names>
-</name>
-</person-group>
-<source>El nuevo institucionalismo en el análisis organizacional</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Fondo de cultura económica</publisher-name>
-<year>1999</year>
-</element-citation>
-</ref>
-<ref id="B23">
-<mixed-citation>Rosales, Carlos Manuel. “La gratuidad de los derechos prestacionales como derechos humanos: una propuesta para su ponderación y otorgamiento”.<italic>Revista de Investigações Constitucionais</italic> 6, n.<sup>o</sup> 2 (2019): 349-373. https://doi.org/10.5380/rinc.v6i2.58988</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Rosales</surname>
-<given-names>Carlos Manuel</given-names>
-</name>
-</person-group>
-<article-title>La gratuidad de los derechos prestacionales como derechos humanos: una propuesta para su ponderación y otorgamiento</article-title>
-<source>Revista de Investigações Constitucionais</source>
-<volume>6</volume>
-<issue>2</issue>
-<year>2019</year>
-<fpage>349</fpage>
-<lpage>373</lpage>
-<pub-id pub-id-type="doi">10.5380/rinc.v6i2.58988</pub-id>
-</element-citation>
-</ref>
-<ref id="B24">
-<mixed-citation>Soberanes Lasses, Óscar y Valeska Soberanes Sánchez, Silvia. <italic>Manual teórico práctico sobre medios de defensa en materia administrativa</italic>. México: Universidad Nacional Autónoma de México, 2018. <ext-link ext-link-type="uri" xlink:href="https://biblio.juridicas.unam.mx/bjv/detalle-libro/5610-manual-teorico-practico-sobre-medios-de-defensa-en-materia-administrativa">https://biblio.juridicas.unam.mx/bjv/detalle-libro/5610-manual-teorico-practico-sobre-medios-de-defensa-en-materia-administrativa </ext-link>
-</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Soberanes Lasses</surname>
-<given-names>Óscar</given-names>
-</name>
-<name>
-<surname>Valeska Soberanes Sánchez</surname>
-<given-names>Silvia</given-names>
-</name>
-</person-group>
-<source>Manual teórico práctico sobre medios de defensa en materia administrativa</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Universidad Nacional Autónoma de México</publisher-name>
-<year>2018</year>
-<ext-link ext-link-type="uri" xlink:href="https://biblio.juridicas.unam.mx/bjv/detalle-libro/5610-manual-teorico-practico-sobre-medios-de-defensa-en-materia-administrativa">https://biblio.juridicas.unam.mx/bjv/detalle-libro/5610-manual-teorico-practico-sobre-medios-de-defensa-en-materia-administrativa </ext-link>
-</element-citation>
-</ref>
-<ref id="B25">
-<mixed-citation>Vallejo Montaño, Virgilio Antonio. <italic>Procedimiento administrativo en materia aduanera. Su debido trámite legal y constitucional</italic>. México: Universidad Nacional Autónoma de México, 2015. <ext-link ext-link-type="uri" xlink:href="https://repositorio.unam.mx/contenidos?c=Rb0kx2&amp;q=Procedimiento_._Administrativo_._en_._Materia_._Aduanera&amp;t=search_0&amp;as=0&amp;d=false&amp;a=0&amp;v=1">https://repositorio.unam.mx/contenidos?c=Rb0kx2&amp;q=Procedimiento_._Administrativo_._en_._Materia_._Aduanera&amp;t=search_0&amp;as=0&amp;d=false&amp;a=0&amp;v=1 </ext-link>
-</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Vallejo Montaño</surname>
-<given-names>Virgilio Antonio</given-names>
-</name>
-</person-group>
-<source>Procedimiento administrativo en materia aduanera. Su debido trámite legal y constitucional</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Universidad Nacional Autónoma de México</publisher-name>
-<year>2015</year>
-<ext-link ext-link-type="uri" xlink:href="https://repositorio.unam.mx/contenidos?c=Rb0kx2&amp;q=Procedimiento_._Administrativo_._en_._Materia_._Aduanera&amp;t=search_0&amp;as=0&amp;d=false&amp;a=0&amp;v=1">https://repositorio.unam.mx/contenidos?c=Rb0kx2&amp;q=Procedimiento_._Administrativo_._en_._Materia_._Aduanera&amp;t=search_0&amp;as=0&amp;d=false&amp;a=0&amp;v=1 </ext-link>
-</element-citation>
-</ref>
-</ref-list>
-<ref-list>
-<title>Documentos legales</title>
-<ref id="B26">
-<mixed-citation>Constitución Política de los Estados Unidos Mexicanos (<italic>Diario Oficial de la Federación</italic>, 5 de febrero de 1917). </mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>Constitución Política de los Estados Unidos Mexicanos</collab>
-</person-group>
-<source>Diario Oficial de la Federación</source>
-<date-in-citation content-type="access-date" iso-8601-date="1917-02-05">5 de febrero de 1917</date-in-citation>
-</element-citation>
-</ref>
-<ref id="B27">
-<mixed-citation>Ley Aduanera, de 12 de noviembre, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Especial sobre Producción y Servicios, de la Ley Federal del Impuesto sobre Automóviles Nuevos, del Código Fiscal de la Federación y otros ordenamientos (DOF, de 15 de diciembre de 1995. <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<source>Ley Aduanera, de 12 de noviembre, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Especial sobre Producción y Servicios, de la Ley Federal del Impuesto sobre Automóviles Nuevos, del Código Fiscal de la Federación y otros ordenamientos</source>
-<publisher-name>DOF</publisher-name>
-<day>15</day>
-<month>12</month>
-<year>1995</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B28">
-<mixed-citation>Reglamento Interior del Servicio de Administración Tributaria (<italic>Diario Oficial de la Federación</italic>, 24 de agosto de 2015). <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/regla/n154.pdf">https://www.diputados.gob.mx/LeyesBiblio/regla/n154.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>Reglamento Interior del Servicio de Administración Tributaria</collab>
-</person-group>
-<source>Diario Oficial de la Federación</source>
-<day>24</day>
-<month>08</month>
-<year>2015</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/regla/n154.pdf">https://www.diputados.gob.mx/LeyesBiblio/regla/n154.pdf</ext-link>
-</element-citation>
-</ref>
-</ref-list>
 <fn-group>
+
+
+<fn fn-type="other" id="fn40">
+<label>40</label><p>Colegio de Mediación de México: Doctorado en
+    Negociación y Mediación. Universidad Pedagógica Nacional, Plantel
+    Hermosillo: Doctorado en Educación. Universidad Estatal de Sonora,
+    Campus Hermosillo, Profesor de Asignatura Universidad de Sonora,
+    Profesor de Asignatura, <email>ernesto.landavazo@unison.mx</email>.
+    <ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-5415-4502">https://orcid.org/0000-0002-5415-4502</ext-link>.</p>
+</fn>
 <fn fn-type="other" id="fn1">
-<label>1</label>
-<p>
-<xref ref-type="bibr" rid="B20">Douglass Cecil North</xref>, <italic>Institutional Change and Economic Performance</italic> (Cambridge: Cambridge University Press, 1990), 3, <ext-link ext-link-type="uri" xlink:href="https://epistemh.pbworks.com/f/8.%20Institutions__Institutional_Change_and_Economic_Performance.pdf ">https://epistemh.pbworks.com/f/8.%20Institutions__Institutional_Change_and_Economic_Performance.pdf </ext-link>
-</p>
+<label>1</label><p>Douglass Cecil North, <italic>Institutional
+    Change and Economic Performance</italic> (Cambridge: Cambridge
+    University Press, 1990), 3,
+    <ext-link ext-link-type="uri" xlink:href="https://epistemh.pbworks.com/f/8.%20Institutions__Institutional_Change_and_Economic_Performance.pdf">https://epistemh.pbworks.com/f/8.%20Institutions__Institutional_Change_and_Economic_Performance.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn2">
-<label>2</label>
-<p>
-<xref ref-type="bibr" rid="B3">David Arellano Gault y Walter Lepore</xref>, “Poder, patrón de dependencia y nuevo institucionalismo económico: límites y restricciones de la literatura contemporánea”, <italic>Gestión y Política Pública</italic> 18, n.<sup>o</sup> 2 (2009): 260-261, <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=13311978002">https://www.redalyc.org/articulo.oa?id=13311978002</ext-link>
-</p>
+<label>2</label><p>David Arellano Gault y Walter Lepore, “Poder,
+    patrón de dependencia y nuevo institucionalismo económico: límites y
+    restricciones de la literatura contemporánea”, <italic>Gestión y
+    Política Pública</italic> 18, n.<sup>o</sup> 2 (2009): 260-261,
+    <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=13311978002">https://www.redalyc.org/articulo.oa?id=13311978002</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn3">
-<label>3</label>
-<p>
-<xref ref-type="bibr" rid="B17">Santiago Martínez Castilla</xref>, “La burocracia: elemento de dominación en la obra de Max Weber”, <italic>Misión Jurídica</italic> 2, n.<sup>o</sup> 2 (2016): 142, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.25058/1794600X.12">https://doi.org/10.25058/1794600X.12</ext-link>
-</p>
+<label>3</label><p>Santiago Martínez Castilla, “La burocracia:
+    elemento de dominación en la obra de Max Weber”, <italic>Misión
+    Jurídica</italic> 2, n.<sup>o</sup> 2 (2016): 142,
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.25058/1794600X.12">https://doi.org/10.25058/1794600X.12</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn4">
-<label>4</label>
-<p>
-<xref ref-type="bibr" rid="B22">Powell Walter W. y Dimaggio Paul J</xref>, <italic>El Nuevo Institucionalismo en el Análisis Organizacional</italic> (México, Fondo de cultura económica, 1999), 68.</p>
+<label>4</label><p>Powell Walter W. y Dimaggio Paul J, <italic>El
+    Nuevo Institucionalismo en el Análisis Organizacional</italic>
+    (México, Fondo de cultura económica, 1999), 68.</p>
 </fn>
 <fn fn-type="other" id="fn5">
-<label>5</label>
-<p>
-<xref ref-type="bibr" rid="B9">Arturo del Castillo</xref>, <italic>El nuevo institucionalismo en el análisis organizacional: conceptos y enunciados explicativos</italic> (México, Centro de Investigación y Docencia Económicas, A. C., 1997), 25.</p>
+<label>5</label><p>Arturo del Castillo, <italic>El nuevo
+    institucionalismo en el análisis organizacional: conceptos y
+    enunciados explicativos</italic> (México, Centro de Investigación y
+    Docencia Económicas, A. C., 1997), 25.</p>
 </fn>
 <fn fn-type="other" id="fn6">
-<label>6</label>
-<p>
-<xref ref-type="bibr" rid="B13">Rolando Javier García Martínez</xref>, “<italic>Tópicos Jurisdiccionales del procedimiento administrativo en materia aduanera”</italic> (tesis de maestría, Universidad Panamericana, 2017), 60, <ext-link ext-link-type="uri" xlink:href="https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238">https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238</ext-link>
-</p>
+<label>6</label><p>Rolando Javier García Martínez, “<italic>Tópicos
+    Jurisdiccionales del procedimiento administrativo en materia
+    aduanera”</italic> (tesis de maestría, Universidad Panamericana,
+    2017), 60,
+    <ext-link ext-link-type="uri" xlink:href="https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238">https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn7">
-<label>7</label>
-<p>
-<xref ref-type="bibr" rid="B25">Virgilio Antonio Vallejo Montaño</xref>, <italic>Procedimiento administrativo en materia aduanera. Su debido trámite legal y constitucional</italic> (México, Universidad Nacional Autónoma de México, 2015), 1228.</p>
+<label>7</label><p>Virgilio Antonio Vallejo Montaño,
+    <italic>Procedimiento administrativo en materia aduanera. Su debido
+    trámite legal y constitucional</italic> (México, Universidad
+    Nacional Autónoma de México, 2015), 1228.</p>
 </fn>
 <fn fn-type="other" id="fn8">
-<label>8</label>
-<p>
-<xref ref-type="bibr" rid="B26">Constitución Política de los Estados Unidos Mexicanos</xref>, Diario Oficial de la Federación, 5 de febrero de 1917, última reforma publicada el 5 de febrero de 2017, <ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/sites/default/files/cpeum/documento/cpeum.pdf">https://www.scjn.gob.mx/sites/default/files/cpeum/documento/cpeum.pdf</ext-link>
-</p>
+<label>8</label><p>Constitución Política de los Estados Unidos
+    Mexicanos, Diario Oficial de la Federación, 5 de febrero de 1917,
+    última reforma publicada el 5 de febrero de 2017,
+    <ext-link ext-link-type="uri" xlink:href="https://www.scjn.gob.mx/sites/default/files/cpeum/documento/cpeum.pdf">https://www.scjn.gob.mx/sites/default/files/cpeum/documento/cpeum.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn9">
-<label>9</label>
-<p>
-<xref ref-type="bibr" rid="B11">Jaime Armando García Arredondo</xref>, <italic>Derecho aduanero</italic>, (México: Themis, 2022), 107-108.</p>
+<label>9</label><p>Jaime Armando García Arredondo, <italic>Derecho
+    aduanero</italic>, (México: Themis, 2022), 107-108.</p>
 </fn>
 <fn fn-type="other" id="fn10">
-<label>10</label>
-<p>
-<xref ref-type="bibr" rid="B12">José David García Jaimes, Agustina Jaimes Rodríguez y José David García Saavedra</xref>, <italic>Diccionario jurídico</italic> (Hermosillo: Universidad de Sonora, 2020), 166.</p>
+<label>10</label><p>José David García Jaimes, Agustina Jaimes
+    Rodríguez y José David García Saavedra, <italic>Diccionario
+    jurídico</italic> (Hermosillo: Universidad de Sonora, 2020),
+    166.</p>
 </fn>
 <fn fn-type="other" id="fn11">
-<label>11</label>
-<p>
-<xref ref-type="bibr" rid="B19">Hadar Moreno Valdez y Luis Enrique Navarro Chavarría</xref>, <italic>Materia aduanera</italic> (México: Porrúa, 2007), 119.</p>
+<label>11</label><p>Hadar Moreno Valdez y Luis Enrique Navarro
+    Chavarría, <italic>Materia aduanera</italic> (México: Porrúa, 2007),
+    119.</p>
 </fn>
 <fn fn-type="other" id="fn12">
-<label>12</label>
-<p>
-<xref ref-type="bibr" rid="B27">Ley Aduanera</xref> (<italic>D. O. F.,</italic> de 15 de diciembre de 1995). <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf</ext-link>
-</p>
+<label>12</label><p>Ley Aduanera (<italic>D. O. F.,</italic> de 15
+    de diciembre de 1995).
+    <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn13">
-<label>13</label>
-<p>
-<xref ref-type="bibr" rid="B1">Gabriela Aguado Romero</xref>, “Violaciones al debido proceso en el procedimiento administrativo por contribuciones omitidas. Un análisis a luz de los derechos humanos”, <italic>Ciencia Jurídica</italic> 8, n.<sup>o</sup> 16 (2019): 171-191, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15174/cj.v8i16.319">https://doi.org/10.15174/cj.v8i16.319</ext-link>
-</p>
+<label>13</label><p>Gabriela Aguado Romero, “Violaciones al debido
+    proceso en el procedimiento administrativo por contribuciones
+    omitidas. Un análisis a luz de los derechos humanos”,
+    <italic>Ciencia Jurídica</italic> 8, n.<sup>o</sup> 16 (2019):
+    171-191,
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15174/cj.v8i16.319">https://doi.org/10.15174/cj.v8i16.319</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn14">
-<label>14</label>
-<p>
-<xref ref-type="bibr" rid="B8">Juan Rabindrana Cisneros García</xref>, <italic>Derecho aduanero mexicano</italic> (México: Porrúa, 2013), 243.</p>
+<label>14</label><p>Juan Rabindrana Cisneros García, <italic>Derecho
+    aduanero mexicano</italic> (México: Porrúa, 2013), 243.</p>
 </fn>
 <fn fn-type="other" id="fn15">
-<label>15</label>
-<p>
-<xref ref-type="bibr" rid="B4">Mario Becerril Hernández</xref>, <italic>Facultades de comprobación, procedimiento administrativo en materia aduanera y medios de impugnación</italic> (México: Tax Editores Unidos, 2011), 123.</p>
+<label>15</label><p>Mario Becerril Hernández, <italic>Facultades de
+    comprobación, procedimiento administrativo en materia aduanera y
+    medios de impugnación</italic> (México: Tax Editores Unidos, 2011),
+    123.</p>
 </fn>
 <fn fn-type="other" id="fn16">
-<label>16</label>
-<p><italic>Ibid</italic>., 123-124.</p>
+<label>16</label><p><italic>Ibid</italic>., 123-124.</p>
 </fn>
 <fn fn-type="other" id="fn17">
-<label>17</label>
-<p>
-<xref ref-type="bibr" rid="B7">Rodolfo Cansino y Rubén Abdo Askar Camacho</xref>, <italic>El PAMA, el procedimiento administrativo en materia aduanera, teoría y práctica,</italic> (Ciudad Juárez: Universidad Tecnológica de Ciudad Juárez, 2017), 47.</p>
+<label>17</label><p>Rodolfo Cansino y Rubén Abdo Askar Camacho,
+    <italic>El PAMA, el procedimiento administrativo en materia
+    aduanera, teoría y práctica,</italic> (Ciudad Juárez: Universidad
+    Tecnológica de Ciudad Juárez, 2017), 47.</p>
 </fn>
 <fn fn-type="other" id="fn18">
-<label>18</label>
-<p>Roberto Hernández Sampieri, Carlos Fernández Collado y Pilar Baptista Lucio, <italic>Metodología de la Investigación</italic> (México, MC Graw Hill, 2014), 397, <ext-link ext-link-type="uri" xlink:href="https://apiperiodico.jalisco.gob.mx/api/sites/periodicooficial.jalisco.gob.mx/files/metodologia_de_la_investigacion_-_roberto_hernandez_sampieri.pdf">https://apiperiodico.jalisco.gob.mx/api/sites/periodicooficial.jalisco.gob.mx/files/metodologia_de_la_investigacion_-_roberto_hernandez_sampieri.pdf</ext-link>
-</p>
+<label>18</label><p>Roberto Hernández Sampieri, Carlos Fernández
+    Collado y Pilar Baptista Lucio, <italic>Metodología de la
+    Investigación</italic> (México, MC Graw Hill, 2014), 397,
+    <ext-link ext-link-type="uri" xlink:href="https://apiperiodico.jalisco.gob.mx/api/sites/periodicooficial.jalisco.gob.mx/files/metodologia_de_la_investigacion_-_roberto_hernandez_sampieri.pdf">https://apiperiodico.jalisco.gob.mx/api/sites/periodicooficial.jalisco.gob.mx/files/metodologia_de_la_investigacion_-_roberto_hernandez_sampieri.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn19">
-<label>19</label>
-<p><italic>Ibid</italic>., 334.</p>
+<label>19</label><p><italic>Ibid</italic>., 334.</p>
 </fn>
 <fn fn-type="other" id="fn20">
-<label>20</label>
-<p>
-<xref ref-type="bibr" rid="B6">César Augusto Bernal Torres</xref>, <italic>Metodología de la investigación</italic> (Colombia, Pearson, 2016), 85.</p>
+<label>20</label><p>César Augusto Bernal Torres, <italic>Metodología
+    de la investigación</italic> (Colombia, Pearson, 2016), 85.</p>
 </fn>
 <fn fn-type="other" id="fn21">
-<label>21</label>
-<p><italic>Ibid</italic>., 444.</p>
+<label>21</label><p><italic>Ibid</italic>., 444.</p>
 </fn>
 <fn fn-type="other" id="fn22">
-<label>22</label>
-<p>
-<xref ref-type="bibr" rid="B15">Michele Knobel y Colin Lankshear</xref>, <italic>Maneras de ver: el análisis de datos en investigación cualitativa</italic> (Durango: Centro Pedagógico de Durango, 2005), 4.</p>
+<label>22</label><p>Michele Knobel y Colin Lankshear,
+    <italic>Maneras de ver: el análisis de datos en investigación
+    cualitativa</italic> (Durango: Centro Pedagógico de Durango, 2005),
+    4.</p>
 </fn>
 <fn fn-type="other" id="fn23">
-<label>23</label>
-<p>
-<xref ref-type="bibr" rid="B24">Óscar Soberanes Lasses y Silvia Valeska Soberanes Sánchez</xref>, <italic>Manual teórico práctico sobre medios de defensa en materia administrativa</italic> (México: Universidad Nacional Autónoma de México<italic>,</italic> 2018), 23.</p>
+<label>23</label><p>Óscar Soberanes Lasses y Silvia Valeska
+    Soberanes Sánchez, <italic>Manual teórico práctico sobre medios de
+    defensa en materia administrativa</italic> (México: Universidad
+    Nacional Autónoma de México<italic>,</italic> 2018), 23.</p>
 </fn>
 <fn fn-type="other" id="fn24">
-<label>24</label>
-<p>
-<xref ref-type="bibr" rid="B23">Carlos Manuel Rosales</xref>, “La gratuidad de los derechos prestacionales como derechos humanos: una propuesta para su ponderación y otorgamiento”<italic>,</italic> <italic>Revista de Investigações Constitucionais</italic> 6, n.<sup>o</sup> 2 (2019): 349-373, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5380/rinc.v6i2.58988">https://doi.org/10.5380/rinc.v6i2.58988</ext-link>
-</p>
+<label>24</label><p>Carlos Manuel Rosales, “La gratuidad de los
+    derechos prestacionales como derechos humanos: una propuesta para su
+    ponderación y otorgamiento”<italic>,</italic> <italic>Revista de
+    Investigações Constitucionais</italic> 6, n.<sup>o</sup> 2 (2019):
+    349-373,
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5380/rinc.v6i2.58988%20">https://doi.org/10.5380/rinc.v6i2.58988</ext-link></p>
 </fn>
-<fn fn-type="other" id="fn25">
-<label>25</label>
-<p>“Decreto por el que se reforman y adicionan diversas disposiciones del Reglamento Interior de la Secretaría de Hacienda y Crédito Público y del Reglamento Interior del Servicio de Administración Tributaria, y por el que se expide el Reglamento Interior de la Agencia Nacional de Aduanas de México”, <xref ref-type="bibr" rid="B14">Gobernación. Secretaría de Gobernación</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5639045&amp;fecha=21/12/2021#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5639045&amp;fecha=21/12/2021#gsc.tab=0</ext-link>
-</p>
-</fn>
+
 <fn fn-type="other" id="fn26">
-<label>26</label>
-<p>
-<xref ref-type="bibr" rid="B21">Organización para la Cooperación y el Desarrollo Económicos</xref>, “Las reglas del juego cambiaron: la lucha contra el soborno y la corrupción” (París: OCDE, 2020), 143, <ext-link ext-link-type="uri" xlink:href="https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf">https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf</ext-link>
-</p>
+<label>26</label><p>Organización para la Cooperación y el Desarrollo
+    Económicos, “Las reglas del juego cambiaron: la lucha contra el
+    soborno y la corrupción” (París: OCDE, 2020), 143,
+    <ext-link ext-link-type="uri" xlink:href="https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf">https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn27">
-<label>27</label>
-<p>“Decreto por el que se reforman y adicionan diversas disposiciones del Reglamento Interior de la Secretaría de Hacienda y Crédito Público…</p>
+<label>27</label><p>“Decreto por el que se reforman y adicionan
+    diversas disposiciones del Reglamento Interior de la Secretaría de
+    Hacienda y Crédito Público…</p>
 </fn>
 <fn fn-type="other" id="fn28">
-<label>28</label>
-<p>
-<xref ref-type="bibr" rid="B27">Ley Aduanera</xref> (<italic>Diario Oficial de la Federación,</italic> 15 de diciembre de 1995).</p>
+<label>28</label><p>Ley Aduanera (<italic>Diario Oficial de la
+    Federación,</italic> 15 de diciembre de 1995).</p>
 </fn>
 <fn fn-type="other" id="fn29">
-<label>29</label>
-<p>
-<xref ref-type="bibr" rid="B18">Patricio Masbernat y Gloria Ramos Fuentes</xref>, “Asuntos tributarios en la jurisprudencia de la Corte Interamericana de Derechos Humanos”, <italic>Díkaion</italic> 28, n.<sup>o</sup> 2 (2019): 404-439, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5294/dika.2019.28.2.8">https://doi.org/10.5294/dika.2019.28.2.8</ext-link>
-</p>
+<label>29</label><p>Patricio Masbernat y Gloria Ramos Fuentes,
+    “Asuntos tributarios en la jurisprudencia de la Corte Interamericana
+    de Derechos Humanos”, <italic>Díkaion</italic> 28, n.<sup>o</sup> 2
+    (2019): 404-439,
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5294/dika.2019.28.2.8">https://doi.org/10.5294/dika.2019.28.2.8</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn30">
-<label>30</label>
-<p>
-<xref ref-type="bibr" rid="B2">Laura Aguilera Arredondo y Porfirio Tamayo Contreras</xref>, “El procedimiento administrativo en materia aduanera y sus consecuencias fiscales”, <italic>Jóvenes en la Ciencia</italic> 3, n.<sup>o</sup> 2 (2017): 1267-1271. http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004</p>
+<label>30</label><p>Laura Aguilera Arredondo y Porfirio Tamayo
+    Contreras, “El procedimiento administrativo en materia aduanera y
+    sus consecuencias fiscales”, <italic>Jóvenes en la Ciencia</italic>
+    3, n.<sup>o</sup> 2 (2017): 1267-1271.
+    <ext-link ext-link-type="uri" xlink:href="http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004">http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn31">
-<label>31</label>
-<p>
-<xref ref-type="bibr" rid="B10">Diana Bernal Ladrón de Guevara, Alejandra Guerra Juárez, César Iván de la Torre Flores y Carmelo Morales Mata</xref>, <italic>Los derechos fundamentales y la condonación de multas fiscales</italic>, <italic>Recomendaciones 03/2011 y 04/2011</italic> (México: Procuraduría de la Defensa del Contribuyente, 2011), 16, <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf">https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf</ext-link>
-</p>
+<label>31</label><p>Diana Bernal Ladrón de Guevara, Alejandra Guerra
+    Juárez, César Iván de la Torre Flores y Carmelo Morales Mata,
+    <italic>Los derechos fundamentales y la condonación de multas
+    fiscales</italic>, <italic>Recomendaciones 03/2011 y
+    04/2011</italic> (México: Procuraduría de la Defensa del
+    Contribuyente, 2011), 16,
+    <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf">https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn32">
-<label>32</label>
-<p>
-<xref ref-type="bibr" rid="B28">Reglamento Interior del Servicio de Administración Tributaria</xref> (<italic>Diario Oficial de la Federación</italic>, 24 de agosto de 2015).</p>
+<label>32</label><p>Reglamento Interior del Servicio de
+    Administración Tributaria (<italic>Diario Oficial de la
+    Federación</italic>, 24 de agosto de 2015).</p>
 </fn>
 <fn fn-type="other" id="fn33">
-<label>33</label>
-<p>
-<xref ref-type="bibr" rid="B16">Issa Luna Pla y Gabriela Ríos Granados</xref>, <italic>Transparencia, acceso a la información tributaria y el secreto fiscal. Desafíos en México.</italic> (México: Instituto Federal de Acceso a la Información Pública; Universidad Nacional Autónoma de México, 2010), <italic>7,</italic> http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861</p>
+<label>33</label><p>Issa Luna Pla y Gabriela Ríos Granados,
+    <italic>Transparencia, acceso a la información tributaria y el
+    secreto fiscal. Desafíos en México.</italic> (México: Instituto
+    Federal de Acceso a la Información Pública; Universidad Nacional
+    Autónoma de México, 2010), <italic>7,</italic>
+<ext-link ext-link-type="uri" xlink:href="http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861">http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn34">
-<label>34</label>
-<p>“Decreto por el que se reforman y adicionan diversas disposiciones del Reglamento Interior de la Secretaría de Hacienda y Crédito Público…</p>
+<label>34</label><p>“Decreto por el que se reforman y adicionan
+    diversas disposiciones del Reglamento Interior de la Secretaría de
+    Hacienda y Crédito Público…</p>
 </fn>
 <fn fn-type="other" id="fn35">
-<label>35</label>
-<p><italic>Ibid</italic>.</p>
+<label>35</label><p><italic>Ibid</italic>.</p>
 </fn>
 <fn fn-type="other" id="fn36">
-<label>36</label>
-<p><italic>Ibid</italic>.</p>
+<label>36</label><p><italic>Ibid</italic>.</p>
 </fn>
 </fn-group>
-</back>
+<ref-list><title>VII. Referencias</title><ref id="B1"><mixed-citation>Aguado Romero, Gabriela. “Violaciones al debido proceso en el
+procedimiento administrativo por contribuciones omitidas. Un análisis a
+luz de los derechos humanos”. <italic>Ciencia Jurídica</italic> 8,
+n.<sup>o</sup> 16 (2019): 171-191.
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15174/cj.v8i16.319"><underline>https://doi.org/10.15174/cj.v8i16.319</underline></ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Aguado</surname><given-names>Romero</given-names></name><name><surname>Gabriela</surname></name></person-group><article-title>“Violaciones al debido proceso en el
+procedimiento administrativo por contribuciones omitidas</article-title><source>Un análisis a
+luz de los derechos humanos”</source><year>2019</year><fpage>171</fpage><lpage>191</lpage><pub-id pub-id-type="doi">10.15174/cj.v8i16.319</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15174/cj.v8i16.319">https://doi.org/10.15174/cj.v8i16.319</ext-link></element-citation></ref><ref id="B2"><mixed-citation>Aguilera Arredondo, Laura y Tamayo Contreras, Porfirio. “El
+Procedimiento administrativo en materia aduanera y sus consecuencias
+fiscales”. <italic>Jóvenes en la Ciencia</italic> 3, n.<sup>o</sup> 2
+(2017): 1267-1271.
+<ext-link ext-link-type="uri" xlink:href="http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004">http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Aguilera</surname><given-names>Arredondo</given-names></name><name><surname>Laura</surname><given-names>y Tamayo Contreras</given-names></name><name><surname>Porfirio</surname></name></person-group><article-title>“El
+Procedimiento administrativo en materia aduanera y sus consecuencias
+fiscales”</article-title><source>Jóvenes en la Ciencia3, n</source><year>2017</year><fpage>1267</fpage><lpage>1271</lpage><ext-link ext-link-type="uri" xlink:href="http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004">http://www.jovenesenlaciencia.ugto.mx/index.php/jovenesenlaciencia/article/view/2004</ext-link></element-citation></ref><ref id="B3"><mixed-citation>Arellano Gault, David y Lepore, Walter. “Poder, patrón de dependencia
+y nuevo institucionalismo económico: Límites y restricciones de la
+literatura contemporánea”. <italic>Gestión y Política Pública</italic>
+18, n.<sup>o</sup> 2 (2009): 260-261.
+<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=13311978002">https://www.redalyc.org/articulo.oa?id=13311978002</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Arellano</surname><given-names>Gault</given-names></name><name><surname>David</surname><given-names>y Lepore</given-names></name><name><surname>Walter</surname></name></person-group><article-title>“Poder, patrón de dependencia
+y nuevo institucionalismo económico: Límites y restricciones de la
+literatura contemporánea”</article-title><source>Gestión y Política Pública18, n</source><year>2009</year><fpage>260</fpage><lpage>261</lpage><ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/articulo.oa?id=13311978002">https://www.redalyc.org/articulo.oa?id=13311978002</ext-link></element-citation></ref><ref id="B4"><mixed-citation>Becerril Hernández, Mario. <italic>Facultades de comprobación,
+procedimiento administrativo en materia aduanera y medios de
+impugnación</italic>. México: Tax Editores Unidos, 2011.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Becerril</surname><given-names>Hernández</given-names></name><name><surname>Mario</surname></name></person-group><article-title>Facultades de comprobación,
+procedimiento administrativo en materia aduanera y medios de
+impugnación</article-title><source>México: Tax Editores Unidos, 2011</source><year>2011</year></element-citation></ref><ref id="B5"><mixed-citation>Bernal Ladrón de Guevara, Diana, Guerra Juárez, Alejandra, De La
+Torre Flores, César Iván y Morales Mata, Carmelo. <italic>Los derechos
+fundamentales y la condonación de multas fiscales</italic>.
+<italic>Recomendaciones 03/2011 y 04/2011.</italic> s. Procuraduría de
+la Defensa del Contribuyente, 2011. Acceso el 12 de mayo de 2025.
+<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf">https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Bernal</surname><given-names>Ladrón de Guevara</given-names></name><name><surname>Diana</surname></name><name><surname>Guerra</surname><given-names>Juárez</given-names></name><name><surname>Alejandra</surname></name><name><surname>De</surname><given-names>La Torre Flores</given-names></name><name><surname>César</surname><given-names>Iván y Morales Mata</given-names></name><name><surname>Carmelo</surname></name></person-group><article-title>Los derechos
+fundamentales y la condonación de multas fiscales</article-title><source>Recomendaciones 03/2011 y 04/2011</source><year>2011</year><ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf">https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf</ext-link></element-citation></ref><ref id="B6"><mixed-citation>Bernal Torres César Augusto. <italic>Metodología de la
+investigación</italic>. Sabana: Universidad de la Sabana, 2016.
+<ext-link ext-link-type="uri" xlink:href="https://bibliotecadigital.utn.edu.ec/download/files/original/fb0b0cfee2ae990609933d17c6890848960051aa.pdf">https://bibliotecadigital.utn.edu.ec/download/files/original/fb0b0cfee2ae990609933d17c6890848960051aa.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Bernal</surname><given-names>Torres César Augusto</given-names></name></person-group><article-title>Metodología de la
+investigación</article-title><source>Sabana: Universidad de la Sabana, 2016</source><year>2016</year><ext-link ext-link-type="uri" xlink:href="https://bibliotecadigital.utn.edu.ec/download/files/original/fb0b0cfee2ae990609933d17c6890848960051aa.pdf">https://bibliotecadigital.utn.edu.ec/download/files/original/fb0b0cfee2ae990609933d17c6890848960051aa.pdf</ext-link></element-citation></ref><ref id="B7"><mixed-citation>Cansino, Rodolfo y Askar Camacho, Rubén Abdo. <italic>El PAMA, el
+procedimiento administrativo en materia aduanera, teoría y
+práctica.</italic> Ciudad Juárez: Universidad Tecnológica de Ciudad
+Juárez, 2017.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Cansino</surname></name><name><surname>Rodolfo</surname><given-names>y Askar Camacho</given-names></name><name><surname>Rubén</surname><given-names>Abdo</given-names></name></person-group><article-title>El PAMA, el
+procedimiento administrativo en materia aduanera, teoría y
+práctica</article-title><source>Ciudad Juárez: Universidad Tecnológica de Ciudad
+Juárez, 2017</source><year>2017</year></element-citation></ref><ref id="B8"><mixed-citation>Cisneros García, Juan Rabindrana<italic>. Derecho aduanero
+mexicano.</italic> México: Porrúa<italic>,</italic> 2013.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Cisneros</surname><given-names>García</given-names></name><name><surname>Juan</surname><given-names>Rabindrana</given-names></name></person-group><article-title>Derecho aduanero
+mexicano</article-title><source>México: Porrúa,2013</source><year>2013</year></element-citation></ref><ref id="B9"><mixed-citation>Del Castillo, Arturo. <italic>El Nuevo institucionalismo en el
+análisis organizacional: conceptos y enunciados explicativos.</italic>
+México: Centro de Investigación y Docencia Económicas, A. C., 1997.
+<ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/11651/3640">http://hdl.handle.net/11651/3640</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Del</surname><given-names>Castillo</given-names></name><name><surname>Arturo</surname></name></person-group><article-title>El Nuevo institucionalismo en el
+análisis organizacional: conceptos y enunciados explicativos</article-title><source>México: Centro de Investigación y Docencia Económicas, A</source><year>1997</year><ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/11651/3640">http://hdl.handle.net/11651/3640</ext-link></element-citation></ref><ref id="B10"><mixed-citation>Diana Bernal Ladrón de Guevara, Alejandra Guerra Juárez, César Iván
+de la Torre Flores y Carmelo Morales Mata, <italic>Los derechos
+fundamentales y la condonación de multas fiscales</italic>,
+<italic>Recomendaciones 03/2011 y 04/2011</italic> (México: Procuraduría
+de la Defensa del Contribuyente, 2011), 16,
+<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf">https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Diana</surname><given-names>Bernal Ladrón de Guevara</given-names></name><name><surname>Alejandra</surname><given-names>Guerra Juárez</given-names></name><name><surname>César</surname><given-names>Iván de la Torre Flores y Carmelo Morales Mata</given-names></name><name><surname>Los</surname><given-names>derechos fundamentales y la condonación de multas fiscales</given-names></name><name><surname>https://www</surname></name></person-group><article-title>gob</article-title><source>mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales</source><year>2011</year><ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf">https://www.gob.mx/cms/uploads/attachment/file/67828/V-_Los_Derechos_Fundamentales_de_la_Condonaci_n_de_Multas_Fiscales.pdf</ext-link></element-citation></ref><ref id="B11"><mixed-citation>García Arredondo, Jaime Armando. <italic>Derecho Aduanero</italic>.
+México: Themis, 2022.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>García</surname><given-names>Arredondo</given-names></name><name><surname>Jaime</surname><given-names>Armando</given-names></name></person-group><article-title>Derecho Aduanero</article-title><source>México: Themis, 2022</source><year>2022</year></element-citation></ref><ref id="B12"><mixed-citation>García Jaimes, José David, Jaimes Rodríguez, Agustina y García
+Saavedra, José David. <italic>Diccionario Jurídico</italic>. Hermosillo:
+Universidad de Sonora, 2020.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>García</surname><given-names>Jaimes</given-names></name><name><surname>José</surname><given-names>David</given-names></name><name><surname>Jaimes</surname><given-names>Rodríguez</given-names></name><name><surname>Agustina</surname><given-names>y García Saavedra</given-names></name><name><surname>José</surname><given-names>David</given-names></name></person-group><article-title>Diccionario Jurídico</article-title><source>Hermosillo:
+Universidad de Sonora, 2020</source><year>2020</year></element-citation></ref><ref id="B13"><mixed-citation>García Martínez, Rolando Javier. 2017. “Tópicos jurisdiccionales del
+Procedimiento Administrativo en Materia Aduanera”. Tesis de maestría.
+Universidad Panamericana.
+<ext-link ext-link-type="uri" xlink:href="https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238">https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>García</surname><given-names>Martínez</given-names></name><name><surname>Rolando</surname><given-names>Javier</given-names></name></person-group><article-title>2017</article-title><source>“Tópicos jurisdiccionales del
+Procedimiento Administrativo en Materia Aduanera”</source><year>2017</year><ext-link ext-link-type="uri" xlink:href="https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238">https://scripta.up.edu.mx/entities/publication/73ca479e-4781-455b-b765-25555166d238</ext-link></element-citation></ref><ref id="B14"><mixed-citation>Gobernación. Secretaría de Gobernación. “Decreto por el que se
+reforman y adicionan diversas disposiciones del Reglamento Interior de
+la Secretaría de Hacienda y Crédito Público y del Reglamento Interior
+del Servicio de Administración Tributaria, y por el que se expide el
+Reglamento Interior de la Agencia Nacional de Aduanas de México”.
+<ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5639045&amp;fecha=21/12/2021#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5639045&amp;fecha=21/12/2021#gsc.tab=0</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Gobernación</surname></name></person-group><article-title>Secretaría de Gobernación</article-title><source>“Decreto por el que se
+reforman y adicionan diversas disposiciones del Reglamento Interior de
+la Secretaría de Hacienda y Crédito Público y del Reglamento Interior
+del Servicio de Administración Tributaria, y por el que se expide el
+Reglamento Interior de la Agencia Nacional de Aduanas de México”</source><year>2021</year><ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5639045&amp;fecha=21/12/2021#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5639045&amp;fecha=21/12/2021#gsc.tab=0</ext-link></element-citation></ref><ref id="B15"><mixed-citation>Knobel, Michele y Colin<italic>,</italic> Lankshear. <italic>Maneras
+de ver: el análisis de datos en investigación cualitativa.</italic>
+Durango: Centro Pedagógico de Durango, 2005.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Knobel</surname></name><name><surname>Michele</surname><given-names>y Colin</given-names></name><name><surname>Lankshear</surname></name></person-group><article-title>Maneras
+de ver: el análisis de datos en investigación cualitativa</article-title><source>Durango: Centro Pedagógico de Durango, 2005</source><year>2005</year></element-citation></ref><ref id="B16"><mixed-citation>Luna Pla, Issa y Ríos Granados, Gabriela. <italic>Transparencia,
+acceso a la información tributaria y el secreto fiscal. desafíos en
+México.</italic> México: Instituto Federal de Acceso a la Información
+Pública; Universidad Nacional Autónoma de México, 2010.
+<ext-link ext-link-type="uri" xlink:href="http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861">http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Luna</surname><given-names>Pla</given-names></name><name><surname>Issa</surname><given-names>y Ríos Granados</given-names></name><name><surname>Gabriela</surname></name></person-group><article-title>Transparencia,
+acceso a la información tributaria y el secreto fiscal</article-title><source>desafíos en
+México</source><year>2010</year><ext-link ext-link-type="uri" xlink:href="http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861">http://bibliohistorico.juridicas.unam.mx/libros/libro.htm?l=2861</ext-link></element-citation></ref><ref id="B17"><mixed-citation>Martínez Castilla, Santiago. “La burocracia: elemento de dominación
+en la obra de Max Weber”. <italic>Misión Jurídica</italic> 2,
+n.<sup>o</sup> 2 (2016): 142.
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.25058/1794600X.12">https://doi.org/10.25058/1794600X.12</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Martínez</surname><given-names>Castilla</given-names></name><name><surname>Santiago</surname></name></person-group><article-title>“La burocracia: elemento de dominación
+en la obra de Max Weber”</article-title><source>Misión Jurídica2,
+n</source><year>2016</year><pub-id pub-id-type="doi">10.25058/1794600X.12</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.25058/1794600X.12">https://doi.org/10.25058/1794600X.12</ext-link></element-citation></ref><ref id="B18"><mixed-citation>Masbernat, Patricio y Ramos Fuentes, Gloria. “Asuntos tributarios en
+la jurisprudencia de la Corte Interamericana de Derechos Humanos”.
+<italic>Díkaion,</italic> 28, n.<sup>o</sup> 2 (2019): 404-439.
+<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5294/dika.2019.28.2.8">https://doi.org/10.5294/dika.2019.28.2.8</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Masbernat</surname></name><name><surname>Patricio</surname><given-names>y Ramos Fuentes</given-names></name><name><surname>Gloria</surname></name></person-group><article-title>“Asuntos tributarios en
+la jurisprudencia de la Corte Interamericana de Derechos Humanos”</article-title><source>Díkaion,28, n</source><year>2019</year><fpage>404</fpage><lpage>439</lpage><pub-id pub-id-type="doi">10.5294/dika.2019.28.2.8</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5294/dika.2019.28.2.8">https://doi.org/10.5294/dika.2019.28.2.8</ext-link></element-citation></ref><ref id="B19"><mixed-citation>Moreno Valdez, Hadar y Navarro Chavarría, Luis Enrique.
+<italic>Materia aduanera.</italic> México: Porrúa, 2007.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Moreno</surname><given-names>Valdez</given-names></name><name><surname>Hadar</surname><given-names>y Navarro Chavarría</given-names></name><name><surname>Luis</surname><given-names>Enrique</given-names></name></person-group><article-title>Materia aduanera</article-title><source>México: Porrúa, 2007</source><year>2007</year></element-citation></ref><ref id="B20"><mixed-citation>North, Douglass C. <italic>Institutional Change and Economic
+Performance</italic>. Cambridge: Cambridge University Press, 1990.
+<ext-link ext-link-type="uri" xlink:href="https://epistemh.pbworks.com/f/8.%20Institutions__Institutional_Change_and_Economic_Performance.pdf">https://epistemh.pbworks.com/f/8.%20Institutions__Institutional_Change_and_Economic_Performance.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>North</surname></name><name><surname>Douglass</surname><given-names>C</given-names></name></person-group><article-title>Institutional Change and Economic
+Performance</article-title><source>Cambridge: Cambridge University Press, 1990</source><year>1990</year><ext-link ext-link-type="uri" xlink:href="https://epistemh.pbworks.com/f/8.%20Institutions__Institutional_Change_and_Economic_Performance.pdf">https://epistemh.pbworks.com/f/8.%20Institutions__Institutional_Change_and_Economic_Performance.pdf</ext-link></element-citation></ref><ref id="B21"><mixed-citation>Organización para la Cooperación y el Desarrollo Económicos.
+<italic>Las reglas del juego cambiaron: la lucha contra el soborno y la
+corrupción</italic>. París: OCDE, 2020.
+<ext-link ext-link-type="uri" xlink:href="https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf">https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Organización</surname><given-names>para la Cooperación y el Desarrollo Económicos</given-names></name></person-group><article-title>Las reglas del juego cambiaron: la lucha contra el soborno y la
+corrupción</article-title><source>París: OCDE, 2020</source><year>2020</year><ext-link ext-link-type="uri" xlink:href="https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf">https://www.oecd.org/content/dam/oecd/es/publications/reports/2000/09/no-longer-business-as-usual_g1ghgb12/9789264488243-es.pdf</ext-link></element-citation></ref><ref id="B22"><mixed-citation>Powell, Walter W. y Dimaggio, Paul J. <italic>El nuevo
+institucionalismo en el análisis organizacional.</italic> México: Fondo
+de cultura económica, 1999.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Powell</surname></name><name><surname>Walter</surname><given-names>W</given-names></name></person-group><article-title>y Dimaggio, Paul J</article-title><source>El nuevo
+institucionalismo en el análisis organizacional</source><year>1999</year></element-citation></ref><ref id="B23"><mixed-citation>Rosales, Carlos Manuel. “La gratuidad de los derechos prestacionales
+como derechos humanos: una propuesta para su ponderación y
+otorgamiento”. <italic>Revista de Investigações Constitucionais</italic>
+6, n.<sup>o</sup> 2 (2019): 349-373.
+ <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5380/rinc.v6i2.58988">https://doi.org/10.5380/rinc.v6i2.58988</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rosales</surname></name><name><surname>Carlos</surname><given-names>Manuel</given-names></name></person-group><article-title>“La gratuidad de los derechos prestacionales
+como derechos humanos: una propuesta para su ponderación y
+otorgamiento”</article-title><source>Revista de Investigações Constitucionais6, n</source><year>2019</year><fpage>349</fpage><lpage>373</lpage><pub-id pub-id-type="doi">10.5380/rinc.v6i2.58988</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5380/rinc.v6i2.58988">https://doi.org/10.5380/rinc.v6i2.58988</ext-link></element-citation></ref><ref id="B24"><mixed-citation>Soberanes Lasses, Óscar y Valeska Soberanes Sánchez, Silvia.
+<italic>Manual teórico práctico sobre medios de defensa en materia
+administrativa.</italic> México: Universidad Nacional Autónoma de
+México<italic>,</italic> 2018.
+<ext-link ext-link-type="uri" xlink:href="https://biblio.juridicas.unam.mx/bjv/detalle-libro/5610-manual-teorico-practico-sobre-medios-de-defensa-en-materia-administrativa">https://biblio.juridicas.unam.mx/bjv/detalle-libro/5610-manual-teorico-practico-sobre-medios-de-defensa-en-materia-administrativa</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Soberanes</surname><given-names>Lasses</given-names></name><name><surname>Óscar</surname><given-names>y Valeska Soberanes Sánchez</given-names></name><name><surname>Silvia</surname></name></person-group><article-title>Manual teórico práctico sobre medios de defensa en materia
+administrativa</article-title><source>México: Universidad Nacional Autónoma de
+México,2018</source><year>2018</year><ext-link ext-link-type="uri" xlink:href="https://biblio.juridicas.unam.mx/bjv/detalle-libro/5610-manual-teorico-practico-sobre-medios-de-defensa-en-materia-administrativa">https://biblio.juridicas.unam.mx/bjv/detalle-libro/5610-manual-teorico-practico-sobre-medios-de-defensa-en-materia-administrativa</ext-link></element-citation></ref><ref id="B25"><mixed-citation>Vallejo Montaño, Virgilio Antonio. <italic>Procedimiento
+administrativo en materia aduanera. Su debido trámite legal y
+constitucional</italic>. México: Universidad Nacional Autónoma de
+México, 2015.
+<ext-link ext-link-type="uri" xlink:href="https://repositorio.unam.mx/contenidos?c=Rb0kx2&amp;q=Procedimiento_._Administrativo_._en_._Materia_._Aduanera&amp;t=search_0&amp;as=0&amp;d=false&amp;a=0&amp;v=1">https://repositorio.unam.mx/contenidos?c=Rb0kx2&amp;q=Procedimiento_._Administrativo_._en_._Materia_._Aduanera&amp;t=search_0&amp;as=0&amp;d=false&amp;a=0&amp;v=1</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Vallejo</surname><given-names>Montaño</given-names></name><name><surname>Virgilio</surname><given-names>Antonio</given-names></name></person-group><article-title>Procedimiento
+administrativo en materia aduanera</article-title><source>Su debido trámite legal y
+constitucional</source><year>2015</year><ext-link ext-link-type="uri" xlink:href="https://repositorio.unam.mx/contenidos?c=Rb0kx2&amp;q=Procedimiento_._Administrativo_._en_._Materia_._Aduanera&amp;t=search_0&amp;as=0&amp;d=false&amp;a=0&amp;v=1">https://repositorio.unam.mx/contenidos?c=Rb0kx2&amp;q=Procedimiento_._Administrativo_._en_._Materia_._Aduanera&amp;t=search_0&amp;as=0&amp;d=false&amp;a=0&amp;v=1</ext-link></element-citation></ref></ref-list></back>
 </article>

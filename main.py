@@ -36,7 +36,8 @@ app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # Gemini Client Config
-client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+api_key = os.getenv("GEMINI_API_KEY")
+client = genai.Client(api_key=api_key) if api_key else None
 
 
 # Pydantic Schemas for Metadata Extraction
@@ -51,10 +52,10 @@ class Author(BaseModel):
 
 class Affiliation(BaseModel):
     id: str = Field(description="ID único de esta afiliación, ej: aff1")
-    institution: str = Field(description="Nombre principal de la institución o universidad (ej. Universidad Nacional Autónoma de México)")
-    faculty: Optional[str] = Field(description="Facultad o escuela de la institución (ej. Facultad de Derecho, Facultad de Medicina)", default=None)
-    department: Optional[str] = Field(description="Departamento o división académica (ej. Departamento de Bioquímica)", default=None)
-    research_center: Optional[str] = Field(description="Centro, instituto o laboratorio de investigación (ej. Centro de Ciencias de la Complejidad, Instituto de Investigaciones Jurídicas)", default=None)
+    institution: str = Field(description="Nombre principal de la institución o universidad")
+    faculty: Optional[str] = Field(description="Facultad o escuela de la institución", default=None)
+    department: Optional[str] = Field(description="Departamento o división académica", default=None)
+    research_center: Optional[str] = Field(description="Centro, instituto o laboratorio de investigación", default=None)
     city: Optional[str] = Field(description="Ciudad donde se ubica la institución", default=None)
     state: Optional[str] = Field(description="Estado, provincia o entidad federativa", default=None)
     postal_code: Optional[str] = Field(description="Código postal de la institución", default=None)
@@ -66,21 +67,24 @@ class DateInfo(BaseModel):
     year: Optional[str] = Field(description="Año con cuatro dígitos", default=None)
 
 class ArticleMetadata(BaseModel):
-    article_category: Optional[str] = Field(description="Categoría del artículo (ej. Artículos, Nota Crítica)", default="Artículos")
-    journal_id: Optional[str] = Field(description="ID de la revista, ej: biolex", default=None)
-    journal_title: Optional[str] = Field(description="Nombre de la revista", default=None)
-    publisher_name: Optional[str] = Field(description="Nombre completo de la institución o editorial", default=None)
-    issn: Optional[str] = Field(description="ISSN de la revista", default=None)
+    article_category: Optional[str] = Field(description="Categoría o tipo de artículo según la revista (ej. Artículo Original, Ensayo, Revisión, etc.)", default=None)
+    language: Optional[str] = Field(description="Código ISO de 2 letras del idioma principal del documento ('es', 'en', 'pt')", default="es")
+    journal_id: Optional[str] = Field(description="ID o acrónimo corto de la revista si aparece", default=None)
+    journal_title: Optional[str] = Field(description="Nombre oficial completo de la revista", default=None)
+    publisher_name: Optional[str] = Field(description="Nombre de la institución o editorial publicadora", default=None)
+    issn_ppub: Optional[str] = Field(description="ISSN impreso si aparece", default=None)
+    issn_epub: Optional[str] = Field(description="ISSN electrónico si aparece", default=None)
+    issn: Optional[str] = Field(description="ISSN de la revista si no se especifica tipo", default=None)
     volume: Optional[str] = Field(description="Volumen", default=None)
     issue: Optional[str] = Field(description="Número de revista", default=None)
-    elocation_id: Optional[str] = Field(description="e-location ID, ej: e413", default=None)
+    elocation_id: Optional[str] = Field(description="e-location ID o identificador de paginación electrónica (ej: e566, e413)", default=None)
     doi: Optional[str] = Field(description="DOI del artículo", default=None)
-    article_title_en: Optional[str] = Field(description="Título del artículo en inglés", default=None)
     article_title_es: Optional[str] = Field(description="Título del artículo en español", default=None)
+    article_title_en: Optional[str] = Field(description="Título del artículo en inglés", default=None)
     article_title_pt: Optional[str] = Field(description="Título del artículo en portugués", default=None)
     abstract_es: Optional[str] = Field(description="Resumen en español", default=None)
     abstract_en: Optional[str] = Field(description="Abstract en inglés", default=None)
-    abstract_pt: Optional[str] = Field(description="Resumen en portugués (Abstrato)", default=None)
+    abstract_pt: Optional[str] = Field(description="Resumen en portugués (Resumo / Abstrato)", default=None)
     keywords_es: List[str] = Field(description="Palabras clave en español", default_factory=list)
     keywords_en: List[str] = Field(description="Keywords en inglés", default_factory=list)
     keywords_pt: List[str] = Field(description="Palavras-chave en portugués", default_factory=list)
@@ -91,6 +95,49 @@ class ArticleMetadata(BaseModel):
     received_date: Optional[DateInfo] = Field(description="Fecha de recepción", default=None)
     accepted_date: Optional[DateInfo] = Field(description="Fecha de aceptación", default=None)
     published_date: Optional[DateInfo] = Field(description="Fecha de publicación", default=None)
+
+COUNTRY_ISO_MAP = {
+    "mexico": "MX", "méxico": "MX", "mx": "MX",
+    "spain": "ES", "españa": "ES", "espana": "ES", "es": "ES",
+    "colombia": "CO", "co": "CO",
+    "brazil": "BR", "brasil": "BR", "br": "BR",
+    "argentina": "AR", "ar": "AR",
+    "chile": "CL", "cl": "CL",
+    "peru": "PE", "perú": "PE", "pe": "PE",
+    "ecuador": "EC", "ec": "EC",
+    "cuba": "CU", "cu": "CU",
+    "venezuela": "VE", "ve": "VE",
+    "united states": "US", "usa": "US", "ee.uu.": "US", "eeuu": "US", "estados unidos": "US", "us": "US",
+    "canada": "CA", "canadá": "CA", "ca": "CA",
+    "united kingdom": "GB", "uk": "GB", "reino unido": "GB", "gb": "GB",
+    "france": "FR", "francia": "FR", "fr": "FR",
+    "germany": "DE", "alemania": "DE", "de": "DE",
+    "italy": "IT", "italia": "IT", "it": "IT",
+    "portugal": "PT", "pt": "PT",
+    "uruguay": "UY", "uy": "UY",
+    "paraguay": "PY", "py": "PY",
+    "bolivia": "BO", "bo": "BO",
+    "costa rica": "CR", "cr": "CR",
+    "panama": "PA", "panamá": "PA", "pa": "PA",
+    "guatemala": "GT", "gt": "GT",
+    "honduras": "HN", "hn": "HN",
+    "el salvador": "SV", "sv": "SV",
+    "nicaragua": "NI", "ni": "NI",
+    "dominican republic": "DO", "república dominicana": "DO", "republica dominicana": "DO", "do": "DO",
+    "puerto rico": "PR", "pr": "PR"
+}
+
+def get_country_iso(country_str: Optional[str]) -> tuple[str, str]:
+    if not country_str:
+        return "", ""
+    clean = country_str.strip()
+    clean_unaccent = unaccent(clean).lower()
+    for name, code in COUNTRY_ISO_MAP.items():
+        if unaccent(name) == clean_unaccent or unaccent(name) in clean_unaccent:
+            return clean, code
+    if len(clean) == 2 and clean.isalpha():
+        return clean.upper(), clean.upper()
+    return clean, ""
 
 class RefAuthor(BaseModel):
     surname: str = Field(description="Apellido del autor de la referencia")
@@ -229,14 +276,17 @@ def build_structured_abstract_xml(soup: BeautifulSoup, abstract_text: str, tag_n
 async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
     api_key = os.getenv("GEMINI_API_KEY")
     used_fallback = False
+    metadata = None
     if not api_key:
-        print("Advertencia: No hay GEMINI_API_KEY. Devolviendo metadatos vacíos.")
+        print("Aviso: No hay GEMINI_API_KEY configurada. Extrayendo metadatos determinísticamente del DOCX...")
         used_fallback = True
-        return ArticleMetadata(article_title="Sin Título"), used_fallback
-    prompt = """
-    Analiza el siguiente texto extraído de un artículo científico (DOCX/PDF) y extrae los siguientes metadatos en un formato JSON estricto.
+    else:
+        prompt = """
+    Analiza el siguiente texto extraído de un artículo científico (DOCX/PDF) y extrae los metadatos en un formato JSON estricto.
     REGLAS DE EXTRACCIÓN:
-    - Si el artículo contiene título o resumen en español e inglés, extrae ambos.
+    - Extrae el idioma principal del artículo ('es', 'en', 'pt', etc.) en el campo 'language'.
+    - Si el artículo contiene título o resumen en varios idiomas (español, inglés, portugués), extrae cada uno en su campo correspondiente.
+    - Extrae el nombre de la revista (journal_title), ID corto (journal_id), editorial/publicador (publisher_name), ISSN impreso (issn_ppub), ISSN electrónico (issn_epub), volumen, número (issue), e-location ID (elocation_id) y DOI si aparecen en el encabezado, pie o cuerpo del texto.
     - Para los autores:
       1. Identifica el nombre completo (surname, given_names).
       2. Asocia la afiliación correspondiente usando el mismo ID (ej. "aff1") para autores de la misma institución.
@@ -244,66 +294,100 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
       4. Extrae su ORCID si está presente (orcid: "0000-0000-0000-0000").
     - Para las afiliaciones:
       1. Asigna un ID único (ej. "aff1", "aff2").
-      2. institución: Nombre principal de la universidad u organización (ej. "Universidad de Sonora").
-      3. facultad: Nombre de la facultad o división (ej. "División de Ciencias Biológicas y de la Salud").
-      4. departamento: Nombre del departamento o escuela (ej. "Departamento de Enfermería").
-      5. ciudad: Ciudad de la institución.
-      6. estado: Estado, provincia o región geográfica.
-      7. país: País de la institución.
-      8. código postal: Código postal si existe.
-      Busca en todo el texto, ya que a veces las afiliaciones están al inicio o al final del artículo.
-    - IMPORTANTE: No inventes datos. Si una afiliación o dato no está claro, intenta deducirlo del texto, pero no uses valores de relleno como "Unknown Institution" o "País Desconocido". Déjalo nulo si no existe.
+      2. institución: Nombre principal de la universidad u organización.
+      3. facultad: Nombre de la facultad o división.
+      4. departamento: Nombre del departamento o escuela.
+      5. centro de investigación: Centro o instituto si existe.
+      6. ciudad, estado, país y código postal según aparezcan en el texto.
+    - IMPORTANTE: Extrae exclusivamente la información real presente en el documento. No inventes datos ni asumas instituciones o revistas por defecto. Si un campo no existe en el texto, déjalo nulo.
     
     Texto:
     """ + text[:80000]
     
     import time
     metadata = None
-    models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.0-flash-lite']
-    for model_name in models_to_try:
-        try:
-            response = client.models.generate_content(
-                model=model_name,
-                contents=prompt,
-                config={
-                    'response_mime_type': 'application/json',
-                    'response_schema': ArticleMetadata,
-                    'temperature': 0.1
-                }
-            )
-            metadata = ArticleMetadata.model_validate_json(response.text)
-            break
-        except Exception as e:
-            print(f"Modelo {model_name} falló extrayendo metadatos: {e}")
-            if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
-                print(f"Cambiando a siguiente modelo por límite de cuota 429...")
-                continue
-            time.sleep(3)
+    if client:
+        models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.0-flash-lite']
+        for model_name in models_to_try:
+            try:
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=prompt,
+                    config={
+                        'response_mime_type': 'application/json',
+                        'response_schema': ArticleMetadata,
+                        'temperature': 0.1
+                    }
+                )
+                metadata = ArticleMetadata.model_validate_json(response.text)
+                break
+            except Exception as e:
+                print(f"Modelo {model_name} falló extrayendo metadatos: {e}")
+                if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+                    print(f"Cambiando a siguiente modelo por límite de cuota 429...")
+                    continue
+                time.sleep(3)
             
     if not metadata:
         used_fallback = True
-        metadata = ArticleMetadata(article_title="Sin Título")
+        metadata = ArticleMetadata(article_title_es="Sin Título")
         
-    # Regex fallback desde encabezados si falta DOI, elocation_id, volume o issue
+    # Regex fallback desde encabezados si falta DOI, elocation_id, volume, issue o ISSNs
     if not metadata.doi or metadata.doi == "10.0000/0000":
         doi_match = re.search(r'10\.\d{4,9}/[^\s<"\']+', text)
         if doi_match:
             metadata.doi = doi_match.group(0).rstrip('.')
             
     if not metadata.elocation_id or metadata.elocation_id == "e000":
-        eloc_match = re.search(r':\s*(e\d+)', text, re.IGNORECASE)
+        eloc_match = re.search(r':\s*(e\d+)', text, re.IGNORECASE) or re.search(r'\b(e\d{3,6})\b', text, re.IGNORECASE)
         if eloc_match:
             metadata.elocation_id = eloc_match.group(1)
             
     if not metadata.volume:
-        vol_match = re.search(r'SANUS\.\s*\d{4};\s*(\d+)', text, re.IGNORECASE)
+        vol_match = re.search(r'(?:vol(?:umen)?|volume|v\.)\s*(\d+)', text, re.IGNORECASE) or re.search(r'\b(?:19|20)\d{2}\s*;\s*(\d+)', text) or re.search(r'\b(\d+)\s*\(\s*\d+\s*\)\s*:', text)
         if vol_match:
             metadata.volume = vol_match.group(1)
             
     if not metadata.issue:
-        iss_match = re.search(r'\(\s*(\d+)\s*\)\s*:', text)
+        iss_match = re.search(r'(?:no|núm|num|número|issue|n\.)\s*(\d+)', text, re.IGNORECASE) or re.search(r'\(\s*(\d+)\s*\)\s*:', text)
         if iss_match:
             metadata.issue = iss_match.group(1)
+
+    if not metadata.issn and not metadata.issn_epub and not metadata.issn_ppub:
+        issn_matches = re.findall(r'(?:ISSN|e-ISSN|ISSN-e|p-ISSN)[:\s\.]*(\d{4}-\d{3}[\dX])', text, re.IGNORECASE)
+        if issn_matches:
+            metadata.issn = issn_matches[0]
+
+    # Extracción determinista de Revista / Editorial desde encabezados
+    if not metadata.journal_title:
+        j_match = re.search(r'^(?:Revista|Journal of|Acta|Cuadernos de|Anales de|Boletín)\s+[^\n\d,;]+', text, re.MULTILINE | re.IGNORECASE)
+        if j_match:
+            metadata.journal_title = j_match.group(0).strip()
+            if not metadata.journal_id:
+                metadata.journal_id = re.sub(r'[^a-zA-Z0-9]', '', unaccent(metadata.journal_title)).lower()[:15]
+
+    # Extracción determinista de Fechas (Recepción / Aceptación)
+    if not metadata.received_date:
+        rec_m = re.search(r'(?:recibido|received|recebido)[\s:]*(\d{1,2})[/\-](\d{1,2})[/\-](\d{4})', text, re.IGNORECASE)
+        if rec_m:
+            metadata.received_date = DateInfo(day=rec_m.group(1).zfill(2), month=rec_m.group(2).zfill(2), year=rec_m.group(3))
+    if not metadata.accepted_date:
+        acc_m = re.search(r'(?:aceptado|accepted|aceito)[\s:]*(\d{1,2})[/\-](\d{1,2})[/\-](\d{4})', text, re.IGNORECASE)
+        if acc_m:
+            metadata.accepted_date = DateInfo(day=acc_m.group(1).zfill(2), month=acc_m.group(2).zfill(2), year=acc_m.group(3))
+
+    # Detección determinista de idioma principal
+    if not metadata.language or metadata.language == "es":
+        text_lower = text.lower()
+        pt_score = sum(1 for w in [" introdução ", " resumo ", " palavras-chave ", " metodologia ", " conclusões "] if w in text_lower)
+        en_score = sum(1 for w in [" introduction ", " abstract ", " keywords ", " methodology ", " results ", " conclusions "] if w in text_lower)
+        es_score = sum(1 for w in [" introducción ", " resumen ", " palabras clave ", " metodología ", " resultados ", " conclusiones "] if w in text_lower)
+        if en_score > es_score and en_score > pt_score:
+            metadata.language = "en"
+        elif pt_score > es_score and pt_score > en_score:
+            metadata.language = "pt"
+        else:
+            metadata.language = "es"
 
     # Extracción determinista de Título si no fue extraído o quedó truncado
     if not metadata.article_title_es or metadata.article_title_es in ["Sin Título", "Título no disponible"] or metadata.article_title_es.strip().endswith("de") or len(metadata.article_title_es) < 25:
@@ -311,23 +395,21 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
         title_candidates = []
         for line in lines[:15]:
             line_low = line.lower()
-            if any(k in line_low for k in ["sanus", "issn", "doi:", "http", "www.", "volumen", "los contenidos de este artículo", "page"]):
+            if any(k in line_low for k in ["issn", "doi:", "http", "www.", "volumen", "volume", "los contenidos de este artículo", "page", "página", "editorial", "copyright", "licencia", "creative commons", "open access"]):
                 continue
             if line.isupper() or len(line) > 15:
-                # Omitir prefijos comunes
-                if any(line.upper().startswith(p) for p in ["INVESTIGACIÓN", "REVIEW", "REVISIÓN", "ARTÍCULO"]):
+                if any(line.upper().startswith(p) for p in ["INVESTIGACIÓN", "REVIEW", "REVISIÓN", "ARTÍCULO", "RESEARCH"]):
                     line = re.sub(r'^(INVESTIGACIÓN CUALITATIVA|INVESTIGACIÓN|RESEARCH|ARTÍCULO ORIGINAL|ORIGINAL ARTICLE|ARTIGO ORIGINAL|REVISIÓN|REVIEW|ARTÍCULO DE REVISIÓN|EDITORIAL|CARTA AL EDITOR|CASE REPORT|REPORTE DE CASO)\s*', '', line, flags=re.IGNORECASE).strip()
                 if line:
                     title_candidates.append(line)
-                # Para evitar truncar títulos largos que ocupan varias líneas, detenemos si la línea parece un autor (corta) o si ya tenemos un título razonable y la línea actual no es conectora
-                connector_words = ("de", "la", "el", "y", "un", "una", "del", "los", "las", "con", "por", "para", "en", "al", "o", "a")
+                connector_words = ("de", "la", "el", "y", "un", "una", "del", "los", "las", "con", "por", "para", "en", "al", "o", "a", "of", "and", "in", "to", "for", "with", "on")
                 if len(" ".join(title_candidates)) > 45 and not any(line.lower().rstrip('.').endswith(" " + cw) or line.lower().rstrip('.').endswith(cw) for cw in connector_words):
-                    # Verificamos si la siguiente línea parece un autor en lugar de continuación del título
                     break
         if title_candidates:
             metadata.article_title_es = " ".join(title_candidates)
 
-    metadata.article_title_es = clean_article_title(metadata.article_title_es)
+    if metadata.article_title_es:
+        metadata.article_title_es = clean_article_title(metadata.article_title_es)
     if metadata.article_title_en:
         metadata.article_title_en = clean_article_title(metadata.article_title_en)
         if metadata.article_title_es and metadata.article_title_en:
@@ -336,10 +418,12 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
                 en_prefix = " ".join(en_words[:3])
                 if en_prefix in metadata.article_title_es:
                     metadata.article_title_es = metadata.article_title_es.split(en_prefix)[0].strip().rstrip(':').strip()
+    if metadata.article_title_pt:
+        metadata.article_title_pt = clean_article_title(metadata.article_title_pt)
 
     # Extracción determinista de Resumen (Español)
     if not metadata.abstract_es or metadata.abstract_es == "Resumen no disponible.":
-        abs_es_match = re.search(r'Resumen:\s*(.*?)(?=\n\s*(?:Abstract:|Palabras clave:|Keywords:|Key words:|1\.|I\.)|$)', text, re.DOTALL | re.IGNORECASE)
+        abs_es_match = re.search(r'Resumen:\s*(.*?)(?=\n\s*(?:Abstract:|Palabras clave:|Keywords:|Palavras-chave:|1\.|I\.)|$)', text, re.DOTALL | re.IGNORECASE)
         if abs_es_match:
             metadata.abstract_es = format_abstract_text(abs_es_match.group(1).strip())
     else:
@@ -347,11 +431,19 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
 
     # Extracción determinista de Abstract (Inglés)
     if not metadata.abstract_en or metadata.abstract_en in ["Abstract not available.", "Resumen no disponible."]:
-        abs_en_match = re.search(r'Abstract:\s*(.*?)(?=\n\s*(?:Resumen:|Palabras clave:|Keywords:|Key words:|1\.|I\.)|$)', text, re.DOTALL | re.IGNORECASE)
+        abs_en_match = re.search(r'Abstract:\s*(.*?)(?=\n\s*(?:Resumen:|Palabras clave:|Keywords:|Key words:|Palavras-chave:|1\.|I\.)|$)', text, re.DOTALL | re.IGNORECASE)
         if abs_en_match:
             metadata.abstract_en = format_abstract_text(abs_en_match.group(1).strip())
     else:
         metadata.abstract_en = format_abstract_text(metadata.abstract_en)
+
+    # Extracción determinista de Resumen (Portugués)
+    if not metadata.abstract_pt:
+        abs_pt_match = re.search(r'(?:Resumo|Abstrato):\s*(.*?)(?=\n\s*(?:Abstract:|Resumen:|Palabras clave:|Keywords:|Palavras-chave:|1\.|I\.)|$)', text, re.DOTALL | re.IGNORECASE)
+        if abs_pt_match:
+            metadata.abstract_pt = format_abstract_text(abs_pt_match.group(1).strip())
+    else:
+        metadata.abstract_pt = format_abstract_text(metadata.abstract_pt)
 
     # Extracción determinista de Palabras Clave (Español)
     if not metadata.keywords_es or metadata.keywords_es == ["Palabra clave no disponible"] or len(metadata.keywords_es) <= 1:
@@ -367,109 +459,235 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
             kw_str = kw_en_match.group(1).replace('\n', ' ').strip().rstrip('.')
             metadata.keywords_en = [k.strip() for k in re.split(r'[;,]', kw_str) if k.strip()]
 
+    # Extracción determinista de Palavras-chave (Portugués)
+    if not metadata.keywords_pt:
+        kw_pt_match = re.search(r'Palavras-chave:\s*(.*?)(?=\n\s*(?:Abstract|Resumen|Introdução|Introduction|1\.|I\.)|$)', text, re.DOTALL | re.IGNORECASE)
+        if kw_pt_match:
+            kw_str = kw_pt_match.group(1).replace('\n', ' ').strip().rstrip('.')
+            metadata.keywords_pt = [k.strip() for k in re.split(r'[;,]', kw_str) if k.strip()]
+
     # Sanitizar prefijos en las palabras clave extraídas
     if metadata.keywords_es:
         metadata.keywords_es = [re.sub(r'^(?:Palabras?\s+clave|Keywords?|Key\s+words)[:\s]*', '', k, flags=re.IGNORECASE).strip() for k in metadata.keywords_es if k.strip()]
     if metadata.keywords_en:
         metadata.keywords_en = [re.sub(r'^(?:Palabras?\s+clave|Keywords?|Key\s+words)[:\s]*', '', k, flags=re.IGNORECASE).strip() for k in metadata.keywords_en if k.strip()]
+    if metadata.keywords_pt:
+        metadata.keywords_pt = [re.sub(r'^(?:Palavras-chave|Palabras?\s+clave|Keywords?|Key\s+words)[:\s]*', '', k, flags=re.IGNORECASE).strip() for k in metadata.keywords_pt if k.strip()]
 
     return metadata, used_fallback
 
+def enrich_front_metadata_from_soup(soup: BeautifulSoup, metadata: ArticleMetadata):
+    """
+    Enriquece los metadatos inspeccionando la estructura nativa de párrafos, secciones y notas al pie del soup
+    (títulos, autores, notas al pie de afiliación, resumen y abstract narrativo/estructurado, palabras clave).
+    """
+    body = soup.find('body')
+    if not body:
+        return
+        
+    all_p = body.find_all(['p', 'sec'])
+    first_texts = [p.get_text(strip=True) for p in all_p[:20] if p.get_text(strip=True)]
+    
+    # 1. Títulos, Categoría y Autores
+    title_es, title_en, authors_raw = None, None, []
+    for t in first_texts:
+        t_low = unaccent(t.lower())
+        if any(k in t_low for k in ['sumario', 'resumen', 'abstract', 'palabras clave', 'keywords', 'introduccion', 'introduction']):
+            break
+        if t in ['Artículos', 'Articulos', 'Investigación', 'Investigacion', 'Revisión', 'Revision', 'Original Article', 'Artículo Original']:
+            if not metadata.article_category:
+                metadata.article_category = t
+            continue
+        if not title_es and len(t) > 20:
+            title_es = t
+        elif title_es and not title_en and len(t) > 20 and not re.search(r'\d+$', t):
+            title_en = t
+        elif re.search(r'[A-Za-z\s]+[\d\*†‡F]+$', t) or (len(t.split()) <= 6 and not re.search(r'[;:\.]', t) and not any(k in t_low for k in ["vol", "no", "issn", "doi", "http"])):
+            authors_raw.append(t)
+            
+    if (not metadata.article_title_es or metadata.article_title_es in ['Sin Título', 'Título no disponible']) and title_es:
+        metadata.article_title_es = clean_article_title(title_es)
+    if not metadata.article_title_en and title_en:
+        metadata.article_title_en = clean_article_title(title_en)
+        
+    # Extraer autores si no existen
+    if not metadata.authors and authors_raw:
+        for idx, a_raw in enumerate(authors_raw, 1):
+            clean_name = re.sub(r'[\d\*†‡F]+$', '', a_raw).strip()
+            parts = clean_name.split()
+            if len(parts) >= 3:
+                given, surname = ' '.join(parts[:-2]), ' '.join(parts[-2:])
+            elif len(parts) == 2:
+                given, surname = parts[0], parts[1]
+            else:
+                given, surname = parts[0], ''
+            metadata.authors.append(Author(given_names=given, surname=surname, affiliation_id=f'aff{idx}'))
+            
+    # Extraer afiliaciones desde las primeras notas al pie
+    if not metadata.affiliations and metadata.authors:
+        for idx, author in enumerate(metadata.authors, 1):
+            target_fn = soup.find('fn', id=f'fn{idx}')
+            if target_fn:
+                fn_text = target_fn.get_text(separator=' ', strip=True)
+                clean_fn = re.sub(r'^\s*[\d\*†‡F\.]+\s*', '', fn_text).strip()
+                email_m = re.search(r'[\w\.-]+@[\w\.-]+\.\w+', clean_fn)
+                if email_m:
+                    author.email = email_m.group(0)
+                orcid_m = re.search(r'000\d-[\dXx]{4}-[\dXx]{4}-[\dXx]{4}', clean_fn)
+                if orcid_m:
+                    author.orcid = orcid_m.group(0)
+                inst_m = re.search(r'(?:Universidad|Instituto|Facultad|Colegio|Centro|Secretaría|Escuela)\s+[^\.,;]+', clean_fn, re.IGNORECASE)
+                inst = inst_m.group(0).strip() if inst_m else clean_fn[:80].strip()
+                
+                country_name = "México"
+                for c_name in COUNTRY_ISO_MAP.keys():
+                    if len(c_name) > 3 and c_name in clean_fn.lower():
+                        country_name = c_name.capitalize()
+                        break
+                        
+                metadata.affiliations.append(Affiliation(id=author.affiliation_id, institution=inst, country=country_name))
+                target_fn.decompose()
+
+    # 2. Resumen & Abstract & Keywords
+    current_mode = None
+    abs_es_list, abs_en_list = [], []
+    for p in body.find_all('p'):
+        txt = p.get_text(strip=True)
+        txt_low = unaccent(txt.lower())
+        if txt_low in ['resumen', 'resumo']:
+            current_mode = 'resumen'
+            continue
+        elif txt_low in ['abstract', 'summary']:
+            current_mode = 'abstract'
+            continue
+        elif txt_low.startswith(('palabras clave', 'palabras claves', 'palavras-chave')):
+            current_mode = None
+            if not metadata.keywords_es or metadata.keywords_es in [['Palabra clave no disponible'], ['Palabras clave']]:
+                raw_kw = re.sub(r'^(?:Palabras\s+claves?|Palavras-chave)[:\s]*', '', txt, flags=re.I)
+                metadata.keywords_es = [k.strip().rstrip('.') for k in re.split(r'[;,]', raw_kw) if k.strip()]
+            continue
+        elif txt_low.startswith(('keywords', 'key words')):
+            current_mode = None
+            if not metadata.keywords_en or metadata.keywords_en in [['Keyword not available'], ['Palabra clave no disponible']]:
+                raw_kw = re.sub(r'^(?:Keywords?|Key\s+words?)[:\s]*', '', txt, flags=re.I)
+                metadata.keywords_en = [k.strip().rstrip('.') for k in re.split(r'[;,]', raw_kw) if k.strip()]
+            continue
+        elif any(txt_low.startswith(h) for h in ['i. ', '1. ', 'introduccion', 'introduction', 'sumario:']):
+            current_mode = None
+            
+        if current_mode == 'resumen':
+            abs_es_list.append(txt)
+        elif current_mode == 'abstract':
+            abs_en_list.append(txt)
+
+    if abs_es_list and (not metadata.abstract_es or metadata.abstract_es in ['Resumen no disponible.', 'Abstract not available.']):
+        metadata.abstract_es = format_abstract_text('\n'.join(abs_es_list))
+    if abs_en_list and (not metadata.abstract_en or metadata.abstract_en in ['Abstract not available.', 'Resumen no disponible.']):
+        metadata.abstract_en = format_abstract_text('\n'.join(abs_en_list))
+
 def build_scielo_front(soup: BeautifulSoup, metadata: ArticleMetadata) -> BeautifulSoup:
-    """Modifica el soup XML inyectando la estructura de SciELO en el <front>"""
-    # 1. Crear el nuevo <front>
+    """Modifica el soup XML inyectando la estructura de SciELO en el <front> generada dinámicamente a partir del documento."""
+    enrich_front_metadata_from_soup(soup, metadata)
     new_front = soup.new_tag("front")
     
     # 2. Journal Meta
     journal_meta = soup.new_tag("journal-meta")
     
-    jid_val = metadata.journal_id.lower() if metadata.journal_id else ""
-    jtitle_val = metadata.journal_title.lower() if metadata.journal_title else ""
-    is_biolex = "biolex" in jid_val or "biolex" in jtitle_val
+    j_id_val = (metadata.journal_id or "").strip()
+    j_title_val = (metadata.journal_title or "").strip()
     
-    jid = soup.new_tag("journal-id", **{"journal-id-type": "publisher-id"})
-    jid.string = "biolex" if is_biolex else (metadata.journal_id if metadata.journal_id else "sanus")
-    journal_meta.append(jid)
-    
-    jtg = soup.new_tag("journal-title-group")
-    jt = soup.new_tag("journal-title")
-    jt.string = "Biolex" if is_biolex else (metadata.journal_title if metadata.journal_title else "Sanus")
-    jtg.append(jt)
-    
-    ajt = soup.new_tag("abbrev-journal-title", **{"abbrev-type": "publisher"})
-    ajt.string = "Biolex" if is_biolex else (metadata.journal_title[:15] if metadata.journal_title else "Sanus")
-    jtg.append(ajt)
-    journal_meta.append(jtg)
-    
-    if is_biolex:
+    if not j_id_val and j_title_val:
+        j_id_val = re.sub(r'[^a-zA-Z0-9]', '', unaccent(j_title_val)).lower()[:20]
+        
+    if j_id_val:
+        jid = soup.new_tag("journal-id", **{"journal-id-type": "publisher-id"})
+        jid.string = j_id_val
+        journal_meta.append(jid)
+        
+    if j_title_val:
+        jtg = soup.new_tag("journal-title-group")
+        jt = soup.new_tag("journal-title")
+        jt.string = j_title_val
+        jtg.append(jt)
+        
+        ajt = soup.new_tag("abbrev-journal-title", **{"abbrev-type": "publisher"})
+        ajt.string = j_title_val[:25]
+        jtg.append(ajt)
+        journal_meta.append(jtg)
+        
+    if metadata.issn_ppub:
         issn_ppub = soup.new_tag("issn", **{"pub-type": "ppub"})
-        issn_ppub.string = "2007-5634"
+        issn_ppub.string = metadata.issn_ppub
         journal_meta.append(issn_ppub)
+    if metadata.issn_epub:
         issn_epub = soup.new_tag("issn", **{"pub-type": "epub"})
-        issn_epub.string = "2007-5545"
+        issn_epub.string = metadata.issn_epub
         journal_meta.append(issn_epub)
-    else:
-        issn = soup.new_tag("issn", **{"pub-type": "epub"})
-        issn.string = metadata.issn if metadata.issn else "2448-6094"
-        journal_meta.append(issn)
-    
-    # Publisher
-    publisher = soup.new_tag("publisher")
-    pub_name = soup.new_tag("publisher-name")
-    if is_biolex:
-        pub_name.string = "Universidad de Sonora, División de Ciencias Sociales"
-    else:
-        pub_name.string = metadata.publisher_name if metadata.publisher_name else "Universidad de Sonora, División de Ciencias Biológicas y de la Salud, Departamento de enfermería"
-    publisher.append(pub_name)
-    journal_meta.append(publisher)
-    
-    new_front.append(journal_meta)
-    
+    elif metadata.issn:
+        issn_tag = soup.new_tag("issn", **{"pub-type": "epub"})
+        issn_tag.string = metadata.issn
+        journal_meta.append(issn_tag)
+        
+    if metadata.publisher_name:
+        publisher = soup.new_tag("publisher")
+        pub_name = soup.new_tag("publisher-name")
+        pub_name.string = metadata.publisher_name
+        publisher.append(pub_name)
+        journal_meta.append(publisher)
+        
+    if len(journal_meta.contents) > 0:
+        new_front.append(journal_meta)
+        
     # 3. Article Meta
     article_meta = soup.new_tag("article-meta")
-    doi = soup.new_tag("article-id", **{"pub-id-type": "doi"})
-    doi.string = metadata.doi if metadata.doi else "10.0000/0000"
-    article_meta.append(doi)
-    
-    publisher_id = soup.new_tag("article-id", **{"pub-id-type": "other"})
-    publisher_id.string = "00000"
-    article_meta.append(publisher_id)
+    if metadata.doi:
+        doi = soup.new_tag("article-id", **{"pub-id-type": "doi"})
+        doi.string = metadata.doi
+        article_meta.append(doi)
         
-    # Article categories
-    article_categories = soup.new_tag("article-categories")
-    subj_group = soup.new_tag("subj-group", **{"subj-group-type": "heading"})
-    subject = soup.new_tag("subject")
-    subject.string = metadata.article_category if metadata.article_category else "Artículos"
-    subj_group.append(subject)
-    article_categories.append(subj_group)
-    article_meta.append(article_categories)
+    if metadata.elocation_id:
+        eloc_num = re.sub(r'^[eE]', '', metadata.elocation_id)
+        if eloc_num.isdigit():
+            pub_id_other = soup.new_tag("article-id", **{"pub-id-type": "other"})
+            pub_id_other.string = eloc_num.zfill(5)
+            article_meta.append(pub_id_other)
+        
+    if metadata.article_category:
+        article_categories = soup.new_tag("article-categories")
+        subj_group = soup.new_tag("subj-group", **{"subj-group-type": "heading"})
+        subject = soup.new_tag("subject")
+        subject.string = metadata.article_category
+        subj_group.append(subject)
+        article_categories.append(subj_group)
+        article_meta.append(article_categories)
         
     title_group = soup.new_tag("title-group")
+    lang_code = (metadata.language or "es").lower()
+    
+    if lang_code == "en" and metadata.article_title_en:
+        primary_title = clean_article_title(metadata.article_title_en)
+        trans_titles = [("es", metadata.article_title_es), ("pt", metadata.article_title_pt)]
+    elif lang_code == "pt" and metadata.article_title_pt:
+        primary_title = clean_article_title(metadata.article_title_pt)
+        trans_titles = [("es", metadata.article_title_es), ("en", metadata.article_title_en)]
+    else:
+        primary_title = clean_article_title(metadata.article_title_es) if metadata.article_title_es else (clean_article_title(metadata.article_title_en) if metadata.article_title_en else "Título no disponible")
+        trans_titles = [("pt", metadata.article_title_pt), ("en", metadata.article_title_en)]
+        
     article_title = soup.new_tag("article-title")
-    title_es_clean = clean_article_title(metadata.article_title_es) if metadata.article_title_es else (clean_article_title(metadata.article_title_en) if metadata.article_title_en else "Título no disponible")
-    if metadata.article_title_en and title_es_clean:
-        en_words = clean_article_title(metadata.article_title_en).split()
-        if len(en_words) >= 3:
-            en_prefix = " ".join(en_words[:3])
-            if en_prefix in title_es_clean:
-                title_es_clean = title_es_clean.split(en_prefix)[0].strip().rstrip(':').strip()
-    article_title.string = title_es_clean
+    article_title.string = primary_title
     title_group.append(article_title)
     
-    if metadata.article_title_pt:
-        trans_title_group_pt = soup.new_tag("trans-title-group", **{"xml:lang": "pt"})
-        trans_title_pt = soup.new_tag("trans-title")
-        trans_title_pt.string = clean_article_title(metadata.article_title_pt)
-        trans_title_group_pt.append(trans_title_pt)
-        title_group.append(trans_title_group_pt)
-
-    if metadata.article_title_en:
-        trans_title_group = soup.new_tag("trans-title-group", **{"xml:lang": "en"})
-        trans_title = soup.new_tag("trans-title")
-        title_en_clean = clean_article_title(metadata.article_title_en)
-        trans_title.string = title_en_clean
-        trans_title_group.append(trans_title)
-        title_group.append(trans_title_group)
+    for t_lang, t_val in trans_titles:
+        if t_val:
+            clean_t = clean_article_title(t_val)
+            if clean_t and clean_t != primary_title:
+                trans_tg = soup.new_tag("trans-title-group", **{"xml:lang": t_lang})
+                trans_t = soup.new_tag("trans-title")
+                trans_t.string = clean_t
+                trans_tg.append(trans_t)
+                title_group.append(trans_tg)
+                
     article_meta.append(title_group)
     
     # Authors and Affiliations
@@ -478,7 +696,6 @@ def build_scielo_front(soup: BeautifulSoup, metadata: ArticleMetadata) -> Beauti
     for author in metadata.authors:
         contrib = soup.new_tag("contrib", **{"contrib-type": "author"})
         if author.orcid:
-            import re
             orcid_match = re.search(r'\d{4}-\d{4}-\d{4}-[\dX]{4}', author.orcid, re.IGNORECASE)
             orcid_val = orcid_match.group() if orcid_match else author.orcid
             orcid = soup.new_tag("contrib-id", **{"contrib-id-type": "orcid"})
@@ -515,7 +732,6 @@ def build_scielo_front(soup: BeautifulSoup, metadata: ArticleMetadata) -> Beauti
     for aff in metadata.affiliations:
         aff_tag = soup.new_tag("aff", id=aff.id)
         
-        import re
         match = re.search(r'\d+', aff.id)
         if match:
             label = soup.new_tag("label")
@@ -533,23 +749,20 @@ def build_scielo_front(soup: BeautifulSoup, metadata: ArticleMetadata) -> Beauti
         inst.string = ", ".join(p for p in original_parts if p)
         aff_tag.append(inst)
         
-        inst_orgname = soup.new_tag("institution", **{"content-type": "orgname"})
-        inst_orgname.string = aff.institution
-        aff_tag.append(inst_orgname)
-        
-        orgdivs = []
-        if aff.faculty:
-            orgdivs.append(aff.faculty)
-        if aff.research_center:
-            orgdivs.append(aff.research_center)
-        if aff.department:
-            orgdivs.append(aff.department)
+        if aff.institution:
+            inst_orgname = soup.new_tag("institution", **{"content-type": "orgname"})
+            inst_orgname.string = aff.institution
+            aff_tag.append(inst_orgname)
             
+        orgdivs = []
+        if aff.faculty: orgdivs.append(aff.faculty)
+        if aff.research_center: orgdivs.append(aff.research_center)
+        if aff.department: orgdivs.append(aff.department)
+        
         if len(orgdivs) >= 1:
             inst_orgdiv1 = soup.new_tag("institution", **{"content-type": "orgdiv1"})
             inst_orgdiv1.string = orgdivs[0]
             aff_tag.append(inst_orgdiv1)
-            
         if len(orgdivs) >= 2:
             inst_orgdiv2 = soup.new_tag("institution", **{"content-type": "orgdiv2"})
             inst_orgdiv2.string = orgdivs[1]
@@ -570,37 +783,14 @@ def build_scielo_front(soup: BeautifulSoup, metadata: ArticleMetadata) -> Beauti
                 state.string = aff.state
                 addr_line.append(state)
             aff_tag.append(addr_line)
-        
-        # SciELO requiere el atributo 'country' con un código ISO 3166-1 alpha-2 válido (ej. MX para México, ES para España).
-        cn = (aff.country or "México").strip().lower()
-        if "méxico" in cn or "mexico" in cn:
-            iso_code = "MX"
-        elif "españa" in cn or "spain" in cn:
-            iso_code = "ES"
-        elif "colombia" in cn:
-            iso_code = "CO"
-        elif "brasil" in cn or "brazil" in cn:
-            iso_code = "BR"
-        elif "argentina" in cn:
-            iso_code = "AR"
-        elif "chile" in cn:
-            iso_code = "CL"
-        elif "perú" in cn or "peru" in cn:
-            iso_code = "PE"
-        elif "ecuador" in cn:
-            iso_code = "EC"
-        elif "cuba" in cn:
-            iso_code = "CU"
-        elif "estados unidos" in cn or "usa" in cn:
-            iso_code = "US"
-        else:
-            iso_code = "MX"
             
-        country = soup.new_tag("country", country=iso_code)
-        country.string = aff.country if aff.country else "México"
-        aff_tag.append(country)
-        
-        # Recomendación 4: Mapear correos a <email> dentro de <aff> en <front>
+        if aff.country:
+            c_name, iso_code = get_country_iso(aff.country)
+            country_attrs = {"country": iso_code} if iso_code else {}
+            country_tag = soup.new_tag("country", **country_attrs)
+            country_tag.string = c_name if c_name else aff.country
+            aff_tag.append(country_tag)
+            
         for author in metadata.authors:
             if author.affiliation_id == aff.id and author.email:
                 clean_email = re.sub(r'^file:///[^\s]+', '', author.email.strip())
@@ -629,20 +819,30 @@ def build_scielo_front(soup: BeautifulSoup, metadata: ArticleMetadata) -> Beauti
         author_notes.append(corresp)
         article_meta.append(author_notes)
         
-    # Pub dates (debe ir ANTES de elocation-id según el DTD de JATS)
+    # Pub dates dinámicas
+    import datetime
+    pub_year = None
+    if metadata.published_date and metadata.published_date.year:
+        pub_year = metadata.published_date.year
+    elif metadata.accepted_date and metadata.accepted_date.year:
+        pub_year = metadata.accepted_date.year
+    elif metadata.received_date and metadata.received_date.year:
+        pub_year = metadata.received_date.year
+    else:
+        pub_year = str(datetime.datetime.now().year)
+        
     pub_date = soup.new_tag("pub-date", **{"date-type": "pub", "publication-format": "electronic"})
     day = soup.new_tag("day")
     day.string = metadata.published_date.day if (metadata.published_date and metadata.published_date.day) else "01"
     month = soup.new_tag("month")
     month.string = metadata.published_date.month if (metadata.published_date and metadata.published_date.month) else "01"
     year = soup.new_tag("year")
-    year.string = metadata.published_date.year if (metadata.published_date and metadata.published_date.year) else "2024"
+    year.string = pub_year
     pub_date.append(day)
     pub_date.append(month)
     pub_date.append(year)
     article_meta.append(pub_date)
     
-    # Collection date también suele ser requerido por SciELO
     pub_date_coll = soup.new_tag("pub-date", **{"date-type": "collection", "publication-format": "electronic"})
     season = soup.new_tag("season")
     season.string = "Jan-Dec"
@@ -803,12 +1003,11 @@ def clean_body_duplicate_metadata(soup: BeautifulSoup, metadata: ArticleMetadata
             keywords_to_remove.append(author.email.lower())
             
     # Remove tables that are just headers
-    for t in body.find_all('table-wrap', limit=5):
+    for t in list(body.find_all('table-wrap', limit=4)):
         text_lower = t.get_text(strip=True).lower()
-        if "revista " in text_lower or "http" in text_lower or "doi:" in text_lower:
-            t.decompose()
-        elif "volumen" in text_lower and not any(w in text_lower for w in ["líquidos", "liquidos", "nanda", "diagnóstico"]):
-            t.decompose()
+        if any(h in text_lower for h in ["revista ", "issn", "doi.org", "http://", "https://", "creative commons", "licencia"]):
+            if len(t.find_all('tr')) <= 3:
+                t.decompose()
 
     # Remove recurring header/footer images (e.g. logos repeated on every page)
     from collections import Counter
@@ -831,16 +1030,17 @@ def clean_body_duplicate_metadata(soup: BeautifulSoup, metadata: ArticleMetadata
                     g.decompose()
 
     # Remove lone graphics at the very beginning (usually header images)
-    for p in body.find_all('p', limit=5):
+    for p in list(body.find_all('p', limit=5)):
         if not p.get_text(strip=True) and p.find('inline-graphic'):
             p.decompose()
             
-    # Limpiamos los nodos al inicio del body que preceden a la primera sección real (Introducción en Español)
+    # Limpiamos los nodos al inicio del body que preceden a la primera sección real
     from bs4.element import Tag
     import unicodedata
     def unaccent(s):
         return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
 
+    lang = (metadata.language or "es").lower()
     for child in list(body.children):
         if not isinstance(child, Tag):
             continue
@@ -848,14 +1048,22 @@ def clean_body_duplicate_metadata(soup: BeautifulSoup, metadata: ArticleMetadata
         title_elem = child.find('title')
         title_clean = unaccent(title_elem.get_text(strip=True).lower()) if title_elem else ''
         
-        # Detener la purga al alcanzar cualquier encabezado de sección principal (Sumario, Resumen, Abstract, Introducción, I. Introducción, etc.)
-        is_portuguese = any(w in title_clean or w in text_clean for w in ["introducao", "abstrato", "resumo", "palavras-chave"])
-        is_english = any(w in title_clean or w in text_clean for w in ["introduction", "abstract", "key words", "keywords"])
+        is_foreign = False
+        if lang == "es":
+            is_foreign = any(w in title_clean or w in text_clean for w in ["introducao", "abstrato", "resumo", "palavras-chave", "introduction", "abstract", "key words", "keywords"])
+        elif lang == "en":
+            is_foreign = any(w in title_clean or w in text_clean for w in ["introducao", "abstrato", "resumo", "palavras-chave", "introduccion", "resumen", "palabras clave"])
+        elif lang == "pt":
+            is_foreign = any(w in title_clean or w in text_clean for w in ["introduction", "abstract", "key words", "keywords", "introduccion", "resumen", "palabras clave"])
+            
+        is_structured_abstract = sum(1 for kw in ["objetivo", "objective", "metodologia", "methodology", "resultados", "results", "conclusiones", "conclusion", "conclusoes"] if kw in text_clean) >= 2
         
-        is_structured_abstract = sum(1 for kw in ["objetivo", "metodologia", "resultados", "conclusiones", "conclusion"] if kw in text_clean) >= 2
-        is_main_section = (any(w in title_clean or w in text_clean[:60] for w in ["sumario", "resumen", "abstract", "introduccion", "introduction", "metodo", "metodologia", "materiales"]) or re.match(r'^(?:[i|v|x|l|c|d|m]+\.|\d+[\.\)])\s*', text_clean)) and not is_structured_abstract
+        is_main_body_start = (
+            any(w in title_clean or (w in text_clean[:60] and len(text_clean) < 100) for w in ["introduccion", "introduction", "introducao", "metodologia", "methodology", "material y metodos", "antecedentes", "marco teorico", "marco conceptual", "desarrollo"])
+            or bool(re.match(r'^(?:[i|v|x|l|c|d|m]+\.|\d+(?:\.\d+)*[\.\)])\s+[A-Za-z]', text_clean))
+        ) and not any(w in title_clean or w in text_clean for w in ["sumario", "resumen", "abstract", "resumo", "palabras clave", "keywords", "palavras-chave"]) and not is_structured_abstract
         
-        if is_main_section and not (is_portuguese or is_english):
+        if is_main_body_start and not is_foreign:
             break
             
         child.decompose()
@@ -1509,17 +1717,22 @@ def auto_link_cross_references(soup: BeautifulSoup):
                         range_parts = re.split(r'[\-\–\—]', part)
                         if len(range_parts) == 2 and range_parts[0].isdigit() and range_parts[1].isdigit():
                             start_n, end_n = int(range_parts[0]), int(range_parts[1])
-                            rids = " ".join([f"B{n}" for n in range(start_n, end_n + 1)])
-                            xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': rids})
-                            sup_elem = soup.new_tag('sup')
-                            sup_elem.string = part
-                            xref.append(sup_elem)
-                            new_nodes.append(xref)
+                            if start_n < 1000 and end_n < 1000 and (end_n - start_n) <= 50:
+                                rids = " ".join([f"B{n}" for n in range(start_n, end_n + 1)])
+                                xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': rids})
+                                sup_elem = soup.new_tag('sup')
+                                sup_elem.string = part
+                                xref.append(sup_elem)
+                                new_nodes.append(xref)
+                            else:
+                                sup_elem = soup.new_tag('sup')
+                                sup_elem.string = part
+                                new_nodes.append(sup_elem)
                         else:
                             sup_elem = soup.new_tag('sup')
                             sup_elem.string = part
                             new_nodes.append(sup_elem)
-                    elif part.isdigit():
+                    elif part.isdigit() and int(part) < 1000:
                         xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': f"B{part}"})
                         sup_elem = soup.new_tag('sup')
                         sup_elem.string = part
@@ -1569,15 +1782,18 @@ def auto_link_cross_references(soup: BeautifulSoup):
                             r_parts = re.split(r'[\-\–\—]', part)
                             if len(r_parts) == 2 and r_parts[0].isdigit() and r_parts[1].isdigit():
                                 s_n, e_n = int(r_parts[0]), int(r_parts[1])
-                                for n_idx, n in enumerate(range(s_n, e_n + 1)):
-                                    if n_idx > 0:
-                                        nodes.append("-")
-                                    xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': f"B{n}"})
-                                    xref.string = str(n)
-                                    nodes.append(xref)
+                                if s_n < 1000 and e_n < 1000 and (e_n - s_n) <= 50:
+                                    for n_idx, n in enumerate(range(s_n, e_n + 1)):
+                                        if n_idx > 0:
+                                            nodes.append("-")
+                                        xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': f"B{n}"})
+                                        xref.string = str(n)
+                                        nodes.append(xref)
+                                else:
+                                    nodes.append(part)
                             else:
                                 nodes.append(part)
-                        elif part.isdigit():
+                        elif part.isdigit() and int(part) < 1000:
                             xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': f"B{part}"})
                             xref.string = part
                             nodes.append(xref)
@@ -1647,20 +1863,18 @@ def format_sections(soup: BeautifulSoup):
         if not title:
             continue
             
-        text = title.get_text(strip=True).lower()
+        text = unaccent(title.get_text(strip=True).lower())
         if "introduc" in text:
             sec['sec-type'] = 'intro'
-        elif "material" in text or "método" in text or "metodolog" in text:
-            sec['sec-type'] = 'methods'  # Estándar canónico SciELO SPS (en lugar de materials|methods)
-        elif "caso" in text or "proceso de enfermer" in text or "caso clín" in text:
+        elif any(k in text for k in ["material", "metodo", "method", "metodolog"]):
+            sec['sec-type'] = 'methods'
+        elif any(k in text for k in ["caso clin", "clinical case", "case report", "relato de caso", "estudio de caso", "case study", "casos"]):
             sec['sec-type'] = 'cases'
-        elif "resultado" in text and "discus" in text:
+        elif "resultado" in text or "result" in text:
             sec['sec-type'] = 'results'
-        elif "resultado" in text:
-            sec['sec-type'] = 'results'
-        elif "discus" in text:
+        elif "discus" in text or "discuss" in text:
             sec['sec-type'] = 'discussion'
-        elif "conclusi" in text:
+        elif "conclusi" in text or "conclus" in text:
             sec['sec-type'] = 'conclusions'
 
 def extract_bibliography_paragraphs(soup: BeautifulSoup) -> tuple[list[dict], str]:
@@ -1785,7 +1999,7 @@ async def parse_references_with_gemini(ref_items: List[dict]) -> List[ReferenceI
         return []
         
     api_key = os.getenv("GEMINI_API_KEY")
-    if api_key:
+    if api_key and client:
         texts = [f"[{idx+1}] {item['raw_text']}" for idx, item in enumerate(ref_items)]
         combined_text = "\n".join(texts)
 
@@ -2021,7 +2235,23 @@ def process_eng_docx_to_subarticle(soup_main: BeautifulSoup, eng_docx_path: str,
     art_cats = soup_main.new_tag('article-categories')
     subj_grp = soup_main.new_tag('subj-group', **{'subj-group-type': 'heading'})
     subj = soup_main.new_tag('subject')
-    subj.string = "Research"
+    
+    cat_val = metadata.article_category or "Original Article"
+    cat_map = {
+        "artículo original": "Original Article",
+        "articulo original": "Original Article",
+        "artículos": "Original Articles",
+        "articulos": "Original Articles",
+        "investigación": "Research Article",
+        "investigacion": "Research Article",
+        "revisión": "Review Article",
+        "revision": "Review Article",
+        "ensayo": "Essay",
+        "reporte de caso": "Case Report",
+        "caso clínico": "Clinical Case",
+        "carta al editor": "Letter to the Editor"
+    }
+    subj.string = cat_map.get(unaccent(cat_val).lower(), cat_val)
     subj_grp.append(subj)
     art_cats.append(subj_grp)
     front_stub.append(art_cats)
@@ -2033,7 +2263,7 @@ def process_eng_docx_to_subarticle(soup_main: BeautifulSoup, eng_docx_path: str,
     if not eng_title_text or eng_title_text in ["Title not available", "RESEARCH", "INVESTIGACIÓN"]:
         for p in soup_eng.find_all(['title', 'p'], limit=10):
             t = clean_article_title(p.get_text(strip=True))
-            if t and len(t) > 15 and not any(t.lower().startswith(prefix) for prefix in ["abstract", "keywords", "sanus", "issn"]):
+            if t and len(t) > 15 and not any(t.lower().startswith(prefix) for prefix in ["abstract", "keywords", "issn", "doi:", "vol", "http"]):
                 eng_title_text = t
                 break
     if eng_title_text and eng_title_text != "Title not available":
@@ -2342,7 +2572,7 @@ async def convert_docx(file: UploadFile = File(...), eng_file: Optional[UploadFi
                 soup.article['article-type'] = "research-article"
                 soup.article['dtd-version'] = "1.1"
                 soup.article['specific-use'] = "sps-1.9"
-                soup.article['xml:lang'] = "es"
+                soup.article['xml:lang'] = metadata.language if metadata.language else "es"
             
             # Actualizar counts dinámicamente
             rc = soup.find('ref-count')

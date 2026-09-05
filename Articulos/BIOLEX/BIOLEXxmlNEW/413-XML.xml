@@ -1,872 +1,1097 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
 <article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
-<front>
-<journal-meta>
-<journal-id journal-id-type="publisher-id">biolex</journal-id>
-<journal-title-group>
-<journal-title>Biolex</journal-title>
-<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
-</journal-title-group>
-<issn pub-type="ppub">2007-5634</issn>
-<issn pub-type="epub">2007-5545</issn>
-<publisher>
-<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
-</publisher>
-</journal-meta>
-<article-meta>
-<article-id pub-id-type="doi">10.36796/biolex.v17i28.413</article-id>
-<article-id pub-id-type="other">00105</article-id>
-<article-categories>
-<subj-group subj-group-type="heading">
-<subject>Artículos</subject>
-</subj-group>
-</article-categories>
-<title-group>
-<article-title>Desaparición forzada en Guerrero. Mecanismos socio-jurídicos para garantizar los derechos humanos</article-title>
-<trans-title-group xml:lang="en">
-<trans-title>Enforced Disappearance in Guerrero. Socio-Legal Mechanisms to Guarantee Human Rights</trans-title>
-</trans-title-group>
-</title-group>
-<contrib-group>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0000-0001-9898-5482</contrib-id>
-<name>
-<surname>Soto Sotello</surname>
-<given-names>José Antonio</given-names>
-</name>
-<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-<role>Abogado, doctor en derecho</role>
-</contrib>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0000-0001-6428-2199</contrib-id>
-<name>
-<surname>Aguilera Durán</surname>
-<given-names>Jesús</given-names>
-</name>
-<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-<role>Profesor Investigador de tiempo completo de la maestría y el doctorado en Derecho</role>
-</contrib>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0009-0005-2424-5058</contrib-id>
-<name>
-<surname>Díaz Alarcón</surname>
-<given-names>Gustavo</given-names>
-</name>
-<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
-<role>Maestro en derecho constitucional</role>
-</contrib>
-</contrib-group>
-<aff id="aff1">
-<label>1</label>
-<institution content-type="original">Abogado, doctor en derecho, Instituto Internacional del Derecho del Estado. Coordinador y docente investigador del Posgrado en Derecho de la Universidad Autónoma de Guerrero. Miembro del Sistema Nacional de Investigadoras e Investigadores, México. 11461@uagro.mx</institution>
-<institution content-type="normalized">Universidad Autónoma de Guerrero</institution>
-<institution content-type="orgname">Universidad Autónoma de Guerrero</institution>
-<country country="MX">Mexico</country>
-<email>11461@uagro.mx</email>
-</aff>
-<aff id="aff2">
-<label>2</label>
-<institution content-type="original">Profesor Investigador de tiempo completo de la maestría y el doctorado en Derecho de la Universidad Autónoma de Guerrero, programas inscritos en el SNP-CONAHCYT. Integrante del Sistema Nacional de Investigadoras e Investigadores, nivel I, México. Doctor en derecho y globalización; jesusaguilera@uagro.mx</institution>
-<institution content-type="normalized">Universidad Autónoma de Guerrero</institution>
-<institution content-type="orgname">Universidad Autónoma de Guerrero</institution>
-<country country="MX">Mexico</country>
-<email>jesusaguilera@uagro.mx</email>
-</aff>
-<aff id="aff3">
-<label>3</label>
-<institution content-type="original">Maestro en derecho constitucional por la Universidad Autónoma de Guerrero; 14385098@uagro.mx</institution>
-<institution content-type="normalized">Universidad Autónoma de Guerrero</institution>
-<institution content-type="orgname">Universidad Autónoma de Guerrero</institution>
-<country country="MX">Mexico</country>
-<email>14385098@uagro.mx</email>
-</aff>
-<pub-date date-type="pub" publication-format="electronic">
-<day>18</day>
-<month>12</month>
-<year>2025</year>
-</pub-date>
-<pub-date date-type="collection" publication-format="electronic">
-<season>Jan-Dec</season>
-<year>2025</year>
-</pub-date>
-<volume>17</volume>
-<issue>28</issue>
-<elocation-id>e413</elocation-id>
-<permissions>
-<license xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" license-type="open-access" xml:lang="es">
-<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
-</license>
-</permissions>
-<abstract>
-<title>Resumen</title>
-<p>Debido a la problemática histórica, social y jurídica en la que se ve inmerso el estado de Guerrero, se propicia la comisión del delito de desaparición forzada de personas, ilícito que representa una negación de derechos humanos. Esta iniciativa se ve incentivada por el progresivo deterioro de las instancias destinadas a la prevención de este crimen de lesa humanidad. Es necesario analizar el funcionamiento y los resultados de las instituciones destinadas a la prevención de dicha práctica, así como detectar las principales causas que provocan la desaparición forzada de personas. El objetivo de este artículo es brindar una perspectiva amplia sobre el desarrollo del objeto de estudio desde los periodos de la guerra sucia (década de los 70) hasta el panorama actual de la problemática. Lo anterior para evidenciar la naturaleza y estructura en la que operan los distintos factores que contribuyen a su proliferación. A su vez, se hace un análisis exhaustivo tanto de la jurisprudencia como de la legislación nacional, local e internacional, encargada de la prevención de tal delito. La investigación desglosa elementos históricos, normativos y sociológicos que permiten dimensionar los alcances de este crimen para tener un panorama holístico. Esto permite entender de manera amplia los diversos componentes de la desaparición forzada y, a partir de ello, se plantean estrategias socio jurídicas adecuadas a las necesidades de la población guerrerense.</p>
-</abstract>
-<trans-abstract xml:lang="en">
-<title>Abstract</title>
-<p>Due to the historical, social and legal challenges in which the state of Guerrero finds itself, the crime of enforced disappearance of people is facilitated, which represents a denial of human rights. This issue is further compounded by the progressive deterioration of the institutions intended to prevent this crime against humanity. Therefore, it is necessary to analyze how these institutions operate and what results of the institutions are intended to prevent this practice, as well as to identify the main causes that lead to the enforced disappearance of people. The objective of this article is to provide a broad perspective on the development of the object of study, from the periods of the Dirty War (1970) to the current panorama of the problem and thus demonstrate the nature and structure in which the different factors that contribute to the proliferation of this illicit activity operate. In turn, an exhaustive analysis is made of both the jurisprudence and the national, local and international legislation responsible for the prevention of said crime. The investigation breaks down historical, normative and sociological elements that allow us to understand the scope of this issue, in order to have a holistic overview, which allows us to understand in a broad way the various components of forced disappearance and from this, socio-legal strategies are proposed that are appropriate to the needs of the population of Guerrero.</p>
-</trans-abstract>
-<kwd-group xml:lang="es">
-<title>Palabras clave:</title>
-<kwd>guerra sucia</kwd>
-<kwd>violencia estatal</kwd>
-<kwd>contrainsurgencia</kwd>
-</kwd-group>
-<kwd-group xml:lang="en">
-<title>Keywords:</title>
-<kwd>dirty war</kwd>
-<kwd>state violence</kwd>
-<kwd>counterinsurgency</kwd>
-</kwd-group>
-<counts>
-<fig-count count="1"/>
-<table-count count="0"/>
-<equation-count count="0"/>
-<ref-count count="27"/>
-</counts>
-</article-meta>
-</front>
+<front><article-meta><article-id pub-id-type="doi">10.1016/S1870-4654(14)70022-4</article-id><article-categories><subj-group subj-group-type="heading"><subject>Artículos</subject></subj-group></article-categories><title-group><article-title>Desaparición forzada en Guerrero. Mecanismos socio-jurídicos</article-title><trans-title-group xml:lang="en"><trans-title>Enforced Disappearance in Guerrero. Socio-Legal Mechanisms to
+Guarantee Human Rights</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0001-9898-5482</contrib-id><name><surname>Soto Sotello</surname><given-names>José Antonio</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0001-6428-2199</contrib-id><name><surname>Aguilera Durán</surname><given-names>Jesús</given-names></name><xref ref-type="aff" rid="aff2"/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0009-0005-2424-5058</contrib-id><name><surname>Díaz Alarcón</surname><given-names>Gustavo</given-names></name><xref ref-type="aff" rid="aff3"/></contrib><aff id="aff1"><label>1</label><institution content-type="original">Instituto
+    Internacional del Derecho del Estado, México</institution><institution content-type="orgname">Instituto
+    Internacional del Derecho del Estado</institution><country country="MX">México</country><email>11461@uagro.mx</email></aff><aff id="aff2"><label>2</label><institution content-type="original">Universidad Autónoma de
+    Guerrero, México</institution><institution content-type="orgname">Universidad Autónoma de
+    Guerrero</institution><country country="MX">México</country><email>jesusaguilera@uagro.mx</email></aff><aff id="aff3"><label>3</label><institution content-type="original">Universidad Autónoma de Guerrero, México</institution><institution content-type="orgname">Universidad Autónoma de Guerrero</institution><country country="MX">México</country><email>14385098@uagro.mx</email></aff></contrib-group><pub-date date-type="pub" publication-format="electronic"><day>01</day><month>01</month><year>2026</year></pub-date><pub-date date-type="collection" publication-format="electronic"><season>Jan-Dec</season><year>2026</year></pub-date><volume>26</volume><issue>569</issue><elocation-id>e000</elocation-id><permissions><license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es"><license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p></license></permissions><abstract><title>Resumen:</title><p>Debido a la problemática histórica, social y jurídica en la que se ve inmerso el estado de Guerrero, se propicia la comisión del delito de desaparición forzada de personas, ilícito que representa una negación de derechos humanos. Esta iniciativa se ve incentivada por el progresivo deterioro de las instancias destinadas a la prevención de este crimen de lesa humanidad. Es necesario analizar el funcionamiento y los resultados de las instituciones destinadas a la prevención de dicha práctica, así como detectar las principales causas que provocan la desaparición forzada de personas. El objetivo de este artículo es brindar una perspectiva amplia sobre el desarrollo del objeto de estudio desde los periodos de la guerra sucia (década de los 70) hasta el panorama actual de la problemática. Lo anterior para evidenciar la naturaleza y estructura en la que operan los distintos factores que contribuyen a su proliferación. A su vez, se hace un análisis exhaustivo tanto de la jurisprudencia como de la legislación nacional, local e internacional, encargada de la prevención de tal delito. La investigación desglosa elementos históricos, normativos y sociológicos que permiten dimensionar los alcances de este crimen para tener un panorama holístico. Esto permite entender de manera amplia los diversos componentes de la desaparición forzada y, a partir de ello, se plantean estrategias socio jurídicas adecuadas a las necesidades de la población guerrerense.</p></abstract><trans-abstract xml:lang="en"><title>Abstract:</title><p>Due to the historical, social and legal challenges in which the state of Guerrero finds itself, the crime of enforced disappearance of people is facilitated, which represents a denial of human rights. This issue is further compounded by the progressive deterioration of the institutions intended to prevent this crime against humanity. Therefore, it is necessary to analyze how these institutions operate and what results of the institutions are intended to prevent this practice, as well as to identify the main causes that lead to the enforced disappearance of people. The objective of this article is to provide a broad perspective on the development of the object of study, from the periods of the Dirty War (1970) to the current panorama of the problem and thus demonstrate the nature and structure in which the different factors that contribute to the proliferation of this illicit activity operate. In turn, an exhaustive analysis is made of both the jurisprudence and the national, local and international legislation responsible for the prevention of said crime. The investigation breaks down historical, normative and sociological elements that allow us to understand the scope of this issue, in order to have a holistic overview, which allows us to understand in a broad way the various components of forced disappearance and from this, socio-legal strategies are proposed that are appropriate to the needs of the population of Guerrero.</p></trans-abstract><kwd-group xml:lang="es"><title>Palabras clave:</title><kwd>guerra sucia</kwd><kwd>violencia estatal</kwd><kwd>contrainsurgencia</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords:</title><kwd>dirty war</kwd><kwd>state violence</kwd><kwd>counterinsurgency</kwd></kwd-group><counts><fig-count count="1"/><table-count count="0"/><equation-count count="0"/><ref-count count="28"/></counts></article-meta></front>
 <body>
-<sec sec-type="intro">
-<title>I. Introducción</title>
-<p>Debido a la problemática social, histórica y jurídica en la que se ha visto inmerso el estado de Guerrero desde la década de los 70, con casos que trascienden los alcances del derecho mexicano, para situarse en la óptica de los organismos internacionales -como fue el caso de Rosendo Radilla Pacheco o el de los estudiantes de la normal rural de Ayotzinapa-, y aunado al progresivo deterioro de las instancias oficiales destinadas a la prevención de este crimen de lesa humanidad, es necesario analizar la problemática y conceptualizarla con sus particularidades; analizar el funcionamiento y los resultados de las instituciones destinadas a la prevención de dicha práctica, así como detectar las principales causas que provocan la desaparición forzada de personas y la ineficacia de la normativa especializada en este delito.</p>
-<p>A este panorama se suman los continuos obstáculos que enfrentan las familias de las víctimas en la búsqueda de la verdad, la justicia reparativa y el reconocimiento de la problemática por parte de las instituciones que presentan inoperatividad y falta de eficacia, lo cual puede ser resultado de un marco jurídico inadecuado para el contexto socio-jurídico que se vive en la entidad.</p>
-<p>Por ello, esta investigación se ubica en el nivel propositivo, ya que se pretende darle prioridad a la elaboración de estrategias adecuadas al contexto en el que funge la problemática, tomando en cuenta aspectos de la dinámica sociopolítica en Guerrero y nociones generales del marco jurídico tanto nacional como internacional. De tal modo que este estudio socio-jurídico en torno a la desaparición forzada de personas se desarrolla desde una perspectiva mixta que contempla los diversos contextos culturales y las dinámicas en la entidad, así como el funcionamiento de las instituciones especializadas en atender la problemática y la legislación en torno a la materia desde un enfoque cualitativo que pretende evidenciar las carencias en la normativa y en la institucionalidad de los órganos estatales encargados de prevenir el fenómeno ya citado. </p>
-<p>De igual forma, se denota el influjo que posee el desconocimiento de las instancias jurídicas especializadas en la materia por parte de la población guerrerense y en el detrimento progresivo del marco legal destinado a la prevención de la desaparición forzada en dicha coyuntura. La investigación desglosa elementos históricos, normativos y sociológicos que permiten dimensionar los alcances de este delito para tener un panorama holístico que permite entender, de manera amplia, los diversos componentes de la desaparición forzada. A partir de ello se plantean estrategias socio-jurídicas adecuadas a las necesidades de la población guerrerense.</p>
-<p>En síntesis, los objetivos de esta investigación son establecer un marco conceptual que desglose los conceptos fundamentales alrededor de la fenomenología de la desaparición forzada y ubicarlos en el contexto del estado de Guerrero. Además, brindar una perspectiva amplia sobre el desarrollo del objeto de estudio desde los periodos de la guerra sucia (década de los 70) hasta el panorama actual, que reviste dicha problemática y así evidenciar la naturaleza y la estructura en la que operan los distintos factores que contribuyen a la proliferación de este ilícito de manera constante. A su vez, resulta necesario hacer un análisis exhaustivo en torno a la jurisprudencia y legislación nacional, local e internacional, enfocada en la regulación de dicho delito, para detectar posibles falencias y áreas de mejora para la normativa aplicable.</p>
-<p>A partir de dichos objetivos y aspectos metodológicos orientados tanto a la cuestión normativa como a las dinámicas socio políticas del estado de Guerrero, esta investigación se centra en la importancia de la observancia de la cultura de la legalidad y el accionar de las instituciones locales en términos de las resoluciones de los organismos internacionales -citados a lo largo del presente texto- encargados de monitorear el cumplimiento o no de lo mandatado en sus resoluciones.</p>
-<p>Por consiguiente, la estructura mediante la cual se desarrolla este artículo está compuesta por cuatro partes, comenzando por un marco teórico en el que se desglosan los elementos fundamentales necesarios para una mayor comprensión del fenómeno de la desaparición forzada y las teorías de la sociología jurídica sobre las cuales se cimientan las bases de las propuestas presentadas en el artículo. El segundo apartado se dedica a contextualizar la problemática a través de una cronología que parte desde la década de los 70´s para concluir situando al lector en el contexto actual. En un tercer momento se aborda la normativa aplicable a la comisión de este delito y, como punto final, se muestran las conclusiones y las propuestas derivadas de estas. </p>
-</sec>
-<sec>
-<title>II. Nociones fundamentales de la desaparición forzada</title>
-<p>Inicialmente, la desaparición forzada fue conceptualizada en base a los preceptos contenidos en los artículos siete y doce de la Declaración de los Derechos del Hombre y el Ciudadano y era vista como un acto en el cual un agente del Estado, de manera injustificada, sustraía de la libertad física y derechos esenciales a un ciudadano. Esta conceptualización se consolidaría en el derecho internacional a partir de los sucesos de la Primera y Segunda Guerra Mundial, en gran parte por lo sistemática y masiva que fue la práctica de la desaparición forzada en el régimen alemán de 1933 y en la extinta URSS,<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> y por las resoluciones emitidas en los tribunales de Nuremberg al concluir la Segunda Guerra Mundial.</p>
-<p>Sin embargo, dicha definición no tomaba en cuenta a los sujetos participantes que no pertenecían a entes gubernamentales. Fue a lo largo de numerosos casos que involucraban a particulares en desapariciones forzadas en América Latina África, que el derecho internacional se vio obligado a ampliar los conceptos ya establecidos, incorporando como parte de sus definiciones la participación de actores fuera de los entes estatales (grupos paramilitares, organizaciones criminales, etc.).<xref ref-type="fn" rid="fn2"><sup>2</sup></xref> Esto permitió a los Estados adecuar los criterios internacionales a sus legislaciones nacionales con mayor facilidad y atendiendo a las particularidades intrínsecas de su contexto socio-jurídico. </p>
-<p>Hoy en día, el fenómeno de la desaparición forzada ha sido tipificado ampliamente a través de numerosas convenciones realizadas por parte de organismos internacionales que buscan combatir dicha práctica y brindar nociones generales que pueden adaptarse a distintos contextos geopolíticos. </p>
-<p>En México, la tipificación de la desaparición forzada se adaptó a los estándares de los convenios internacionales el 13 de mayo del 2022. Esta reforma finalmente contempló a los sujetos no emanados del Estado como parte activa del delito. La Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas lo establece en el artículo 27, del capítulo tercero, de la siguiente manera: </p>
-<disp-quote>
-<p>Comete el delito de desaparición forzada de personas, el servidor público o el particular que, con la autorización, el apoyo o la aquiescencia de un servidor público, prive de la libertad en cualquier forma a una persona, seguida de la abstención o negativa a reconocer dicha privación de la libertad o a proporcionar la información sobre la misma o su suerte, destino o paradero.<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>
-</p>
-</disp-quote>
-<p>De tal modo que la actual tipificación recoge los elementos contenidos en la Convención para la Protección de Todas las Personas contra las Desapariciones Forzadas, que en su artículo segundo define a la desaparición forzada como: </p>
-<disp-quote>
-<p>El arresto, la detención, el secuestro o cualquier otra forma de privación de libertad que sean obra de agentes del Estado o por personas o grupos de personas que actúan con la autorización, el apoyo o la aquiescencia del Estado, seguida de la negativa a reconocer dicha privación de libertad o del ocultamiento de la suerte o el paradero de la persona desaparecida, sustrayéndola a la protección de la ley.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>
-</p>
-</disp-quote>
-<p>Esta noción permite adaptar la definición a distintos contextos y, a su vez, ampliar el alcance de las políticas públicas que pueden generarse para atender la problemática. Por lo tanto, esta investigación entiende la desaparición forzada desde los planteamientos dados por dicha convención de la Organización de las Naciones Unidas (<xref ref-type="bibr" rid="B20">ONU</xref>).</p>
-</sec>
-<sec sec-type="discussion">
-<title>III. La discusión en torno al sujeto activo y los sujetos pasivos</title>
-<p>Si bien el sujeto activo inicialmente fue conceptualizado como el Estado mismo -como se aprecia en las primeras conceptualizaciones de la desaparición forzada-, el carácter que poseen los entes desvinculados al Estado, pero con nexos a través de la cooperación o la aquiescencia, es un elemento presente en las conceptualizaciones modernas.</p>
-<p>Algunos autores, entre ellos Huhle,<xref ref-type="fn" rid="fn5"><sup>5</sup></xref> consideran importante tomar en cuenta la actuación de sujetos desvinculados del Estado y darles una clasificación formal, mediante la cual puedan atribuírseles ciertas características y, en base a ellas, identificarlos en contextos determinados y producir legislación que atienda a las necesidades específicas de las problemáticas. Huhle clasificaba a esta serie de sujetos externos al Estado en función de la afiliación o cercanía con el mismo, estableciendo las siguientes categorías:</p>
-<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<sec sec-type="intro"><title>I. Introducción</title>
+<p>Debido a la problemática social, histórica y jurídica en la que se ha
+visto inmerso el estado de Guerrero desde la década de los 70, con casos
+que trascienden los alcances del derecho mexicano, para situarse en la
+óptica de los organismos internacionales —como fue el caso de Rosendo
+Radilla Pacheco o el de los estudiantes de la normal rural de
+Ayotzinapa—, y aunado al progresivo deterioro de las instancias
+oficiales destinadas a la prevención de este crimen de lesa humanidad,
+es necesario analizar la problemática y conceptualizarla con sus
+particularidades; analizar el funcionamiento y los resultados de las
+instituciones destinadas a la prevención de dicha práctica, así como
+detectar las principales causas que provocan la desaparición forzada de
+personas y la ineficacia de la normativa especializada en este
+delito.</p>
+<p>A este panorama se suman los continuos obstáculos que enfrentan las
+familias de las víctimas en la búsqueda de la verdad, la justicia
+reparativa y el reconocimiento de la problemática por parte de las
+instituciones que presentan inoperatividad y falta de eficacia, lo cual
+puede ser resultado de un marco jurídico inadecuado para el contexto
+socio-jurídico que se vive en la entidad.</p>
+<p>Por ello, esta investigación se ubica en el nivel propositivo, ya que
+se pretende darle prioridad a la elaboración de estrategias adecuadas al
+contexto en el que funge la problemática, tomando en cuenta aspectos de
+la dinámica sociopolítica en Guerrero y nociones generales del marco
+jurídico tanto nacional como internacional. De tal modo que este estudio
+socio-jurídico en torno a la desaparición forzada de personas se
+desarrolla desde una perspectiva mixta que contempla los diversos
+contextos culturales y las dinámicas en la entidad, así como el
+funcionamiento de las instituciones especializadas en atender la
+problemática y la legislación en torno a la materia desde un enfoque
+cualitativo que pretende evidenciar las carencias en la normativa y en
+la institucionalidad de los órganos estatales encargados de prevenir el
+fenómeno ya citado.</p>
+<p>De igual forma, se denota el influjo que posee el desconocimiento de
+las instancias jurídicas especializadas en la materia por parte de la
+población guerrerense y en el detrimento progresivo del marco legal
+destinado a la prevención de la desaparición forzada en dicha coyuntura.
+La investigación desglosa elementos históricos, normativos y
+sociológicos que permiten dimensionar los alcances de este delito para
+tener un panorama holístico que permite entender, de manera amplia, los
+diversos componentes de la desaparición forzada. A partir de ello se
+plantean estrategias socio-jurídicas adecuadas a las necesidades de la
+población guerrerense.</p>
+<p>En síntesis, los objetivos de esta investigación son establecer un
+marco conceptual que desglose los conceptos fundamentales alrededor de
+la fenomenología de la desaparición forzada y ubicarlos en el contexto
+del estado de Guerrero. Además, brindar una perspectiva amplia sobre el
+desarrollo del objeto de estudio desde los periodos de la guerra sucia
+(década de los 70) hasta el panorama actual, que reviste dicha
+problemática y así evidenciar la naturaleza y la estructura en la que
+operan los distintos factores que contribuyen a la proliferación de este
+ilícito de manera constante. A su vez, resulta necesario hacer un
+análisis exhaustivo en torno a la jurisprudencia y legislación nacional,
+local e internacional, enfocada en la regulación de dicho delito, para
+detectar posibles falencias y áreas de mejora para la normativa
+aplicable.</p>
+<p>A partir de dichos objetivos y aspectos metodológicos orientados
+tanto a la cuestión normativa como a las dinámicas socio políticas del
+estado de Guerrero, esta investigación se centra en la importancia de la
+observancia de la cultura de la legalidad y el accionar de las
+instituciones locales en términos de las resoluciones de los organismos
+internacionales —citados a lo largo del presente texto— encargados de
+monitorear el cumplimiento o no de lo mandatado en sus resoluciones.</p>
+<p>Por consiguiente, la estructura mediante la cual se desarrolla este
+artículo está compuesta por cuatro partes, comenzando por un marco
+teórico en el que se desglosan los elementos fundamentales necesarios
+para una mayor comprensión del fenómeno de la desaparición forzada y las
+teorías de la sociología jurídica sobre las cuales se cimientan las
+bases de las propuestas presentadas en el artículo. El segundo apartado
+se dedica a contextualizar la problemática a través de una cronología
+que parte desde la década de los 70´s para concluir situando al lector
+en el contexto actual. En un tercer momento se aborda la normativa
+aplicable a la comisión de este delito y, como punto final, se muestran
+las conclusiones y las propuestas derivadas de estas.</p>
+</sec><sec><title>II. Nociones fundamentales de la desaparición</title>
+<p>Inicialmente, la desaparición forzada fue conceptualizada en base a
+los preceptos contenidos en los artículos siete y doce de la Declaración
+de los Derechos del Hombre y el Ciudadano y era vista como un acto en el
+cual un agente del Estado, de manera injustificada, sustraía de la
+libertad física y derechos esenciales a un ciudadano. Esta
+conceptualización se consolidaría en el derecho internacional a partir
+de los sucesos de la Primera y Segunda Guerra Mundial, en gran parte por
+lo sistemática y masiva que fue la práctica de la desaparición forzada
+en el régimen alemán de 1933 y en la extinta
+URSS,<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> y por las resoluciones
+emitidas en los tribunales de Nuremberg al concluir la Segunda Guerra
+Mundial.</p>
+<p>Sin embargo, dicha definición no tomaba en cuenta a los sujetos
+participantes que no pertenecían a entes gubernamentales. Fue a lo largo
+de numerosos casos que involucraban a particulares en desapariciones
+forzadas en América Latina África, que el derecho internacional se vio
+obligado a ampliar los conceptos ya establecidos, incorporando como
+parte de sus definiciones la participación de actores fuera de los entes
+estatales (grupos paramilitares, organizaciones criminales,
+etc.).<xref ref-type="fn" rid="fn2"><sup>2</sup></xref> Esto permitió a los Estados
+adecuar los criterios internacionales a sus legislaciones nacionales con
+mayor facilidad y atendiendo a las particularidades intrínsecas de su
+contexto socio-jurídico.</p>
+<p>Hoy en día, el fenómeno de la desaparición forzada ha sido tipificado
+ampliamente a través de numerosas convenciones realizadas por parte de
+organismos internacionales que buscan combatir dicha práctica y brindar
+nociones generales que pueden adaptarse a distintos
+contextos geopolíticos.</p>
+<p>En México, la tipificación de la desaparición forzada se adaptó a los
+estándares de los convenios internacionales el 13 de mayo del 2022. Esta
+reforma finalmente contempló a los sujetos no emanados del Estado como
+parte activa del delito. La Ley General en Materia de Desaparición
+Forzada de Personas, Desaparición Cometida por Particulares y del
+Sistema Nacional de Búsqueda de Personas lo establece en el artículo 27,
+del capítulo tercero, de la siguiente manera:</p>
+<p>Comete el delito de desaparición forzada de personas, el servidor
+público o el particular que, con la autorización, el apoyo o la
+aquiescencia de un servidor público, prive de la libertad en cualquier
+forma a una persona, seguida de la abstención o negativa a reconocer
+dicha privación de la libertad o a proporcionar la información sobre la
+misma o su suerte, destino o
+paradero.<xref ref-type="fn" rid="fn3"><sup>3</sup></xref></p>
+<p>De tal modo que la actual tipificación recoge los elementos
+contenidos en la Convención para la Protección de Todas las Personas
+contra las Desapariciones Forzadas, que en su artículo segundo define a
+la desaparición forzada como:</p>
+<p>El arresto, la detención, el secuestro o cualquier otra forma de
+privación de libertad que sean obra de agentes del Estado o por personas
+o grupos de personas que actúan con la autorización, el apoyo o la
+aquiescencia del Estado, seguida de la negativa a reconocer dicha
+privación de libertad o del ocultamiento de la suerte o el paradero de
+la persona desaparecida, sustrayéndola a la protección de la
+ley.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref></p>
+<p>Esta noción permite adaptar la definición a distintos contextos y, a
+su vez, ampliar el alcance de las políticas públicas que pueden
+generarse para atender la problemática. Por lo tanto, esta investigación
+entiende la desaparición forzada desde los planteamientos dados por
+dicha convención de la Organización de las Naciones Unidas (ONU).</p>
+</sec><sec sec-type="discussion"><title>III. La discusión en torno al sujeto activo y los sujetos</title>
+<p>Si bien el sujeto activo inicialmente fue conceptualizado como el
+Estado mismo —como se aprecia en las primeras conceptualizaciones de la
+desaparición forzada—, el carácter que poseen los entes desvinculados al
+Estado, pero con nexos a través de la cooperación o la aquiescencia, es
+un elemento presente en las conceptualizaciones modernas.</p>
+<p>Algunos autores, entre ellos
+Huhle,<xref ref-type="fn" rid="fn5"><sup>5</sup></xref> consideran importante tomar
+en cuenta la actuación de sujetos desvinculados del Estado y darles una
+clasificación formal, mediante la cual puedan atribuírseles ciertas
+características y, en base a ellas, identificarlos en contextos
+determinados y producir legislación que atienda a las necesidades
+específicas de las problemáticas. Huhle clasificaba a esta serie de
+sujetos externos al Estado en función de la afiliación o cercanía con el
+mismo, estableciendo las siguientes categorías:</p>
 <list list-type="order">
 <list-item>
-<p><italic>Partner of state</italic> (término empleado para hacer alusión a sujetos que actúan de manera explícita con el Estado, como las empresas de seguridad o cualquier tipo de contratista militar).</p>
+<label>1)</label>
+<p><italic>Partner of state</italic> (término empleado para hacer
+    alusión a sujetos que actúan de manera explícita con el Estado, como
+    las empresas de seguridad o cualquier tipo de contratista
+    militar).</p>
 </list-item>
 <list-item>
-<p>Los sujetos cuya afiliación con el Estado sea secreta o no reconocida de manera explícita (grupos paramilitares).</p>
+<label>2)</label>
+<p>Los sujetos cuya afiliación con el Estado sea secreta o no
+    reconocida de manera explícita (grupos paramilitares).</p>
 </list-item>
 <list-item>
+<label>3)</label>
 <p>Sujetos que operan con la aquiescencia del Estado.</p>
 </list-item>
 <list-item>
-<p>Grupos de oposición armada. </p>
+<label>4)</label>
+<p>Grupos de oposición armada.</p>
 </list-item>
 <list-item>
-<p>Grupos separatistas o de insurrección que ejerzan funciones de gobierno.</p>
+<label>5)</label>
+<p>Grupos separatistas o de insurrección que ejerzan funciones de
+    gobierno.</p>
 </list-item>
 <list-item>
-<p>Organizaciones criminales.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>
-</p>
+<label>6)</label>
+<p>Organizaciones
+    criminales.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref></p>
 </list-item>
 </list>
-</p>
-<p>Si bien la creación de categorías en torno al sujeto activo ajeno al orden estatal dista de criterios sólidos o que permitan mesurar con precisión las dimensiones de una problemática determinada, el interés de distintos especialistas en torno a la materia por distinguir y clasificar los distintos sujetos no conexos a la estructura estatal que cometen desaparición forzada, resulta algo a tomar en cuenta para la sociología del derecho y para los órganos especializados. Contar con estas distinciones podría obligar a dichos entes y al Estado mismo a reconocer y asumir responsabilidad internacional en la comisión de dichos actos, sin mencionar la posibilidad de diseñar y adecuar la legislación a contextos específicos.</p>
-<p>En otros aspectos de los sujetos dentro de la desaparición forzada, resulta necesario referirse, al menos para los efectos del entendimiento teórico del problema, a la figura del sujeto pasivo. Este se configura, en primera instancia, como la persona que se ve sustraída de su libertad y garantías procesales de manera injustificada, ya sea por agentes estatales o particulares sin conexión directa al Estado. En una segunda instancia se encuentra la colectividad, la cual tiene que ver con las ramificaciones del acto al verse vulnerado el derecho a la seguridad pública. Como consecuencia, se pierde la confianza y la cercanía entre la población y el gobierno y las instituciones emanadas de este. Esto, a su vez, lleva al deterioro progresivo de las instancias y el marco normativo, tal como lo remarca Chávez<xref ref-type="fn" rid="fn7"><sup>7</sup></xref> al referir que la población se ve implícita en la categorización de un sujeto pasivo, al ser esta quien resiente los aspectos sociológicos que se derivan de la práctica de la desaparición forzada.</p>
-<p>Por ello, en esta investigación, la colectividad social constituye un sujeto pasivo que resiente los efectos sociales derivados de la práctica. En cambio, el sujeto pasivo primario o, en primer término, lo constituyen aquellos individuos que son sustraídos de la libertad, cualquier forma de comunicación y de toda garantía procesal, por parte de funcionarios de gobierno o cualquier otro ente externo vinculado -explícitamente o de manera no reconocida- con el Estado.</p>
-</sec>
-<sec>
-<title>IV. Dinámicas socio jurídicas en torno a la desaparición forzada</title>
-<p>Como parte de este estudio, la perspectiva sociológica en torno al problema y los efectos que derivan de su reiterada práctica son de suma importancia. A través de ellos se puede mesurar la evolución y funcionamiento de las instancias jurídicas, además del papel activo que tiene el Estado. Es por esto por lo que hay dos conceptualizaciones que deberían ser de especial observancia para los lectores de este artículo.</p>
-<p>El primero es el abandono estatal, que puede definirse como la inoperatividad o inexistencia de los entes estatales en una región determinada, lo que a su vez deriva en el fallo de las condiciones mínimas de vida digna que requiere una población (seguridad, vivienda, empleo, salud). En ocasiones se manifiesta en el reconocimiento de otros entes ajenos al Estado como autoridad predominante por parte de la población (grupos paramilitares, criminales, etc.).<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>
-</p>
-<p>Dicho fenómeno es con frecuencia conexo a la desaparición forzada, ya sea por el mal funcionamiento y abandono de las instituciones especializadas, o por ser una consecuencia indirecta de la dinámica que hay entre la práctica de la desaparición forzada y el deterioro del funcionamiento y gobernabilidad de un Estado.</p>
-<p>Como segundo término, está la cultura de la legalidad, un concepto propio de la sociología jurídica que trata de explicar la legitimidad, evolución y forma de los entes jurídicos, a través de la delicada relación que estos tienen con la población. El cómo esta última los conoce, percibe y emplea en la vida cotidiana, constituye el uso de las instancias, que es el componente clave en la evolución o decrecimiento de un cuerpo normativo<xref ref-type="fn" rid="fn9"><sup>9</sup></xref>. En pocas palabras, la correlación entre el conocimiento jurídico colectivo y la legitimidad y transformaciones que sufren las instituciones y la normativa aplicable.</p>
-<p>Con esta premisa en mente, se analiza el entorno en el que la norma se desenvuelve y sus interacciones y percepciones sociales, así como el influjo de dichas realidades en la forma de las leyes y la operación de los cuerpos gubernamentales<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>. Esto permite establecer asociaciones entre la realidad práctica y la teórica jurídica, lo que que resulta fundamental para abordar una problemática con las connotaciones socio jurídicas propias de la desaparición forzada de personas.</p>
-<p>Por añadidura, es preciso conceptualizar la teoría del derecho vivo, al ser esta accesoria a la cultura de la legalidad y ser la base para las propuestas encaminadas a acciones pedagógicas que fomenten el conocimiento y uso de las instancias jurídicas destinadas a la prevención de la desaparición forzada. <italic>Grosso modo</italic>, la teoría del derecho vivo, acuñada por Eugen Ehrlich<xref ref-type="fn" rid="fn11"><sup>11</sup></xref> a principios del siglo XX, describe cómo el derecho, los cuerpos normativos y las instituciones se legitiman y evolucionan en torno a las necesidades sociales y el contexto cultural en el que se ven inmiscuidas. De este modo, el conocimiento popular sobre la ley hace que esta evolucione en aspectos positivos, mientras que el desconocimiento de esta deja como resultado un deterioro y oscurecimiento de los entes jurídicos y su normativa.</p>
-<p>Pese a las ambigüedades del concepto, ya que hablar de la realidad social como principal fuente del derecho implica un estudio de dimensiones casi infinitas sobre las formas que toma la ley en distintos contextos, esta misma ambigüedad conceptual es la que permite adaptar el contexto social a los estudios orientados a la normativa.</p>
-</sec>
-<sec>
-<title>V. Evolución cronológica de la desaparición forzada en guerrero</title>
-<p>Hablar del inicio y desarrollo cronológico de la problemática de derechos humanos que se gestó en el estado de Guerrero es una tarea titánica, ya que debe analizarse una serie de hechos y dinámicas políticas que se remontan al final de la década de los 60’s. Esta época se vio marcada por la Guerra Fría a nivel mundial, por las numerosas insurrecciones de corte marxista, comunista y socialista a lo largo del mundo y lo que derivó de ellas en Latinoamérica.</p>
-<p>En dicha confrontación de ideas, el gobierno mexicano -encabezado en esa época por el Partido Revolucionario Institucional (PRI)- optó por apegarse a políticas de corte conservador, las cuales implicaban dos aspectos importantes a nivel político y cultural. En primer término, se recurrió a la iglesia como un medio de legitimación y popularización de las ideas predominantes en la visión conservadora. En segundo término, el antagonizar las ideas de índole liberal, socialista o cualquier visión contraria a los ideales del conservadurismo característico de la época,<xref ref-type="fn" rid="fn12"><sup>12</sup></xref> lo cual, eventualmente, tendría un choque con los numerosos grupos campesinos, estudiantiles e incluso paramilitares que surgían alrededor del país, dando como resultado la implementación de una serie de operativos “contrainsurgentes” por parte del ejército mexicano y las fuerzas policiales. </p>
-<p>Uno de los eventos derivados del panorama sociopolítico de esa época fue la desaparición de Pedro Sonora Mendoza en 1974 en el estado de Guerrero, militante de la Brigada Campesina de Ajusticiamiento. Fue detenido por fuerzas policiales y posteriormente entregado a las fuerzas militares mexicanas, quienes lo ejecutarían y desaparecerían sus restos<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>, práctica que se realizaba de manera frecuente en la región. Existen amplios y detallados registros en los que se describe el modo en el que operaba el ejército y la desaparición sistematizada de un número importante de civiles en la entidad.</p>
-<p>El panorama de violencia estatal en Guerrero llegó a la mirada del derecho internacional con el caso de Rosendo Radilla Pacheco, sucedido en 1974. Este llegó a la Corte Interamericana de Derechos Humanos en 2001 y no fue sino hasta el año 2009 cuando se emitió una sentencia condenatoria en contra del Estado mexicano, en la cual se responsabilizó al Estado por la desaparición del catedrático y la afectación a la integridad de su familia.</p>
-<p>Lo anterior resulta especialmente relevante si se toma en cuenta que solo pudo presentarse una denuncia formal hasta 1990, lo cual evidencia tanto la crisis de derechos humanos en la entidad como los crímenes de lesa humanidad cometidos por el Estado durante el periodo histórico denominado “guerra sucia”<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>. Asimismo, revela las adversidades a las que se enfrentaron las familias de las víctimas en la búsqueda de la justicia, así como el cambio significativo en la dinámica entre el Estado y la práctica recurrente de la desaparición forzada en Guerrero.</p>
-<p>La participación del ejército en la desaparición forzada de personas se vio un tanto reducida a raíz de las reformas locales, en materia de derechos humanos, impulsadas por José Francisco Ruiz Massieu a mediados de la década de los 90´s (creación de la primera Comisión de Derechos Humanos y del recurso extraordinario de exhibición de personas). A esto se le suman dos factores determinantes que surgieron a mediados y finales de la primera década de los años 2000. En 2006, el inicio de la llamada guerra contra el narcotráfico supuso un incremento en las ejecuciones extrajudiciales, tanto por parte de elementos de las fuerzas castrenses como por parte de grupos del crimen organizado que ganaban un poder significativo en todo el estado. En 2009, la presión internacional que derivó de la sentencia condenatoria por parte de la Corte Interamericana al Estado mexicano, lo cual provocó una mayor observación al actuar de las fuerzas armadas y el reconocimiento de la universalidad de los derechos humanos al incorporarlos en la constitución y darles primacía, de ello devienen tanto las reformas en materia de derechos humanos de 2011 como que se visibilizara la presumible infiltración de fuerzas policiales por grupos criminales en delitos de desaparición forzada.</p>
-<p>De tal manera que se propagó la percepción de la vinculación de grupos delincuenciales con servidores públicos de todos los estratos. Si bien no hay una distinción jerárquica clara en la relación Estado/narcotráfico, diversos casos muestran servidores públicos operan por orden del narcotráfico, deteniendo de manera arbitraria a civiles y poniéndolos a disposición de los grupos delincuenciales. Uno de los casos modernos más aberrantes es el de la desaparición de los estudiantes de la Escuela Normal Rural Raúl Isidro Burgos en 2014, hecho en el cual 43 estudiantes fueron atacados con fuerza letal, capturados y posteriormente entregados por agentes policiales a un grupo delictivo que los ejecutó e incineró sus restos, según las versiones oficiales de la Fiscalía General de la República.<xref ref-type="fn" rid="fn15"><sup>15</sup></xref>
-</p>
-<p>La evolución de la dinámica en la que ocurrían los hechos de desaparición forzada deja a la vista una serie de factores determinantes en el funcionamiento y gobernabilidad del estado de Guerrero. El primero es el abandono estatal en varias regiones del estado, como Atoyac, Chilpancingo, Iguala, Chilapa, y Cocula, regiones en las que, de acuerdo al informe más actual en materia de desaparición forzada por parte de la Comisión Nacional de Derechos Humanos (<xref ref-type="bibr" rid="B6">CNDH</xref>), se concentra la mayor cantidad de casos de desaparición en los cuales se presume la participación del Estado.<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>
-</p>
-<p>Si bien el informe no corresponde al año en curso de esta investigación, debe tomarse en cuenta una problemática particular: la falta de acceso a la información por parte de las instituciones gubernamentales, y la falta de denuncias formales. Esta situación se debe tanto a la falta de confianza en las instituciones como al temor de los pobladores a recibir algún tipo de represalias por parte de los grupos criminales dominantes en la comunidad. Esto limita enormemente la claridad de las cifras, ya que los únicos entes que suelen cuantificarlas son los órganos internacionales y el significativo número de asociaciones civiles dedicadas a la búsqueda de víctimas. </p>
-<p>A continuación, se muestra una gráfica en la cual se detalla el número de casos en cada entidad de las mencionadas por la CNDH, para un mayor entendimiento y dimensionar los alcances de la problemática.</p>
-<p>
-<fig id="f1">
-<label>Gráfica 1</label>
-<caption>
-<title><italic>Víctimas por municipio en Guerrero</italic></title>
-</caption>
-<graphic xlink:href="2007-5545-biolex-17-28-e413-gf1.jpg"/>
-<attrib><italic>Nota:</italic> elaboración propia con base en el Informe especial sobre la situación que en materia de personas desaparecidas y delitos vinculados impera en el municipio de Chilapa de Álvarez, de la Comisión Nacional de los Derechos Humanos.</attrib>
-</fig>
-</p>
-<p>La dificultad para denunciar la violencia que sufren los ciudadanos al reportar casos como estos, además de la ineficacia en las políticas públicas y el poder que ejercen los grupos criminales, constituye una serie de factores por los cuales la problemática se ha mantenido constante y el por qué resulta difícil obtener datos precisos respecto al número de desaparecidos en la entidad y sobre sus posibles paraderos.</p>
-<p>Por ello, el estado de Guerrero enfrenta una problemática donde las instancias y políticas públicas se ven rebasadas por los factores de poder encontrados en la influencia de los grupos criminales y el actuar de los servidores públicos. Esto deriva en municipios abandonados, asociaciones civiles que se encuentran realizando tareas de búsqueda por todo el estado y un deterioro en el marco jurídico destinado a la prevención de dicha práctica.</p>
-<p>Tal panorama se mantiene hasta tiempos recientes y queda evidenciado en las manifestaciones de numerosos grupos y asociaciones civiles de personas afectadas por la problemática, en cuyas consignas destaca la exigencia de una nueva ley en materia de desaparición forzada de personas.<xref ref-type="fn" rid="fn17"><sup>17</sup></xref> Precisamente, dicha consigna da pie a identificar dos realidades que se viven en el estado: la primera, la ineficacia de las autoridades y lo inadecuado del marco jurídico para el contexto del Estado; seguido por la enorme cantidad de casos y familias afectadas por este delito.</p>
-<p>Como punto de interés cabe recalcar que estas manifestaciones tuvieron su epicentro en cuatro de los municipios mencionados en el informe especial en materia de desaparición forzada de personas realizado por la CNDH, previamente citado en esta investigación (Atoyac, Acapulco, Chilapa y Chilpancingo).</p>
-<p>De estos hechos sociales puede inferirse tanto el alcance de la problemática como la forma en la que se ha visto afectado el contexto social guerrerense. Además, pueden teorizarse una serie de causales, como la ineficacia de las autoridades y el marco jurídico o incluso un abandono estatal en ciertas entidades donde se concentra la mayoría de los casos de acuerdo con algunos informes.</p>
-<p>La enorme cantidad de casos sin resolver y aquellos donde ni siquiera se ha brindado justicia reparativa son el producto de una necro política que se remonta a mediados de los 60’s con el inicio de la guerra sucia y que se ha mantenido a pesar de los cambios en políticas de estado a lo largo de las décadas y de los cambios en los actores.<xref ref-type="fn" rid="fn18"><sup>18</sup></xref> Esto puede ser producto de la ineficacia legal, la inoperatividad de las instituciones y las violencias que los sujetos agraviados sufren por parte de actores externos al Estado.</p>
-<p>Con un panorama nacional en el que la desaparición forzada se cuantifica en alrededor de 100 000 casos<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>, teniendo como uno de sus epicentros al estado de Guerrero,<xref ref-type="fn" rid="fn20"><sup>20</sup></xref> es evidente la necesidad de adecuar el marco jurídico y las instituciones al contexto que se vive en este estado, además de analizar las causas sociales y culturales inmiscuidas en esta problemática.</p>
-</sec>
-<sec>
-<title>V. Las asociaciones civiles exponiendo la impunidad</title>
-<p>Si se desea tener al menos una especulación sobre la gravedad y alcance de las repercusiones sociales derivadas de un panorama nacional plagado por el abandono estatal, la proliferación de los grupos criminales y la ineficiencia de las leyes especializadas en materia de desaparición forzada de personas, resulta útil analizar los colectivos de búsqueda de personas alrededor de todo el país, porque es una de las formas más crudas de percibir el daño irreparable causado por años de políticas represivas, alianzas entre servidores públicos y actores de la delincuencia organizada y la ineficacia de las instituciones gubernamentales creadas para atender este fenómeno.</p>
-<p>Con alrededor de 234 colectivos de búsqueda de personas en todo el país, en su mayoría compuestos por madres de familia en busca de “tesoros”, como suelen referirse a los restos óseos de los familiares desaparecidos,<xref ref-type="fn" rid="fn21"><sup>21</sup></xref> se evidencia la falta de atención por parte de las instituciones a esta problemática y, a su vez, las falencias en la normativa, si se tiene en cuenta que una de las consignas más presentes entre estos grupos es la necesidad de crear nuevas leyes en materia de desaparición forzada.</p>
-<p>De la misma manera, estos colectivos representan tanto las exigencias de la población como un número significativo de casos sin solución, en los cuales las instituciones no han sido eficaces. Tomando en cuenta las cifras de los colectivos que operan en el estado de Guerrero, se cuantifican 3800 casos distribuidos alrededor del estado, con epicentro en tres municipios: Chilpancingo, Acapulco e Iguala,<xref ref-type="fn" rid="fn22"><sup>22</sup></xref> lo cual muestra la ineficacia de las instancias destinadas a prevenir y combatir la problemática en dicha entidad.</p>
-<p>A su vez, mediante una de las actividades desarrolladas por estos colectivos -la exploración de fosas clandestinas- se puede notar un cambio significativo en las dinámicas y forma en la que se dieron las desapariciones. En estas fosas, los colectivos exhuman una cantidad importante de restos humanos sin identificar, con la esperanza de encontrar a sus seres queridos y darles un entierro digno y un cierre al viacrucis que la ineficiencia de las autoridades y la fuerte influencia del crimen organizado les han hecho pasar.<xref ref-type="fn" rid="fn23"><sup>23</sup></xref>
-</p>
-<p>Con la exploración de las fosas puede visualizarse la forma en que las desapariciones se dieron tanto en el contexto de la Guerra Sucia como en la actualidad. Mientras que las desapariciones cometidas por el ejército en el periodo que comprende mediados de los 60 y finales de los 80 se llevaban a cabo de una manera sistemática y enfocada a líderes de movimientos sociales -los cuales a menudo eran ejecutados y en la mayoría de los casos, sus restos arrojados al mar desde aeronaves del ejército mexicano-, las desapariciones actuales no se guían en un cien por ciento por razones políticas. Gran parte de estas tienen cuestiones de índole económico para la delincuencia organizada y los restos de las víctimas son enterrados en numerosas fosas clandestinas alrededor de todo el estado.</p>
-<p>Por tales razones, existen nuevos retos para la búsqueda de víctimas. Uno de ellos es la falta de un registro de los perpetradores, mientras que en algunos casos cometidos en el periodo de la guerra sucia existe documentación variada que puede servir como indicio para la búsqueda (registros de detención, itinerarios de vuelo, registro de elementos). En los casos más actuales, resulta casi imposible obtener alguna prueba documental, tanto por la naturaleza de los perpetradores como por la forma de operar de las autoridades que llegan a ser partícipes en los casos.</p>
-<p>A eso se le suma la complicada geografía del estado y la excesiva cuantía de restos humanos en las fosas, lo cual implica una enorme dificultad en la identificación de los restos. En gran medida, esta tarea es realizada por las asociaciones civiles de madres buscadoras, lo cual deja dos hipótesis preocupantes: primero, la falta de asistencia por parte de las autoridades especializadas en la materia, que puede traducirse como un abandono generalizado para con las víctimas, y en segundo lugar, un panorama en el cual la problemática ha escalado a dimensiones que exceden la capacidad operativa de un Estado funcional. </p>
-<p>Además de la ineficacia de las autoridades estatales y todas las dificultades intrínsecas al panorama estatal descrito previamente, México enfrenta una serie de políticas públicas que rayan en la apatía frente a la crisis de desaparición forzada alrededor de numerosos estados de la República. El gobierno de Andrés Manuel López Obrador, en su periodo 2018-2024, se distinguió por un discurso político que buscaba evitar la confrontación armada entre la fuerza pública y el crimen organizado. Una de las frases más reconocidas de dicho jefe de estado fue “abrazos no balazos”, que sintetizó la postura de su gobierno frente a la ola de violencia que se vivía a nivel nacional. Dicha frase implicaba alguna especie de intento de reconciliación entre la delincuencia y la sociedad mexicana, lo cual lleva a un cuestionamiento un tanto intrincado, ¿pueden el narcotráfico y el Estado mexicano tener un proceso de paz? La respuesta no es sencilla y para llegar a ella tendrían que llevarse a cabo numerosas investigaciones en distintos campos de estudio, pero lo que sí puede percibirse es que se tiene como resultado la ineficacia de esa postura en el panorama actual.</p>
-<p>Las numerosas protestas y diálogos entre el gobierno y asociaciones de búsqueda de personas han dejado ver el descontento, la revictimización y la ineficacia de los órganos destinados a combatir la problemática. A ello se suma una serie de acciones gubernamentales que resultan preocupantes, si se tiene en mente el alcance y la gravedad de la problemática en todo el país<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>. Una de las más desafortunadas fue la reducción en el presupuesto de la Comisión Ejecutiva de Atención a Víctimas (CEAV) lo cual supone un reto aún mayor en cuestiones de operatividad, infraestructura y la calidad en la atención que puede darse a las víctimas y a sus familias.</p>
-</sec>
-<sec>
-<title><bold>VI. La llegada, el auge y caída del <italic>habeas corpus</italic> en Guerrero</bold></title>
-<p>Para entender los aspectos jurídicos de fondo en la fenomenología de la desaparición forzada en Guerrero debe hacerse una breve síntesis de la evolución de la normativa respecto a la materia en el Estado.</p>
-<p>En ese orden de ideas, cabe resaltar que, pese a la existencia del recurso de amparo a nivel nacional, consagrado en la constitución mexicana desde 1917, el mayor avance en materia de derechos humanos y garantías procesales que se dio en el estado de Guerrero y tuvo lugar en la década de los 90’s. De la mano del entonces gobernador José Francisco Ruiz Massieu, se llevaron a cabo una serie de reformas en materia de derechos humanos, por demás revolucionarias para la época. Algunas instituciones como la procuraduría social de la montaña y la instauración a nivel nacional de las comisiones de derechos humanos locales por fin se consolidaban en el marco jurídico para regular el actuar de dichos entes, el cual contenía un catálogo de derechos y garantías más progresistas y adecuados al contexto social.</p>
-<p>Uno de los aportes más significativos en materia de desaparición forzada de personas fue la creación del recurso extraordinario de exhibición de personas, que en términos simples fue una adaptación del <italic>habeas corpus</italic> al cuerpo normativo que regía al estado de Guerrero.<xref ref-type="fn" rid="fn25"><sup>25</sup></xref> Dicho recurso podía ser interpuesto ante cualquier juez penal, sin importar el área de adscripción del tribunal. Facultaba al juzgador para realizar las diligencias pertinentes para garantizar la seguridad del detenido y saber en dónde se encontraba retenido, así como determinar la legalidad de su detención. En caso de existir alguna violación a derechos humanos, esta instancia contaba con carácter procesal y vinculatorio, porque el juez tenía la facultad de iniciar un proceso contra los victimarios.</p>
-<p>La instancia supuso un avance significativo en materia de derechos humanos y a pesar de no existir registros precisos sobre el número de veces que fue interpuesta -ya que en sí no tiene el carácter de juicio-, los estudios realizados por Salgado,<xref ref-type="fn" rid="fn26"><sup>26</sup></xref> revelan que la figura jurídica tuvo un amplio uso en las regiones rurales del estado y una celeridad que hacía a la instancia por demás eficiente. Esto debido, en gran parte, al aprovechamiento de la estructura judicial y la falta de formalidad en su presentación, lo cual lo convertía en un mecanismo bastante accesible para la población en general.</p>
-<p>Pese al notable avance legislativo y su proliferación en regiones rurales, la instancia no perduró por dos factores que Salgado detalla en la obra citada anteriormente. El primero fue el desconocimiento generalizado del marco jurídico por la población guerrerense. Si bien la instancia era eficiente en su operación, esto no era plenamente explotado por las personas o por falta de ejercicio de esta, y a ello se le suma la mala <italic>praxis</italic> por parte de los juristas, quienes comúnmente preferían llevar a cabo un amparo indirecto, el cual, al ser un recurso del orden federal con una dilación mayor en sus términos, les permitía un mayor cobro de honorarios.</p>
-<p>El oscurecimiento progresivo de la instancia dio como resultado dos hechos que se traducen en un retroceso significativo en cuestión de garantías procesales en el marco jurídico guerrerense. En 2015 se derogó la instancia, justificando dicha decisión en su desuso y en la existencia del amparo indirecto, lo cual resulta un tanto arbitrario si se contempla el principio de progresividad de la norma y lo que este implica. El recurso sería reincorporado en 2019, pero con importantes cambios en su operación y la estructura que sostiene su funcionamiento.</p>
-<p>El cambio consistió en incorporar dicho recurso a las atribuciones de la Comisión de Derechos Humanos del Estado de Guerrero. Esto cambió la naturaleza del recurso en dos aspectos importantes: el primero es la falta de carácter judicial y vinculatorio, ya que la comisión es un ente que solo puede emitir recomendaciones y estas no tienen una carga punitiva, se traducen en simples notas administrativas. El otro cambio notable es la reducción en la infraestructura en la que puede ser interpuesto, ya que la Comisión de Derechos Humanos solo dispone de seis coordinaciones, distribuidas en cada región del estado, y una oficina principal en la ciudad capital. Esto reduce considerablemente la accesibilidad de los ciudadanos si se toma en cuenta que anteriormente se interponía ante los diversos juzgados penales.</p>
-</sec>
-<sec>
-<title>VIII. La normativa, estructura y los esfuerzos contra la desaparición forzada en Guerrero</title>
-<p>Además de la interesante trayectoria recorrida por el recurso extraordinario de exhibición de personas hasta la fecha de esta investigación, de los esfuerzos por llevar los derechos humanos a la práctica en el estado de Guerrero desde los 90, y de las implicaciones que tuvo la reforma en materia de derechos humanos de 2011 a nivel nacional, existe una serie de órganos y cuerpos normativos de forzosa revisión para la materia de desaparición forzada de personas en el estado.</p>
-<p>Analizar estos elementos permite determinar tanto su eficacia como las áreas de mejora en ellos. Esta es la base para formular adiciones que permitan dar mayor accesibilidad y eficacia a la población en general, reformular los cuerpos normativos e incluso reestructurar la base operativa con la que se cuenta y, muy posiblemente, crear nuevos entes normativos que se adecuen de mejor manera al contexto social del estado.</p>
-<p>El primer cuerpo normativo que debe analizarse es la Ley para Prevenir y Sancionar la Desaparición Forzada de Personas en el Estado de Guerrero Número 569, creada en 2005 como una respuesta del Congreso del Estado al elevado número de desapariciones, a los casos de brutalidad policiaca y a las torturas que sufrían los detenidos en las fiscalías del estado.</p>
-<p>Sería mediante esta ley como se establecería una definición armonizada con los tratados internacionales en materia de desaparición forzada al hecho ilícito, mediante su artículo primero, el cual establece lo siguiente:</p>
-<disp-quote>
-<p>ARTÍCULO 3.- Comete el delito de desaparición forzada de personas el servidor público que en ejercicio de sus atribuciones o con motivo de ellas detenga, prive de la libertad y mantenga oculta a una o más personas, o bien autorice, apoye o consienta que otros lo hagan, cualesquiera que sea el método y motivación utilizados, sin reconocer la existencia de tal privación o niegue información fidedigna sobre el paradero de la o de las víctimas, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes. </p>
-</disp-quote>
-<p>Serán igualmente considerados como sujetos activos del delito de desaparición forzada de personas, aquellas personas que aun cuando no sean formalmente autoridades ni funcionarios, actúen aprovechando la autorización, el apoyo o la aquiescencia de funcionarios públicos.<xref ref-type="fn" rid="fn27"><sup>27</sup></xref>
-</p>
-<p>En teoría, el texto resulta adecuado para identificar sujetos partícipes y adecuar políticas públicas que respondan a sus particularidades. En pocas palabras, la definición ofrece una adaptabilidad suficiente del concepto a la realidad social. Sin embargo, al analizar los 27 artículos que constituyen este cuerpo normativo, puede advertirse que este se centra en cuestiones punitivas y presentar agravantes, a pesar de facultar a la fiscalía general de Justicia del Estado para proveer protección a los sujetos agraviados y demás personas involucradas, que por su situación se consideren en riesgo.</p>
-<p>No se hace mención clara de medidas de prevención o procedimientos en los que pueda brindarse una atención pronta a los denunciantes ni se entra a detalle en la interposición de las denuncias y diligencias derivadas de esta. Se menciona de manera breve a la Comisión de Derechos Humanos y se le faculta para ofrecer asistencia en la denuncia, pero no se le incluye como parte de las diligencias, simplemente emite notas administrativas sin un peso determinante para las instituciones y asiste de manera similar a un asesor legal en el proceso de denuncia ante los ministerios públicos. Estos últimos se encargan de las diligencias de búsqueda.</p>
-<p>En términos de la reparación del daño, se menciona la obligatoriedad para los juzgadores de contemplar la reparación del daño como un aspecto principal en sus resoluciones, siempre tomando en cuenta la magnitud del daño al núcleo familiar de la persona desaparecida, así como el impacto que genera en los diferentes ámbitos en los que la víctima se desarrollaba. De igual manera, resulta bastante acertado el artículo 25, en el cual se le da carácter de víctima a aquellas personas relacionadas directamente con el sujeto desaparecido o a quienes sufrieron algún perjuicio tratando de evitar el acto mediante instancias jurídicas o medios materiales. El reconocimiento del carácter de víctima en este apartado resulta bastante útil para cuestiones de justicia reparativa, pero no se mencionan los medios de reparación ni se dan criterios para determinarlos.</p>
-</sec>
-<sec>
-<title>IX. La búsqueda de personas: entre la institucionalidad y la sociedad civil</title>
-<p>La búsqueda de desaparecidos representa uno de los retos más complejos dentro de la problemática, tanto por la celeridad procesal requerida dentro de estos procesos como por la complejidad que supone la búsqueda en un estado con la geografía de Guerrero. A ello se suman los obstáculos que implica el actuar en contra de los intereses de actores con un poder tan grande como el que, se puede inferir, poseen los grupos de crimen organizado en conjunción con las autoridades.</p>
-<p>Para la tarea de la búsqueda de personas, la fiscalía del estado cuenta con un protocolo especial que fue creado en 2014, este presenta generalidades sobre la denuncia y la recopilación de datos correspondientes en torno al sujeto desaparecido<xref ref-type="fn" rid="fn28"><sup>28</sup></xref>, además de facultar al ministerio público para realizar una serie de diligencias muy específicas en casos muy puntuales.</p>
-<p>Este manual, si bien da las pautas y formularios necesarios para contextualizar al sujeto privado de la libertad -es decir, saber a qué grupo poblacional pertenece, el contexto en el que se desenvuelve y, por ende, determinar posibles causas y actores en base a los testimonios del denunciante y los informes solicitados-, no establece la forma ni los términos para la búsqueda del individuo. Se limita a enunciar la facultad del ministerio público para llevar a cabo aquellas que considere pertinentes, lo cual, según el punto de vista del autor, puede derivar en ambigüedades que ponen en riesgo la celeridad y la forma de las diligencias.</p>
-<p>En síntesis, el mencionado manual ofrece los elementos necesarios para la identificación y perfilación del sujeto desaparecido, pero aborda de manera muy superficial los elementos prácticos de la búsqueda, ya que no se hace mención del trato que debe dársele al denunciante ni se dan pautas precisas para la práctica de diligencias.</p>
-</sec>
-<sec>
-<title>X. El diálogo entre el estado y las víctimas</title>
-<p>El estado de Guerrero, desde los casos presentados durante el periodo de la guerra sucia hasta tiempos contemporáneos, se ha caracterizado por una falta de diálogo y compromiso político para con las víctimas. Esta carencia se expone en las numerosas manifestaciones donde las familias de las víctimas exigen diálogos con los mandatarios del estado; cuando estos no ofrecen respuestas positivas o, mínimamente, una apertura al diálogo, generan un descontento social que escala a manifestaciones dirigidas a las autoridades federales. </p>
-<p>En tiempos recientes, o, mejor dicho, en cada aniversario, las familias de los 43 estudiantes normalistas de Guerrero se han manifestado con el fin de exigir diálogo con el jefe de Estado mexicano<xref ref-type="fn" rid="fn29"><sup>29</sup></xref> para exponer la ineficacia de las instancias a nivel local y federal. Dentro de esta manifestación se hace evidente la falta de diálogo entre el gobierno en todos sus niveles y las víctimas, así como la falta de resolución y justicia reparativa a once años de la desaparición de los estudiantes.</p>
-<p>Así mismo, el incumplimiento de sentencias condenatorias emitidas por la Corte Interamericana de Derechos Humanos muestra una indolencia y la desatención de las responsabilidades propias de un Estado constitucional por parte de las administraciones gubernamentales de la década de los 70 hasta la actual administración de la presidenta Claudia Sheinbaum. La Comisión Mexicana de Defensa y Promoción de los Derechos Humanos reporta que, en el caso específico de la sentencia condenatoria contra el Estado mexicano por el caso Radilla Pacheco, no ha habido avances significativos en la búsqueda del catedrático.<xref ref-type="fn" rid="fn30"><sup>30</sup></xref>
-</p>
-<p>Además, durante la audiencia entre dicho organismo, la familia del pedagogo, la Corte Interamericana de Derechos Humanos y representantes del Estado mexicano, se dejaron ver aspectos importantes. En primer lugar, la falta de interés por parte del Estado en reconocer su responsabilidad y la problemática de desaparición forzada a nivel nacional; consecuentemente, el incumplimiento de la sentencia, así como la falta de avances en materia de búsqueda y justicia reparativa para las familias. Una de las conclusiones más preocupantes derivadas de este encuentro fue la falta de coordinación entre los entes del Estado y la falta de esfuerzos conjuntos entre ellos para el esclarecimiento de este tipo de casos, incluso con la presión internacional que se supondría que lleva consigo una sentencia de la Corte Interamericana.</p>
-<p>En otros aspectos, este encuentro tuvo un punto positivo. A pesar de las falencias mencionadas anteriormente, la participación de la Comisión Nacional de Derechos Humanos fue relevante, ya que el organismo reconoció de manera explícita el incumplimiento generalizado de la sentencia, la revictimización y la falta de diálogo que enfrentan las familias de los desaparecidos en México. Si bien la CNDH, al estar descentralizada del Estado y no poseer atribuciones punitivas, no supone un peso mayor para las entidades estatales. El hecho de que enuncie las falencias, omisiones y negligencias en este caso emblemático, muestra un ligero avance en cuanto al reconocimiento de la responsabilidad estatal frente a la desaparición forzada.</p>
-</sec>
-<sec sec-type="conclusions">
-<title>XI. Conclusiones</title>
-<p>La fenomenología de la desaparición forzada en Guerrero constituye una realidad social, histórica y jurídica demasiado compleja. Se trata de un universo con décadas de casos sin respuesta y sin ninguna clase de justicia reparativa para una colectividad fracturada y estigmatizada que constantemente choca con un gobierno que no está abierto al diálogo ni al reconocimiento de sus responsabilidades para con este sector de la población.</p>
-<p>Si bien el marco jurídico estatal y nacional ha sido armonizado con los convenios internacionales contra la desaparición forzada, y los derechos humanos ya están plenamente establecidos en el marco constitucional, muy poco ha sido el avance en el campo de los hechos. No se han presentado respuestas satisfactorias a casos emblemáticos que se han colocado en el escrutinio del derecho internacional. La justicia reparativa no llega a las familias, a pesar de que estas obtuvieron el reconocimiento de su carácter de víctima en 2022, como parte de las reformas en materia de derechos humanos y desaparición forzada. Esto muestra una falta de compromiso por parte de las instituciones para reconocer su responsabilidad, o al menos la complicidad que ha existido en un número significativo de estos casos.</p>
-<p>La falta de reconocimiento de la complicidad y la responsabilidad del Estado ante la ciudadanía supone una gran dificultad para depurar los órganos de gobierno a futuro y desvincularlos de las relaciones existentes entre estos y el crimen organizado. Una política como la que manejó la administración del expresidente López Obrador no es idónea para reconocer las vinculaciones entre el Estado y los actores del crimen organizado. Difícilmente, una política de esta naturaleza podría establecer estrategias de lucha directa tanto institucional, al depurar los órganos del Estado, como en el aspecto de la lucha contra el narcotráfico.</p>
-<p>Otra de las falencias de las políticas actuales en torno a la materia, y quizá una de las fallas más graves y constantes en las distintas administraciones que ha tenido el estado de Guerrero -y el país en general-, es la falta de diálogo entre los colectivos de familias y el gobierno. Sin un diálogo abierto que se traduzca en compromisos que surtan efectos en la realidad práctica, muy difícilmente se llegará a términos de justicia reparativa. En pocas palabras, los principales problemas del Estado mexicano son no reconocer la falta de eficacia y coordinación entre sus distintos órganos, la complicidad con los grupos del crimen organizado y las consecuencias devastadoras que produce la desaparición forzada de personas.</p>
-<p>Hay mucho por hacer, sí, y debe ser una tarea conjunta entre la sociedad y el gobierno. El objetivo principal será que el gobierno detenga la impunidad, investigue y resuelva los crímenes; se castigue a los perpetradores para que se les brinde justicia a las víctimas, los familiares y amigos. Si esto no es suficiente, que jurídicamente se le reconozca a la sociedad como sujeto de derechos, a fin de obligar al Estado a cumplir con sus obligaciones o, de lo contrario, asumir las consecuencias de su inacción y falta de compromiso para garantizar los derechos humanos en Guerrero y en México.</p>
-</sec>
-</body>
+<p>Si bien la creación de categorías en torno al sujeto activo ajeno al
+orden estatal dista de criterios sólidos o que permitan mesurar con
+precisión las dimensiones de una problemática determinada, el interés de
+distintos especialistas en torno a la materia por distinguir y
+clasificar los distintos sujetos no conexos a la estructura estatal que
+cometen desaparición forzada, resulta algo a tomar en cuenta para la
+sociología del derecho y para los órganos especializados. Contar con
+estas distinciones podría obligar a dichos entes y al Estado mismo a
+reconocer y asumir responsabilidad internacional en la comisión de
+dichos actos, sin mencionar la posibilidad de diseñar y adecuar la
+legislación a contextos específicos.</p>
+<p>En otros aspectos de los sujetos dentro de la desaparición forzada,
+resulta necesario referirse, al menos para los efectos del entendimiento
+teórico del problema, a la figura del sujeto pasivo. Este se configura,
+en primera instancia, como la persona que se ve sustraída de su libertad
+y garantías procesales de manera injustificada, ya sea por agentes
+estatales o particulares sin conexión directa al Estado. En una segunda
+instancia se encuentra la colectividad, la cual tiene que ver con las
+ramificaciones del acto al verse vulnerado el derecho a la seguridad
+pública. Como consecuencia, se pierde la confianza y la cercanía entre
+la población y el gobierno y las instituciones emanadas de este. Esto, a
+su vez, lleva al deterioro progresivo de las instancias y el marco
+normativo, tal como lo remarca
+Chávez<xref ref-type="fn" rid="fn7"><sup>7</sup></xref> al referir que la
+población se ve implícita en la categorización de un sujeto pasivo, al
+ser esta quien resiente los aspectos sociológicos que se derivan de la
+práctica de la desaparición forzada.</p>
+<p>Por ello, en esta investigación, la colectividad social constituye un
+sujeto pasivo que resiente los efectos sociales derivados de la
+práctica. En cambio, el sujeto pasivo primario o, en primer término, lo
+constituyen aquellos individuos que son sustraídos de la libertad,
+cualquier forma de comunicación y de toda garantía procesal, por parte
+de funcionarios de gobierno o cualquier otro ente externo vinculado
+—explícitamente o de manera no reconocida— con el Estado.</p>
+</sec><sec><title>IV. Dinámicas socio jurídicas en torno a la desaparición</title>
+<p>Como parte de este estudio, la perspectiva sociológica en torno al
+problema y los efectos que derivan de su reiterada práctica son de suma
+importancia. A través de ellos se puede mesurar la evolución y
+funcionamiento de las instancias jurídicas, además del papel activo que
+tiene el Estado. Es por esto por lo que hay dos conceptualizaciones que
+deberían ser de especial observancia para los lectores de este
+artículo.</p>
+<p>El primero es el abandono estatal, que puede definirse como la
+inoperatividad o inexistencia de los entes estatales en una región
+determinada, lo que a su vez deriva en el fallo de las condiciones
+mínimas de vida digna que requiere una población (seguridad, vivienda,
+empleo, salud). En ocasiones se manifiesta en el reconocimiento de otros
+entes ajenos al Estado como autoridad predominante por parte de la
+población (grupos paramilitares, criminales,
+etc.).<xref ref-type="fn" rid="fn8"><sup>8</sup></xref></p>
+<p>Dicho fenómeno es con frecuencia conexo a la desaparición forzada, ya
+sea por el mal funcionamiento y abandono de las instituciones
+especializadas, o por ser una consecuencia indirecta de la dinámica que
+hay entre la práctica de la desaparición forzada y el deterioro del
+funcionamiento y gobernabilidad de un Estado.</p>
+<p>Como segundo término, está la cultura de la legalidad, un concepto
+propio de la sociología jurídica que trata de explicar la legitimidad,
+evolución y forma de los entes jurídicos, a través de la delicada
+relación que estos tienen con la población. El cómo esta última los
+conoce, percibe y emplea en la vida cotidiana, constituye el uso de las
+instancias, que es el componente clave en la evolución o decrecimiento
+de un cuerpo normativo<xref ref-type="fn" rid="fn9"><sup>9</sup></xref>. En pocas
+palabras, la correlación entre el conocimiento jurídico colectivo y la
+legitimidad y transformaciones que sufren las instituciones y la
+normativa aplicable.</p>
+<p>Con esta premisa en mente, se analiza el entorno en el que la norma
+se desenvuelve y sus interacciones y percepciones sociales, así como el
+influjo de dichas realidades en la forma de las leyes y la operación de
+los cuerpos gubernamentales<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>.
+Esto permite establecer asociaciones entre la realidad práctica y la
+teórica jurídica, lo que que resulta fundamental para abordar una
+problemática con las connotaciones socio jurídicas propias de la
+desaparición forzada de personas.</p>
+<p>Por añadidura, es preciso conceptualizar la teoría del derecho vivo,
+al ser esta accesoria a la cultura de la legalidad y ser la base para
+las propuestas encaminadas a acciones pedagógicas que fomenten el
+conocimiento y uso de las instancias jurídicas destinadas a la
+prevención de la desaparición forzada. <italic>Grosso modo</italic>, la
+teoría del derecho vivo, acuñada por Eugen
+Ehrlich<xref ref-type="fn" rid="fn11"><sup>11</sup></xref> a principios del siglo
+XX, describe cómo el derecho, los cuerpos normativos y las instituciones
+se legitiman y evolucionan en torno a las necesidades sociales y el
+contexto cultural en el que se ven inmiscuidas. De este modo, el
+conocimiento popular sobre la ley hace que esta evolucione en aspectos
+positivos, mientras que el desconocimiento de esta deja como resultado
+un deterioro y oscurecimiento de los entes jurídicos y su normativa.</p>
+<p>Pese a las ambigüedades del concepto, ya que hablar de la realidad
+social como principal fuente del derecho implica un estudio de
+dimensiones casi infinitas sobre las formas que toma la ley en distintos
+contextos, esta misma ambigüedad conceptual es la que permite adaptar el
+contexto social a los estudios orientados a la normativa.</p>
+</sec><sec><title>V. Evolución cronológica de la desaparición forzada en</title>
+<p>Hablar del inicio y desarrollo cronológico de la problemática de
+derechos humanos que se gestó en el estado de Guerrero es una tarea
+titánica, ya que debe analizarse una serie de hechos y dinámicas
+políticas que se remontan al final de la década de los 60’s. Esta época
+se vio marcada por la Guerra Fría a nivel mundial, por las numerosas
+insurrecciones de corte marxista, comunista y socialista a lo largo del
+mundo y lo que derivó de ellas en Latinoamérica.</p>
+<p>En dicha confrontación de ideas, el gobierno mexicano —encabezado en
+esa época por el Partido Revolucionario Institucional (PRI)— optó por
+apegarse a políticas de corte conservador, las cuales implicaban dos
+aspectos importantes a nivel político y cultural. En primer término, se
+recurrió a la iglesia como un medio de legitimación y popularización de
+las ideas predominantes en la visión conservadora. En segundo término,
+el antagonizar las ideas de índole liberal, socialista o cualquier
+visión contraria a los ideales del conservadurismo característico de la
+época,<xref ref-type="fn" rid="fn12"><sup>12</sup></xref> lo cual, eventualmente,
+tendría un choque con los numerosos grupos campesinos, estudiantiles e
+incluso paramilitares que surgían alrededor del país, dando como
+resultado la implementación de una serie de operativos
+“contrainsurgentes” por parte del ejército mexicano y las fuerzas
+policiales.</p>
+<p>Uno de los eventos derivados del panorama sociopolítico de esa época
+fue la desaparición de Pedro Sonora Mendoza en 1974 en el estado de
+Guerrero, militante de la Brigada Campesina de Ajusticiamiento. Fue
+detenido por fuerzas policiales y posteriormente entregado a las fuerzas
+militares mexicanas, quienes lo ejecutarían y desaparecerían sus
+restos<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>, práctica que se
+realizaba de manera frecuente en la región. Existen amplios y detallados
+registros en los que se describe el modo en el que operaba el ejército y
+la desaparición sistematizada de un número importante de civiles en la
+entidad.</p>
+<p>El panorama de violencia estatal en Guerrero llegó a la mirada del
+derecho internacional con el caso de Rosendo Radilla Pacheco, sucedido
+en 1974. Este llegó a la Corte Interamericana de Derechos Humanos en
+2001 y no fue sino hasta el año 2009 cuando se emitió una sentencia
+condenatoria en contra del Estado mexicano, en la cual se responsabilizó
+al Estado por la desaparición del catedrático y la afectación a la
+integridad de su familia.</p>
+<p>Lo anterior resulta especialmente relevante si se toma en cuenta que
+solo pudo presentarse una denuncia formal hasta 1990, lo cual evidencia
+tanto la crisis de derechos humanos en la entidad como los crímenes de
+lesa humanidad cometidos por el Estado durante el periodo histórico
+denominado “guerra sucia”<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>.
+Asimismo, revela las adversidades a las que se enfrentaron las familias
+de las víctimas en la búsqueda de la justicia, así como el cambio
+significativo en la dinámica entre el Estado y la práctica recurrente de
+la desaparición forzada en Guerrero.</p>
+<p>La participación del ejército en la desaparición forzada de personas
+se vio un tanto reducida a raíz de las reformas locales, en materia de
+derechos humanos, impulsadas por José Francisco Ruiz Massieu a mediados
+de la década de los 90´s (creación de la primera Comisión de Derechos
+Humanos y del recurso extraordinario de exhibición de personas). A esto
+se le suman dos factores determinantes que surgieron a mediados y
+finales de la primera década de los años 2000. En 2006, el inicio de la
+llamada guerra contra el narcotráfico supuso un incremento en las
+ejecuciones extrajudiciales, tanto por parte de elementos de las fuerzas
+castrenses como por parte de grupos del crimen organizado que ganaban un
+poder significativo en todo el estado. En 2009, la presión internacional
+que derivó de la sentencia condenatoria por parte de la Corte
+Interamericana al Estado mexicano, lo cual provocó una mayor observación
+al actuar de las fuerzas armadas y el reconocimiento de la universalidad
+de los derechos humanos al incorporarlos en la constitución y darles
+primacía, de ello devienen tanto las reformas en materia de derechos
+humanos de 2011 como que se visibilizara la presumible infiltración de
+fuerzas policiales por grupos criminales en delitos de desaparición
+forzada.</p>
+<p>De tal manera que se propagó la percepción de la vinculación de
+grupos delincuenciales con servidores públicos de todos los estratos. Si
+bien no hay una distinción jerárquica clara en la relación
+Estado/narcotráfico, diversos casos muestran servidores públicos operan
+por orden del narcotráfico, deteniendo de manera arbitraria a civiles y
+poniéndolos a disposición de los grupos delincuenciales. Uno de los
+casos modernos más aberrantes es el de la desaparición de los
+estudiantes de la Escuela Normal Rural Raúl Isidro Burgos en 2014, hecho
+en el cual 43 estudiantes fueron atacados con fuerza letal, capturados y
+posteriormente entregados por agentes policiales a un grupo delictivo
+que los ejecutó e incineró sus restos, según las versiones oficiales de
+la Fiscalía General de la
+República.<xref ref-type="fn" rid="fn15"><sup>15</sup></xref></p>
+<p>La evolución de la dinámica en la que ocurrían los hechos de
+desaparición forzada deja a la vista una serie de factores determinantes
+en el funcionamiento y gobernabilidad del estado de Guerrero. El primero
+es el abandono estatal en varias regiones del estado, como Atoyac,
+Chilpancingo, Iguala, Chilapa, y Cocula, regiones en las que, de acuerdo
+al informe más actual en materia de desaparición forzada por parte de la
+Comisión Nacional de Derechos Humanos (CNDH), se concentra la mayor
+cantidad de casos de desaparición en los cuales se presume la
+participación del Estado.<xref ref-type="fn" rid="fn16"><sup>16</sup></xref></p>
+<p>Si bien el informe no corresponde al año en curso de esta
+investigación, debe tomarse en cuenta una problemática particular: la
+falta de acceso a la información por parte de las instituciones
+gubernamentales, y la falta de denuncias formales. Esta situación se
+debe tanto a la falta de confianza en las instituciones como al temor de
+los pobladores a recibir algún tipo de represalias por parte de los
+grupos criminales dominantes en la comunidad. Esto limita enormemente la
+claridad de las cifras, ya que los únicos entes que suelen
+cuantificarlas son los órganos internacionales y el significativo número
+de asociaciones civiles dedicadas a la búsqueda de víctimas.</p>
+<p>A continuación, se muestra una gráfica en la cual se detalla el
+número de casos en cada entidad de las mencionadas por la CNDH, para un
+mayor entendimiento y dimensionar los alcances de la problemática.</p>
+
+<p><italic>Víctimas por municipio en Guerrero</italic></p>
+
+<p>La dificultad para denunciar la violencia que sufren los ciudadanos
+al reportar casos como estos, además de la ineficacia en las políticas
+públicas y el poder que ejercen los grupos criminales, constituye una
+serie de factores por los cuales la problemática se ha mantenido
+constante y el por qué resulta difícil obtener datos precisos respecto
+al número de desaparecidos en la entidad y sobre sus posibles
+paraderos.</p>
+<p>Por ello, el estado de Guerrero enfrenta una problemática donde las
+instancias y políticas públicas se ven rebasadas por los factores de
+poder encontrados en la influencia de los grupos criminales y el actuar
+de los servidores públicos. Esto deriva en municipios abandonados,
+asociaciones civiles que se encuentran realizando tareas de búsqueda por
+todo el estado y un deterioro en el marco jurídico destinado a la
+prevención de dicha práctica.</p>
+<p>Tal panorama se mantiene hasta tiempos recientes y queda evidenciado
+en las manifestaciones de numerosos grupos y asociaciones civiles de
+personas afectadas por la problemática, en cuyas consignas destaca la
+exigencia de una nueva ley en materia de desaparición forzada de
+personas.<xref ref-type="fn" rid="fn17"><sup>17</sup></xref> Precisamente, dicha
+consigna da pie a identificar dos realidades que se viven en el estado:
+la primera, la ineficacia de las autoridades y lo inadecuado del marco
+jurídico para el contexto del Estado; seguido por la enorme cantidad de
+casos y familias afectadas por este delito.</p>
+<p>Como punto de interés cabe recalcar que estas manifestaciones
+tuvieron su epicentro en cuatro de los municipios mencionados en el
+informe especial en materia de desaparición forzada de personas
+realizado por la CNDH, previamente citado en esta investigación (Atoyac,
+Acapulco, Chilapa y Chilpancingo).</p>
+<p>De estos hechos sociales puede inferirse tanto el alcance de la
+problemática como la forma en la que se ha visto afectado el contexto
+social guerrerense. Además, pueden teorizarse una serie de causales,
+como la ineficacia de las autoridades y el marco jurídico o incluso un
+abandono estatal en ciertas entidades donde se concentra la mayoría de
+los casos de acuerdo con algunos informes.</p>
+<p>La enorme cantidad de casos sin resolver y aquellos donde ni siquiera
+se ha brindado justicia reparativa son el producto de una necro política
+que se remonta a mediados de los 60’s con el inicio de la guerra sucia y
+que se ha mantenido a pesar de los cambios en políticas de estado a lo
+largo de las décadas y de los cambios en los
+actores.<xref ref-type="fn" rid="fn18"><sup>18</sup></xref> Esto puede ser producto
+de la ineficacia legal, la inoperatividad de las instituciones y las
+violencias que los sujetos agraviados sufren por parte de actores
+externos al Estado.</p>
+<p>Con un panorama nacional en el que la desaparición forzada se
+cuantifica en alrededor de 100 000
+casos<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>, teniendo como uno de sus
+epicentros al estado de
+Guerrero,<xref ref-type="fn" rid="fn20"><sup>20</sup></xref> es evidente la
+necesidad de adecuar el marco jurídico y las instituciones al contexto
+que se vive en este estado, además de analizar las causas sociales y
+culturales inmiscuidas en esta problemática.</p>
+</sec><fig id="f1"><label>Gráfica 1</label><graphic xlink:href="fig1.jpg"/><attrib>Nota:elaboración propia con base en el Informe
+especial sobre la situación que en materia de personas desaparecidas y
+delitos vinculados impera en el municipio de Chilapa de Álvarez, de la
+Comisión Nacional de los Derechos Humanos.</attrib></fig><sec><title>V. Las asociaciones civiles exponiendo la impunidad</title>
+<p>Si se desea tener al menos una especulación sobre la gravedad y
+alcance de las repercusiones sociales derivadas de un panorama nacional
+plagado por el abandono estatal, la proliferación de los grupos
+criminales y la ineficiencia de las leyes especializadas en materia de
+desaparición forzada de personas, resulta útil analizar los colectivos
+de búsqueda de personas alrededor de todo el país, porque es una de las
+formas más crudas de percibir el daño irreparable causado por años de
+políticas represivas, alianzas entre servidores públicos y actores de la
+delincuencia organizada y la ineficacia de las instituciones
+gubernamentales creadas para atender este fenómeno.</p>
+<p>Con alrededor de 234 colectivos de búsqueda de personas en todo el
+país, en su mayoría compuestos por madres de familia en busca de
+“tesoros”, como suelen referirse a los restos óseos de los familiares
+desaparecidos,<xref ref-type="fn" rid="fn21"><sup>21</sup></xref> se evidencia la
+falta de atención por parte de las instituciones a esta problemática y,
+a su vez, las falencias en la normativa, si se tiene en cuenta que una
+de las consignas más presentes entre estos grupos es la necesidad de
+crear nuevas leyes en materia de desaparición forzada.</p>
+<p>De la misma manera, estos colectivos representan tanto las exigencias
+de la población como un número significativo de casos sin solución, en
+los cuales las instituciones no han sido eficaces. Tomando en cuenta las
+cifras de los colectivos que operan en el estado de Guerrero, se
+cuantifican 3800 casos distribuidos alrededor del estado, con epicentro
+en tres municipios: Chilpancingo, Acapulco e
+Iguala,<xref ref-type="fn" rid="fn22"><sup>22</sup></xref> lo cual muestra la
+ineficacia de las instancias destinadas a prevenir y combatir la
+problemática en dicha entidad.</p>
+<p>A su vez, mediante una de las actividades desarrolladas por estos
+colectivos —la exploración de fosas clandestinas— se puede notar un
+cambio significativo en las dinámicas y forma en la que se dieron las
+desapariciones. En estas fosas, los colectivos exhuman una cantidad
+importante de restos humanos sin identificar, con la esperanza de
+encontrar a sus seres queridos y darles un entierro digno y un cierre al
+viacrucis que la ineficiencia de las autoridades y la fuerte influencia
+del crimen organizado les han hecho
+pasar.<xref ref-type="fn" rid="fn23"><sup>23</sup></xref></p>
+<p>Con la exploración de las fosas puede visualizarse la forma en que
+las desapariciones se dieron tanto en el contexto de la Guerra Sucia
+como en la actualidad. Mientras que las desapariciones cometidas por el
+ejército en el periodo que comprende mediados de los 60 y finales de los
+80 se llevaban a cabo de una manera sistemática y enfocada a líderes de
+movimientos sociales —los cuales a menudo eran ejecutados y en la
+mayoría de los casos, sus restos arrojados al mar desde aeronaves del
+ejército mexicano—, las desapariciones actuales no se guían en un cien
+por ciento por razones políticas. Gran parte de estas tienen cuestiones
+de índole económico para la delincuencia organizada y los restos de las
+víctimas son enterrados en numerosas fosas clandestinas alrededor de
+todo el estado.</p>
+<p>Por tales razones, existen nuevos retos para la búsqueda de víctimas.
+Uno de ellos es la falta de un registro de los perpetradores, mientras
+que en algunos casos cometidos en el periodo de la guerra sucia existe
+documentación variada que puede servir como indicio para la búsqueda
+(registros de detención, itinerarios de vuelo, registro de elementos).
+En los casos más actuales, resulta casi imposible obtener alguna prueba
+documental, tanto por la naturaleza de los perpetradores como por la
+forma de operar de las autoridades que llegan a ser partícipes en
+los casos.</p>
+<p>A eso se le suma la complicada geografía del estado y la excesiva
+cuantía de restos humanos en las fosas, lo cual implica una enorme
+dificultad en la identificación de los restos. En gran medida, esta
+tarea es realizada por las asociaciones civiles de madres buscadoras, lo
+cual deja dos hipótesis preocupantes: primero, la falta de asistencia
+por parte de las autoridades especializadas en la materia, que puede
+traducirse como un abandono generalizado para con las víctimas, y en
+segundo lugar, un panorama en el cual la problemática ha escalado a
+dimensiones que exceden la capacidad operativa de un Estado
+funcional.</p>
+<p>Además de la ineficacia de las autoridades estatales y todas las
+dificultades intrínsecas al panorama estatal descrito previamente,
+México enfrenta una serie de políticas públicas que rayan en la apatía
+frente a la crisis de desaparición forzada alrededor de numerosos
+estados de la República. El gobierno de Andrés Manuel López Obrador, en
+su periodo 2018-2024, se distinguió por un discurso político que buscaba
+evitar la confrontación armada entre la fuerza pública y el crimen
+organizado. Una de las frases más reconocidas de dicho jefe de estado
+fue “abrazos no balazos”, que sintetizó la postura de su gobierno frente
+a la ola de violencia que se vivía a nivel nacional. Dicha frase
+implicaba alguna especie de intento de reconciliación entre la
+delincuencia y la sociedad mexicana, lo cual lleva a un cuestionamiento
+un tanto intrincado, ¿pueden el narcotráfico y el Estado mexicano tener
+un proceso de paz? La respuesta no es sencilla y para llegar a ella
+tendrían que llevarse a cabo numerosas investigaciones en distintos
+campos de estudio, pero lo que sí puede percibirse es que se tiene como
+resultado la ineficacia de esa postura en el panorama actual.</p>
+<p>Las numerosas protestas y diálogos entre el gobierno y asociaciones
+de búsqueda de personas han dejado ver el descontento, la
+revictimización y la ineficacia de los órganos destinados a combatir la
+problemática. A ello se suma una serie de acciones gubernamentales que
+resultan preocupantes, si se tiene en mente el alcance y la gravedad de
+la problemática en todo el país<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>.
+Una de las más desafortunadas fue la reducción en el presupuesto de la
+Comisión Ejecutiva de Atención a Víctimas (CEAV) lo cual supone un reto
+aún mayor en cuestiones de operatividad, infraestructura y la calidad en
+la atención que puede darse a las víctimas y a sus familias.</p>
+</sec><sec><title>VI. La llegada, el auge y caída delhabeas</title>
+<p>Para entender los aspectos jurídicos de fondo en la fenomenología de
+la desaparición forzada en Guerrero debe hacerse una breve síntesis de
+la evolución de la normativa respecto a la materia en el Estado.</p>
+<p>En ese orden de ideas, cabe resaltar que, pese a la existencia del
+recurso de amparo a nivel nacional, consagrado en la constitución
+mexicana desde 1917, el mayor avance en materia de derechos humanos y
+garantías procesales que se dio en el estado de Guerrero y tuvo lugar en
+la década de los 90’s. De la mano del entonces gobernador José Francisco
+Ruiz Massieu, se llevaron a cabo una serie de reformas en materia de
+derechos humanos, por demás revolucionarias para la época. Algunas
+instituciones como la procuraduría social de la montaña y la
+instauración a nivel nacional de las comisiones de derechos humanos
+locales por fin se consolidaban en el marco jurídico para regular el
+actuar de dichos entes, el cual contenía un catálogo de derechos y
+garantías más progresistas y adecuados al contexto social.</p>
+<p>Uno de los aportes más significativos en materia de desaparición
+forzada de personas fue la creación del recurso extraordinario de
+exhibición de personas, que en términos simples fue una adaptación del
+<italic>habeas corpus</italic> al cuerpo normativo que regía al estado
+de Guerrero.<xref ref-type="fn" rid="fn25"><sup>25</sup></xref> Dicho recurso podía
+ser interpuesto ante cualquier juez penal, sin importar el área de
+adscripción del tribunal. Facultaba al juzgador para realizar las
+diligencias pertinentes para garantizar la seguridad del detenido y
+saber en dónde se encontraba retenido, así como determinar la legalidad
+de su detención. En caso de existir alguna violación a derechos humanos,
+esta instancia contaba con carácter procesal y vinculatorio, porque el
+juez tenía la facultad de iniciar un proceso contra los victimarios.</p>
+<p>La instancia supuso un avance significativo en materia de derechos
+humanos y a pesar de no existir registros precisos sobre el número de
+veces que fue interpuesta —ya que en sí no tiene el carácter de juicio—,
+los estudios realizados por
+Salgado,<xref ref-type="fn" rid="fn26"><sup>26</sup></xref> revelan que la figura
+jurídica tuvo un amplio uso en las regiones rurales del estado y una
+celeridad que hacía a la instancia por demás eficiente. Esto debido, en
+gran parte, al aprovechamiento de la estructura judicial y la falta de
+formalidad en su presentación, lo cual lo convertía en un mecanismo
+bastante accesible para la población en general.</p>
+<p>Pese al notable avance legislativo y su proliferación en regiones
+rurales, la instancia no perduró por dos factores que Salgado detalla en
+la obra citada anteriormente. El primero fue el desconocimiento
+generalizado del marco jurídico por la población guerrerense. Si bien la
+instancia era eficiente en su operación, esto no era plenamente
+explotado por las personas o por falta de ejercicio de esta, y a ello se
+le suma la mala <italic>praxis</italic> por parte de los juristas,
+quienes comúnmente preferían llevar a cabo un amparo indirecto, el cual,
+al ser un recurso del orden federal con una dilación mayor en sus
+términos, les permitía un mayor cobro de honorarios.</p>
+<p>El oscurecimiento progresivo de la instancia dio como resultado dos
+hechos que se traducen en un retroceso significativo en cuestión de
+garantías procesales en el marco jurídico guerrerense. En 2015 se derogó
+la instancia, justificando dicha decisión en su desuso y en la
+existencia del amparo indirecto, lo cual resulta un tanto arbitrario si
+se contempla el principio de progresividad de la norma y lo que este
+implica. El recurso sería reincorporado en 2019, pero con importantes
+cambios en su operación y la estructura que sostiene su
+funcionamiento.</p>
+<p>El cambio consistió en incorporar dicho recurso a las atribuciones de
+la Comisión de Derechos Humanos del Estado de Guerrero. Esto cambió la
+naturaleza del recurso en dos aspectos importantes: el primero es la
+falta de carácter judicial y vinculatorio, ya que la comisión es un ente
+que solo puede emitir recomendaciones y estas no tienen una carga
+punitiva, se traducen en simples notas administrativas. El otro cambio
+notable es la reducción en la infraestructura en la que puede ser
+interpuesto, ya que la Comisión de Derechos Humanos solo dispone de seis
+coordinaciones, distribuidas en cada región del estado, y una oficina
+principal en la ciudad capital. Esto reduce considerablemente la
+accesibilidad de los ciudadanos si se toma en cuenta que anteriormente
+se interponía ante los diversos juzgados penales.</p>
+</sec><sec><title>VIII. La normativa, estructura y los esfuerzos contra la</title>
+<p>Además de la interesante trayectoria recorrida por el recurso
+extraordinario de exhibición de personas hasta la fecha de esta
+investigación, de los esfuerzos por llevar los derechos humanos a la
+práctica en el estado de Guerrero desde los 90, y de las implicaciones
+que tuvo la reforma en materia de derechos humanos de 2011 a nivel
+nacional, existe una serie de órganos y cuerpos normativos de forzosa
+revisión para la materia de desaparición forzada de personas en el
+estado.</p>
+<p>Analizar estos elementos permite determinar tanto su eficacia como
+las áreas de mejora en ellos. Esta es la base para formular adiciones
+que permitan dar mayor accesibilidad y eficacia a la población en
+general, reformular los cuerpos normativos e incluso reestructurar la
+base operativa con la que se cuenta y, muy posiblemente, crear nuevos
+entes normativos que se adecuen de mejor manera al contexto social del
+estado.</p>
+<p>El primer cuerpo normativo que debe analizarse es la Ley para
+Prevenir y Sancionar la Desaparición Forzada de Personas en el Estado de
+Guerrero Número 569, creada en 2005 como una respuesta del Congreso del
+Estado al elevado número de desapariciones, a los casos de brutalidad
+policiaca y a las torturas que sufrían los detenidos en las fiscalías
+del estado.</p>
+<p>Sería mediante esta ley como se establecería una definición
+armonizada con los tratados internacionales en materia de desaparición
+forzada al hecho ilícito, mediante su artículo primero, el cual
+establece lo siguiente:</p>
+<p>ARTÍCULO 3.- Comete el delito de desaparición forzada de personas el
+servidor público que en ejercicio de sus atribuciones o con motivo de
+ellas detenga, prive de la libertad y mantenga oculta a una o más
+personas, o bien autorice, apoye o consienta que otros lo hagan,
+cualesquiera que sea el método y motivación utilizados, sin reconocer la
+existencia de tal privación o niegue información fidedigna sobre el
+paradero de la o de las víctimas, impidiendo con ello el ejercicio de
+los recursos legales y las garantías procesales procedentes.</p>
+<p>Serán igualmente considerados como sujetos activos del delito de
+desaparición forzada de personas, aquellas personas que aun cuando no
+sean formalmente autoridades ni funcionarios, actúen aprovechando la
+autorización, el apoyo o la aquiescencia de funcionarios
+públicos.<xref ref-type="fn" rid="fn27"><sup>27</sup></xref></p>
+<p>En teoría, el texto resulta adecuado para identificar sujetos
+partícipes y adecuar políticas públicas que respondan a sus
+particularidades. En pocas palabras, la definición ofrece una
+adaptabilidad suficiente del concepto a la realidad social. Sin embargo,
+al analizar los 27 artículos que constituyen este cuerpo normativo,
+puede advertirse que este se centra en cuestiones punitivas y presentar
+agravantes, a pesar de facultar a la fiscalía general de Justicia del
+Estado para proveer protección a los sujetos agraviados y demás personas
+involucradas, que por su situación se consideren en riesgo.</p>
+<p>No se hace mención clara de medidas de prevención o procedimientos en
+los que pueda brindarse una atención pronta a los denunciantes ni se
+entra a detalle en la interposición de las denuncias y diligencias
+derivadas de esta. Se menciona de manera breve a la Comisión de Derechos
+Humanos y se le faculta para ofrecer asistencia en la denuncia, pero no
+se le incluye como parte de las diligencias, simplemente emite notas
+administrativas sin un peso determinante para las instituciones y asiste
+de manera similar a un asesor legal en el proceso de denuncia ante los
+ministerios públicos. Estos últimos se encargan de las diligencias de
+búsqueda.</p>
+<p>En términos de la reparación del daño, se menciona la obligatoriedad
+para los juzgadores de contemplar la reparación del daño como un aspecto
+principal en sus resoluciones, siempre tomando en cuenta la magnitud del
+daño al núcleo familiar de la persona desaparecida, así como el impacto
+que genera en los diferentes ámbitos en los que la víctima se
+desarrollaba. De igual manera, resulta bastante acertado el artículo 25,
+en el cual se le da carácter de víctima a aquellas personas relacionadas
+directamente con el sujeto desaparecido o a quienes sufrieron algún
+perjuicio tratando de evitar el acto mediante instancias jurídicas o
+medios materiales. El reconocimiento del carácter de víctima en este
+apartado resulta bastante útil para cuestiones de justicia reparativa,
+pero no se mencionan los medios de reparación ni se dan criterios para
+determinarlos.</p>
+</sec><sec><title>IX. La búsqueda de personas: entre la institucionalidad y la</title>
+<p>La búsqueda de desaparecidos representa uno de los retos más
+complejos dentro de la problemática, tanto por la celeridad procesal
+requerida dentro de estos procesos como por la complejidad que supone la
+búsqueda en un estado con la geografía de Guerrero. A ello se suman los
+obstáculos que implica el actuar en contra de los intereses de actores
+con un poder tan grande como el que, se puede inferir, poseen los grupos
+de crimen organizado en conjunción con las autoridades.</p>
+<p>Para la tarea de la búsqueda de personas, la fiscalía del estado
+cuenta con un protocolo especial que fue creado en 2014, este presenta
+generalidades sobre la denuncia y la recopilación de datos
+correspondientes en torno al sujeto
+desaparecido<xref ref-type="fn" rid="fn28"><sup>28</sup></xref>, además de facultar
+al ministerio público para realizar una serie de diligencias muy
+específicas en casos muy puntuales.</p>
+<p>Este manual, si bien da las pautas y formularios necesarios para
+contextualizar al sujeto privado de la libertad —es decir, saber a qué
+grupo poblacional pertenece, el contexto en el que se desenvuelve y, por
+ende, determinar posibles causas y actores en base a los testimonios del
+denunciante y los informes solicitados—, no establece la forma ni los
+términos para la búsqueda del individuo. Se limita a enunciar la
+facultad del ministerio público para llevar a cabo aquellas que
+considere pertinentes, lo cual, según el punto de vista del autor, puede
+derivar en ambigüedades que ponen en riesgo la celeridad y la forma de
+las diligencias.</p>
+<p>En síntesis, el mencionado manual ofrece los elementos necesarios
+para la identificación y perfilación del sujeto desaparecido, pero
+aborda de manera muy superficial los elementos prácticos de la búsqueda,
+ya que no se hace mención del trato que debe dársele al denunciante ni
+se dan pautas precisas para la práctica de diligencias.</p>
+</sec><sec><title>X. El diálogo entre el estado y las víctimas</title>
+<p>El estado de Guerrero, desde los casos presentados durante el periodo
+de la guerra sucia hasta tiempos contemporáneos, se ha caracterizado por
+una falta de diálogo y compromiso político para con las víctimas. Esta
+carencia se expone en las numerosas manifestaciones donde las familias
+de las víctimas exigen diálogos con los mandatarios del estado; cuando
+estos no ofrecen respuestas positivas o, mínimamente, una apertura al
+diálogo, generan un descontento social que escala a manifestaciones
+dirigidas a las autoridades federales.</p>
+<p>En tiempos recientes, o, mejor dicho, en cada aniversario, las
+familias de los 43 estudiantes normalistas de Guerrero se han
+manifestado con el fin de exigir diálogo con el jefe de Estado
+mexicano<xref ref-type="fn" rid="fn29"><sup>29</sup></xref> para exponer la
+ineficacia de las instancias a nivel local y federal. Dentro de esta
+manifestación se hace evidente la falta de diálogo entre el gobierno en
+todos sus niveles y las víctimas, así como la falta de resolución y
+justicia reparativa a once años de la desaparición de
+los estudiantes.</p>
+<p>Así mismo, el incumplimiento de sentencias condenatorias emitidas por
+la Corte Interamericana de Derechos Humanos muestra una indolencia y la
+desatención de las responsabilidades propias de un Estado constitucional
+por parte de las administraciones gubernamentales de la década de los 70
+hasta la actual administración de la presidenta Claudia Sheinbaum. La
+Comisión Mexicana de Defensa y Promoción de los Derechos Humanos reporta
+que, en el caso específico de la sentencia condenatoria contra el Estado
+mexicano por el caso Radilla Pacheco, no ha habido avances
+significativos en la búsqueda del
+catedrático.<xref ref-type="fn" rid="fn30"><sup>30</sup></xref></p>
+<p>Además, durante la audiencia entre dicho organismo, la familia del
+pedagogo, la Corte Interamericana de Derechos Humanos y representantes
+del Estado mexicano, se dejaron ver aspectos importantes. En primer
+lugar, la falta de interés por parte del Estado en reconocer su
+responsabilidad y la problemática de desaparición forzada a nivel
+nacional; consecuentemente, el incumplimiento de la sentencia, así como
+la falta de avances en materia de búsqueda y justicia reparativa para
+las familias. Una de las conclusiones más preocupantes derivadas de este
+encuentro fue la falta de coordinación entre los entes del Estado y la
+falta de esfuerzos conjuntos entre ellos para el esclarecimiento de este
+tipo de casos, incluso con la presión internacional que se supondría que
+lleva consigo una sentencia de la Corte Interamericana.</p>
+<p>En otros aspectos, este encuentro tuvo un punto positivo. A pesar de
+las falencias mencionadas anteriormente, la participación de la Comisión
+Nacional de Derechos Humanos fue relevante, ya que el organismo
+reconoció de manera explícita el incumplimiento generalizado de la
+sentencia, la revictimización y la falta de diálogo que enfrentan las
+familias de los desaparecidos en México. Si bien la CNDH, al estar
+descentralizada del Estado y no poseer atribuciones punitivas, no supone
+un peso mayor para las entidades estatales. El hecho de que enuncie las
+falencias, omisiones y negligencias en este caso emblemático, muestra un
+ligero avance en cuanto al reconocimiento de la responsabilidad estatal
+frente a la desaparición forzada.</p>
+</sec><sec sec-type="conclusions"><title>XI. Conclusiones</title>
+<p>La fenomenología de la desaparición forzada en Guerrero constituye
+una realidad social, histórica y jurídica demasiado compleja. Se trata
+de un universo con décadas de casos sin respuesta y sin ninguna clase de
+justicia reparativa para una colectividad fracturada y estigmatizada que
+constantemente choca con un gobierno que no está abierto al diálogo ni
+al reconocimiento de sus responsabilidades para con este sector de la
+población.</p>
+<p>Si bien el marco jurídico estatal y nacional ha sido armonizado con
+los convenios internacionales contra la desaparición forzada, y los
+derechos humanos ya están plenamente establecidos en el marco
+constitucional, muy poco ha sido el avance en el campo de los hechos. No
+se han presentado respuestas satisfactorias a casos emblemáticos que se
+han colocado en el escrutinio del derecho internacional. La justicia
+reparativa no llega a las familias, a pesar de que estas obtuvieron el
+reconocimiento de su carácter de víctima en 2022, como parte de las
+reformas en materia de derechos humanos y desaparición forzada. Esto
+muestra una falta de compromiso por parte de las instituciones para
+reconocer su responsabilidad, o al menos la complicidad que ha existido
+en un número significativo de estos casos.</p>
+<p>La falta de reconocimiento de la complicidad y la responsabilidad del
+Estado ante la ciudadanía supone una gran dificultad para depurar los
+órganos de gobierno a futuro y desvincularlos de las relaciones
+existentes entre estos y el crimen organizado. Una política como la que
+manejó la administración del expresidente López Obrador no es idónea
+para reconocer las vinculaciones entre el Estado y los actores del
+crimen organizado. Difícilmente, una política de esta naturaleza podría
+establecer estrategias de lucha directa tanto institucional, al depurar
+los órganos del Estado, como en el aspecto de la lucha contra el
+narcotráfico.</p>
+<p>Otra de las falencias de las políticas actuales en torno a la
+materia, y quizá una de las fallas más graves y constantes en las
+distintas administraciones que ha tenido el estado de Guerrero —y el
+país en general—, es la falta de diálogo entre los colectivos de
+familias y el gobierno. Sin un diálogo abierto que se traduzca en
+compromisos que surtan efectos en la realidad práctica, muy difícilmente
+se llegará a términos de justicia reparativa. En pocas palabras, los
+principales problemas del Estado mexicano son no reconocer la falta de
+eficacia y coordinación entre sus distintos órganos, la complicidad con
+los grupos del crimen organizado y las consecuencias devastadoras que
+produce la desaparición forzada de personas.</p>
+<p>Hay mucho por hacer, sí, y debe ser una tarea conjunta entre la
+sociedad y el gobierno. El objetivo principal será que el gobierno
+detenga la impunidad, investigue y resuelva los crímenes; se castigue a
+los perpetradores para que se les brinde justicia a las víctimas, los
+familiares y amigos. Si esto no es suficiente, que jurídicamente se le
+reconozca a la sociedad como sujeto de derechos, a fin de obligar al
+Estado a cumplir con sus obligaciones o, de lo contrario, asumir las
+consecuencias de su inacción y falta de compromiso para garantizar los
+derechos humanos en Guerrero y en México.</p>
+</sec></body>
 <back>
-<ref-list>
-<title>XII. Referencias bibliográficas</title>
-<ref id="B1">
-<mixed-citation>Avilés, Eva. “Comunicado, cinismo y actuar criminal: el Estado mexicano se queda sin respuestas ante la Corte Interamericana, en Audiencia Radilla Pacheco”, <italic>cmdph</italic>, 15 de marzo de 2023. <ext-link ext-link-type="uri" xlink:href="https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/">https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<name>
-<surname>Avilés</surname>
-<given-names>Eva</given-names>
-</name>
-</person-group>
-<article-title>Comunicado, cinismo y actuar criminal: el Estado mexicano se queda sin respuestas ante la Corte Interamericana, en Audiencia Radilla Pacheco</article-title>
-<source>cmdph</source>
-<day>15</day>
-<month>03</month>
-<year>2023</year>
-<ext-link ext-link-type="uri" xlink:href="https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/">https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/</ext-link>
-</element-citation>
-</ref>
-<ref id="B2">
-<mixed-citation>Cámara de diputados del H congreso de la unión. Ley General en Materia de Desaparición Forzada de Personas. Ciudad de México: Congreso de la unión, 2017.</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>Cámara de diputados del H congreso de la unión</collab>
-</person-group>
-<source>Ley General en Materia de Desaparición Forzada de Personas</source>
-<publisher-loc>Ciudad de México</publisher-loc>
-<publisher-name>Congreso de la unión</publisher-name>
-<year>2017</year>
-</element-citation>
-</ref>
-<ref id="B3">
-<mixed-citation>Chávez León, Óscar Danilo. <italic>Problemas actuales del derecho penal Vol. II. Análisis del delito de desaparición forzada</italic>. Valencia: Tirant lo Blanch, 2019.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Chávez León</surname>
-<given-names>Óscar Danilo</given-names>
-</name>
-</person-group>
-<source>Problemas actuales del derecho penal Vol. II. Análisis del delito de desaparición forzada</source>
-<publisher-loc>Valencia</publisher-loc>
-<publisher-name>Tirant lo Blanch</publisher-name>
-<year>2019</year>
-</element-citation>
-</ref>
-<ref id="B4">
-<mixed-citation>Cienfuegos Salgado, David. “La exhibición de personas o <italic>hábeas corpus</italic> en Aguascalientes, Colima, Guerrero y Puebla”. <italic>De Jure</italic>, n.<sup>o</sup>6 (2011).</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Cienfuegos Salgado</surname>
-<given-names>David</given-names>
-</name>
-</person-group>
-<article-title>La exhibición de personas o hábeas corpus en Aguascalientes, Colima, Guerrero y Puebla</article-title>
-<source>De Jure</source>
-<issue>6</issue>
-<year>2011</year>
-</element-citation>
-</ref>
-<ref id="B5">
-<mixed-citation>Cienfuegos Salgado, David. <italic>Un amparo local habeas corpus: el recurso extraordinario de exhibición de personas en el estado de Guerrero</italic>. Ed. por Manuel González Oropeza y Eduardo Ferrer MacGregor. Ciudad de México: Universidad Nacional Autónoma de México, 2019.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Cienfuegos Salgado</surname>
-<given-names>David</given-names>
-</name>
-</person-group>
-<source>Un amparo local habeas corpus: el recurso extraordinario de exhibición de personas en el estado de Guerrero</source>
-<person-group person-group-type="editor">
-<name>
-<surname>González Oropeza</surname>
-<given-names>Manuel</given-names>
-</name>
-<name>
-<surname>Ferrer MacGregor</surname>
-<given-names>Eduardo</given-names>
-</name>
-</person-group>
-<publisher-loc>Ciudad de México</publisher-loc>
-<publisher-name>Universidad Nacional Autónoma de México</publisher-name>
-<year>2019</year>
-</element-citation>
-</ref>
-<ref id="B6">
-<mixed-citation>CNDH. “Informe Especial sobre la situación que en materia de personas desaparecidas y delitos vinculados impera en el Municipio de Chilapa de Álvarez, Guerrero”. <ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos">https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>CNDH</collab>
-</person-group>
-<source>Informe Especial sobre la situación que en materia de personas desaparecidas y delitos vinculados impera en el Municipio de Chilapa de Álvarez, Guerrero</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos">https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos</ext-link>
-</element-citation>
-</ref>
-<ref id="B7">
-<mixed-citation>Consejería jurídica del poder ejecutivo. 19 de diciembre de 2014. Obtenido de <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf">https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<source>Consejería jurídica del poder ejecutivo</source>
-<day>19</day>
-<month>12</month>
-<year>2014</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf">https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B8">
-<mixed-citation>Díaz Cossío, J. R. “Algunas notas sobre el caso Rosendo Radilla Pacheco”, <italic>Anuario Mexicano de Derecho Internacional</italic>, (2014): 803-834. https://doi.org/10.1016/S1870-4654(14)70022-4</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Díaz Cossío</surname>
-<given-names>J. R</given-names>
-</name>
-</person-group>
-<article-title>Algunas notas sobre el caso Rosendo Radilla Pacheco</article-title>
-<source>Anuario Mexicano de Derecho Internacional</source>
-<year>2014</year>
-<fpage>803</fpage>
-<lpage>834</lpage>
-<pub-id pub-id-type="doi">10.1016/S1870-4654(14)70022-4</pub-id>
-</element-citation>
-</ref>
-<ref id="B9">
-<mixed-citation>Ehrlich, Eugen. <italic>Grundlegung der Soziologie des Rechts</italic>. München: Duncker &amp; Humblot, 1913.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Ehrlich</surname>
-<given-names>Eugen</given-names>
-</name>
-</person-group>
-<source>Grundlegung der Soziologie des Rechts</source>
-<publisher-loc>München</publisher-loc>
-<publisher-name>Duncker &amp; Humblot</publisher-name>
-<year>1913</year>
-</element-citation>
-</ref>
-<ref id="B10">
-<mixed-citation>Escobar, Amalia. “Proliferan los colectivos de buscadoras: hay 234 en el país”. <italic>El Universal</italic>, 1 de agosto de 2023. <comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.eluniversal.com.mx/estados/proliferan-los-colectivos-de-buscadoras-hay-234-en-el-pais/">https://www.eluniversal.com.mx/estados/proliferan-los-colectivos-de-buscadoras-hay-234-en-el-pais/</ext-link>
-</comment>
-</mixed-citation>
-<element-citation publication-type="newspaper">
-<person-group person-group-type="author">
-<name>
-<surname>Escobar</surname>
-<given-names>Amalia</given-names>
-</name>
-</person-group>
-<article-title>Proliferan los colectivos de buscadoras: hay 234 en el país</article-title>
-<source>El Universal</source>
-<date-in-citation content-type="access-date" iso-8601-date="2023-08-01">1 de agosto de 2023</date-in-citation>
-<comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.eluniversal.com.mx/estados/proliferan-los-colectivos-de-buscadoras-hay-234-en-el-pais/">https://www.eluniversal.com.mx/estados/proliferan-los-colectivos-de-buscadoras-hay-234-en-el-pais/</ext-link>
-</comment>
-</element-citation>
-</ref>
-<ref id="B11">
-<mixed-citation>Friedman, Lawrence M. <italic>The Legal System: A Social Science Perspective</italic>. New York: Russell Sage Foundation, 1975.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Friedman</surname>
-<given-names>Lawrence M</given-names>
-</name>
-</person-group>
-<source>The Legal System: A Social Science Perspective</source>
-<publisher-loc>New York</publisher-loc>
-<publisher-name>Russell Sage Foundation</publisher-name>
-<year>1975</year>
-</element-citation>
-</ref>
-<ref id="B12">
-<mixed-citation>Gamiño Muñoz, Rodolfo. “Fuerzas armadas, contrainsurgencia y desaparición forzada en Guerrero en la década de los sesenta y setenta”. <italic>Letras Históricas</italic>, n.<sup>o</sup> 17 (2017). <ext-link ext-link-type="uri" xlink:href="https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es">https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es</ext-link>
-</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Gamiño Muñoz</surname>
-<given-names>Rodolfo</given-names>
-</name>
-</person-group>
-<article-title>Fuerzas armadas, contrainsurgencia y desaparición forzada en Guerrero en la década de los sesenta y setenta</article-title>
-<source>Letras Históricas</source>
-<issue>17</issue>
-<year>2017</year>
-<ext-link ext-link-type="uri" xlink:href="https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es">https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es</ext-link>
-</element-citation>
-</ref>
-<ref id="B13">
-<mixed-citation>Gobierno del estado de Guerrero. “Ley Para Prevenir y Sancionar la Desaparición Forzada de Personas en el Estado de Guerrero Número 569”. <ext-link ext-link-type="uri" xlink:href="https://www.guerrero.gob.mx/articulo/ley-para-prevenir-y-sancionar-la-desaparicion-forzada-de-personas-en-el-estado-de-guerrero-numero-569/">https://www.guerrero.gob.mx/articulo/ley-para-prevenir-y-sancionar-la-desaparicion-forzada-de-personas-en-el-estado-de-guerrero-numero-569/</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>Gobierno del estado de Guerrero</collab>
-</person-group>
-<source>Ley Para Prevenir y Sancionar la Desaparición Forzada de Personas en el Estado de Guerrero Número 569</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.guerrero.gob.mx/articulo/ley-para-prevenir-y-sancionar-la-desaparicion-forzada-de-personas-en-el-estado-de-guerrero-numero-569/">https://www.guerrero.gob.mx/articulo/ley-para-prevenir-y-sancionar-la-desaparicion-forzada-de-personas-en-el-estado-de-guerrero-numero-569/</ext-link>
-</element-citation>
-</ref>
-<ref id="B14">
-<mixed-citation>Huhle, Rainer. “Non-State Actors of Enforced Disappearance and the UN Convention for the Protection of All Persons from Enforced Disappearance”. <italic>Humanitäres Völkerrecht</italic>, n.<sup>o</sup> 26 (2013).</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Huhle</surname>
-<given-names>Rainer</given-names>
-</name>
-</person-group>
-<article-title>Non-State Actors of Enforced Disappearance and the UN Convention for the Protection of All Persons from Enforced Disappearance</article-title>
-<source>Humanitäres Völkerrecht</source>
-<issue>26</issue>
-<year>2013</year>
-</element-citation>
-</ref>
-<ref id="B15">
-<mixed-citation>López Cárdenas, Carlos Mauricio. <italic>La desaparición forzada de personas en el derecho internacional de los derechos humanos. Estudio de su evolución, concepto y reparación a las víctimas</italic>. Bogotá: Editorial Universidad del Rosario, 2017.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>López Cárdenas</surname>
-<given-names>Carlos Mauricio</given-names>
-</name>
-</person-group>
-<source>La desaparición forzada de personas en el derecho internacional de los derechos humanos. Estudio de su evolución, concepto y reparación a las víctimas</source>
-<publisher-loc>Bogotá</publisher-loc>
-<publisher-name>Editorial Universidad del Rosario</publisher-name>
-<year>2017</year>
-</element-citation>
-</ref>
-<ref id="B16">
-<mixed-citation>Mastrogiovanni, Federico. <italic>Ni vivos ni muertos La desaparición forzada en México como estrategia de terror</italic>. Ciudad de México: Grupo Editorial México, 2014.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Mastrogiovanni</surname>
-<given-names>Federico</given-names>
-</name>
-</person-group>
-<source>Ni vivos ni muertos La desaparición forzada en México como estrategia de terror</source>
-<publisher-loc>Ciudad de México</publisher-loc>
-<publisher-name>Grupo Editorial México</publisher-name>
-<year>2014</year>
-</element-citation>
-</ref>
-<ref id="B17">
-<mixed-citation>Moiré, José Luis. “La desaparición forzada de personas en México”. Congreso en la Ciudad de México, septiembre 2008. <ext-link ext-link-type="uri" xlink:href="https://es.scribd.com/document/262540144/Desaparicion-Forzosa">https://es.scribd.com/document/262540144/Desaparicion-Forzosa</ext-link>
-</mixed-citation>
-<element-citation publication-type="webpage">
-<person-group person-group-type="author">
-<name>
-<surname>Moiré</surname>
-<given-names>José Luis</given-names>
-</name>
-</person-group>
-<article-title>La desaparición forzada de personas en México</article-title>
-<source>Congreso en la Ciudad de México</source>
-<month>09</month>
-<year>2008</year>
-<ext-link ext-link-type="uri" xlink:href="https://es.scribd.com/document/262540144/Desaparicion-Forzosa">https://es.scribd.com/document/262540144/Desaparicion-Forzosa</ext-link>
-</element-citation>
-</ref>
-<ref id="B18">
-<mixed-citation>Nava, Luis Daniel. “Marchas en Guerrero: exigen justicia y aprobar la Ley de Desaparición Forzada”. <italic>Proceso</italic>, 11 de septiembre de 2023. </mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Nava</surname>
-<given-names>Luis Daniel</given-names>
-</name>
-</person-group>
-<article-title>Marchas en Guerrero: exigen justicia y aprobar la Ley de Desaparición Forzada</article-title>
-<source>Proceso</source>
-<day>11</day>
-<month>09</month>
-<year>2023</year>
-</element-citation>
-</ref>
-<ref id="B19">
-<mixed-citation>Naciones Unidas. Derechos Humanos. “El oscuro hito de 100,000 desapariciones refleja un patrón de impunidad, advierten expertos de la ONU”. <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts">https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts </ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>Naciones Unidas</collab>
-</person-group>
-<comment>Derechos Humanos</comment>
-<source>El oscuro hito de 100,000 desapariciones refleja un patrón de impunidad, advierten expertos de la ONU</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts">https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts </ext-link>
-</element-citation>
-</ref>
-<ref id="B20">
-<mixed-citation>ONU. Convención internacional para la protección de todas las personas contra las desapariciones forzadas, 1992.</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>ONU</collab>
-</person-group>
-<source>Convención internacional para la protección de todas las personas contra las desapariciones forzadas</source>
-<year>1992</year>
-</element-citation>
-</ref>
-<ref id="B21">
-<mixed-citation>Pérez Piñón, Francisco Alberto. “La verdad histórica, Ayotzinapa vive”. <italic>Debates por La Historia</italic>, n.<sup>o</sup>1 (2023). https://doi.org/10.54167/debates-por-la-historia.v11i1.1134</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Pérez Piñón</surname>
-<given-names>Francisco Alberto</given-names>
-</name>
-</person-group>
-<article-title>La verdad histórica, Ayotzinapa vive</article-title>
-<source>Debates por La Historia</source>
-<issue>1</issue>
-<year>2023</year>
-<pub-id pub-id-type="doi">10.54167/debates-por-la-historia.v11i1.1134</pub-id>
-</element-citation>
-</ref>
-<ref id="B22">
-<mixed-citation>Pérez, Maritza. “SEGOB reporta 77,171 personas desaparecidas en México al corte de septiembre de 2020”. <italic>El Economista</italic>, 07 de octubre de 2020. <comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.eleconomista.com.mx/politica/Segob-reporta-77171-personas-desaparecidas-en-Mexico-al-corte-de-septiembre-de-2020-20201007-0089.html">https://www.eleconomista.com.mx/politica/Segob-reporta-77171-personas-desaparecidas-en-Mexico-al-corte-de-septiembre-de-2020-20201007-0089.html</ext-link>
-</comment>
-</mixed-citation>
-<element-citation publication-type="newspaper">
-<person-group person-group-type="author">
-<name>
-<surname>Pérez</surname>
-<given-names>Maritza</given-names>
-</name>
-</person-group>
-<article-title>SEGOB reporta 77,171 personas desaparecidas en México al corte de septiembre de 2020</article-title>
-<source>El Economista</source>
-<date-in-citation content-type="access-date" iso-8601-date="2020-10-07">07 de octubre de 2020</date-in-citation>
-<comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.eleconomista.com.mx/politica/Segob-reporta-77171-personas-desaparecidas-en-Mexico-al-corte-de-septiembre-de-2020-20201007-0089.html">https://www.eleconomista.com.mx/politica/Segob-reporta-77171-personas-desaparecidas-en-Mexico-al-corte-de-septiembre-de-2020-20201007-0089.html</ext-link>
-</comment>
-</element-citation>
-</ref>
-<ref id="B23">
-<mixed-citation>Rodríguez González, Jesús David. “Abandono estatal, la desgracia del pueblo”. <italic>Conexión Externado</italic>, 2 de marzo de 2021. <ext-link ext-link-type="uri" xlink:href="https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/">https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/</ext-link>
-</mixed-citation>
-<element-citation publication-type="newspaper">
-<person-group person-group-type="author">
-<name>
-<surname>Rodríguez González</surname>
-<given-names>Jesús David</given-names>
-</name>
-</person-group>
-<article-title>Abandono estatal, la desgracia del pueblo</article-title>
-<source>Conexión Externado</source>
-<day>02</day>
-<month>03</month>
-<year>2021</year>
-<ext-link ext-link-type="uri" xlink:href="https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/">https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/</ext-link>
-</element-citation>
-</ref>
-<ref id="B24">
-<mixed-citation>Santos Cid, Alejandro. “La rabia de los familiares de los 43 de Ayotzinapa: ‘El Gobierno se ha colocado del lado del Ejército’”. <italic>El País</italic>, 26 de septiembre de 2023. <comment>
-<ext-link ext-link-type="uri" xlink:href="https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html">https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html</ext-link>
-</comment>
-</mixed-citation>
-<element-citation publication-type="newspaper">
-<person-group person-group-type="author">
-<name>
-<surname>Santos Cid</surname>
-<given-names>Alejandro</given-names>
-</name>
-</person-group>
-<article-title>La rabia de los familiares de los 43 de Ayotzinapa: ‘El Gobierno se ha colocado del lado del Ejército’</article-title>
-<source>El País</source>
-<date-in-citation content-type="access-date" iso-8601-date="2023-09-26">26 de septiembre de 2023</date-in-citation>
-<comment>
-<ext-link ext-link-type="uri" xlink:href="https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html">https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html</ext-link>
-</comment>
-</element-citation>
-</ref>
-<ref id="B25">
-<mixed-citation>Silbey, Susan S. <italic>Legal Cultures and Cultures of Legality</italic>. New York: Routledge, 2010.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Silbey</surname>
-<given-names>Susan S</given-names>
-</name>
-</person-group>
-<source>Legal Cultures and Cultures of Legality</source>
-<publisher-loc>New York</publisher-loc>
-<publisher-name>Routledge</publisher-name>
-<year>2010</year>
-</element-citation>
-</ref>
-<ref id="B26">
-<mixed-citation>Tlachinollan, Centro de Derechos Humanos de la Montaña. “Guerrero: territorio de personas desaparecidas”. <ext-link ext-link-type="uri" xlink:href="https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/">https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/</ext-link>
-</mixed-citation>
-<element-citation publication-type="newspaper">
-<person-group person-group-type="author">
-<collab>Tlachinollan, Centro de Derechos Humanos de la Montaña</collab>
-</person-group>
-<source>Guerrero: territorio de personas desaparecidas</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/">https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/</ext-link>
-</element-citation>
-</ref>
-<ref id="B27">
-<mixed-citation>Zavaleta, Noé. <italic>Las Buscadoras: Madres que buscan personas desaparecidas en México. Ciudad de México</italic>. México: HarperCollins, 2023.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Zavaleta</surname>
-<given-names>Noé</given-names>
-</name>
-</person-group>
-<source>Las Buscadoras: Madres que buscan personas desaparecidas en México. Ciudad de México</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>HarperCollins</publisher-name>
-<year>2023</year>
-</element-citation>
-</ref>
-</ref-list>
 <fn-group>
+
+
+
 <fn fn-type="other" id="fn1">
-<label>1</label>
-<p>
-<xref ref-type="bibr" rid="B17">José Luis Moiré</xref>, “La desaparición forzada de personas en México” (congreso, Congreso de la Unión, septiembre 2008), 6.</p>
+<label>1</label><p>José Luis Moiré, “La desaparición forzada de
+    personas en México” (congreso, Congreso de la Unión, septiembre
+    2008), 6.</p>
 </fn>
 <fn fn-type="other" id="fn2">
-<label>2</label>
-<p>
-<xref ref-type="bibr" rid="B15">Carlos Mauricio López Cárdenas</xref>, <italic>La desaparición forzada de personas en el derecho internacional de los derechos humanos. Estudio de su evolución, concepto y reparación a las víctimas</italic> (Bogotá: Editorial Universidad del Rosario, 2017), 200.</p>
+<label>2</label><p>Carlos Mauricio López Cárdenas, <italic>La
+    desaparición forzada de personas en el derecho internacional de los
+    derechos humanos. Estudio de su evolución, concepto y reparación a
+    las víctimas</italic> (Bogotá: Editorial Universidad del Rosario,
+    2017), 200.</p>
 </fn>
 <fn fn-type="other" id="fn3">
-<label>3</label>
-<p>Ley General en Materia de Desaparición Forzada de Personas, 17 de noviembre de 2017, <xref ref-type="bibr" rid="B2">Cámara de diputados del H. Congreso de la Unión</xref>.</p>
+<label>3</label><p>Ley General en Materia de Desaparición Forzada de
+    Personas, 17 de noviembre de 2017, Cámara de diputados del H.
+    Congreso de la Unión.</p>
 </fn>
 <fn fn-type="other" id="fn4">
-<label>4</label>
-<p>
-<xref ref-type="bibr" rid="B20">ONU</xref>. Convención internacional para la protección de todas las personas contra las desapariciones forzadas, 18 de diciembre de 1992.</p>
+<label>4</label><p>ONU. Convención internacional para la protección
+    de todas las personas contra las desapariciones forzadas, 18 de
+    diciembre de 1992.</p>
 </fn>
 <fn fn-type="other" id="fn5">
-<label>5</label>
-<p>
-<xref ref-type="bibr" rid="B14">Rainer Huhle</xref>, “Non-State Actors of Enforced Disappearance and the UN Convention for the Protection of All Persons from Enforced Disappearance”, <italic>Humanitäres Völkerrecht</italic>, n.<sup>o</sup> 26 (2013): 21-26. <ext-link ext-link-type="uri" xlink:href="https://www.academia.edu/71021556/Disappearances_in_Mexico_From_the_Dirty_War_to_the_War_on_Drugs">https://www.academia.edu/71021556/Disappearances_in_Mexico_From_the_Dirty_War_to_the_War_on_Drugs</ext-link>
-</p>
+<label>5</label><p>Rainer Huhle, “Non-State Actors of Enforced
+    Disappearance and the UN Convention for the Protection of All
+    Persons from
+    Enforced Disappearance”, <italic>Humanitäres Völkerrecht</italic>, n.<sup>o </sup>26 (2013): 21-26.
+    <ext-link ext-link-type="uri" xlink:href="https://www.academia.edu/71021556/Disappearances_in_Mexico_From_the_Dirty_War_to_the_War_on_Drugs">https://www.academia.edu/71021556/Disappearances_in_Mexico_From_the_Dirty_War_to_the_War_on_Drugs</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn6">
-<label>6</label>
-<p><italic>Ibidem</italic>.</p>
+<label>6</label><p><italic>Ibidem</italic>.</p>
 </fn>
 <fn fn-type="other" id="fn7">
-<label>7</label>
-<p>
-<xref ref-type="bibr" rid="B3">Óscar Danilo Chávez León</xref>, <italic>Problemas actuales del derecho penal Vol.II. Análisis del delito de desaparición forzada</italic> (Valencia: Tirant lo Blanch, 2019), 155.</p>
+<label>7</label><p>Óscar Danilo Chávez León, <italic>Problemas
+    actuales del derecho penal Vol.II. Análisis del delito de
+    desaparición forzada</italic> (Valencia: Tirant lo Blanch, 2019),
+    155.</p>
 </fn>
 <fn fn-type="other" id="fn8">
-<label>8</label>
-<p>
-<xref ref-type="bibr" rid="B23">Jesús David Rodríguez González</xref>. “Abandono estatal, la desgracia del pueblo”, <italic>Conexión Externado</italic>, 2 de marzo de 2021, <ext-link ext-link-type="uri" xlink:href="https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/">https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/</ext-link>
-</p>
+<label>8</label><p>Jesús David Rodríguez González. “Abandono
+    estatal, la desgracia del pueblo”, <italic>Conexión
+    Externado</italic>, 2 de marzo de 2021,
+    <ext-link ext-link-type="uri" xlink:href="https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/">https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn9">
-<label>9</label>
-<p>
-<xref ref-type="bibr" rid="B11">Lawrence M. Friedman</xref>, <italic>The Legal System: A Social Science Perspective</italic> (New York: Russell Sage Foundation, 1975), 170.</p>
+<label>9</label><p>Lawrence M. Friedman, <italic>The Legal System:
+    A Social Science Perspective</italic> (New York: Russell Sage
+    Foundation, 1975), 170.</p>
 </fn>
 <fn fn-type="other" id="fn10">
-<label>10</label>
-<p>
-<xref ref-type="bibr" rid="B25">Susan S. Silbey</xref>, <italic>Legal Cultures and Cultures of Legality</italic> (New York: Routledge, 2010), 471-472.</p>
+<label>10</label><p>Susan S. Silbey, <italic>Legal Cultures and
+    Cultures of Legality</italic> (New York: Routledge, 2010),
+    471-472.</p>
 </fn>
 <fn fn-type="other" id="fn11">
-<label>11</label>
-<p>
-<xref ref-type="bibr" rid="B9">Eugen Ehrlich</xref>, <italic>Grundlegung der soziologie des rechts</italic> (München: Duncker &amp; Humblot, 1913), 399.</p>
+<label>11</label><p>Eugen Ehrlich, <italic>Grundlegung der
+    soziologie des rechts</italic> (München: Duncker &amp; Humblot,
+    1913), 399.</p>
 </fn>
 <fn fn-type="other" id="fn12">
-<label>12</label>
-<p>
-<xref ref-type="bibr" rid="B12">Rodolfo Gamiño Muñoz</xref>, “Fuerzas armadas, contrainsurgencia y desaparición forzada en Guerrero en la década de los sesenta y setenta”, <italic>Letras Históricas</italic>, n.<sup>o</sup> 17 (2017): 188. <ext-link ext-link-type="uri" xlink:href="https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es">https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es</ext-link>
-</p>
+<label>12</label><p>Rodolfo Gamiño Muñoz, “Fuerzas armadas,
+    contrainsurgencia y desaparición forzada en Guerrero en la década de
+    los sesenta y setenta”, <italic>Letras Históricas</italic>,
+    n.<sup>o</sup> 17 (2017): 188.
+    <ext-link ext-link-type="uri" xlink:href="https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es">https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn13">
-<label>13</label>
-<p>
-<xref ref-type="bibr" rid="B12">Rodolfo Gamiño Muñoz</xref>, “Fuerzas armadas, contrainsurgencia y desaparición…”: 198.</p>
+<label>13</label><p>Rodolfo Gamiño Muñoz, “Fuerzas armadas,
+    contrainsurgencia y desaparición…”: 198.</p>
 </fn>
 <fn fn-type="other" id="fn14">
-<label>14</label>
-<p>
-<xref ref-type="bibr" rid="B8">Juan Ramón Cossío Díaz</xref>, “Algunas notas sobre el caso Rosendo Radilla Pacheco”, <italic>Anuario Mexicano de Derecho Internacional</italic>, (2014): 803-834. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S1870-4654(14)70022-4">https://doi.org/10.1016/S1870-4654(14)70022-4</ext-link>
-</p>
+<label>14</label><p>Juan Ramón Cossío Díaz, “Algunas notas sobre el
+    caso Rosendo Radilla Pacheco”, <italic>Anuario Mexicano de Derecho
+    Internacional</italic>, (2014): 803-834.
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S1870-4654(14)70022-4">https://doi.org/10.1016/S1870-4654(14)70022-4</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn15">
-<label>15</label>
-<p>
-<xref ref-type="bibr" rid="B21">Francisco Alberto Pérez Piñón</xref>, “La Verdad histórica, Ayotzinapa vive”, <italic>Debates por la Historia</italic>, n.<sup>o</sup> 1 (2023): 7-17. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.54167/debates-por-la-historia.v11i1.1134">https://doi.org/10.54167/debates-por-la-historia.v11i1.1134</ext-link>
-</p>
+<label>15</label><p>Francisco Alberto Pérez Piñón, “La Verdad
+    histórica, Ayotzinapa vive”, <italic>Debates por la
+    Historia</italic>, n.<sup>o</sup> 1 (2023): 7-17.
+    <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.54167/debates-por-la-historia.v11i1.1134">https://doi.org/10.54167/debates-por-la-historia.v11i1.1134</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn16">
-<label>16</label>
-<p>“Informe especial sobre la situación que en materia de personas desaparecidas y delitos vinculados impera en el municipio de Chilapa de Álvarez, Guerrero”, <xref ref-type="bibr" rid="B6">CNDH</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos">https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos</ext-link>
-</p>
+<label>16</label><p>“Informe especial sobre la situación que en
+    materia de personas desaparecidas y delitos vinculados impera en el
+    municipio de Chilapa de Álvarez, Guerrero”, CNDH,
+    <ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos">https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn17">
-<label>17</label>
-<p>
-<xref ref-type="bibr" rid="B18">Luis Daniel Nava</xref>, “Marchas en Guerrero: exigen justicia y aprobar la Ley de Desaparición Forzada”, <italic>Proceso</italic> 11 de septiembre de 2023, <ext-link ext-link-type="uri" xlink:href="https://www.proceso.com.mx/nacional/estados/2023/8/30/marchas-en-guerrero-exigen-justicia-aprobar-la-ley-de-desaparicion-forzada-videos-313917.html">https://www.proceso.com.mx/nacional/estados/2023/8/30/marchas-en-guerrero-exigen-justicia-aprobar-la-ley-de-desaparicion-forzada-videos-313917.html</ext-link>
-</p>
+<label>17</label><p>Luis Daniel Nava, “Marchas en Guerrero: exigen
+    justicia y aprobar la Ley de Desaparición Forzada”,
+    <italic>Proceso</italic> 11 de septiembre de 2023,
+    <ext-link ext-link-type="uri" xlink:href="https://www.proceso.com.mx/nacional/estados/2023/8/30/marchas-en-guerrero-exigen-justicia-aprobar-la-ley-de-desaparicion-forzada-videos-313917.html">https://www.proceso.com.mx/nacional/estados/2023/8/30/marchas-en-guerrero-exigen-justicia-aprobar-la-ley-de-desaparicion-forzada-videos-313917.html</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn18">
-<label>18</label>
-<p>Federico Mastrogiovani, <italic>Ni vivos ni muertos. La desaparición forzada en México como estrategia de terro</italic>r (Ciudad de México: Grupo Editorial México, 2014), 76.</p>
+<label>18</label><p>Federico Mastrogiovani, <italic>Ni vivos ni
+    muertos. La desaparición forzada en México como estrategia de
+    terro</italic>r (Ciudad de México: Grupo Editorial México, 2014),
+    76.</p>
 </fn>
 <fn fn-type="other" id="fn19">
-<label>19</label>
-<p>“El oscuro hito de 100,000 desapariciones refleja un patrón de impunidad, advierten expertos de la ONU”, <xref ref-type="bibr" rid="B19">Naciones Unidas</xref>. Derechos Humanos, <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts">https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts</ext-link>
-</p>
+<label>19</label><p>“El oscuro hito de 100,000 desapariciones
+    refleja un patrón de impunidad, advierten expertos de la ONU”,
+    Naciones Unidas. Derechos Humanos,
+    <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts%20">https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn20">
-<label>20</label>
-<p>
-<xref ref-type="bibr" rid="B22">Maritza Pérez</xref>, “SEGOB reporta 77,171 personas desaparecidas en México al corte de septiembre de 2020”, <italic>El Economista</italic>, 7 de octubre de 2020, acceso el 12 de diciembre de 2024.</p>
+<label>20</label><p>Maritza Pérez, “SEGOB reporta 77,171 personas
+    desaparecidas en México al corte de septiembre de 2020”, <italic>El
+    Economista</italic>, 7 de octubre de 2020, acceso el 12 de diciembre
+    de 2024.</p>
 </fn>
 <fn fn-type="other" id="fn21">
-<label>21</label>
-<p>
-<xref ref-type="bibr" rid="B10">Amalia Escobar</xref>, “Proliferan los colectivos de buscadoras: hay 234 en el país”, 1 de agosto de 2023.</p>
+<label>21</label><p>Amalia Escobar, “Proliferan los colectivos de
+    buscadoras: hay 234 en el país”, 1 de agosto de 2023.</p>
 </fn>
 <fn fn-type="other" id="fn22">
-<label>22</label>
-<p><italic>“Guerrero: territorio de personas desaparecidas”</italic>, <xref ref-type="bibr" rid="B26">Tlachinollan</xref>, Centro de derechos humanos de la montaña, acceso el 20 de diciembre de 2024, <ext-link ext-link-type="uri" xlink:href="https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/">https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/</ext-link>
-</p>
+<label>22</label><p><italic>“Guerrero: territorio de personas
+    desaparecidas”</italic>, Tlachinollan, Centro de derechos humanos de
+    la montaña, acceso el 20 de diciembre de 2024,
+    <ext-link ext-link-type="uri" xlink:href="https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/">https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn23">
-<label>23</label>
-<p>
-<xref ref-type="bibr" rid="B27">Noé Zavaleta</xref>, <italic>Las Buscadoras, Madres que buscan personas desaparecidas en México</italic> (Ciudad de México: Harper Collins, 2023), 20.</p>
+<label>23</label><p>Noé Zavaleta, <italic>Las Buscadoras, Madres que
+    buscan personas desaparecidas en México</italic> (Ciudad de México:
+    Harper Collins, 2023), 20.</p>
 </fn>
 <fn fn-type="other" id="fn24">
-<label>24</label>
-<p>
-<xref ref-type="bibr" rid="B27">Noé Zavaleta</xref>, <italic>Las Buscadoras, Madres que buscan…</italic></p>
+<label>24</label><p>Noé Zavaleta, <italic>Las Buscadoras, Madres que
+    buscan…</italic></p>
 </fn>
 <fn fn-type="other" id="fn25">
-<label>25</label>
-<p>
-<xref ref-type="bibr" rid="B5">David Cienfuegos Salgado</xref>, <italic>Un amparo local habeas corpus: el recurso extraordinario de exhibición de personas en el estado de Guerrero</italic>. Coord. por Manuel González Oropeza y Eduardo Ferrer Mac-Gregor (Ciudad de México: Universidad Nacional Autónoma de México, 2019), 173-177.</p>
+<label>25</label><p>David Cienfuegos Salgado, <italic>Un amparo
+    local habeas corpus: el recurso extraordinario de exhibición de
+    personas en el estado de Guerrero</italic>. Coord. por Manuel
+    González Oropeza y Eduardo Ferrer Mac-Gregor (Ciudad de México:
+    Universidad Nacional Autónoma de México, 2019), 173-177.</p>
 </fn>
 <fn fn-type="other" id="fn26">
-<label>26</label>
-<p>
-<xref ref-type="bibr" rid="B4">David Cienfuegos Salgado</xref>, “La exhibición de personas o <italic>habeas corpus</italic> en Aguascalientes, Colima, Guerrero y Puebla”, <italic>De Jure</italic>, n.<sup>o</sup> 6 (2011.): 90.</p>
+<label>26</label><p>David Cienfuegos Salgado, “La exhibición de
+    personas o <italic>habeas</italic> <italic>corpus</italic> en
+    Aguascalientes, Colima, Guerrero y Puebla”, <italic>De
+    Jure</italic>, n.<sup>o</sup> 6 (2011.): 90.</p>
 </fn>
 <fn fn-type="other" id="fn27">
-<label>27</label>
-<p>Ley para Prevenir y Sancionar la Desaparición Forzada de Personas en el Estado de Guerrero Número 569, 14 de octubre 2005.</p>
+<label>27</label><p>Ley para Prevenir y Sancionar la Desaparición
+    Forzada de Personas en el Estado de Guerrero Número 569, 14 de
+    octubre 2005.</p>
 </fn>
 <fn fn-type="other" id="fn28">
-<label>28</label>
-<p>
-<xref ref-type="bibr" rid="B7">Consejería jurídica del poder ejecutivo</xref>. 19 de diciembre de 2014. Obtenido de <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf">https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf</ext-link>
-</p>
+<label>28</label><p>Consejería jurídica del poder ejecutivo. 19 de
+    diciembre de 2014. Obtenido de
+    <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf">https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn29">
-<label>29</label>
-<p>
-<xref ref-type="bibr" rid="B24">Alejandro Santos Cid</xref>, “La rabia de los familiares de los 43 de Ayotzinapa: ‘El Gobierno se ha colocado del lado del Ejército’”, <italic>El País</italic>, 26 de septiembre de 2023, <ext-link ext-link-type="uri" xlink:href="https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html">https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html</ext-link>
-</p>
+<label>29</label><p>Alejandro Santos Cid, “La rabia de los
+    familiares de los 43 de Ayotzinapa: ‘El Gobierno se ha colocado del
+    lado del Ejército’”, <italic>El País</italic>, 26 de septiembre de
+    2023,
+    <ext-link ext-link-type="uri" xlink:href="https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html">https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn30">
-<label>30</label>
-<p>Eva Avilés, “Comunicado, cinismo y actuar criminal: el Estado mexicano se queda sin respuestas ante la Corte Interamericana, en Audiencia Radilla Pacheco”, <italic>cmdph</italic>, 15 de marzo de 2023, <ext-link ext-link-type="uri" xlink:href="https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/">https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/</ext-link>
-</p>
+<label>30</label><p>Eva Avilés, “Comunicado, cinismo y actuar
+    criminal: el Estado mexicano se queda sin respuestas ante la Corte
+    Interamericana, en Audiencia Radilla Pacheco”,
+    <italic>cmdph</italic>, 15 de marzo de 2023,
+    <ext-link ext-link-type="uri" xlink:href="https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/">https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/</ext-link></p>
 </fn>
 </fn-group>
-</back>
+<ref-list><title>XII. Referencias bibliográficas</title><ref id="B1"><mixed-citation>Avilés, Eva. “Comunicado, cinismo y actuar criminal: el Estado
+  mexicano se queda sin respuestas ante la Corte Interamericana, en
+  Audiencia Radilla Pacheco”, <italic>cmdph,</italic> 15 de marzo de
+  2023.
+  <ext-link ext-link-type="uri" xlink:href="https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/">https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Avilés</surname></name><name><surname>Eva</surname></name></person-group><article-title>“Comunicado, cinismo y actuar criminal: el Estado
+  mexicano se queda sin respuestas ante la Corte Interamericana, en
+  Audiencia Radilla Pacheco”,cmdph,15 de marzo de
+  2023</article-title><source>https://cmdpdh</source><year>2023</year><ext-link ext-link-type="uri" xlink:href="https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/">https://cmdpdh.org/2023/03/15/comunicado-cinismo-y-actuar-criminal-el-estado-mexicano-se-queda-sin-respuestas-ante-la-corte-interamericana-en-audiencia-radilla-pacheco/</ext-link></element-citation></ref><ref id="B2"><mixed-citation>Cámara de diputados del H congreso de la unión. Ley General en
+  Materia de Desaparición Forzada de Personas. Ciudad de México:
+  Congreso de la unión, 2017.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Cámara</surname><given-names>de diputados del H congreso de la unión</given-names></name></person-group><article-title>Ley General en
+  Materia de Desaparición Forzada de Personas</article-title><source>Ciudad de México:
+  Congreso de la unión, 2017</source><year>2017</year></element-citation></ref><ref id="B3"><mixed-citation>Chávez León, Óscar Danilo. <italic>Problemas actuales del derecho
+  penal Vol. II. Análisis del delito de desaparición forzada</italic>.
+  Valencia: Tirant lo Blanch, 2019.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Chávez</surname><given-names>León</given-names></name><name><surname>Óscar</surname><given-names>Danilo</given-names></name></person-group><article-title>Problemas actuales del derecho
+  penal Vol</article-title><source>II</source><year>2019</year></element-citation></ref><ref id="B4"><mixed-citation>Cienfuegos Salgado, David. “La exhibición de personas o
+  <italic>hábeas corpus</italic> en Aguascalientes, Colima, Guerrero y
+  Puebla”. <italic>De Jure</italic>, n.<sup>o</sup> 6 (2011).</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Cienfuegos</surname><given-names>Salgado</given-names></name><name><surname>David</surname></name></person-group><article-title>“La exhibición de personas ohábeas corpusen Aguascalientes, Colima, Guerrero y
+  Puebla”</article-title><source>De Jure, n</source><year>2011</year></element-citation></ref><ref id="B5"><mixed-citation>Cienfuegos Salgado, David. <italic>Un amparo local habeas corpus:
+  el recurso extraordinario de exhibición de personas en el estado de
+  Guerrero</italic>. Ed. por Manuel González Oropeza y Eduardo Ferrer
+  MacGregor. Ciudad de México: Universidad Nacional Autónoma de México,
+  2019.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Cienfuegos</surname><given-names>Salgado</given-names></name><name><surname>David</surname></name></person-group><article-title>Un amparo local habeas corpus:
+  el recurso extraordinario de exhibición de personas en el estado de
+  Guerrero</article-title><source>Ed</source><year>2019</year></element-citation></ref><ref id="B6"><mixed-citation>CNDH. “Informe Especial sobre la situación que en materia de
+  personas desaparecidas y delitos vinculados impera en el Municipio de
+  Chilapa de Álvarez, Guerrero”.
+  <ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos">https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>CNDH</surname></name></person-group><article-title>“Informe Especial sobre la situación que en materia de
+  personas desaparecidas y delitos vinculados impera en el Municipio de
+  Chilapa de Álvarez, Guerrero”</article-title><source>https://www</source><ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos">https://www.cndh.org.mx/documento/informe-especial-sobre-la-situacion-que-en-materia-de-personas-desaparecidas-y-delitos</ext-link></element-citation></ref><ref id="B7"><mixed-citation>Consejería jurídica del poder ejecutivo. 19 de diciembre de 2014.
+  Obtenido de
+  <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf">https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Consejería</surname><given-names>jurídica del poder ejecutivo</given-names></name></person-group><article-title>19 de diciembre de 2014</article-title><source>Obtenido dehttps://www</source><year>2014</year><ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf">https://www.gob.mx/cms/uploads/attachment/file/342262/Protocolo_Desaparici_n_Forzada_agosto_2015_Espa_ol.pdf</ext-link></element-citation></ref><ref id="B8"><mixed-citation>Díaz, Cossío J. R. “Algunas notas sobre el caso Rosendo Radilla
+  Pacheco”, <italic>Anuario Mexicano de Derecho Internacional</italic>,
+  (2014): 803-834.
+  <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S1870-4654(14)70022-4">https://doi.org/10.1016/S1870-4654(<xref ref-type="bibr" rid="B14">14</xref>)70022-4</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Díaz</surname></name><name><surname>Cossío</surname><given-names>J</given-names></name></person-group><article-title>R</article-title><source>“Algunas notas sobre el caso Rosendo Radilla
+  Pacheco”,Anuario Mexicano de Derecho Internacional,(2014): 803-834</source><year>2014</year><volume>4654</volume><issue>14</issue><fpage>803</fpage><lpage>834</lpage><pub-id pub-id-type="doi">10.1016/S1870-4654(14)70022-4</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/S1870-4654(14)70022-4">https://doi.org/10.1016/S1870-4654(14)70022-4</ext-link></element-citation></ref><ref id="B9"><mixed-citation>Ehrlich, Eugen. <italic>Grundlegung der Soziologie des
+  Rechts</italic>. München: Duncker &amp; Humblot, 1913.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Ehrlich</surname></name><name><surname>Eugen</surname></name></person-group><article-title>Grundlegung der Soziologie des
+  Rechts</article-title><source>München: Duncker &amp; Humblot, 1913</source><year>1913</year></element-citation></ref><ref id="B10"><mixed-citation>Escobar, Amalia. “Proliferan los colectivos de buscadoras: hay 234
+  en el país”. <italic>El Universal</italic>, 1 de agosto de 2023.
+  <ext-link ext-link-type="uri" xlink:href="https://www.eluniversal.com.mx/estados/proliferan-los-colectivos-de-buscadoras-hay-234-en-el-pais/">https://www.eluniversal.com.mx/estados/proliferan-los-colectivos-de-buscadoras-hay-234-en-el-pais/</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Escobar</surname></name><name><surname>Amalia</surname></name></person-group><article-title>“Proliferan los colectivos de buscadoras: hay 234
+  en el país”</article-title><source>El Universal, 1 de agosto de 2023</source><year>2023</year><ext-link ext-link-type="uri" xlink:href="https://www.eluniversal.com.mx/estados/proliferan-los-colectivos-de-buscadoras-hay-234-en-el-pais/">https://www.eluniversal.com.mx/estados/proliferan-los-colectivos-de-buscadoras-hay-234-en-el-pais/</ext-link></element-citation></ref><ref id="B11"><mixed-citation>Friedman, Lawrence M. <italic>The Legal System: A Social Science
+  Perspective</italic>. New York: Russell Sage Foundation, 1975.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Friedman</surname></name><name><surname>Lawrence</surname><given-names>M</given-names></name></person-group><article-title>The Legal System: A Social Science
+  Perspective</article-title><source>New York: Russell Sage Foundation, 1975</source><year>1975</year></element-citation></ref><ref id="B12"><mixed-citation>Gamiño Muñoz, Rodolfo. “Fuerzas armadas, contrainsurgencia y
+  desaparición forzada en Guerrero en la década de los sesenta y
+  setenta”. <italic>Letras Históricas</italic>, n.<sup>o</sup> 17
+  (2017).
+  <ext-link ext-link-type="uri" xlink:href="https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es">https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Gamiño</surname><given-names>Muñoz</given-names></name><name><surname>Rodolfo</surname></name></person-group><article-title>“Fuerzas armadas, contrainsurgencia y
+  desaparición forzada en Guerrero en la década de los sesenta y
+  setenta”</article-title><source>Letras Históricas, n</source><year>2017</year><ext-link ext-link-type="uri" xlink:href="https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es">https://repositorio.colmex.mx/concern/articles/sf268599s?locale=es</ext-link></element-citation></ref><ref id="B13"><mixed-citation>Gobierno del estado de Guerrero. “Ley Para Prevenir y Sancionar la
+  Desaparición Forzada de Personas en el Estado de Guerrero Número 569”.
+  <ext-link ext-link-type="uri" xlink:href="%20https:/www.guerrero.gob.mx/articulo/ley-para-prevenir-y-sancionar-la-desaparicion-forzada-de-personas-en-el-estado-de-guerrero-numero-569/">https://www.guerrero.gob.mx/articulo/ley-para-prevenir-y-sancionar-la-desaparicion-forzada-de-personas-en-el-estado-de-guerrero-numero-569/</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Gobierno</surname><given-names>del estado de Guerrero</given-names></name></person-group><article-title>“Ley Para Prevenir y Sancionar la
+  Desaparición Forzada de Personas en el Estado de Guerrero Número 569”</article-title><source>https://www</source><ext-link ext-link-type="uri" xlink:href="https://www.guerrero.gob.mx/articulo/ley-para-prevenir-y-sancionar-la-desaparicion-forzada-de-personas-en-el-estado-de-guerrero-numero-569/">https://www.guerrero.gob.mx/articulo/ley-para-prevenir-y-sancionar-la-desaparicion-forzada-de-personas-en-el-estado-de-guerrero-numero-569/</ext-link></element-citation></ref><ref id="B14"><mixed-citation>Huhle, Rainer. “Non-State Actors of Enforced Disappearance and the
+  UN Convention for the Protection of All Persons from Enforced
+  Disappearance<italic>”</italic>. <italic>Humanitäres
+  Völkerrecht</italic>, n.<sup>o</sup> 26 (2013).</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Huhle</surname></name><name><surname>Rainer</surname></name></person-group><article-title>“Non-State Actors of Enforced Disappearance and the
+  UN Convention for the Protection of All Persons from Enforced
+  Disappearance”</article-title><source>Humanitäres
+  Völkerrecht, n</source><year>2013</year></element-citation></ref><ref id="B15"><mixed-citation>López Cárdenas, Carlos Mauricio. <italic>La desaparición forzada de
+  personas en el derecho internacional de los derechos humanos.</italic>
+<italic>Estudio de su evolución, concepto y reparación a las
+  víctimas</italic>. Bogotá: Editorial Universidad del Rosario,
+  2017.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>López</surname><given-names>Cárdenas</given-names></name><name><surname>Carlos</surname><given-names>Mauricio</given-names></name></person-group><article-title>La desaparición forzada de
+  personas en el derecho internacional de los derechos humanos</article-title><source>Estudio de su evolución, concepto y reparación a las
+  víctimas</source><year>2017</year></element-citation></ref><ref id="B16"><mixed-citation>Mastrogiovanni, Federico. <italic>Ni vivos ni muertos La
+  desaparición forzada en México como estrategia de terror</italic>.
+  Ciudad de México: Grupo Editorial México, 2014.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Mastrogiovanni</surname></name><name><surname>Federico</surname></name></person-group><article-title>Ni vivos ni muertos La
+  desaparición forzada en México como estrategia de terror</article-title><source>Ciudad de México: Grupo Editorial México, 2014</source><year>2014</year></element-citation></ref><ref id="B17"><mixed-citation>Moiré, José Luis. “La desaparición forzada de personas en México”.
+  Congreso en la Ciudad de México, septiembre 2008.
+  <ext-link ext-link-type="uri" xlink:href="https://es.scribd.com/document/262540144/Desaparicion-Forzosa">https://es.scribd.com/document/262540144/Desaparicion-Forzosa</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Moiré</surname></name><name><surname>José</surname><given-names>Luis</given-names></name></person-group><article-title>“La desaparición forzada de personas en México”</article-title><source>Congreso en la Ciudad de México, septiembre 2008</source><year>2008</year><ext-link ext-link-type="uri" xlink:href="https://es.scribd.com/document/262540144/Desaparicion-Forzosa">https://es.scribd.com/document/262540144/Desaparicion-Forzosa</ext-link></element-citation></ref><ref id="B18"><mixed-citation>Nava, Luis Daniel. “Marchas en Guerrero: exigen justicia y aprobar
+  la Ley de Desaparición Forzada”. <italic>Proceso</italic>, 11 de
+  septiembre de 2023.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Nava</surname></name><name><surname>Luis</surname><given-names>Daniel</given-names></name></person-group><article-title>“Marchas en Guerrero: exigen justicia y aprobar
+  la Ley de Desaparición Forzada”</article-title><source>Proceso, 11 de
+  septiembre de 2023</source><year>2023</year></element-citation></ref><ref id="B19"><mixed-citation>Naciones Unidas. Derechos Humanos. “El oscuro hito de 100,000
+  desapariciones refleja un patrón
+  de impunidad, advierten expertos de la ONU”.
+  <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts%20">https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Naciones</surname><given-names>Unidas</given-names></name></person-group><article-title>Derechos Humanos</article-title><source>“El oscuro hito de 100,000
+  desapariciones refleja un patrón
+  de impunidad, advierten expertos de la ONU”</source><year>2022</year><ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts">https://www.ohchr.org/es/statements/2022/05/mexico-dark-landmark-100000-disappearances-reflects-pattern-impunity-un-experts</ext-link></element-citation></ref><ref id="B20"><mixed-citation>ONU. Convención internacional para la protección de todas las
+  personas contra las desapariciones forzadas, 1992.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>ONU</surname></name></person-group><article-title>Convención internacional para la protección de todas las
+  personas contra las desapariciones forzadas, 1992</article-title><year>1992</year></element-citation></ref><ref id="B21"><mixed-citation>Pérez Piñón, Francisco Alberto. “La verdad histórica, Ayotzinapa
+  vive”. <italic>Debates por La Historia</italic>, n.<sup>o</sup> 1
+  (2023).
+  <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.54167/debates-por-la-historia.v11i1.1134">https://doi.org/10.54167/debates-por-la-historia.v11i1.1134</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pérez</surname><given-names>Piñón</given-names></name><name><surname>Francisco</surname><given-names>Alberto</given-names></name></person-group><article-title>“La verdad histórica, Ayotzinapa
+  vive”</article-title><source>Debates por La Historia, n</source><year>2023</year><pub-id pub-id-type="doi">10.54167/debates-por-la-historia.v11i1.1134</pub-id><ext-link ext-link-type="uri" xlink:href="https://doi.org/10.54167/debates-por-la-historia.v11i1.1134">https://doi.org/10.54167/debates-por-la-historia.v11i1.1134</ext-link></element-citation></ref><ref id="B22"><mixed-citation>Pérez, Maritza. “SEGOB reporta 77,171 personas desaparecidas en
+  México al corte de septiembre
+  de 2020”. <italic>El Economista</italic>, 07 de octubre de 2020.
+  <ext-link ext-link-type="uri" xlink:href="https://www.eleconomista.com.mx/politica/Segob-reporta-77171-personas-desaparecidas-en-Mexico-al-corte-de-septiembre-de-2020-20201007-0089.html">https://www.eleconomista.com.mx/politica/Segob-reporta-77171-personas-desaparecidas-en-Mexico-al-corte-de-septiembre-de-2020-20201007-0089.html</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Pérez</surname></name><name><surname>Maritza</surname></name></person-group><article-title>“SEGOB reporta 77,171 personas desaparecidas en
+  México al corte de septiembre
+  de 2020”</article-title><source>El Economista, 07 de octubre de 2020</source><year>2020</year><ext-link ext-link-type="uri" xlink:href="https://www.eleconomista.com.mx/politica/Segob-reporta-77171-personas-desaparecidas-en-Mexico-al-corte-de-septiembre-de-2020-20201007-0089.html">https://www.eleconomista.com.mx/politica/Segob-reporta-77171-personas-desaparecidas-en-Mexico-al-corte-de-septiembre-de-2020-20201007-0089.html</ext-link></element-citation></ref><ref id="B23"><mixed-citation>Rodríguez González, Jesús David. “Abandono estatal, la desgracia
+  del pueblo”. <italic>Conexión Externado</italic>, 2 de marzo de 2021.
+  <ext-link ext-link-type="uri" xlink:href="https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/">https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Rodríguez</surname><given-names>González</given-names></name><name><surname>Jesús</surname><given-names>David</given-names></name></person-group><article-title>“Abandono estatal, la desgracia
+  del pueblo”</article-title><source>Conexión Externado, 2 de marzo de 2021</source><year>2021</year><ext-link ext-link-type="uri" xlink:href="https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/">https://conexion.uexternado.edu.co/abandono-estatal-la-desgracia-del-pueblo/</ext-link></element-citation></ref><ref id="B24"><mixed-citation>Santos Cid, Alejandro. “La rabia de los familiares de los 43 de
+  Ayotzinapa: ‘El Gobierno se ha colocado del lado del Ejército’”.
+  <italic>El País</italic>, 26 de septiembre de 2023.
+  <ext-link ext-link-type="uri" xlink:href="https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html%20%20%20">https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Santos</surname><given-names>Cid</given-names></name><name><surname>Alejandro</surname></name></person-group><article-title>“La rabia de los familiares de los 43 de
+  Ayotzinapa: ‘El Gobierno se ha colocado del lado del Ejército’”</article-title><source>El País, 26 de septiembre de 2023</source><year>2023</year><ext-link ext-link-type="uri" xlink:href="https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html">https://elpais.com/mexico/2023-09-27/la-rabia-de-los-familiares-de-los-43-de-ayotzinapa-el-gobierno-se-ha-colocado-del-lado-del-ejercito.html</ext-link></element-citation></ref><ref id="B25"><mixed-citation>Silbey, Susan S. <italic>Legal</italic> <italic>Cultures and
+  Cultures of Legality</italic>. New York: Routledge, 2010.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Silbey</surname></name><name><surname>Susan</surname><given-names>S</given-names></name></person-group><article-title>LegalCultures and
+  Cultures of Legality</article-title><source>New York: Routledge, 2010</source><year>2010</year></element-citation></ref><ref id="B26"><mixed-citation>Tlachinollan, Centro de Derechos Humanos de la Montaña. “Guerrero:
+  territorio de personas desaparecidas”.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Tlachinollan</surname></name><name><surname>Centro</surname><given-names>de Derechos Humanos de la Montaña</given-names></name></person-group><article-title>“Guerrero:
+  territorio de personas desaparecidas”</article-title></element-citation></ref><ref id="B27"><mixed-citation><ext-link ext-link-type="uri" xlink:href="%20https:/www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/">https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>https://www</surname></name></person-group><article-title>tlachinollan</article-title><source>org/guerrero-territorio-de-personas-desaparecidas/</source><ext-link ext-link-type="uri" xlink:href="https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/">https://www.tlachinollan.org/guerrero-territorio-de-personas-desaparecidas/</ext-link></element-citation></ref><ref id="B28"><mixed-citation>Zavaleta, Noé. <italic>Las Buscadoras: Madres que buscan personas
+  desaparecidas en México. Ciudad de México</italic>. México:
+  HarperCollins, 2023.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Zavaleta</surname></name><name><surname>Noé</surname></name></person-group><article-title>Las Buscadoras: Madres que buscan personas
+  desaparecidas en México</article-title><source>Ciudad de México</source><year>2023</year></element-citation></ref></ref-list></back>
 </article>

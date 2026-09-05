@@ -1,960 +1,1141 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
 <article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
-<front>
-<journal-meta>
-<journal-id journal-id-type="publisher-id">biolex</journal-id>
-<journal-title-group>
-<journal-title>Biolex</journal-title>
-<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
-</journal-title-group>
-<issn pub-type="ppub">2007-5634</issn>
-<issn pub-type="epub">2007-5545</issn>
-<publisher>
-<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
-</publisher>
-</journal-meta>
-<article-meta>
-<article-id pub-id-type="doi">10.36796/biolex.v17i28.422</article-id>
-<article-id pub-id-type="other">00108</article-id>
-<article-categories>
-<subj-group subj-group-type="heading">
-<subject>Artículos</subject>
-</subj-group>
-</article-categories>
-<title-group>
-<article-title>Reflexiones sobre justicia penal para adolescentes: a la luz del derecho mexicano, colombiano y chileno</article-title>
-<trans-title-group xml:lang="en">
-<trans-title>Reflections on Criminal Justice for Adolescents: in the Light of Mexican, Colombian and Chilean Law</trans-title>
-</trans-title-group>
-</title-group>
-<contrib-group>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0009-0000-3791-8251</contrib-id>
-<name>
-<surname>Triunfo Pérez</surname>
-<given-names>Alejandra</given-names>
-</name>
-<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
-<role>Maestra en Ciencias del Derecho</role>
-</contrib>
-<contrib contrib-type="author">
-<contrib-id contrib-id-type="orcid">0000-0002-1428-234X</contrib-id>
-<name>
-<surname>García Montoya</surname>
-<given-names>Lizbeth</given-names>
-</name>
-<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
-<role>Doctorado en Criminología y delincuencia juvenil</role>
-</contrib>
-</contrib-group>
-<aff id="aff1">
-<label>1</label>
-<institution content-type="original">Maestra en Ciencias del Derecho por la Universidad Autónoma de Sinaloa y Doctoranda en el programa de Ciencias del Derecho de la Universidad Autónoma de Sinaloa. alejandra.triunfo.fdc@uas.edu.mx</institution>
-<institution content-type="normalized">Universidad Autónoma de Sinaloa</institution>
-<institution content-type="orgname">Universidad Autónoma de Sinaloa</institution>
-<country country="MX">Mexico</country>
-<email>alejandra.triunfo.fdc@uas.edu.mx</email>
-</aff>
-<aff id="aff2">
-<label>2</label>
-<institution content-type="original">Doctorado en Criminología y delincuencia juvenil por la Universidad de Castilla La Mancha, Profesora e Investigadora de Tiempo Completo de la Universidad Autónoma de Sinaloa (México) y Miembro del Sistema Nacional de Investigadores e Investigadoras. lizbeth.garcia@uas.edu.mx</institution>
-<institution content-type="normalized">Universidad de Castilla-La Mancha</institution>
-<institution content-type="orgname">Universidad de Castilla La Mancha</institution>
-<country country="ES">Spain</country>
-<email>lizbeth.garcia@uas.edu.mx</email>
-</aff>
-<pub-date date-type="pub" publication-format="electronic">
-<day>29</day>
-<month>12</month>
-<year>2025</year>
-</pub-date>
-<pub-date date-type="collection" publication-format="electronic">
-<season>Jan-Dec</season>
-<year>2025</year>
-</pub-date>
-<volume>17</volume>
-<issue>28</issue>
-<elocation-id>e422</elocation-id>
-<history>
-<date date-type="received">
-<day>19</day>
-<month>08</month>
-<year>2025</year>
-</date>
-<date date-type="accepted">
-<day>10</day>
-<month>10</month>
-<year>2025</year>
-</date>
-</history>
-<permissions>
-<license xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" license-type="open-access" xml:lang="es">
-<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
-</license>
-</permissions>
-<abstract>
-<title>Resumen</title>
-<p>En la presente contribución se abordará, por un lado, el impacto que ha traído el ejercicio del sistema de justicia penal para adolescentes en México, Colombia y Chile, así como el reto que han tenido que enfrentar estos países ante dicha implementación. Por otro lado, se analiza el marco normativo internacional que impera en cada una de estas regiones y que, sin duda, ha impactado en el ejercicio jurídico de la administración de justicia en las y los adolescentes en estos territorios. Partimos de que este es un estudio descriptivo, siguiendo una metodología deductiva, analítica y comparativa, basándonos en la aplicación de la técnica documental. El objetivo es analizar el marco regulatorio nacional e internacional en materia de justicia penal para adolescentes existentes en México, Colombia y Chile y con ello, poder comparar estos marcos normativos para visualizar áreas de oportunidad de cada uno de ellos, así como aspectos positivos que pudieran servir como ejemplo en otros contextos.</p>
-</abstract>
-<trans-abstract xml:lang="en">
-<title>Abstract</title>
-<p>This contribution addresses, on the one hand, the impact of the criminal justice system for adolescents in Mexico, Colombia and Chile, as well as the challenges these countries face in its implementation; and on the other hand, it analyzes the international regulatory framework prevailing in each of these countries and its impact on the legal exercise of the administration of justice in the respective regions. This study is descriptive in nature and follows a deductive, analytical and comparative methodology, based on the application of the documentary research. Its aim is to analyze the national and international regulatory framework on criminal justice for adolescents in Mexico, Colombia and Chile, thus be able to compare these regulatory frameworks, being able to visualize areas of opportunity for each of them, as well as positive aspects that could serve as an example in other contexts.</p>
-</trans-abstract>
-<kwd-group xml:lang="es">
-<title>Palabras clave:</title>
-<kwd>Menores de edad</kwd>
-<kwd>derechos humanos</kwd>
-<kwd>reinserción social</kwd>
-<kwd>sanción preventiva</kwd>
-</kwd-group>
-<kwd-group xml:lang="en">
-<title>Keywords:</title>
-<kwd>minors</kwd>
-<kwd>human rights</kwd>
-<kwd>social reintegration</kwd>
-<kwd>preventive sanction</kwd>
-</kwd-group>
-<counts>
-<fig-count count="0"/>
-<table-count count="0"/>
-<equation-count count="0"/>
-<ref-count count="26"/>
-</counts>
-</article-meta>
-</front>
+<front><journal-meta><journal-id journal-id-type="publisher-id">revistaderechop</journal-id><journal-title-group><journal-title>Revista Derecho Penal y Criminología</journal-title><abbrev-journal-title abbrev-type="publisher">Revista Derecho Penal y C</abbrev-journal-title></journal-title-group></journal-meta><article-meta><article-categories><subj-group subj-group-type="heading"><subject>Artículos</subject></subj-group></article-categories><title-group><article-title>Reflexiones sobre justicia penal para adolescentes: a la luz</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Chilean Law</surname><given-names>Reflections on Criminal Justice for Adolescents: in the Light of Mexican, Colombian and</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Triunfo Pérez</surname><given-names>Alejandra</given-names></name><xref ref-type="aff" rid="aff2"/></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0009-0000-3791-8251</contrib-id><name><surname>García Montoya</surname><given-names>Lizbeth</given-names></name><xref ref-type="aff" rid="aff3"/></contrib><aff id="aff1"><label>1</label><institution content-type="original">Recibido: 19/08/2025 Aceptado: 10/10/2025, México</institution><institution content-type="orgname">Recibido: 19/08/2025 Aceptado: 10/10/2025</institution><country country="MX">México</country></aff><aff id="aff2"><label>2</label><institution content-type="original">Esta contribución presenta algunos de los
+    resultados obtenidos de una invest, México</institution><institution content-type="orgname">Esta contribución presenta algunos de los
+    resultados obtenidos de una invest</institution><country country="MX">México</country></aff><aff id="aff3"><label>3</label><institution content-type="original">Universidad Autónoma de Sinaloa y Doctoranda en el programa de
+    Ciencias del Derecho de la Universidad Autónoma de
+    Sinaloa, México</institution><institution content-type="orgname">Universidad Autónoma de Sinaloa y Doctoranda en el programa de
+    Ciencias del Derecho de la Universidad Autónoma de
+    Sinaloa</institution><country country="MX">México</country><email>alejandra.triunfo.fdc@uas.edu.mx</email></aff></contrib-group><pub-date date-type="pub" publication-format="electronic"><day>01</day><month>01</month><year>2025</year></pub-date><pub-date date-type="collection" publication-format="electronic"><season>Jan-Dec</season><year>2025</year></pub-date><volume>117</volume><issue>1</issue><elocation-id>e000</elocation-id><history><date date-type="received"><day>19</day><month>08</month><year>2025</year></date><date date-type="accepted"><day>10</day><month>10</month><year>2025</year></date></history><permissions><license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es"><license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p></license></permissions><abstract><title>Resumen:</title><p>En la presente contribución se abordará, por un lado, el impacto que ha traído el ejercicio del sistema de justicia penal para adolescentes en México, Colombia y Chile, así como el reto que han tenido que enfrentar estos países ante dicha implementación. Por otro lado, se analiza el marco normativo internacional que impera en cada una de estas regiones y que, sin duda, ha impactado en el ejercicio jurídico de la administración de justicia en las y los adolescentes en estos territorios. Partimos de que este es un estudio descriptivo, siguiendo una metodología deductiva, analítica y comparativa, basándonos en la aplicación de la técnica documental. El objetivo es analizar el marco regulatorio nacional e internacional en materia de justicia penal para adolescentes existentes en México, Colombia y Chile y con ello, poder comparar estos marcos normativos para visualizar áreas de oportunidad de cada uno de ellos, así como aspectos positivos que pudieran servir como ejemplo en otros contextos.</p></abstract><trans-abstract xml:lang="en"><title>Abstract:</title><p>This contribution addresses, on the one hand, the impact of the criminal justice system for adolescents in Mexico, Colombia and Chile, as well as the challenges these countries face in its implementation; and on the other hand, it analyzes the international regulatory framework prevailing in each of these countries and its impact on the legal exercise of the administration of justice in the respective regions. This study is descriptive in nature and follows a deductive, analytical and comparative methodology, based on the application of the documentary research. Its aim is to analyze the national and international regulatory framework on criminal justice for adolescents in Mexico, Colombia and Chile, thus be able to compare these regulatory frameworks, being able to visualize areas of opportunity for each of them, as well as positive aspects that could serve as an example in other contexts.</p></trans-abstract><kwd-group xml:lang="es"><title>Palabras clave:</title><kwd>Menores de edad</kwd><kwd>derechos humanos</kwd><kwd>reinserción social</kwd><kwd>sanción preventiva</kwd></kwd-group><kwd-group xml:lang="en"><title>Keywords:</title><kwd>minors</kwd><kwd>human rights</kwd><kwd>social reintegration</kwd><kwd>preventive sanction</kwd></kwd-group><counts><fig-count count="0"/><table-count count="0"/><equation-count count="0"/><ref-count count="28"/></counts></article-meta></front>
 <body>
-<sec sec-type="intro">
-<title>I. Introducción</title>
-<p>La presente contribución sostiene que los instrumentos internacionales en materia de derechos humanos de niñas, niños y adolescentes no solo tienen como objetivo la protección de los derechos de estos sujetos altamente vulnerables como víctimas, sino también como victimarios, pues no hay que olvidar que este grupo también puede infringir la ley.</p>
-<p>El impacto de la delincuencia juvenil en los países latinoamericanos representa un gran desafío, ya que disminuir sus índices resulta una tarea compleja. Esta cuestión ha sido todo un reto debido a las deficiencias con las que cuentan las políticas criminales dirigidas a la prevención de la problemática. </p>
-<p>En general, no existe un <italic>ranking</italic> global de países con mayor delincuencia juvenil, dicha información disponible varía según la fuente de cada uno de ellos. Sin embargo, las Naciones Unidas, a través de sus diversos estudios e informes como el realizado por el Observatorio Internacional de Justicia Juvenil,<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> destaca que en América Latina se encuentran países con altos índices de criminalidad y violencia juvenil.</p>
-<p>Por ello, el gobierno es quien enfrenta el reto de implementar y adecuar aquellos mecanismos legales que tengan como fin proteger los derechos de las niñas, niños y adolescentes de acuerdo con sus características y necesidades para lograr que desarrollen una vida digna dentro de un centro de internamiento y, a su vez, que lleven a cabo un sistema de justicia penal que no sea violatorio a sus derechos humanos. Todo esto armonizado con lo establecido en instrumentos internacionales. </p>
-<p>En este contexto, se debe reconocer que los temas relacionados con menores infractores son complejos y con gran relevancia social. Con base en los instrumentos internacionales, ha surgido la necesidad de planificar y diseñar mecanismos legales especializados con el fin de lograr eficazmente combatir la delincuencia juvenil.</p>
-<p>Esta contribución, como se mencionó anteriormente, tiene como objetivo principal revisar, analizar y comparar el marco jurídico nacional e internacional en materia de justicia penal para adolescentes que existen en los países de México, Colombia y Chile, siendo este análisis el soporte teórico y documental que respalda el contenido de esta contribución</p>
-<p>En este estudio se siguió una metodología deductiva, analítica y comparativa, basándonos en la aplicación de la técnica documental, partiendo de una interrogante central: ¿hay diferencias en el sistema de enjuiciamiento de menores en México con respecto a los países de Colombia y Chile?</p>
-<p>Para realizar este estudio jurídico y documental hicimos una revisión minuciosa de la legislación internacional, así como la nacional de cada uno de los países abordados en la presente contribución, basándonos en páginas de los congresos locales de cada país, pero también revisando bases de datos como Redalyc, Scielo y Dialnet. Lo anterior con el objetivo de dar el sustento teórico de la problemática en estudio.</p>
-<p>Desde esta perspectiva de análisis puede visualizarse a nivel mundial la necesidad de implementar normas jurídicas a la luz de los instrumentos internacionales que ayuden a combatir y controlar la delincuencia juvenil que experimentan y sufre cada país. Esta contribución obedece a una investigación de tipo descriptivo, en la que se utilizó la técnica documental para la recopilación de datos e información relacionada con el contexto y los objetivos del presente trabajo. Asimismo, los métodos utilizados para la construcción del mismo fueron el deductivo, analítico y comparativo.</p>
-<p>Es importante destacar que, en los últimos años, en México se visualiza un aumento en la delincuencia juvenil, así como una transformación en las formas de operación del crimen organizado en aras de reclutar a niños, niñas y adolescentes. Por tal motivo, nos interesó agregar el país colombiano, ya que comparte diversos aspectos semejantes con los de México, uno de ellos -que tal vez cae en un tópico común- es el fenómeno del narcotráfico. Si bien es cierto que en los últimos años Colombia ha luchado por recuperar la seguridad en la sociedad, México vive sumido en una lucha interminable. Es por lo anterior que ambos países se identifican con un contexto político y una realidad social similar.</p>
-<p>Por otra parte, agregar el país chileno a esta contribución no solo a los estrechos vínculos políticos, económicos y culturales con México, sino también a que dicho país ha estudiado las características del adolescente infractor, así como aquellas conductas que obedecen al antes, durante y después del delito. Esto con el fin de determinar la responsabilidad penal, pero además adecuar los programas pertinentes para su efectiva reinserción social del menor.</p>
-<p>Esta contribución se divide en un tema central: generalidades del nuevo sistema de justicia penal para adolescentes a la luz del derecho comparado. En este se aborda el reto de implementar un modelo de justicia de menores con base en los instrumentos internacionales. Consecutivamente, este aparatado se subdivide en tres subtemas, cada uno de ellos refleja el desarrollo, evolución e implementación del sistema de justicia penal para menores en México, Colombia y Chile, respectivamente, logrando ver lo que está jurídicamente regulado, que para efectos de esta contribución nos concierna.</p>
-<p>Por último, se plantean reflexiones derivadas del análisis y comparaciones que se hicieron en los sistemas de enjuiciamiento penal para menores en los tres países antes señalados, así como el reto que han enfrentado dichos sistemas en el proceso de armonización legislativa de estos con el contenido de tratados internacionales que cada país ha suscrito en materia de derechos humanos, haciendo en todo momento hincapié sobre los principios de los y las adolescentes sujetos a la justicia penal.</p>
-<p>Encontrándose como principal hallazgo en esta contribución que, los sistemas de justicia penal para adolescentes de México y Colombia han sido influenciados por los instrumentos internacionales. Por un lado, Colombia reconoce en su Constitución derechos de niños, niñas y adolescentes y, además, cuenta con el Código de la Infancia y la Adolescencia, el cual regula en un apartado específico la responsabilidad penal juvenil. En contraste, en la Constitución mexicana no hay indicios de preceptos que mencionen derechos y deberes específicos a este grupo cuando están en conflicto con la ley.</p>
-</sec>
-<sec>
-<title>II. Generalidades del nuevo sistema de justicia penal para adolescentes a la luz del derecho comparado</title>
-<p>Lamentablemente, la existencia de adolescentes que delinquen es una realidad que, y el camino de implementación de un sistema de justicia penal para ellos y ellas no ha sido fácil, así como tampoco el abordaje del fenómeno de la delincuencia juvenil, pues este depende mucho del contexto y problemas sociales de cada país. Afortunadamente, con la firma y ratificación de Instrumentos Internacionales, cuyos textos sirven para observancia de fallas y deficiencias de los países miembros, se ha logrado regular jurídicamente las posibles violaciones a derechos humanos de niñas, niños y adolescentes en los Estados parte.</p>
-<p>El sistema de protección de los derechos de la infancia y la adolescencia comenzó en 1989 con la aprobación de la Convención sobre los Derechos del Niño (CDN) por parte de las Naciones Unidas.<xref ref-type="fn" rid="fn2"><sup>2</sup></xref> Se trata de una convención internacional que detalla los derechos civiles, políticos, económicos, sociales y culturales del menor y los Estados que la ratifican están jurídicamente vinculados a ella. Asimismo, existe el Comité de los Derechos del Niño, organismo de expertos independientes que monitorea la ejecución de la CDN en los Estados parte.</p>
-<p>La CDN protege a los niños, niñas y adolescentes que constituyen un grupo altamente vulnerables y al estar en pleno desarrollo necesita de cuidados especiales, así como lo afirma la siguiente declaración: “…el niño, por su falta de madurez física y mental, necesita protección y cuidado especiales incluso la debida protección legal, tanto durante como después del nacimiento…”<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>
-</p>
-<p>Es por esto que, si se garantiza que los niños, las niñas y adolescentes vivan y se desarrollen con los cuidados necesarios, podrían convivir amenamente en la sociedad. En el caso de aquellos que se encuentren con problemas ante la ley, es el gobierno quien está obligado a garantizar su protección y un lugar seguro, de acuerdo con sus características y necesidades, a fin de que logren desarrollarse adecuadamente.</p>
-<p>Los instrumentos internacionales a nivel mundial siempre buscarán la protección del interés superior de la niñez, mismo que encontramos consagrado en el artículo 3.1 de la CDN: </p>
-<disp-quote>
-<p>En todas las medidas concernientes a los niños que tomen las instituciones públicas o privadas de bienestar social, los tribunales, las autoridades administrativas o los órganos legislativos, una consideración primordial a que se atenderá será el interés superior del niño…<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>
-</p>
-</disp-quote>
-<p>De acuerdo con la cita anterior, se sostiene que los Estados parte de la CDN tienen como consideración primordial atender el interés superior de las niñas, niños y adolescentes (NNA), de acuerdo con todas las medidas concernientes que se tomen, ya sea en el ámbito público o privado.</p>
-<p>Para efectos la CDN resulta importante determinar qué es un niño. Este se define en el artículo 1 de dicha Convención de la siguiente manera: “…por niño todo ser humano menor de dieciocho años, salvo que, en virtud de la ley que le sea aplicable…”<xref ref-type="fn" rid="fn5"><sup>5</sup></xref> Se deduce que, desde el nacimiento hasta antes de los 18 años, una persona es considerada niño o niña, salvo a lo establecido por la ley de cada país miembro. Cabe destacar que la CDN es la única convención que protege directamente sus derechos, aunque existe un cúmulo de estatutos e instrumentos de organismos especializados e internacionales que se interesan en su bienestar. </p>
-<p>En tal sentido, la Comisión Nacional de Derechos Humanos (<xref ref-type="bibr" rid="B7">CNDH</xref>) establece los principales principios sociales y jurídicos generales de la justicia penal para menores, además recomienda la creación de un sistema integral para adolescentes, cuyo principal fundamento está en los artículos 37 y 40 de dicho ordenamiento, mismo que son respaldados por otros instrumentos internacionales como las Reglas Mínimas de las Naciones Unidas para la Administración de la Justicia de Menores (Reglas de Beijing), Directrices de las Naciones Unidas para la Prevención de la Delincuencia Juvenil (Directrices de Riad) y Reglas para la Protección de Menores Privados de Libertad.</p>
-<p>El artículo 37 de la CDN<xref ref-type="fn" rid="fn6"><sup>6</sup></xref> toma de referencia sus incisos como principios fundamentales para un sistema integral de justicia para adolescentes, señalando que la privación de la libertad será la última medida y durante un periodo corto. Asimismo, los y las niñas deben ser tratados con el respeto y dignidad que se merecen, de acuerdo con su edad y características, por la cual deben estar apartados y separados de los adultos. También, en todo momento del proceso, tienen el derecho a asistencia jurídica y adecuada.</p>
-<p>El artículo 40 de la CDN menciona que los Estados están obligados a garantizar sus derechos a los niños, las niñas y adolescentes que han infringido la ley penal. En sus propias palabras:</p>
-<disp-quote>
-<p>…a ser tratado de manera acorde con el fomento de su sentido de la dignidad y el valor, que fortalezca el respeto del niño por los derechos humanos y las libertades fundamentales de terceros y en la que se tengan en cuenta la edad del niño y la importancia de promover la reintegración del niño y de que éste asuma una función constructiva en la sociedad…<xref ref-type="fn" rid="fn7"><sup>7</sup></xref>
-</p>
-</disp-quote>
-<p>Es decir, deben de ser tratados con dignidad, considerando en todo momento su edad y características, y se le deben proporcionar los recursos necesarios para lograr su reintegración a la sociedad. En el mismo artículo se afirma que corresponde a los Estados parte garantizar el cumplimiento de estas disposiciones mediante la adopción de medidas y herramientas necesarias y apropiadas para las y los adolescentes que infringen la ley penal.</p>
-<p>Por otra parte, en las Reglas de Beijing se prevén medidas específicas que cubren varias fases de justicia juvenil, se basa de varios principios para la prevención del delito y tratamiento del menor delincuente, logrando que sea aplicable en diferentes sistemas jurídicos. En estas reglas se definen los conceptos “menor” y “delito”, siendo dos componentes del concepto de menor delincuente, que se define como: “…todo niño o joven al que se ha imputado la comisión de un delito o se le ha considerado culpable de la comisión de un delito…”<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>
-</p>
-<p>Anudado a lo anterior, queda decir que el menor que infringe la ley no contiene un parámetro de edad. En consecuencia, corresponde a los Estados parte determinar las edades mínima y máxima para estos efectos. Esta una flexibilidad de dichas reglas y que a su vez lo considera de esta manera para respetar los sistemas económico, social, político, cultural y jurídico de los Estados miembros.</p>
-<p>Por otro lado, las Directrices de Riad sostienen lo siguiente: “…Si los jóvenes se dedican a actividades lícitas y socialmente útiles, se orientan hacia la sociedad y enfocan la vida con criterio humanista, pueden adquirir actitudes no criminógenas…”<xref ref-type="fn" rid="fn9"><sup>9</sup></xref> Esto quiere decir que si nos enfocamos y estamos bien orientados es baja la probabilidad de poder adquirir actitudes delictivas, por eso estas directrices están enfocadas en la prevención de la delincuencia juvenil.</p>
-<p>Las Directrices de Riad están enfocadas en la convivencia social, entendida como el desarrollo armónico de los individuos, logrando buenos resultados en la personalidad de los y las menores. Se enfatiza la importancia de prestar atención desde la infancia para así lograr que se desarrollen empeñando una función activa y productiva en la sociedad. Del mismo modo, en el artículo 5 de estas directrices se destaca que los Estados miembros serán quienes se encarguen de crear mecanismos, servicios y programas con base a la prevención de la delincuencia juvenil, a través de organismos, instituciones y personal competente y altamente capacitado.</p>
-<p>En el mismo sentido, las Reglas para la Protección de Menores Privados de Libertad tienen como objetivo central: “…contrarrestar los efectos perjudiciales de la privación de libertad, garantizando los derechos humanos de los menores…”<xref ref-type="fn" rid="fn10"><sup>10</sup></xref> En todo momento, hace hincapié en que la privación de la libertad será el último recurso, de ser implementada durará lo menos posible y en todo momento del proceso se deberán respetar los derechos y la seguridad de las y los menores, además de su bienestar físico y mental.</p>
-<p>También, en estas reglas se establece el alcance de edad al que surtirá efectos dicho documento internacional, estableciendo que esto será aplicable en toda persona menor de 18 años. De igual manera, en las Reglas para la Protección de Menores Privados de Libertad se establecen reglas para la administración del tratamiento de los menores y las condiciones que deben de tener las instituciones para lograrlo, recordando que todo personal deberá estar capacitado y ser competente para el trato de los adolescentes en conflicto con la ley.</p>
-<p>Dicho brevemente, los instrumentos internacionales crean reglas para las necesidades y problemáticas que acontecen en la sociedad, con el fin de que en todo momento se protejan los derechos humanos de las y los menores, independientemente si ellos o ellas han cometido un delito.</p>
-<sec>
-<title><italic>A. Caso México</italic></title>
-<p>De acuerdo con la Encuesta Nacional de Adolescentes en el Sistema de Justicia Penal (ENASJUP), en el año 2022 se reportó que: “…56.5 % de las y los adolescentes en el Sistema Integral de Justicia Penal para Adolescentes (SIJPA) cumplía una medida de sanción en externación y 30.2 % cumplía una sanción de internamiento…”<xref ref-type="fn" rid="fn11"><sup>11</sup></xref> En esta encuesta se consideró una muestra de: </p>
-<disp-quote>
-<p>2,715 personas adolescentes de 12 a 17 años que se encontraron centro del Sistema Integral de Justicia Penal para adolescentes (SIJPA) y que tuvieron, como medida cautelar, el internamiento preventivo o una medida de sanción privativa o no privativa de la libertad por la comisión de un delito.<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>
-</p>
-</disp-quote>
-<p>De acuerdo con los datos reportados en el año 2022, ENASJUP sostienen lo siguiente: “…las cifras indican que desde 2017, el porcentaje de personas jóvenes internadas por algún delito se incrementó casi al doble, por ello, de pasar 17% para dicho año a 30.2% en 2022…”<xref ref-type="fn" rid="fn13"><sup>13</sup></xref> Cabe resaltar que existe una relación entre los cambios sociales y la consumación de delitos, esto quiere decir que para el 2017 el principal delito entre jóvenes era el robo, para el año 2022 <bold>―</bold>y en la actualidad<bold>―</bold> los principales delitos se relacionan con nexos con el narcotráfico, portación de armas y venta de drogas.</p>
-<p>En México, la situación de adolescentes infractores es un tema complejo. La constante persistencia de los mecanismos e instrumentos internacionales a través de diversos informes por parte la CNDH, a partir del año 2003, dejan en evidencia a México por contar con un deficiente sistema de justicia penal para menores. En un primer punto se sostiene que: “…los esfuerzos de los agentes públicos por alcanzar las metas y aplicar los programas de las nuevas ordenanzas con numerosas restricciones, austeridades y contradicciones. En este sentido, denota la respuesta del Estado mexicano al tema de la delincuencia juvenil y a la implementación de los derechos de niños, niñas y adolescentes…”<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>
-</p>
-<p>Los instrumentos internacionales sostenían, en ese entonces, que dicho sistema de justicia penal para menores era toda clase de violación a sus principios de integridad. Como lo afirma el portal de las Naciones Unidas, lo que se busca obtener es un mundo adecuado en que a los niños, niñas y adolescentes se les garantice una vida digna.</p>
-<p>Se destaca un informe, el que puso en reto a México para implementar un nuevo modelo de justicia para adolescentes, elaborado por la CNDH, titulado <italic>Informe Especial sobre los Centros de Tratamiento Interno para Adolescentes que Infringen la Ley Penal de la república mexicana (2003-2014)</italic>, en el cual se evidencian las deficiencias y carencias en el sistema mexicano y los lugares insalubres de los centros de internamiento:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+<list list-type="roman-upper">
+<list-item>
+<p>INTRODUCCIÓN</p>
+</list-item>
+</list>
+<p>La presente contribución sostiene que los instrumentos
+internacionales en materia de derechos humanos de niñas, niños y
+adolescentes no solo tienen como objetivo la protección de los derechos
+de estos sujetos altamente vulnerables como víctimas, sino también como
+victimarios, pues no hay que olvidar que este grupo también puede
+infringir la ley.</p>
+<p>El impacto de la delincuencia juvenil en los países latinoamericanos
+representa un gran desafío, ya que disminuir sus índices resulta una
+tarea compleja. Esta cuestión ha sido todo un reto debido a las
+deficiencias con las que cuentan las políticas criminales dirigidas a la
+prevención de la problemática.</p>
+<p>En general, no existe un <italic>ranking</italic> global de países
+con mayor delincuencia juvenil, dicha información disponible varía según
+la fuente de cada uno de ellos. Sin embargo, las Naciones Unidas, a
+través de sus diversos estudios e informes como el realizado por el
+Observatorio Internacional de Justicia
+Juvenil,<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> destaca que en América
+Latina se encuentran países con altos índices de criminalidad y
+violencia juvenil.</p>
+<p>Por ello, el gobierno es quien enfrenta el reto de implementar y
+adecuar aquellos mecanismos legales que tengan como fin proteger los
+derechos de las niñas, niños y adolescentes de acuerdo con sus
+características y necesidades para lograr que desarrollen una vida digna
+dentro de un centro de internamiento y, a su vez, que lleven a cabo un
+sistema de justicia penal que no sea violatorio a sus derechos humanos.
+Todo esto armonizado con lo establecido en instrumentos
+internacionales.</p>
+<p>En este contexto, se debe reconocer que los temas relacionados con
+menores infractores son complejos y con gran relevancia social. Con base
+en los instrumentos internacionales, ha surgido la necesidad de
+planificar y diseñar mecanismos legales especializados con el fin de
+lograr eficazmente combatir la delincuencia juvenil.</p>
+<p>Esta contribución, como se mencionó anteriormente, tiene como
+objetivo principal revisar, analizar y comparar el marco jurídico
+nacional e internacional en materia de justicia penal para adolescentes
+que existen en los países de México, Colombia y Chile, siendo este
+análisis el soporte teórico y documental que respalda el contenido de
+esta contribución</p>
+<p>En este estudio se siguió una metodología deductiva, analítica y
+comparativa, basándonos en la aplicación de la técnica documental,
+partiendo de una interrogante central: ¿hay diferencias en el sistema de
+enjuiciamiento de menores en México con respecto a los países de
+Colombia y Chile?</p>
+<p>Para realizar este estudio jurídico y documental hicimos una revisión
+minuciosa de la legislación internacional, así como la nacional de cada
+uno de los países abordados en la presente contribución, basándonos en
+páginas de los congresos locales de cada país, pero también revisando
+bases de datos como Redalyc, Scielo y Dialnet. Lo anterior con el
+objetivo de dar el sustento teórico de la problemática en estudio.</p>
+<p>Desde esta perspectiva de análisis puede visualizarse a nivel mundial
+la necesidad de implementar normas jurídicas a la luz de los
+instrumentos internacionales que ayuden a combatir y controlar la
+delincuencia juvenil que experimentan y sufre cada país. Esta
+contribución obedece a una investigación de tipo descriptivo, en la que
+se utilizó la técnica documental para la recopilación de datos e
+información relacionada con el contexto y los objetivos del presente
+trabajo. Asimismo, los métodos utilizados para la construcción del mismo
+fueron el deductivo, analítico y comparativo.</p>
+<p>Es importante destacar que, en los últimos años, en México se
+visualiza un aumento en la delincuencia juvenil, así como una
+transformación en las formas de operación del crimen organizado en aras
+de reclutar a niños, niñas y adolescentes. Por tal motivo, nos interesó
+agregar el país colombiano, ya que comparte diversos aspectos semejantes
+con los de México, uno de ellos —que tal vez cae en un tópico común— es
+el fenómeno del narcotráfico. Si bien es cierto que en los últimos años
+Colombia ha luchado por recuperar la seguridad en la sociedad, México
+vive sumido en una lucha interminable. Es por lo anterior que ambos
+países se identifican con un contexto político y una realidad social
+similar.</p>
+<p>Por otra parte, agregar el país chileno a esta contribución no solo a
+los estrechos vínculos políticos, económicos y culturales con México,
+sino también a que dicho país ha estudiado las características del
+adolescente infractor, así como aquellas conductas que obedecen al
+antes, durante y después del delito. Esto con el fin de determinar la
+responsabilidad penal, pero además adecuar los programas pertinentes
+para su efectiva reinserción social del menor.</p>
+<p>Esta contribución se divide en un tema central: generalidades del
+nuevo sistema de justicia penal para adolescentes a la luz del derecho
+comparado. En este se aborda el reto de implementar un modelo de
+justicia de menores con base en los instrumentos internacionales.
+Consecutivamente, este aparatado se subdivide en tres subtemas, cada uno
+de ellos refleja el desarrollo, evolución e implementación del sistema
+de justicia penal para menores en México, Colombia y Chile,
+respectivamente, logrando ver lo que está jurídicamente regulado, que
+para efectos de esta contribución nos concierna.</p>
+<p>Por último, se plantean reflexiones derivadas del análisis y
+comparaciones que se hicieron en los sistemas de enjuiciamiento penal
+para menores en los tres países antes señalados, así como el reto que
+han enfrentado dichos sistemas en el proceso de armonización legislativa
+de estos con el contenido de tratados internacionales que cada país ha
+suscrito en materia de derechos humanos, haciendo en todo momento
+hincapié sobre los principios de los y las adolescentes sujetos a la
+justicia penal.</p>
+<p>Encontrándose como principal hallazgo en esta contribución que, los
+sistemas de justicia penal para adolescentes de México y Colombia han
+sido influenciados por los instrumentos internacionales. Por un lado,
+Colombia reconoce en su Constitución derechos de niños, niñas y
+adolescentes y, además, cuenta con el Código de la Infancia y la
+Adolescencia, el cual regula en un apartado específico la
+responsabilidad penal juvenil. En contraste, en la Constitución mexicana
+no hay indicios de preceptos que mencionen derechos y deberes
+específicos a este grupo cuando están en conflicto con la ley.</p>
+<sec><title>II. Generalidades del nuevo sistema de justicia penal para</title>
+<p>Lamentablemente, la existencia de adolescentes que delinquen es una
+realidad que, y el camino de implementación de un sistema de justicia
+penal para ellos y ellas no ha sido fácil, así como tampoco el abordaje
+del fenómeno de la delincuencia juvenil, pues este depende mucho del
+contexto y problemas sociales de cada país. Afortunadamente, con la
+firma y ratificación de Instrumentos Internacionales, cuyos textos
+sirven para observancia de fallas y deficiencias de los países miembros,
+se ha logrado regular jurídicamente las posibles violaciones a derechos
+humanos de niñas, niños y adolescentes en los Estados parte.</p>
+<p>El sistema de protección de los derechos de la infancia y la
+adolescencia comenzó en 1989 con la aprobación de la Convención sobre
+los Derechos del Niño (CDN) por parte de las Naciones
+Unidas.<xref ref-type="fn" rid="fn2"><sup>2</sup></xref> Se trata de una convención
+internacional que detalla los derechos civiles, políticos, económicos,
+sociales y culturales del menor y los Estados que la ratifican están
+jurídicamente vinculados a ella. Asimismo, existe el Comité de los
+Derechos del Niño, organismo de expertos independientes que monitorea la
+ejecución de la CDN en los Estados parte.</p>
+<p>La CDN protege a los niños, niñas y adolescentes que constituyen un
+grupo altamente vulnerables y al estar en pleno desarrollo necesita de
+cuidados especiales, así como lo afirma la siguiente declaración: “…el
+niño, por su falta de madurez física y mental, necesita protección y
+cuidado especiales incluso la debida protección legal, tanto durante
+como después del nacimiento…”<xref ref-type="fn" rid="fn3"><sup>3</sup></xref></p>
+<p>Es por esto que, si se garantiza que los niños, las niñas y
+adolescentes vivan y se desarrollen con los cuidados necesarios, podrían
+convivir amenamente en la sociedad. En el caso de aquellos que se
+encuentren con problemas ante la ley, es el gobierno quien está obligado
+a garantizar su protección y un lugar seguro, de acuerdo con sus
+características y necesidades, a fin de que logren desarrollarse
+adecuadamente.</p>
+<p>Los instrumentos internacionales a nivel mundial siempre buscarán la
+protección del interés superior de la niñez, mismo que encontramos
+consagrado en el artículo 3.1 de la CDN:</p>
+<p>En todas las medidas concernientes a los niños que tomen las
+instituciones públicas o privadas de bienestar social, los tribunales,
+las autoridades administrativas o los órganos legislativos, una
+consideración primordial a que se atenderá será el interés superior del
+niño…<xref ref-type="fn" rid="fn4"><sup>4</sup></xref></p>
+<p>De acuerdo con la cita anterior, se sostiene que los Estados parte de
+la CDN tienen como consideración primordial atender el interés superior
+de las niñas, niños y adolescentes (NNA), de acuerdo con todas las
+medidas concernientes que se tomen, ya sea en el ámbito público o
+privado.</p>
+<p>Para efectos la CDN resulta importante determinar qué es un niño.
+Este se define en el artículo 1 de dicha Convención de la siguiente
+manera: “…por niño todo ser humano menor de dieciocho años, salvo que,
+en virtud de la ley que le sea
+aplicable…”<xref ref-type="fn" rid="fn5"><sup>5</sup></xref> Se deduce que, desde
+el nacimiento hasta antes de los 18 años, una persona es considerada
+niño o niña, salvo a lo establecido por la ley de cada país miembro.
+Cabe destacar que la CDN es la única convención que protege directamente
+sus derechos, aunque existe un cúmulo de estatutos e instrumentos de
+organismos especializados e internacionales que se interesan en su
+bienestar.</p>
+<p>En tal sentido, la Comisión Nacional de Derechos Humanos (CNDH)
+establece los principales principios sociales y jurídicos generales de
+la justicia penal para menores, además recomienda la creación de un
+sistema integral para adolescentes, cuyo principal fundamento está en
+los artículos 37 y 40 de dicho ordenamiento, mismo que son respaldados
+por otros instrumentos internacionales como las Reglas Mínimas de las
+Naciones Unidas para la Administración de la Justicia de Menores (Reglas
+de Beijing), Directrices de las Naciones Unidas para la Prevención de la
+Delincuencia Juvenil (Directrices de Riad) y Reglas para la Protección
+de Menores Privados de Libertad.</p>
+<p>El artículo 37 de la CDN<xref ref-type="fn" rid="fn6"><sup>6</sup></xref> toma
+de referencia sus incisos como principios fundamentales para un sistema
+integral de justicia para adolescentes, señalando que la privación de la
+libertad será la última medida y durante un periodo corto. Asimismo, los
+y las niñas deben ser tratados con el respeto y dignidad que se merecen,
+de acuerdo con su edad y características, por la cual deben estar
+apartados y separados de los adultos. También, en todo momento del
+proceso, tienen el derecho a asistencia jurídica y adecuada.</p>
+<p>El artículo 40 de la CDN menciona que los Estados están obligados a
+garantizar sus derechos a los niños, las niñas y adolescentes que han
+infringido la ley penal. En sus propias palabras:</p>
+<p>…a ser tratado de manera acorde con el fomento de su sentido de la
+dignidad y el valor, que fortalezca el respeto del niño por los derechos
+humanos y las libertades fundamentales de terceros y en la que se tengan
+en cuenta la edad del niño y la importancia de promover la reintegración
+del niño y de que éste asuma una función constructiva en la
+sociedad…<xref ref-type="fn" rid="fn7"><sup>7</sup></xref></p>
+<p>Es decir, deben de ser tratados con dignidad, considerando en todo
+momento su edad y características, y se le deben proporcionar los
+recursos necesarios para lograr su reintegración a la sociedad. En el
+mismo artículo se afirma que corresponde a los Estados parte garantizar
+el cumplimiento de estas disposiciones mediante la adopción de medidas y
+herramientas necesarias y apropiadas para las y los adolescentes que
+infringen la ley penal.</p>
+<p>Por otra parte, en las Reglas de Beijing se prevén medidas
+específicas que cubren varias fases de justicia juvenil, se basa de
+varios principios para la prevención del delito y tratamiento del menor
+delincuente, logrando que sea aplicable en diferentes sistemas
+jurídicos. En estas reglas se definen los conceptos “menor” y “delito”,
+siendo dos componentes del concepto de menor delincuente, que se define
+como: “…todo niño o joven al que se ha imputado la comisión de un delito
+o se le ha considerado culpable de la comisión de un
+delito…”<xref ref-type="fn" rid="fn8"><sup>8</sup></xref></p>
+<p>Anudado a lo anterior, queda decir que el menor que infringe la ley
+no contiene un parámetro de edad. En consecuencia, corresponde a los
+Estados parte determinar las edades mínima y máxima para estos efectos.
+Esta una flexibilidad de dichas reglas y que a su vez lo considera de
+esta manera para respetar los sistemas económico, social, político,
+cultural y jurídico de los Estados miembros.</p>
+<p>Por otro lado, las Directrices de Riad sostienen lo siguiente: “…Si
+los jóvenes se dedican a actividades lícitas y socialmente útiles, se
+orientan hacia la sociedad y enfocan la vida con criterio humanista,
+pueden adquirir actitudes no
+criminógenas…”<xref ref-type="fn" rid="fn9"><sup>9</sup></xref> Esto quiere decir
+que si nos enfocamos y estamos bien orientados es baja la probabilidad
+de poder adquirir actitudes delictivas, por eso estas directrices están
+enfocadas en la prevención de la delincuencia juvenil.</p>
+<p>Las Directrices de Riad están enfocadas en la convivencia social,
+entendida como el desarrollo armónico de los individuos, logrando buenos
+resultados en la personalidad de los y las menores. Se enfatiza la
+importancia de prestar atención desde la infancia para así lograr que se
+desarrollen empeñando una función activa y productiva en la sociedad.
+Del mismo modo, en el artículo 5 de estas directrices se destaca que los
+Estados miembros serán quienes se encarguen de crear mecanismos,
+servicios y programas con base a la prevención de la delincuencia
+juvenil, a través de organismos, instituciones y personal competente y
+altamente capacitado.</p>
+<p>En el mismo sentido, las Reglas para la Protección de Menores
+Privados de Libertad tienen como objetivo central: “…contrarrestar los
+efectos perjudiciales de la privación de libertad, garantizando los
+derechos humanos de los
+menores…”<xref ref-type="fn" rid="fn10"><sup>10</sup></xref> En todo momento, hace
+hincapié en que la privación de la libertad será el último recurso, de
+ser implementada durará lo menos posible y en todo momento del proceso
+se deberán respetar los derechos y la seguridad de las y los menores,
+además de su bienestar físico y mental.</p>
+<p>También, en estas reglas se establece el alcance de edad al que
+surtirá efectos dicho documento internacional, estableciendo que esto
+será aplicable en toda persona menor de 18 años. De igual manera, en las
+Reglas para la Protección de Menores Privados de Libertad se establecen
+reglas para la administración del tratamiento de los menores y las
+condiciones que deben de tener las instituciones para lograrlo,
+recordando que todo personal deberá estar capacitado y ser competente
+para el trato de los adolescentes en conflicto con la ley.</p>
+<p>Dicho brevemente, los instrumentos internacionales crean reglas para
+las necesidades y problemáticas que acontecen en la sociedad, con el fin
+de que en todo momento se protejan los derechos humanos de las y los
+menores, independientemente si ellos o ellas han cometido un delito.</p>
+<list list-type="alpha-upper">
+<list-item>
+<p><italic><bold>Caso México</bold></italic></p>
+</list-item>
+</list>
+<p>De acuerdo con la Encuesta Nacional de Adolescentes en el Sistema de
+Justicia Penal (ENASJUP), en el año 2022 se reportó que: “…56.5 % de las
+y los adolescentes en el Sistema Integral de Justicia Penal para
+Adolescentes (SIJPA) cumplía una medida de sanción en externación y 30.2
+% cumplía una sanción de
+internamiento…”<xref ref-type="fn" rid="fn11"><sup>11</sup></xref> En esta encuesta
+se consideró una muestra de:</p>
+<p>2,715 personas adolescentes de 12 a 17 años que se encontraron centro
+del Sistema Integral de Justicia Penal para adolescentes (SIJPA) y que
+tuvieron, como medida cautelar, el internamiento preventivo o una medida
+de sanción privativa o no privativa de la libertad por la comisión de un
+delito.<xref ref-type="fn" rid="fn12"><sup>12</sup></xref></p>
+<p>De acuerdo con los datos reportados en el año 2022, ENASJUP sostienen
+lo siguiente: “…las cifras indican que desde 2017, el porcentaje de
+personas jóvenes internadas por algún delito se incrementó casi al
+doble, por ello, de pasar 17% para dicho año a 30.2% en
+2022…”<xref ref-type="fn" rid="fn13"><sup>13</sup></xref> Cabe resaltar que existe
+una relación entre los cambios sociales y la consumación de delitos,
+esto quiere decir que para el 2017 el principal delito entre jóvenes era
+el robo, para el año 2022 <bold>―</bold>y en la actualidad<bold>―</bold>
+los principales delitos se relacionan con nexos con el narcotráfico,
+portación de armas y venta de drogas.</p>
+<p>En México, la situación de adolescentes infractores es un tema
+complejo. La constante persistencia de los mecanismos e instrumentos
+internacionales a través de diversos informes por parte la CNDH, a
+partir del año 2003, dejan en evidencia a México por contar con un
+deficiente sistema de justicia penal para menores. En un primer punto se
+sostiene que: “…los esfuerzos de los agentes públicos por alcanzar las
+metas y aplicar los programas de las nuevas ordenanzas con numerosas
+restricciones, austeridades y contradicciones. En este sentido, denota
+la respuesta del Estado mexicano al tema de la delincuencia juvenil y a
+la implementación de los derechos de niños, niñas y
+adolescentes…”<xref ref-type="fn" rid="fn14"><sup>14</sup></xref></p>
+<p>Los instrumentos internacionales sostenían, en ese entonces, que
+dicho sistema de justicia penal para menores era toda clase de violación
+a sus principios de integridad. Como lo afirma el portal de las Naciones
+Unidas, lo que se busca obtener es un mundo adecuado en que a los niños,
+niñas y adolescentes se les garantice una vida digna.</p>
+<p>Se destaca un informe, el que puso en reto a México para implementar
+un nuevo modelo de justicia para adolescentes, elaborado por la CNDH,
+titulado <italic>Informe Especial sobre los Centros de Tratamiento
+Interno para Adolescentes que Infringen la Ley Penal de la república
+mexicana (2003-2014)</italic>, en el cual se evidencian las deficiencias
+y carencias en el sistema mexicano y los lugares insalubres de los
+centros de internamiento:</p>
 <p>En lo general, los resultados fueron:</p>
-<disp-quote>
-<p>De las visitas realizadas a los 54 centros de tratamiento interno para adolescentes que existían en ese momento en todo el país, y en donde se describen diversas deficiencias y carencias detectadas, relacionadas con las instalaciones, falta de clasificación, insuficiencia de personal y atención técnica, deficiencias en el trato y carencia de áreas especiales para mujeres, entre otras.<xref ref-type="fn" rid="fn15"><sup>15</sup></xref>
-</p>
-</disp-quote>
-<p>Con base en lo anterior, este informe ha sido el más completo, pues evidenció a México. Los primeros resultados fueron publicados en 2003, dándole un llamado al país para que resolviera la problemática y llevara a cabo las acciones necesarias para garantizar los derechos humanos, dado que la CNDH ya tenía catalogado que en su sistema de menores existía toda clase de violación de derechos humanos.</p>
-<p>Debido a las constantes críticas por parte de la CNDH, México empezó un transcendental camino para lograr un gran avance en el derecho penal en materia de menores, imperando en todo momento los principios y garantías de derechos humanos establecidos por los instrumentos internacionales. Dicho proceso se basó en la doctrina de protección integral de las Naciones Unidas, atendiendo siempre al interés del adolescente en conflicto con la ley penal. De igual forma, se estableció la vigilancia de todas y todos los que complementan la función de dicha ley, debido a que se encuentran obligados a garantizar estos principios, donde su base fundamental se encuentra en materia internacional.</p>
-<p>En México existen tres reformas constitucionales determinantes en materia de justicia penal para adolescentes. La reforma que marcó un cambio transcendental fue la del año 2005, mediante la cual se reformó:</p>
-<disp-quote>
-<p>…el artículo 18 en donde se definió las bases del Sistema Integral de Justicia para Adolescentes; la del 2008, donde se reformó el artículo 20 en el que se estableció el modelo acusatorio para los procesos penales y; finalmente en 2011 la de derechos humanos que incorporó de manera transversal el principio pro-persona.<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>
-</p>
-</disp-quote>
-<p>Por otro lado, la reforma constitucional del 2005 señala lo siguiente: “…el 12 de septiembre de 2006 sería la fecha de conclusión del plazo para que los Estados y el entonces Distrito Federal crearan las leyes, instituciones y órganos necesarios para la aplicación de dicho sistema…<xref ref-type="fn" rid="fn17"><sup>17</sup></xref> Así, logra una homologación y un mismo sistema integral de justicia, mismo plazo que tomó la CNDH para verificar el cumplimiento de la reforma: “…llevando a cabo 318 visitas de supervisión a diversos lugares, tales como agencias del ministerio público, juzgados, centros de tratamiento interno, áreas de defensoría pública y autoridades administrativas responsables del seguimiento de las medidas de orientación, protección y tratamiento…”<xref ref-type="fn" rid="fn18"><sup>18</sup></xref>
-</p>
-<p>De los artículos que se reformaron en 2005, la del artículo 18 Constitucional, es considerada la más transcendental en materia de justicia penal, dado que su objetivo fue la creación de un sistema integral de justicia para adolescentes a la luz de los instrumentos internacionales, donde:</p>
-<disp-quote>
-<p>Sienta las bases constitucionales para que toda persona adolescente acusada de la comisión de un delito pueda tener acceso a un juicio justo en el que se respeten sus derechos fundamentales y, en caso de que resulte responsable, pueda asumir las consecuencias de sus actos a través de la imposición de una medida que promueva su reintegración social, familiar, y el pleno desarrollo de su persona y sus capacidades.<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>
-</p>
-</disp-quote>
-<p>Con relación a lo anterior, se estaba logrando que los adolescentes obtuvieran un proceso justo y con el debido proceso. De igual forma, mediante esta reforma se logró establecer la edad penal en los 18 años. En este sentido, se crearía un sistema de justicia especializado para adolescentes, que surtiría efectos para personas de entre 12 y 18 años en toda la república mexicana.</p>
-<p>También, esta reforma introdujo la exigencia que se muestra a continuación: </p>
-<disp-quote>
-<p>…la exigencia de que el nuevo sistema estuviera a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes, los cuales deben actuar en todo momento conforme a los principios de protección integral e interés superior de las y los adolescentes…<xref ref-type="fn" rid="fn20"><sup>20</sup></xref>
-</p>
-</disp-quote>
-<p>Por lo anterior, decimos que la reforma al artículo 18 Constitucional ratifica que el nuevo modelo de sistema de justicia actuará en todo momento conforme a los principios de protección, reflejando los objetivos de los instrumentos internacionales antes mencionados.</p>
-<p>En México no existe un apartado o artículo específico en la ley que establece la determinación de responsabilidad penal en los y las adolescentes en conflicto con la ley penal, aunque en diversos artículos de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes se aborda que, para determinar la responsabilidad penal de un adolescente se debe considerar factores como la edad, es decir, que tengan doce años cumplidos y menos de dieciocho; la comprobación de la conducta ilícita, así como el grado de la participación del adolescente en cuestión.</p>
-<p>A pesar del avance que obtuvo México en su reforma, esto no significa que se haya concretado debidamente, ya que existe áreas y factores que requieren mejorar. Estos van más allá de seguir cambiando la legislación, se necesita un mayor esfuerzo en capacitación y especialización de quienes tienen trato con los adolescentes en conflicto con la ley penal, al igual mejores oportunidades y recursos para lograr adecuadamente su plan reinserción y reintegración a la sociedad.</p>
-<p>México, a través de estas reformas en materia de justicia para adolescentes, ha adquirido grandes cambios trascendentales, como la forma de abordar la situación de los y las adolescentes en conflicto con la ley, debido a que se regula el proceso penal bajo los principios de interés superior de la infancia donde estos instrumentos internacionales han creado un nuevo marco de la relación entre el derecho internacional y el derecho nacional en México.</p>
-</sec>
-<sec>
-<title><italic>B. El caso de Colombia</italic></title>
-<p>El fenómeno de delincuencia se ha establecido como un flagelo social, cuyos efectos negativos imperan, experimentando cambios negativos conforme a las transformaciones de los ámbitos sociales, económicos y políticos en un tiempo y espacio determinado. Es por esto por lo que se empleó identificar y revisar los mecanismos legales en materia de responsabilidad penal para adolescentes en Colombia a la luz de los instrumentos internacionales. Esta contribución tiene como objetivo comparar el marco normativo vigente en Colombia con el de México y, a su vez, con el de Chile.</p>
-<p>Se considera que el gobierno colombiano ha realizado esfuerzos para incluir los lineamientos del sistema de justicia juvenil e integrarlos a la normatividad interna en atención a los derechos humanos. Dicho lo anterior, con la reforma Constitucional de 1991, Colombia logró dar entrada al Estado social de derecho, debido a que: “…en esa época, la violencia azotaba cada rincón del país. Solo en enero de ese año, para poner en relieve la magnitud de la violencia, 1.200 personas fueron asesinadas en Medellín...”<xref ref-type="fn" rid="fn21"><sup>21</sup></xref>
-</p>
-<p> Colombia, para esos años, se encontraba con una:</p>
-<disp-quote>
-<p>…ola de asesinatos y masacres perpetradas por grupos de narcotraficantes y paramilitares eran constantes y había superado la capacidad del Estado de reaccionar y controlar cada hecho de violencia que se presentaba, uno tras otro, en todo el territorio nacional...<xref ref-type="fn" rid="fn22"><sup>22</sup></xref>
-</p>
-</disp-quote>
-<p>Eran tan altos los índices de violencia esos años, que estaban inmiscuido hasta los adolescentes, por lo que el país tenía la necesidad de actualizar a la brevedad su normativa constitucional. Anterior a esta reforma, en materia de asuntos para niños, niñas y adolescentes, Colombia contaba con el Decreto 2737 Código del Menor.<xref ref-type="fn" rid="fn23"><sup>23</sup></xref> Posteriormente, debido a la violencia, se presentó la urgencia de reformar la Constitución colombiana. Dicha reforma se llevó a cabo apegándose a lo establecido por los instrumentos internacionales y constituyó el paso a velar por los derechos humanos, incorporando modificaciones significativas respecto a los derechos de las y los ciudadanos colombianos.</p>
-<p>Uno de los cambios transcendentales que se logró con la reforma colombiana de los artículos 44 y 45 Constitucionales, fue la constitucionalización de los derechos fundamentales de niños, niñas y adolescentes: </p>
-<disp-quote>
-<p>…tomando como soporte los principios y derechos contenidos en la Convención Internacional de los Derechos del Niño de 1989 adoptada por la Asamblea General de las Naciones Unidas y aprobada en Colombia mediante la Ley 12 de enero 22 de 1991.<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>
-</p>
-</disp-quote>
-<p>En Colombia, hablar de menores de edad como sujetos responsables de conductas delictivas se encuentran bajo una jurisdicción especial y separada de la de adultos. Con la Ley 1098 de 2006, por la cual se logra expedir el Código de la Infancia y la Adolescencia (CIA),<xref ref-type="fn" rid="fn25"><sup>25</sup></xref> se establece lo siguiente:</p>
-<disp-quote>
-<p>…Libro Segundo consagra el Sistema de Responsabilidad Penal para Adolescentes (SRPA), donde la óptica respecto de los menores, y especialmente a los adolescentes cambia y se relaciona a estos dentro de la sociedad como sujetos de derechos y deberes, sin desconocer el principio de interés superior del adolescente infractor…<xref ref-type="fn" rid="fn26"><sup>26</sup></xref>
-</p>
-</disp-quote>
-<p>El CIA toma como soporte los principios y derechos emanados de la Convención Internacional de Derechos de la Niñez, adoptada y aprobada en Colombia para sus disposiciones legales. En el artículo 139 se establece que:</p>
-<disp-quote>
-<p>…El sistema de responsabilidad penal para adolescentes es el conjunto de principios, normas, procedimientos, autoridades judiciales especializadas y entes administrativos que rigen o intervienen en la investigación y juzgamiento de delitos cometidos por personas que tengan entre catorce (14) y dieciocho (18) años al momento de cometer el hecho punible…<xref ref-type="fn" rid="fn27"><sup>27</sup></xref>
-</p>
-</disp-quote>
-<p>Es apreciable notar que, mientras en México es titulado como Sistema Integral de Justicia para Adolescentes, cuya regulación se encuentra en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, en Colombia es titulado como Sistema de Responsabilidad Penal para Adolescentes, donde su regulación emana del Código de la Infancia y la Adolescencia. Este punto es importante de analizar debido que en México se rigen por una ley que constituye una norma general, mientras que en Colombia cuentan con un código que sistematiza leyes que tratan sobre un área específica del derecho, en este caso, en materia de menores y adolescentes.</p>
-<p>El Sistema de Responsabilidad Penal para Adolescentes, en su artículo 140 del (CIA) estable como finalidad, que: </p>
-<disp-quote>
-<p>…en materia de responsabilidad penal para adolescentes, tanto el proceso como las medidas que se tomen son de carácter pedagógico, específico y diferenciado respecto del sistema de adultos, conforme a la protección integral. El proceso deberá́ garantizar la justicia restaurativa, la verdad y la reparación del daño…<xref ref-type="fn" rid="fn28"><sup>28</sup></xref>
-</p>
-</disp-quote>
-<p>Entonces, mientras la finalidad del Sistema de Responsabilidad Penal para Adolescente es garantizar la justicia restaurativa, para México el Sistema Integral de Justicia para Adolescentes es lograr la reinserción social. </p>
-<p>Es apreciable notar que el desarrollo del contexto jurídico por el que ha pasado Colombia ha evolucionado a través del emergente estudio y análisis por proteger a niños, niñas y adolescentes de factores que inciden y detonan conductas, dando cumplimiento a los compromisos en que forma parte Colombia con los Instrumentos internacionales. </p>
-<p>En definitiva, a través de la Convención Internacional de los Derechos del Niño, en relación con la administración de justicia de menores de edad, en Colombia se expidió la Ley 1098 de 2006, a través de la cual se comprometió a adecuar toda su legislación conforme a lo estipulado en dicha ley, lográndolo de manera gradual en todo su territorio: “…De esta manera el país ha venido armonizándose con la normatividad internacional en materia de justicia penal juvenil…”<xref ref-type="fn" rid="fn29"><sup>29</sup></xref>
-</p>
-<p>Conforme a la ratificación por parte de Colombia de la Convención sobre los Derechos del Niño, se dio el paso a imperar “la protección integral de los niños, niñas y adolescentes como sujetos especiales de derecho que nace a partir de la expedición de este tratado.”<xref ref-type="fn" rid="fn30"><sup>30</sup></xref> En virtud de la cita anterior, el artículo 6 de la Ley 1098 de 2006 (CIA), establece que:</p>
-<disp-quote>
-<p>Las normas contenidas en la Constitución Política y en los tratados o convenios internacionales de Derechos Humanos ratificados por Colombia, en especial la Convención sobre los Derechos del Niño, harán parte integral de este Código, y servirán de guía para su interpretación y aplicación. En todo caso, se aplicará siempre la norma más favorable al interés superior del niño, niña o adolescente.</p>
-</disp-quote>
-<p>De igual forma, en el artículo 7 de la Ley 1098 de 2006, establece lo siguiente: </p>
-<disp-quote>
-<p>Se entiende por protección integral de los niños, niñas y adolescentes el reconocimiento como sujetos de derechos, la garantía y cumplimiento de los mismos, la prevención de su amenaza o vulneración y la seguridad de su restablecimiento inmediato en desarrollo del principio del interés superior. </p>
-</disp-quote>
-<disp-quote>
-<p>La protección integral se materializa en el conjunto de políticas, planes, programas y acciones que se ejecuten en los ámbitos nacional, departamental, distrital y municipal con la correspondiente asignación de recursos financieros, físicos y humanos.</p>
-</disp-quote>
-<p>Con lo anteriormente expuesto, se refleja la priorización de los derechos de la niñez y adolescencia. En este sentido, la ley 1098 de 2006 creó el Código de la Infancia y la Adolescencia; en cuanto al Sistema de Responsabilidad Penal para Adolescentes, sus lineamientos también acogen los conceptos emanados por la Convención sobre los Derechos del Niño y demás instrumentos internacionales.</p>
-<p>La ley 1098 de 2006, mejor conocida como el Código de la Infancia y de la Adolescencia, libro II, aborda lo relacionado con el Sistema de Responsabilidad Penal para Adolescentes y los procedimientos especiales cuando se trata de niños, niñas y adolescentes víctimas de delitos, conllevó a Colombia, a:</p>
-<disp-quote>
-<p>La necesidad de empezar a configurar un Sistema Penal Juvenil que garantice la verdad, la justicia y la reparación del daño, además que se ocupe del restablecimiento efectivo de sus derechos, asumiendo que se trata de un ser humano en formación. De esta manera, el proceso y la sanción darían cumplimiento al carácter pedagógico, diferenciado y restaurativo que les asigna el artículo 140 de la Ley 1098 de 2006.<xref ref-type="fn" rid="fn31"><sup>31</sup></xref>
-</p>
-</disp-quote>
-<p>En definitiva, los principios y conceptos que orientan este sistema se materializaron y constitucionalizaron con los pilares y mecanismos de los instrumentos internacionales, teniendo como punto principal la ratificación de Colombia a la Convención sobre los Derechos del Niño.</p>
-<p>Este país procura el bienestar del menor, evitando su paso por el Sistema de Responsabilidad Penal para Adolescentes o, en su defecto, dándole un tratamiento adecuado a su edad; es así como se empieza a implementar un nuevo modelo de justicia penal. </p>
-<p>A su vez, procura en todo momento lograr la prevención de la delincuencia juvenil, con base en lo establecido por las Directrices Riad, las cuales tienen el siguiente objetivo: “…la prevención general de la delincuencia en adolescentes. En todos los niveles del gobierno, los Estados deben tener planes generales de prevención, fijando métodos concretos para disminuir eficazmente la delincuencia juvenil…”<xref ref-type="fn" rid="fn32"><sup>32</sup></xref>
-</p>
-<p>Del mismo sentido, Gómez sostiene que: </p>
-<disp-quote>
-<p>La prevención de la delincuencia es parte esencial de la prevención del delito en la sociedad, por ello los programas preventivos deben centrarse, en el bienestar de los jóvenes desde su primera infancia. En todos los niveles de gobierno se deben aplicar estos programas que periódicamente deberán ser supervisados, evaluados y modificados a fin de aumentar su eficacia.<xref ref-type="fn" rid="fn33"><sup>33</sup></xref>
-</p>
-</disp-quote>
-<p>Colombia cuenta con el documento del Consejo Nacional de Política Económica y Social (<xref ref-type="bibr" rid="B8">CONPES</xref>) para la prevención de la delincuencia juvenil en construcción, el cual sostiene que:</p>
-<disp-quote>
-<p>…el país atraviesa por una etapa de transición en materia de enfoques, aprendizajes institucionales y políticas para el tratamiento del adolescente que han cometido conductas punibles. Requiere de ajustes institucionales y análisis sobre las dinámicas del sistema para avanzar, de manera idónea, en acciones de atención y prevención…<xref ref-type="fn" rid="fn34"><sup>34</sup></xref>
-</p>
-</disp-quote>
-<p>Con respecto a lo anterior, Colombia tenía la necesidad de actuar para lograr un sistema que facilitara al adolescente su real inserción y reinserción social conforme el goce efectivo de sus derechos. En la actualidad, desde el año 2022, promueve la transformación del Sistema de Responsabilidad Penal de Adolescentes, mediante el Instituto Colombiano Bienestar Familiar (ICBF) y en alianza con la oficina de las Naciones Unidas contra la Droga y el Delito (UNODC).</p>
-<p>El ICBF 2025 recopila los siguientes datos: “…en Colombia, cerca de 8.400 jóvenes están vinculados al SRPA, y de estos 3,341 están privados de la libertad…”<xref ref-type="fn" rid="fn35"><sup>35</sup></xref> A su vez: “…la reincidencia en el SRPA es de 19.9 % lo que quiere decir que uno de cada cinco adolescentes recae por algún delito, lo que se traduce en que puede ser decretada una nueva privación de libertad…”<xref ref-type="fn" rid="fn36"><sup>36</sup></xref> Frente a esta situación, Colombia ha iniciado la misión de reforzar las capacidades del Estado en la atención especializada de adolescentes y jóvenes, permitiendo reducir la delincuencia juvenil y la reincidencia de los adolescentes.</p>
-<p>Esta nueva propuesta surge para construir nuevas oportunidades para los adolescentes, a partir del reconocimiento de fortalezas y debilidades de quienes ingresan al sistema de responsabilidad penal colombiano, con la finalidad de crear proyectos de vida legal evitando la reincidencia, la cual, mediante una metodología con ayuda de equipos especializados de atención del SRPA se obtendrá identificar los factores de riesgo y oportunidades para la gestión de casos de manera individualizada y con la posibilidad de monitorear su evolución desde los principios de protección integral de la infancia y adolescencia.</p>
-</sec>
-<sec>
-<title><italic>C) Caso Chile</italic></title>
-<p>El fenómeno de delincuencia juvenil es un gran desafío de estudio en todos los contextos. Es una realidad que los países latinoamericanos se encuentran con escasas herramientas para prevenir la delincuencia juvenil, evolucionando este fenómeno de manera exponencial, perfeccionándose las formas en las que accionan los jóvenes. </p>
-<p>Desde esta perspectiva, se visualiza la necesidad que enfrentan los países para lograr la instrumentación de normas jurídicas que ayuden a erradicar el fenómeno de la delincuencia juvenil, mediante las cual se combatan algunos factores criminológicos que desencadenan conductas antisociales en los menores. </p>
-<p>Es de gran relevancia identificar y revisar los mecanismos legales en materia de responsabilidad penal para adolescentes en Chile a la luz de los instrumentos internacionales, debido a que este país se ha encargado de que sus programas de prevención para adolescentes infractores se estructuren de acuerdo con sus antecedentes, como la historia de vida, identificando los factores que coadyuvaron a que el adolescente cometiera una conducta ilícita con el fin, de disminuir el número de adolescentes implicados en delitos.</p>
-<p>Por consiguiente, para las investigadoras es preciso destacar que, tanto México como Chile comparten un sistema jurídico con similitudes, pues cuentan con el mismo tipo de organización gubernamental, además de que se encuentran estrechamente ligados a nexos políticos, económicos y culturales.</p>
-<p>Es relevante mencionar que Chile logró disminuir sus índices de delincuencia juvenil. De acuerdo con el Observatorio de Derechos de la Defensoría de la Niñez, se revisó y analizaron, desde el año 2018 hasta el 2021, los datos obtenidos por el Ministerio Público y por el Servicio Nacional de Menores de Chile, llegando a la siguiente conclusión: </p>
-<disp-quote>
-<p>Ha disminuido la participación de adolescentes en delitos, lo que se constata al examinar la cantidad de ingresos al sistema de adolescentes penalmente responsables (33.836 en 2018, 20.194 en 2021), como también si se mira la distribución de delitos de mayor connotación social en comparación al total de la población. En 2018, los delitos cometidos por adolescentes de 14 a 17 años representaban un 11% del total, mientras que esa proporción, en 2021, llega sólo al 7%.<xref ref-type="fn" rid="fn37"><sup>37</sup></xref>
-</p>
-</disp-quote>
-<p>Sin embargo, en el mismo análisis se revelan cifras preocupantes, ya que, aunque el índice de participación de adolescentes en delitos ha disminuido, por otra parte, ha ido en aumento el índice de delitos graves que involucran adolescentes infractores de ley. El observatorio de derechos profundiza lo siguiente:</p>
-<disp-quote>
-<p>Estaría aumentando la proporción de delitos asociados al uso de armas, de un 4% en 2018 a un 7% en mayo de 2022. Asimismo, entre 2021 y mayo de 2022, ha aumentado la proporción de delitos de alta connotación pública y delitos violentos. Cabe destacar que, con este aumento, dichas cifras vuelven a las mismas proporciones registradas en 2019, determinándose un alza importante en el delito de lesiones leves (de un 13,5% a un 30,5% desde 2019 a la actualidad).<xref ref-type="fn" rid="fn38"><sup>38</sup></xref>
-</p>
-</disp-quote>
-<p>A partir del año 2022, la delincuencia juvenil ha mostrado una notable alza, pasando a ser un tema preocupante y alarmante para la sociedad chilena, por lo cual se le exige al gobierno chileno realizar medidas drásticas e inmediatas. Eduardo Durán arroja las siguientes cifras: “…En 2023, la tasa de detención de menores involucrados en delitos violentos se incrementó un 15% respecto al año anterior, según datos del Ministerio del Interior…”<xref ref-type="fn" rid="fn39"><sup>39</sup></xref>
-</p>
-<p>Chile cuanta con la Ley de Responsabilidad Penal Adolescentes N.º 20.084 (LRPA) busca lo que se menciona a continuación: </p>
-<disp-quote>
-<p>…responsabilizar a los adolescentes menores de 18 años y mayores de 14, que resulten infractores de la ley penal, pero con el objetivo principal de que la sanción aplicable forme parte de una intervención socioeducativa amplia y orientada a la plena integración social...<xref ref-type="fn" rid="fn40"><sup>40</sup></xref>
-</p>
-</disp-quote>
-<p>En Chile ha sido muy discutida la responsabilidad penal en menores de edad, anteriormente contaban con un régimen, entre los 16 a 18 años para aplicarles una pena por haber cometido un delito; se les aplicaba un examen llamado discernimiento, de acuerdo con el portal de la biblioteca del Congreso Nacional de Chile, el aplicar el examen de discernimiento, daba función a: </p>
-<disp-quote>
-<p>verificar si estaban conscientes del delito cometido. Si el juez determinaba que había conciencia de ello, el menor era condenado como un adulto y recluido en recintos de Gendarmería. De lo contrario, pasaba a los centros del Sename, bajo la figura de protección, sin derecho a defensa gratuita, sin límite de tiempo y sin las garantías de un debido proceso.<xref ref-type="fn" rid="fn41"><sup>41</sup></xref>
-</p>
-</disp-quote>
-<disp-quote>
-<p>Para Winter, discernimiento se define como: </p>
-</disp-quote>
-<disp-quote>
-<p>tratar de determinar si el menor era capaz de entender qué es lo que había hecho o cuál era la envergadura de lo que había realizado. Hoy en día eso cambió, ya no existe un examen de discernimiento y sí existe una responsabilidad penal de todos los adolescentes entre 14 a 17 años de edad, catalogados con un estatuto especial.<xref ref-type="fn" rid="fn42"><sup>42</sup></xref>
-</p>
-</disp-quote>
-<p>De acuerdo con lo anteriormente citado, la responsabilidad penal recaerá a todos aquellos adolescentes que infrinjan la ley penal y tengan entre 14 a 17 años. Esta responsabilidad tiene un régimen especial de determinación de la pena. En el artículo 24 de la Ley N.º 20.084, se establecen los criterios para la individualización de la pena para adolescentes infractores, siendo los siguientes:</p>
-<p>
+<p>De las visitas realizadas a los 54 centros de tratamiento interno
+para adolescentes que existían en ese momento en todo el país, y en
+donde se describen diversas deficiencias y carencias detectadas,
+relacionadas con las instalaciones, falta de clasificación,
+insuficiencia de personal y atención técnica, deficiencias en el trato y
+carencia de áreas especiales para mujeres, entre
+otras.<xref ref-type="fn" rid="fn15"><sup>15</sup></xref></p>
+<p>Con base en lo anterior, este informe ha sido el más completo, pues
+evidenció a México. Los primeros resultados fueron publicados en 2003,
+dándole un llamado al país para que resolviera la problemática y llevara
+a cabo las acciones necesarias para garantizar los derechos humanos,
+dado que la CNDH ya tenía catalogado que en su sistema de menores
+existía toda clase de violación de derechos humanos.</p>
+<p>Debido a las constantes críticas por parte de la CNDH, México empezó
+un transcendental camino para lograr un gran avance en el derecho penal
+en materia de menores, imperando en todo momento los principios y
+garantías de derechos humanos establecidos por los instrumentos
+internacionales. Dicho proceso se basó en la doctrina de protección
+integral de las Naciones Unidas, atendiendo siempre al interés del
+adolescente en conflicto con la ley penal. De igual forma, se estableció
+la vigilancia de todas y todos los que complementan la función de dicha
+ley, debido a que se encuentran obligados a garantizar estos principios,
+donde su base fundamental se encuentra en materia internacional.</p>
+<p>En México existen tres reformas constitucionales determinantes en
+materia de justicia penal para adolescentes. La reforma que marcó un
+cambio transcendental fue la del año 2005, mediante la cual se
+reformó:</p>
+<p>…el artículo 18 en donde se definió las bases del Sistema Integral de
+Justicia para Adolescentes; la del 2008, donde se reformó el artículo 20
+en el que se estableció el modelo acusatorio para los procesos penales
+y; finalmente en 2011 la de derechos humanos que incorporó de manera
+transversal el principio
+pro-persona.<xref ref-type="fn" rid="fn16"><sup>16</sup></xref></p>
+<p>Por otro lado, la reforma constitucional del 2005 señala lo
+siguiente: “…el 12 de septiembre de 2006 sería la fecha de conclusión
+del plazo para que los Estados y el entonces Distrito Federal crearan
+las leyes, instituciones y órganos necesarios para la aplicación de
+dicho sistema…<xref ref-type="fn" rid="fn17"><sup>17</sup></xref> Así, logra una
+homologación y un mismo sistema integral de justicia, mismo plazo que
+tomó la CNDH para verificar el cumplimiento de la reforma: “…llevando a
+cabo 318 visitas de supervisión a diversos lugares, tales como agencias
+del ministerio público, juzgados, centros de tratamiento interno, áreas
+de defensoría pública y autoridades administrativas responsables del
+seguimiento de las medidas de orientación, protección y
+tratamiento…”<xref ref-type="fn" rid="fn18"><sup>18</sup></xref></p>
+<p>De los artículos que se reformaron en 2005, la del artículo 18
+Constitucional, es considerada la más transcendental en materia de
+justicia penal, dado que su objetivo fue la creación de un sistema
+integral de justicia para adolescentes a la luz de los instrumentos
+internacionales, donde:</p>
+<p>Sienta las bases constitucionales para que toda persona adolescente
+acusada de la comisión de un delito pueda tener acceso a un juicio justo
+en el que se respeten sus derechos fundamentales y, en caso de que
+resulte responsable, pueda asumir las consecuencias de sus actos a
+través de la imposición de una medida que promueva su reintegración
+social, familiar, y el pleno desarrollo de su persona y sus
+capacidades.<xref ref-type="fn" rid="fn19"><sup>19</sup></xref></p>
+<p>Con relación a lo anterior, se estaba logrando que los adolescentes
+obtuvieran un proceso justo y con el debido proceso. De igual forma,
+mediante esta reforma se logró establecer la edad penal en los 18 años.
+En este sentido, se crearía un sistema de justicia especializado para
+adolescentes, que surtiría efectos para personas de entre 12 y 18 años
+en toda la república mexicana.</p>
+<p>También, esta reforma introdujo la exigencia que se muestra a
+continuación:</p>
+<p>…la exigencia de que el nuevo sistema estuviera a cargo de
+instituciones, tribunales y autoridades especializados en la procuración
+e impartición de justicia para adolescentes, los cuales deben actuar en
+todo momento conforme a los principios de protección integral e interés
+superior de las y los
+adolescentes…<xref ref-type="fn" rid="fn20"><sup>20</sup></xref></p>
+<p>Por lo anterior, decimos que la reforma al artículo 18 Constitucional
+ratifica que el nuevo modelo de sistema de justicia actuará en todo
+momento conforme a los principios de protección, reflejando los
+objetivos de los instrumentos internacionales antes mencionados.</p>
+<p>En México no existe un apartado o artículo específico en la ley que
+establece la determinación de responsabilidad penal en los y las
+adolescentes en conflicto con la ley penal, aunque en diversos artículos
+de la Ley Nacional del Sistema Integral de Justicia Penal para
+Adolescentes se aborda que, para determinar la responsabilidad penal de
+un adolescente se debe considerar factores como la edad, es decir, que
+tengan doce años cumplidos y menos de dieciocho; la comprobación de la
+conducta ilícita, así como el grado de la participación del adolescente
+en cuestión.</p>
+<p>A pesar del avance que obtuvo México en su reforma, esto no significa
+que se haya concretado debidamente, ya que existe áreas y factores que
+requieren mejorar. Estos van más allá de seguir cambiando la
+legislación, se necesita un mayor esfuerzo en capacitación y
+especialización de quienes tienen trato con los adolescentes en
+conflicto con la ley penal, al igual mejores oportunidades y recursos
+para lograr adecuadamente su plan reinserción y reintegración a la
+sociedad.</p>
+<p>México, a través de estas reformas en materia de justicia para
+adolescentes, ha adquirido grandes cambios trascendentales, como la
+forma de abordar la situación de los y las adolescentes en conflicto con
+la ley, debido a que se regula el proceso penal bajo los principios de
+interés superior de la infancia donde estos instrumentos internacionales
+han creado un nuevo marco de la relación entre el derecho internacional
+y el derecho nacional en México.</p>
+</sec><sec><title>B. El caso de Colombia</title>
+<p>El fenómeno de delincuencia se ha establecido como un flagelo social,
+cuyos efectos negativos imperan, experimentando cambios negativos
+conforme a las transformaciones de los ámbitos sociales, económicos y
+políticos en un tiempo y espacio determinado. Es por esto por lo que se
+empleó identificar y revisar los mecanismos legales en materia de
+responsabilidad penal para adolescentes en Colombia a la luz de los
+instrumentos internacionales. Esta contribución tiene como objetivo
+comparar el marco normativo vigente en Colombia con el de México y, a su
+vez, con el de Chile.</p>
+<p>Se considera que el gobierno colombiano ha realizado esfuerzos para
+incluir los lineamientos del sistema de justicia juvenil e integrarlos a
+la normatividad interna en atención a los derechos humanos. Dicho lo
+anterior, con la reforma Constitucional de 1991, Colombia logró dar
+entrada al Estado social de derecho, debido a que: “…en esa época, la
+violencia azotaba cada rincón del país. Solo en enero de ese año, para
+poner en relieve la magnitud de la violencia, 1.200 personas fueron
+asesinadas en Medellín...”<xref ref-type="fn" rid="fn21"><sup>21</sup></xref></p>
+<p>Colombia, para esos años, se encontraba con una:</p>
+<p>…ola de asesinatos y masacres perpetradas por grupos de
+narcotraficantes y paramilitares eran constantes y había superado la
+capacidad del Estado de reaccionar y controlar cada hecho de
+violencia que se presentaba, uno tras otro, en todo el territorio
+nacional...<xref ref-type="fn" rid="fn22"><sup>22</sup></xref></p>
+<p>Eran tan altos los índices de violencia esos años, que estaban
+inmiscuido hasta los adolescentes, por lo que el país tenía la necesidad
+de actualizar a la brevedad su normativa constitucional. Anterior a esta
+reforma, en materia de asuntos para niños, niñas y adolescentes,
+Colombia contaba con el Decreto 2737 Código del
+Menor.<xref ref-type="fn" rid="fn23"><sup>23</sup></xref> Posteriormente, debido a
+la violencia, se presentó la urgencia de reformar la Constitución
+colombiana. Dicha reforma se llevó a cabo apegándose a lo establecido
+por los instrumentos internacionales y constituyó el paso a velar por
+los derechos humanos, incorporando modificaciones significativas
+respecto a los derechos de las y los ciudadanos colombianos.</p>
+<p>Uno de los cambios transcendentales que se logró con la reforma
+colombiana de los artículos 44 y 45 Constitucionales, fue la
+constitucionalización de los derechos fundamentales de niños, niñas y
+adolescentes:</p>
+<p>…tomando como soporte los principios y derechos contenidos en la
+Convención Internacional de los Derechos del Niño de 1989 adoptada por
+la Asamblea General de las Naciones Unidas y aprobada en Colombia
+mediante la Ley 12 de enero 22 de
+1991.<xref ref-type="fn" rid="fn24"><sup>24</sup></xref></p>
+<p>En Colombia, hablar de menores de edad como sujetos responsables de
+conductas delictivas se encuentran bajo una jurisdicción especial y
+separada de la de adultos. Con la Ley 1098 de 2006, por la cual se logra
+expedir el Código de la Infancia y la Adolescencia
+(CIA),<xref ref-type="fn" rid="fn25"><sup>25</sup></xref> se establece lo
+siguiente:</p>
+<p>…Libro Segundo consagra el Sistema de Responsabilidad Penal para
+Adolescentes (SRPA), donde la óptica respecto de los menores, y
+especialmente a los adolescentes cambia y se relaciona a estos dentro de
+la sociedad como sujetos de derechos y deberes, sin desconocer el
+principio de interés superior del adolescente
+infractor…<xref ref-type="fn" rid="fn26"><sup>26</sup></xref></p>
+<p>El CIA toma como soporte los principios y derechos emanados de la
+Convención Internacional de Derechos de la Niñez, adoptada y aprobada en
+Colombia para sus disposiciones legales. En el artículo 139 se establece
+que:</p>
+<p>…El sistema de responsabilidad penal para adolescentes es el conjunto
+de principios, normas, procedimientos, autoridades judiciales
+especializadas y entes administrativos que rigen o intervienen en la
+investigación y juzgamiento de delitos cometidos por personas que tengan
+entre catorce (<xref ref-type="bibr" rid="B14">14</xref>) y dieciocho (<xref ref-type="bibr" rid="B18">18</xref>) años al momento de cometer el hecho
+punible…<xref ref-type="fn" rid="fn27"><sup>27</sup></xref></p>
+<p>Es apreciable notar que, mientras en México es titulado como Sistema
+Integral de Justicia para Adolescentes, cuya regulación se encuentra en
+la Ley Nacional del Sistema Integral de Justicia Penal para
+Adolescentes, en Colombia es titulado como Sistema de Responsabilidad
+Penal para Adolescentes, donde su regulación emana del Código de la
+Infancia y la Adolescencia. Este punto es importante de analizar debido
+que en México se rigen por una ley que constituye una norma general,
+mientras que en Colombia cuentan con un código que sistematiza leyes que
+tratan sobre un área específica del derecho, en este caso, en materia de
+menores y adolescentes.</p>
+<p>El Sistema de Responsabilidad Penal para Adolescentes, en su artículo
+140 del (CIA) estable como finalidad, que:</p>
+<p>…en materia de responsabilidad penal para adolescentes, tanto el
+proceso como las medidas que se tomen son de carácter pedagógico,
+específico y diferenciado respecto del sistema de adultos, conforme a la
+protección integral. El proceso deberá́ garantizar la justicia
+restaurativa, la verdad y la reparación del
+daño…<xref ref-type="fn" rid="fn28"><sup>28</sup></xref></p>
+<p>Entonces, mientras la finalidad del Sistema de Responsabilidad Penal
+para Adolescente es garantizar la justicia restaurativa, para México el
+Sistema Integral de Justicia para Adolescentes es lograr la reinserción
+social.</p>
+<p>Es apreciable notar que el desarrollo del contexto jurídico por el
+que ha pasado Colombia ha evolucionado a través del emergente estudio y
+análisis por proteger a niños, niñas y adolescentes de factores que
+inciden y detonan conductas, dando cumplimiento a los compromisos en que
+forma parte Colombia con los Instrumentos internacionales.</p>
+<p>En definitiva, a través de la Convención Internacional de los
+Derechos del Niño, en relación con la administración de justicia de
+menores de edad, en Colombia se expidió la Ley 1098 de 2006, a través de
+la cual se comprometió a adecuar toda su legislación conforme a lo
+estipulado en dicha ley, lográndolo de manera gradual en todo su
+territorio: “…De esta manera el país ha venido armonizándose con la
+normatividad internacional en materia de justicia penal
+juvenil…”<xref ref-type="fn" rid="fn29"><sup>29</sup></xref></p>
+<p>Conforme a la ratificación por parte de Colombia de la Convención
+sobre los Derechos del Niño, se dio el paso a imperar “la protección
+integral de los niños, niñas y adolescentes como sujetos especiales de
+derecho que nace a partir de la expedición de este
+tratado.”<xref ref-type="fn" rid="fn30"><sup>30</sup></xref> En virtud de la cita
+anterior, el artículo 6 de la Ley 1098 de 2006 (CIA), establece que:</p>
+<p>Las normas contenidas en la Constitución Política y en los tratados o
+convenios internacionales de Derechos Humanos ratificados por Colombia,
+en especial la Convención sobre los Derechos del Niño, harán parte
+integral de este Código, y servirán de guía para su interpretación y
+aplicación. En todo caso, se aplicará siempre la norma más favorable al
+interés superior del niño, niña o adolescente.</p>
+<p>De igual forma, en el artículo 7 de la Ley 1098 de 2006, establece lo
+siguiente:</p>
+<p>Se entiende por protección integral de los niños, niñas y
+adolescentes el reconocimiento como sujetos de derechos, la garantía y
+cumplimiento de los mismos, la prevención de su amenaza o vulneración y
+la seguridad de su restablecimiento inmediato en desarrollo del
+principio del interés superior.</p>
+<p>La protección integral se materializa en el conjunto de políticas,
+planes, programas y acciones que se ejecuten en los ámbitos nacional,
+departamental, distrital y municipal con la correspondiente asignación
+de recursos financieros, físicos y humanos.</p>
+<p>Con lo anteriormente expuesto, se refleja la priorización de los
+derechos de la niñez y adolescencia. En este sentido, la ley 1098 de
+2006 creó el Código de la Infancia y la Adolescencia; en cuanto al
+Sistema de Responsabilidad Penal para Adolescentes, sus lineamientos
+también acogen los conceptos emanados por la Convención sobre los
+Derechos del Niño y demás instrumentos internacionales.</p>
+<p>La ley 1098 de 2006, mejor conocida como el Código de la Infancia y
+de la Adolescencia, libro II, aborda lo relacionado con el Sistema de
+Responsabilidad Penal para Adolescentes y los procedimientos especiales
+cuando se trata de niños, niñas y adolescentes víctimas de delitos,
+conllevó a Colombia, a:</p>
+<p>La necesidad de empezar a configurar un Sistema Penal Juvenil que
+garantice la verdad, la justicia y la reparación del daño, además que se
+ocupe del restablecimiento efectivo de sus derechos, asumiendo que se
+trata de un ser humano en formación. De esta manera, el proceso y la
+sanción darían cumplimiento al carácter pedagógico, diferenciado y
+restaurativo que les asigna el artículo 140 de la Ley 1098 de
+2006.<xref ref-type="fn" rid="fn31"><sup>31</sup></xref></p>
+<p>En definitiva, los principios y conceptos que orientan este sistema
+se materializaron y constitucionalizaron con los pilares y mecanismos de
+los instrumentos internacionales, teniendo como punto principal la
+ratificación de Colombia a la Convención sobre los Derechos del
+Niño.</p>
+<p>Este país procura el bienestar del menor, evitando su paso por el
+Sistema de Responsabilidad Penal para Adolescentes o, en su defecto,
+dándole un tratamiento adecuado a su edad; es así como se empieza a
+implementar un nuevo modelo de justicia penal.</p>
+<p>A su vez, procura en todo momento lograr la prevención de la
+delincuencia juvenil, con base en lo establecido por las Directrices
+Riad, las cuales tienen el siguiente objetivo: “…la prevención general
+de la delincuencia en adolescentes. En todos los niveles del gobierno,
+los Estados deben tener planes generales de prevención, fijando métodos
+concretos para disminuir eficazmente la delincuencia
+juvenil…”<xref ref-type="fn" rid="fn32"><sup>32</sup></xref></p>
+<p>Del mismo sentido, Gómez sostiene que:</p>
+<p>La prevención de la delincuencia es parte esencial de la prevención
+del delito en la sociedad, por ello los programas preventivos deben
+centrarse, en el bienestar de los jóvenes desde su primera infancia. En
+todos los niveles de gobierno se deben aplicar estos programas que
+periódicamente deberán ser supervisados, evaluados y modificados a fin
+de aumentar su eficacia.<xref ref-type="fn" rid="fn33"><sup>33</sup></xref></p>
+<p>Colombia cuenta con el documento del Consejo Nacional de Política
+Económica y Social (CONPES) para la prevención de la delincuencia
+juvenil en construcción, el cual sostiene que:</p>
+<p>…el país atraviesa por una etapa de transición en materia de
+enfoques, aprendizajes institucionales y políticas para el tratamiento
+del adolescente que han cometido conductas punibles. Requiere de ajustes
+institucionales y análisis sobre las dinámicas del sistema para avanzar,
+de manera idónea, en acciones de atención y
+prevención…<xref ref-type="fn" rid="fn34"><sup>34</sup></xref></p>
+<p>Con respecto a lo anterior, Colombia tenía la necesidad de actuar
+para lograr un sistema que facilitara al adolescente su real inserción y
+reinserción social conforme el goce efectivo de sus derechos. En la
+actualidad, desde el año 2022, promueve la transformación del Sistema de
+Responsabilidad Penal de Adolescentes, mediante el Instituto Colombiano
+Bienestar Familiar (ICBF) y en alianza con la oficina de las Naciones
+Unidas contra la Droga y el Delito (UNODC).</p>
+<p>El ICBF 2025 recopila los siguientes datos: “…en Colombia, cerca de
+8.400 jóvenes están vinculados al SRPA, y de estos 3,341 están privados
+de la libertad…”<xref ref-type="fn" rid="fn35"><sup>35</sup></xref> A su vez: “…la
+reincidencia en el SRPA es de 19.9 % lo que quiere decir que uno de cada
+cinco adolescentes recae por algún delito, lo que se traduce en que
+puede ser decretada una nueva privación de
+libertad…”<xref ref-type="fn" rid="fn36"><sup>36</sup></xref> Frente a esta
+situación, Colombia ha iniciado la misión de reforzar las capacidades
+del Estado en la atención especializada de adolescentes y jóvenes,
+permitiendo reducir la delincuencia juvenil y la reincidencia de los
+adolescentes.</p>
+<p>Esta nueva propuesta surge para construir nuevas oportunidades para
+los adolescentes, a partir del reconocimiento de fortalezas y
+debilidades de quienes ingresan al sistema de responsabilidad penal
+colombiano, con la finalidad de crear proyectos de vida legal evitando
+la reincidencia, la cual, mediante una metodología con ayuda de equipos
+especializados de atención del SRPA se obtendrá identificar los factores
+de riesgo y oportunidades para la gestión de casos de manera
+individualizada y con la posibilidad de monitorear su evolución desde
+los principios de protección integral de la infancia y adolescencia.</p>
+<list list-type="alpha-upper">
+<list-item>
+<label>C)</label>
+<p><italic><bold>Caso Chile</bold></italic></p>
+</list-item>
+</list>
+<p>El fenómeno de delincuencia juvenil es un gran desafío de estudio en
+todos los contextos. Es una realidad que los países latinoamericanos se
+encuentran con escasas herramientas para prevenir la delincuencia
+juvenil, evolucionando este fenómeno de manera exponencial,
+perfeccionándose las formas en las que accionan los jóvenes.</p>
+<p>Desde esta perspectiva, se visualiza la necesidad que enfrentan los
+países para lograr la instrumentación de normas jurídicas que ayuden a
+erradicar el fenómeno de la delincuencia juvenil, mediante las cual se
+combatan algunos factores criminológicos que desencadenan conductas
+antisociales en los menores.</p>
+<p>Es de gran relevancia identificar y revisar los mecanismos legales en
+materia de responsabilidad penal para adolescentes en Chile a la luz de
+los instrumentos internacionales, debido a que este país se ha encargado
+de que sus programas de prevención para adolescentes infractores se
+estructuren de acuerdo con sus antecedentes, como la historia de vida,
+identificando los factores que coadyuvaron a que el adolescente
+cometiera una conducta ilícita con el fin, de disminuir el número de
+adolescentes implicados en delitos.</p>
+<p>Por consiguiente, para las investigadoras es preciso destacar que,
+tanto México como Chile comparten un sistema jurídico con similitudes,
+pues cuentan con el mismo tipo de organización gubernamental, además de
+que se encuentran estrechamente ligados a nexos políticos, económicos y
+culturales.</p>
+<p>Es relevante mencionar que Chile logró disminuir sus índices de
+delincuencia juvenil. De acuerdo con el Observatorio de Derechos de la
+Defensoría de la Niñez, se revisó y analizaron, desde el año 2018 hasta
+el 2021, los datos obtenidos por el Ministerio Público y por el Servicio
+Nacional de Menores de Chile, llegando a la siguiente conclusión:</p>
+<p>Ha disminuido la participación de adolescentes en delitos, lo que se
+constata al examinar la cantidad de ingresos al sistema de adolescentes
+penalmente responsables (33.836 en 2018, 20.194 en 2021), como también
+si se mira la distribución de delitos de mayor connotación social en
+comparación al total de la población. En 2018, los delitos cometidos por
+adolescentes de 14 a 17 años representaban un 11% del total, mientras
+que esa proporción, en 2021, llega sólo al
+7%.<xref ref-type="fn" rid="fn37"><sup>37</sup></xref></p>
+<p>Sin embargo, en el mismo análisis se revelan cifras preocupantes, ya
+que, aunque el índice de participación de adolescentes en delitos ha
+disminuido, por otra parte, ha ido en aumento el índice de delitos
+graves que involucran adolescentes infractores de ley. El observatorio
+de derechos profundiza lo siguiente:</p>
+<p>Estaría aumentando la proporción de delitos asociados al uso de
+armas, de un 4% en 2018 a un 7% en mayo de 2022. Asimismo, entre 2021 y
+mayo de 2022, ha aumentado la proporción de delitos de alta connotación
+pública y delitos violentos. Cabe destacar que, con este aumento, dichas
+cifras vuelven a las mismas proporciones registradas en 2019,
+determinándose un alza importante en el delito de lesiones leves (de un
+13,5% a un 30,5% desde 2019 a la
+actualidad).<xref ref-type="fn" rid="fn38"><sup>38</sup></xref></p>
+<p>A partir del año 2022, la delincuencia juvenil ha mostrado una
+notable alza, pasando a ser un tema preocupante y alarmante para la
+sociedad chilena, por lo cual se le exige al gobierno chileno realizar
+medidas drásticas e inmediatas. Eduardo Durán arroja las siguientes
+cifras: “…En 2023, la tasa de detención de menores involucrados en
+delitos violentos se incrementó un 15% respecto al año anterior, según
+datos del Ministerio del
+Interior…”<xref ref-type="fn" rid="fn39"><sup>39</sup></xref></p>
+<p>Chile cuanta con la Ley de Responsabilidad Penal Adolescentes N.º
+20.084 (LRPA) busca lo que se menciona a continuación:</p>
+<p>…responsabilizar a los adolescentes menores de 18 años y mayores de
+14, que resulten infractores de la ley penal, pero con el objetivo
+principal de que la sanción aplicable forme parte de una intervención
+socioeducativa amplia y orientada a la plena integración
+social...<xref ref-type="fn" rid="fn40"><sup>40</sup></xref></p>
+<p>En Chile ha sido muy discutida la responsabilidad penal en menores de
+edad, anteriormente contaban con un régimen, entre los 16 a 18 años para
+aplicarles una pena por haber cometido un delito; se les aplicaba un
+examen llamado discernimiento, de acuerdo con el portal de la biblioteca
+del Congreso Nacional de Chile, el aplicar el examen de discernimiento,
+daba función a:</p>
+<p>verificar si estaban conscientes del delito cometido. Si el juez
+determinaba que había conciencia de ello, el menor era condenado como un
+adulto y recluido en recintos de Gendarmería. De lo contrario, pasaba a
+los centros del Sename, bajo la figura de protección, sin derecho a
+defensa gratuita, sin límite de tiempo y sin las garantías de un debido
+proceso.<xref ref-type="fn" rid="fn41"><sup>41</sup></xref></p>
+<p>Para Winter, discernimiento se define como:</p>
+<p>tratar de determinar si el menor era capaz de entender qué es lo que
+había hecho o cuál era la envergadura de lo que había realizado. Hoy en
+día eso cambió, ya no existe un examen de discernimiento y sí existe una
+responsabilidad penal de todos los adolescentes entre 14 a 17 años de
+edad, catalogados con un estatuto
+especial.<xref ref-type="fn" rid="fn42"><sup>42</sup></xref></p>
+<p>De acuerdo con lo anteriormente citado, la responsabilidad penal
+recaerá a todos aquellos adolescentes que infrinjan la ley penal y
+tengan entre 14 a 17 años. Esta responsabilidad tiene un régimen
+especial de determinación de la pena. En el artículo 24 de la Ley N.º
+20.084, se establecen los criterios para la individualización de la pena
+para adolescentes infractores, siendo los siguientes:</p>
 <list list-type="alpha-lower">
 <list-item>
+<label>a)</label>
 <p>La gravedad del ilícito de que se trate.</p>
 </list-item>
 <list-item>
-<p>La calidad en que el adolescente participó en el hecho y el grado de ejecución de la infracción.</p>
+<label>b)</label>
+<p>La calidad en que el adolescente participó en el hecho y el grado
+    de ejecución de la infracción.</p>
 </list-item>
 <list-item>
-<p>La concurrencia de circunstancias atenuantes o agravantes de la responsabilidad criminal.</p>
+<label>c)</label>
+<p>La concurrencia de circunstancias atenuantes o agravantes de la
+    responsabilidad criminal.</p>
 </list-item>
 <list-item>
+<label>d)</label>
 <p>La edad del adolescente infractor.</p>
 </list-item>
 <list-item>
+<label>e)</label>
 <p>La extensión del mal causado con la ejecución del delito.</p>
 </list-item>
 <list-item>
-<p>La idoneidad de la sanción para fortalecer el respeto del adolescente por los derechos y libertades de las personas y sus necesidades de desarrollo e integración social.</p>
+<label>f)</label>
+<p>La idoneidad de la sanción para fortalecer el respeto del
+    adolescente por los derechos y libertades de las personas y sus
+    necesidades de desarrollo e integración social.</p>
 </list-item>
 </list>
-</p>
-<p>Cabe resaltar que Chile establece la concurrencia de circunstancias atenuantes o agravantes de la responsabilidad criminal como criterio para determinar la pena, esto quiere decir que es importante saber del por qué él o la menor delinquió. Debido a ello, se busca explicar los antecedentes de la ocurrencia de los hechos y el comportamiento del adolescente antes, durante y después al delito.</p>
-<p>En el artículo 20 de la Ley N.º 20.084, se argumenta que las sanciones y consecuencias que esta ley establece tienen por objeto hacer efectiva la responsabilidad de los adolescentes por los hechos delictivos que cometan, de tal manera que la sanción forme parte de una intervención socioeducativa amplia y orientada a la plena integración social.</p>
-<p>En consecuencia, de lo anterior, la finalidad de las sanciones es que formen parte de una intervención socioeducativa orientada a lograr integración social efectiva. Por lo tanto, al igual que México y Colombia, Chile emana sus disipaciones legales a lo establecido por los instrumentos internaciones de los derechos humanos, basándose principalmente en las bases de la Convención de los Derechos del Niño (CDN).</p>
-</sec>
-</sec>
-<sec>
-<title>III. A manera de reflexión</title>
-<p>En virtud de lo estudiado, se enfatiza que el caso de México se vio evidenciado por parte de las Naciones Unidas a través de diferentes informes, mediante los cuales se criticó de manera contundente la ineficiencia de su sistema de justicia para menores, haciendo un llamado a crear un modelo de justicia para menores con base a lo plasmado en los instrumentos internacionales. Lo anterior debido a que México ratificó la CDN y, por ende, quedaba obligado a vincular lo plasmado en su marco normativo. En el caso de Colombia, debido su compromiso por haber ratificado dicha Convención, y a su vez por el interés de disminuir los índices de delincuencia juvenil, implementa el sistema de responsabilidad penal para adolescentes.</p>
-<p>Con base en a lo analizado en esta contribución, se destaca que los distintos modelos de actuación de México y Colombia han sido influenciados respecto a la implementación de justicia de menores en lo establecido por los instrumentos internacionales. Por una parte, Colombia muestra constitucionalización de derechos de niños, niñas y adolescentes y, por otro lado, cuenta con el Código de la Infancia y la Adolescencia, mismo que tiene su apartado de responsabilidad penal. Mientras, en México no hay indicios de preceptos que menciones sobre los derechos y deberes de niños, niñas y adolescentes en su constitución.</p>
-<p>Por su parte, Chile, se da a la tarea de lograr una transformación profunda y efectiva a su legislación, ya que su implementación se basó en la realidad social que acontece al país, misma que logró concretar a base de lo plasmado en sus instrumentos internacionales.</p>
-<p>También se analizó el marco normativo de México y Chile, cabe decir que los distintos modelos de actuación de ambos países con relación a su implementación de justicia de menores están armonizados con lo establecido en los instrumentos internacionales. Por su parte, para prevenir la delincuencia juvenil el régimen actual de responsabilidad penal chileno desarrolló mecanismos de estudio criminológicos. En México hace falta más estudios criminológicos de impacto para la prevención de la delincuencia juvenil.</p>
-<p>Aun así, para que en México pueda existir la efectividad de aplicación y operatividad de leyes en un efectivo sistema integral de justicia penal para adolescentes, es importante fortalecer la coordinación entre instituciones gubernamentales y no gubernamentales que trabajan con adolescentes en conflicto con la ley, para garantizar una atención integral y efectiva. </p>
-</sec>
-</body>
+<p>Cabe resaltar que Chile establece la concurrencia de circunstancias
+atenuantes o agravantes de la responsabilidad criminal como criterio
+para determinar la pena, esto quiere decir que es importante saber del
+por qué él o la menor delinquió. Debido a ello, se busca explicar los
+antecedentes de la ocurrencia de los hechos y el comportamiento del
+adolescente antes, durante y después al delito.</p>
+<p>En el artículo 20 de la Ley N.º 20.084, se argumenta que las
+sanciones y consecuencias que esta ley establece tienen por objeto hacer
+efectiva la responsabilidad de los adolescentes por los hechos
+delictivos que cometan, de tal manera que la sanción forme parte de una
+intervención socioeducativa amplia y orientada a la plena integración
+social.</p>
+<p>En consecuencia, de lo anterior, la finalidad de las sanciones es que
+formen parte de una intervención socioeducativa orientada a lograr
+integración social efectiva. Por lo tanto, al igual que México y
+Colombia, Chile emana sus disipaciones legales a lo establecido por los
+instrumentos internaciones de los derechos humanos, basándose
+principalmente en las bases de la Convención de los Derechos del Niño
+(CDN).</p>
+</sec><sec><title>III. A manera de reflexión</title>
+<p>En virtud de lo estudiado, se enfatiza que el caso de México se vio
+evidenciado por parte de las Naciones Unidas a través de diferentes
+informes, mediante los cuales se criticó de manera contundente la
+ineficiencia de su sistema de justicia para menores, haciendo un llamado
+a crear un modelo de justicia para menores con base a lo plasmado en los
+instrumentos internacionales. Lo anterior debido a que México ratificó
+la CDN y, por ende, quedaba obligado a vincular lo plasmado en su marco
+normativo. En el caso de Colombia, debido su compromiso por haber
+ratificado dicha Convención, y a su vez por el interés de disminuir los
+índices de delincuencia juvenil, implementa el sistema de
+responsabilidad penal para adolescentes.</p>
+<p>Con base en a lo analizado en esta contribución, se destaca que los
+distintos modelos de actuación de México y Colombia han sido
+influenciados respecto a la implementación de justicia de menores en lo
+establecido por los instrumentos internacionales. Por una parte,
+Colombia muestra constitucionalización de derechos de niños, niñas y
+adolescentes y, por otro lado, cuenta con el Código de la Infancia y la
+Adolescencia, mismo que tiene su apartado de responsabilidad penal.
+Mientras, en México no hay indicios de preceptos que menciones sobre los
+derechos y deberes de niños, niñas y adolescentes en su
+constitución.</p>
+<p>Por su parte, Chile, se da a la tarea de lograr una transformación
+profunda y efectiva a su legislación, ya que su implementación se basó
+en la realidad social que acontece al país, misma que logró concretar a
+base de lo plasmado en sus instrumentos internacionales.</p>
+<p>También se analizó el marco normativo de México y Chile, cabe decir
+que los distintos modelos de actuación de ambos países con relación a su
+implementación de justicia de menores están armonizados con lo
+establecido en los instrumentos internacionales. Por su parte, para
+prevenir la delincuencia juvenil el régimen actual de responsabilidad
+penal chileno desarrolló mecanismos de estudio criminológicos. En México
+hace falta más estudios criminológicos de impacto para la prevención de
+la delincuencia juvenil.</p>
+<p>Aun así, para que en México pueda existir la efectividad de
+aplicación y operatividad de leyes en un efectivo sistema integral de
+justicia penal para adolescentes, es importante fortalecer la
+coordinación entre instituciones gubernamentales y no gubernamentales
+que trabajan con adolescentes en conflicto con la ley, para garantizar
+una atención integral y efectiva.</p>
+</sec><sec><title>Legislación</title>
+<p>Ley 1098 de 2006, Código de la Infancia y Adolescencia Sistema de
+Responsabilidad para Adolescentes.</p>
+</sec></body>
 <back>
-<ref-list>
-<title>IV. Referencias bibliográficas</title>
-<ref id="B1">
-<mixed-citation>Aburto Ríos, Constanza. “Responsabilidad penal adolescente: análisis de la ley n. 20.084 bajo factores criminológicos”. Tesis de licenciatura. Universidad de Chile Departamento de Ciencias Penales 2022. <ext-link ext-link-type="uri" xlink:href="https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y">https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y</ext-link>
-</mixed-citation>
-<element-citation publication-type="thesis">
-<person-group person-group-type="author">
-<name>
-<surname>Aburto Ríos</surname>
-<given-names>Constanza</given-names>
-</name>
-</person-group>
-<source>Responsabilidad penal adolescente: análisis de la ley n. 20.084 bajo factores criminológicos</source>
-<comment content-type="degree">Tesis de licenciatura</comment>
-<publisher-name>Universidad de Chile Departamento de Ciencias Penales</publisher-name>
-<year>2022</year>
-<ext-link ext-link-type="uri" xlink:href="https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y">https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y</ext-link>
-</element-citation>
-</ref>
-<ref id="B2">
-<mixed-citation>Altamirano Escalante, Santiago y Ramírez Benítez, René A., “Los pilares constitucionales de la justicia penal para adolescentes”. <italic>Suprema Corte de Justicia de la Nación</italic>, 20 de noviembre de 2020. <ext-link ext-link-type="uri" xlink:href="https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes">https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<name>
-<surname>Altamirano Escalante</surname>
-<given-names>Santiago</given-names>
-</name>
-<name>
-<surname>Ramírez Benítez</surname>
-<given-names>René A</given-names>
-</name>
-</person-group>
-<article-title>Los pilares constitucionales de la justicia penal para adolescentes</article-title>
-<source>Suprema Corte de Justicia de la Nación</source>
-<day>20</day>
-<month>11</month>
-<year>2020</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes">https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes</ext-link>
-</element-citation>
-</ref>
-<ref id="B3">
-<mixed-citation>Alvarado, Arturo, y Tenenbaum Gabriel, coords., <italic>Los desafíos de la justicia para adolescentes en América Latina</italic>. México: El Colegio de México, 2022.</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Alvarado</surname>
-<given-names>Arturo</given-names>
-</name>
-<name>
-<surname>Tenenbaum</surname>
-<given-names>Gabriel</given-names>
-</name>
-</person-group>
-<source>Los desafíos de la justicia para adolescentes en América Latina</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>El Colegio de México</publisher-name>
-<year>2022</year>
-</element-citation>
-</ref>
-<ref id="B4">
-<mixed-citation>Biblioteca de Congreso Nacional de Chile. “Ley Fácil. Ley penal juvenil”. <ext-link ext-link-type="uri" xlink:href="https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil">https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>Biblioteca de Congreso Nacional de Chile</collab>
-</person-group>
-<source>Ley Fácil. Ley penal juvenil</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil">https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil</ext-link>
-</element-citation>
-</ref>
-<ref id="B5">
-<mixed-citation>Canal Institucional. “Las reformas más importantes de la Constitución del 91”. <ext-link ext-link-type="uri" xlink:href="https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991">https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>Canal Institucional</collab>
-</person-group>
-<source>Las reformas más importantes de la Constitución del 91</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991">https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991</ext-link>
-</element-citation>
-</ref>
-<ref id="B6">
-<mixed-citation>Carvajal Martínez, Jorge Enrique. “Lineamientos internacionales y nacionales en materia de responsabilidad penal para adolescentes”. <italic>Revista Derecho Penal y Criminología</italic> 44, n.<sup>o</sup> 117 (2023): 269-296 <ext-link ext-link-type="uri" xlink:href="https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069">https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069</ext-link>.</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Carvajal Martínez</surname>
-<given-names>Jorge Enrique</given-names>
-</name>
-</person-group>
-<article-title>Lineamientos internacionales y nacionales en materia de responsabilidad penal para adolescentes</article-title>
-<source>Revista Derecho Penal y Criminología</source>
-<volume>44</volume>
-<issue>117</issue>
-<year>2023</year>
-<fpage>269</fpage>
-<lpage>296</lpage>
-<ext-link ext-link-type="uri" xlink:href="https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069">https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069</ext-link>
-</element-citation>
-</ref>
-<ref id="B7">
-<mixed-citation>Comisión Nacional de los Derechos Humanos (CNDH). <italic>Informe especial de la Comisión Nacional de los Derechos Humanos sobre los centros de tratamiento interno para adolescentes que infringen la ley penal de la República mexicana</italic>. Ciudad de México: CNDH, 2019. PDF, <ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf">https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>Comisión Nacional de los Derechos Humanos (CNDH)</collab>
-</person-group>
-<source>Informe especial de la Comisión Nacional de los Derechos Humanos sobre los centros de tratamiento interno para adolescentes que infringen la ley penal de la República mexicana</source>
-<publisher-loc>Ciudad de México</publisher-loc>
-<publisher-name>CNDH</publisher-name>
-<year>2019</year>
-<comment>PDF</comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf">https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B8">
-<mixed-citation>CONPES. <italic>Sistema de responsabilidad penal para adolescentes-SRPA: Política de atención en conflicto con la Ley</italic>. Bogotá: CONPES, 2009. <ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf">https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>CONPES</collab>
-</person-group>
-<source>Sistema de responsabilidad penal para adolescentes-SRPA: Política de atención en conflicto con la Ley</source>
-<publisher-loc>Bogotá</publisher-loc>
-<publisher-name>CONPES</publisher-name>
-<year>2009</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf">https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B9">
-<mixed-citation>Defensor. El camino hacia la justicia para adolescentes. <italic>Defensor</italic>, n.<sup>o</sup> 5, 2010. <ext-link ext-link-type="uri" xlink:href="https://cdhcm.org.mx/wp-content/uploads/2014/05/dfensor_05_2010.pdf">https://cdhcm.org.mx/wp-content/uploads/2014/05/dfensor_05_2010.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>Defensor</collab>
-</person-group>
-<article-title>El camino hacia la justicia para adolescentes</article-title>
-<source>Defensor</source>
-<issue>5</issue>
-<year>2010</year>
-<ext-link ext-link-type="uri" xlink:href="https://cdhcm.org.mx/wp-content/uploads/2014/05/dfensor_05_2010.pdf">https://cdhcm.org.mx/wp-content/uploads/2014/05/dfensor_05_2010.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B10">
-<mixed-citation>Defensoría de la Niñez. “Número de adolescentes implicados en delitos ha bajado en los últimos años”. <ext-link ext-link-type="uri" xlink:href="https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/">https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>Defensoría de la Niñez</collab>
-</person-group>
-<source>Número de adolescentes implicados en delitos ha bajado en los últimos años</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/">https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/</ext-link>
-</element-citation>
-</ref>
-<ref id="B11">
-<mixed-citation>Durán, Eduardo. “La delincuencia juvenil al alza exige medidas drásticas inmediatas”. <italic>El mostrador</italic>, 15 de julio de 2024, <ext-link ext-link-type="uri" xlink:href="https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/">https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/</ext-link>
-</mixed-citation>
-<element-citation publication-type="newspaper">
-<person-group person-group-type="author">
-<name>
-<surname>Durán</surname>
-<given-names>Eduardo</given-names>
-</name>
-</person-group>
-<article-title>La delincuencia juvenil al alza exige medidas drásticas inmediatas</article-title>
-<source>El mostrador</source>
-<day>15</day>
-<month>07</month>
-<year>2024</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/">https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/</ext-link>
-</element-citation>
-</ref>
-<ref id="B12">
-<mixed-citation>Instituto Colombiano de Bienestar Familiar. “Lineamiento técnico modelo de atención para adolescentes y jóvenes en conflicto con la ley - SRPA”. <ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf">https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>Instituto Colombiano de Bienestar Familiar</collab>
-</person-group>
-<source>Lineamiento técnico modelo de atención para adolescentes y jóvenes en conflicto con la ley - SRPA</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf">https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B13">
-<mixed-citation>Instituto Nacional de Estadística y Geografía (INEGI). <italic>Encuesta Nacional de Adolescentes en el Sistema de Justicia Penal (ENASJUP) 2022</italic>, comunicado de prensa núm. 172/23, 29 de marzo de 2023. PDF, <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf">https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>Instituto Nacional de Estadística y Geografía (INEGI)</collab>
-</person-group>
-<source>Encuesta Nacional de Adolescentes en el Sistema de Justicia Penal (ENASJUP) 2022</source>
-<issue>172/23</issue>
-<day>29</day>
-<month>03</month>
-<year>2023</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf">https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B14">
-<mixed-citation>Jiménez Pava, Ana María y Parada, Vanessa. “Justicia juvenil en Colombia. Un balance a los 20 años de la entrada en vigencia del Código de la infancia y adolescencia”. <italic>La República</italic>, 9 de mayo de 2025. <comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318">https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318</ext-link>
-</comment>
-</mixed-citation>
-<element-citation publication-type="newspaper">
-<person-group person-group-type="author">
-<name>
-<surname>Jiménez Pava</surname>
-<given-names>Ana María</given-names>
-</name>
-<name>
-<surname>Parada</surname>
-<given-names>Vanessa</given-names>
-</name>
-</person-group>
-<article-title>Justicia juvenil en Colombia. Un balance a los 20 años de la entrada en vigencia del Código de la infancia y adolescencia</article-title>
-<source>La República</source>
-<date-in-citation content-type="access-date" iso-8601-date="2025-05-09">9 de mayo de 2025</date-in-citation>
-<comment>
-<ext-link ext-link-type="uri" xlink:href="https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318">https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318</ext-link>
-</comment>
-</element-citation>
-</ref>
-<ref id="B15">
-<mixed-citation>Manzano Borrás, Natalia María. “Aproximaciones generales al sistema de responsabilidad penal para adolescentes”. <italic>Revista Jurídica Piélagus</italic> 18 n.<sup>o</sup> 1, (2019) 116-140. <ext-link ext-link-type="uri" xlink:href="https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_">https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_</ext-link>
-</mixed-citation>
-<element-citation publication-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname>Manzano Borrás</surname>
-<given-names>Natalia María</given-names>
-</name>
-</person-group>
-<article-title>Aproximaciones generales al sistema de responsabilidad penal para adolescentes</article-title>
-<source>Revista Jurídica Piélagus</source>
-<volume>18</volume>
-<issue>1</issue>
-<year>2019</year>
-<fpage>116</fpage>
-<lpage>140</lpage>
-<ext-link ext-link-type="uri" xlink:href="https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_">https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_</ext-link>
-</element-citation>
-</ref>
-<ref id="B16">
-<mixed-citation>Naciones Unidas Derechos Humanos. “Convención sobre los Derechos del Niño”. <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child">https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child</ext-link>
-</mixed-citation>
-<element-citation publication-type="webpage">
-<person-group person-group-type="author">
-<collab>Naciones Unidas Derechos Humanos</collab>
-</person-group>
-<source>Convención sobre los Derechos del Niño</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child">https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child</ext-link>
-</element-citation>
-</ref>
-<ref id="B17">
-<mixed-citation>Naciones Unidas Derechos Humanos. “Convención sobre los Derechos del Niño”. <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child">https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child</ext-link>
-</mixed-citation>
-<element-citation publication-type="webpage">
-<person-group person-group-type="author">
-<collab>Naciones Unidas Derechos Humanos</collab>
-</person-group>
-<source>Convención sobre los Derechos del Niño</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child">https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child</ext-link>
-</element-citation>
-</ref>
-<ref id="B18">
-<mixed-citation>Naciones Unidas Derechos Humanos. “Directrices de las Naciones Unidas para la Prevención de la Delincuencia Juvenil (Directrices de Riad)”. <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh">https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>Naciones Unidas Derechos Humanos</collab>
-</person-group>
-<source>Directrices de las Naciones Unidas para la Prevención de la Delincuencia Juvenil (Directrices de Riad)</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh">https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh</ext-link>
-</element-citation>
-</ref>
-<ref id="B19">
-<mixed-citation>Pérez, Maritza. “Menores cometen cada vez más delitos de alto impacto”. <italic>El Economista</italic>, 30 de marzo de 2023. <ext-link ext-link-type="uri" xlink:href="https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html">https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html</ext-link>
-</mixed-citation>
-<element-citation publication-type="newspaper">
-<person-group person-group-type="author">
-<name>
-<surname>Pérez</surname>
-<given-names>Maritza</given-names>
-</name>
-</person-group>
-<article-title>Menores cometen cada vez más delitos de alto impacto</article-title>
-<source>El Economista</source>
-<day>30</day>
-<month>03</month>
-<year>2023</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html">https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html</ext-link>
-</element-citation>
-</ref>
-<ref id="B20">
-<mixed-citation>Poder Judicial Chile. “En palabras simples 124: Ley de responsabilidad penal adolescente”. Youtube, 3 de enero de 2019. <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=KulrkM75i1Q">https://www.youtube.com/watch?v=KulrkM75i1Q</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<collab>Poder Judicial Chile</collab>
-</person-group>
-<article-title>En palabras simples 124: Ley de responsabilidad penal adolescente</article-title>
-<source>Youtube</source>
-<day>03</day>
-<month>01</month>
-<year>2019</year>
-<ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=KulrkM75i1Q">https://www.youtube.com/watch?v=KulrkM75i1Q</ext-link>
-</element-citation>
-</ref>
-<ref id="B21">
-<mixed-citation>Ramírez España Beguerisse, Paula. <italic>El Sistema de Justicia para Adolescentes frente al reto de su implementación</italic>. México: Corte IDH, s. f. <ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/tablas/r24654.pdf">https://www.corteidh.or.cr/tablas/r24654.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="legal-doc">
-<person-group person-group-type="author">
-<name>
-<surname>Ramírez España Beguerisse</surname>
-<given-names>Paula</given-names>
-</name>
-</person-group>
-<source>El Sistema de Justicia para Adolescentes frente al reto de su implementación</source>
-<publisher-loc>México</publisher-loc>
-<publisher-name>Corte IDH</publisher-name>
-<ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/tablas/r24654.pdf">https://www.corteidh.or.cr/tablas/r24654.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B22">
-<mixed-citation>Redalyc. “Marco Internacional del derecho penal para menores de edad”. <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/journal/4027/402771780012/movil/">https://www.redalyc.org/journal/4027/402771780012/movil/</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>Redalyc</collab>
-</person-group>
-<source>Marco Internacional del derecho penal para menores de edad</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/journal/4027/402771780012/movil/">https://www.redalyc.org/journal/4027/402771780012/movil/</ext-link>
-</element-citation>
-</ref>
-<ref id="B23">
-<mixed-citation>Reglas mínimas de las Naciones Unidas para la Administración de Justicia de Menores (Reglas de Beijing), Asamblea General en su resolución 40/33, 28 de noviembre de 1985, <ext-link ext-link-type="uri" xlink:href="http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf">http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<source>Reglas mínimas de las Naciones Unidas para la Administración de Justicia de Menores (Reglas de Beijing), Asamblea General en su resolución 40/33</source>
-<day>28</day>
-<month>11</month>
-<year>1985</year>
-<ext-link ext-link-type="uri" xlink:href="http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf">http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf</ext-link>
-</element-citation>
-</ref>
-<ref id="B24">
-<mixed-citation>United Nations Office of Drugs and Crime. “Colombia promueve una apuesta transformadora en la atención de adolescentes y jóvenes del Sistema de Responsabilidad Penal”. <ext-link ext-link-type="uri" xlink:href="https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html">https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html</ext-link>
-</mixed-citation>
-<element-citation publication-type="other">
-<person-group person-group-type="author">
-<collab>United Nations Office of Drugs and Crime</collab>
-</person-group>
-<source>Colombia promueve una apuesta transformadora en la atención de adolescentes y jóvenes del Sistema de Responsabilidad Penal</source>
-<ext-link ext-link-type="uri" xlink:href="https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html">https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html</ext-link>
-</element-citation>
-</ref>
-<ref id="B25">
-<mixed-citation>Van Bueren, Geraldine. <italic>Reglas de las Naciones Unidas para la protección de menores privados de libertad</italic>. Londres: Universidad de Londres, s. f. <ext-link ext-link-type="uri" xlink:href="http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf">http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf</ext-link>
-</mixed-citation>
-<element-citation publication-type="book">
-<person-group person-group-type="author">
-<name>
-<surname>Van Bueren</surname>
-<given-names>Geraldine</given-names>
-</name>
-</person-group>
-<source>Reglas de las Naciones Unidas para la protección de menores privados de libertad</source>
-<publisher-loc>Londres</publisher-loc>
-<publisher-name>Universidad de Londres</publisher-name>
-<ext-link ext-link-type="uri" xlink:href="http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf">http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf</ext-link>
-</element-citation>
-</ref>
-</ref-list>
-<ref-list>
-<title>Legislación</title>
-<ref id="B26">
-<mixed-citation>Ley 1098 de 2006, Código de la Infancia y Adolescencia Sistema de Responsabilidad para Adolescentes.</mixed-citation>
-<element-citation publication-type="legal-doc">
-<source>Ley 1098 de 2006, Código de la Infancia y Adolescencia Sistema de Responsabilidad para Adolescentes</source>
-</element-citation>
-</ref>
-</ref-list>
 <fn-group>
+
+
+
+<fn fn-type="other" id="fn43">
+<label>43</label><p>Doctorado en Criminología y delincuencia juvenil
+    por la Universidad de Castilla La Mancha, Profesora e Investigadora
+    de Tiempo Completo de la Universidad Autónoma de Sinaloa (México) y
+    Miembro del Sistema Nacional de Investigadores e Investigadoras.
+    <email>lizbeth.garcia@</email><ext-link ext-link-type="uri">uas.edu.mx</ext-link>
+<ext-link ext-link-type="uri" xlink:href="https://orcid.org/0000-0002-1428-234X">https://orcid.org/0000-0002-1428-234X</ext-link>.</p>
+</fn>
 <fn fn-type="other" id="fn1">
-<label>1</label>
-<p>“Colombia promueve una apuesta transformadora en la atención de adolescentes y jóvenes del Sistema de Responsabilidad Penal”, <xref ref-type="bibr" rid="B24">United Nations Office of Drugs and Crime</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html">https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html</ext-link>
-</p>
+<label>1</label><p>“Colombia promueve una apuesta transformadora en
+    la atención de adolescentes y jóvenes del Sistema de Responsabilidad
+    Penal”, United Nations Office of Drugs and Crime,</p>
+<p><ext-link ext-link-type="uri" xlink:href="https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html">https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn2">
-<label>2</label>
-<p>“El camino hacia la justicia para adolescentes”, <xref ref-type="bibr" rid="B9">Defensor</xref>, n.o 5 (2010): <ext-link ext-link-type="uri" xlink:href="https://piensadh.cdhcm.org.mx/images/2010_dfensor05_justiciaadolescentes.pdf">https://piensadh.cdhcm.org.mx/images/2010_dfensor05_justiciaadolescentes.pdf</ext-link>
+<label>2</label><p>“El camino hacia la justicia para adolescentes”,
+    Defensor, n.o 5 (2010):
+    <ext-link ext-link-type="uri" xlink:href="https://piensadh.cdhcm.org.mx/images/2010_dfensor05_justiciaadolescentes.pdf">https://piensadh.cdhcm.org.mx/images/2010_dfensor05_justiciaadolescentes.pdf</ext-link>
 </p>
 </fn>
 <fn fn-type="other" id="fn3">
-<label>3</label>
-<p>“Convención sobre los Derechos del Niño”, <xref ref-type="bibr" rid="B16">Naciones Unidas Derechos Humanos</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child">https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child</ext-link>
-</p>
+<label>3</label><p>“Convención sobre los Derechos del Niño”,
+    Naciones Unidas Derechos Humanos,
+    <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child">https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn4">
-<label>4</label>
-<p>UNICEF, Convención sobre los Derechos del Niño (Madrid: UNICEF, 2006) 10, <ext-link ext-link-type="uri" xlink:href="https://www.un.org/es/events/childrenday/pdf/derechos.pdf">https://www.un.org/es/events/childrenday/pdf/derechos.pdf</ext-link>
-</p>
+<label>4</label><p>UNICEF, Convención sobre los Derechos del Niño
+    (Madrid: UNICEF, 2006) 10,
+    <ext-link ext-link-type="uri" xlink:href="https://www.un.org/es/events/childrenday/pdf/derechos.pdf">https://www.un.org/es/events/childrenday/pdf/derechos.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn5">
-<label>5</label>
-<p><italic>Idem</italic>.</p>
+<label>5</label><p><italic>Idem</italic>.</p>
 </fn>
 <fn fn-type="other" id="fn6">
-<label>6</label>
-<p><italic>Ibidem</italic>, 25.</p>
+<label>6</label><p><italic>Ibidem</italic>, 25.</p>
 </fn>
 <fn fn-type="other" id="fn7">
-<label>7</label>
-<p><italic>Ibidem</italic>, 27.</p>
+<label>7</label><p><italic>Ibidem</italic>, 27.</p>
 </fn>
 <fn fn-type="other" id="fn8">
-<label>8</label>
-<p>
-<xref ref-type="bibr" rid="B23">Reglas mínimas de las Naciones Unidas para la Administración de Justicia de Menores (Reglas de Beijing)</xref>, Asamblea General en su resolución 40/33, 28 de noviembre de 1985, http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf</p>
+<label>8</label><p>Reglas mínimas de las Naciones Unidas para la
+    Administración de Justicia de Menores (Reglas de Beijing), Asamblea
+    General en su resolución 40/33, 28 de noviembre de 1985,
+    <ext-link ext-link-type="uri" xlink:href="http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf">http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn9">
-<label>9</label>
-<p>“Directrices de las Naciones Unidas para la Prevención de la Delincuencia Juvenil (Directrices de Riad)”, <xref ref-type="bibr" rid="B18">Naciones Unidas Derechos Humanos</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh">https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh</ext-link>
-</p>
+<label>9</label><p>“Directrices de las Naciones Unidas para la
+    Prevención de la Delincuencia Juvenil (Directrices de Riad)”,
+    Naciones Unidas Derechos Humanos,
+    <ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh">https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn10">
-<label>10</label>
-<p>
-<xref ref-type="bibr" rid="B25">Geraldine Van Bueren</xref>, <italic>Reglas de las Naciones Unidas para la protección de menores privados de libertad</italic>, (Londres: Universidad de Londres, s. f) http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf</p>
+<label>10</label><p>Geraldine Van Bueren, <italic>Reglas de las
+    Naciones Unidas para la protección de menores privados de
+    libertad</italic>, (Londres: Universidad de Londres, s. f)
+    <ext-link ext-link-type="uri" xlink:href="http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf">http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn11">
-<label>11</label>
-<p>
-<xref ref-type="bibr" rid="B13">Instituto Nacional de Estadística y Geografía (INEGI)</xref>, Encuesta Nacional de Adolescentes en el Sistema de Justicia Penal (ENASJUP) 2022, comunicado de prensa num. 172/23, 29 de marzo de 2023, PDF, <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf">https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf</ext-link>
-</p>
+<label>11</label><p>Instituto Nacional de Estadística y Geografía
+    (INEGI), Encuesta Nacional de Adolescentes en el Sistema de Justicia
+    Penal (ENASJUP) 2022, comunicado de prensa num. 172/23, 29 de marzo
+    de 2023, PDF,
+    <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf">https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn12">
-<label>12</label>
-<p><italic>Idem</italic>.</p>
+<label>12</label><p><italic>Idem</italic>.</p>
 </fn>
 <fn fn-type="other" id="fn13">
-<label>13</label>
-<p>
-<xref ref-type="bibr" rid="B19">Maritza Pérez</xref>, “Menores cometen cada vez más delitos de alto impacto”, <italic>El Economista</italic>, 30 de marzo de 2023, <ext-link ext-link-type="uri" xlink:href="https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html">https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html</ext-link>
-</p>
+<label>13</label><p>Maritza Pérez, “Menores cometen cada vez más
+    delitos de alto impacto”, <italic>El Economista</italic>, 30 de
+    marzo de 2023,
+    <ext-link ext-link-type="uri" xlink:href="https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html">https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn14">
-<label>14</label>
-<p>
-<xref ref-type="bibr" rid="B3">Arturo Alvarado, y Gabriel Tenenbaum</xref>, coords., <italic>Los desafíos de la justicia para adolescentes en América Latina</italic> (México: El Colegio de México, 2022), 2.</p>
+<label>14</label><p>Arturo Alvarado, y Gabriel Tenenbaum, coords.,
+    <italic>Los desafíos de la justicia para adolescentes en América
+    Latina</italic> (México: El Colegio de México, 2022), 2.</p>
 </fn>
 <fn fn-type="other" id="fn15">
-<label>15</label>
-<p>
-<xref ref-type="bibr" rid="B7">Comisión Nacional de los Derechos Humanos (CNDH)</xref>, Informe especial de la Comisión Nacional de los Derechos Humanos sobre los centros de tratamiento interno para adolescentes que infringen la ley penal de la República mexicana (Ciudad de México: CNDH, 2019). <ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf">https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf</ext-link>
-</p>
+<label>15</label><p>Comisión Nacional de los Derechos Humanos
+    (CNDH), Informe especial de la Comisión Nacional de los Derechos
+    Humanos sobre los centros de tratamiento interno para adolescentes
+    que infringen la ley penal de la República mexicana (Ciudad de
+    México: CNDH, 2019).
+    <ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf">https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn16">
-<label>16</label>
-<p>
-<xref ref-type="bibr" rid="B2">Santiago Altamirano Escalante y René A. Ramírez Benítez</xref>, “Los pilares constitucionales de la justicia penal para adolescentes”, Suprema Corte de Justicia de la Nación, 20 de noviembre de 2020, <ext-link ext-link-type="uri" xlink:href="https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes">https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes</ext-link>
-</p>
+<label>16</label><p>Santiago Altamirano Escalante y René A. Ramírez
+    Benítez, “Los pilares constitucionales de la justicia penal para
+    adolescentes”, Suprema Corte de Justicia de la Nación, 20 de
+    noviembre de 2020,
+    <ext-link ext-link-type="uri" xlink:href="https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes">https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn17">
-<label>17</label>
-<p><italic>Idem</italic>.</p>
+<label>17</label><p><italic>Idem</italic>.</p>
 </fn>
 <fn fn-type="other" id="fn18">
-<label>18</label>
-<p><italic>Idem</italic>.</p>
+<label>18</label><p><italic>Idem</italic>.</p>
 </fn>
 <fn fn-type="other" id="fn19">
-<label>19</label>
-<p>
-<xref ref-type="bibr" rid="B21">Paula Ramírez España Beguerisse</xref>, <italic>El Sistema de justicia para adolescentes frente al reto de su implementación</italic> (México: Corte IDH, s. f.), <ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/tablas/r24654.pdf">https://www.corteidh.or.cr/tablas/r24654.pdf</ext-link>
-</p>
+<label>19</label><p>Paula Ramírez España Beguerisse, <italic>El
+    Sistema de justicia para adolescentes frente al reto de su
+    implementación</italic> (México: Corte IDH, s. f.),
+    <ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/tablas/r24654.pdf">https://www.corteidh.or.cr/tablas/r24654.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn20">
-<label>20</label>
-<p><italic>Idem</italic>.</p>
+<label>20</label><p><italic>Idem</italic>.</p>
 </fn>
 <fn fn-type="other" id="fn21">
-<label>21</label>
-<p>“Las reformas más importantes de la Constitución del 91”, <xref ref-type="bibr" rid="B5">Canal Institucional</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991">https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991</ext-link>
-</p>
+<label>21</label><p>“Las reformas más importantes de la Constitución
+    del 91”, Canal Institucional,
+    <ext-link ext-link-type="uri" xlink:href="https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991">https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn22">
-<label>22</label>
-<p><italic>Ídem</italic>.</p>
+<label>22</label><p><italic>Ídem</italic>.</p>
 </fn>
 <fn fn-type="other" id="fn23">
-<label>23</label>
-<p>Decreto 2737 de 1989 por el cual se expide el Código del Menor. <ext-link ext-link-type="uri" xlink:href="https://www.acnur.org/fileadmin/Documentos/BDL/2008/6503.pdf">https://www.acnur.org/fileadmin/Documentos/BDL/2008/6503.pdf</ext-link>
-</p>
+<label>23</label><p>Decreto 2737 de 1989 por el cual se expide el
+    Código del Menor.
+    <ext-link ext-link-type="uri" xlink:href="https://www.acnur.org/fileadmin/Documentos/BDL/2008/6503.pdf">https://www.acnur.org/fileadmin/Documentos/BDL/2008/6503.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn24">
-<label>24</label>
-<p>
-<xref ref-type="bibr" rid="B15">Natalia María Manzano Borrás</xref>, “Aproximaciones generales al sistema de responsabilidad penal para adolescentes”, <italic>Revista Jurídica Piélagus</italic> 18 n.o 1, (2019): 116-140, <ext-link ext-link-type="uri" xlink:href="https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_">https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_</ext-link>
-</p>
+<label>24</label><p>Natalia María Manzano Borrás, “Aproximaciones
+    generales al sistema de responsabilidad penal para adolescentes”,
+    <italic>Revista Jurídica Piélagus</italic> 18 n.o 1, (2019):
+    116-140,
+    <ext-link ext-link-type="uri" xlink:href="https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_">https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn25">
-<label>25</label>
-<p>Colombia. <xref ref-type="bibr" rid="B26">Ley 1098 de 2006</xref>, Código de la Infancia y Adolescencia. <ext-link ext-link-type="uri" xlink:href="https://www.oas.org/dil/esp/codigo_de_la_infancia_y_la_adolescencia_colombia.pdf">https://www.oas.org/dil/esp/codigo_de_la_infancia_y_la_adolescencia_colombia.pdf</ext-link>
-</p>
+<label>25</label><p>Colombia. Ley 1098 de 2006, Código de la
+    Infancia y Adolescencia.
+    <ext-link ext-link-type="uri" xlink:href="https://www.oas.org/dil/esp/codigo_de_la_infancia_y_la_adolescencia_colombia.pdf">https://www.oas.org/dil/esp/codigo_de_la_infancia_y_la_adolescencia_colombia.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn26">
-<label>26</label>
-<p>
-<xref ref-type="bibr" rid="B15">Natalia María Manzano Borrás</xref>, “Aproximaciones generales…</p>
+<label>26</label><p>Natalia María Manzano Borrás, “Aproximaciones
+    generales…</p>
 </fn>
 <fn fn-type="other" id="fn27">
-<label>27</label>
-<p>Colombia. <xref ref-type="bibr" rid="B26">Ley 1098 de 2006</xref>…artículo 139.</p>
+<label>27</label><p>Colombia. Ley 1098 de 2006…artículo 139.</p>
 </fn>
 <fn fn-type="other" id="fn28">
-<label>28</label>
-<p><italic>Ibidem</italic>, artículo 140.</p>
+<label>28</label><p><italic>Ibidem</italic>, artículo 140.</p>
 </fn>
 <fn fn-type="other" id="fn29">
-<label>29</label>
-<p>“Lineamiento técnico modelo de atención para adolescentes y jóvenes en conflicto con la ley - SRPA”, <xref ref-type="bibr" rid="B12">Instituto Colombiano de Bienestar Familiar</xref>, p. 98. <ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf">https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf</ext-link>
-</p>
+<label>29</label><p>“Lineamiento técnico modelo de atención para
+    adolescentes y jóvenes en conflicto con la ley – SRPA”, Instituto
+    Colombiano de Bienestar Familiar, p. 98.
+    <ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf">https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn30">
-<label>30</label>
-<p><italic>Idem</italic>,</p>
+<label>30</label><p><italic>Idem</italic>,</p>
 </fn>
 <fn fn-type="other" id="fn31">
-<label>31</label>
-<p>“Lineamiento técnico modelo de atención para adolescentes...”; p. 11.</p>
+<label>31</label><p>“Lineamiento técnico modelo de atención para
+    adolescentes...”; p. 11.</p>
 </fn>
 <fn fn-type="other" id="fn32">
-<label>32</label>
-<p>
-<xref ref-type="bibr" rid="B6">Jorge Enrique Carvajal Martínez</xref>, “Lineamientos internacionales y nacionales en materia de responsabilidad penal para adolescentes”, <italic>Revista Derecho Penal y Criminología,</italic> 44, n.o 117 (2023): 269-296, <ext-link ext-link-type="uri" xlink:href="https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069">https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069</ext-link>
-</p>
+<label>32</label><p>Jorge Enrique Carvajal Martínez, “Lineamientos
+    internacionales y nacionales en materia de responsabilidad penal
+    para adolescentes”, <italic>Revista Derecho Penal y
+    Criminología,</italic> 44, n.o 117 (2023): 269-296,
+    <ext-link ext-link-type="uri" xlink:href="https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069">https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn33">
-<label>33</label>
-<p>“Marco Internacional del derecho penal para menores de edad”, <xref ref-type="bibr" rid="B22">Redalyc</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/journal/4027/402771780012/movil/">https://www.redalyc.org/journal/4027/402771780012/movil/</ext-link>
-</p>
+<label>33</label><p>“Marco Internacional del derecho penal para
+    menores de edad”, Redalyc,
+    <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/journal/4027/402771780012/movil/">https://www.redalyc.org/journal/4027/402771780012/movil/</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn34">
-<label>34</label>
-<p>
-<xref ref-type="bibr" rid="B8">CONPES</xref>, Sistema de responsabilidad penal para adolescentes-SRPA: Política de atención en conflicto con la Ley (Bogotá: CONPES, 2009). https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf</p>
+<label>34</label><p>CONPES, Sistema de responsabilidad penal para
+    adolescentes–SRPA: Política de atención en conflicto con la Ley
+    (Bogotá: CONPES, 2009).
+    <ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf">https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn35">
-<label>35</label>
-<p>
-<xref ref-type="bibr" rid="B14">Ana María Jiménez Pava y Vanessa Parada</xref> “Justicia juvenil en Colombia. Un balance a los 20 años de la entrada en vigencia del Código de la infancia y adolescencia”, <italic>La República</italic>, 9 de mayo de 2025, <ext-link ext-link-type="uri" xlink:href="https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318">https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318</ext-link>
-</p>
+<label>35</label><p>Ana María Jiménez Pava y Vanessa Parada
+    “Justicia juvenil en Colombia. Un balance a los 20 años de la
+    entrada en vigencia del Código de la infancia y adolescencia”,
+    <italic>La República</italic>, 9 de mayo de 2025,
+    <ext-link ext-link-type="uri" xlink:href="https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318">https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn36">
-<label>36</label>
-<p><italic>Idem</italic>.</p>
+<label>36</label><p><italic>Idem</italic>.</p>
 </fn>
 <fn fn-type="other" id="fn37">
-<label>37</label>
-<p>“Número de adolescentes implicados en delitos ha bajado en los últimos años”, <xref ref-type="bibr" rid="B10">Defensoría de la Niñez</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/">https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/</ext-link>
-</p>
+<label>37</label><p>“Número de adolescentes implicados en delitos ha
+    bajado en los últimos años”, Defensoría de la Niñez,
+    <ext-link ext-link-type="uri" xlink:href="https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/">https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn38">
-<label>38</label>
-<p><italic>Ibidem</italic>.</p>
+<label>38</label><p><italic>Ibidem</italic>.</p>
 </fn>
 <fn fn-type="other" id="fn39">
-<label>39</label>
-<p>
-<xref ref-type="bibr" rid="B11">Eduardo Durán</xref>, “La delincuencia juvenil al alza exige medidas drásticas inmediatas”, <italic>El mostrador</italic>, 15 de julio de 2024, <ext-link ext-link-type="uri" xlink:href="https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/">https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/</ext-link>
-</p>
+<label>39</label><p>Eduardo Durán, “La delincuencia juvenil al alza
+    exige medidas drásticas inmediatas”, <italic>El mostrador</italic>,
+    15 de julio de 2024,
+    <ext-link ext-link-type="uri" xlink:href="https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/">https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn40">
-<label>40</label>
-<p>
-<xref ref-type="bibr" rid="B1">Constanza Aburto Ríos</xref>, “Responsabilidad penal Adolescente: Análisis de la ley nª20.084 bajo factores criminológicos”. Tesis de licenciatura, Universidad de Chile Departamento de Ciencias Penales, 2022. <ext-link ext-link-type="uri" xlink:href="https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y">https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y</ext-link>
-</p>
+<label>40</label><p>Constanza Aburto Ríos, “Responsabilidad penal
+    Adolescente: Análisis de la ley nª20.084 bajo factores
+    criminológicos”. Tesis de licenciatura, Universidad de Chile
+    Departamento de Ciencias Penales, 2022.
+    <ext-link ext-link-type="uri" xlink:href="https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y">https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn41">
-<label>41</label>
-<p>“Ley Fácil. Ley penal juvenil”, <xref ref-type="bibr" rid="B4">Biblioteca de Congreso Nacional de Chile</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil">https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil</ext-link>
-</p>
+<label>41</label><p>“Ley Fácil. Ley penal juvenil”, Biblioteca de
+    Congreso Nacional de Chile,
+    <ext-link ext-link-type="uri" xlink:href="https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil">https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil</ext-link></p>
 </fn>
 <fn fn-type="other" id="fn42">
-<label>42</label>
-<p>
-<xref ref-type="bibr" rid="B20">Poder Judicial Chile</xref>, “En palabras simples 124: Ley de responsabilidad penal adolescente”, Youtube, 3 de enero de 2019, <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=KulrkM75i1Q">https://www.youtube.com/watch?v=KulrkM75i1Q</ext-link>
-</p>
+<label>42</label><p>Poder Judicial Chile, “En palabras simples 124:
+    Ley de responsabilidad penal adolescente”, Youtube, 3 de enero de
+    2019,
+    <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=KulrkM75i1Q">https://www.youtube.com/watch?v=KulrkM75i1Q</ext-link></p>
 </fn>
 </fn-group>
-<fn-group>
-<fn fn-type="other" id="fn43">
-<label>43</label>
-<p>Esta contribución presenta algunos de los resultados obtenidos de una investigación titulada Factores que limitan la reinserción social en adolescentes con medida de sanción privativa de la libertad en México, que se desarrolló para la obtención de grado de maestra en Ciencias del Derecho, financiada con recursos del CONAHCYT, hoy SECIHTI.</p>
-</fn>
-</fn-group>
-</back>
+<ref-list><title>IV. Referencias bibliográficas</title><ref id="B1"><mixed-citation>Aburto Ríos, Constanza. “Responsabilidad penal adolescente: análisis
+de la ley n. 20.084 bajo factores criminológicos”. Tesis de
+licenciatura. Universidad de Chile Departamento de Ciencias Penales
+2022.
+<ext-link ext-link-type="uri" xlink:href="https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y">https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Aburto</surname><given-names>Ríos</given-names></name><name><surname>Constanza</surname></name></person-group><article-title>“Responsabilidad penal adolescente: análisis
+de la ley n</article-title><source>20</source><year>2022</year><ext-link ext-link-type="uri" xlink:href="https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y">https://repositorio.uchile.cl/bitstream/handle/2250/191446/Responsabilidad-penal-adolescente-analisis-de-la-ley-no-20084.pdf?sequence=1&amp;isAllowed=y</ext-link></element-citation></ref><ref id="B2"><mixed-citation>Altamirano Escalante, Santiago y Ramírez Benítez, René A., “Los
+pilares constitucionales de la justicia penal para adolescentes”.
+<italic>Suprema Corte de Justicia de la Nación</italic>, 20 de noviembre
+de 2020.
+<ext-link ext-link-type="uri" xlink:href="https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes">https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Altamirano</surname><given-names>Escalante</given-names></name><name><surname>Santiago</surname><given-names>y Ramírez Benítez</given-names></name><name><surname>René</surname><given-names>A</given-names></name></person-group><article-title>, “Los
+pilares constitucionales de la justicia penal para adolescentes”</article-title><source>Suprema Corte de Justicia de la Nación, 20 de noviembre
+de 2020</source><year>2020</year><ext-link ext-link-type="uri" xlink:href="https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes">https://www.sitios.scjn.gob.mx/cec/blog-cec/los-pilares-constitucionales-de-la-justicia-penal-para-adolescentes</ext-link></element-citation></ref><ref id="B3"><mixed-citation>Alvarado, Arturo, y Tenenbaum Gabriel, coords., <italic>Los desafíos
+de la justicia para adolescentes en América Latina</italic>. México: El
+Colegio de México, 2022.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Alvarado</surname></name><name><surname>Arturo</surname></name><name><surname>y</surname><given-names>Tenenbaum Gabriel</given-names></name><name><surname>coords</surname></name></person-group><article-title>,Los desafíos
+de la justicia para adolescentes en América Latina</article-title><source>México: El
+Colegio de México, 2022</source><year>2022</year></element-citation></ref><ref id="B4"><mixed-citation>Biblioteca de Congreso Nacional de Chile. “Ley Fácil. Ley penal
+juvenil”.
+<ext-link ext-link-type="uri" xlink:href="https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil">https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Biblioteca</surname><given-names>de Congreso Nacional de Chile</given-names></name></person-group><article-title>“Ley Fácil</article-title><source>Ley penal
+juvenil”</source><ext-link ext-link-type="uri" xlink:href="https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil">https://www.bcn.cl/portal/leyfacil/recurso/ley-penal-juvenil</ext-link></element-citation></ref><ref id="B5"><mixed-citation>Canal Institucional. “Las reformas más importantes de la Constitución
+del 91”.
+<ext-link ext-link-type="uri" xlink:href="https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991">https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Canal</surname><given-names>Institucional</given-names></name></person-group><article-title>“Las reformas más importantes de la Constitución
+del 91”</article-title><source>https://www</source><year>1991</year><ext-link ext-link-type="uri" xlink:href="https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991">https://www.canalinstitucional.tv/novedades-constitucion-politica-colombia-1991</ext-link></element-citation></ref><ref id="B6"><mixed-citation>Carvajal Martínez, Jorge Enrique. “Lineamientos internacionales y
+nacionales en materia de responsabilidad penal para adolescentes”.
+<italic>Revista Derecho Penal y Criminología</italic> 44, n.<sup>o</sup>
+117 (2023): 269-296
+<ext-link ext-link-type="uri" xlink:href="https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069">https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069</ext-link>.</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carvajal</surname><given-names>Martínez</given-names></name><name><surname>Jorge</surname><given-names>Enrique</given-names></name></person-group><article-title>“Lineamientos internacionales y
+nacionales en materia de responsabilidad penal para adolescentes”</article-title><source>Revista Derecho Penal y Criminología44, n</source><year>2023</year><fpage>269</fpage><lpage>296</lpage><ext-link ext-link-type="uri" xlink:href="https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069">https://revistas.uexternado.edu.co/index.php/derpen/article/view/8751/15069</ext-link></element-citation></ref><ref id="B7"><mixed-citation>Comisión Nacional de los Derechos Humanos (CNDH). <italic>Informe
+especial de la Comisión Nacional de los Derechos Humanos sobre los
+centros de tratamiento interno para adolescentes que infringen la ley
+penal de la República mexicana</italic>. Ciudad de México: CNDH, 2019.
+PDF,
+<ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf">https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Comisión</surname><given-names>Nacional de los Derechos Humanos (CNDH)</given-names></name></person-group><article-title>Informe
+especial de la Comisión Nacional de los Derechos Humanos sobre los
+centros de tratamiento interno para adolescentes que infringen la ley
+penal de la República mexicana</article-title><source>Ciudad de México: CNDH, 2019</source><year>2019</year><ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf">https://www.cndh.org.mx/sites/default/files/documentos/2019-05/ADOLESCENTES-INFORME-ESPECIAL-2019.pdf</ext-link></element-citation></ref><ref id="B8"><mixed-citation>CONPES. <italic>Sistema de responsabilidad penal para
+adolescentes–SRPA: Política de atención en conflicto con la
+Ley</italic>. Bogotá: CONPES, 2009.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>CONPES</surname></name></person-group><article-title>Sistema de responsabilidad penal para
+adolescentes–SRPA: Política de atención en conflicto con la
+Ley</article-title><source>Bogotá: CONPES, 2009</source><year>2009</year></element-citation></ref><ref id="B9"><mixed-citation><ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf">https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>https://www</surname></name></person-group><article-title>icbf</article-title><source>gov</source><ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf">https://www.icbf.gov.co/sites/default/files/conpes-3629-srpa.pdf</ext-link></element-citation></ref><ref id="B10"><mixed-citation>Defensor. El camino hacia la justicia para adolescentes.
+<italic>Defensor</italic>, n.<sup>o</sup> 5, 2010.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Defensor</surname></name></person-group><article-title>El camino hacia la justicia para adolescentes</article-title><source>Defensor, n</source><year>2010</year></element-citation></ref><ref id="B11"><mixed-citation><ext-link ext-link-type="uri" xlink:href="https://cdhcm.org.mx/wp-content/uploads/2014/05/dfensor_05_2010.pdf">https://cdhcm.org.mx/wp-content/uploads/2014/05/dfensor_05_2010.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>https://cdhcm</surname></name></person-group><article-title>org</article-title><source>mx/wp-content/uploads/2014/05/dfensor_05_2010</source><year>2014</year><ext-link ext-link-type="uri" xlink:href="https://cdhcm.org.mx/wp-content/uploads/2014/05/dfensor_05_2010.pdf">https://cdhcm.org.mx/wp-content/uploads/2014/05/dfensor_05_2010.pdf</ext-link></element-citation></ref><ref id="B12"><mixed-citation>Defensoría de la Niñez. “Número de adolescentes implicados en delitos
+ha bajado en los últimos años”.</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Defensoría</surname><given-names>de la Niñez</given-names></name></person-group><article-title>“Número de adolescentes implicados en delitos
+ha bajado en los últimos años”</article-title></element-citation></ref><ref id="B13"><mixed-citation><ext-link ext-link-type="uri" xlink:href="https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/">https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>https://www</surname></name></person-group><article-title>defensorianinez</article-title><source>cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/</source><ext-link ext-link-type="uri" xlink:href="https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/">https://www.defensorianinez.cl/numero-de-adolescentes-implicados-en-delitos-ha-bajado-en-los-ultimos-anos-pero-estos-se-concentran-en-un-grupo-de-ellos-y-se-vuelven-mas-violentos-y-graves/</ext-link></element-citation></ref><ref id="B14"><mixed-citation>Durán, Eduardo. “La delincuencia juvenil al alza exige medidas
+drásticas inmediatas”. <italic>El mostrador</italic>, 15 de julio de
+2024,
+<ext-link ext-link-type="uri" xlink:href="https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/">https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Durán</surname></name><name><surname>Eduardo</surname></name></person-group><article-title>“La delincuencia juvenil al alza exige medidas
+drásticas inmediatas”</article-title><source>El mostrador, 15 de julio de
+2024,https://www</source><year>2024</year><ext-link ext-link-type="uri" xlink:href="https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/">https://www.elmostrador.cl/noticias/opinion/columnas/2024/07/15/la-delincuencia-juvenil-al-alza-exige-medidas-drasticas-inmediatas/</ext-link></element-citation></ref><ref id="B15"><mixed-citation>Instituto Colombiano de Bienestar Familiar. “Lineamiento técnico
+modelo de atención para adolescentes y jóvenes en conflicto con la ley –
+SRPA”.
+<ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf">https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Instituto</surname><given-names>Colombiano de Bienestar Familiar</given-names></name></person-group><article-title>“Lineamiento técnico
+modelo de atención para adolescentes y jóvenes en conflicto con la ley –
+SRPA”</article-title><source>https://www</source><ext-link ext-link-type="uri" xlink:href="https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf">https://www.icbf.gov.co/system/files/procesos/lm15.p_lineamiento_tecnico_modelo_de_atencion_para_adolescentes_y_jovenes_en_conflicto_con_la_ley-srpa_v4_0.pdf</ext-link></element-citation></ref><ref id="B16"><mixed-citation>Instituto Nacional de Estadística y Geografía (INEGI).
+<italic>Encuesta Nacional de Adolescentes en el Sistema de Justicia
+Penal</italic> <italic>(ENASJUP) 2022</italic>, comunicado de prensa
+núm. 172/23, 29 de marzo de 2023. PDF,
+<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf">https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Instituto</surname><given-names>Nacional de Estadística y Geografía (INEGI)</given-names></name></person-group><article-title>Encuesta Nacional de Adolescentes en el Sistema de Justicia
+Penal(ENASJUP) 2022, comunicado de prensa
+núm</article-title><source>172/23, 29 de marzo de 2023</source><year>2022</year><ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf">https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASJUP/ENASJUP2022.pdf</ext-link></element-citation></ref><ref id="B17"><mixed-citation>Jiménez Pava, Ana María y Parada, Vanessa. “Justicia juvenil en
+Colombia. Un balance a los 20 años de la entrada en vigencia del Código
+de la infancia y adolescencia”. <italic>La República</italic>, 9 de mayo
+de 2025.
+<ext-link ext-link-type="uri" xlink:href="https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318">https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Jiménez</surname><given-names>Pava</given-names></name><name><surname>Ana</surname><given-names>María y Parada</given-names></name><name><surname>Vanessa</surname></name></person-group><article-title>“Justicia juvenil en
+Colombia</article-title><source>Un balance a los 20 años de la entrada en vigencia del Código
+de la infancia y adolescencia”</source><year>2025</year><ext-link ext-link-type="uri" xlink:href="https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318">https://www.larepublica.co/analisis/econometria-consultores-2889073/justicia-juvenil-en-colombia-un-balance-a-los-20-anos-de-la-entrada-en-vigencia-del-codigo-de-la-infancia-y-adolescencia-4129318</ext-link></element-citation></ref><ref id="B18"><mixed-citation>Manzano Borrás, Natalia María. “Aproximaciones generales al sistema
+de responsabilidad penal para adolescentes”. <italic>Revista Jurídica
+Piélagus</italic> 18 n.<sup>o</sup> 1, (2019) 116-140.
+<ext-link ext-link-type="uri" xlink:href="https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_">https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Manzano</surname><given-names>Borrás</given-names></name><name><surname>Natalia</surname><given-names>María</given-names></name></person-group><article-title>“Aproximaciones generales al sistema
+de responsabilidad penal para adolescentes”</article-title><source>Revista Jurídica
+Piélagus18 n</source><year>2019</year><ext-link ext-link-type="uri" xlink:href="https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_">https://journalusco.edu.co/index.php/pielagus/article/view/2641?utm_</ext-link></element-citation></ref><ref id="B19"><mixed-citation>Naciones Unidas Derechos Humanos. “Convención sobre los Derechos del
+Niño”.
+<ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child">https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Naciones</surname><given-names>Unidas Derechos Humanos</given-names></name></person-group><article-title>“Convención sobre los Derechos del
+Niño”</article-title><source>https://www</source><ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child">https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child</ext-link></element-citation></ref><ref id="B20"><mixed-citation>Naciones Unidas Derechos Humanos. “Convención sobre los Derechos del
+Niño”.
+<ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child">https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Naciones</surname><given-names>Unidas Derechos Humanos</given-names></name></person-group><article-title>“Convención sobre los Derechos del
+Niño”</article-title><source>https://www</source><ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child">https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child</ext-link></element-citation></ref><ref id="B21"><mixed-citation>Naciones Unidas Derechos Humanos. “Directrices de las Naciones Unidas
+para la Prevención de la Delincuencia Juvenil (Directrices de Riad)”.
+<ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh">https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Naciones</surname><given-names>Unidas Derechos Humanos</given-names></name></person-group><article-title>“Directrices de las Naciones Unidas
+para la Prevención de la Delincuencia Juvenil (Directrices de Riad)”</article-title><source>https://www</source><ext-link ext-link-type="uri" xlink:href="https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh">https://www.ohchr.org/es/instruments-mechanisms/instruments/united-nations-guidelines-prevention-juvenile-delinquency-riyadh</ext-link></element-citation></ref><ref id="B22"><mixed-citation>Pérez, Maritza. “Menores cometen cada vez más delitos de alto
+impacto”. <italic>El Economista</italic>, 30 de marzo de 2023.
+<ext-link ext-link-type="uri" xlink:href="https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html">https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Pérez</surname></name><name><surname>Maritza</surname></name></person-group><article-title>“Menores cometen cada vez más delitos de alto
+impacto”</article-title><source>El Economista, 30 de marzo de 2023</source><year>2023</year><ext-link ext-link-type="uri" xlink:href="https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html">https://www.eleconomista.com.mx/politica/Menores-cometen-cada-vez-mas-delitos-de-alto-impacto-20230330-0011.html</ext-link></element-citation></ref><ref id="B23"><mixed-citation>Poder Judicial Chile. “En palabras simples 124: Ley de
+responsabilidad penal adolescente”. Youtube, 3 de enero de 2019.
+<ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=KulrkM75i1Q"><italic>https://www.youtube.com/watch?v=KulrkM75i1Q</italic></ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Poder</surname><given-names>Judicial Chile</given-names></name></person-group><article-title>“En palabras simples 124: Ley de
+responsabilidad penal adolescente”</article-title><source>Youtube, 3 de enero de 2019</source><year>2019</year><ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=KulrkM75i1Q">https://www.youtube.com/watch?v=KulrkM75i1Q</ext-link></element-citation></ref><ref id="B24"><mixed-citation>Ramírez España Beguerisse, Paula. <italic>El Sistema de Justicia para
+Adolescentes frente al reto de su implementación</italic>. México: Corte
+IDH, s. f.
+<ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/tablas/r24654.pdf">https://www.corteidh.or.cr/tablas/r24654.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Ramírez</surname><given-names>España Beguerisse</given-names></name><name><surname>Paula</surname></name></person-group><article-title>El Sistema de Justicia para
+Adolescentes frente al reto de su implementación</article-title><source>México: Corte
+IDH, s</source><ext-link ext-link-type="uri" xlink:href="https://www.corteidh.or.cr/tablas/r24654.pdf">https://www.corteidh.or.cr/tablas/r24654.pdf</ext-link></element-citation></ref><ref id="B25"><mixed-citation>Redalyc. “Marco Internacional del derecho penal para menores de
+edad”.
+<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/journal/4027/402771780012/movil/">https://www.redalyc.org/journal/4027/402771780012/movil/</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Redalyc</surname></name></person-group><article-title>“Marco Internacional del derecho penal para menores de
+edad”</article-title><source>https://www</source><ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/journal/4027/402771780012/movil/">https://www.redalyc.org/journal/4027/402771780012/movil/</ext-link></element-citation></ref><ref id="B26"><mixed-citation>Reglas mínimas de las Naciones Unidas para la Administración de
+Justicia de Menores (Reglas de Beijing), Asamblea General en su
+resolución 40/33, 28 de noviembre de 1985,
+<ext-link ext-link-type="uri" xlink:href="http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf">http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Reglas</surname><given-names>mínimas de las Naciones Unidas para la Administración de Justicia de Menores (Reglas de Beijing)</given-names></name><name><surname>http://www</surname></name></person-group><article-title>cidh</article-title><source>org/ninez/pdf%20files/Reglas%20de%20Beijing</source><year>1985</year><ext-link ext-link-type="uri" xlink:href="http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf">http://www.cidh.org/ninez/pdf%20files/Reglas%20de%20Beijing.pdf</ext-link></element-citation></ref><ref id="B27"><mixed-citation>United Nations Office of Drugs and Crime. “Colombia promueve una
+apuesta transformadora en la atención de adolescentes y jóvenes del
+Sistema de Responsabilidad Penal”.
+<ext-link ext-link-type="uri" xlink:href="https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html">https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>United</surname><given-names>Nations Office of Drugs and Crime</given-names></name></person-group><article-title>“Colombia promueve una
+apuesta transformadora en la atención de adolescentes y jóvenes del
+Sistema de Responsabilidad Penal”</article-title><source>https://www</source><ext-link ext-link-type="uri" xlink:href="https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html">https://www.unodc.org/colombia/es/colombia-promueve-una-apuesta-transformadora-en-la-atencion-de-adolescentes-y-jovenes-del-sistema-de-responsabilidad-penal.html</ext-link></element-citation></ref><ref id="B28"><mixed-citation>Van Bueren, Geraldine. <italic>Reglas de las Naciones Unidas para la
+protección de menores privados de libertad</italic>. Londres:
+Universidad de Londres, s. f.
+<ext-link ext-link-type="uri" xlink:href="http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf">http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Van</surname><given-names>Bueren</given-names></name><name><surname>Geraldine</surname></name></person-group><article-title>Reglas de las Naciones Unidas para la
+protección de menores privados de libertad</article-title><source>Londres:
+Universidad de Londres, s</source><ext-link ext-link-type="uri" xlink:href="http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf">http://iin.oea.org/cursos_a_distancia/cad_privados_de_libertad.pdf</ext-link></element-citation></ref></ref-list></back>
 </article>
