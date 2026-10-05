@@ -76,11 +76,74 @@ def split_text_into_n_chunks(text, n):
         chunks.append(curr.strip())
     return chunks
 
+NS_W = {'w': 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
+
+def parse_docx_table_grid(tbl):
+    """
+    Lee la estructura XML de una tabla Word (CT_Tbl) utilizando OpenXML (w:tcPr, w:gridSpan, w:vMerge)
+    para preservar celdas combinadas (colspan, rowspan) y alineación.
+    """
+    rows_xml = tbl._element.xpath('./w:tr')
+    grid = []
+    for tr in rows_xml:
+        row_cells = []
+        c_idx = 0
+        tcs = tr.xpath('./w:tc')
+        for tc in tcs:
+            tcPr = tc.find('w:tcPr', NS_W)
+            gridSpan = tcPr.find('w:gridSpan', NS_W) if tcPr is not None else None
+            vMerge = tcPr.find('w:vMerge', NS_W) if tcPr is not None else None
+            
+            span = int(gridSpan.attrib.get(f'{{{NS_W["w"]}}}val', '1')) if gridSpan is not None else 1
+            vmerge_val = 'none'
+            if vMerge is not None:
+                vmerge_val = vMerge.attrib.get(f'{{{NS_W["w"]}}}val', 'continue')
+            
+            texts = [t.text for t in tc.findall('.//w:t', NS_W) if t.text]
+            text = ' '.join(''.join(texts).split())
+            
+            align = 'left'
+            jc = tc.find('.//w:jc', NS_W)
+            if jc is not None:
+                val = jc.attrib.get(f'{{{NS_W["w"]}}}val')
+                if val in ['center', 'right', 'left']:
+                    align = val
+            
+            row_cells.append({
+                'text': text,
+                'colspan': span,
+                'vmerge': vmerge_val,
+                'grid_col': c_idx,
+                'align': align
+            })
+            c_idx += span
+        grid.append(row_cells)
+    
+    # Calcular rowspan y marcar celdas secundarias
+    for r_idx in range(len(grid)):
+        for cell in grid[r_idx]:
+            if cell['vmerge'] == 'restart':
+                g_col = cell['grid_col']
+                rowspan = 1
+                for r_next in range(r_idx + 1, len(grid)):
+                    next_cell = next((c for c in grid[r_next] if c['grid_col'] == g_col), None)
+                    if next_cell and next_cell['vmerge'] == 'continue':
+                        rowspan += 1
+                    else:
+                        break
+                cell['rowspan'] = rowspan
+            elif cell['vmerge'] == 'continue':
+                cell['rowspan'] = 0
+            else:
+                cell['rowspan'] = 1
+                
+    return grid
+
 def build_jats_table_from_docx(docx_path: str, soup: BeautifulSoup) -> BeautifulSoup:
     """
     A. Recorre secuencialmente doc.element.body de python-docx para detectar elementos w:tbl.
     Genera el nodo estandarizado JATS <table-wrap id="t1"> con <label>, <caption>, <table>, <tbody>, <tr>, <td>
-    y <table-wrap-foot><attrib>Fuente: ...</attrib></table-wrap-foot>.
+    preservando celdas combinadas (colspan, rowspan) y alineaciones de celda.
     """
     if not os.path.exists(docx_path):
         return soup
@@ -102,89 +165,67 @@ def build_jats_table_from_docx(docx_path: str, soup: BeautifulSoup) -> Beautiful
         if isinstance(elem, CT_Tbl):
             tbl = Table(elem, doc)
             
-            # Buscar título en el párrafo anterior si existe (ej. "Tabla 1. Contrastiva...")
+            # Buscar título en los párrafos anteriores si existe (ej. "Tabla 1. Criterios...")
             tbl_label = f"Tabla {table_counter}"
             tbl_title = f"Tabla {table_counter}"
-            if idx > 0 and isinstance(elements[idx - 1], CT_P):
-                prev_p = Paragraph(elements[idx - 1], doc)
-                prev_text = prev_p.text.strip()
-                match = re.search(r'^(Tabla|Table)\s*(\d*)[\.\s:\-]*(.*)', prev_text, re.IGNORECASE)
-                if match:
-                    num_str = match.group(2) if match.group(2) else str(table_counter)
-                    tbl_label = f"{match.group(1).capitalize()} {num_str}"
-                    if match.group(3).strip():
-                        tbl_title = match.group(3).strip()
+            for back in range(1, 6):
+                if idx - back >= 0 and isinstance(elements[idx - back], CT_P):
+                    prev_p = Paragraph(elements[idx - back], doc)
+                    prev_text = prev_p.text.strip()
+                    if not prev_text:
+                        continue
+                    match = re.search(r'^(Tabla|Table)\s*(\d*)[\.\s:\-]*(.*)', prev_text, re.IGNORECASE)
+                    if match:
+                        num_str = match.group(2) if match.group(2) else str(table_counter)
+                        tbl_label = f"{match.group(1).capitalize()} {num_str}"
+                        if match.group(3).strip():
+                            tbl_title = match.group(3).strip()
+                        break
             
-            # Buscar fuente/nota en el párrafo posterior si existe
+            # Buscar fuente/nota en los párrafos posteriores si existe
             tbl_foot = ""
-            if idx < len(elements) - 1 and isinstance(elements[idx + 1], CT_P):
-                next_p = Paragraph(elements[idx + 1], doc)
-                next_text = next_p.text.strip()
-                if next_text.lower().startswith(('fuente:', 'nota:', 'source:', 'note:')):
-                    tbl_foot = next_text
+            for fwd in range(1, 6):
+                if idx + fwd < len(elements) and isinstance(elements[idx + fwd], CT_P):
+                    next_p = Paragraph(elements[idx + fwd], doc)
+                    next_text = next_p.text.strip()
+                    if not next_text:
+                        continue
+                    if next_text.lower().startswith(('fuente:', 'nota:', 'source:', 'note:')):
+                        tbl_foot = next_text
+                    break
 
-            # Extraer las filas del objeto Table y detectar si contiene sub-tablas unificadas (ej. Tabla 4 y Tabla 5 juntas en Word)
+            grid_rows = parse_docx_table_grid(tbl)
             current_table_rows = []
             
-            for row in tbl.rows:
-                col_paragraphs = []
-                for cell in row.cells:
-                    lines = []
-                    for p in cell.paragraphs:
-                        p_text = p.text.strip()
-                        if not p_text: continue
-                        for l in p_text.split('\n'):
-                            if l.strip():
-                                lines.append(l.strip())
-                    if not lines:
-                        lines = [cell.text.strip()] if cell.text.strip() else []
-                    col_paragraphs.append(lines)
+            for row_cells in grid_rows:
+                row_texts = [c['text'] for c in row_cells if c.get('rowspan', 1) > 0]
+                joined_row_text = " ".join(row_texts)
                 
-                max_p_count = max((len(cp) for cp in col_paragraphs), default=0)
-                
-                final_col_lines = []
-                for cp in col_paragraphs:
-                    final_col_lines.append(cp)
-                        
-                max_len = max((len(cl) for cl in final_col_lines), default=0)
-                if max_len <= 1:
-                    sub_rows = [[cell.text.strip() for cell in row.cells]]
-                else:
-                    sub_rows = []
-                    for i in range(max_len):
-                        r_cells = [final_col_lines[c][i] if i < len(final_col_lines[c]) else '' for c in range(len(final_col_lines))]
-                        sub_rows.append(r_cells)
-
-                for row_cells_text in sub_rows:
-                    joined_row_text = " ".join(row_cells_text)
+                # Verificar si esta fila inicia una nueva sub-tabla (ej. "Tabla 5")
+                match_sub = re.search(r'^(Tabla|Table)\s*(\d+)[\.\s:\-]*(.*)', joined_row_text, re.IGNORECASE)
+                if current_table_rows and match_sub and not joined_row_text.lower().startswith(('fuente:', 'nota:')):
+                    docx_tables.append({
+                        'counter': table_counter,
+                        'label': tbl_label,
+                        'title': tbl_title,
+                        'foot': tbl_foot,
+                        'rows': current_table_rows
+                    })
+                    table_counter += 1
                     
-                    # Verificar si esta fila inicia una nueva sub-tabla (ej. "Tabla 5", "Tabla 5. Libertad...")
-                    match_sub = re.search(r'^(Tabla|Table)\s*(\d+)[\.\s:\-]*(.*)', joined_row_text, re.IGNORECASE)
-                    if current_table_rows and match_sub and not joined_row_text.lower().startswith(('fuente:', 'nota:')):
-                        # Guardar la tabla actual (ej. Tabla 4)
-                        docx_tables.append({
-                            'counter': table_counter,
-                            'label': tbl_label,
-                            'title': tbl_title,
-                            'foot': tbl_foot,
-                            'rows': current_table_rows
-                        })
-                        table_counter += 1
-                        
-                        # Iniciar la nueva tabla independiente (ej. Tabla 5)
-                        sub_num = match_sub.group(2) if match_sub.group(2) else str(table_counter)
-                        tbl_label = f"{match_sub.group(1).capitalize()} {sub_num}"
-                        tbl_title = match_sub.group(3).strip() if match_sub.group(3).strip() else tbl_label
-                        tbl_foot = ""
-                        current_table_rows = []
-                        continue
-                        
-                    # Verificar si la fila es una nota de fuente/pie de tabla
-                    if joined_row_text.lower().startswith(('fuente:', 'nota:', 'source:', 'note:')):
-                        tbl_foot = joined_row_text
-                        continue
-                        
-                    current_table_rows.append(row_cells_text)
+                    sub_num = match_sub.group(2) if match_sub.group(2) else str(table_counter)
+                    tbl_label = f"{match_sub.group(1).capitalize()} {sub_num}"
+                    tbl_title = match_sub.group(3).strip() if match_sub.group(3).strip() else tbl_label
+                    tbl_foot = ""
+                    current_table_rows = []
+                    continue
+                    
+                # Verificar si la fila es una nota de fuente/pie de tabla
+                if joined_row_text.lower().startswith(('fuente:', 'nota:', 'source:', 'note:')):
+                    tbl_foot = joined_row_text
+                    continue
+                    
+                current_table_rows.append(row_cells)
 
             if current_table_rows:
                 docx_tables.append({
@@ -199,7 +240,7 @@ def build_jats_table_from_docx(docx_path: str, soup: BeautifulSoup) -> Beautiful
     if not docx_tables:
         return soup
 
-    # Limpiar cualquier tabla mal parseada o concatenada en el XML (ej. Tabla1Contrastiva... o Tabla 1. Contrastiva...)
+    # Limpiar cualquier tabla mal parseada o concatenada en el XML
     for sec in list(body_tag.find_all('sec')):
         title = sec.find('title')
         if title:
@@ -212,8 +253,11 @@ def build_jats_table_from_docx(docx_path: str, soup: BeautifulSoup) -> Beautiful
         if re.search(r'^(Tabla|Table)\s*\d*', p_text, re.IGNORECASE) and not p.find_parent('table-wrap'):
             p.decompose()
 
+    # Eliminar tablas preliminares/imperfectas de Pandoc antes de insertar las reconstruidas de python-docx
+    for old_tw in list(body_tag.find_all('table-wrap')):
+        old_tw.decompose()
+
     # Reemplazar o insertar los nodos <table-wrap> verdaderos e independientes en el XML JATS
-    existing_tables = body_tag.find_all('table-wrap')
     for idx, dt in enumerate(docx_tables, start=1):
         tbl_wrap = soup.new_tag('table-wrap', id=f"t{dt['counter']}")
         
@@ -227,14 +271,36 @@ def build_jats_table_from_docx(docx_path: str, soup: BeautifulSoup) -> Beautiful
         cap_tag.append(title_tag)
         tbl_wrap.append(cap_tag)
         
-        table_tag = soup.new_tag('table')
+        table_tag = soup.new_tag('table', border="0", cellspacing="0", cellpadding="0")
         tbody = soup.new_tag('tbody')
         
-        for r_cells in dt['rows']:
+        total_rows = len(dt['rows'])
+        for r_idx, row_cells in enumerate(dt['rows']):
             tr = soup.new_tag('tr')
-            for cell_text in r_cells:
-                td = soup.new_tag('td')
-                td.string = cell_text
+            for cell in row_cells:
+                if cell.get('rowspan', 1) == 0:
+                    continue  # Celda omitida por vMerge
+                
+                td_attrs = {}
+                if cell.get('colspan', 1) > 1:
+                    td_attrs['colspan'] = str(cell['colspan'])
+                if cell.get('rowspan', 1) > 1:
+                    td_attrs['rowspan'] = str(cell['rowspan'])
+                    
+                align_val = cell.get('align', 'left')
+                style_parts = ["border: 0"]
+                if r_idx == 0:
+                    style_parts.append("border-top: 1px solid #000000")
+                if r_idx == total_rows - 1:
+                    style_parts.append("border-bottom: 1px solid #000000")
+                style_parts.append(f"text-align: {align_val}")
+                if align_val == 'left':
+                    style_parts.append("padding-left: 10px")
+                    
+                td_attrs['style'] = "; ".join(style_parts) + ";"
+                
+                td = soup.new_tag('td', **td_attrs)
+                td.string = cell['text']
                 tr.append(td)
             tbody.append(tr)
             
@@ -243,37 +309,27 @@ def build_jats_table_from_docx(docx_path: str, soup: BeautifulSoup) -> Beautiful
         
         if dt['foot']:
             foot_tag = soup.new_tag('table-wrap-foot')
-            attrib_tag = soup.new_tag('attrib')
-            attrib_tag.string = dt['foot']
-            foot_tag.append(attrib_tag)
+            fn_tag = soup.new_tag('fn', id=f"TFN{dt['counter']}", **{"fn-type": "other"})
+            p_tag = soup.new_tag('p')
+            p_tag.string = dt['foot']
+            fn_tag.append(p_tag)
+            foot_tag.append(fn_tag)
             tbl_wrap.append(foot_tag)
             
-        matched_existing = None
-        for et in existing_tables:
-            et_txt = et.get_text(strip=True)
-            if f"Tabla {dt['counter']}" in et_txt or f"Table {dt['counter']}" in et_txt or dt['title'] in et_txt:
-                matched_existing = et
-                break
-                
-        if matched_existing:
-            matched_existing.replace_with(tbl_wrap)
+        cite_xref = body_tag.find(lambda tag: tag.name == 'xref' and tag.get('rid') == f"t{dt['counter']}")
+        if not cite_xref:
+            cite_p = body_tag.find(lambda tag: tag.name == 'p' and f"tabla {dt['counter']}" in tag.get_text(strip=True).lower())
         else:
-            cite_xref = body_tag.find(lambda tag: tag.name == 'xref' and tag.get('rid') == f"t{dt['counter']}")
-            if not cite_xref:
-                cite_p = body_tag.find(lambda tag: tag.name == 'p' and f"tabla {dt['counter']}" in tag.get_text(strip=True).lower())
+            cite_p = cite_xref.find_parent('p')
+            
+        if cite_p:
+            cite_p.insert_after(tbl_wrap)
+        else:
+            intro_sec = body_tag.find('sec', **{"sec-type": "intro"}) or body_tag.find('sec')
+            if intro_sec:
+                intro_sec.append(tbl_wrap)
             else:
-                cite_p = cite_xref.find_parent('p')
-                
-            if cite_p:
-                cite_p.insert_after(tbl_wrap)
-            elif idx - 1 < len(existing_tables):
-                existing_tables[idx - 1].replace_with(tbl_wrap)
-            else:
-                intro_sec = body_tag.find('sec', **{"sec-type": "intro"}) or body_tag.find('sec')
-                if intro_sec:
-                    intro_sec.append(tbl_wrap)
-                else:
-                    body_tag.append(tbl_wrap)
+                body_tag.append(tbl_wrap)
 
     # Actualizar contador de tablas en <counts>
     tc_tag = soup.find('table-count')
@@ -281,3 +337,4 @@ def build_jats_table_from_docx(docx_path: str, soup: BeautifulSoup) -> Beautiful
         tc_tag['count'] = str(len(docx_tables))
 
     return soup
+

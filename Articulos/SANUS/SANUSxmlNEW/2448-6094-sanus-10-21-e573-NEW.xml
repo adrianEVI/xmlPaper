@@ -1,14 +1,277 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
-<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
-<front><journal-meta><journal-id journal-id-type="publisher-id">sanus</journal-id><journal-title-group><journal-title>Sanus</journal-title><abbrev-journal-title abbrev-type="publisher">SANUS</abbrev-journal-title></journal-title-group><issn pub-type="epub">2448-6094</issn><publisher><publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud, Departamento de enfermería</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">10.36789/sanus.vi21.573</article-id><article-id pub-id-type="other">00110</article-id><article-categories><subj-group subj-group-type="heading"><subject>Investigación</subject></subj-group></article-categories><title-group><article-title>Relación de la percepción materna y conductas alimentarias sobre el estado nutricional del escolar</article-title><trans-title-group xml:lang="pt"><trans-title>Relação entre a percepção materna e os comportamentos alimentares sobre o estado nutricional dos escolares</trans-title></trans-title-group></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0001-9404-3666</contrib-id><name><surname>Cano-Fajardo</surname><given-names>Luz Elena</given-names></name><xref ref-type="aff" rid="aff1"/><xref ref-type="corresp" rid="c1"><sup>*</sup></xref><role>Doctorado en Metodología de la Enseñanza</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0009-0001-4581-0184</contrib-id><name><surname>Perales-Hinojosa</surname><given-names>Karla Neidy</given-names></name><xref ref-type="aff" rid="aff2"/><role>Licenciatura en Enfermería</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0002-5277-4476</contrib-id><name><surname>Mireles-Alonso</surname><given-names>Mayra Alejandra</given-names></name><xref ref-type="aff" rid="aff3"/><role>Maestría en Enfermería</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0002-2984-3576</contrib-id><name><surname>López-Guevara</surname><given-names>San Juana</given-names></name><xref ref-type="aff" rid="aff4"/><role>Doctorado en Metodología de la Enseñanza</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0002-4587-3214</contrib-id><name><surname>Guerra-Ordoñez</surname><given-names>Jesús Alejandro</given-names></name><xref ref-type="aff" rid="aff5"/><role>Doctorado en Ciencias de Enfermería</role></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid">0000-0002-7274-3511</contrib-id><name><surname>Duran-Badillo</surname><given-names>Tirso</given-names></name><xref ref-type="aff" rid="aff6"/><role>Doctorado en Metodología de la Enseñanza</role></contrib><aff id="aff1"><label>1</label><institution content-type="original">Doctorado en Metodología de la Enseñanza, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution><institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution><institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution><institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution><addr-line><city>Ciudad Victoria</city><state>Tamaulipas</state></addr-line><country country="MX">México</country></aff><aff id="aff2"><label>2</label><institution content-type="original">Licenciatura en Enfermería, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution><institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution><institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution><institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution><addr-line><city>Ciudad Victoria</city><state>Tamaulipas</state></addr-line><country country="MX">México</country></aff><aff id="aff3"><label>3</label><institution content-type="original">Maestría en Enfermería, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution><institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution><institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution><institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution><addr-line><city>Ciudad Victoria</city><state>Tamaulipas</state></addr-line><country country="MX">México</country></aff><aff id="aff4"><label>4</label><institution content-type="original">Doctorado en Metodología de la Enseñanza, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution><institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution><institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution><institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution><addr-line><city>Ciudad Victoria</city><state>Tamaulipas</state></addr-line><country country="MX">México</country></aff><aff id="aff5"><label>5</label><institution content-type="original">Doctorado en Ciencias de Enfermería, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution><institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution><institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution><institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution><addr-line><city>Ciudad Victoria</city><state>Tamaulipas</state></addr-line><country country="MX">México</country></aff><aff id="aff6"><label>6</label><institution content-type="original">Doctorado en Metodología de la Enseñanza, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution><institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution><institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution><institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution><addr-line><city>Ciudad Victoria</city><state>Tamaulipas</state></addr-line><country country="MX">México</country></aff></contrib-group><author-notes><corresp id="c1"><label>*</label>Autor para correspondencia: Luz Elena Cano-Fajardo Correo-e: <email>lcano@docentes.uat.edu.mx</email></corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>04</day><month>02</month><year>2026</year></pub-date><pub-date date-type="collection" publication-format="electronic"><season>Jan-Dec</season><year>2025</year></pub-date><volume>10</volume><elocation-id>e573</elocation-id><history><date date-type="received"><day>25</day><month>03</month><year>2025</year></date><date date-type="accepted"><day>19</day><month>10</month><year>2025</year></date></history><permissions><license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es"><license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p></license></permissions><abstract><title>Resumen</title><sec><title>Introducción:</title><p>La adopción de hábitos alimentarios se encuentra influenciada por la familia, siendo la madre su cuidador principal por lo que su percepción tiene una influencia decisiva en la clase de alimentos ingeridos por los estudiantes en edad escolar.</p></sec><sec><title>Objetivo:</title><p>Conocer la relación entre la percepción materna y las conductas alimentarias sobre el estado nutricional del escolar.</p></sec><sec><title>Metodología:</title><p>Estudio descriptivo correlacional, en 223 diadas de madres y alumnos de primero a sexto año matriculados en institución pública, seleccionadas por muestreo no probabilístico, se excluyeron alumnos con discapacidad motriz, madres analfabetas o que no fuese la cuidadora principal. Se empleó Cuestionario de Apariencia Física y Salud, incluye percepción materna con pictograma de imágenes corporales y el Children's Eating Behaviour Questionnaire para medir conductas alimentarias, se respetó confidencialidad, anonimato, asentimiento y consentimiento informado.</p></sec><sec><title>Resultados:</title><p>Solo 47 % de madres identificaron correctamente la condición nutricional de sus hijos, el resto subestimó el sobrepeso y la obesidad, solo 34.5 % de los escolares tenía un peso normal. Se encontró una diferencia estadística significativa con p= .000 entre percepción materna sobre el peso del escolar, y el estado nutricional real del mismo. Además, se realizó correlación de Spearman obteniendo valores p&gt; 0.01.</p></sec><sec><title>Conclusiones:</title><p>La subestimación materna del sobrepeso y la obesidad puede dificultar la adopción de hábitos saludables, acrecentando el riesgo de enfermedades crónicas en la infancia. Es esencial implementar estrategias educativas dirigidas a las madres para mejorar la identificación del estado nutricional de sus hijos y fomentar prácticas alimentarias saludables.</p></sec></abstract><trans-abstract xml:lang="pt"><title>Resumo:</title><sec><title>Introdução:</title><p>A adoção de hábitos alimentares é influenciada pela família, sendo a mãe a principal cuidadora, razão pela qual sua percepção exerce influência decisiva sobre os tipos de alimentos consumidos pelos escolares.</p></sec><sec><title>Objetivo:</title><p>Conhecer a relação entre a percepção materna e os comportamentos alimentares sobre o estado nutricional dos escolares.</p></sec><sec><title>Metodologia:</title><p>Estudo descritivo, correlacional e transversal em 223 díades (mães e escolares de primeiro a sexto ano) de uma instituição pública. A amostragem foi não probabilística por conveniência, aplicando-se o Questionário de Aparência Física e Saúde, pictograma de imagens corporais e o instrumento CEBQ. Foram considerados os critérios éticos de confidencialidade, anonimato, assentimento e consentimento informado.</p></sec><sec><title>Resultados:</title><p>Apenas 47 % das mães perceberam corretamente o estado nutricional do filho. Prevaleceu o sobrepeso e a obesidade nas mães. Não houve relação estatisticamente significativa entre os comportamentos alimentares e o estado nutricional do escolar (p &gt; 0.01).</p></sec><sec><title>Conclusões:</title><p>Existe uma distorção perceptiva materna sobre o peso dos filhos que evidencia a necessidade de intervenções de enfermagem para o estabelecimento de hábitos alimentares saudáveis.</p></sec></trans-abstract><kwd-group xml:lang="es"><title>Palabras clave:</title><kwd>Percepción materna</kwd><kwd>Estado nutricional</kwd><kwd>Conductas alimentarias</kwd></kwd-group><kwd-group xml:lang="pt"><title>Palavras-chave:</title><kwd>Percepção materna</kwd><kwd>Estado nutricional</kwd><kwd>Comportamentos alimentares (DeCS)</kwd></kwd-group><funding-group><award-group><funding-source>Beca otorgada para estudiantes de posgrado al autor principal, emitida por el Consejo Nacional de Humanidades, Ciencias y Tecnologías.</funding-source></award-group></funding-group><counts><fig-count count="0"/><table-count count="8"/><equation-count count="0"/><ref-count count="28"/></counts></article-meta></front>
-<body><sec id="sec1" sec-type="intro">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">sanus</journal-id>
+<journal-title-group>
+<journal-title>Sanus</journal-title>
+<abbrev-journal-title abbrev-type="publisher">SANUS</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="epub">2448-6094</issn>
+<publisher>
+<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud, Departamento de enfermería</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.36789/sanus.vi21.573</article-id>
+<article-id pub-id-type="other">00110</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Investigación</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Relación de la percepción materna y conductas alimentarias sobre el estado nutricional del escolar</article-title>
+<trans-title-group xml:lang="pt">
+<trans-title>Relação entre a percepção materna e os comportamentos alimentares sobre o estado nutricional dos escolares</trans-title>
+</trans-title-group>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0001-9404-3666</contrib-id>
+<name>
+<surname>Cano-Fajardo</surname>
+<given-names>Luz Elena</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"/>
+<xref ref-type="corresp" rid="c1">
+<sup>*</sup>
+</xref>
+<role>Doctorado en Metodología de la Enseñanza</role>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0009-0001-4581-0184</contrib-id>
+<name>
+<surname>Perales-Hinojosa</surname>
+<given-names>Karla Neidy</given-names>
+</name>
+<xref ref-type="aff" rid="aff2"/>
+<role>Licenciatura en Enfermería</role>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-5277-4476</contrib-id>
+<name>
+<surname>Mireles-Alonso</surname>
+<given-names>Mayra Alejandra</given-names>
+</name>
+<xref ref-type="aff" rid="aff3"/>
+<role>Maestría en Enfermería</role>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-2984-3576</contrib-id>
+<name>
+<surname>López-Guevara</surname>
+<given-names>San Juana</given-names>
+</name>
+<xref ref-type="aff" rid="aff4"/>
+<role>Doctorado en Metodología de la Enseñanza</role>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-4587-3214</contrib-id>
+<name>
+<surname>Guerra-Ordoñez</surname>
+<given-names>Jesús Alejandro</given-names>
+</name>
+<xref ref-type="aff" rid="aff5"/>
+<role>Doctorado en Ciencias de Enfermería</role>
+</contrib>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-7274-3511</contrib-id>
+<name>
+<surname>Duran-Badillo</surname>
+<given-names>Tirso</given-names>
+</name>
+<xref ref-type="aff" rid="aff6"/>
+<role>Doctorado en Metodología de la Enseñanza</role>
+</contrib>
+<aff id="aff1">
+<label>1</label>
+<institution content-type="original">Doctorado en Metodología de la Enseñanza, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution>
+<institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution>
+<addr-line>
+<city>Ciudad Victoria</city>
+<state>Tamaulipas</state>
+</addr-line>
+<country country="MX">México</country>
+</aff>
+<aff id="aff2">
+<label>2</label>
+<institution content-type="original">Licenciatura en Enfermería, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution>
+<institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution>
+<addr-line>
+<city>Ciudad Victoria</city>
+<state>Tamaulipas</state>
+</addr-line>
+<country country="MX">México</country>
+</aff>
+<aff id="aff3">
+<label>3</label>
+<institution content-type="original">Maestría en Enfermería, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution>
+<institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution>
+<addr-line>
+<city>Ciudad Victoria</city>
+<state>Tamaulipas</state>
+</addr-line>
+<country country="MX">México</country>
+</aff>
+<aff id="aff4">
+<label>4</label>
+<institution content-type="original">Doctorado en Metodología de la Enseñanza, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution>
+<institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution>
+<addr-line>
+<city>Ciudad Victoria</city>
+<state>Tamaulipas</state>
+</addr-line>
+<country country="MX">México</country>
+</aff>
+<aff id="aff5">
+<label>5</label>
+<institution content-type="original">Doctorado en Ciencias de Enfermería, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution>
+<institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution>
+<addr-line>
+<city>Ciudad Victoria</city>
+<state>Tamaulipas</state>
+</addr-line>
+<country country="MX">México</country>
+</aff>
+<aff id="aff6">
+<label>6</label>
+<institution content-type="original">Doctorado en Metodología de la Enseñanza, Universidad Autónoma de Tamaulipas, Ciudad Victoria, Tamaulipas, México</institution>
+<institution content-type="orgname">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="normalized">Universidad Autónoma de Tamaulipas</institution>
+<institution content-type="orgdiv1">Facultad de Enfermería Victoria</institution>
+<addr-line>
+<city>Ciudad Victoria</city>
+<state>Tamaulipas</state>
+</addr-line>
+<country country="MX">México</country>
+</aff>
+</contrib-group>
+<author-notes>
+<corresp id="c1">
+<label>*</label>Autor para correspondencia: Luz Elena Cano-Fajardo Correo-e: <email>lcano@docentes.uat.edu.mx</email>
+</corresp>
+</author-notes>
+<pub-date date-type="pub" publication-format="electronic">
+<day>04</day>
+<month>02</month>
+<year>2026</year>
+</pub-date>
+<pub-date date-type="collection" publication-format="electronic">
+<season>Jan-Dec</season>
+<year>2025</year>
+</pub-date>
+<volume>10</volume>
+<elocation-id>e573</elocation-id>
+<history>
+<date date-type="received">
+<day>25</day>
+<month>03</month>
+<year>2025</year>
+</date>
+<date date-type="accepted">
+<day>19</day>
+<month>10</month>
+<year>2025</year>
+</date>
+</history>
+<permissions>
+<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+</license>
+</permissions>
+<abstract>
+<title>Resumen</title>
+<sec>
+<title>Introducción:</title>
+<p>La adopción de hábitos alimentarios se encuentra influenciada por la familia, siendo la madre su cuidador principal por lo que su percepción tiene una influencia decisiva en la clase de alimentos ingeridos por los estudiantes en edad escolar.</p>
+</sec>
+<sec>
+<title>Objetivo:</title>
+<p>Conocer la relación entre la percepción materna y las conductas alimentarias sobre el estado nutricional del escolar.</p>
+</sec>
+<sec>
+<title>Metodología:</title>
+<p>Estudio descriptivo correlacional, en 223 diadas de madres y alumnos de primero a sexto año matriculados en institución pública, seleccionadas por muestreo no probabilístico, se excluyeron alumnos con discapacidad motriz, madres analfabetas o que no fuese la cuidadora principal. Se empleó Cuestionario de Apariencia Física y Salud, incluye percepción materna con pictograma de imágenes corporales y el Children's Eating Behaviour Questionnaire para medir conductas alimentarias, se respetó confidencialidad, anonimato, asentimiento y consentimiento informado.</p>
+</sec>
+<sec>
+<title>Resultados:</title>
+<p>Solo 47 % de madres identificaron correctamente la condición nutricional de sus hijos, el resto subestimó el sobrepeso y la obesidad, solo 34.5 % de los escolares tenía un peso normal. Se encontró una diferencia estadística significativa con p= .000 entre percepción materna sobre el peso del escolar, y el estado nutricional real del mismo. Además, se realizó correlación de Spearman obteniendo valores p&gt; 0.01.</p>
+</sec>
+<sec>
+<title>Conclusiones:</title>
+<p>La subestimación materna del sobrepeso y la obesidad puede dificultar la adopción de hábitos saludables, acrecentando el riesgo de enfermedades crónicas en la infancia. Es esencial implementar estrategias educativas dirigidas a las madres para mejorar la identificación del estado nutricional de sus hijos y fomentar prácticas alimentarias saludables.</p>
+</sec>
+</abstract>
+<trans-abstract xml:lang="pt">
+<title>Resumo:</title>
+<sec>
+<title>Introdução:</title>
+<p>A adoção de hábitos alimentares é influenciada pela família, sendo a mãe a principal cuidadora, razão pela qual sua percepção exerce influência decisiva sobre os tipos de alimentos consumidos pelos escolares.</p>
+</sec>
+<sec>
+<title>Objetivo:</title>
+<p>Conhecer a relação entre a percepção materna e os comportamentos alimentares sobre o estado nutricional dos escolares.</p>
+</sec>
+<sec>
+<title>Metodologia:</title>
+<p>Estudo descritivo, correlacional e transversal em 223 díades (mães e escolares de primeiro a sexto ano) de uma instituição pública. A amostragem foi não probabilística por conveniência, aplicando-se o Questionário de Aparência Física e Saúde, pictograma de imagens corporais e o instrumento CEBQ. Foram considerados os critérios éticos de confidencialidade, anonimato, assentimento e consentimento informado.</p>
+</sec>
+<sec>
+<title>Resultados:</title>
+<p>Apenas 47 % das mães perceberam corretamente o estado nutricional do filho. Prevaleceu o sobrepeso e a obesidade nas mães. Não houve relação estatisticamente significativa entre os comportamentos alimentares e o estado nutricional do escolar (p &gt; 0.01).</p>
+</sec>
+<sec>
+<title>Conclusões:</title>
+<p>Existe uma distorção perceptiva materna sobre o peso dos filhos que evidencia a necessidade de intervenções de enfermagem para o estabelecimento de hábitos alimentares saudáveis.</p>
+</sec>
+</trans-abstract>
+<kwd-group xml:lang="es">
+<title>Palabras clave:</title>
+<kwd>Percepción materna</kwd>
+<kwd>Estado nutricional</kwd>
+<kwd>Conductas alimentarias</kwd>
+</kwd-group>
+<kwd-group xml:lang="pt">
+<title>Palavras-chave:</title>
+<kwd>Percepção materna</kwd>
+<kwd>Estado nutricional</kwd>
+<kwd>Comportamentos alimentares (DeCS)</kwd>
+</kwd-group>
+<funding-group>
+<award-group>
+<funding-source>Beca otorgada para estudiantes de posgrado al autor principal, emitida por el Consejo Nacional de Humanidades, Ciencias y Tecnologías.</funding-source>
+</award-group>
+</funding-group>
+<counts>
+<fig-count count="0"/>
+<table-count count="8"/>
+<equation-count count="0"/>
+<ref-count count="28"/>
+</counts>
+</article-meta>
+</front>
+<body>
+<sec id="sec1" sec-type="intro">
 <title>Introducción</title>
 <p>A nivel mundial se han incrementado los problemas relacionados con
   la alimentación teniendo como consecuencias desequilibrios
   nutricionales. Las estimaciones indican que más de 900 millones de
   personas presentan problemas de desnutrición y 170 millones de
-  escolares sufren de insuficiencia ponderal <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>. Asi mismo,
+  escolares sufren de insuficiencia ponderal <xref ref-type="bibr" rid="B1">
+<sup>1</sup>
+</xref>. Asi mismo,
   en México uno de cada tres niños de seis a once años se encuentra en
   sobrepeso (SP) y obesidad (OB), representando un 35 % y un 2 % de
   escolares muy delgados <sub>2</sub>. Durante el año 2016, la
@@ -16,16 +279,22 @@
   nutricional en México ha evidenciado una modificación en los hábitos
   de consumo, sustituyéndose los productos saludables por alimentos con
   elevada concentración energética, ricos en azúcares y grasas
-  <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>. La amplia accesibilidad de alimentos con elevada
+  <xref ref-type="bibr" rid="B3">
+<sup>3</sup>
+</xref>. La amplia accesibilidad de alimentos con elevada
   concentración energética, el elevado consumo de bebidas azucaradas y
   la escasa actividad física en las escuelas trae como consecuencia
   altas estadísticas de SP y OB. Un ejemplo de esto es que se cree que
   el 92 % de los infantes entre los 5 y los 11 años consumen
   regularmente bebidas azucaradas, mientras que el 50 % incluye en su
-  dieta botanas, dulces y cereales ultra procesados <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>, como
+  dieta botanas, dulces y cereales ultra procesados <xref ref-type="bibr" rid="B3">
+<sup>3</sup>
+</xref>, como
   consecuencia, México es considerado un país mayormente mal nutrido,
   debido a que actualmente se posiciona como el país con la mayor
-  prevalencia de OB infantil a nivel global <xref ref-type="bibr" rid="B4"><sup>4</sup></xref>. El llevar
+  prevalencia de OB infantil a nivel global <xref ref-type="bibr" rid="B4">
+<sup>4</sup>
+</xref>. El llevar
   una dieta sana ayuda a prevenir la malnutrición, teniendo una
   alimentación variada, proporcionada y saludable que debe estar basada
   en las características individuales como la edad, sexo, hábitos de
@@ -43,16 +312,22 @@
   adopten patrones alimentarios inadecuados, incrementándose el consumo
   de alimentos transformados y comida rápida, lo cual impacta
   negativamente en las costumbres alimentarias de los niños y en su
-  estado nutricional <xref ref-type="bibr" rid="B5"><sup>5</sup></xref>.</p>
+  estado nutricional <xref ref-type="bibr" rid="B5">
+<sup>5</sup>
+</xref>.</p>
 <p>Además, el mantener poca actividad física y aumento de horas para
   ver la televisión y jugar videojuegos, son también factores que
-  impulsan la obesidad en los escolares <xref ref-type="bibr" rid="B6"><sup>6</sup></xref>. Así mismo, el
+  impulsan la obesidad en los escolares <xref ref-type="bibr" rid="B6">
+<sup>6</sup>
+</xref>. Así mismo, el
   estado nutricional es una condición en la que se encuentra el
   organismo en relación con la ingesta de nutrientes y éste se mide a
   través de los parámetros de nutrientes, por lo tanto, la alimentación
   y nutrición son esenciales en cualquier momento de la vida,
   principalmente en etapas tempranas de crecimiento y desarrollo
-  fisiológico <xref ref-type="bibr" rid="B7"><sup>7</sup></xref>.</p>
+  fisiológico <xref ref-type="bibr" rid="B7">
+<sup>7</sup>
+</xref>.</p>
 <p>La adquisición de hábitos alimentarios está influenciada
   principalmente por tres agentes: la familia, los medios de información
   masiva y la escuela. La familia representa el primer entorno en el que
@@ -60,29 +335,47 @@
   ejerciendo una influencia significativa en sus conductas relacionadas
   con la alimentación. Los hábitos familiares, a su vez, son producto de
   una construcción social y cultural compartida de manera implícita
-  entre sus miembros <xref ref-type="bibr" rid="B6"><sup>6</sup></xref>.</p>
+  entre sus miembros <xref ref-type="bibr" rid="B6">
+<sup>6</sup>
+</xref>.</p>
 <p>Las creencias y las prácticas de alimentación tienen una gran
   importancia en los comportamientos alimentarios influyendo
   principalmente en las percepciones incorrectas de las madres sobre el
   estado nutricional de los escolares y como consecuencia en la conducta
   alimentaria del escolar y en la construcción de su autoimagen
-  <xref ref-type="bibr" rid="B8"><sup>8</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B9"><sup>9</sup></xref>. Existen estudios que han explorado la anomalía
+  <xref ref-type="bibr" rid="B8">
+<sup>8</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B9">
+<sup>9</sup>
+</xref>. Existen estudios que han explorado la anomalía
   perceptiva de la madre sobre el estado nutricional (peso/talla) de los
   hijos, en donde se demuestra que una percepción materna inadecuada en
   los escolares puede considerarse un factor de riesgo para el
   desarrollo y mantenimiento de SP y OB, puesto que el 98 % de las
   madres no reconoce el estado nutricional real de los hijos
-  <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>.</p>
+  <xref ref-type="bibr" rid="B10">
+<sup>10</sup>
+</xref>.</p>
 <p>Investigadores han señalado el papel fundamental de la percepción
-  materna <xref ref-type="bibr" rid="B11"><sup>11</sup></xref>, debido a que históricamente se profesa como
+  materna <xref ref-type="bibr" rid="B11">
+<sup>11</sup>
+</xref>, debido a que históricamente se profesa como
   estereotipo ser un niño gordo es representación de estar sano, al
   contrario, un niño enfermo se le relaciona con un niño delgado
-  <xref ref-type="bibr" rid="B12"><sup>12</sup></xref>. En Chile las madres de escolares en estado de
+  <xref ref-type="bibr" rid="B12">
+<sup>12</sup>
+</xref>. En Chile las madres de escolares en estado de
   malnutrición por exceso los percibieron más delgados en un 60 % de
-  ellos <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>, así mismo la percepción inferior del peso de
+  ellos <xref ref-type="bibr" rid="B10">
+<sup>10</sup>
+</xref>, así mismo la percepción inferior del peso de
   los hijos de madres en el estado de Nuevo León se presentó en la
   mayoría de las madres con hijos con sobrepeso-obesidad
-  <xref ref-type="bibr" rid="B11"><sup>11</sup></xref>. Como personal de enfermería, estamos involucrados en
+  <xref ref-type="bibr" rid="B11">
+<sup>11</sup>
+</xref>. Como personal de enfermería, estamos involucrados en
   esta problemática debido a un notable incremento en la prevalencia de
   sobrepeso y obesidad infantil, condiciones que podrían prevenirse y
   modificarse desde edades tempranas mediante visitas a los
@@ -92,7 +385,13 @@
   y promover un estado nutricional óptimo en la población escolar, así
   como implementar programas que fomenten hábitos alimentarios
   saludables, contribuyendo de esta manera a la formación de estilos de
-  vida saludables en este grupo <xref ref-type="bibr" rid="B13"><sup>13</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B14"><sup>14</sup></xref>. En función a lo
+  vida saludables en este grupo <xref ref-type="bibr" rid="B13">
+<sup>13</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B14">
+<sup>14</sup>
+</xref>. En función a lo
   expuesto previamente y tras un análisis exhaustivo de la literatura
   disponible, resulta pertinente profundizar en el estudio de estos
   fenómenos, es por ello por lo que se planteó como pregunta de
@@ -100,7 +399,8 @@
   estado nutricional y las conductas alimentarias de sus hijos?, con el
   objetivo de conocer la relación entre la percepción materna y las
   conductas alimentarias sobre el estado nutricional del escolar.</p>
-</sec><sec id="sec2" sec-type="methods">
+</sec>
+<sec id="sec2" sec-type="methods">
 <title>Metodología</title>
 <p>Estudio tipo descriptivo correlacional, la población estuvo formada
   por 788 diadas de madre-escolar de una institución pública ubicada en
@@ -137,7 +437,9 @@
   sección que incluyó un pictograma con siete imágenes corporales
   dividida en cuatro secciones, de acuerdo con los rangos de edad y sexo
   de los escolares, donde la madre podía seleccionar la imagen que más
-  se acercará con la imagen corporal de su hijo<xref ref-type="bibr" rid="B15"><sup>15</sup></xref>. En
+  se acercará con la imagen corporal de su hijo<xref ref-type="bibr" rid="B15">
+<sup>15</sup>
+</xref>. En
   cuanto a la percepción por imágenes, para realizar la medición se
   consideró un resultado positivo cuando las madres de niños con bajo
   peso y peso normal según el índice de masa corporal (IMC),
@@ -148,14 +450,20 @@
   2009 con una sensibilidad de 9 % y especificidad, de 21 % para la
   prueba percepción por palabras, y una sensibilidad de 76 % y
   especificidad de 15 % para la prueba percepción por imágenes
-  <xref ref-type="bibr" rid="B16"><sup>16</sup></xref>.</p>
-<p>El Children´s Eating Behaviour Questionnaire (CEBQ) <xref ref-type="bibr" rid="B17"><sup>17</sup></xref>
+  <xref ref-type="bibr" rid="B16">
+<sup>16</sup>
+</xref>.</p>
+<p>El Children´s Eating Behaviour Questionnaire (CEBQ) <xref ref-type="bibr" rid="B17">
+<sup>17</sup>
+</xref>
   adaptado para la población mexicana permite obtener información sobre
   conductas alimentarias, consta de 34 reactivos y seis escalas:
   Voracidad e ingesta emocional 11 ítems), disfrute de la comida (5
   ítems), deseo de beber (3 ítems), apetito moderado (8 ítems), ayuno
   emocional (4 ítems) y melindrosidad (3 ítems), cuenta con una
-  confiabilidad alfa de Cronbach de 0.882 <xref ref-type="bibr" rid="B18"><sup>18</sup></xref>, mientras que
+  confiabilidad alfa de Cronbach de 0.882 <xref ref-type="bibr" rid="B18">
+<sup>18</sup>
+</xref>, mientras que
   en esta investigación fue de 0.822. Por último, para determinar el
   peso se utilizó una báscula marca SECA modelo 813 con capacidad para
   150 kilogramos, precisión de 0.1 kg., los resultados para determinar
@@ -168,7 +476,9 @@
   de la institución educativa para llevar a cabo la recolección de
   datos. El estudio se realizó conforme a lo establecido en el
   Reglamento de la Ley General de Salud, específicamente en la sección
-  referente a la investigación en seres humanos <xref ref-type="bibr" rid="B19"><sup>19</sup></xref>, en
+  referente a la investigación en seres humanos <xref ref-type="bibr" rid="B19">
+<sup>19</sup>
+</xref>, en
   donde se señala que toda investigación en salud debe considerar
   aspectos éticos que garanticen la dignidad, consentimiento,
   confidencialidad, anonimato y el asentimiento informado.</p>
@@ -177,17 +487,174 @@
   Se utilizó estadística descriptiva a través de frecuencias y
   porcentajes, así como la prueba no paramétrica de correlación de
   Spearman para determinar la relación entre las variables.</p>
-</sec><sec id="sec3" sec-type="results">
+</sec>
+<sec id="sec3" sec-type="results">
 <title>Resultados</title>
 <p>El IMC de la madre y del hijo, fueron del 26 % y el 34.5 % los
   cuales se encontraban con peso normal respectivamente, (<xref ref-type="table" rid="t1">Tabla 1</xref>).</p>
-<table-wrap id="t1"><label>Tabla 1</label><caption><title>Estado nutricional de la madre y el escolar, 2024 (n=223)</title></caption><table><tbody><tr><td>Variable</td><td>f</td><td>%</td></tr><tr><td>IMC-Madre</td><td/><td/></tr><tr><td>Bajo peso</td><td>1</td><td>.4</td></tr><tr><td>Peso normal</td><td>58</td><td>26.0</td></tr><tr><td>Sobrepeso</td><td>103</td><td>46.2</td></tr><tr><td>Obesidad I</td><td>42</td><td>18.8</td></tr><tr><td>Obesidad II</td><td>14</td><td>6.3</td></tr><tr><td>Obesidad III</td><td>5</td><td>2.2</td></tr><tr><td>IMC-Escolar</td><td/><td/></tr><tr><td>Bajo peso</td><td>59</td><td>26.5</td></tr><tr><td>Peso normal</td><td>77</td><td>34.5</td></tr><tr><td>Sobrepeso</td><td>42</td><td>18.8</td></tr><tr><td>Obesidad</td><td>45</td><td>20.2</td></tr></tbody></table><table-wrap-foot><fn fn-type="other" id="TFN1"><p>Fuente: Elaboración propia</p></fn></table-wrap-foot></table-wrap>
+<table-wrap id="t1">
+<label>Tabla 1</label>
+<caption>
+<title>Estado nutricional de la madre y el escolar, 2024 (n=223)</title>
+</caption>
+<table>
+<tbody>
+<tr>
+<td>Variable</td>
+<td>f</td>
+<td>%</td>
+</tr>
+<tr>
+<td>IMC-Madre</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Bajo peso</td>
+<td>1</td>
+<td>.4</td>
+</tr>
+<tr>
+<td>Peso normal</td>
+<td>58</td>
+<td>26.0</td>
+</tr>
+<tr>
+<td>Sobrepeso</td>
+<td>103</td>
+<td>46.2</td>
+</tr>
+<tr>
+<td>Obesidad I</td>
+<td>42</td>
+<td>18.8</td>
+</tr>
+<tr>
+<td>Obesidad II</td>
+<td>14</td>
+<td>6.3</td>
+</tr>
+<tr>
+<td>Obesidad III</td>
+<td>5</td>
+<td>2.2</td>
+</tr>
+<tr>
+<td>IMC-Escolar</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>Bajo peso</td>
+<td>59</td>
+<td>26.5</td>
+</tr>
+<tr>
+<td>Peso normal</td>
+<td>77</td>
+<td>34.5</td>
+</tr>
+<tr>
+<td>Sobrepeso</td>
+<td>42</td>
+<td>18.8</td>
+</tr>
+<tr>
+<td>Obesidad</td>
+<td>45</td>
+<td>20.2</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn fn-type="other" id="TFN1">
+<p>Fuente: Elaboración propia</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
 <p>En la <xref ref-type="table" rid="t2">tabla 2</xref>, se puede observar que sólo el 47 % de las madres
   percibieron correctamente el estado nutricional del escolar,
   haciéndose mayor énfasis en que el escolar con normo peso su madre lo
   percibió con bajo peso o con SP, y el escolar con SP u OB, fue
   percibido normopeso o con bajo peso.</p>
-<table-wrap id="t2"><label>Tabla 2</label><caption><title>Elección de imágenes corporales e Índice de masa corporal, 2024 (n=223)</title></caption><table><tbody><tr><td>Elección de imágenes</td><td>Sobrepeso</td><td>Sobrepeso</td><td>Peso normal</td><td>Peso normal</td><td>Bajo peso</td><td>Bajo peso</td></tr><tr><td/><td>u obesidad</td><td>u obesidad</td><td/><td/><td/><td/></tr><tr><td>IMC</td><td>f</td><td>%</td><td>f</td><td>%</td><td>f</td><td>%</td></tr><tr><td>Bajo peso</td><td>1</td><td>0.4</td><td>2</td><td>0.8</td><td>8</td><td>3.6</td></tr><tr><td>Normo peso</td><td>5</td><td>2.2</td><td>59</td><td>26.4</td><td>62</td><td>27.8</td></tr><tr><td>Sobrepeso</td><td>11</td><td>4.</td><td>23</td><td>10.3</td><td>7</td><td>3.1</td></tr><tr><td>Obesidad</td><td>27</td><td>12.1</td><td>16</td><td>7.1</td><td>2</td><td>0.8</td></tr></tbody></table><table-wrap-foot><fn fn-type="other" id="TFN2"><p>Fuente: Elaboración propia</p></fn></table-wrap-foot></table-wrap>
+<table-wrap id="t2">
+<label>Tabla 2</label>
+<caption>
+<title>Elección de imágenes corporales e Índice de masa corporal, 2024 (n=223)</title>
+</caption>
+<table>
+<tbody>
+<tr>
+<td>Elección de imágenes</td>
+<td>Sobrepeso</td>
+<td>Sobrepeso</td>
+<td>Peso normal</td>
+<td>Peso normal</td>
+<td>Bajo peso</td>
+<td>Bajo peso</td>
+</tr>
+<tr>
+<td/>
+<td>u obesidad</td>
+<td>u obesidad</td>
+<td/>
+<td/>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>IMC</td>
+<td>f</td>
+<td>%</td>
+<td>f</td>
+<td>%</td>
+<td>f</td>
+<td>%</td>
+</tr>
+<tr>
+<td>Bajo peso</td>
+<td>1</td>
+<td>0.4</td>
+<td>2</td>
+<td>0.8</td>
+<td>8</td>
+<td>3.6</td>
+</tr>
+<tr>
+<td>Normo peso</td>
+<td>5</td>
+<td>2.2</td>
+<td>59</td>
+<td>26.4</td>
+<td>62</td>
+<td>27.8</td>
+</tr>
+<tr>
+<td>Sobrepeso</td>
+<td>11</td>
+<td>4.</td>
+<td>23</td>
+<td>10.3</td>
+<td>7</td>
+<td>3.1</td>
+</tr>
+<tr>
+<td>Obesidad</td>
+<td>27</td>
+<td>12.1</td>
+<td>16</td>
+<td>7.1</td>
+<td>2</td>
+<td>0.8</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn fn-type="other" id="TFN2">
+<p>Fuente: Elaboración propia</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
 <p>Para dar respuesta al objetivo general se ejecutó la prueba no
   paramétrica de Kruskal- Wallis para conocer si existía alguna
   diferencia significativa entre el IMC del escolar y la elección de
@@ -195,21 +662,112 @@
   .000 estableciendo una diferencia estadística significativa entre la
   percepción materna sobre el peso del escolar, y el estado nutricional
   real del mismo, (<xref ref-type="table" rid="t3">Tabla 3</xref>).</p>
-<table-wrap id="t3"><label>Tabla 3</label><caption><title>Diferencia entre IMC e imágenes, 2024</title></caption><table><tbody><tr><td>Prueba de Kruskal-Wallis</td><td/><td/></tr><tr><td>X²</td><td>gL</td><td>p</td></tr><tr><td>92.958</td><td>2</td><td>.000</td></tr></tbody></table><table-wrap-foot><fn fn-type="other" id="TFN3"><p>Fuente: Elaboración propia. Nota: X² =Chi cuadrada, gL grados de libertad, p =significancia</p></fn></table-wrap-foot></table-wrap>
+<table-wrap id="t3">
+<label>Tabla 3</label>
+<caption>
+<title>Diferencia entre IMC e imágenes, 2024</title>
+</caption>
+<table>
+<tbody>
+<tr>
+<td>Prueba de Kruskal-Wallis</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>X²</td>
+<td>gL</td>
+<td>p</td>
+</tr>
+<tr>
+<td>92.958</td>
+<td>2</td>
+<td>.000</td>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn fn-type="other" id="TFN3">
+<p>Fuente: Elaboración propia. Nota: X² =Chi cuadrada, gL grados de libertad, p =significancia</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
 <p>Por último, para conocer si existía relación entre las conductas
   alimentarias y el estado nutricional del escolar, se realizó la prueba
   no paramétrica de Spearman, obteniendo valores arriba de 0.01 lo cual
   se interpreta como que no existió relación estadística entre ambas
   variables, por lo tanto, sea cual sea su clasificación, uno no tiene
   impacto en el otro, (<xref ref-type="table" rid="t4">Tabla 4</xref>).</p>
-<table-wrap id="t4"><label>Tabla 4</label><caption><title>Prueba no paramétrica de Spearman, 2024</title></caption><table><tbody><tr><td>Variable</td><td>Pro-ingesta</td><td>Pro-ingesta</td><td>Anti-ingesta</td><td>Anti-ingesta</td><td>IMC</td><td>IMC</td></tr><tr><td>Variable</td><td>p</td><td>Sig.</td><td>p</td><td>Sig.</td><td>p</td><td>Sig.</td></tr><tr><td>Pro-ingesta</td><td>1.00</td><td/><td>.271**</td><td>.000</td><td>.031</td><td>.641</td></tr><tr><td>Anti-ingesta</td><td>.271**</td><td>.000</td><td>1.00</td><td/><td>-0.85</td><td>.208</td></tr><tr><td>IMC</td><td>0.31</td><td>.641</td><td>-0.85</td><td>.208</td><td>1.00</td><td/></tr></tbody></table><table-wrap-foot><fn fn-type="other" id="TFN4"><p>Fuente: Elaboración propia</p></fn></table-wrap-foot></table-wrap>
-</sec><sec id="sec4" sec-type="discussion">
+<table-wrap id="t4">
+<label>Tabla 4</label>
+<caption>
+<title>Prueba no paramétrica de Spearman, 2024</title>
+</caption>
+<table>
+<tbody>
+<tr>
+<td>Variable</td>
+<td>Pro-ingesta</td>
+<td>Pro-ingesta</td>
+<td>Anti-ingesta</td>
+<td>Anti-ingesta</td>
+<td>IMC</td>
+<td>IMC</td>
+</tr>
+<tr>
+<td>Variable</td>
+<td>p</td>
+<td>Sig.</td>
+<td>p</td>
+<td>Sig.</td>
+<td>p</td>
+<td>Sig.</td>
+</tr>
+<tr>
+<td>Pro-ingesta</td>
+<td>1.00</td>
+<td/>
+<td>.271**</td>
+<td>.000</td>
+<td>.031</td>
+<td>.641</td>
+</tr>
+<tr>
+<td>Anti-ingesta</td>
+<td>.271**</td>
+<td>.000</td>
+<td>1.00</td>
+<td/>
+<td>-0.85</td>
+<td>.208</td>
+</tr>
+<tr>
+<td>IMC</td>
+<td>0.31</td>
+<td>.641</td>
+<td>-0.85</td>
+<td>.208</td>
+<td>1.00</td>
+<td/>
+</tr>
+</tbody>
+</table>
+<table-wrap-foot>
+<fn fn-type="other" id="TFN4">
+<p>Fuente: Elaboración propia</p>
+</fn>
+</table-wrap-foot>
+</table-wrap>
+</sec>
+<sec id="sec4" sec-type="discussion">
 <title>Discusión</title>
 <p>Resulta importante señalar que en esta investigación, la mayoría de
   las madres se encontraban en un desequilibrio de su estado
   nutricional, principalmente con SP y OB cifras que no difieren de los
   resultados de la Encuesta Nacional de Salud y Nutrición ENSANUT
-  2020-2023 <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>, influyendo en la percepción distorsionada
+  2020-2023 <xref ref-type="bibr" rid="B20">
+<sup>20</sup>
+</xref>, influyendo en la percepción distorsionada
   del peso de los hijos lo que podría considerarse como una limitante,
   siendo así que poco más del cincuenta por ciento 53 % de las madres
   eligieron erróneamente la representación del peso real del escolar
@@ -219,7 +777,13 @@
   enfermería al evidenciar la importancia del establecimiento de hábitos
   saludables.</p>
 <p>Estos datos coinciden con investigaciones previas, un estudio
-  realizado en Shangai, China y otro en Brasil <xref ref-type="bibr" rid="B9"><sup>9</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref>, las
+  realizado en Shangai, China y otro en Brasil <xref ref-type="bibr" rid="B9">
+<sup>9</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B22">
+<sup>22</sup>
+</xref>, las
   madres oscilaban con un peso fuera de los rangos normales,
   subestimaron el peso de sus descendientes, este fenómeno se presentó
   en casi una cuarta parte de las madres entrevistadas. Cuando existe
@@ -239,7 +803,25 @@
   un peso eutrófico, siendo un evento no aislado, debido a que diversas
   investigaciones que han sido llevadas a cabo en distintas regiones del
   mundo, los rangos de desequilibrio nutricional han revelado este mismo
-  comportamiento <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B10"><sup>10</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref>.</p>
+  comportamiento <xref ref-type="bibr" rid="B5">
+<sup>5</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B6">
+<sup>6</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B10">
+<sup>10</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B23">
+<sup>23</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B24">
+<sup>24</sup>
+</xref>.</p>
 <p>El estudio muestra que poco menos de la mitad de las madres
   percibieron de manera adecuada el estado nutricional de sus hijos, con
   una tendencia a subestimar el SP y la OB. Este fenómeno se ha
@@ -251,13 +833,23 @@
   donde se resaltó que la mayoría de las madres con SP y OB tiene una
   percepción no adecuada del peso del hijo, además de que esta
   alteración es una consecuencia para el aumento constante de la
-  obesidad en escolares <xref ref-type="bibr" rid="B10"><sup>10</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B11"><sup>11</sup></xref>. En Rumania al estimar la
+  obesidad en escolares <xref ref-type="bibr" rid="B10">
+<sup>10</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B11">
+<sup>11</sup>
+</xref>. En Rumania al estimar la
   percepción del peso de los escolares a través de la perspectiva de los
   tutores, más de la mitad percibió de manera errónea el peso real de su
   hijo, siendo que solo un 61 % de los escolares se encontraba realmente
-  en un peso normal <xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. Aunado a lo anterior en Argentina
+  en un peso normal <xref ref-type="bibr" rid="B25">
+<sup>25</sup>
+</xref>. Aunado a lo anterior en Argentina
   la percepción de las progenitoras con descendientes con obesidad fue
-  distorsionada <xref ref-type="bibr" rid="B26"><sup>26</sup></xref>, a pesar de la independencia que los
+  distorsionada <xref ref-type="bibr" rid="B26">
+<sup>26</sup>
+</xref>, a pesar de la independencia que los
   escolares muestran a esta edad, la alimentación es una responsabilidad
   de los padres de ahí la importancia de que posean una percepción real
   del peso de sus hijos.</p>
@@ -274,7 +866,13 @@
   teniendo un impacto en la ingesta de alimentos en donde se presentan
   alteraciones como la disminución o aumento de ella, teniendo como
   consecuencia problemas para controlar el peso corporal surgiendo así
-  una conducta alimentaria inadecuada <xref ref-type="bibr" rid="B27"><sup>27</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B28"><sup>28</sup></xref>.</p>
+  una conducta alimentaria inadecuada <xref ref-type="bibr" rid="B27">
+<sup>27</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B28">
+<sup>28</sup>
+</xref>.</p>
 <p>Los resultados muestran el comportamiento del binomio madre-hijo en
   una institución de la localidad de Matamoros, sin embargo, no se puede
   jactar que es un comportamiento generalizado en la población, sería
@@ -282,7 +880,8 @@
   comportamientos alimentarios en escolares, con ello podría brindarse
   la información necesaria para realizar estrategias de educación
   alimentaria tanto a la madre como a los escolares.</p>
-</sec><sec id="sec5" sec-type="conclusions">
+</sec>
+<sec id="sec5" sec-type="conclusions">
 <title>Conclusiones</title>
 <p>Los hallazgos de este estudio destacan una discrepancia importante
   entre la percepción materna y el estado nutricional real de los
@@ -317,137 +916,959 @@
   existen multifactores que influyen en dicha percepción, por lo cual se
   sugiere en próximos estudios no solo abordar a la diada, sino a todo
   el seno familiar y círculos de amistad.</p>
-</sec><sec id="sec6" sec-type="coi">
+</sec>
+<sec id="sec6" sec-type="coi">
 <title>Conflicto de intereses</title>
 <p>Los autores declaran que no existe ningún conflicto de
   intereses.</p>
-</sec><sec id="sec7" sec-type="financial-disclosure">
+</sec>
+<sec id="sec7" sec-type="financial-disclosure">
 <title>Financiamiento</title>
 <p>Beca otorgada para estudiantes de posgrado al autor principal,
   emitida por el Consejo Nacional de Humanidades, Ciencias y
   Tecnologías.</p>
-</sec><sec id="sec8"><title>Inteligencia artificial</title><p>Los autores declaran que no han utilizado ningún tipo de recurso de la inteligencia artificial en alguna de las secciones de este manuscrito.</p></sec></body>
+</sec>
+<sec id="sec8">
+<title>Inteligencia artificial</title>
+<p>Los autores declaran que no han utilizado ningún tipo de recurso de la inteligencia artificial en alguna de las secciones de este manuscrito.</p>
+</sec>
+</body>
 <back>
-<ref-list><title>Referencias</title><ref id="B1"><mixed-citation>Organización Mundial de la Salud (OMS). Obesidad y sobrepeso.
+<ref-list>
+<title>Referencias</title>
+<ref id="B1">
+<mixed-citation>Organización Mundial de la Salud (OMS). Obesidad y sobrepeso.
       Nota informativa [Internet]. OMS;2025 [citado 15 jul 2025].
       Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight">https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight</ext-link></mixed-citation><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Organización Mundial de la Salud</surname></name></person-group><article-title>Obesidad y sobrepeso. Nota informativa</article-title><publisher-name>OMS</publisher-name><year>2025</year><ext-link ext-link-type="uri" xlink:href="https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight">https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight</ext-link></element-citation></ref><ref id="B2"><mixed-citation>Fondo de las Naciones Unidas para la infancia (UNICEF). El
+      <ext-link ext-link-type="uri" xlink:href="https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight">https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight</ext-link>
+</mixed-citation>
+<element-citation publication-type="webpage">
+<person-group person-group-type="author">
+<name>
+<surname>Organización Mundial de la Salud</surname>
+</name>
+</person-group>
+<article-title>Obesidad y sobrepeso. Nota informativa</article-title>
+<publisher-name>OMS</publisher-name>
+<year>2025</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight">https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight</ext-link>
+</element-citation>
+</ref>
+<ref id="B2">
+<mixed-citation>Fondo de las Naciones Unidas para la infancia (UNICEF). El
       índice mundial de obesidad supera por primera vez al de bajo peso
       entre los niños y niñas en edad escolar y adolescentes (Siglas).
       [Internet]. 2025 [citado 30 sept 2025]. Disponible en:
-      https://goo.su/ofiWD</mixed-citation><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Fondo de las Naciones Unidas para la infancia</surname></name></person-group><article-title>El índice mundial de obesidad supera por primera vez al de bajo peso entre los niños y niñas en edad escolar y adolescentes (Siglas).</article-title><publisher-name>UNICEF</publisher-name><year>2025</year><ext-link ext-link-type="uri" xlink:href="https://goo.su/ofiWD">https://goo.su/ofiWD</ext-link></element-citation></ref><ref id="B3"><mixed-citation>Gobierno de México. Obesidad infantil: nuestra nueva pandemia
+      https://goo.su/ofiWD</mixed-citation>
+<element-citation publication-type="webpage">
+<person-group person-group-type="author">
+<name>
+<surname>Fondo de las Naciones Unidas para la infancia</surname>
+</name>
+</person-group>
+<article-title>El índice mundial de obesidad supera por primera vez al de bajo peso entre los niños y niñas en edad escolar y adolescentes (Siglas).</article-title>
+<publisher-name>UNICEF</publisher-name>
+<year>2025</year>
+<ext-link ext-link-type="uri" xlink:href="https://goo.su/ofiWD">https://goo.su/ofiWD</ext-link>
+</element-citation>
+</ref>
+<ref id="B3">
+<mixed-citation>Gobierno de México. Obesidad infantil: nuestra nueva pandemia
       [Internet]. Hablemos de salud2021 [citado 21 mar 2025]. Disponible
       en:
-      https://www.gob.mx/promosalud/articulos/obesidad-infantil-nuestra-nueva-pandemia?idiom=es</mixed-citation><element-citation publication-type="webpage"><person-group person-group-type="author"><name><surname>Gobierno de México</surname></name></person-group><article-title>Obesidad infantil: nuestra nueva pandemia</article-title><source>Hablemos de salud</source><publisher-name>Gobierno de México</publisher-name><year>2021</year><ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/promosalud/articulos/obesidad-infantil-nuestra-nueva-pandemia?idiom=es">https://www.gob.mx/promosalud/articulos/obesidad-infantil-nuestra-nueva-pandemia?idiom=es</ext-link></element-citation></ref><ref id="B4"><mixed-citation>Instituto Nacional de Salud Pública. Encuesta Nacional
+      https://www.gob.mx/promosalud/articulos/obesidad-infantil-nuestra-nueva-pandemia?idiom=es</mixed-citation>
+<element-citation publication-type="webpage">
+<person-group person-group-type="author">
+<name>
+<surname>Gobierno de México</surname>
+</name>
+</person-group>
+<article-title>Obesidad infantil: nuestra nueva pandemia</article-title>
+<source>Hablemos de salud</source>
+<publisher-name>Gobierno de México</publisher-name>
+<year>2021</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/promosalud/articulos/obesidad-infantil-nuestra-nueva-pandemia?idiom=es">https://www.gob.mx/promosalud/articulos/obesidad-infantil-nuestra-nueva-pandemia?idiom=es</ext-link>
+</element-citation>
+</ref>
+<ref id="B4">
+<mixed-citation>Instituto Nacional de Salud Pública. Encuesta Nacional
       de Salud y Nutrición 2018: Presentación de resultados [Internet].
       México; 2019 [citado 21 mar 2025]. Disponible en:
-      https://ensanut.insp.mx/encuestas/ensanut2018/doctos/informes/ensanut_2018_presentacion_resultados.pdf</mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Instituto Nacional de Salud Pública</surname></name></person-group><article-title>Encuesta Nacional de Salud y Nutrición 2018: Presentación de resultados</article-title><publisher-name>Instituto Nacional de Salud Pública</publisher-name><year>2019</year><ext-link ext-link-type="uri" xlink:href="https://ensanut.insp.mx/encuestas/ensanut2018/doctos/informes/ensanut_2018_presentacion_resultados.pdf">https://ensanut.insp.mx/encuestas/ensanut2018/doctos/informes/ensanut_2018_presentacion_resultados.pdf</ext-link></element-citation></ref><ref id="B5"><mixed-citation>Encina VC, Gallegos LD, Espinoza MP, Arredondo GD, Palacios CK.
+      https://ensanut.insp.mx/encuestas/ensanut2018/doctos/informes/ensanut_2018_presentacion_resultados.pdf</mixed-citation>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Instituto Nacional de Salud Pública</surname>
+</name>
+</person-group>
+<article-title>Encuesta Nacional de Salud y Nutrición 2018: Presentación de resultados</article-title>
+<publisher-name>Instituto Nacional de Salud Pública</publisher-name>
+<year>2019</year>
+<ext-link ext-link-type="uri" xlink:href="https://ensanut.insp.mx/encuestas/ensanut2018/doctos/informes/ensanut_2018_presentacion_resultados.pdf">https://ensanut.insp.mx/encuestas/ensanut2018/doctos/informes/ensanut_2018_presentacion_resultados.pdf</ext-link>
+</element-citation>
+</ref>
+<ref id="B5">
+<mixed-citation>Encina VC, Gallegos LD, Espinoza MP, Arredondo GD, Palacios CK.
       Comparación de la conducta alimentaria en niños de diferentes
       establecimientos educacionales y estado nutricional. Revista
       chilena de nutrición [Internet]. 2019 [citado 30 sep
       2021];46(3):254-263. Disponible en:
-      https://dialnet.unirioja.es/servlet/articulo?codigo=9541644</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Encina</surname><given-names>VC</given-names></name><name><surname>Gallegos</surname><given-names>LD</given-names></name><name><surname>Espinoza</surname><given-names>MP</given-names></name><name><surname>Arredondo</surname><given-names>GD</given-names></name><name><surname>Palacios</surname><given-names>CK</given-names></name></person-group><article-title>Comparación de la conducta alimentaria en niños de diferentes establecimientos educacionales y estado nutricional</article-title><source>Revista chilena de nutrición</source><year>2019</year><volume>46</volume><issue>3</issue><fpage>254</fpage><lpage>263</lpage><ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/servlet/articulo?codigo=9541644">https://dialnet.unirioja.es/servlet/articulo?codigo=9541644</ext-link></element-citation></ref><ref id="B6"><mixed-citation>Sánchez CB, Reyes CZ, Barajas GL, García OL, Valdés ME. Hábitos
+      https://dialnet.unirioja.es/servlet/articulo?codigo=9541644</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Encina</surname>
+<given-names>VC</given-names>
+</name>
+<name>
+<surname>Gallegos</surname>
+<given-names>LD</given-names>
+</name>
+<name>
+<surname>Espinoza</surname>
+<given-names>MP</given-names>
+</name>
+<name>
+<surname>Arredondo</surname>
+<given-names>GD</given-names>
+</name>
+<name>
+<surname>Palacios</surname>
+<given-names>CK</given-names>
+</name>
+</person-group>
+<article-title>Comparación de la conducta alimentaria en niños de diferentes establecimientos educacionales y estado nutricional</article-title>
+<source>Revista chilena de nutrición</source>
+<year>2019</year>
+<volume>46</volume>
+<issue>3</issue>
+<fpage>254</fpage>
+<lpage>263</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://dialnet.unirioja.es/servlet/articulo?codigo=9541644">https://dialnet.unirioja.es/servlet/articulo?codigo=9541644</ext-link>
+</element-citation>
+</ref>
+<ref id="B6">
+<mixed-citation>Sánchez CB, Reyes CZ, Barajas GL, García OL, Valdés ME. Hábitos
       alimentarios y actividad física en población escolar con
       normopeso, sobrepeso, obesidad y resistencia a la insulina.
       Journal of Behavior and Feeding [Internet]. 2022 [citado 13 feb
       2023];2(2):20-27. Disponible en:
-      https://doi.org/10.32870/jbf.v2i2.30</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sánchez</surname><given-names>CB</given-names></name><name><surname>Reyes</surname><given-names>CZ</given-names></name><name><surname>Barajas</surname><given-names>GL</given-names></name><name><surname>García</surname><given-names>OL</given-names></name><name><surname>Valdés</surname><given-names>ME</given-names></name></person-group><article-title>Hábitos alimentarios y actividad física en población escolar con normopeso, sobrepeso, obesidad y resistencia a la insulina</article-title><source>Journal of Behavior and Feeding</source><year>2022</year><volume>2</volume><issue>2</issue><fpage>20</fpage><lpage>27</lpage><pub-id pub-id-type="doi">10.32870/jbf.v2i2.30</pub-id></element-citation></ref><ref id="B7"><mixed-citation>Saintila J, Villacís JE. Estado nutricional antropométrico,
+      https://doi.org/10.32870/jbf.v2i2.30</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Sánchez</surname>
+<given-names>CB</given-names>
+</name>
+<name>
+<surname>Reyes</surname>
+<given-names>CZ</given-names>
+</name>
+<name>
+<surname>Barajas</surname>
+<given-names>GL</given-names>
+</name>
+<name>
+<surname>García</surname>
+<given-names>OL</given-names>
+</name>
+<name>
+<surname>Valdés</surname>
+<given-names>ME</given-names>
+</name>
+</person-group>
+<article-title>Hábitos alimentarios y actividad física en población escolar con normopeso, sobrepeso, obesidad y resistencia a la insulina</article-title>
+<source>Journal of Behavior and Feeding</source>
+<year>2022</year>
+<volume>2</volume>
+<issue>2</issue>
+<fpage>20</fpage>
+<lpage>27</lpage>
+<pub-id pub-id-type="doi">10.32870/jbf.v2i2.30</pub-id>
+</element-citation>
+</ref>
+<ref id="B7">
+<mixed-citation>Saintila J, Villacís JE. Estado nutricional antropométrico,
       nivel socioeconómico y rendimiento académico en niños escolares de
       6 a 12 años. Revista Nutrición Clínica y Dietética Hospitalaria
       [Internet]. 2020 [citado 13 feb 2021];40(1):74-81. Disponible en:
-      https://revista.nutricion.org/PDF/SAINTILA.pdf</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Saintila</surname><given-names>J</given-names></name><name><surname>Villacís</surname><given-names>JE</given-names></name></person-group><article-title>Estado nutricional antropométrico, nivel socioeconómico y rendimiento académico en niños escolares de 6 a 12 años</article-title><source>Revista Nutrición Clínica y Dietética Hospitalaria</source><year>2020</year><volume>40</volume><issue>1</issue><fpage>74</fpage><lpage>81</lpage><ext-link ext-link-type="uri" xlink:href="https://revista.nutricion.org/PDF/SAINTILA.pdf">https://revista.nutricion.org/PDF/SAINTILA.pdf</ext-link></element-citation></ref><ref id="B8"><mixed-citation>Ayine P, Selvaraju V, Venkatapoorna CM, Bao Y, Gaillard P,
+      https://revista.nutricion.org/PDF/SAINTILA.pdf</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Saintila</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Villacís</surname>
+<given-names>JE</given-names>
+</name>
+</person-group>
+<article-title>Estado nutricional antropométrico, nivel socioeconómico y rendimiento académico en niños escolares de 6 a 12 años</article-title>
+<source>Revista Nutrición Clínica y Dietética Hospitalaria</source>
+<year>2020</year>
+<volume>40</volume>
+<issue>1</issue>
+<fpage>74</fpage>
+<lpage>81</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://revista.nutricion.org/PDF/SAINTILA.pdf">https://revista.nutricion.org/PDF/SAINTILA.pdf</ext-link>
+</element-citation>
+</ref>
+<ref id="B8">
+<mixed-citation>Ayine P, Selvaraju V, Venkatapoorna CM, Bao Y, Gaillard P,
       Geetha T. Eating behaviors in relation to child weight status and
       maternal education. Children [Internet]. 2021 [citado 23 sep
       2025];8(32):1-9. Disponible en:
-      https://pubmed.ncbi.nlm.nih.gov/33430408/</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ayine</surname><given-names>P</given-names></name><name><surname>Selvaraju</surname><given-names>V</given-names></name><name><surname>Venkatapoorna</surname><given-names>CM</given-names></name><name><surname>Bao</surname><given-names>Y</given-names></name><name><surname>Gaillard</surname><given-names>P</given-names></name><name><surname>Geetha</surname><given-names>T</given-names></name></person-group><article-title>Eating behaviors in relation to child weight status and maternal education</article-title><source>Children</source><year>2021</year><volume>8</volume><issue>32</issue><fpage>1</fpage><lpage>9</lpage><ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/33430408/">https://pubmed.ncbi.nlm.nih.gov/33430408/</ext-link></element-citation></ref><ref id="B9"><mixed-citation>Mattos MH, Pandolfi MM, Nunes FC, Fonseca SC, De Meneses GG,
+      https://pubmed.ncbi.nlm.nih.gov/33430408/</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ayine</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Selvaraju</surname>
+<given-names>V</given-names>
+</name>
+<name>
+<surname>Venkatapoorna</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Bao</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Gaillard</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Geetha</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Eating behaviors in relation to child weight status and maternal education</article-title>
+<source>Children</source>
+<year>2021</year>
+<volume>8</volume>
+<issue>32</issue>
+<fpage>1</fpage>
+<lpage>9</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/33430408/">https://pubmed.ncbi.nlm.nih.gov/33430408/</ext-link>
+</element-citation>
+</ref>
+<ref id="B9">
+<mixed-citation>Mattos MH, Pandolfi MM, Nunes FC, Fonseca SC, De Meneses GG,
       Cavalcante TG, et al. Percepção materna do estado nutricional do
       filho: Um caminho para o diagnóstico precoce da obesidade
       infantil. RBONE [Internet]. 2022 [citado 23 mar
       2025];15(95):593-601. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://www.rbone.com.br/index.php/rbone/article/view/1472/1137">https://www.rbone.com.br/index.php/rbone/article/view/1472/1137</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mattos</surname><given-names>MH</given-names></name><name><surname>Pandolfi</surname><given-names>MM</given-names></name><name><surname>Nunes</surname><given-names>FC</given-names></name><name><surname>Fonseca</surname><given-names>SC</given-names></name><name><surname>De Meneses</surname><given-names>GG</given-names></name><name><surname>Cavalcante</surname><given-names>TG</given-names></name><name><surname>et al.</surname></name></person-group><article-title>Percepção materna do estado nutricional do filho: Um caminho para o diagnóstico precoce da obesidade infantil</article-title><source>RBONE</source><year>2022</year><volume>15</volume><issue>95</issue><fpage>593</fpage><lpage>601</lpage><ext-link ext-link-type="uri" xlink:href="https://www.rbone.com.br/index.php/rbone/article/view/1472/1137">https://www.rbone.com.br/index.php/rbone/article/view/1472/1137</ext-link></element-citation></ref><ref id="B10"><mixed-citation>Rozas K, Huerta P, Planett J, Arancibia M, Araya MV. Alteración
+      <ext-link ext-link-type="uri" xlink:href="https://www.rbone.com.br/index.php/rbone/article/view/1472/1137">https://www.rbone.com.br/index.php/rbone/article/view/1472/1137</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mattos</surname>
+<given-names>MH</given-names>
+</name>
+<name>
+<surname>Pandolfi</surname>
+<given-names>MM</given-names>
+</name>
+<name>
+<surname>Nunes</surname>
+<given-names>FC</given-names>
+</name>
+<name>
+<surname>Fonseca</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>De Meneses</surname>
+<given-names>GG</given-names>
+</name>
+<name>
+<surname>Cavalcante</surname>
+<given-names>TG</given-names>
+</name>
+<name>
+<surname>et al.</surname>
+</name>
+</person-group>
+<article-title>Percepção materna do estado nutricional do filho: Um caminho para o diagnóstico precoce da obesidade infantil</article-title>
+<source>RBONE</source>
+<year>2022</year>
+<volume>15</volume>
+<issue>95</issue>
+<fpage>593</fpage>
+<lpage>601</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://www.rbone.com.br/index.php/rbone/article/view/1472/1137">https://www.rbone.com.br/index.php/rbone/article/view/1472/1137</ext-link>
+</element-citation>
+</ref>
+<ref id="B10">
+<mixed-citation>Rozas K, Huerta P, Planett J, Arancibia M, Araya MV. Alteración
       de la percepción materna sobre el estado nutricional de sus hijos
       ¿nuevo factor de riesgo cardiovascular? Rev Chil Cardiol
       [Internet]. 2020 [citado 21 mar 2025];39(3):216-222. Disponible
       en:
-      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4067/S0718-85602020000300216">http://dx.doi.org/10.4067/S0718-85602020000300216</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rozas</surname><given-names>K</given-names></name><name><surname>Huerta</surname><given-names>P</given-names></name><name><surname>Planett</surname><given-names>J</given-names></name><name><surname>Arancibia</surname><given-names>M</given-names></name><name><surname>Araya</surname><given-names>MV</given-names></name></person-group><article-title>Alteración de la percepción materna sobre el estado nutricional de sus hijos ¿nuevo factor de riesgo cardiovascular?</article-title><source>Rev Chil Cardiol</source><year>2020</year><volume>39</volume><issue>3</issue><fpage>216</fpage><lpage>222</lpage><pub-id pub-id-type="doi">10.4067/S0718-85602020000300216</pub-id></element-citation></ref><ref id="B11"><mixed-citation>Flores-Peña Y, Avila-Alpirez H. Percepción materna del peso del
+      <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4067/S0718-85602020000300216">http://dx.doi.org/10.4067/S0718-85602020000300216</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Rozas</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Huerta</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Planett</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Arancibia</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Araya</surname>
+<given-names>MV</given-names>
+</name>
+</person-group>
+<article-title>Alteración de la percepción materna sobre el estado nutricional de sus hijos ¿nuevo factor de riesgo cardiovascular?</article-title>
+<source>Rev Chil Cardiol</source>
+<year>2020</year>
+<volume>39</volume>
+<issue>3</issue>
+<fpage>216</fpage>
+<lpage>222</lpage>
+<pub-id pub-id-type="doi">10.4067/S0718-85602020000300216</pub-id>
+</element-citation>
+</ref>
+<ref id="B11">
+<mixed-citation>Flores-Peña Y, Avila-Alpirez H. Percepción materna del peso del
       hijo, problemas del estilo de vida y autoeficacia para manejarlos.
       Aquichan [Internet]. 2021 [citado 18 mar 2025];21(2):1-12.
       Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5294/aqui.2021.21.2.8">https://doi.org/10.5294/aqui.2021.21.2.8</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Flores-Peña</surname><given-names>Y</given-names></name><name><surname>Avila-Alpirez</surname><given-names>H</given-names></name></person-group><article-title>Percepción materna del peso del hijo, problemas del estilo de vida y autoeficacia para manejarlos</article-title><source>Aquichan</source><year>2021</year><volume>21</volume><issue>2</issue><fpage>1</fpage><lpage>12</lpage><pub-id pub-id-type="doi">10.5294/aqui.2021.21.2.8</pub-id></element-citation></ref><ref id="B12"><mixed-citation>Wang J, Zhu D, Cheng X, Liuzhou Y, Zhu B, Montgomery S, et al.
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5294/aqui.2021.21.2.8">https://doi.org/10.5294/aqui.2021.21.2.8</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Flores-Peña</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Avila-Alpirez</surname>
+<given-names>H</given-names>
+</name>
+</person-group>
+<article-title>Percepción materna del peso del hijo, problemas del estilo de vida y autoeficacia para manejarlos</article-title>
+<source>Aquichan</source>
+<year>2021</year>
+<volume>21</volume>
+<issue>2</issue>
+<fpage>1</fpage>
+<lpage>12</lpage>
+<pub-id pub-id-type="doi">10.5294/aqui.2021.21.2.8</pub-id>
+</element-citation>
+</ref>
+<ref id="B12">
+<mixed-citation>Wang J, Zhu D, Cheng X, Liuzhou Y, Zhu B, Montgomery S, et al.
       Maternal perception of child weight and concern about child
       overweight mediates the relationship between child weight and
       feeding practices. Public Health Nutr [Internet]. 2022 [citado 23
       sep 2025];25(7):1780-1789. Disponible en:
-      https://pmc.ncbi.nlm.nih.gov/articles/PMC9991628/</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>J</given-names></name><name><surname>Zhu</surname><given-names>D</given-names></name><name><surname>Cheng</surname><given-names>X</given-names></name><name><surname>Liuzhou</surname><given-names>Y</given-names></name><name><surname>Zhu</surname><given-names>B</given-names></name><name><surname>Montgomery</surname><given-names>S</given-names></name><name><surname>et al.</surname></name></person-group><article-title>Maternal perception of child weight and concern about child overweight mediates the relationship between child weight and feeding practices</article-title><source>Public Health Nutr</source><year>2022</year><volume>25</volume><issue>7</issue><fpage>1780</fpage><lpage>1789</lpage><ext-link ext-link-type="uri" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9991628/">https://pmc.ncbi.nlm.nih.gov/articles/PMC9991628/</ext-link></element-citation></ref><ref id="B13"><mixed-citation>Segura-Álvarez M, Restrepo-Segura Y, Ramírez-Valencia M.
+      https://pmc.ncbi.nlm.nih.gov/articles/PMC9991628/</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Cheng</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Liuzhou</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Montgomery</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>et al.</surname>
+</name>
+</person-group>
+<article-title>Maternal perception of child weight and concern about child overweight mediates the relationship between child weight and feeding practices</article-title>
+<source>Public Health Nutr</source>
+<year>2022</year>
+<volume>25</volume>
+<issue>7</issue>
+<fpage>1780</fpage>
+<lpage>1789</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9991628/">https://pmc.ncbi.nlm.nih.gov/articles/PMC9991628/</ext-link>
+</element-citation>
+</ref>
+<ref id="B13">
+<mixed-citation>Segura-Álvarez M, Restrepo-Segura Y, Ramírez-Valencia M.
       Sobrepeso y obesidad: una mirada desde la educación para la salud,
       en un sistema de bienestar universitario. Rev. Salud Pública
       [Internet]. 2024 [citado 26 sep 2025];26(6):1-7. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15446/rsap.v26n6.116166">https://doi.org/10.15446/rsap.v26n6.116166</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Segura-Álvarez</surname><given-names>M</given-names></name><name><surname>Restrepo-Segura</surname><given-names>Y</given-names></name><name><surname>Ramírez-Valencia</surname><given-names>M</given-names></name></person-group><article-title>Sobrepeso y obesidad: una mirada desde la educación para la salud, en un sistema de bienestar universitario</article-title><source>Rev. Salud Pública</source><year>2024</year><volume>26</volume><issue>6</issue><fpage>1</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.15446/rsap.v26n6.116166</pub-id></element-citation></ref><ref id="B14"><mixed-citation>Mosquera HM, Mosquera HM, De Armas DL, Brito RY. Estado
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15446/rsap.v26n6.116166">https://doi.org/10.15446/rsap.v26n6.116166</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Segura-Álvarez</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Restrepo-Segura</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Ramírez-Valencia</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title>Sobrepeso y obesidad: una mirada desde la educación para la salud, en un sistema de bienestar universitario</article-title>
+<source>Rev. Salud Pública</source>
+<year>2024</year>
+<volume>26</volume>
+<issue>6</issue>
+<fpage>1</fpage>
+<lpage>7</lpage>
+<pub-id pub-id-type="doi">10.15446/rsap.v26n6.116166</pub-id>
+</element-citation>
+</ref>
+<ref id="B14">
+<mixed-citation>Mosquera HM, Mosquera HM, De Armas DL, Brito RY. Estado
       nutricional y hábitos alimenticios en niños de un colegio público
       de Valledupar. Rev. Méd Risaralda [Internet]. 2016 [citado 18 oct
       2021];22(1):42-48. Disponible en:
-      http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0122-06672016000100007</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mosquera</surname><given-names>HM</given-names></name><name><surname>Mosquera</surname><given-names>HM</given-names></name><name><surname>De Armas</surname><given-names>DL</given-names></name><name><surname>Brito</surname><given-names>RY</given-names></name></person-group><article-title>Estado nutricional y hábitos alimenticios en niños de un colegio público de Valledupar</article-title><source>Rev. Méd Risaralda</source><year>2016</year><volume>22</volume><issue>1</issue><fpage>42</fpage><lpage>48</lpage><ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0122-06672016000100007">http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0122-06672016000100007</ext-link></element-citation></ref><ref id="B15"><mixed-citation>Ekstein KC, Mikhail LM, Ariza AJ, Scott TJ, Millard SC, Binns
+      http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0122-06672016000100007</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Mosquera</surname>
+<given-names>HM</given-names>
+</name>
+<name>
+<surname>Mosquera</surname>
+<given-names>HM</given-names>
+</name>
+<name>
+<surname>De Armas</surname>
+<given-names>DL</given-names>
+</name>
+<name>
+<surname>Brito</surname>
+<given-names>RY</given-names>
+</name>
+</person-group>
+<article-title>Estado nutricional y hábitos alimenticios en niños de un colegio público de Valledupar</article-title>
+<source>Rev. Méd Risaralda</source>
+<year>2016</year>
+<volume>22</volume>
+<issue>1</issue>
+<fpage>42</fpage>
+<lpage>48</lpage>
+<ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0122-06672016000100007">http://www.scielo.org.co/scielo.php?script=sci_arttext&amp;pid=S0122-06672016000100007</ext-link>
+</element-citation>
+</ref>
+<ref id="B15">
+<mixed-citation>Ekstein KC, Mikhail LM, Ariza AJ, Scott TJ, Millard SC, Binns
       HJ. Parents’ perceptions of their child’s weight and health.
       American Academy of Pediatrics [Internet]. 2006 [citado 16 mar
       2025];117(3):681-690. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1542/peds.2005-0910">https://doi.org/10.1542/peds.2005-0910</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ekstein</surname><given-names>KC</given-names></name><name><surname>Mikhail</surname><given-names>LM</given-names></name><name><surname>Ariza</surname><given-names>AJ</given-names></name><name><surname>Scott</surname><given-names>TJ</given-names></name><name><surname>Millard</surname><given-names>SC</given-names></name><name><surname>Binns</surname><given-names>HJ</given-names></name></person-group><article-title>Parents’ perceptions of their child’s weight and health</article-title><source>American Academy of Pediatrics</source><year>2006</year><volume>117</volume><issue>3</issue><fpage>681</fpage><lpage>690</lpage><pub-id pub-id-type="doi">10.1542/peds.2005-0910</pub-id></element-citation></ref><ref id="B16"><mixed-citation>Flores-Peña Y, Trejo-Ortiz P, Gallegos-Cabriales E,
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1542/peds.2005-0910">https://doi.org/10.1542/peds.2005-0910</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Ekstein</surname>
+<given-names>KC</given-names>
+</name>
+<name>
+<surname>Mikhail</surname>
+<given-names>LM</given-names>
+</name>
+<name>
+<surname>Ariza</surname>
+<given-names>AJ</given-names>
+</name>
+<name>
+<surname>Scott</surname>
+<given-names>TJ</given-names>
+</name>
+<name>
+<surname>Millard</surname>
+<given-names>SC</given-names>
+</name>
+<name>
+<surname>Binns</surname>
+<given-names>HJ</given-names>
+</name>
+</person-group>
+<article-title>Parents’ perceptions of their child’s weight and health</article-title>
+<source>American Academy of Pediatrics</source>
+<year>2006</year>
+<volume>117</volume>
+<issue>3</issue>
+<fpage>681</fpage>
+<lpage>690</lpage>
+<pub-id pub-id-type="doi">10.1542/peds.2005-0910</pub-id>
+</element-citation>
+</ref>
+<ref id="B16">
+<mixed-citation>Flores-Peña Y, Trejo-Ortiz P, Gallegos-Cabriales E,
       Cerda-Flores R. Validez de dos pruebas para evaluar la percepción
       materna del peso del hijo. Salud Pública México [Internet]. 2009
       [citado 21 mar 2025];51(6):489-495. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-3634200900060000">https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-3634200900060000</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Flores-Peña</surname><given-names>Y</given-names></name><name><surname>Trejo-Ortiz</surname><given-names>P</given-names></name><name><surname>Gallegos-Cabriales</surname><given-names>E</given-names></name><name><surname>Cerda-Flores</surname><given-names>R</given-names></name></person-group><article-title>Validez de dos pruebas para evaluar la percepción materna del peso del hijo</article-title><source>Salud Pública México</source><year>2009</year><volume>51</volume><issue>6</issue><fpage>489</fpage><lpage>495</lpage><ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-3634200900060000">https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-3634200900060000</ext-link></element-citation></ref><ref id="B17"><mixed-citation>Wardle J, Guthrie CA, Sanderson S, Rapoport L. Development of
+      <ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-3634200900060000">https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-3634200900060000</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Flores-Peña</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Trejo-Ortiz</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Gallegos-Cabriales</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Cerda-Flores</surname>
+<given-names>R</given-names>
+</name>
+</person-group>
+<article-title>Validez de dos pruebas para evaluar la percepción materna del peso del hijo</article-title>
+<source>Salud Pública México</source>
+<year>2009</year>
+<volume>51</volume>
+<issue>6</issue>
+<fpage>489</fpage>
+<lpage>495</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-3634200900060000">https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-3634200900060000</ext-link>
+</element-citation>
+</ref>
+<ref id="B17">
+<mixed-citation>Wardle J, Guthrie CA, Sanderson S, Rapoport L. Development of
       the children’s eating behaviour questionnaire. Journal of Child
       Psychology Psychiatry [Internet]. 2001 [citado 13 feb
       2025];42(7):963-970. Disponible en:
-      https://doi.org/10.1111/1469-7610.00792</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wardle</surname><given-names>J</given-names></name><name><surname>Guthrie</surname><given-names>CA</given-names></name><name><surname>Sanderson</surname><given-names>S</given-names></name><name><surname>Rapoport</surname><given-names>L</given-names></name></person-group><article-title>Development of the children’s eating behaviour questionnaire</article-title><source>Journal of Child Psychology Psychiatry</source><year>2001</year><volume>42</volume><issue>7</issue><fpage>963</fpage><lpage>970</lpage><pub-id pub-id-type="doi">10.1111/1469-7610.00792</pub-id></element-citation></ref><ref id="B18"><mixed-citation>Vázquez-Pérez L, González-Herrera L, Hattori-Hara M,
+      https://doi.org/10.1111/1469-7610.00792</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wardle</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Guthrie</surname>
+<given-names>CA</given-names>
+</name>
+<name>
+<surname>Sanderson</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Rapoport</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title>Development of the children’s eating behaviour questionnaire</article-title>
+<source>Journal of Child Psychology Psychiatry</source>
+<year>2001</year>
+<volume>42</volume>
+<issue>7</issue>
+<fpage>963</fpage>
+<lpage>970</lpage>
+<pub-id pub-id-type="doi">10.1111/1469-7610.00792</pub-id>
+</element-citation>
+</ref>
+<ref id="B18">
+<mixed-citation>Vázquez-Pérez L, González-Herrera L, Hattori-Hara M,
       Zavala-Cervantes A. Traducción y validación del children´s eating
       behavior questionnaire (CEBQ). Ciencia y humanismo en la salud
       [Internet]. 2020 [citado 10 abr 2025];7(1):1-9. Disponible en:
-      https://revistacienciayhumanismoenlasalud.uady.mx/cienciayhumanismo/article/view/136</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vázquez-Pérez</surname><given-names>L</given-names></name><name><surname>González-Herrera</surname><given-names>L</given-names></name><name><surname>Hattori-Hara</surname><given-names>M</given-names></name><name><surname>Zavala-Cervantes</surname><given-names>A</given-names></name></person-group><article-title>Traducción y validación del children´s eating behavior questionnaire (CEBQ)</article-title><source>Ciencia y humanismo en la salud</source><year>2020</year><volume>7</volume><issue>1</issue><fpage>1</fpage><lpage>9</lpage><ext-link ext-link-type="uri" xlink:href="https://revistacienciayhumanismoenlasalud.uady.mx/cienciayhumanismo/article/view/136">https://revistacienciayhumanismoenlasalud.uady.mx/cienciayhumanismo/article/view/136</ext-link></element-citation></ref><ref id="B19"><mixed-citation>Diario Oficial de la Federación. Proyecto de norma oficial
+      https://revistacienciayhumanismoenlasalud.uady.mx/cienciayhumanismo/article/view/136</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Vázquez-Pérez</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>González-Herrera</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Hattori-Hara</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Zavala-Cervantes</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Traducción y validación del children´s eating behavior questionnaire (CEBQ)</article-title>
+<source>Ciencia y humanismo en la salud</source>
+<year>2020</year>
+<volume>7</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>9</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://revistacienciayhumanismoenlasalud.uady.mx/cienciayhumanismo/article/view/136">https://revistacienciayhumanismoenlasalud.uady.mx/cienciayhumanismo/article/view/136</ext-link>
+</element-citation>
+</ref>
+<ref id="B19">
+<mixed-citation>Diario Oficial de la Federación. Proyecto de norma oficial
       mexicana PROY-NOM-012-SSA3-2007, Que establece los criterios para
       la ejecución de proyectos de investigación para la salud en seres
       humano. Secretaria de Salud [Internet]. México; 2007 [citado 07
       dic 2024]. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm">http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Diario Oficial de la Federación</surname></name></person-group><article-title>Proyecto de norma oficial mexicana PROY-NOM-012-SSA3-2007, Que establece los criterios para la ejecución de proyectos de investigación para la salud en seres humano</article-title><publisher-name>Secretaria de Salud</publisher-name><year>2007</year><ext-link ext-link-type="uri" xlink:href="http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm">http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm</ext-link></element-citation></ref><ref id="B20"><mixed-citation>Secretaría de Salud. Encuesta Nacional de Salud y Nutrición.
+      <ext-link ext-link-type="uri" xlink:href="http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm">http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm</ext-link>
+</mixed-citation>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Diario Oficial de la Federación</surname>
+</name>
+</person-group>
+<article-title>Proyecto de norma oficial mexicana PROY-NOM-012-SSA3-2007, Que establece los criterios para la ejecución de proyectos de investigación para la salud en seres humano</article-title>
+<publisher-name>Secretaria de Salud</publisher-name>
+<year>2007</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm">http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm</ext-link>
+</element-citation>
+</ref>
+<ref id="B20">
+<mixed-citation>Secretaría de Salud. Encuesta Nacional de Salud y Nutrición.
       Resultados de la ENSANUT 2020-2023. Instituto Nacional de Salud
       Pública [Internet]. Gobierno de México; 2024 [citado 23 mar 2025].
       Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023">https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Secretaría de Salud</surname></name></person-group><article-title>Encuesta Nacional de Salud y Nutrición. Resultados de la ENSANUT 2020-2023</article-title><publisher-name>Instituto Nacional de Salud Pública</publisher-name><year>2024</year><ext-link ext-link-type="uri" xlink:href="https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023">https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023</ext-link></element-citation></ref><ref id="B21"><mixed-citation><ext-link ext-link-type="uri" xlink:href="https://www.insp.mx/centros/evaluacion-y-encuestas.html">Centro
-      de Investigación en Evaluación y Encuestas (CIEE)</ext-link>.
+      <ext-link ext-link-type="uri" xlink:href="https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023">https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023</ext-link>
+</mixed-citation>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Secretaría de Salud</surname>
+</name>
+</person-group>
+<article-title>Encuesta Nacional de Salud y Nutrición. Resultados de la ENSANUT 2020-2023</article-title>
+<publisher-name>Instituto Nacional de Salud Pública</publisher-name>
+<year>2024</year>
+<ext-link ext-link-type="uri" xlink:href="https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023">https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023</ext-link>
+</element-citation>
+</ref>
+<ref id="B21">
+<mixed-citation>
+Centro
+      de Investigación en Evaluación y Encuestas (CIEE).
       Encuesta Nacional de Salud y Nutrición. Encuestas [Internet].
       México; 2023. [citado 23 mar 2025]. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php">https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php</ext-link></mixed-citation><element-citation publication-type="other"><person-group person-group-type="author"><name><surname>Centro de Investigación en Evaluación y Encuestas</surname></name></person-group><article-title>Encuesta Nacional de Salud y Nutrición. Encuestas</article-title><publisher-name>CIEE</publisher-name><year>2023</year><ext-link ext-link-type="uri" xlink:href="https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php">https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php</ext-link></element-citation></ref><ref id="B22"><mixed-citation>Wang J, Zhu D, Cheng X, Liuzhou Y, Zhu B, Montgomery S, et al.
+      <ext-link ext-link-type="uri" xlink:href="https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php">https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php</ext-link>
+</mixed-citation>
+<element-citation publication-type="other">
+<person-group person-group-type="author">
+<name>
+<surname>Centro de Investigación en Evaluación y Encuestas</surname>
+</name>
+</person-group>
+<article-title>Encuesta Nacional de Salud y Nutrición. Encuestas</article-title>
+<publisher-name>CIEE</publisher-name>
+<year>2023</year>
+<ext-link ext-link-type="uri" xlink:href="https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php">https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php</ext-link>
+</element-citation>
+</ref>
+<ref id="B22">
+<mixed-citation>Wang J, Zhu D, Cheng X, Liuzhou Y, Zhu B, Montgomery S, et al.
       Maternal perception of child weight and concern about child
       overweight mediates the relationship between child weight and
       feeding practices. Public Health Nutrition [Internet]. 2022
       [citado 15 may 25];25(7):1780-1789. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/35000661/">https://pubmed.ncbi.nlm.nih.gov/35000661/</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>J</given-names></name><name><surname>Zhu</surname><given-names>D</given-names></name><name><surname>Cheng</surname><given-names>X</given-names></name><name><surname>Liuzhou</surname><given-names>Y</given-names></name><name><surname>Zhu</surname><given-names>B</given-names></name><name><surname>Montgomery</surname><given-names>S</given-names></name><name><surname>et al.</surname></name></person-group><article-title>Maternal perception of child weight and concern about child overweight mediates the relationship between child weight and feeding practices</article-title><source>Public Health Nutrition</source><year>2022</year><volume>25</volume><issue>7</issue><fpage>1780</fpage><lpage>1789</lpage><ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/35000661/">https://pubmed.ncbi.nlm.nih.gov/35000661/</ext-link></element-citation></ref><ref id="B23"><mixed-citation>Terry BB, Rodríguez VL, Silvera TD, Rodríguez FV, Chávez VHN,
+      <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/35000661/">https://pubmed.ncbi.nlm.nih.gov/35000661/</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Cheng</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>Liuzhou</surname>
+<given-names>Y</given-names>
+</name>
+<name>
+<surname>Zhu</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Montgomery</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>et al.</surname>
+</name>
+</person-group>
+<article-title>Maternal perception of child weight and concern about child overweight mediates the relationship between child weight and feeding practices</article-title>
+<source>Public Health Nutrition</source>
+<year>2022</year>
+<volume>25</volume>
+<issue>7</issue>
+<fpage>1780</fpage>
+<lpage>1789</lpage>
+<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/35000661/">https://pubmed.ncbi.nlm.nih.gov/35000661/</ext-link>
+</element-citation>
+</ref>
+<ref id="B23">
+<mixed-citation>Terry BB, Rodríguez VL, Silvera TD, Rodríguez FV, Chávez VHN,
       Rodríguez SA. Sobrepeso, obesidad y conductas alimentarias en
       escolares de primaria, municipio Cruces, Cienfuegos. Revista
       Cubana Salud Pública [Internet]. 2021 [citado 18 mar
       2025];47(1):1-21. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0864-34662021000100014">http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0864-34662021000100014</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Terry</surname><given-names>BB</given-names></name><name><surname>Rodríguez</surname><given-names>VL</given-names></name><name><surname>Silvera</surname><given-names>TD</given-names></name><name><surname>Rodríguez</surname><given-names>FV</given-names></name><name><surname>Chávez</surname><given-names>VHN</given-names></name><name><surname>Rodríguez</surname><given-names>SA</given-names></name></person-group><article-title>Sobrepeso, obesidad y conductas alimentarias en escolares de primaria, municipio Cruces, Cienfuegos</article-title><source>Revista Cubana Salud Pública</source><year>2021</year><volume>47</volume><issue>1</issue><fpage>1</fpage><lpage>21</lpage><ext-link ext-link-type="uri" xlink:href="http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0864-34662021000100014">http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0864-34662021000100014</ext-link></element-citation></ref><ref id="B24"><mixed-citation>Morales PA, Rodríguez RI, Massip NJ, Sardinas AM, Balado SR,
+      <ext-link ext-link-type="uri" xlink:href="http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0864-34662021000100014">http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0864-34662021000100014</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Terry</surname>
+<given-names>BB</given-names>
+</name>
+<name>
+<surname>Rodríguez</surname>
+<given-names>VL</given-names>
+</name>
+<name>
+<surname>Silvera</surname>
+<given-names>TD</given-names>
+</name>
+<name>
+<surname>Rodríguez</surname>
+<given-names>FV</given-names>
+</name>
+<name>
+<surname>Chávez</surname>
+<given-names>VHN</given-names>
+</name>
+<name>
+<surname>Rodríguez</surname>
+<given-names>SA</given-names>
+</name>
+</person-group>
+<article-title>Sobrepeso, obesidad y conductas alimentarias en escolares de primaria, municipio Cruces, Cienfuegos</article-title>
+<source>Revista Cubana Salud Pública</source>
+<year>2021</year>
+<volume>47</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>21</lpage>
+<ext-link ext-link-type="uri" xlink:href="http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0864-34662021000100014">http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0864-34662021000100014</ext-link>
+</element-citation>
+</ref>
+<ref id="B24">
+<mixed-citation>Morales PA, Rodríguez RI, Massip NJ, Sardinas AM, Balado SR,
       Morales VL. Preferencias y conductas alimentarias en adolescentes
       de secundaria básica. Revista Cubana Pediatría [Internet]. 2021
       [citado 23 mar 2025];93(2):1-15. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0034-75312021000200005&amp;lng=es">http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0034-75312021000200005&amp;lng=es</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morales</surname><given-names>PA</given-names></name><name><surname>Rodríguez</surname><given-names>RI</given-names></name><name><surname>Massip</surname><given-names>NJ</given-names></name><name><surname>Sardinas</surname><given-names>AM</given-names></name><name><surname>Balado</surname><given-names>SR</given-names></name><name><surname>Morales</surname><given-names>VL</given-names></name></person-group><article-title>Preferencias y conductas alimentarias en adolescentes de secundaria básica</article-title><source>Revista Cubana Pediatría</source><year>2021</year><volume>93</volume><issue>2</issue><fpage>1</fpage><lpage>15</lpage><ext-link ext-link-type="uri" xlink:href="http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0034-75312021000200005&amp;lng=es">http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0034-75312021000200005&amp;lng=es</ext-link></element-citation></ref><ref id="B25"><mixed-citation>Trandafir AV, Fraseniuc M, Lotrean LM. Assessment of actual
+      <ext-link ext-link-type="uri" xlink:href="http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0034-75312021000200005&amp;lng=es">http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0034-75312021000200005&amp;lng=es</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Morales</surname>
+<given-names>PA</given-names>
+</name>
+<name>
+<surname>Rodríguez</surname>
+<given-names>RI</given-names>
+</name>
+<name>
+<surname>Massip</surname>
+<given-names>NJ</given-names>
+</name>
+<name>
+<surname>Sardinas</surname>
+<given-names>AM</given-names>
+</name>
+<name>
+<surname>Balado</surname>
+<given-names>SR</given-names>
+</name>
+<name>
+<surname>Morales</surname>
+<given-names>VL</given-names>
+</name>
+</person-group>
+<article-title>Preferencias y conductas alimentarias en adolescentes de secundaria básica</article-title>
+<source>Revista Cubana Pediatría</source>
+<year>2021</year>
+<volume>93</volume>
+<issue>2</issue>
+<fpage>1</fpage>
+<lpage>15</lpage>
+<ext-link ext-link-type="uri" xlink:href="http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0034-75312021000200005&amp;lng=es">http://scielo.sld.cu/scielo.php?script=sci_arttext&amp;pid=S0034-75312021000200005&amp;lng=es</ext-link>
+</element-citation>
+</ref>
+<ref id="B25">
+<mixed-citation>Trandafir AV, Fraseniuc M, Lotrean LM. Assessment of actual
       weight, perceived weight and desired weight of Romanian school
       children-opinions and practices of children and their parents. Int
       J Environ Res Public Health [Internet]. 2022 [citado 20 nov
       2024];19(6):1-16. Disponible en:
-      https://doi.org/10.3390/ijerph19063502</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Trandafir</surname><given-names>AV</given-names></name><name><surname>Fraseniuc</surname><given-names>M</given-names></name><name><surname>Lotrean</surname><given-names>LM</given-names></name></person-group><article-title>Assessment of actual weight, perceived weight and desired weight of Romanian school children-opinions and practices of children and their parents</article-title><source>Int J Environ Res Public Health</source><year>2022</year><volume>19</volume><issue>6</issue><fpage>1</fpage><lpage>16</lpage><pub-id pub-id-type="doi">10.3390/ijerph19063502</pub-id></element-citation></ref><ref id="B26"><mixed-citation>Muñante RE. Percepción del estado nutricional de los hijos y su
+      https://doi.org/10.3390/ijerph19063502</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Trandafir</surname>
+<given-names>AV</given-names>
+</name>
+<name>
+<surname>Fraseniuc</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Lotrean</surname>
+<given-names>LM</given-names>
+</name>
+</person-group>
+<article-title>Assessment of actual weight, perceived weight and desired weight of Romanian school children-opinions and practices of children and their parents</article-title>
+<source>Int J Environ Res Public Health</source>
+<year>2022</year>
+<volume>19</volume>
+<issue>6</issue>
+<fpage>1</fpage>
+<lpage>16</lpage>
+<pub-id pub-id-type="doi">10.3390/ijerph19063502</pub-id>
+</element-citation>
+</ref>
+<ref id="B26">
+<mixed-citation>Muñante RE. Percepción del estado nutricional de los hijos y su
       relación con el sobrepeso y obesidad infantil en dos colegios de
       Ica. [Tesis Licenciatura]. Ica Perú: Universidad Nacional San Luis
       Gonzaga [Internet]. 2023 [citado 30 sep 2025]. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15?utm_source=chatgpt.com">https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15</ext-link></mixed-citation><element-citation publication-type="thesis"><person-group person-group-type="author"><name><surname>Muñante</surname><given-names>RE</given-names></name></person-group><article-title>Percepción del estado nutricional de los hijos y su relación con el sobrepeso y obesidad infantil en dos colegios de Ica</article-title><publisher-name>Universidad Nacional San Luis Gonzaga</publisher-name><year>2023</year><ext-link ext-link-type="uri" xlink:href="https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15">https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15</ext-link></element-citation></ref><ref id="B27"><mixed-citation>Bautista-Díaz M, Castelán-Olivares A, Martin-Tovar A,
+      <ext-link ext-link-type="uri" xlink:href="https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15?utm_source=chatgpt.com">https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15</ext-link>
+</mixed-citation>
+<element-citation publication-type="thesis">
+<person-group person-group-type="author">
+<name>
+<surname>Muñante</surname>
+<given-names>RE</given-names>
+</name>
+</person-group>
+<article-title>Percepción del estado nutricional de los hijos y su relación con el sobrepeso y obesidad infantil en dos colegios de Ica</article-title>
+<publisher-name>Universidad Nacional San Luis Gonzaga</publisher-name>
+<year>2023</year>
+<ext-link ext-link-type="uri" xlink:href="https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15">https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15</ext-link>
+</element-citation>
+</ref>
+<ref id="B27">
+<mixed-citation>Bautista-Díaz M, Castelán-Olivares A, Martin-Tovar A,
       Franco-Paredes K, Mancilla-Díaz J. Conductas alimentarias de
       riesgo, percepción de prácticas parentales y conducta asertiva en
       estudiantes de preparatoria. Interacciones Revista de avances en
       psicología [Internet]. 2020 [citado 18 feb 2022];6(3):1-10.
-      Disponible en: https://doi.org/10.24016/2020.v6n3.162</mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bautista-Díaz</surname><given-names>M</given-names></name><name><surname>Castelán-Olivares</surname><given-names>A</given-names></name><name><surname>Martin-Tovar</surname><given-names>A</given-names></name><name><surname>Franco-Paredes</surname><given-names>K</given-names></name><name><surname>Mancilla-Díaz</surname><given-names>J</given-names></name></person-group><article-title>Conductas alimentarias de riesgo, percepción de prácticas parentales y conducta asertiva en estudiantes de preparatoria</article-title><source>Interacciones Revista de avances en psicología</source><year>2020</year><volume>6</volume><issue>3</issue><fpage>1</fpage><lpage>10</lpage><pub-id pub-id-type="doi">10.24016/2020.v6n3.162</pub-id></element-citation></ref><ref id="B28"><mixed-citation>Jimeno-Martínez A, Maneschy I, Rupérez AI, Moreno LA. Factores
+      Disponible en: https://doi.org/10.24016/2020.v6n3.162</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bautista-Díaz</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Castelán-Olivares</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Martin-Tovar</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Franco-Paredes</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Mancilla-Díaz</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Conductas alimentarias de riesgo, percepción de prácticas parentales y conducta asertiva en estudiantes de preparatoria</article-title>
+<source>Interacciones Revista de avances en psicología</source>
+<year>2020</year>
+<volume>6</volume>
+<issue>3</issue>
+<fpage>1</fpage>
+<lpage>10</lpage>
+<pub-id pub-id-type="doi">10.24016/2020.v6n3.162</pub-id>
+</element-citation>
+</ref>
+<ref id="B28">
+<mixed-citation>Jimeno-Martínez A, Maneschy I, Rupérez AI, Moreno LA. Factores
       determinantes del comportamiento alimentario y su impacto sobre la
       ingesta y la obesidad en niños. JBF [Internet]. 2021 [citado 30
       sep 2025];1(1):60-71. Disponible en:
-      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.32870/jbf.v1i1.20">https://doi.org/10.32870/jbf.v1i1.20</ext-link></mixed-citation><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jimeno-Martínez</surname><given-names>A</given-names></name><name><surname>Maneschy</surname><given-names>I</given-names></name><name><surname>Rupérez</surname><given-names>AI</given-names></name><name><surname>Moreno</surname><given-names>LA</given-names></name></person-group><article-title>Factores determinantes del comportamiento alimentario y su impacto sobre la ingesta y la obesidad en niños</article-title><source>JBF</source><year>2021</year><volume>1</volume><issue>1</issue><fpage>60</fpage><lpage>71</lpage><pub-id pub-id-type="doi">10.32870/jbf.v1i1.20</pub-id></element-citation></ref></ref-list><fn-group><fn fn-type="other"><p>Cómo citar este artículo: Cano-Fajardo Luz Elena, Perales-Hinojosa Karla Neidy, Mireles-Alonso Mayra Alejandra, López-Guevara San Juana, Guerra-Ordoñez Jesús Alejandro, Duran-Badillo Tirso. Relación de la percepción materna y conductas alimentarias sobre el estado nutricional del escolar. SANUS. 2025;10(21):e573. https://doi.org/10.36789/sanus.vi21.573</p></fn></fn-group></back>
+      <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.32870/jbf.v1i1.20">https://doi.org/10.32870/jbf.v1i1.20</ext-link>
+</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Jimeno-Martínez</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Maneschy</surname>
+<given-names>I</given-names>
+</name>
+<name>
+<surname>Rupérez</surname>
+<given-names>AI</given-names>
+</name>
+<name>
+<surname>Moreno</surname>
+<given-names>LA</given-names>
+</name>
+</person-group>
+<article-title>Factores determinantes del comportamiento alimentario y su impacto sobre la ingesta y la obesidad en niños</article-title>
+<source>JBF</source>
+<year>2021</year>
+<volume>1</volume>
+<issue>1</issue>
+<fpage>60</fpage>
+<lpage>71</lpage>
+<pub-id pub-id-type="doi">10.32870/jbf.v1i1.20</pub-id>
+</element-citation>
+</ref>
+</ref-list>
+<fn-group>
+<fn fn-type="other">
+<p>Cómo citar este artículo: Cano-Fajardo Luz Elena, Perales-Hinojosa Karla Neidy, Mireles-Alonso Mayra Alejandra, López-Guevara San Juana, Guerra-Ordoñez Jesús Alejandro, Duran-Badillo Tirso. Relación de la percepción materna y conductas alimentarias sobre el estado nutricional del escolar. SANUS. 2025;10(21):e573. https://doi.org/10.36789/sanus.vi21.573</p>
+</fn>
+</fn-group>
+</back>
 <sub-article article-type="translation" id="s1" xml:lang="en">
 <front-stub>
 <article-categories>
@@ -474,7 +1895,8 @@
 </sec>
 <sec id="en-sec4">
 <title>Results:</title>
-<p><xref ref-type="table" rid="en-t2">Table 2</xref>,  Only 47 % of mothers correctly identified their children's nutritional status. The remainder underestimated the prevalence of overweight and obesity, with only 34.5 % of schoolchildren being of normal weight. A statistically significant difference was found between maternal perception of schoolchildren's weight and their actual nutritional status p= 0.000. Additionally, a Spearman correlation was performed, yielding values p&gt; 0.01. </p>
+<p>
+<xref ref-type="table" rid="en-t2">Table 2</xref>,  Only 47 % of mothers correctly identified their children's nutritional status. The remainder underestimated the prevalence of overweight and obesity, with only 34.5 % of schoolchildren being of normal weight. A statistically significant difference was found between maternal perception of schoolchildren's weight and their actual nutritional status p= 0.000. Additionally, a Spearman correlation was performed, yielding values p&gt; 0.01. </p>
 </sec>
 <sec id="en-sec5">
 <title>Conclusions:</title>
@@ -491,20 +1913,68 @@
 <body>
 <sec id="en-sec6" sec-type="intro">
 <title>Introduction</title>
-<p>Globally, there has been an increase in food-related problems, leading to nutritional imbalances. It is estimated that over 900 million people suffer from malnutrition, with 170 million schoolchildren being underweight <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>. In Mexico, one in three children aged six to eleven is overweight or obese, while 35 % and 2 %, respectively, are very thin <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>. In 2016, 33.2 % of schoolchildren were overweight or obese. The nutritional transition in Mexico has led to a change in consumption habits, with healthy products being replaced by energy-dense foods that are high in sugars and fats <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>. The high consumption of sugary drinks and low levels of physical activity in schools, coupled with the widespread availability of these foods, are the cause of high rates of overweight and obesity. For example, it is believed that 92 % of children aged 5 and 11 regularly consume sugary drinks, and 50 % include ultra-processed snacks, sweets and cereals in their diet <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>. Consequently, Mexico is considered a country with a malnutrition problem, as it currently has the highest prevalence of childhood obesity in the world <xref ref-type="bibr" rid="B4"><sup>4</sup></xref>. Eating a healthy diet helps to prevent malnutrition. A healthy diet should be varied and balanced, and tailored to individual characteristics such as age, gender, lifestyle, and level of physical activity. Cultural environment, food availability and local eating patterns can also significantly influence eating behavior. This set of factors plays a fundamental role in understanding malnutrition because it reflects people's relationship with food. This relationship is influenced by direct experiences with food, the family environment, social status, emotional ties and cultural traditions. This has led to a growing interest in analyzing the relationship between obesity and the eating habits of schoolchildren. Changes in the current socioeconomic context have caused both parents and children to adopt unhealthy eating habits, increasing their consumption of processed and fast food, which negatively impacts children's eating habits and nutritional status <xref ref-type="bibr" rid="B5"><sup>5</sup></xref>.</p>
-<p>In addition, low levels of physical activity, coupled with spending long hours watching television and playing video games, are factors that contribute to obesity in schoolchildren <xref ref-type="bibr" rid="B6"><sup>6</sup></xref>. Nutritional status refers to the body's condition in relation to nutrient intake, which is why diet and nutrition are essential at any stage of life, particularly during the early stages of growth and physiological development <xref ref-type="bibr" rid="B7"><sup>7</sup></xref>.</p>
-<p>The development of eating habits is influenced by three main factors: Family, the media and school. Family is the first environment in which children encounter eating practices, and it exerts a significant influence on their eating-related behavior. These habits are the result of an implicitly shared social and cultural construct among family members <xref ref-type="bibr" rid="B6"><sup>6</sup></xref>.</p>
-<p>Beliefs and dietary practices play a significant role in eating behaviors as they primarily influence mothers' inaccurate perceptions of their children's nutritional status. This, in turn, affects their children's eating behaviors and self-perception <xref ref-type="bibr" rid="B8"><sup>8</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B9"><sup>9</sup></xref>. Studies have examined mothers’ inaccurate perceptions of their children's nutritional status (weight/height) and revealed that inadequate maternal perception is a risk factor for the development and maintenance of overweight and obesity. Indeed, 98 % of mothers fail to recognize their children's actual nutritional status <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>.</p>
-<p>Some researchers have emphasized the fundamental role of maternal perception <xref ref-type="bibr" rid="B11"><sup>11</sup></xref>, given that, historically, a fat child has been considered healthy, while a thin child has been considered unwell <xref ref-type="bibr" rid="B12"><sup>12</sup></xref>. In Chile, 60 % of mothers of schoolchildren with excessive malnutrition perceived their children as thinner <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>. Similarly, the majority of mothers of overweight or obese children in the Mexican state of Nuevo León underestimated their children's weight <xref ref-type="bibr" rid="B11"><sup>11</sup></xref>. As nursing personnel, we are involved in this issue due to the notable increase in the prevalence of childhood overweight and obesity. These conditions could be prevented and modified from an early age by offering education based on the determinants related to this health problem, as well as through visits to child health departments. It is therefore essential to develop strategies to reduce the incidence of these conditions and to promote optimal nutritional status in the school population. This can be achieved by implementing programs that encourage healthy eating habits and contribute to the formation of healthy lifestyles in this group <xref ref-type="bibr" rid="B13"><sup>13</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B14"><sup>14</sup></xref>. </p>
+<p>Globally, there has been an increase in food-related problems, leading to nutritional imbalances. It is estimated that over 900 million people suffer from malnutrition, with 170 million schoolchildren being underweight <xref ref-type="bibr" rid="B1">
+<sup>1</sup>
+</xref>. In Mexico, one in three children aged six to eleven is overweight or obese, while 35 % and 2 %, respectively, are very thin <xref ref-type="bibr" rid="B2">
+<sup>2</sup>
+</xref>. In 2016, 33.2 % of schoolchildren were overweight or obese. The nutritional transition in Mexico has led to a change in consumption habits, with healthy products being replaced by energy-dense foods that are high in sugars and fats <xref ref-type="bibr" rid="B3">
+<sup>3</sup>
+</xref>. The high consumption of sugary drinks and low levels of physical activity in schools, coupled with the widespread availability of these foods, are the cause of high rates of overweight and obesity. For example, it is believed that 92 % of children aged 5 and 11 regularly consume sugary drinks, and 50 % include ultra-processed snacks, sweets and cereals in their diet <xref ref-type="bibr" rid="B3">
+<sup>3</sup>
+</xref>. Consequently, Mexico is considered a country with a malnutrition problem, as it currently has the highest prevalence of childhood obesity in the world <xref ref-type="bibr" rid="B4">
+<sup>4</sup>
+</xref>. Eating a healthy diet helps to prevent malnutrition. A healthy diet should be varied and balanced, and tailored to individual characteristics such as age, gender, lifestyle, and level of physical activity. Cultural environment, food availability and local eating patterns can also significantly influence eating behavior. This set of factors plays a fundamental role in understanding malnutrition because it reflects people's relationship with food. This relationship is influenced by direct experiences with food, the family environment, social status, emotional ties and cultural traditions. This has led to a growing interest in analyzing the relationship between obesity and the eating habits of schoolchildren. Changes in the current socioeconomic context have caused both parents and children to adopt unhealthy eating habits, increasing their consumption of processed and fast food, which negatively impacts children's eating habits and nutritional status <xref ref-type="bibr" rid="B5">
+<sup>5</sup>
+</xref>.</p>
+<p>In addition, low levels of physical activity, coupled with spending long hours watching television and playing video games, are factors that contribute to obesity in schoolchildren <xref ref-type="bibr" rid="B6">
+<sup>6</sup>
+</xref>. Nutritional status refers to the body's condition in relation to nutrient intake, which is why diet and nutrition are essential at any stage of life, particularly during the early stages of growth and physiological development <xref ref-type="bibr" rid="B7">
+<sup>7</sup>
+</xref>.</p>
+<p>The development of eating habits is influenced by three main factors: Family, the media and school. Family is the first environment in which children encounter eating practices, and it exerts a significant influence on their eating-related behavior. These habits are the result of an implicitly shared social and cultural construct among family members <xref ref-type="bibr" rid="B6">
+<sup>6</sup>
+</xref>.</p>
+<p>Beliefs and dietary practices play a significant role in eating behaviors as they primarily influence mothers' inaccurate perceptions of their children's nutritional status. This, in turn, affects their children's eating behaviors and self-perception <xref ref-type="bibr" rid="B8">
+<sup>8</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B9">
+<sup>9</sup>
+</xref>. Studies have examined mothers’ inaccurate perceptions of their children's nutritional status (weight/height) and revealed that inadequate maternal perception is a risk factor for the development and maintenance of overweight and obesity. Indeed, 98 % of mothers fail to recognize their children's actual nutritional status <xref ref-type="bibr" rid="B10">
+<sup>10</sup>
+</xref>.</p>
+<p>Some researchers have emphasized the fundamental role of maternal perception <xref ref-type="bibr" rid="B11">
+<sup>11</sup>
+</xref>, given that, historically, a fat child has been considered healthy, while a thin child has been considered unwell <xref ref-type="bibr" rid="B12">
+<sup>12</sup>
+</xref>. In Chile, 60 % of mothers of schoolchildren with excessive malnutrition perceived their children as thinner <xref ref-type="bibr" rid="B10">
+<sup>10</sup>
+</xref>. Similarly, the majority of mothers of overweight or obese children in the Mexican state of Nuevo León underestimated their children's weight <xref ref-type="bibr" rid="B11">
+<sup>11</sup>
+</xref>. As nursing personnel, we are involved in this issue due to the notable increase in the prevalence of childhood overweight and obesity. These conditions could be prevented and modified from an early age by offering education based on the determinants related to this health problem, as well as through visits to child health departments. It is therefore essential to develop strategies to reduce the incidence of these conditions and to promote optimal nutritional status in the school population. This can be achieved by implementing programs that encourage healthy eating habits and contribute to the formation of healthy lifestyles in this group <xref ref-type="bibr" rid="B13">
+<sup>13</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B14">
+<sup>14</sup>
+</xref>. </p>
 <p>Based on the above and following a thorough analysis of the available literature, it is deemed appropriate to conduct further research into these phenomena. The research question is therefore: What is the perception of mothers regarding their children's nutritional status and eating behaviors? with the aim of understanding the relationship between maternal perception and eating behaviors in relation to the nutritional status of schoolchildren.</p>
-</sec><sec id="en-sec7" sec-type="methods">
+</sec>
+<sec id="en-sec7" sec-type="methods">
 <title>Methodology</title>
 <p>This is a descriptive correlational study. The population consisted of 788 mother-child pairs of school age from first to sixth grade, (aged 6 to 12) from a public elementary school located in the city of Matamoros, Tamaulipas, from morning and afternoon shifts. The sample size was calculated using a finite population formula with the following parameters: A margin of error of 5 % (0.05), a confidence level of 95 % (1.96) and a standard deviation of 0.5. This yielded a sample of 223 mother-child pairs, obtained by stratified random probability sampling. Each stratum corresponded to a grade level in order to represent the situation at each age and grade level.</p>
-<p>The inclusion criteria were: Being enrolled as a student between august 2023 and july 2024; being of either gender; and agreeing to participate. Students, who were not aged between 6 and 12, had a disability that limited their movement, had mothers who were not their primary caregivers, had illiterate mothers, or did not agree to participate in the study were excluded. Finally, cases in which the survey was not completed or the informed consent form was not signed were excluded. A questionnaire was used to collect the following data and information: a) Data on the mother: age, level of education, approximate weight and height, and whether she works? If so, please indicate how many hours, b) Data on the student: Age, sex, grade and group. Subsequently, the Physical Appearance and Health Questionnaire, consisting of 19 items divided into four sections, was administered. For the purposes of this research, only one item from section one, “perception by words”, was considered. Here, the mother could select from very underweight, underweight, normal weight, overweight, or very overweight, to indicate her perception of her child's weight. There was also a section that included a pictogram with seven body images divided into four categories according to the age and sex ranges of the schoolchildren. Here, the mother could select the image that most closely matched her child's body shape <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>. Regarding perception by images, a positive result was considered when mothers of underweight and normal weight children, according to the body mass index (BMI), selected an image representing a size below or above average. Conversely, negative results were categorized as underestimation or overestimation of perception. This questionnaire was validated for the Mexican population in 2009, with a sensitivity of 9 % and a specificity of 21 % for the perception by words test, and a sensitivity of 76 % and a specificity of 15 % for the perception by images test <xref ref-type="bibr" rid="B16"><sup>16</sup></xref>.</p>
+<p>The inclusion criteria were: Being enrolled as a student between august 2023 and july 2024; being of either gender; and agreeing to participate. Students, who were not aged between 6 and 12, had a disability that limited their movement, had mothers who were not their primary caregivers, had illiterate mothers, or did not agree to participate in the study were excluded. Finally, cases in which the survey was not completed or the informed consent form was not signed were excluded. A questionnaire was used to collect the following data and information: a) Data on the mother: age, level of education, approximate weight and height, and whether she works? If so, please indicate how many hours, b) Data on the student: Age, sex, grade and group. Subsequently, the Physical Appearance and Health Questionnaire, consisting of 19 items divided into four sections, was administered. For the purposes of this research, only one item from section one, “perception by words”, was considered. Here, the mother could select from very underweight, underweight, normal weight, overweight, or very overweight, to indicate her perception of her child's weight. There was also a section that included a pictogram with seven body images divided into four categories according to the age and sex ranges of the schoolchildren. Here, the mother could select the image that most closely matched her child's body shape <xref ref-type="bibr" rid="B15">
+<sup>15</sup>
+</xref>. Regarding perception by images, a positive result was considered when mothers of underweight and normal weight children, according to the body mass index (BMI), selected an image representing a size below or above average. Conversely, negative results were categorized as underestimation or overestimation of perception. This questionnaire was validated for the Mexican population in 2009, with a sensitivity of 9 % and a specificity of 21 % for the perception by words test, and a sensitivity of 76 % and a specificity of 15 % for the perception by images test <xref ref-type="bibr" rid="B16">
+<sup>16</sup>
+</xref>.</p>
 <p>The Children's Eating Behavior Questionnaire (CEBQ) (<xref ref-type="bibr" rid="B17">17</xref>), adapted for the Mexican population, provides information on eating behaviors. Consisting of 34 items, it comprises six scales: emotional eating and binge eating (11 items); enjoyment of food (5 items); desire to drink (3 items); moderate appetite (8 items); emotional fasting (4 items); and pickiness (3 items). The questionnaire has a Cronbach's alpha reliability of 0.882 (<xref ref-type="bibr" rid="B18">18</xref>), whereas in this study it was 0.822. Finally, a SECA scale, model 813, with a capacity of 150 kg and an accuracy of 0.1 kg, was used to determine weight. BMI was calculated using the table in the National Health Card (Cartilla Nacional de Salud) for children aged zero to nine and ten to nineteen. Height was measured using a SECA 213 stadiometer with a metric scale.</p>
-<p>This study was approved by the Research and Ethics Committee of the Matamoros Multidisciplinary Academic Unit under the reference number 119. Authorization was then requested from the educational institution's management to carry out data collection. The study was conducted in accordance with the General Health Law Regulations, particularly the section on research involving human subjects <xref ref-type="bibr" rid="B19"><sup>19</sup></xref>, which stipulates that all health research must take into account ethical considerations such as dignity, consent, confidentiality, anonymity and informed consent.</p>
+<p>This study was approved by the Research and Ethics Committee of the Matamoros Multidisciplinary Academic Unit under the reference number 119. Authorization was then requested from the educational institution's management to carry out data collection. The study was conducted in accordance with the General Health Law Regulations, particularly the section on research involving human subjects <xref ref-type="bibr" rid="B19">
+<sup>19</sup>
+</xref>, which stipulates that all health research must take into account ethical considerations such as dignity, consent, confidentiality, anonymity and informed consent.</p>
 <p>The statistical package Statistical Package for the Social Sciences (SPSS) version 24 for Windows was used for data analysis. Descriptive statistics were used in the form of frequencies and percentages, as well as Spearman's nonparametric correlation test, in order to determine the relationship between the variables.</p>
-</sec><sec id="en-sec8" sec-type="results">
+</sec>
+<sec id="en-sec8" sec-type="results">
 <title>Results</title>
 <p>The BMI of the mother and child were 26 % and 34.5 %, respectively. These were both within the normal weight range, (<xref ref-type="table" rid="en-t1">Table 1</xref>).</p>
 <table-wrap id="en-t1">
@@ -516,7 +1986,9 @@
 <tbody>
 <tr>
 <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;">Variable</td>
-<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;"><italic>f</italic></td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">
+<italic>f</italic>
+</td>
 <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px;">%</td>
 </tr>
 <tr>
@@ -581,7 +2053,11 @@
 </tr>
 </tbody>
 </table>
-<table-wrap-foot><fn fn-type="other" id="en-TFN1"><p>Source: Self-development</p></fn></table-wrap-foot>
+<table-wrap-foot>
+<fn fn-type="other" id="en-TFN1">
+<p>Source: Self-development</p>
+</fn>
+</table-wrap-foot>
 </table-wrap>
 <p>
 <xref ref-type="table" rid="en-t2">Table 2</xref>, shows that only 47 % of mothers correctly perceived their child's nutritional status. It is particularly notable that mothers tended to misperceive children of normal weight as underweight or overweight, and children who were overweight or obese as normal weight or underweight.</p>
@@ -600,11 +2076,17 @@
 </tr>
 <tr>
 <td style="border: 0; text-align: center;">IMC</td>
-<td style="border: 0; text-align: center;"><italic>f</italic></td>
+<td style="border: 0; text-align: center;">
+<italic>f</italic>
+</td>
 <td style="border: 0; text-align: center;">%</td>
-<td style="border: 0; text-align: center;"><italic>f</italic></td>
+<td style="border: 0; text-align: center;">
+<italic>f</italic>
+</td>
 <td style="border: 0; text-align: center;">%</td>
-<td style="border: 0; text-align: center;"><italic>f</italic></td>
+<td style="border: 0; text-align: center;">
+<italic>f</italic>
+</td>
 <td style="border: 0; text-align: center;">%</td>
 </tr>
 <tr>
@@ -649,7 +2131,11 @@
 </tr>
 </tbody>
 </table>
-<table-wrap-foot><fn fn-type="other" id="en-TFN2"><p>Source: Self-development</p></fn></table-wrap-foot>
+<table-wrap-foot>
+<fn fn-type="other" id="en-TFN2">
+<p>Source: Self-development</p>
+</fn>
+</table-wrap-foot>
 </table-wrap>
 <p>To address the overall objective, a Kruskal-Wallis non-parametric test was performed to determine whether there was a significant difference between the BMI of the schoolchildren and their mothers' choices of body images. The result obtained was p= 0.000, establishing a statistically significant difference between mothers' perceptions of their children's weight and their actual nutritional status, (<xref ref-type="table" rid="en-t3">Table 3</xref>).</p>
 <table-wrap id="en-t3">
@@ -662,12 +2148,21 @@
 <tr>
 <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;">Kruskal-Wallis Test</td>
 <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;"/>
-<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;"><italic/></td>
+<td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px;">
+<italic/>
+</td>
 </tr>
 <tr>
-<td style="border: 0; text-align: left; padding-left: 10px;">X<xref ref-type="bibr" rid="B2"><sup>2</sup></xref></td>
-<td style="border: 0; text-align: left; padding-left: 10px;"><italic>df</italic></td>
-<td style="border: 0; text-align: left; padding-left: 10px;"><italic>p</italic></td>
+<td style="border: 0; text-align: left; padding-left: 10px;">X<xref ref-type="bibr" rid="B2">
+<sup>2</sup>
+</xref>
+</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">
+<italic>df</italic>
+</td>
+<td style="border: 0; text-align: left; padding-left: 10px;">
+<italic>p</italic>
+</td>
 </tr>
 <tr>
 <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px;">92.958</td>
@@ -676,7 +2171,11 @@
 </tr>
 </tbody>
 </table>
-<table-wrap-foot><fn fn-type="other" id="en-TFN3"><p>Source: Self-development. Notes: X² = Chi-square; gL= grades of freedom; p = significance</p></fn></table-wrap-foot>
+<table-wrap-foot>
+<fn fn-type="other" id="en-TFN3">
+<p>Source: Self-development. Notes: X² = Chi-square; gL= grades of freedom; p = significance</p>
+</fn>
+</table-wrap-foot>
 </table-wrap>
 <p>Finally, to determine whether there was a relationship between eating behaviors and the nutritional status of the schoolchildren, a Spearman's nonparametric test was performed. Values greater than p= 0.01 were obtained, which indicates that there is no statistical relationship between the two variables. Therefore, regardless of their classification, one does not affect the other, (<xref ref-type="table" rid="en-t4">Table 4</xref>).</p>
 <table-wrap id="en-t4">
@@ -693,11 +2192,17 @@
 <td colspan="2" style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 160px;">BMI</td>
 </tr>
 <tr>
-<td style="border: 0; border-bottom: 1px solid #000000; text-align: center;"><italic>p</italic></td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">
+<italic>p</italic>
+</td>
 <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">Significance</td>
-<td style="border: 0; border-bottom: 1px solid #000000; text-align: center;"><italic>p</italic></td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">
+<italic>p</italic>
+</td>
 <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">Significance</td>
-<td style="border: 0; border-bottom: 1px solid #000000; text-align: center;"><italic>p</italic></td>
+<td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">
+<italic>p</italic>
+</td>
 <td style="border: 0; border-bottom: 1px solid #000000; text-align: center;">Significance</td>
 </tr>
 <tr>
@@ -729,31 +2234,88 @@
 </tr>
 </tbody>
 </table>
-<table-wrap-foot><fn fn-type="other" id="en-TFN4"><p>Source: Self-development</p></fn></table-wrap-foot>
+<table-wrap-foot>
+<fn fn-type="other" id="en-TFN4">
+<p>Source: Self-development</p>
+</fn>
+</table-wrap-foot>
 </table-wrap>
-</sec><sec id="en-sec9" sec-type="discussion">
+</sec>
+<sec id="en-sec9" sec-type="discussion">
 <title>Discussion</title>
-<p>It is important to note that most of the mothers in this study had an imbalanced nutritional status, primarily in the form of overweight and obesity. These figures are consistent with the results of the 2020-2023 National Health and Nutrition Survey (Encuesta Nacional de Salud y Nutrición ENSANUT) <xref ref-type="bibr" rid="B20"><sup>20</sup></xref>, this influences their distorted perception of their children's weight, which could be considered a limitation, indeed, just over half of mothers incorrectly estimated the weight of the schoolchild, underestimating it. </p>
-<p>It should be noted that the results of this study only reflect the perceptions of the surveyed couples. Nevertheless, these findings have practical implications for the nursing profession, as they emphasize the importance of establishing healthy habits. These data are consistent with previous research. In studies conducted in Shanghai, China and Brazil <xref ref-type="bibr" rid="B9"><sup>9</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B22"><sup>22</sup></xref>, mothers whose weight was outside the normal range tended to underestimate their children's weight, this phenomenon was observed in nearly a quarter of the interviewed mothers. Having an inaccurate perception of their children's weight can lead parents to encourage unhealthy eating habits, which disrupts with family eating dynamics and can cause weight disorders, limit physical activity and promote a sedentary lifestyle.</p>
-<p>Obesity is a global public health problem caused by the nutrient-deficient diets that mothers provide for their children, the environment, in which schoolchildren live, including their family, school and friends, also influences their food choices, furthermore, sedentary modern lifestyles do not encourage healthy habits among schoolchildren. Only one-third of schoolchildren undergoing somatometry were found to be of normal weight, this is not an isolated finding, as various studies conducted in different regions of the world have revealed the same pattern <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B10"><sup>10</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref>.</p>
-<p>This study shows that nearly half of the mothers accurately assessed their children's nutritional status, tending to underestimate cases of overweight and obesity. This phenomenon has been observed in previous research and may be due to cultural factors or the normalization of being overweight. If childhood overweight and obesity are underestimated, it could hinder the implementation of changes to family habits that are needed to prevent and control this disease. This is consistent with previous studies which showed that most overweight or obese mothers have an inaccurate perception of their children's weight and that this distortion is a consequence of the steady increase in obesity among schoolchildren <xref ref-type="bibr" rid="B10"><sup>10</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B11"><sup>11</sup></xref>. A study conducted in Romania assessed schoolchildren's weight perception from the perspective of their guardians and found that more than half misperceived their child's actual weight, where three-fifths of the schoolchildren were actually at a normal weight <xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. Furthermore, a study conducted in Argentina found that mothers' perceptions of their obese children are distorted <xref ref-type="bibr" rid="B26"><sup>26</sup></xref>, although schoolchildren of this age are independent, it is the responsibility of parents to ensure their children are well-nourished, which is why it is important for them to have a realistic perception of their children's weight. </p>
+<p>It is important to note that most of the mothers in this study had an imbalanced nutritional status, primarily in the form of overweight and obesity. These figures are consistent with the results of the 2020-2023 National Health and Nutrition Survey (Encuesta Nacional de Salud y Nutrición ENSANUT) <xref ref-type="bibr" rid="B20">
+<sup>20</sup>
+</xref>, this influences their distorted perception of their children's weight, which could be considered a limitation, indeed, just over half of mothers incorrectly estimated the weight of the schoolchild, underestimating it. </p>
+<p>It should be noted that the results of this study only reflect the perceptions of the surveyed couples. Nevertheless, these findings have practical implications for the nursing profession, as they emphasize the importance of establishing healthy habits. These data are consistent with previous research. In studies conducted in Shanghai, China and Brazil <xref ref-type="bibr" rid="B9">
+<sup>9</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B22">
+<sup>22</sup>
+</xref>, mothers whose weight was outside the normal range tended to underestimate their children's weight, this phenomenon was observed in nearly a quarter of the interviewed mothers. Having an inaccurate perception of their children's weight can lead parents to encourage unhealthy eating habits, which disrupts with family eating dynamics and can cause weight disorders, limit physical activity and promote a sedentary lifestyle.</p>
+<p>Obesity is a global public health problem caused by the nutrient-deficient diets that mothers provide for their children, the environment, in which schoolchildren live, including their family, school and friends, also influences their food choices, furthermore, sedentary modern lifestyles do not encourage healthy habits among schoolchildren. Only one-third of schoolchildren undergoing somatometry were found to be of normal weight, this is not an isolated finding, as various studies conducted in different regions of the world have revealed the same pattern <xref ref-type="bibr" rid="B5">
+<sup>5</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B6">
+<sup>6</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B10">
+<sup>10</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B23">
+<sup>23</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B24">
+<sup>24</sup>
+</xref>.</p>
+<p>This study shows that nearly half of the mothers accurately assessed their children's nutritional status, tending to underestimate cases of overweight and obesity. This phenomenon has been observed in previous research and may be due to cultural factors or the normalization of being overweight. If childhood overweight and obesity are underestimated, it could hinder the implementation of changes to family habits that are needed to prevent and control this disease. This is consistent with previous studies which showed that most overweight or obese mothers have an inaccurate perception of their children's weight and that this distortion is a consequence of the steady increase in obesity among schoolchildren <xref ref-type="bibr" rid="B10">
+<sup>10</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B11">
+<sup>11</sup>
+</xref>. A study conducted in Romania assessed schoolchildren's weight perception from the perspective of their guardians and found that more than half misperceived their child's actual weight, where three-fifths of the schoolchildren were actually at a normal weight <xref ref-type="bibr" rid="B25">
+<sup>25</sup>
+</xref>. Furthermore, a study conducted in Argentina found that mothers' perceptions of their obese children are distorted <xref ref-type="bibr" rid="B26">
+<sup>26</sup>
+</xref>, although schoolchildren of this age are independent, it is the responsibility of parents to ensure their children are well-nourished, which is why it is important for them to have a realistic perception of their children's weight. </p>
 <p>To determine whether eating behaviors are related to the nutritional status of schoolchildren, the six dimensions of the child eating behavior questionnaire were analyzed, no statistically significant relationship was found. This suggests that eating behaviors are not directly related to BMI in this group of children. </p>
-<p>Food is one of the most fundamental human needs and influences emotional, cognitive and behavioral aspects related to food intake, including needs, pleasure, sociocultural patterns and the social environment, all of these factors affect food intake, which can increase or decrease, causing problems with weight control and leading to inappropriate eating behavior <xref ref-type="bibr" rid="B27"><sup>27</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B28"><sup>28</sup></xref>. </p>
+<p>Food is one of the most fundamental human needs and influences emotional, cognitive and behavioral aspects related to food intake, including needs, pleasure, sociocultural patterns and the social environment, all of these factors affect food intake, which can increase or decrease, causing problems with weight control and leading to inappropriate eating behavior <xref ref-type="bibr" rid="B27">
+<sup>27</sup>
+</xref>
+<sup>,</sup>
+<xref ref-type="bibr" rid="B28">
+<sup>28</sup>
+</xref>. </p>
 <p>The results reveal the behavior of mothers and children in an educational institution in the city of Matamoros, however, it cannot be guaranteed that the findings represent the behavior of the wider population, therefore, further research into eating behavior issues in schoolchildren is important, this would provide the necessary information to design food education strategies for mothers and schoolchildren.</p>
-</sec><sec id="en-sec10" sec-type="conclusions">
+</sec>
+<sec id="en-sec10" sec-type="conclusions">
 <title>Conclusions</title>
 <p>The findings of this study highlight a significant discrepancy between maternal perception and the actual nutritional status of participating schoolchildren, a high percentage of mothers tended to underestimate their children's weight, particularly in cases of overweight and obesity, this finding is consistent with previous research and suggests a possible cultural normalization of excessive weight within the family environment. This underestimation poses an obstacle to implementing healthy eating strategies and adopting an active lifestyle at home. Misperceptions can hinder the recognition of the need for dietary changes and physical activity among schoolchildren; they can also create barriers to carrying out nurses' recommendations to mothers.</p>
 <p>Life expectancy today is a success thanks to interventions related to healthy habits, science, and technology. For its part, the nursing profession guides humanity through its different stages of life, reducing exposure to risk conditions and thus ensuring a better quality of life, however, despite the efforts of healthcare personnel, current statistical data are not favorable, and trends do not offer an encouraging picture. </p>
 <p>It is important to highlight that one of nursing's many roles in society is to promote health, through this, individuals, families and communities are educated in strengthening self-care, this involves a series of actions that address all of a person's needs holistically.</p>
 <p>Addressing maternal perceptions of children's physical condition through questions and images places the mother in an analysis of how she perceives her child and the ideal. It should be noted that there are multiple factors that influence this perception, which is why it is suggested that future studies not only address the dyad, but the entire family unit and circles of friends.</p>
-</sec><sec id="en-sec11" sec-type="coi">
+</sec>
+<sec id="en-sec11" sec-type="coi">
 <title>Conflict of interest</title>
 <p>The authors stated that they have no conflict of interest.</p>
-</sec><sec id="en-sec12" sec-type="financial-disclosure"><title>Financing</title><p>Content of Financing.</p></sec><sec id="en-sec13">
+</sec>
+<sec id="en-sec12" sec-type="financial-disclosure">
+<title>Financing</title>
+<p>Content of Financing.</p>
+</sec>
+<sec id="en-sec13">
 <title>Artificial intelligence</title>
 <p>The authors stated that they have not used any artificial intelligence resources in any of the sections of this document.</p>
-</sec><sec id="en-sec14">
+</sec>
+<sec id="en-sec14">
 <title>Funding</title>
 <p>The lead author was awarded a postgraduate scholarship by the National Council for Humanities, Sciences and Technologies (Consejo Nacional de Humanidades, Ciencias y Tecnologías).</p>
-</sec></body>
-</sub-article></article>
+</sec>
+</body>
+</sub-article>
+</article>

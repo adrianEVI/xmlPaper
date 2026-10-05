@@ -22,7 +22,9 @@ from main import (
     extract_bibliography_paragraphs,
     parse_references_with_gemini,
     build_ref_list_xml,
-    process_eng_docx_to_subarticle
+    process_eng_docx_to_subarticle,
+    extract_authors_and_affiliations_from_docx,
+    format_xml_with_tabs
 )
 
 async def convert_docx_file_to_xml(input_path: str, eng_input_path: str = None) -> str:
@@ -38,8 +40,25 @@ async def convert_docx_file_to_xml(input_path: str, eng_input_path: str = None) 
     header_text = extract_docx_headers_text(input_path)
     raw_text = header_text + "\n" + soup.get_text(separator='\n', strip=True)
     
+    if eng_input_path and os.path.exists(eng_input_path):
+        try:
+            import docx
+            eng_doc = docx.Document(eng_input_path)
+            eng_front_paras = [p.text.strip() for p in eng_doc.paragraphs[:40] if p.text.strip()]
+            raw_text = "\n".join(eng_front_paras) + "\n\n" + raw_text
+        except Exception as e:
+            print(f"  [AVISO] No se pudo leer portada de {eng_input_path}: {e}")
+
     print(f"  [2/6] Extrayendo metadatos con Gemini (incluyendo encabezados DOCX: DOI, volumen, número)...", flush=True)
     metadata, used_fallback = await extract_metadata_from_text(raw_text)
+    
+    det_authors, det_affs = extract_authors_and_affiliations_from_docx(eng_input_path or input_path)
+    if det_authors:
+        print(f"  [2.5/6] Aplicando metadatos deterministas de autores ({len(det_authors)} autores con roles/ORCID/xrefs)...", flush=True)
+        metadata.authors = det_authors
+        if det_affs:
+            metadata.affiliations = det_affs
+
     extract_structured_abstracts_from_body(soup, metadata)
     
     print(f"  [3/6] Construyendo sección <front> según SciELO SPS...", flush=True)
@@ -129,11 +148,14 @@ async def convert_docx_file_to_xml(input_path: str, eng_input_path: str = None) 
     
     import re
     final_xml = str(soup)
-    final_xml = re.sub(r'<\?xml.*?\?>\n?', '', final_xml)
-    final_xml = re.sub(r'<!DOCTYPE.*?>\n?', '', final_xml)
-    
-    doctype = '<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">'
-    final_xml = f'<?xml version="1.0" encoding="utf-8"?>\n{doctype}\n{final_xml.strip()}'
+    try:
+        final_xml = format_xml_with_tabs(final_xml)
+    except Exception as e:
+        print(f"  [AVISO] No se pudo formatear XML con tabuladores: {e}")
+        final_xml = re.sub(r'<\?xml.*?\?>\n?', '', final_xml)
+        final_xml = re.sub(r'<!DOCTYPE.*?>\n?', '', final_xml)
+        doctype = '<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">'
+        final_xml = f'<?xml version="1.0" encoding="utf-8"?>\n{doctype}\n{final_xml.strip()}'
     
     print(f"  [6/6] XML final generado correctamente.", flush=True)
     return final_xml

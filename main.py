@@ -181,10 +181,57 @@ def extract_docx_headers_text(docx_path: str) -> str:
         print(f"Error extrayendo encabezados de DOCX: {e}")
         return ""
 
+def format_xml_with_tabs(xml_str: str) -> str:
+    import xml.etree.ElementTree as ET
+    ET.register_namespace('xlink', 'http://www.w3.org/1999/xlink')
+    ET.register_namespace('mml', 'http://www.w3.org/1998/Math/MathML')
+    
+    xml_decl = '<?xml version="1.0" encoding="utf-8"?>\n'
+    doctype = '<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">\n'
+    
+    clean_str = re.sub(r'<\?xml.*?\?>\s*', '', xml_str)
+    clean_str = re.sub(r'<!DOCTYPE.*?>\s*', '', clean_str)
+    
+    try:
+        parser = ET.XMLParser(target=ET.TreeBuilder(insert_comments=True))
+        root = ET.fromstring(clean_str.strip(), parser=parser)
+        
+        def indent_elem(elem, level=0):
+            i = '\n' + '\t' * level
+            if len(elem):
+                if not elem.text or not elem.text.strip():
+                    elem.text = i + '\t'
+                if not elem.tail or not elem.tail.strip():
+                    elem.tail = i
+                for subelem in elem:
+                    indent_elem(subelem, level + 1)
+                if not elem[-1].tail or not elem[-1].tail.strip():
+                    elem[-1].tail = i
+            else:
+                if level and (not elem.tail or not elem.tail.strip()):
+                    elem.tail = i
+
+        indent_elem(root, 0)
+        
+        # Convert any un-prefixed href attribute to xlink:href in ElementTree
+        XLINK_HREF = '{http://www.w3.org/1999/xlink}href'
+        for el in root.iter():
+            if 'href' in el.attrib:
+                el.attrib[XLINK_HREF] = el.attrib.pop('href')
+
+        out = ET.tostring(root, encoding='utf-8').decode('utf-8')
+        out = re.sub(r'(?<!xlink:)\bhref\s*=\s*', 'xlink:href=', out)
+        return xml_decl + doctype + out
+    except Exception as e:
+        print(f"Error indentando XML con tabuladores: {e}")
+        clean_str = re.sub(r'(?<!xlink:)\bhref\s*=\s*', 'xlink:href=', clean_str)
+        return xml_decl + doctype + clean_str.strip()
+
 def clean_article_title(title_text: str) -> str:
     if not title_text:
         return title_text
     clean = title_text.strip()
+    clean = re.sub(r'^SANUS\s*[\.\,]?\s*\d{4}\s*;\s*\d+\s*\(\s*\d+\s*\)\s*:\s*e?\s*\d+\s*', '', clean, flags=re.IGNORECASE).strip()
     category_prefixes = [
         "INVESTIGACIÓN CUALITATIVA", "INVESTIGACIÓN", "RESEARCH", "ARTÍCULO ORIGINAL",
         "ORIGINAL ARTICLE", "ARTIGO ORIGINAL", "REVISIÓN", "REVIEW", "ARTÍCULO DE REVISIÓN",
@@ -213,12 +260,19 @@ def build_structured_abstract_xml(soup: BeautifulSoup, abstract_text: str, tag_n
         attrs["xml:lang"] = lang
     abs_tag = soup.new_tag(tag_name, **attrs)
     
+    # Inyectar siempre el título principal del abstract (Resumen, Abstract, Resumo) según el idioma
+    main_title = soup.new_tag("title")
+    if lang == "en":
+        main_title.string = "Abstract"
+    elif lang == "pt":
+        main_title.string = "Resumo"
+    else:
+        main_title.string = "Resumen"
+    abs_tag.append(main_title)
+
     clean_txt = format_abstract_text(abstract_text) if abstract_text else ""
     clean_txt = re.sub(r'^\s*(?:Resumen|Abstract|Resumo)\b[\s:]*', '', clean_txt, flags=re.IGNORECASE).strip()
     if not clean_txt or clean_txt in ["Resumen no disponible.", "Abstract not available."]:
-        title = soup.new_tag("title")
-        title.string = "Abstract:" if (lang == "en" or tag_name == "trans-abstract") else "Resumen:"
-        abs_tag.append(title)
         p = soup.new_tag("p")
         p.string = clean_txt if clean_txt else ("Abstract not available." if lang == "en" else "Resumen no disponible.")
         abs_tag.append(p)
@@ -264,14 +318,120 @@ def build_structured_abstract_xml(soup: BeautifulSoup, abstract_text: str, tag_n
             
             abs_tag.append(sec)
     else:
-        title = soup.new_tag("title")
-        title.string = "Abstract:" if (lang == "en" or tag_name == "trans-abstract") else "Resumen:"
-        abs_tag.append(title)
         p = soup.new_tag("p")
         p.string = clean_txt
         abs_tag.append(p)
         
     return abs_tag
+
+def extract_authors_and_affiliations_from_docx(doc_path: str) -> tuple:
+    """Extrae autores, ORCIDs, roles y afiliaciones directamente de la estructura de párrafos del DOCX."""
+    import docx
+    try:
+        doc = docx.Document(doc_path)
+    except Exception as e:
+        print(f"Error abriendo DOCX {doc_path} para extracción determinista de autores: {e}")
+        return [], []
+
+    ignore_words = {'INVESTIGACIÓN', 'RESEARCH', 'ARTÍCULO ORIGINAL', 'ARTIGO', 'REVIEW', 'EDITORIAL', 'REVISIÓN', 'ENSAYO'}
+    ns = {'w': 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
+    p_elems = doc.element.body.findall('.//w:p', ns)
+    all_p_objs = [docx.text.paragraph.Paragraph(pe, doc) for pe in p_elems] if p_elems else doc.paragraphs
+    paras = [p.text.strip() for p in all_p_objs[:80] if p.text.strip() and p.text.strip().upper() not in ignore_words]
+    
+    authors = []
+    aff_dict = {}
+    
+    current_author = None
+    for p in paras:
+        orcid_m = re.search(r'https?://orcid\.org/(\d{4}-\d{4}-\d{4}-[\dX]{4})', p, re.I)
+        if orcid_m:
+            if current_author:
+                current_author['orcid'] = orcid_m.group(1)
+            continue
+            
+        m = re.match(r'^(?P<name>[A-ZÁÉÍÓÚÑ][a-záéíóúñA-ZÁÉÍÓÚÑ\s\-]+?)\s+(?P<affs>[\d,\s\*]+)$', p)
+        if m:
+            full_name = m.group('name').strip()
+            aff_str = m.group('affs').strip()
+            
+            is_corresp = '*' in aff_str
+            aff_nums = re.findall(r'\d+', aff_str)
+            aff_ids = [f'aff{num}' for num in aff_nums]
+            aff_id = ','.join(aff_ids) if aff_ids else 'aff1'
+            
+            name_parts = full_name.split()
+            if len(name_parts) >= 3:
+                given_names = ' '.join(name_parts[:-2])
+                surname = ' '.join(name_parts[-2:])
+            elif len(name_parts) == 2:
+                given_names = name_parts[0]
+                surname = name_parts[1]
+            else:
+                given_names = full_name
+                surname = ''
+                
+            current_author = {
+                'given_names': given_names,
+                'surname': surname,
+                'affiliation_id': aff_id,
+                'aff_nums': aff_nums or ['1'],
+                'is_corresponding': is_corresp,
+                'orcid': None,
+                'role': None
+            }
+            authors.append(current_author)
+
+    aff_lines = []
+    for p in paras:
+        if re.search(r'(?:Doctor|Bachelor|Master|Licenciat|Doctorad|Maestr|Enfermer|Profesor|Investigador|Universidad|Instituto|Hospital)', p, re.I) and not 'orcid.org' in p:
+            aff_lines.append(p)
+
+    for idx, aff_line in enumerate(aff_lines):
+        num_m = re.match(r'^(?P<num>\d+)[\.\s\-]+(?P<rest>.*)$', aff_line)
+        if num_m:
+            aff_num = num_m.group('num')
+            clean_line = num_m.group('rest').strip()
+        else:
+            aff_num = str(idx + 1)
+            clean_line = aff_line
+            
+        aff_id = f'aff{aff_num}'
+        
+        parts = [pt.strip() for pt in clean_line.split(',') if pt.strip()]
+        if not parts:
+            continue
+            
+        role = None
+        if re.search(r'(?:Doctor|Bachelor|Master|Licenciad|Maestr|Profesor|Investigador|Enfermer)', parts[0], re.I):
+            role = re.sub(r'^\d+[\.\s\-]*', '', parts[0]).strip()
+            inst_parts = parts[1:]
+        else:
+            inst_parts = parts
+            
+        inst_str = ', '.join(inst_parts)
+        country = inst_parts[-1] if len(inst_parts) > 1 else None
+        city = inst_parts[-2] if len(inst_parts) > 2 else None
+        institution = inst_parts[0] if inst_parts else inst_str
+        
+        aff_dict[aff_id] = Affiliation(
+            id=aff_id,
+            institution=institution,
+            city=city,
+            country=country
+        )
+        
+        for a in authors:
+            if aff_num in a['aff_nums'] and not a['role']:
+                a['role'] = role
+
+    for a in authors:
+        a.pop('aff_nums', None)
+
+    author_objs = [Author(**a) for a in authors]
+    aff_objs = list(aff_dict.values())
+    
+    return author_objs, aff_objs
 
 async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
     api_key = os.getenv("GEMINI_API_KEY")
@@ -307,7 +467,7 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
     import time
     metadata = None
     if client:
-        models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.0-flash-lite']
+        models_to_try = ['gemini-3.5-flash-lite', 'gemini-3.5-flash', 'gemini-2.5-flash']
         for model_name in models_to_try:
             try:
                 response = client.models.generate_content(
@@ -711,9 +871,21 @@ def build_scielo_front(soup: BeautifulSoup, metadata: ArticleMetadata) -> Beauti
         name.append(given)
         contrib.append(name)
         
-        xref = soup.new_tag("xref", **{"ref-type": "aff", "rid": author.affiliation_id})
-        contrib.append(xref)
-        
+        raw_aff_ids = [a.strip() for a in re.split(r'[,;\s]+', author.affiliation_id or "") if a.strip()]
+        if not raw_aff_ids:
+            raw_aff_ids = ["aff1"]
+            
+        for raw_aff in raw_aff_ids:
+            rid = raw_aff if raw_aff.startswith("aff") else f"aff{raw_aff}"
+            num_match = re.search(r'\d+', raw_aff)
+            num_label = num_match.group() if num_match else "1"
+            
+            xref = soup.new_tag("xref", **{"ref-type": "aff", "rid": rid})
+            sup = soup.new_tag("sup")
+            sup.string = num_label
+            xref.append(sup)
+            contrib.append(xref)
+            
         if author.role:
             role = soup.new_tag("role")
             role.string = author.role
@@ -728,8 +900,19 @@ def build_scielo_front(soup: BeautifulSoup, metadata: ArticleMetadata) -> Beauti
             contrib.append(xref_corresp)
             
         contrib_group.append(contrib)
-        
+    used_aff_rids = set()
+    for contrib in contrib_group.find_all('contrib'):
+        for xr in contrib.find_all('xref', {'ref-type': 'aff'}):
+            used_aff_rids.add(xr.get('rid'))
+            
     for aff in metadata.affiliations:
+        if used_aff_rids and aff.id not in used_aff_rids:
+            continue
+            
+        inst_text = (aff.institution or "").strip()
+        if not inst_text or any(inst_text.lower().startswith(p) for p in ['introducción:', 'introduccion:', 'resumen:', 'abstract:', 'metodología:', 'metodologia:', 'conclusiones:']):
+            continue
+
         aff_tag = soup.new_tag("aff", id=aff.id)
         
         match = re.search(r'\d+', aff.id)
@@ -1034,6 +1217,20 @@ def clean_body_duplicate_metadata(soup: BeautifulSoup, metadata: ArticleMetadata
         if not p.get_text(strip=True) and p.find('inline-graphic'):
             p.decompose()
             
+    # Desenvolver bloques disp-quote o párrafos agrupados que comienzan con títulos de sección principales
+    for dq in list(body.find_all('disp-quote')):
+        dq_text = dq.get_text(strip=True)
+        m = re.match(r'^\s*(Introducción|Introduction|Introdução|Metodología|Methodology|Resultados|Results|Discusión|Discussion|Conclusiones|Conclusions)(.*)', dq_text, re.DOTALL | re.IGNORECASE)
+        if m:
+            sec_title = m.group(1).capitalize()
+            rest_text = m.group(2).strip()
+            new_p1 = soup.new_tag('p')
+            new_p1.string = sec_title
+            new_p2 = soup.new_tag('p')
+            new_p2.string = rest_text
+            dq.replace_with(new_p1)
+            new_p1.insert_after(new_p2)
+
     # Limpiamos los nodos al inicio del body que preceden a la primera sección real
     from bs4.element import Tag
     import unicodedata
@@ -1048,20 +1245,43 @@ def clean_body_duplicate_metadata(soup: BeautifulSoup, metadata: ArticleMetadata
         title_elem = child.find('title')
         title_clean = unaccent(title_elem.get_text(strip=True).lower()) if title_elem else ''
         
+        is_abstract_colon = bool(re.match(r'^\s*(?:introduccion|introduction|introducao|resumen|abstract|resumo|palabras clave|keywords|palavras-chave)\s*:', text_clean))
+        
+        is_structured_abstract = (
+            is_abstract_colon
+            or (
+                len(text_clean) < 800
+                and (
+                    text_clean.startswith("resumen")
+                    or text_clean.startswith("abstract")
+                    or text_clean.startswith("resumo")
+                    or "palabras clave" in text_clean[:200]
+                    or "keywords" in text_clean[:200]
+                    or "palavras-chave" in text_clean[:200]
+                    or sum(1 for kw in ["objetivo", "objective", "metodologia", "methodology", "resultados", "results", "conclusiones", "conclusion", "conclusoes"] if kw in text_clean) >= 2
+                )
+            )
+        )
+        
+        starts_with_heading = any(re.match(r'^\s*(?:' + w + r')\b', text_clean) for w in ["introduccion", "introduction", "introducao", "metodologia", "methodology", "material y metodos", "antecedentes", "marco teorico", "marco conceptual", "desarrollo"]) and not is_structured_abstract
+        
         is_foreign = False
         if lang == "es":
-            is_foreign = any(w in title_clean or w in text_clean for w in ["introducao", "abstrato", "resumo", "palavras-chave", "introduction", "abstract", "key words", "keywords"])
+            is_foreign = any(w in title_clean or (w in text_clean[:80] and not starts_with_heading) for w in ["introducao", "abstrato", "resumo", "palavras-chave", "introduction", "abstract", "key words", "keywords"])
         elif lang == "en":
-            is_foreign = any(w in title_clean or w in text_clean for w in ["introducao", "abstrato", "resumo", "palavras-chave", "introduccion", "resumen", "palabras clave"])
+            is_foreign = any(w in title_clean or (w in text_clean[:80] and not starts_with_heading) for w in ["introducao", "abstrato", "resumo", "palavras-chave", "introduccion", "resumen", "palabras clave"])
         elif lang == "pt":
-            is_foreign = any(w in title_clean or w in text_clean for w in ["introduction", "abstract", "key words", "keywords", "introduccion", "resumen", "palabras clave"])
+            is_foreign = any(w in title_clean or (w in text_clean[:80] and not starts_with_heading) for w in ["introduction", "abstract", "key words", "keywords", "introduccion", "resumen", "palabras clave"])
             
-        is_structured_abstract = sum(1 for kw in ["objetivo", "objective", "metodologia", "methodology", "resultados", "results", "conclusiones", "conclusion", "conclusoes"] if kw in text_clean) >= 2
-        
         is_main_body_start = (
-            any(w in title_clean or (w in text_clean[:60] and len(text_clean) < 100) for w in ["introduccion", "introduction", "introducao", "metodologia", "methodology", "material y metodos", "antecedentes", "marco teorico", "marco conceptual", "desarrollo"])
-            or bool(re.match(r'^(?:[i|v|x|l|c|d|m]+\.|\d+(?:\.\d+)*[\.\)])\s+[A-Za-z]', text_clean))
-        ) and not any(w in title_clean or w in text_clean for w in ["sumario", "resumen", "abstract", "resumo", "palabras clave", "keywords", "palavras-chave"]) and not is_structured_abstract
+            (
+                starts_with_heading
+                or any(w in title_clean or (w in text_clean[:60] and len(text_clean) < 100) for w in ["introduccion", "introduction", "introducao", "metodologia", "methodology", "material y metodos", "antecedentes", "marco teorico", "marco conceptual", "desarrollo"])
+                or bool(re.match(r'^(?:[i|v|x|l|c|d|m]+\.|\d+(?:\.\d+)*[\.\)])\s+[A-Za-z]', text_clean))
+            )
+            and not (any(w in title_clean or w in text_clean[:50] for w in ["sumario", "resumen", "abstract", "resumo", "palabras clave", "keywords", "palavras-chave"]) and not starts_with_heading)
+            and not is_structured_abstract
+        )
         
         if is_main_body_start and not is_foreign:
             break
@@ -1106,22 +1326,24 @@ def extract_structured_abstracts_from_body(soup: BeautifulSoup, metadata: Articl
         sec_title_txt = unaccent(p.find('title').get_text(strip=True).lower()) if (isinstance(p, Tag) and p.find('title')) else ""
         
         # Spanish Abstract (Structured or Unstructured)
-        already_has_valid_es = metadata.abstract_es and len(metadata.abstract_es) > 100 and "introduccion" in unaccent(metadata.abstract_es.lower())
-        if not already_has_valid_es and ("introduccion" in txt_clean or "resumen" in txt_clean) and sum(1 for kw in ["objetivo", "metodologia", "resultados", "conclusiones", "conclusion"] if kw in txt_clean) >= 3:
-            clean_txt = re.sub(r'^(?:Resumen|Resumen:)\s*', '', txt, flags=re.IGNORECASE).strip()
-            if len(clean_txt) > 50:
-                metadata.abstract_es = format_abstract_text(clean_txt)
-                safe_decompose_abstract_sec(p)
-                # Update <front>
-                front = soup.find('front')
-                if front:
-                    old_abstract = front.find('abstract')
-                    new_abstract = build_structured_abstract_xml(soup, metadata.abstract_es, tag_name="abstract")
-                    if old_abstract:
-                        old_abstract.replace_with(new_abstract)
-                    elif front.find('article-meta'):
-                        front.find('article-meta').append(new_abstract)
-                continue
+        is_spanish_abstract = ("introduccion" in txt_clean or "resumen" in txt_clean) and sum(1 for kw in ["objetivo", "metodologia", "resultados", "conclusiones", "conclusion"] if kw in txt_clean) >= 3
+        if is_spanish_abstract:
+            already_has_valid_es = metadata.abstract_es and len(metadata.abstract_es) > 100 and "introduccion" in unaccent(metadata.abstract_es.lower())
+            if not already_has_valid_es:
+                clean_txt = re.sub(r'^(?:Resumen|Resumen:)\s*', '', txt, flags=re.IGNORECASE).strip()
+                if len(clean_txt) > 50:
+                    metadata.abstract_es = format_abstract_text(clean_txt)
+                    # Update <front>
+                    front = soup.find('front')
+                    if front:
+                        old_abstract = front.find('abstract')
+                        new_abstract = build_structured_abstract_xml(soup, metadata.abstract_es, tag_name="abstract")
+                        if old_abstract:
+                            old_abstract.replace_with(new_abstract)
+                        elif front.find('article-meta'):
+                            front.find('article-meta').append(new_abstract)
+            safe_decompose_abstract_sec(p)
+            continue
 
         # Continuous Spanish Resumen (Unstructured)
         if sec_title_txt in ["resumen", "resumen:"] or txt_clean.startswith("resumen:"):
@@ -1603,79 +1825,92 @@ def fix_section_title_case(soup: BeautifulSoup):
 def format_figures(soup: BeautifulSoup):
     """
     Recomendación 2: Detección y Conversión de Gráficos/Figuras.
-    Reconoce elementos de gráficos/figuras (Gráfica X, Figura X, Chart X)
+    Reconoce elementos de gráficos/figuras (Gráfica X, Figura X, Chart X, Figure X)
     y genera la estructura <fig id="f1"><label>...</label><caption>...</caption><graphic xlink:href="..."/><attrib>...</attrib></fig>.
     """
-    body = soup.find('body')
-    if not body:
-        return
-        
-    fig_counter = 1
-    
-    # 1. Buscar texto de Gráfica X / Figura X en párrafos o títulos del body
     from bs4.element import Tag
-    for node in list(body.find_all(['p', 'title', 'sec'])):
-        if not isinstance(node, Tag):
-            continue
-        text = node.get_text(strip=True)
-        match = re.search(r'^(Gráfica|Grafica|Figura|Chart|Figure)\s*(\d+)', text, re.IGNORECASE)
-        if match:
-            fig_label = f"{match.group(1).capitalize()} {match.group(2)}"
-            caption_title = re.sub(r'^(Gráfica|Grafica|Figura|Chart|Figure)\s*\d+[\s:\.\-]*', '', text, flags=re.IGNORECASE).strip()
-            
-            fig = soup.new_tag('fig', id=f"f{fig_counter}")
-            lbl_tag = soup.new_tag('label')
-            lbl_tag.string = fig_label
-            fig.append(lbl_tag)
-            
-            if caption_title:
-                cap_tag = soup.new_tag('caption')
-                title_tag = soup.new_tag('title')
-                title_tag.string = caption_title
-                cap_tag.append(title_tag)
-                fig.append(cap_tag)
+    for container in soup.find_all(['body', 'sub-article']):
+        is_sub = container.name == 'sub-article' or (container.parent and container.parent.name == 'sub-article')
+        fig_prefix = "en-f" if is_sub else "f"
+        fig_counter = 1
+        
+        # 1. Buscar párrafos que inician con "Figura X", "Gráfica X", "Figure X", "Chart X"
+        for p in list(container.find_all('p')):
+            if not isinstance(p, Tag) or p.find_parent('fig') or p.find_parent('table-wrap') or p.find_parent('ref-list'):
+                continue
+            text = p.get_text(strip=True)
+            match = re.search(r'^(Gráfica|Grafica|Figura|Chart|Figure)\s*(\d+)[\s:\.\-]*', text, re.IGNORECASE)
+            if match:
+                fig_type = match.group(1).capitalize()
+                fig_num = match.group(2)
+                fig_label = f"{fig_type} {fig_num}"
+                caption_title = re.sub(r'^(Gráfica|Grafica|Figura|Chart|Figure)\s*\d+[\s:\.\-]*', '', text, flags=re.IGNORECASE).strip()
                 
-            graphic = node.find(['graphic', 'inline-graphic']) or (node.parent.find(['graphic', 'inline-graphic']) if (node.parent and hasattr(node.parent, 'find')) else None)
-            graphic_attrs = dict(graphic.attrs) if (graphic and hasattr(graphic, 'attrs')) else {'xlink:href': f"fig{fig_counter}.jpg"}
-            if graphic and hasattr(graphic, 'decompose'):
-                graphic.decompose()
+                fig_id = f"{fig_prefix}{fig_counter}"
+                fig = soup.new_tag('fig', id=fig_id)
+                lbl_tag = soup.new_tag('label')
+                lbl_tag.string = fig_label
+                fig.append(lbl_tag)
                 
-            new_graphic = soup.new_tag('graphic', **graphic_attrs)
+                if caption_title:
+                    cap_tag = soup.new_tag('caption')
+                    title_tag = soup.new_tag('title')
+                    title_tag.string = caption_title
+                    cap_tag.append(title_tag)
+                    fig.append(cap_tag)
+                    
+                # Buscar gráfico dentro del propio párrafo o en hermanos adyacentes
+                graphic = p.find(['graphic', 'inline-graphic'])
+                if not graphic:
+                    sibling = p.find_next_sibling()
+                    if sibling and sibling.name in ['p', 'graphic', 'inline-graphic']:
+                        graphic = sibling.find(['graphic', 'inline-graphic']) if sibling.name == 'p' else sibling
+                    if not graphic:
+                        sibling_prev = p.find_previous_sibling()
+                        if sibling_prev and sibling_prev.name in ['p', 'graphic', 'inline-graphic']:
+                            graphic = sibling_prev.find(['graphic', 'inline-graphic']) if sibling_prev.name == 'p' else sibling_prev
+                            
+                graphic_attrs = dict(graphic.attrs) if (graphic and hasattr(graphic, 'attrs')) else {'xlink:href': f"{fig_id}.jpg"}
+                if graphic and hasattr(graphic, 'decompose'):
+                    graphic.decompose()
+                    
+                new_graphic = soup.new_tag('graphic', **graphic_attrs)
+                fig.append(new_graphic)
+                
+                # Buscar nota / fuente adyacente
+                next_sibling = p.find_next_sibling('p')
+                if next_sibling:
+                    ns_text = next_sibling.get_text(strip=True)
+                    if ns_text.lower().startswith(('nota:', 'fuente:', 'note:', 'source:')):
+                        attrib_tag = soup.new_tag('attrib')
+                        attrib_tag.string = ns_text
+                        fig.append(attrib_tag)
+                        next_sibling.decompose()
+                        
+                p.replace_with(fig)
+                fig_counter += 1
+
+        # 2. Formatear gráficos sueltos restantes que no fueron asociados a una etiqueta "Figura X"
+        for graphic in list(container.find_all(['inline-graphic', 'graphic'])):
+            if graphic.find_parent('fig'):
+                continue
+            fig_id = f"{fig_prefix}{fig_counter}"
+            fig = soup.new_tag('fig', id=fig_id)
+            label = soup.new_tag('label')
+            label.string = f"Figura {fig_counter}"
+            fig.append(label)
+            
+            caption = soup.new_tag('caption')
+            title = soup.new_tag('title')
+            title.string = f"Figura {fig_counter}"
+            caption.append(title)
+            fig.append(caption)
+            
+            new_graphic = soup.new_tag('graphic', **graphic.attrs)
             fig.append(new_graphic)
             
-            next_sibling = node.find_next_sibling('p')
-            if next_sibling:
-                ns_text = next_sibling.get_text(strip=True)
-                if ns_text.lower().startswith(('nota:', 'fuente:', 'note:', 'source:')):
-                    attrib_tag = soup.new_tag('attrib')
-                    attrib_tag.string = ns_text
-                    fig.append(attrib_tag)
-                    next_sibling.decompose()
-                    
-            node.replace_with(fig)
+            graphic.replace_with(fig)
             fig_counter += 1
-
-    # 2. Formatear gráficos sueltos restantes
-    for graphic in body.find_all(['inline-graphic', 'graphic']):
-        if graphic.find_parent('fig'):
-            continue
-            
-        fig = soup.new_tag('fig', id=f"f{fig_counter}")
-        label = soup.new_tag('label')
-        label.string = f"Figura {fig_counter}"
-        fig.append(label)
-        
-        caption = soup.new_tag('caption')
-        title = soup.new_tag('title')
-        title.string = f"Figura {fig_counter}"
-        caption.append(title)
-        fig.append(caption)
-        
-        new_graphic = soup.new_tag('graphic', **graphic.attrs)
-        fig.append(new_graphic)
-        
-        graphic.replace_with(fig)
-        fig_counter += 1
 
 def clean_phantom_sections(soup: BeautifulSoup):
     """Elimina secciones fantasmas o vacías que se crean por saltos de línea con formato de título en Word."""
@@ -1697,6 +1932,8 @@ def clean_phantom_sections(soup: BeautifulSoup):
 
 def auto_link_cross_references(soup: BeautifulSoup):
     """Garantiza la vinculación bidireccional <xref> entre el texto, las referencias y las figuras/tablas."""
+    valid_ref_ids = set(r['id'] for r in soup.find_all('ref') if r.has_attr('id'))
+
     # 1. Transformar citas numéricas de texto <sup>(1)</sup>, <sup>(8,9)</sup>, <sup>(3-7)</sup> en <xref ref-type="bibr">
     for container in soup.find_all(['body', 'sub-article']):
         for sup in list(container.find_all('sup')):
@@ -1717,13 +1954,23 @@ def auto_link_cross_references(soup: BeautifulSoup):
                         range_parts = re.split(r'[\-\–\—]', part)
                         if len(range_parts) == 2 and range_parts[0].isdigit() and range_parts[1].isdigit():
                             start_n, end_n = int(range_parts[0]), int(range_parts[1])
-                            if start_n < 1000 and end_n < 1000 and (end_n - start_n) <= 50:
-                                rids = " ".join([f"B{n}" for n in range(start_n, end_n + 1)])
-                                xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': rids})
-                                sup_elem = soup.new_tag('sup')
-                                sup_elem.string = part
-                                xref.append(sup_elem)
-                                new_nodes.append(xref)
+                            rid_s, rid_e = f"B{start_n}", f"B{end_n}"
+                            if rid_s in valid_ref_ids and rid_e in valid_ref_ids and (end_n - start_n) <= 50:
+                                xref_start = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': rid_s})
+                                sup_start = soup.new_tag('sup')
+                                sup_start.string = str(start_n)
+                                xref_start.append(sup_start)
+                                new_nodes.append(xref_start)
+                                
+                                sup_dash = soup.new_tag('sup')
+                                sup_dash.string = "-"
+                                new_nodes.append(sup_dash)
+                                
+                                xref_end = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': rid_e})
+                                sup_end = soup.new_tag('sup')
+                                sup_end.string = str(end_n)
+                                xref_end.append(sup_end)
+                                new_nodes.append(xref_end)
                             else:
                                 sup_elem = soup.new_tag('sup')
                                 sup_elem.string = part
@@ -1732,12 +1979,19 @@ def auto_link_cross_references(soup: BeautifulSoup):
                             sup_elem = soup.new_tag('sup')
                             sup_elem.string = part
                             new_nodes.append(sup_elem)
-                    elif part.isdigit() and int(part) < 1000:
-                        xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': f"B{part}"})
-                        sup_elem = soup.new_tag('sup')
-                        sup_elem.string = part
-                        xref.append(sup_elem)
-                        new_nodes.append(xref)
+                    elif part.isdigit():
+                        n = int(part)
+                        rid = f"B{n}"
+                        if rid in valid_ref_ids and not part.startswith('00'):
+                            xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': rid})
+                            sup_elem = soup.new_tag('sup')
+                            sup_elem.string = part
+                            xref.append(sup_elem)
+                            new_nodes.append(xref)
+                        else:
+                            sup_elem = soup.new_tag('sup')
+                            sup_elem.string = part
+                            new_nodes.append(sup_elem)
                     else:
                         sup_elem = soup.new_tag('sup')
                         sup_elem.string = part
@@ -1762,6 +2016,8 @@ def auto_link_cross_references(soup: BeautifulSoup):
             for text_node in list(p.find_all(string=True)):
                 if not text_node.parent or text_node.parent.name in ['xref', 'sup', 'title', 'ref', 'mixed-citation', 'element-citation', 'ref-list', 'label', 'caption']:
                     continue
+                if text_node.find_parent(['ref-list', 'ref', 'mixed-citation', 'element-citation', 'back', 'table-wrap', 'fig', 'caption', 'title', 'label']):
+                    continue
                 txt_val = str(text_node)
                 matches = list(re.finditer(r'\(([\d\s\,\-\–\—]+)\)', txt_val))
                 if not matches:
@@ -1775,6 +2031,7 @@ def auto_link_cross_references(soup: BeautifulSoup):
                     raw_nums = match.group(1).strip()
                     parts = [pt.strip() for pt in raw_nums.split(',') if pt.strip()]
                     nodes = [prefix, "("]
+                    has_any_xref = False
                     for idx, part in enumerate(parts):
                         if idx > 0:
                             nodes.append(",")
@@ -1782,7 +2039,8 @@ def auto_link_cross_references(soup: BeautifulSoup):
                             r_parts = re.split(r'[\-\–\—]', part)
                             if len(r_parts) == 2 and r_parts[0].isdigit() and r_parts[1].isdigit():
                                 s_n, e_n = int(r_parts[0]), int(r_parts[1])
-                                if s_n < 1000 and e_n < 1000 and (e_n - s_n) <= 50:
+                                if f"B{s_n}" in valid_ref_ids and f"B{e_n}" in valid_ref_ids and (e_n - s_n) <= 50:
+                                    has_any_xref = True
                                     for n_idx, n in enumerate(range(s_n, e_n + 1)):
                                         if n_idx > 0:
                                             nodes.append("-")
@@ -1793,23 +2051,35 @@ def auto_link_cross_references(soup: BeautifulSoup):
                                     nodes.append(part)
                             else:
                                 nodes.append(part)
-                        elif part.isdigit() and int(part) < 1000:
-                            xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': f"B{part}"})
-                            xref.string = part
-                            nodes.append(xref)
+                        elif part.isdigit() and not part.startswith('00'):
+                            n = int(part)
+                            rid = f"B{n}"
+                            if rid in valid_ref_ids:
+                                has_any_xref = True
+                                xref = soup.new_tag('xref', **{'ref-type': 'bibr', 'rid': rid})
+                                xref.string = part
+                                nodes.append(xref)
+                            else:
+                                nodes.append(part)
                         else:
                             nodes.append(part)
                     nodes.append(")")
-                    new_elements.extend(nodes)
-                    last_idx = end
-                new_elements.append(curr_txt[last_idx:])
-                for elem in reversed(new_elements):
-                    if isinstance(elem, str):
-                        if elem:
-                            text_node.insert_after(elem)
+                    if has_any_xref:
+                        new_elements.extend(nodes)
+                        last_idx = end
                     else:
-                        text_node.insert_after(elem)
-                text_node.extract()
+                        # No valid xrefs in this match, keep original text
+                        pass
+
+                if new_elements:
+                    new_elements.append(curr_txt[last_idx:])
+                    for elem in reversed(new_elements):
+                        if isinstance(elem, str):
+                            if elem:
+                                text_node.insert_after(elem)
+                        else:
+                            text_node.insert_after(elem)
+                    text_node.extract()
 
     # 2. Transformar menciones a Tablas y Figuras en el texto en <xref>
     for container in containers:
@@ -1852,6 +2122,11 @@ def auto_link_cross_references(soup: BeautifulSoup):
         for xr in list(ref_parent.find_all('xref')):
             xr.unwrap()
 
+    # Final Cleanup: unwrap any <xref ref-type="bibr"> whose rid is not present in valid_ref_ids
+    for xr in list(soup.find_all('xref', {'ref-type': 'bibr'})):
+        if xr.get('rid') not in valid_ref_ids:
+            xr.unwrap()
+
 def format_sections(soup: BeautifulSoup):
     """Mapea las secciones canónicas según el estándar SciELO SPS / JATS DTD v1.1."""
     body = soup.find('body')
@@ -1877,6 +2152,32 @@ def format_sections(soup: BeautifulSoup):
         elif "conclusi" in text or "conclus" in text:
             sec['sec-type'] = 'conclusions'
 
+    # Garantizar cumplimiento del DTD de JATS para <body>: (elementos_iniciales*, sec*, sig-block?)
+    # Una vez que aparece la primera etiqueta <sec>, todos los elementos hijos directos siguientes deben ser <sec>
+    for b in soup.find_all('body'):
+        seen_sec = False
+        last_sec = None
+        for child in list(b.children):
+            if getattr(child, 'name', None) == 'sec':
+                seen_sec = True
+                last_sec = child
+            elif seen_sec and getattr(child, 'name', None) not in [None, 'sig-block']:
+                if last_sec:
+                    last_sec.append(child)
+
+    # Limpieza de listas y list-item según DTD (list-item no puede estar vacío y requiere <p> interno)
+    for li in list(soup.find_all('list-item')):
+        if not li.get_text(strip=True):
+            li.decompose()
+        elif not li.find(['p', 'def-list', 'list']):
+            p_tag = soup.new_tag('p')
+            p_tag.extend(list(li.contents))
+            li.append(p_tag)
+
+    for lst in list(soup.find_all('list')):
+        if not lst.find_all('list-item') or not lst.get_text(strip=True):
+            lst.decompose()
+
 def extract_bibliography_paragraphs(soup: BeautifulSoup) -> tuple[list[dict], str]:
     body = soup.find('body')
     default_title = "Referencias"
@@ -1898,6 +2199,8 @@ def extract_bibliography_paragraphs(soup: BeautifulSoup) -> tuple[list[dict], st
                     raw_html = p.decode_contents()
                     raw_text = p.get_text(strip=True)
                     if raw_text and len(raw_text) > 10:
+                        if any(raw_text.lower().startswith(prefix) for prefix in ["cómo citar", "como citar", "how to cite"]):
+                            continue
                         ref_nodes.append({'raw_text': raw_text, 'raw_html': raw_html})
                 sec.decompose()
                 return ref_nodes, section_title
@@ -1929,6 +2232,9 @@ def extract_bibliography_paragraphs(soup: BeautifulSoup) -> tuple[list[dict], st
             raw_html = p.decode_contents()
             raw_text = text
             if raw_text and len(raw_text) > 10:
+                if any(raw_text.lower().startswith(prefix) for prefix in ["cómo citar", "como citar", "how to cite"]):
+                    p.decompose()
+                    continue
                 ref_nodes.append({'raw_text': raw_text, 'raw_html': raw_html})
             p.decompose()
             
@@ -2023,7 +2329,7 @@ async def parse_references_with_gemini(ref_items: List[dict]) -> List[ReferenceI
         """ + combined_text[:60000]
 
         import time
-        models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-2.0-flash-lite']
+        models_to_try = ['gemini-3.5-flash-lite', 'gemini-3.5-flash', 'gemini-3.6-flash', 'gemini-2.5-flash']
         for model_name in models_to_try:
             try:
                 response = client.models.generate_content(
@@ -2130,6 +2436,8 @@ def build_ref_list_xml(soup: BeautifulSoup, references: List[ReferenceItem], raw
                 
             if ref.url:
                 clean_url = ref.url.strip()
+                if not clean_url.startswith(('http://', 'https://', 'ftp://')):
+                    clean_url = f"https://{clean_url}"
                 url_tag = soup.new_tag('ext-link', **{"ext-link-type": "uri", "xlink:href": clean_url})
                 url_tag.string = clean_url
                 elem.append(url_tag)
@@ -2164,6 +2472,27 @@ def build_ref_list_xml(soup: BeautifulSoup, references: List[ReferenceItem], raw
         ref_tag.append(elem)
         ref_list.append(ref_tag)
             
+    # Cleanup mixed-citation tags for DTD validity
+    for mc in ref_list.find_all('mixed-citation'):
+        # 1. Unwrap invalid <comment> tags inside <mixed-citation>
+        for comm in list(mc.find_all('comment')):
+            comm.unwrap()
+            
+        # 2. Unwrap <ext-link> if its text is not a URL/DOI
+        for ext in list(mc.find_all('ext-link')):
+            txt = ext.get_text(strip=True)
+            href = ext.get('xlink:href', '')
+            if not (txt.startswith(('http://', 'https://', 'ftp://', 'www.', 'doi.org', '10.')) or (href and href == txt)):
+                ext.unwrap()
+                
+        # 3. Fix duplicate 'Disponible en: Disponible en:' strings
+        mc_str = "".join(str(c) for c in mc.contents)
+        if "Disponible en: Disponible en:" in mc_str:
+            mc_str = mc_str.replace("Disponible en: Disponible en:", "Disponible en:")
+            new_mc_soup = BeautifulSoup(f"<mixed-citation>{mc_str}</mixed-citation>", 'xml')
+            if new_mc_soup.mixed:
+                mc.replace_with(new_mc_soup.mixed)
+
     return ref_list
 
 def extract_and_clean_eng_front_stub(soup_eng: BeautifulSoup, metadata: ArticleMetadata):
@@ -2371,6 +2700,20 @@ def process_eng_docx_to_subarticle(soup_main: BeautifulSoup, eng_docx_path: str,
                     
                 new_body.append(BeautifulSoup(str(child), 'xml'))
         sub_article.append(new_body)
+        
+    # Renombrar IDs de sub-article (table-wrap, fig, fn, xref no-bibr) para evitar duplicados con el body principal
+    for elem in sub_article.find_all(True):
+        # Excluir referencias bibliográficas (B1, B2, etc.) para mantenerlas universales sin prefijo de idioma
+        if elem.name == 'ref' or (elem.has_attr('id') and re.match(r'^B\d+$', elem['id'], re.IGNORECASE)):
+            continue
+        if elem.name == 'xref' and elem.get('ref-type') == 'bibr':
+            continue
+            
+        if elem.has_attr('id') and not elem['id'].startswith('en-') and elem['id'] != 's1':
+            elem['id'] = f"en-{elem['id']}"
+        if elem.name == 'xref' and elem.has_attr('rid') and not elem['rid'].startswith('en-'):
+            elem['rid'] = f"en-{elem['rid']}"
+
     return sub_article
 
 
@@ -2607,6 +2950,7 @@ async def convert_docx(file: UploadFile = File(...), eng_file: Optional[UploadFi
             
             doctype = '<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">'
             final_xml = f'<?xml version="1.0" encoding="utf-8"?>\n{doctype}\n{final_xml.strip()}'
+            final_xml = format_xml_with_tabs(final_xml)
             
             # Auditoría y Validación Final SciELO SPS con lxml.etree
             validation_report = validate_sps(final_xml)
