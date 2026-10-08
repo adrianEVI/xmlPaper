@@ -3,31 +3,16 @@
 <article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es">
 	<front>
 		<journal-meta>
-			<journal-id journal-id-type="publisher-id">SANUS</journal-id>
-			<journal-title-group>
-				<journal-title>SANUS</journal-title>
-				<abbrev-journal-title abbrev-type="publisher">SANUS</abbrev-journal-title>
-			</journal-title-group>
 			<issn pub-type="epub">2448-6094</issn>
-			<publisher>
-				<publisher-name>Universidad de Sonora</publisher-name>
-			</publisher>
 		</journal-meta>
 		<article-meta>
 			<article-id pub-id-type="doi">10.36789/sanus.vi21.573</article-id>
 			<article-id pub-id-type="other">00573</article-id>
-			<article-categories>
-				<subj-group subj-group-type="heading">
-					<subject>RESEARCH</subject>
-				</subj-group>
-			</article-categories>
 			<title-group>
-				<article-title>Relación de la percepción materna y conductas alimentarias sobre el estado nutricional del escolar</article-title>
-				<trans-title-group xml:lang="pt">
-					<trans-title>Relação entre a percepção materna e os comportamentos alimentares sobre o estado nutricional dos escolares</trans-title>
-				</trans-title-group>
+				<article-title>Relationship between maternal perceptions and eating behaviors in relation to the nutritional status of schoolchildren Relación de la percepción materna y conductas alimentarias sobre el estado nutricional del escolar</article-title>
 				<trans-title-group xml:lang="en">
-					<trans-title>Relationship between maternal perceptions and eating behaviors in relation to the nutritional status of schoolchildren</trans-title>
+					<trans-title>Relationship between maternal perception and eating behaviors
+on the nutritional status of schoolchildren</trans-title>
 				</trans-title-group>
 			</title-group>
 			<contrib-group>
@@ -168,8 +153,8 @@
 				<season>Jan-Dec</season>
 				<year>2025</year>
 			</pub-date>
-			<volume>10</volume>
-			<issue>21</issue>
+			<volume>0</volume>
+			<issue>119</issue>
 			<elocation-id>e573</elocation-id>
 			<history>
 				<date date-type="received">
@@ -261,13 +246,140 @@
 				<title>Palabras clave:</title>
 				<kwd>Percepción materna</kwd>
 				<kwd>Estado nutricional</kwd>
-				<kwd>Conductas alimentarias</kwd>
+				<kwd>Conductas alimentarias (DeCS)</kwd>
 			</kwd-group>
 			<kwd-group xml:lang="pt">
 				<title>Palavras-chave:</title>
 				<kwd>Percepção materna</kwd>
 				<kwd>Estado nutricional</kwd>
-				<kwd>Comportamentos alimentares</kwd>
+				<kwd>Comportamentos alimentares (DeCS). Introducción A nivel mundial se han incrementado los problemas relacionados con   la alimentación teniendo como consecuencias desequilibrios   nutricionales. Las estimaciones indican que más de 900 millones de   personas presentan problemas de desnutrición y 170 millones de   escolares sufren de insuficiencia ponderal (1) . Asi mismo</kwd>
+				<kwd>en México uno de cada tres niños de seis a once años se encuentra en   sobrepeso (SP) y obesidad (OB)</kwd>
+				<kwd>representando un 35 % y un 2 % de   escolares muy delgados (2) . Durante el año 2016</kwd>
+				<kwd>la   prevalencia de SP y OB</kwd>
+				<kwd>en escolares fue de 33.2 %</kwd>
+				<kwd>la transición   nutricional en México ha evidenciado una modificación en los hábitos   de consumo</kwd>
+				<kwd>sustituyéndose los productos saludables por alimentos con   elevada concentración energética</kwd>
+				<kwd>ricos en azúcares y grasas (3) . La amplia accesibilidad de alimentos con elevada   concentración energética</kwd>
+				<kwd>el elevado consumo de bebidas azucaradas y   la escasa actividad física en las escuelas trae como consecuencia   altas estadísticas de SP y OB. Un ejemplo de esto es que se cree que   el 92 % de los infantes entre los 5 y los 11 años consumen   regularmente bebidas azucaradas</kwd>
+				<kwd>mientras que el 50 % incluye en su   dieta botanas</kwd>
+				<kwd>dulces y cereales ultra procesados (3)</kwd>
+				<kwd>como   consecuencia</kwd>
+				<kwd>México es considerado un país mayormente mal nutrido</kwd>
+				<kwd>debido a que actualmente se posiciona como el país con la mayor   prevalencia de OB infantil a nivel global (4) . El llevar   una dieta sana ayuda a prevenir la malnutrición</kwd>
+				<kwd>teniendo una   alimentación variada</kwd>
+				<kwd>proporcionada y saludable que debe estar basada   en las características individuales como la edad</kwd>
+				<kwd>sexo</kwd>
+				<kwd>hábitos de   vida y el nivel de actividad física</kwd>
+				<kwd>junto con el contorno cultural</kwd>
+				<kwd>la disponibilidad de alimentos y los patrones alimentarios locales</kwd>
+				<kwd>influyen de manera significativa en la conducta alimentaria. Este   conjunto de factores cumple una función fundamental en el   entendimiento de la malnutrición debido a que refleja la manera en que   las personas se relacionan con los alimentos</kwd>
+				<kwd>mediada por experiencias   directas con la comida</kwd>
+				<kwd>entorno familiar</kwd>
+				<kwd>estatus social</kwd>
+				<kwd>vínculos   afectivos y tradiciones culturales. Todo ello motiva un creciente   interés por analizar la relación entre la OB y los patrones de   alimentación en los escolares. Los cambios en el contexto   socioeconómico actual han provocado que tanto padres como hijos   adopten patrones alimentarios inadecuados</kwd>
+				<kwd>incrementándose el consumo   de alimentos transformados y comida rápida</kwd>
+				<kwd>lo cual impacta   negativamente en las costumbres alimentarias de los niños y en su   estado nutricional (5) . Además</kwd>
+				<kwd>el mantener poca actividad física y aumento de horas para   ver la televisión y jugar videojuegos</kwd>
+				<kwd>son también factores que   impulsan la obesidad en los escolares (6) . Así mismo</kwd>
+				<kwd>el   estado nutricional es una condición en la que se encuentra el   organismo en relación con la ingesta de nutrientes y éste se mide a   través de los parámetros de nutrientes</kwd>
+				<kwd>por lo tanto</kwd>
+				<kwd>la alimentación   y nutrición son esenciales en cualquier momento de la vida</kwd>
+				<kwd>principalmente en etapas tempranas de crecimiento y desarrollo   fisiológico (7) . La adquisición de hábitos alimentarios está influenciada   principalmente por tres agentes: la familia</kwd>
+				<kwd>los medios de información   masiva y la escuela. La familia representa el primer entorno en el que   los niños entran en contacto con las prácticas alimentarias</kwd>
+				<kwd>ejerciendo una influencia significativa en sus conductas relacionadas   con la alimentación. Los hábitos familiares</kwd>
+				<kwd>a su vez</kwd>
+				<kwd>son producto de   una construcción social y cultural compartida de manera implícita   entre sus miembros (6) . Las creencias y las prácticas de alimentación tienen una gran   importancia en los comportamientos alimentarios influyendo   principalmente en las percepciones incorrectas de las madres sobre el   estado nutricional de los escolares y como consecuencia en la conducta   alimentaria del escolar y en la construcción de su autoimagen (8</kwd>
+				<kwd>9) . Existen estudios que han explorado la anomalía   perceptiva de la madre sobre el estado nutricional (peso/talla) de los   hijos</kwd>
+				<kwd>en donde se demuestra que una percepción materna inadecuada en   los escolares puede considerarse un factor de riesgo para el   desarrollo y mantenimiento de SP y OB</kwd>
+				<kwd>puesto que el 98 % de las   madres no reconoce el estado nutricional real de los hijos (10) . Investigadores han señalado el papel fundamental de la percepción   materna (11)</kwd>
+				<kwd>debido a que históricamente se profesa como   estereotipo ser un niño gordo es representación de estar sano</kwd>
+				<kwd>al   contrario</kwd>
+				<kwd>un niño enfermo se le relaciona con un niño delgado (12) . En Chile las madres de escolares en estado de   malnutrición por exceso los percibieron más delgados en un 60 % de   ellos (10)</kwd>
+				<kwd>así mismo la percepción inferior del peso de   los hijos de madres en el estado de Nuevo León se presentó en la   mayoría de las madres con hijos con sobrepeso-obesidad (11) . Como personal de enfermería</kwd>
+				<kwd>estamos involucrados en   esta problemática debido a un notable incremento en la prevalencia de   sobrepeso y obesidad infantil</kwd>
+				<kwd>condiciones que podrían prevenirse y   modificarse desde edades tempranas mediante visitas a los   departamentos de salud infantil y brindar una educación fundamentada   en los determinantes relacionados con este problema de salud. Resulta   fundamental desarrollar estrategias orientadas a reducir su incidencia   y promover un estado nutricional óptimo en la población escolar</kwd>
+				<kwd>así   como implementar programas que fomenten hábitos alimentarios   saludables</kwd>
+				<kwd>contribuyendo de esta manera a la formación de estilos de   vida saludables en este grupo (13</kwd>
+				<kwd>14) . En función a lo   expuesto previamente y tras un análisis exhaustivo de la literatura   disponible</kwd>
+				<kwd>resulta pertinente profundizar en el estudio de estos   fenómenos</kwd>
+				<kwd>es por ello por lo que se planteó como pregunta de   investigación ¿Cuál es la percepción que tienen las madres sobre el   estado nutricional y las conductas alimentarias de sus hijos?</kwd>
+				<kwd>con el   objetivo de conocer la relación entre la percepción materna y las   conductas alimentarias sobre el estado nutricional del escolar. Metodología Estudio tipo descriptivo correlacional</kwd>
+				<kwd>la población estuvo formada   por 788 diadas de madre-escolar de una institución pública ubicada en   la Ciudad de Matamoros</kwd>
+				<kwd>Tamaulipas</kwd>
+				<kwd>todos ellos en etapa escolar de   primero a sexto año (6 a 12 años) de ambos turnos. La muestra se   calculó utilizando una fórmula de población finita con los siguientes   parámetros: Un margen de error del 5 % (0.05)</kwd>
+				<kwd>nivel de confianza del   95 % (1.96)</kwd>
+				<kwd>y una desviación estándar del 0.5</kwd>
+				<kwd>permitiendo obtener   una muestra de 223 diadas (madre-hijo)</kwd>
+				<kwd>obtenida por muestreo   probabilístico del tipo aleatorio estratificado</kwd>
+				<kwd>en donde cada uno de   los estratos fueron cada grado escolar con el fin de representar la   situación en cada una de las edades de acuerdo con el grado   escolar. Los criterios de inclusión incluyeron</kwd>
+				<kwd>ser alumnos matriculados en   el periodo agosto 2023-julio 2024</kwd>
+				<kwd>ambos géneros y que la diada   aceptará participar</kwd>
+				<kwd>se excluyeron escolares que no cumplieran con la   edad de 6 a 12 años</kwd>
+				<kwd>que contaran con alguna discapacidad que limitara   su movimiento</kwd>
+				<kwd>que la madre no fuese el cuidador principal del   escolar</kwd>
+				<kwd>madres analfabetas</kwd>
+				<kwd>y aquellos escolares en donde la madre o   el escolar no aceptaron participar en el estudio y por último se   eliminaron aquellos en donde no se contestó en su totalidad la   encuesta aplicada o no fue firmado el asentimiento y consentimiento   informado. Para la recopilación de datos e información se utilizó una cédula   que incluía a) datos de la madre: edad</kwd>
+				<kwd>escolaridad</kwd>
+				<kwd>peso y altura   aproximados ¿usted trabaja? Indique cuantas horas</kwd>
+				<kwd>b) datos del   escolar: edad</kwd>
+				<kwd>sexo</kwd>
+				<kwd>grado y grupo. Posteriormente se aplicó el   Cuestionario de Apariencia Física y Salud que consta de 19 ítems   divididas en cuatro secciones</kwd>
+				<kwd>para fines de esta investigación se   consideró solamente uno de los ítems de la sección uno: “percepción   por palabras” donde la madre podía seleccionar entre muy bajo de peso</kwd>
+				<kwd>bajo de peso</kwd>
+				<kwd>peso correcto</kwd>
+				<kwd>con sobrepeso o bastante peso</kwd>
+				<kwd>para   conocer la percepción de la madre sobre el peso de su hijo</kwd>
+				<kwd>y una   sección que incluyó un pictograma con siete imágenes corporales   dividida en cuatro secciones</kwd>
+				<kwd>de acuerdo con los rangos de edad y sexo   de los escolares</kwd>
+				<kwd>donde la madre podía seleccionar la imagen que más   se acercará con la imagen corporal de su hijo (15) . En   cuanto a la percepción por imágenes</kwd>
+				<kwd>para realizar la medición se   consideró un resultado positivo cuando las madres de niños con bajo   peso y peso normal según el índice de masa corporal (IMC)</kwd>
+				<kwd>seleccionaron una imagen que representaba un tamaño inferior o   superior al promedio. En contraste</kwd>
+				<kwd>los resultados negativos se   categorizaron en subestimación y sobreestimación de la percepción</kwd>
+				<kwd>este cuestionario esta validado para la población mexicana en el año   2009 con una sensibilidad de 9 % y especificidad</kwd>
+				<kwd>de 21 % para la   prueba percepción por palabras</kwd>
+				<kwd>y una sensibilidad de 76 % y   especificidad de 15 % para la prueba percepción por imágenes (16) . El Children´s Eating Behaviour Questionnaire (CEBQ) (17) adaptado para la población mexicana permite obtener información sobre   conductas alimentarias</kwd>
+				<kwd>consta de 34 reactivos y seis escalas:   Voracidad e ingesta emocional 11 ítems)</kwd>
+				<kwd>disfrute de la comida (5   ítems)</kwd>
+				<kwd>deseo de beber (3 ítems)</kwd>
+				<kwd>apetito moderado (8 ítems)</kwd>
+				<kwd>ayuno   emocional (4 ítems) y melindrosidad (3 ítems)</kwd>
+				<kwd>cuenta con una   confiabilidad alfa de Cronbach de 0.882 (18)</kwd>
+				<kwd>mientras que   en esta investigación fue de 0.822. Por último</kwd>
+				<kwd>para determinar el   peso se utilizó una báscula marca SECA modelo 813 con capacidad para   150 kilogramos</kwd>
+				<kwd>precisión de 0.1 kg.</kwd>
+				<kwd>los resultados para determinar   el IMC se basaron en la tabla de la cartilla nacional de salud</kwd>
+				<kwd>para   niños de cero a nueve años y de 10 a 19 años</kwd>
+				<kwd>la talla se midió con un   estadiómetro marca SECA 213</kwd>
+				<kwd>que cuenta con escala métrica. El estudio obtuvo la aprobación de un comité de investigación y   ética de la Unidad Académica Multidisciplinaria Matamoros con dictamen   número 119</kwd>
+				<kwd>posteriormente se solicitó la autorización de la dirección   de la institución educativa para llevar a cabo la recolección de   datos. El estudio se realizó conforme a lo establecido en el   Reglamento de la Ley General de Salud</kwd>
+				<kwd>específicamente en la sección   referente a la investigación en seres humanos (19)</kwd>
+				<kwd>en   donde se señala que toda investigación en salud debe considerar   aspectos éticos que garanticen la dignidad</kwd>
+				<kwd>consentimiento</kwd>
+				<kwd>confidencialidad</kwd>
+				<kwd>anonimato y el asentimiento informado. Para el análisis de los datos fue utilizado el paquete estadístico   SPSS (Statistical Package for Social Science) versión 24 para Windows.   Se utilizó estadística descriptiva a través de frecuencias y   porcentajes</kwd>
+				<kwd>así como la prueba no paramétrica de correlación de   Spearman para determinar la relación entre las variables. Resultados El IMC de la madre y del hijo</kwd>
+				<kwd>fueron del 26 % y el 34.5 % los   cuales se encontraban con peso normal respectivamente</kwd>
+				<kwd>(Tabla 1). Tabla 1. Estado nutricional de la madre y el escolar</kwd>
+				<kwd>2024   (n=223) Variable f % IMC-Madre Bajo peso 1 .4 Peso normal 58 26.0 Sobrepeso 103 46.2 Obesidad I 42 18.8 Obesidad II 14 6.3 Obesidad III 5 2.2 IMC-Escolar Bajo peso 59 26.5 Peso normal 77 34.5 Sobrepeso 42 18.8 Obesidad 45 20.2 Fuente: Elaboración propia En la tabla 2</kwd>
+				<kwd>se puede observar que sólo el 47 % de las madres   percibieron correctamente el estado nutricional del escolar</kwd>
+				<kwd>haciéndose mayor énfasis en que el escolar con normo peso su madre lo   percibió con bajo peso o con SP</kwd>
+				<kwd>y el escolar con SP u OB</kwd>
+				<kwd>fue   percibido normopeso o con bajo peso. Tabla 2. Elección de imágenes corporales e índice de masa corporal</kwd>
+				<kwd>2024 (n=223) Elección de imágenes Sobrepeso u obesidad Peso normal Bajo peso IMC f % f % f % Bajo peso 1 0.4 2 0.8 8 3.6 Normo peso 5 2.2 59 26.4 62 27.8 Sobrepeso 11 4. 23 10.3 7 3.1 Obesidad 27 12.1 16 7.1 2 0.8 Fuente: Elaboración propia Para dar respuesta al objetivo general se ejecutó la prueba no   paramétrica de Kruskal- Wallis para conocer si existía alguna   diferencia significativa entre el IMC del escolar y la elección de   imágenes corporales que realizó la madre</kwd>
+				<kwd>obteniendo un resultado de   .000 estableciendo una diferencia estadística significativa entre la   percepción materna sobre el peso del escolar</kwd>
+				<kwd>y el estado nutricional   real del mismo</kwd>
+				<kwd>(Tabla 3). Tabla 3. Diferencia entre IMC e imágenes</kwd>
+				<kwd>2024 Prueba de Kruskal-Wallis X² gL p 92.958 2 .000 Fuente: Elaboración propia. Nota: X² =Chi cuadrada</kwd>
+				<kwd>gL grados de   libertad</kwd>
+				<kwd>p =significancia Por último</kwd>
+				<kwd>para conocer si existía relación entre las conductas   alimentarias y el estado nutricional del escolar</kwd>
+				<kwd>se realizó la prueba   no paramétrica de Spearman</kwd>
+				<kwd>obteniendo valores arriba de 0.01 lo cual   se interpreta como que no existió relación estadística entre ambas   variables</kwd>
+				<kwd>por lo tanto</kwd>
+				<kwd>sea cual sea su clasificación</kwd>
+				<kwd>uno no tiene   impacto en el otro</kwd>
+				<kwd>(Tabla 4). Tabla 4. Prueba no paramétrica de Spearman</kwd>
+				<kwd>2024 Variable Pro-ingesta Anti-ingesta IMC p Sig. p Sig. p Sig. Pro-ingesta</kwd>
 			</kwd-group>
 			<kwd-group xml:lang="en">
 				<title>Keywords:</title>
@@ -275,11 +387,6 @@
 				<kwd>Nutritional status</kwd>
 				<kwd>Eating behaviors (DeCS)</kwd>
 			</kwd-group>
-			<funding-group>
-				<award-group>
-					<funding-source>Consejo Nacional de Humanidades, Ciencias y Tecnologías</funding-source>
-				</award-group>
-			</funding-group>
 			<counts>
 				<fig-count count="0" />
 				<table-count count="8" />
@@ -887,14 +994,15 @@
       Disponible en:
       <ext-link ext-link-type="uri" xlink:href="https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight">https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight</ext-link>
 				</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Organización Mundial de la Salud (OMS)</surname>
+							<surname>Organización</surname>
+							<given-names>Mundial de la Salud (OMS)</given-names>
 						</name>
 					</person-group>
-					<article-title>Obesidad y sobrepeso. Nota informativa</article-title>
-					<publisher-name>OMS</publisher-name>
+					<article-title>Obesidad y sobrepeso</article-title>
+					<source>Nota informativa [Internet]</source>
 					<year>2025</year>
 					<ext-link ext-link-type="uri" xlink:href="https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight">https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight</ext-link>
 				</element-citation>
@@ -905,13 +1013,17 @@
       entre los niños y niñas en edad escolar y adolescentes (Siglas).
       [Internet]. 2025 [citado 30 sept 2025]. Disponible en:
       https://goo.su/ofiWD</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Fondo de las Naciones Unidas para la infancia (UNICEF)</surname>
+							<surname>Fondo</surname>
+							<given-names>de las Naciones Unidas para la infancia (UNICEF)</given-names>
 						</name>
 					</person-group>
-					<article-title>El índice mundial de obesidad supera por primera vez al de bajo peso entre los niños y niñas en edad escolar y adolescentes (Siglas)</article-title>
+					<article-title>El
+      índice mundial de obesidad supera por primera vez al de bajo peso
+      entre los niños y niñas en edad escolar y adolescentes (Siglas)</article-title>
+					<source>[Internet]</source>
 					<year>2025</year>
 					<ext-link ext-link-type="uri" xlink:href="https://goo.su/ofiWD">https://goo.su/ofiWD</ext-link>
 				</element-citation>
@@ -921,15 +1033,17 @@
       [Internet]. Hablemos de salud2021 [citado 21 mar 2025]. Disponible
       en:
       https://www.gob.mx/promosalud/articulos/obesidad-infantil-nuestra-nueva-pandemia?idiom=es</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Gobierno de México</surname>
+							<surname>Gobierno</surname>
+							<given-names>de México</given-names>
 						</name>
 					</person-group>
-					<article-title>Obesidad infantil: nuestra nueva pandemia</article-title>
-					<source>Hablemos de salud</source>
-					<year>2021</year>
+					<article-title>Obesidad infantil: nuestra nueva pandemia
+      [Internet]</article-title>
+					<source>Hablemos de salud2021 [citado 21 mar 2025]</source>
+					<year>2025</year>
 					<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/promosalud/articulos/obesidad-infantil-nuestra-nueva-pandemia?idiom=es">https://www.gob.mx/promosalud/articulos/obesidad-infantil-nuestra-nueva-pandemia?idiom=es</ext-link>
 				</element-citation>
 			</ref>
@@ -938,15 +1052,17 @@
       de Salud y Nutrición 2018: Presentación de resultados [Internet].
       México; 2019 [citado 21 mar 2025]. Disponible en:
       https://ensanut.insp.mx/encuestas/ensanut2018/doctos/informes/ensanut_2018_presentacion_resultados.pdf</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Instituto Nacional de Salud Pública (INEGI)</surname>
+							<surname>Instituto</surname>
+							<given-names>Nacional de Salud Pública (INEGI)</given-names>
 						</name>
 					</person-group>
-					<article-title>Encuesta Nacional de Salud y Nutrición 2018: Presentación de resultados</article-title>
-					<publisher-name>México</publisher-name>
-					<year>2019</year>
+					<article-title>Encuesta Nacional
+      de Salud y Nutrición 2018: Presentación de resultados [Internet]</article-title>
+					<source>México; 2019 [citado 21 mar 2025]</source>
+					<year>2018</year>
 					<ext-link ext-link-type="uri" xlink:href="https://ensanut.insp.mx/encuestas/ensanut2018/doctos/informes/ensanut_2018_presentacion_resultados.pdf">https://ensanut.insp.mx/encuestas/ensanut2018/doctos/informes/ensanut_2018_presentacion_resultados.pdf</ext-link>
 				</element-citation>
 			</ref>
@@ -980,8 +1096,10 @@
 							<given-names>CK</given-names>
 						</name>
 					</person-group>
-					<article-title>Comparación de la conducta alimentaria en niños de diferentes establecimientos educacionales y estado nutricional</article-title>
-					<source>Revista chilena de nutrición</source>
+					<article-title>Comparación de la conducta alimentaria en niños de diferentes
+      establecimientos educacionales y estado nutricional</article-title>
+					<source>Revista
+      chilena de nutrición [Internet]</source>
 					<year>2019</year>
 					<volume>46</volume>
 					<issue>3</issue>
@@ -1020,8 +1138,10 @@
 							<given-names>ME</given-names>
 						</name>
 					</person-group>
-					<article-title>Hábitos alimentarios y actividad física en población escolar con normopeso, sobrepeso, obesidad y resistencia a la insulina</article-title>
-					<source>Journal of Behavior and Feeding</source>
+					<article-title>Hábitos
+      alimentarios y actividad física en población escolar con
+      normopeso, sobrepeso, obesidad y resistencia a la insulina</article-title>
+					<source>Journal of Behavior and Feeding [Internet]</source>
 					<year>2022</year>
 					<volume>2</volume>
 					<issue>2</issue>
@@ -1048,8 +1168,11 @@
 							<given-names>JE</given-names>
 						</name>
 					</person-group>
-					<article-title>Estado nutricional antropométrico, nivel socioeconómico y rendimiento académico en niños escolares de 6 a 12 años</article-title>
-					<source>Revista Nutrición Clínica y Dietética Hospitalaria</source>
+					<article-title>Estado nutricional antropométrico,
+      nivel socioeconómico y rendimiento académico en niños escolares de
+      6 a 12 años</article-title>
+					<source>Revista Nutrición Clínica y Dietética Hospitalaria
+      [Internet]</source>
 					<year>2020</year>
 					<volume>40</volume>
 					<issue>1</issue>
@@ -1091,8 +1214,9 @@
 							<given-names>T</given-names>
 						</name>
 					</person-group>
-					<article-title>Eating behaviors in relation to child weight status and maternal education</article-title>
-					<source>Children</source>
+					<article-title>Eating behaviors in relation to child weight status and
+      maternal education</article-title>
+					<source>Children [Internet]</source>
 					<year>2021</year>
 					<volume>8</volume>
 					<issue>32</issue>
@@ -1128,16 +1252,22 @@
 							<given-names>SC</given-names>
 						</name>
 						<name>
-							<surname>De Meneses</surname>
-							<given-names>GG</given-names>
+							<surname>De</surname>
+							<given-names>Meneses GG</given-names>
 						</name>
 						<name>
 							<surname>Cavalcante</surname>
 							<given-names>TG</given-names>
 						</name>
+						<name>
+							<surname>et</surname>
+							<given-names>al</given-names>
+						</name>
 					</person-group>
-					<article-title>Percepção materna do estado nutricional do filho: Um caminho para o diagnóstico precoce da obesidade infantil</article-title>
-					<source>RBONE</source>
+					<article-title>Percepção materna do estado nutricional do
+      filho: Um caminho para o diagnóstico precoce da obesidade
+      infantil</article-title>
+					<source>RBONE [Internet]</source>
 					<year>2022</year>
 					<volume>15</volume>
 					<issue>95</issue>
@@ -1177,8 +1307,11 @@
 							<given-names>MV</given-names>
 						</name>
 					</person-group>
-					<article-title>Alteración de la percepción materna sobre el estado nutricional de sus hijos ¿nuevo factor de riesgo cardiovascular?</article-title>
-					<source>Rev Chil Cardiol</source>
+					<article-title>Alteración
+      de la percepción materna sobre el estado nutricional de sus hijos
+      ¿nuevo factor de riesgo cardiovascular? Rev Chil Cardiol
+      [Internet]</article-title>
+					<source>2020 [citado 21 mar 2025];39(3):216-222</source>
 					<year>2020</year>
 					<volume>39</volume>
 					<issue>3</issue>
@@ -1206,8 +1339,9 @@
 							<given-names>H</given-names>
 						</name>
 					</person-group>
-					<article-title>Percepción materna del peso del hijo, problemas del estilo de vida y autoeficacia para manejarlos</article-title>
-					<source>Aquichan</source>
+					<article-title>Percepción materna del peso del
+      hijo, problemas del estilo de vida y autoeficacia para manejarlos</article-title>
+					<source>Aquichan [Internet]</source>
 					<year>2021</year>
 					<volume>21</volume>
 					<issue>2</issue>
@@ -1250,9 +1384,15 @@
 							<surname>Montgomery</surname>
 							<given-names>S</given-names>
 						</name>
+						<name>
+							<surname>et</surname>
+							<given-names>al</given-names>
+						</name>
 					</person-group>
-					<article-title>Maternal perception of child weight and concern about child overweight mediates the relationship between child weight and feeding practices</article-title>
-					<source>Public Health Nutr</source>
+					<article-title>Maternal perception of child weight and concern about child
+      overweight mediates the relationship between child weight and
+      feeding practices</article-title>
+					<source>Public Health Nutr [Internet]</source>
 					<year>2022</year>
 					<volume>25</volume>
 					<issue>7</issue>
@@ -1283,8 +1423,9 @@
 							<given-names>M</given-names>
 						</name>
 					</person-group>
-					<article-title>Sobrepeso y obesidad: una mirada desde la educación para la salud, en un sistema de bienestar universitario</article-title>
-					<source>Rev. Salud Pública</source>
+					<article-title>Sobrepeso y obesidad: una mirada desde la educación para la salud,
+      en un sistema de bienestar universitario</article-title>
+					<source>Rev</source>
 					<year>2024</year>
 					<volume>26</volume>
 					<issue>6</issue>
@@ -1311,16 +1452,18 @@
 							<given-names>HM</given-names>
 						</name>
 						<name>
-							<surname>De Armas</surname>
-							<given-names>DL</given-names>
+							<surname>De</surname>
+							<given-names>Armas DL</given-names>
 						</name>
 						<name>
 							<surname>Brito</surname>
 							<given-names>RY</given-names>
 						</name>
 					</person-group>
-					<article-title>Estado nutricional y hábitos alimenticios en niños de un colegio público de Valledupar</article-title>
-					<source>Rev. Méd Risaralda</source>
+					<article-title>Estado
+      nutricional y hábitos alimenticios en niños de un colegio público
+      de Valledupar</article-title>
+					<source>Rev</source>
 					<year>2016</year>
 					<volume>22</volume>
 					<issue>1</issue>
@@ -1364,7 +1507,7 @@
 						</name>
 					</person-group>
 					<article-title>Parents’ perceptions of their child’s weight and health</article-title>
-					<source>American Academy of Pediatrics</source>
+					<source>American Academy of Pediatrics [Internet]</source>
 					<year>2006</year>
 					<volume>117</volume>
 					<issue>3</issue>
@@ -1400,8 +1543,9 @@
 							<given-names>R</given-names>
 						</name>
 					</person-group>
-					<article-title>Validez de dos pruebas para evaluar la percepción materna del peso del hijo</article-title>
-					<source>Salud Pública México</source>
+					<article-title>Validez de dos pruebas para evaluar la percepción
+      materna del peso del hijo</article-title>
+					<source>Salud Pública México [Internet]</source>
 					<year>2009</year>
 					<volume>51</volume>
 					<issue>6</issue>
@@ -1435,8 +1579,10 @@
 							<given-names>L</given-names>
 						</name>
 					</person-group>
-					<article-title>Development of the children’s eating behaviour questionnaire</article-title>
-					<source>Journal of Child Psychology Psychiatry</source>
+					<article-title>Development of
+      the children’s eating behaviour questionnaire</article-title>
+					<source>Journal of Child
+      Psychology Psychiatry [Internet]</source>
 					<year>2001</year>
 					<volume>42</volume>
 					<issue>7</issue>
@@ -1471,8 +1617,10 @@
 							<given-names>A</given-names>
 						</name>
 					</person-group>
-					<article-title>Traducción y validación del children´s eating behavior questionnaire (CEBQ)</article-title>
-					<source>Ciencia y humanismo en la salud</source>
+					<article-title>Traducción y validación del children´s eating
+      behavior questionnaire (CEBQ)</article-title>
+					<source>Ciencia y humanismo en la salud
+      [Internet]</source>
 					<year>2020</year>
 					<volume>7</volume>
 					<issue>1</issue>
@@ -1489,15 +1637,18 @@
       dic 2024]. Disponible en:
       <ext-link ext-link-type="uri" xlink:href="http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm">http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm</ext-link>
 				</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Diario Oficial de la Federación</surname>
+							<surname>Diario</surname>
+							<given-names>Oficial de la Federación</given-names>
 						</name>
 					</person-group>
-					<article-title>Proyecto de norma oficial mexicana PROY-NOM-012-SSA3-2007, Que establece los criterios para la ejecución de proyectos de investigación para la salud en seres humano</article-title>
-					<source>Secretaria de Salud</source>
-					<publisher-name>México</publisher-name>
+					<article-title>Proyecto de norma oficial
+      mexicana PROY-NOM-012-SSA3-2007, Que establece los criterios para
+      la ejecución de proyectos de investigación para la salud en seres
+      humano</article-title>
+					<source>Secretaria de Salud [Internet]</source>
 					<year>2007</year>
 					<ext-link ext-link-type="uri" xlink:href="http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm">http://www.dof.gob.mx/normasOficiales/3880/salud/salud.htm</ext-link>
 				</element-citation>
@@ -1509,16 +1660,16 @@
       Disponible en:
       <ext-link ext-link-type="uri" xlink:href="https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023">https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023</ext-link>
 				</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Secretaría de Salud</surname>
+							<surname>Secretaría</surname>
+							<given-names>de Salud</given-names>
 						</name>
 					</person-group>
-					<article-title>Encuesta Nacional de Salud y Nutrición. Resultados de la ENSANUT 2020-2023</article-title>
-					<source>Instituto Nacional de Salud Pública</source>
-					<publisher-name>Gobierno de México</publisher-name>
-					<year>2024</year>
+					<article-title>Encuesta Nacional de Salud y Nutrición</article-title>
+					<source>Resultados de la ENSANUT 2020-2023</source>
+					<year>2020</year>
 					<ext-link ext-link-type="uri" xlink:href="https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023">https://www.insp.mx/avisos/presentan-resultados-de-la-ensanut-2020-2023</ext-link>
 				</element-citation>
 			</ref>
@@ -1529,14 +1680,15 @@
       México; 2023. [citado 23 mar 2025]. Disponible en:
       <ext-link ext-link-type="uri" xlink:href="https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php">https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php</ext-link>
 				</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Centro de Investigación en Evaluación y Encuestas (CIEE)</surname>
+							<surname>Centro</surname>
+							<given-names>de Investigación en Evaluación y Encuestas (CIEE)</given-names>
 						</name>
 					</person-group>
-					<article-title>Encuesta Nacional de Salud y Nutrición. Encuestas</article-title>
-					<publisher-name>México</publisher-name>
+					<article-title>Encuesta Nacional de Salud y Nutrición</article-title>
+					<source>Encuestas [Internet]</source>
 					<year>2023</year>
 					<ext-link ext-link-type="uri" xlink:href="https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php">https://ensanut.insp.mx/encuestas/ensanutcontinua2023/index.php</ext-link>
 				</element-citation>
@@ -1575,9 +1727,15 @@
 							<surname>Montgomery</surname>
 							<given-names>S</given-names>
 						</name>
+						<name>
+							<surname>et</surname>
+							<given-names>al</given-names>
+						</name>
 					</person-group>
-					<article-title>Maternal perception of child weight and concern about child overweight mediates the relationship between child weight and feeding practices</article-title>
-					<source>Public Health Nutrition</source>
+					<article-title>Maternal perception of child weight and concern about child
+      overweight mediates the relationship between child weight and
+      feeding practices</article-title>
+					<source>Public Health Nutrition [Internet]</source>
 					<year>2022</year>
 					<volume>25</volume>
 					<issue>7</issue>
@@ -1621,8 +1779,10 @@
 							<given-names>SA</given-names>
 						</name>
 					</person-group>
-					<article-title>Sobrepeso, obesidad y conductas alimentarias en escolares de primaria, municipio Cruces, Cienfuegos</article-title>
-					<source>Revista Cubana Salud Pública</source>
+					<article-title>Sobrepeso, obesidad y conductas alimentarias en
+      escolares de primaria, municipio Cruces, Cienfuegos</article-title>
+					<source>Revista
+      Cubana Salud Pública [Internet]</source>
 					<year>2021</year>
 					<volume>47</volume>
 					<issue>1</issue>
@@ -1665,8 +1825,9 @@
 							<given-names>VL</given-names>
 						</name>
 					</person-group>
-					<article-title>Preferencias y conductas alimentarias en adolescentes de secundaria básica</article-title>
-					<source>Revista Cubana Pediatría</source>
+					<article-title>Preferencias y conductas alimentarias en adolescentes
+      de secundaria básica</article-title>
+					<source>Revista Cubana Pediatría [Internet]</source>
 					<year>2021</year>
 					<volume>93</volume>
 					<issue>2</issue>
@@ -1697,8 +1858,11 @@
 							<given-names>LM</given-names>
 						</name>
 					</person-group>
-					<article-title>Assessment of actual weight, perceived weight and desired weight of Romanian school children-opinions and practices of children and their parents</article-title>
-					<source>Int J Environ Res Public Health</source>
+					<article-title>Assessment of actual
+      weight, perceived weight and desired weight of Romanian school
+      children-opinions and practices of children and their parents</article-title>
+					<source>Int
+      J Environ Res Public Health [Internet]</source>
 					<year>2022</year>
 					<volume>19</volume>
 					<issue>6</issue>
@@ -1715,15 +1879,17 @@
       Gonzaga [Internet]. 2023 [citado 30 sep 2025]. Disponible en:
       <ext-link ext-link-type="uri" xlink:href="https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15?utm_source=chatgpt.com">https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15</ext-link>
 				</mixed-citation>
-				<element-citation publication-type="thesis">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
 							<surname>Muñante</surname>
 							<given-names>RE</given-names>
 						</name>
 					</person-group>
-					<article-title>Percepción del estado nutricional de los hijos y su relación con el sobrepeso y obesidad infantil en dos colegios de Ica</article-title>
-					<publisher-name>Universidad Nacional San Luis Gonzaga</publisher-name>
+					<article-title>Percepción del estado nutricional de los hijos y su
+      relación con el sobrepeso y obesidad infantil en dos colegios de
+      Ica</article-title>
+					<source>[Tesis Licenciatura]</source>
 					<year>2023</year>
 					<ext-link ext-link-type="uri" xlink:href="https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15">https://repositorio.unica.edu.pe/items/8551cbd7-5db1-4c7e-b216-286855399a15</ext-link>
 				</element-citation>
@@ -1758,8 +1924,11 @@
 							<given-names>J</given-names>
 						</name>
 					</person-group>
-					<article-title>Conductas alimentarias de riesgo, percepción de prácticas parentales y conducta asertiva en estudiantes de preparatoria</article-title>
-					<source>Interacciones Revista de avances en psicología</source>
+					<article-title>Conductas alimentarias de
+      riesgo, percepción de prácticas parentales y conducta asertiva en
+      estudiantes de preparatoria</article-title>
+					<source>Interacciones Revista de avances en
+      psicología [Internet]</source>
 					<year>2020</year>
 					<volume>6</volume>
 					<issue>3</issue>
@@ -1795,8 +1964,10 @@
 							<given-names>LA</given-names>
 						</name>
 					</person-group>
-					<article-title>Factores determinantes del comportamiento alimentario y su impacto sobre la ingesta y la obesidad en niños</article-title>
-					<source>JBF</source>
+					<article-title>Factores
+      determinantes del comportamiento alimentario y su impacto sobre la
+      ingesta y la obesidad en niños</article-title>
+					<source>JBF [Internet]</source>
 					<year>2021</year>
 					<volume>1</volume>
 					<issue>1</issue>
@@ -1812,11 +1983,12 @@
 		<front-stub>
 			<article-categories>
 				<subj-group subj-group-type="heading">
-					<subject>RESEARCH</subject>
+					<subject>Original Article</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Relationship between maternal perceptions and eating behaviors in relation to the nutritional status of schoolchildren</article-title>
+				<article-title>Relationship between maternal perception and eating behaviors
+on the nutritional status of schoolchildren</article-title>
 			</title-group>
 			<abstract xml:lang="en">
 				<title>Abstract</title>

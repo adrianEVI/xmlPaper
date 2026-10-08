@@ -3,31 +3,16 @@
 <article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es">
 	<front>
 		<journal-meta>
-			<journal-id journal-id-type="publisher-id">sanus</journal-id>
-			<journal-title-group>
-				<journal-title>SANUS</journal-title>
-				<abbrev-journal-title abbrev-type="publisher">SANUS</abbrev-journal-title>
-			</journal-title-group>
 			<issn pub-type="epub">2448-6094</issn>
-			<publisher>
-				<publisher-name>Universidad de Sonora</publisher-name>
-			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">https://doi.org/10.36789/sanusrevenf.vi21.564</article-id>
+			<article-id pub-id-type="doi">10.36789/sanusrevenf.vi21.564</article-id>
 			<article-id pub-id-type="other">00564</article-id>
-			<article-categories>
-				<subj-group subj-group-type="heading">
-					<subject>RESEARCH</subject>
-				</subj-group>
-			</article-categories>
 			<title-group>
-				<article-title>Asociación de estilos parentales y violencia de pareja en estudiantes de enfermería</article-title>
-				<trans-title-group xml:lang="pt">
-					<trans-title>Associação entre estilos parentais e violência por parceiro íntimo em estudantes de enfermagem</trans-title>
-				</trans-title-group>
+				<article-title>Association between parenting styles and intimate partner violence among nursing students</article-title>
 				<trans-title-group xml:lang="en">
-					<trans-title>Association between parenting styles and intimate partner violence among nursing students</trans-title>
+					<trans-title>Association between parenting styles and intimate partner
+violence among nursing students</trans-title>
 				</trans-title-group>
 			</title-group>
 			<contrib-group>
@@ -120,7 +105,7 @@
 				<year>2025</year>
 			</pub-date>
 			<volume>10</volume>
-			<issue>21</issue>
+			<issue>4</issue>
 			<elocation-id>e564</elocation-id>
 			<history>
 				<date date-type="received">
@@ -155,7 +140,7 @@
 				</sec>
 				<sec>
 					<title>Resultados:</title>
-					<p>81.3 % fueron mujeres, 73.3 % tenían 18 a 20 años, 89.3 % solteros, 95 % con pareja heterosexual, 82.7 % tenía una pareja, 42 % con más de 1 año en la relación, 47.3 % vivía con la madre y 75.3 % solo estudiaba. Se encontró que el padre ejercía estilo indiferente y la madre estilo permisivo mostrando mayor demanda que respuesta, hubo relación estadística significativa en estilos parentales y casos severos de violencia de pareja física, psicológica y sexual.</p>
+					<p>81.3 % fueron mujeres, 73.3 % tenían 18 a 20 años, 89.3 % solteros, 95 % con pareja heterosexual, 82.7 % con pareja, 42 % con más de 1 año en la relación, 47.3 % vivía con la madre y 75.3 % solo estudiaba. Se encontró que el padre ejercía estilo indiferente y la madre estilo permisivo mostrando mayor demanda que respuesta, hubo relación estadística significativa en estilos parentales y casos severos de violencia de pareja física, psicológica y sexual.</p>
 				</sec>
 				<sec>
 					<title>Conclusiones:</title>
@@ -214,7 +199,33 @@
 				<kwd>Educación parental</kwd>
 				<kwd>Violencia de pareja</kwd>
 				<kwd>Estudiantes de enfermería</kwd>
-				<kwd>Prevención primaria (DeCS)</kwd>
+				<kwd>Prevención primaria (DeCS).  2681 203906 0 0 5932568 14543 0 0 5162550 12700 0 0 SANUS.2025</kwd>
+				<kwd>10 (21) :e564 DOI: https://doi.org/10.36789/sanusrevenf.vi21.564 www.sanus.unison.mx  SANUS. 2025</kwd>
+				<kwd>10 (21 ) :e 564 5982970 9266555 0 0 2915806 9246358 Los contenidos de este artículo están bajo una licencia de Creative Commons Atribución No Comercial  -  Sin Obra Derivada  4.0 Internacional 0 0 Los contenidos de este artículo están bajo una licencia de Creative Commons Atribución No Comercial  -  Sin Obra Derivada  4.0 Internacional -2540 9248775 ISSN:  2448-6094 Universidad de Sonora 0 0 ISSN:  2448-6094 Universidad de Sonora  PAGE  3 INVESTIGACIÓN Asociación de estilos parentales y violencia de pareja en estudiantes de enfermería Association between parenting styles and intimate partner violence among nursing students Associação entre estilos parentais e violência por parceiro íntimo em estudantes de enfermagem Laura Berenice Zorrilla-Martínez 1* IconoDescripción generada automáticamente https://orcid.org/0000-0003-1322-2326 Ana Gabriela Flores-Romo 2 IconoDescripción generada automáticamente https://orcid.org/0000-0002-4865-4519 Perla María Trejo-Ortiz 3 Icono Descripción generada automáticamente https://orcid.org/0000-0003-4441-446X Roxana Araujo-Espino 4 Icono Descripción generada automáticamente https://orcid.org/0000-0001-6684-9830 Doctora en Bioética</kwd>
+				<kwd>Unidad Académica de Enfermería</kwd>
+				<kwd>Universidad     Autónoma de Zacatecas</kwd>
+				<kwd>Francisco García Salinas</kwd>
+				<kwd>Zacatecas</kwd>
+				<kwd>Zacatecas</kwd>
+				<kwd>México. Doctora en Bioética</kwd>
+				<kwd>Unidad Académica de Enfermería</kwd>
+				<kwd>Universidad     Autónoma de Zacatecas</kwd>
+				<kwd>Francisco García Salinas</kwd>
+				<kwd>Zacatecas</kwd>
+				<kwd>Zacatecas</kwd>
+				<kwd>México. Doctora en Ciencias de Enfermería</kwd>
+				<kwd>Unidad Académica de     Enfermería</kwd>
+				<kwd>Universidad Autónoma de Zacatecas</kwd>
+				<kwd>Francisco García     Salinas</kwd>
+				<kwd>Zacatecas</kwd>
+				<kwd>Zacatecas</kwd>
+				<kwd>México. Doctora en Ciencias de Enfermería</kwd>
+				<kwd>Unidad Académica de     Enfermería</kwd>
+				<kwd>Universidad Autónoma de Zacatecas</kwd>
+				<kwd>Francisco García     Salinas</kwd>
+				<kwd>Zacatecas</kwd>
+				<kwd>Zacatecas</kwd>
+				<kwd>México. *Autor para correspondencia: berenice_zorrilla@uaz.edu.mx Recibido: 26/02/2025 Aceptado: 22/09/2025</kwd>
 			</kwd-group>
 			<kwd-group xml:lang="pt">
 				<title>Palavras-chave:</title>
@@ -222,7 +233,109 @@
 				<kwd>Educação parental</kwd>
 				<kwd>Violência de parceiro</kwd>
 				<kwd>Estudantes de enfermagem</kwd>
-				<kwd>Prevenção primária (DeCS)</kwd>
+				<kwd>Prevenção primária (DeCS). Introducción El estilo parental (1) implica la imposición de normas (2) patrones de comunicación y manejo de   conflictos</kwd>
+				<kwd>(3) la socialización familiar permite que los   hijos interioricen normas y valores (4) Baumrind en 1996   conceptualizó el término como las actitudes</kwd>
+				<kwd>conductas y estrategias   que los padres utilizan para socializar a sus hijos y los clasificó   en: a) autoritario</kwd>
+				<kwd>padres presentan un bajo nivel de involucramiento   y se asocia con un comportamiento irritable y retraído</kwd>
+				<kwd>b)   autoritativo o democrático</kwd>
+				<kwd>padres con alto compromiso</kwd>
+				<kwd>asociado a un   comportamiento responsable e independiente y c) permisivo</kwd>
+				<kwd>padres con   gran nivel de involucramiento</kwd>
+				<kwd>asociado a baja independencia y   disciplina. Maccoby y Martin (5) introdujeron el estilo negligente (6</kwd>
+				<kwd>7) caracterizado por la falta de capacidad de respuesta   e involucramiento a las necesidades del hijo</kwd>
+				<kwd>son padres absortos en   sus propios problemas (estrés</kwd>
+				<kwd>depresión</kwd>
+				<kwd>abuso de sustancias</kwd>
+				<kwd>etc.)   incapaces de proporcionar el apoyo emocional y físico que sus hijos   necesitan (2</kwd>
+				<kwd>3</kwd>
+				<kwd>8</kwd>
+				<kwd>9) por lo tanto los hijos pudieran   identificar las diversas expresiones de violencia como normalizadas en   sus relaciones de pareja. En el presente estudio la variable violencia   de pareja (VP)</kwd>
+				<kwd>es definida por la Organización Mundial de la Salud (10) como los comportamientos de la pareja o expareja que   causan daño físico</kwd>
+				<kwd>sexual</kwd>
+				<kwd>psicológico</kwd>
+				<kwd>económico y conductas de   control y amenazas que se realizan de manera consciente y que causan   daño (11) . También se refiere al maltrato que ejerce un   sexo hacia el otro</kwd>
+				<kwd>presente en todas las clases socioeconómicas y   culturales (12</kwd>
+				<kwd>13) . La VP es vista como un problema de   salud pública (14</kwd>
+				<kwd>15) y una manifestación severa de   desigualdad entre hombres y mujeres (16) . El Instituto   Nacional de Estadística Geografía e Informática (INEGI) (17) reporta que en mujeres de 15 años y más</kwd>
+				<kwd>el 70.1 % ha   experimentado violencia psicológica. En Colombia en el 47.2 % de las   mujeres que presentaron VP el agresor fue su compañero permanente (18) . En Zacatecas</kwd>
+				<kwd>México el 59.3 % de las mujeres manifestó algún tipo   de violencia (19) . Con relación al estudiante de   enfermería</kwd>
+				<kwd>la violencia puede afectarle tanto física como   psicológicamente provocando desmotivación con la profesión y bajo   rendimiento académico (20) e interfiriendo con la calidad   del cuidado que se brinda al paciente (21)</kwd>
+				<kwd>en el ámbito   universitario es crucial entender las percepciones de violencia   especialmente en estudiantes de enfermería para fomentar entornos   seguros y equitativos (11-13)</kwd>
+				<kwd>en Brasil</kwd>
+				<kwd>España y México (2</kwd>
+				<kwd>21-24) se expone que a mayor violencia de pareja y   severidad de violencia</kwd>
+				<kwd>la mujer puede tener autoestima disminuida y   puede presentar el consumo de alcohol como una forma de afrontamiento (25) . Investigadores peruanos (26</kwd>
+				<kwd>27) encontraron que</kwd>
+				<kwd>si existían estilos de crianza autoritarios</kwd>
+				<kwd>negligentes y permisivos</kwd>
+				<kwd>habría mayor probabilidad de violencia en   las parejas</kwd>
+				<kwd>mientras que en Colombia (28) en población de   lesbianas</kwd>
+				<kwd>gays</kwd>
+				<kwd>bisexuales</kwd>
+				<kwd>transexuales</kwd>
+				<kwd>queer</kwd>
+				<kwd>intersexuales</kwd>
+				<kwd>asexuales y más (LGBT­QIA+) predominan los estilos de afecto</kwd>
+				<kwd>indiferencia y diálogo paterno y materno</kwd>
+				<kwd>en Ecuador (29) los hijos percibieron a los padres como autoritarios y en México (2) como permisivos. Referente a la VP se reportaron casos severos e índices graves de   violencia psicológica seguida de física y sexual (2</kwd>
+				<kwd>30</kwd>
+				<kwd>31)</kwd>
+				<kwd>en Perú (26)</kwd>
+				<kwd>los estudios descritos coinciden que los   estilos parentales influyen en la presencia de conductas violentas   manifestadas como celos</kwd>
+				<kwd>sobreprotección</kwd>
+				<kwd>control y humillación. En el   contexto de la enfermería</kwd>
+				<kwd>estudiar los estilos parentales y su   relación con la VP en estudiantes universitarios puede permitir   aportes a la ciencia de enfermería al contribuir al diseño de   intervenciones preventivas y programas de promoción de bienestar   emocional y psicológico desde la formación profesional</kwd>
+				<kwd>fomentando   ambientes seguros y preparando a los estudiantes para identificar y   abordar la violencia en su práctica profesional</kwd>
+				<kwd>por lo antes descrito   la pregunta de investigación fue: ¿cuál es la asociación de estilos   parentales y violencia de pareja en estudiantes de enfermería de una   universidad pública del estado de Zacatecas? El presente estudio pretende contribuir a la equidad de género y   creación de espacios inclusivos y respetuosos para hombres y mujeres</kwd>
+				<kwd>sin embargo</kwd>
+				<kwd>existe poca evidencia de la VP en el contexto   universitario</kwd>
+				<kwd>por lo cual el objetivo del presente estudio fue   identificar la relación de estilos parentales y VP en estudiantes de   enfermería de una universidad pública. Metodología Estudio cuantitativo</kwd>
+				<kwd>transversal</kwd>
+				<kwd>descriptivo y correlacional (32) . La población fueron 1</kwd>
+				<kwd>425 estudiantes de 18 a 23 años de la Licenciatura en Enfermería inscritos en tercero</kwd>
+				<kwd>quinto y séptimo semestre de una universidad pública. La muestra fue de 360 estudiantes</kwd>
+				<kwd>seleccionados con muestreo aleatorio sistemático a partir de las listas de cada semestre conformado por primero ( n 1)</kwd>
+				<kwd>tercero ( n 2)</kwd>
+				<kwd>quinto ( n 3) y séptimo ( n 4)</kwd>
+				<kwd>al estudiante número 1 del listado y posteriormente al estudiante número 6</kwd>
+				<kwd>y así sucesivamente (intervalo de 5)</kwd>
+				<kwd>hasta completar 90 participantes de cada semestre</kwd>
+				<kwd>se incluyó a los estudiante inscritos en el periodo de estudio</kwd>
+				<kwd>que contaron con una relación de pareja actual o en el último año</kwd>
+				<kwd>y aceptaron participar se excluyeron estudiantes que no contaban con pareja</kwd>
+				<kwd>no se encontraban presentes al momento del estudio o decidieron no participar o contestaron de manera errónea. Para la colecta de datos se aplicó una cedula de datos sociodemográficos: sexo</kwd>
+				<kwd>edad</kwd>
+				<kwd>estado civil</kwd>
+				<kwd>tipo de pareja homosexual o heterosexual</kwd>
+				<kwd>presencia de problemas con la pareja por el uso de redes sociales</kwd>
+				<kwd>número de parejas con las que contaba</kwd>
+				<kwd>tiempo de relación de pareja</kwd>
+				<kwd>con quien vivía el estudiante y a que se dedicaba</kwd>
+				<kwd>elaborada por los autores del estudio. Se midieron los estilos parentales con la Escala de Estilos Parentales e Inconsistencia Percibida (EPIPP) (33) incluye 48 preguntas (24 preguntas A y B para madre y 24 preguntas A y B para padre) que midieron 2 componentes: a) Demanda percibida con 3 subescalas: coerción verbal (4 ítems)</kwd>
+				<kwd>coerción física (3 ítems) y prohibición (4 ítems) y b) Componente de respuesta percibida con 3 subescalas: afecto (4 ítems)</kwd>
+				<kwd>diálogo (4 ítems) e indiferencia (4 ítems)</kwd>
+				<kwd>se realizaron índices para la combinación de ambos componentes denotando los 4 estilos parentales: democrático</kwd>
+				<kwd>autoritario o autoritativo permisivo e indiferente o negligente</kwd>
+				<kwd>en caso de que el padre y la madre tuvieran estilos diferentes se midió la inconsistencia intraparental al sumar todos los ítems de la parte B de cada pregunta de padre y madre donde de 0 a 25 puntos = inconsistencia intraparental baja</kwd>
+				<kwd>de 25 a 75 puntos= media y de 75 a 100 puntos= alta. La fiabilidad de la escala EPPIP reportada por autores es de 0.86 en estudiantes de preparatoria (34)</kwd>
+				<kwd>en el presente estudio se obtuvo una confiabilidad de 0.94 (global)</kwd>
+				<kwd>afecto (0.85)</kwd>
+				<kwd>dialogo (0.77)</kwd>
+				<kwd>indiferencia (0.79)</kwd>
+				<kwd>coerción verbal (0.83)</kwd>
+				<kwd>coerción física (0.79) y prohibición (0.83). Para medir la VP se utilizó la Escala de Violencia (EV) e Índice de Severidad de Violencia de Pareja (ISVP)</kwd>
+				<kwd>esta validada en población mexicana (35) . Consta de 19 reactivos clasificando los casos de violencia perpetrada por la pareja durante el último año como: física (11 reactivos)</kwd>
+				<kwd>psicológica (5 reactivos)</kwd>
+				<kwd>y sexual (3 reactivos) (30) . El ISVP indica la severidad de violencia percibida por el estudiante de enfermería reportado al final de cada pregunta de la EV</kwd>
+				<kwd>tiene una escala de 0 a 100</kwd>
+				<kwd>para los puntos de corte de la severidad de violencia física</kwd>
+				<kwd>psicológica y sexual</kwd>
+				<kwd>se consideró la severidad de violencia física como “no caso” a puntuaciones de 0 a 2.4 puntos</kwd>
+				<kwd>“caso de violencia física” de 2.4 a 12 y “casos de violencia física severa” a valores mayores a 12</kwd>
+				<kwd>para la severidad de violencia psicológica de 0 a 5 puntos se consideró “no caso de violencia psicológica”</kwd>
+				<kwd>de 5.1 a 18.2 puntos “caso de violencia psicológica” y valores de 18.3 a 81 “caso de violencia psicológica severa”</kwd>
+				<kwd>para la severidad violencia sexual se consideraron como “no caso de violencia sexual” a valores de 0 a 1</kwd>
+				<kwd>“casos no severos de violencia sexual” de</kwd>
 			</kwd-group>
 			<kwd-group xml:lang="en">
 				<title>Keywords:</title>
@@ -1044,17 +1157,11 @@ DOI/URL.</p>
 							<surname>Martínez</surname>
 							<given-names>GR</given-names>
 						</name>
-						<name>
-							<surname>Rodríguez-Ruiz</surname>
-							<given-names>B</given-names>
-						</name>
-						<name>
-							<surname>Iglesias</surname>
-							<given-names>GM</given-names>
-						</name>
 					</person-group>
-					<article-title>Comparación de competencias parentales en padres y en madres con hijos e hijas adolescentes</article-title>
-					<source>Aula Abierta</source>
+					<article-title>Rodríguez-Ruiz B, Iglesias GM</article-title>
+					<source>Comparación de
+    competencias parentales en padres y en madres con hijos e hijas
+    adolescentes</source>
 					<year>2020</year>
 					<volume>50</volume>
 					<issue>4</issue>
@@ -1089,8 +1196,9 @@ DOI/URL.</p>
 							<given-names>VE</given-names>
 						</name>
 					</person-group>
-					<article-title>Caracterización de los roles familiares y su impacto en las familias de México</article-title>
-					<source>Rev. Cienc. Soc</source>
+					<article-title>Caracterización de
+    los roles familiares y su impacto en las familias de México</article-title>
+					<source>Rev</source>
 					<year>2021</year>
 					<volume>27</volume>
 					<issue>3</issue>
@@ -1120,8 +1228,9 @@ DOI/URL.</p>
 							<given-names>BJ</given-names>
 						</name>
 					</person-group>
-					<article-title>Estilos padres en el proceso de crianza de niños con trastornos disruptivos</article-title>
-					<source>Investig.desarro</source>
+					<article-title>Estilos padres en el proceso de
+    crianza de niños con trastornos disruptivos</article-title>
+					<source>Investig</source>
 					<year>2018</year>
 					<volume>26</volume>
 					<issue>1</issue>
@@ -1152,8 +1261,10 @@ DOI/URL.</p>
 							<given-names>FP</given-names>
 						</name>
 					</person-group>
-					<article-title>Estilos educativos parentales: transición de modelos clásicos de comprensión hacia los multidimensionales de intervención</article-title>
-					<source>Cuad. trab. soc</source>
+					<article-title>Estilos educativos parentales:
+    transición de modelos clásicos de comprensión hacia los
+    multidimensionales de intervención</article-title>
+					<source>Cuad</source>
 					<year>2022</year>
 					<volume>0</volume>
 					<issue>23</issue>
@@ -1179,8 +1290,9 @@ DOI/URL.</p>
 							<given-names>M</given-names>
 						</name>
 					</person-group>
-					<article-title>Estilos parentales y apego en estudiantes universitarios</article-title>
-					<source>Prometeo conoc. cient</source>
+					<article-title>Estilos parentales y apego en
+    estudiantes universitarios</article-title>
+					<source>Prometeo conoc</source>
 					<year>2024</year>
 					<volume>4</volume>
 					<issue>1</issue>
@@ -1206,8 +1318,10 @@ DOI/URL.</p>
 							<given-names>ML</given-names>
 						</name>
 					</person-group>
-					<article-title>Estilos de socialización parental y el riesgo de consumo de drogas en adolescentes</article-title>
-					<source>Psicología UNEMI</source>
+					<article-title>Estilos de socialización parental y
+    el riesgo de consumo de drogas en adolescentes</article-title>
+					<source>Psicología UNEMI
+    [Internet]</source>
 					<year>2024</year>
 					<volume>8</volume>
 					<issue>15</issue>
@@ -1247,8 +1361,10 @@ DOI/URL.</p>
 							<given-names>MJ</given-names>
 						</name>
 					</person-group>
-					<article-title>Factores de los estilos de crianza parental como mediadores en la relación entre la resiliencia y calidad de vida en universitarios</article-title>
-					<source>Rev. investig. psicol</source>
+					<article-title>Factores
+    de los estilos de crianza parental como mediadores en la relación
+    entre la resiliencia y calidad de vida en universitarios</article-title>
+					<source>Rev</source>
 					<year>2022</year>
 					<volume>25</volume>
 					<issue>1</issue>
@@ -1276,8 +1392,10 @@ DOI/URL.</p>
 							<given-names>LE</given-names>
 						</name>
 					</person-group>
-					<article-title>Estilos de crianza parental y conductas agresivas en adolescentes de una institución educativa pública, Juliaca</article-title>
-					<source>Rev. Cient. Cienc. Salud</source>
+					<article-title>Estilos de crianza parental y conductas
+    agresivas en adolescentes de una institución educativa pública,
+    Juliaca</article-title>
+					<source>Rev</source>
 					<year>2023</year>
 					<volume>16</volume>
 					<issue>1</issue>
@@ -1305,8 +1423,10 @@ DOI/URL.</p>
 							<given-names>IM</given-names>
 						</name>
 					</person-group>
-					<article-title>Autoconcepto y estilos de socialización parental según grupos socioeconómicos en adolescentes chilenos</article-title>
-					<source>Suma Psicol</source>
+					<article-title>Autoconcepto y estilos de
+    socialización parental según grupos socioeconómicos en adolescentes
+    chilenos</article-title>
+					<source>Suma Psicol [Internet]</source>
 					<year>2023</year>
 					<volume>30</volume>
 					<issue>2</issue>
@@ -1319,13 +1439,16 @@ DOI/URL.</p>
 				<mixed-citation>Organización Mundial de la Salud (OMS). Violencia contra la
     mujer. [Internet]. 2022 [citado 25 feb 2025]. Disponible en:
     https://www.paho.org/es/temas/violencia-contra-mujer</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Organización Mundial de la Salud (OMS)</surname>
+							<surname>Organización</surname>
+							<given-names>Mundial de la Salud (OMS)</given-names>
 						</name>
 					</person-group>
-					<article-title>Violencia contra la mujer</article-title>
+					<article-title>Violencia contra la
+    mujer</article-title>
+					<source>[Internet]</source>
 					<year>2022</year>
 					<ext-link ext-link-type="uri" xlink:href="https://www.paho.org/es/temas/violencia-contra-mujer">https://www.paho.org/es/temas/violencia-contra-mujer</ext-link>
 				</element-citation>
@@ -1351,8 +1474,10 @@ DOI/URL.</p>
 							<given-names>P</given-names>
 						</name>
 					</person-group>
-					<article-title>Violencia contra la mujer en las estudiantes de enfermería de una universidad pública</article-title>
-					<source>EHI</source>
+					<article-title>Violencia contra la mujer
+    en las estudiantes de enfermería de una universidad pública</article-title>
+					<source>EHI
+    [Internet]</source>
 					<year>2022</year>
 					<volume>9</volume>
 					<issue>1</issue>
@@ -1372,11 +1497,13 @@ DOI/URL.</p>
 				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Secretaria de Salud (SS)</surname>
+							<surname>Secretaria</surname>
+							<given-names>de Salud (SS)</given-names>
 						</name>
 					</person-group>
-					<article-title>Norma Oficial Mexicana NOM-046-SSA2-2005. Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención</article-title>
-					<publisher-name>Secretaría de Salud</publisher-name>
+					<article-title>Norma Oficial Mexicana
+    NOM-046-SSA2-2005</article-title>
+					<source>Violencia familiar, sexual y contra las mujeres</source>
 					<year>2005</year>
 					<ext-link ext-link-type="uri" xlink:href="https://www.cndh.org.mx/DocTR/2016/JUR/A70/01/JUR-20170331-NOR19.pdf">https://www.cndh.org.mx/DocTR/2016/JUR/A70/01/JUR-20170331-NOR19.pdf</ext-link>
 				</element-citation>
@@ -1402,8 +1529,10 @@ DOI/URL.</p>
 							<given-names>FM</given-names>
 						</name>
 					</person-group>
-					<article-title>Percepción sobre violencia en estudiantes de enfermería de una facultad pública</article-title>
-					<source>RECIE FEC-UAS</source>
+					<article-title>Percepción sobre violencia en
+    estudiantes de enfermería de una facultad pública</article-title>
+					<source>RECIE FEC-UAS
+    [Internet]</source>
 					<year>2024</year>
 					<volume>1</volume>
 					<issue>2</issue>
@@ -1425,8 +1554,9 @@ DOI/URL.</p>
 							<given-names>GN</given-names>
 						</name>
 					</person-group>
-					<article-title>Impacto de la violencia familiar y estructural en la mujer y sus hijos: Algunos apuntes</article-title>
-					<source>Lat. Am. Hum. Rights Stud</source>
+					<article-title>Impacto de la violencia familiar y estructural en la
+    mujer y sus hijos: Algunos apuntes</article-title>
+					<source>Lat</source>
 					<year>2024</year>
 					<volume>4</volume>
 					<issue>1</issue>
@@ -1443,14 +1573,16 @@ DOI/URL.</p>
     [citado 02 ene 2025]. Disponible en:
     <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/programas/endireh/2021/">https://www.inegi.org.mx/programas/endireh/2021/</ext-link>
 				</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Instituto Nacional de Estadística Geografía e informática (INEGI)</surname>
+							<surname>Instituto</surname>
+							<given-names>Nacional de Estadística Geografía e informática (INEGI)</given-names>
 						</name>
 					</person-group>
-					<article-title>Encuesta nacional sobre la dinámica de las relaciones en los hogares (ENDIREH)</article-title>
-					<source>Programas INEGI</source>
+					<article-title>Encuesta nacional sobre la dinámica de las relaciones en
+    los hogares (ENDIREH)</article-title>
+					<source>Programas INEGI [Internet]</source>
 					<year>2021</year>
 					<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/programas/endireh/2021/">https://www.inegi.org.mx/programas/endireh/2021/</ext-link>
 				</element-citation>
@@ -1480,8 +1612,10 @@ DOI/URL.</p>
 							<given-names>MM</given-names>
 						</name>
 					</person-group>
-					<article-title>Severidad de la violencia de pareja y reacciones emocionales en mujeres</article-title>
-					<source>Psicumex</source>
+					<article-title>Severidad de la
+    violencia de pareja y reacciones emocionales en mujeres</article-title>
+					<source>Psicumex
+    [Internet]</source>
 					<year>2022</year>
 					<volume>12</volume>
 					<issue>1</issue>
@@ -1496,13 +1630,17 @@ DOI/URL.</p>
     [citado 12 ene 2025]. Disponible en:
     <ext-link ext-link-type="uri" xlink:href="https://www.insp.mx/enim2015.html">https://www.insp.mx/enim2015.html</ext-link>
 				</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Instituto Nacional de Salud Pública (INSP)</surname>
+							<surname>Instituto</surname>
+							<given-names>Nacional de Salud Pública (INSP)</given-names>
 						</name>
 					</person-group>
-					<article-title>Encuesta nacional de los niños, niñas y mujeres en México (ENIM)</article-title>
+					<article-title>Encuesta nacional de
+    los niños, niñas y mujeres en México (ENIM) [Internet]</article-title>
+					<source>México; 2020
+    [citado 12 ene 2025]</source>
 					<year>2020</year>
 					<ext-link ext-link-type="uri" xlink:href="https://www.insp.mx/enim2015.html">https://www.insp.mx/enim2015.html</ext-link>
 				</element-citation>
@@ -1520,8 +1658,9 @@ DOI/URL.</p>
 							<given-names>S</given-names>
 						</name>
 					</person-group>
-					<article-title>Comprendiendo la violencia de género: Perspectiva holística desde la psicología jurídica y social</article-title>
-					<source>Cf-cjs</source>
+					<article-title>Comprendiendo la violencia de género: Perspectiva
+    holística desde la psicología jurídica y social</article-title>
+					<source>Cf-cjs [Internet]</source>
 					<year>2024</year>
 					<volume>3</volume>
 					<issue>6</issue>
@@ -1536,13 +1675,15 @@ DOI/URL.</p>
     2020 [citado 11 ene 2025]. Disponible en:
     <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/tablerosestadisticos/vcmm/">https://www.inegi.org.mx/tablerosestadisticos/vcmm/</ext-link>
 				</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Instituto Nacional de Estadística Geografía e informática (INEGI)</surname>
+							<surname>Instituto</surname>
+							<given-names>Nacional de Estadística Geografía e informática (INEGI)</given-names>
 						</name>
 					</person-group>
 					<article-title>Violencia contra las mujeres en México</article-title>
+					<source>[Internet]</source>
 					<year>2020</year>
 					<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/tablerosestadisticos/vcmm/">https://www.inegi.org.mx/tablerosestadisticos/vcmm/</ext-link>
 				</element-citation>
@@ -1573,8 +1714,10 @@ DOI/URL.</p>
 							<given-names>RD</given-names>
 						</name>
 					</person-group>
-					<article-title>Efectos de la violencia en el noviazgo en estudiantes universitarios: una revisión integrativa</article-title>
-					<source>Rev. iberoam. educ. invest. enferm</source>
+					<article-title>Efectos de la
+    violencia en el noviazgo en estudiantes universitarios: una revisión
+    integrativa</article-title>
+					<source>Rev</source>
 					<year>2021</year>
 					<volume>12</volume>
 					<issue>1</issue>
@@ -1618,13 +1761,13 @@ DOI/URL.</p>
 							<given-names>KB</given-names>
 						</name>
 					</person-group>
-					<article-title>Enfrentamiento de la violencia en el trabajo de enfermería en el contexto hospitalario y en la atención primaria de salud</article-title>
-					<source>Enfermería glob</source>
+					<article-title>Enfrentamiento de la violencia en el trabajo de
+    enfermería en el contexto hospitalario y en la atención primaria de
+    salud</article-title>
+					<source>Enfermería glob [Internet]</source>
 					<year>2021</year>
 					<volume>20</volume>
 					<issue>62</issue>
-					<fpage>216</fpage>
-					<lpage>253</lpage>
 					<pub-id pub-id-type="doi">10.6018/eglobal.425181</pub-id>
 					<ext-link ext-link-type="uri" xlink:href="https://dx.doi.org/10.6018/eglobal.425181">https://dx.doi.org/10.6018/eglobal.425181</ext-link>
 				</element-citation>
@@ -1660,8 +1803,10 @@ DOI/URL.</p>
 							<given-names>I</given-names>
 						</name>
 					</person-group>
-					<article-title>Estilos de afrontamiento, esquemas disfuncionales y síntomas psicopatológicos relacionados con la dependencia emocional hacia la pareja agresora</article-title>
-					<source>Psicol. conduct</source>
+					<article-title>Estilos de afrontamiento, esquemas disfuncionales y síntomas
+    psicopatológicos relacionados con la dependencia emocional hacia la
+    pareja agresora</article-title>
+					<source>Psicol</source>
 					<year>2021</year>
 					<volume>29</volume>
 					<issue>1</issue>
@@ -1701,8 +1846,10 @@ DOI/URL.</p>
 							<given-names>FA</given-names>
 						</name>
 					</person-group>
-					<article-title>Violencia en las relaciones de noviazgo en estudiantes universitarios de enfermería</article-title>
-					<source>Horiz. Sanitario</source>
+					<article-title>Violencia
+    en las relaciones de noviazgo en estudiantes universitarios de
+    enfermería</article-title>
+					<source>Horiz</source>
 					<year>2024</year>
 					<volume>23</volume>
 					<issue>1</issue>
@@ -1746,9 +1893,11 @@ DOI/URL.</p>
 							<given-names>NL</given-names>
 						</name>
 					</person-group>
-					<article-title>Asociación entre los estilos de crianza y el rol de los adolescentes peruanos en el acoso escolar, 2019</article-title>
-					<source>Rev Cuid</source>
-					<year>2022</year>
+					<article-title>Asociación entre los estilos de crianza y el rol de los
+    adolescentes peruanos en el acoso escolar, 2019</article-title>
+					<source>Rev Cuid
+    [Internet]</source>
+					<year>2019</year>
 					<volume>14</volume>
 					<issue>1</issue>
 					<fpage>1</fpage>
@@ -1775,8 +1924,10 @@ DOI/URL.</p>
 							<given-names>CM</given-names>
 						</name>
 					</person-group>
-					<article-title>El rechazo parental en la edad infantil como factor de riesgo en la violencia de pareja en la edad adulta</article-title>
-					<source>Psychol. soc. educ</source>
+					<article-title>El rechazo parental en la edad
+    infantil como factor de riesgo en la violencia de pareja en la edad
+    adulta</article-title>
+					<source>Psychol</source>
 					<year>2023</year>
 					<volume>15</volume>
 					<issue>1</issue>
@@ -1812,8 +1963,10 @@ DOI/URL.</p>
 							<given-names>DS</given-names>
 						</name>
 					</person-group>
-					<article-title>Violencia de género, dependencia emocional y su incidencia en la autoestima en madres de estudiantes</article-title>
-					<source>Rev. Cienc. Soc</source>
+					<article-title>Violencia de
+    género, dependencia emocional y su incidencia en la autoestima en
+    madres de estudiantes</article-title>
+					<source>Rev</source>
 					<year>2022</year>
 					<volume>28</volume>
 					<issue>3</issue>
@@ -1853,8 +2006,10 @@ DOI/URL.</p>
 							<given-names>MJ</given-names>
 						</name>
 					</person-group>
-					<article-title>Factores de los estilos de crianza parental como mediadores en la relación entre la resiliencia y calidad de vida en universitarios</article-title>
-					<source>Rev. investig. psicol</source>
+					<article-title>Factores
+    de los estilos de crianza parental como mediadores en la relación
+    entre la resiliencia y calidad de vida en universitarios</article-title>
+					<source>Rev</source>
 					<year>2022</year>
 					<volume>25</volume>
 					<issue>1</issue>
@@ -1870,7 +2025,7 @@ DOI/URL.</p>
     comunidad LGBTQIA, 2022 [Tesis de maestría]. Medellín, Colombia;
     Tecnológico de Antioquia Institución Universitaria. 2022 [citado 07
     feb 2025];143. Disponible en: https://lc.cx/NuJy5q</mixed-citation>
-				<element-citation publication-type="thesis">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
 							<surname>Aguilar</surname>
@@ -1889,8 +2044,11 @@ DOI/URL.</p>
 							<given-names>ML</given-names>
 						</name>
 					</person-group>
-					<article-title>Conductas agresivas, contexto familiar y estilos de apego en adultos de la comunidad LGBTQIA</article-title>
-					<publisher-name>Tecnológico de Antioquia Institución Universitaria</publisher-name>
+					<article-title>Conductas
+    agresivas, contexto familiar y estilos de apego en adultos de la
+    comunidad LGBTQIA, 2022 [Tesis de maestría]</article-title>
+					<source>Medellín, Colombia;
+    Tecnológico de Antioquia Institución Universitaria</source>
 					<year>2022</year>
 					<ext-link ext-link-type="uri" xlink:href="https://lc.cx/NuJy5q">https://lc.cx/NuJy5q</ext-link>
 				</element-citation>
@@ -1913,10 +2071,10 @@ DOI/URL.</p>
 							<given-names>MV</given-names>
 						</name>
 					</person-group>
-					<article-title>Violencia filio-parental y estilos de crianza en estudiantes y progenitores de Guayaquil-Ecuador</article-title>
-					<source>Rev. Int. Polít. Bienest. Trab. Soc</source>
+					<article-title>Violencia filio-parental y estilos de
+    crianza en estudiantes y progenitores de Guayaquil-Ecuador</article-title>
+					<source>Rev</source>
 					<year>2024</year>
-					<issue>22</issue>
 					<fpage>35</fpage>
 					<lpage>56</lpage>
 					<ext-link ext-link-type="uri" xlink:href="https://revistas.proeditio.com/ehquidad/article/view/5385">https://revistas.proeditio.com/ehquidad/article/view/5385</ext-link>
@@ -1944,8 +2102,9 @@ DOI/URL.</p>
 							<given-names>TF</given-names>
 						</name>
 					</person-group>
-					<article-title>El síndrome de estocolmo en mujeres mexicanas víctimas de violencia de pareja</article-title>
-					<source>Anu. psicol. juríd</source>
+					<article-title>El síndrome de estocolmo en
+    mujeres mexicanas víctimas de violencia de pareja</article-title>
+					<source>Anu</source>
 					<year>2020</year>
 					<volume>30</volume>
 					<issue>1</issue>
@@ -1972,8 +2131,11 @@ DOI/URL.</p>
 							<given-names>SJ</given-names>
 						</name>
 					</person-group>
-					<article-title>Facilitadores de la violencia de pareja percibidos por víctimas y victimarios: Estudio exploratorio en el contexto de la teoría del aprendizaje social</article-title>
-					<source>Acta investigación psicol</source>
+					<article-title>Facilitadores de la violencia de pareja
+    percibidos por víctimas y victimarios: Estudio exploratorio en el
+    contexto de la teoría del aprendizaje social</article-title>
+					<source>Acta investigación
+    psicol [Internet]</source>
 					<year>2022</year>
 					<volume>12</volume>
 					<issue>2</issue>
@@ -1987,7 +2149,7 @@ DOI/URL.</p>
 				<mixed-citation>Polit DF, Tatano BC. Investigación en enfermería: Fundamentos
     para el uso de la evidencia en la práctica de la enfermería. 9ª ed.
     España: Wolters Kluwer. 2018. p.119-120.</mixed-citation>
-				<element-citation publication-type="book">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
 							<surname>Polit</surname>
@@ -1998,11 +2160,10 @@ DOI/URL.</p>
 							<given-names>BC</given-names>
 						</name>
 					</person-group>
-					<article-title>Investigación en enfermería: Fundamentos para el uso de la evidencia en la práctica de la enfermería</article-title>
-					<publisher-name>Wolters Kluwer</publisher-name>
+					<article-title>Investigación en enfermería: Fundamentos
+    para el uso de la evidencia en la práctica de la enfermería</article-title>
+					<source>9ª ed</source>
 					<year>2018</year>
-					<fpage>119</fpage>
-					<lpage>120</lpage>
 				</element-citation>
 			</ref>
 			<ref id="B33">
@@ -2015,8 +2176,8 @@ DOI/URL.</p>
 				<element-citation publication-type="journal">
 					<person-group person-group-type="author">
 						<name>
-							<surname>De la Iglesia</surname>
-							<given-names>G</given-names>
+							<surname>De</surname>
+							<given-names>la Iglesia G</given-names>
 						</name>
 						<name>
 							<surname>Ongarato</surname>
@@ -2027,8 +2188,10 @@ DOI/URL.</p>
 							<given-names>M</given-names>
 						</name>
 					</person-group>
-					<article-title>Propiedades psicométricas de una escala de estilos parentales e inconsistencia parental percibida (EPIPP)</article-title>
-					<source>Evaluar</source>
+					<article-title>Propiedades
+    psicométricas de una escala de estilos parentales e inconsistencia
+    parental percibida (EPIPP)</article-title>
+					<source>Evaluar [Internet]</source>
 					<year>2022</year>
 					<volume>10</volume>
 					<issue>1</issue>
@@ -2054,8 +2217,10 @@ DOI/URL.</p>
 							<given-names>TD</given-names>
 						</name>
 					</person-group>
-					<article-title>Relación entre los estilos parentales y las conductas sexuales de riesgo en adolescentes escolarizados de Monterrey, Nuevo León</article-title>
-					<source>PERS</source>
+					<article-title>Relación entre los estilos parentales y las
+    conductas sexuales de riesgo en adolescentes escolarizados de
+    Monterrey, Nuevo León</article-title>
+					<source>PERS [Internet]</source>
 					<year>2018</year>
 					<volume>19</volume>
 					<issue>1</issue>
@@ -2071,7 +2236,7 @@ DOI/URL.</p>
     pareja en mujeres mexicanas. Salud pública Méx [Internet]. 2006
     [citado 26 feb 2025];48(Suppl 2): s221-s231. Disponible en:
     <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-36342006000800002&amp;lng=es">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-36342006000800002&amp;lng=es</ext-link>.</mixed-citation>
-				<element-citation publication-type="journal">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
 							<surname>Valdez-Santiago</surname>
@@ -2082,8 +2247,8 @@ DOI/URL.</p>
 							<given-names>M</given-names>
 						</name>
 						<name>
-							<surname>Salgado-de Snyder</surname>
-							<given-names>V</given-names>
+							<surname>Salgado-de</surname>
+							<given-names>Snyder V</given-names>
 						</name>
 						<name>
 							<surname>Rivera</surname>
@@ -2098,13 +2263,11 @@ DOI/URL.</p>
 							<given-names>R</given-names>
 						</name>
 					</person-group>
-					<article-title>Escala de violencia e índice de severidad: una propuesta metodológica para medir la violencia de pareja en mujeres mexicanas</article-title>
-					<source>Salud pública Méx</source>
+					<article-title>Escala de violencia e índice de
+    severidad: una propuesta metodológica para medir la violencia de
+    pareja en mujeres mexicanas</article-title>
+					<source>Salud pública Méx [Internet]</source>
 					<year>2006</year>
-					<volume>48</volume>
-					<issue>Suppl 2</issue>
-					<fpage>s221</fpage>
-					<lpage>s231</lpage>
 					<ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-36342006000800002&amp;lng=es">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0036-36342006000800002&amp;lng=es</ext-link>
 				</element-citation>
 			</ref>
@@ -2114,13 +2277,16 @@ DOI/URL.</p>
     [citado 10 ene 2025]. Disponible en:
     <ext-link ext-link-type="uri" xlink:href="https://salud.gob.mx/unidades/cdi/nom/compi/rlgsmis.html">https://salud.gob.mx/unidades/cdi/nom/compi/rlgsmis.html</ext-link>
 				</mixed-citation>
-				<element-citation publication-type="webpage">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
-							<surname>Secretaria de Salud (SS)</surname>
+							<surname>Secretaria</surname>
+							<given-names>de Salud (SS)</given-names>
 						</name>
 					</person-group>
-					<article-title>Reglamento de la ley general de salud en materia de investigación para la salud</article-title>
+					<article-title>Reglamento de la ley general de salud
+    en materia de investigación para la salud</article-title>
+					<source>[Internet]</source>
 					<year>2020</year>
 					<ext-link ext-link-type="uri" xlink:href="https://salud.gob.mx/unidades/cdi/nom/compi/rlgsmis.html">https://salud.gob.mx/unidades/cdi/nom/compi/rlgsmis.html</ext-link>
 				</element-citation>
@@ -2146,8 +2312,9 @@ DOI/URL.</p>
 							<given-names>AV</given-names>
 						</name>
 					</person-group>
-					<article-title>La experiencia de ser estudiante de enfermería en la nueva normalidad post COVID-19</article-title>
-					<source>Rev. digit. univ</source>
+					<article-title>La experiencia de ser estudiante
+    de enfermería en la nueva normalidad post COVID-19</article-title>
+					<source>Rev</source>
 					<year>2023</year>
 					<volume>24</volume>
 					<issue>5</issue>
@@ -2182,8 +2349,9 @@ DOI/URL.</p>
 							<given-names>JL</given-names>
 						</name>
 					</person-group>
-					<article-title>Estilos parentales y creencias agresivas. El papel mediador de los afectos</article-title>
-					<source>An. psicol</source>
+					<article-title>Estilos parentales y
+    creencias agresivas</article-title>
+					<source>El papel mediador de los afectos</source>
 					<year>2024</year>
 					<volume>40</volume>
 					<issue>1</issue>
@@ -2207,13 +2375,12 @@ DOI/URL.</p>
 							<given-names>RL</given-names>
 						</name>
 					</person-group>
-					<article-title>Relación entre modelos educativos parentales y problemas de conducta en estudiantes</article-title>
-					<source>IE rev. investig. educ. REDIECH</source>
+					<article-title>Relación entre modelos educativos parentales y
+    problemas de conducta en estudiantes</article-title>
+					<source>IE rev</source>
 					<year>2021</year>
 					<volume>12</volume>
 					<issue>1</issue>
-					<fpage>1</fpage>
-					<lpage>14</lpage>
 					<ext-link ext-link-type="uri" xlink:href="https://www.rediech.org/ojs/2017/index.php/ie_rie_rediech/article/view/1120">https://www.rediech.org/ojs/2017/index.php/ie_rie_rediech/article/view/1120</ext-link>
 				</element-citation>
 			</ref>
@@ -2235,8 +2402,10 @@ DOI/URL.</p>
 							<given-names>M</given-names>
 						</name>
 					</person-group>
-					<article-title>Estilos de crianza como predictores del apego, dependencia emocional, abuso psicológico en relaciones de pareja</article-title>
-					<source>REPSI</source>
+					<article-title>Estilos de crianza como predictores del
+    apego, dependencia emocional, abuso psicológico en relaciones de
+    pareja</article-title>
+					<source>REPSI [Internet]</source>
 					<year>2023</year>
 					<volume>6</volume>
 					<issue>15</issue>
@@ -2268,8 +2437,10 @@ DOI/URL.</p>
 							<given-names>AJ</given-names>
 						</name>
 					</person-group>
-					<article-title>Exposición a la violencia familiar y violencia en el noviazgo en adolescentes de Ciudad de México: factores protectores y riesgo</article-title>
-					<source>Psicol. iberoam</source>
+					<article-title>Exposición a la violencia
+    familiar y violencia en el noviazgo en adolescentes de Ciudad de
+    México: factores protectores y riesgo</article-title>
+					<source>Psicol</source>
 					<year>2023</year>
 					<volume>30</volume>
 					<issue>2</issue>
@@ -2293,8 +2464,9 @@ DOI/URL.</p>
 							<given-names>SL</given-names>
 						</name>
 					</person-group>
-					<article-title>Estilos de crianza y su vinculación en el desempeño académico de la básica media</article-title>
-					<source>UBM</source>
+					<article-title>Estilos de crianza y su vinculación en el
+    desempeño académico de la básica media</article-title>
+					<source>UBM [Internet]</source>
 					<year>2024</year>
 					<volume>5</volume>
 					<issue>9</issue>
@@ -2309,11 +2481,12 @@ DOI/URL.</p>
 		<front-stub>
 			<article-categories>
 				<subj-group subj-group-type="heading">
-					<subject>RESEARCH</subject>
+					<subject>Original Article</subject>
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>Association between parenting styles and intimate partner violence among nursing students</article-title>
+				<article-title>Association between parenting styles and intimate partner
+violence among nursing students</article-title>
 			</title-group>
 			<abstract xml:lang="en">
 				<title>Abstract</title>

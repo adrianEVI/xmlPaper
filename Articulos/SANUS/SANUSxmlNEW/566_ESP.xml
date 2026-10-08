@@ -3,38 +3,29 @@
 <article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es">
 	<front>
 		<journal-meta>
-			<journal-id journal-id-type="publisher-id">sanus</journal-id>
-			<journal-title-group>
-				<journal-title>SANUS</journal-title>
-				<abbrev-journal-title abbrev-type="publisher">SANUS</abbrev-journal-title>
-			</journal-title-group>
 			<issn pub-type="epub">2448-6094</issn>
-			<publisher>
-				<publisher-name>Universidad de Sonora</publisher-name>
-			</publisher>
 		</journal-meta>
 		<article-meta>
-			<article-id pub-id-type="doi">https://doi.org/10.36789/sanusrevenf.vi21.566</article-id>
+			<article-id pub-id-type="doi">10.36789/sanusrevenf.vi21.566</article-id>
 			<article-id pub-id-type="other">00566</article-id>
 			<title-group>
-				<article-title>Proceso de enfermería a persona con choque séptico postoperada de laparotomía en terapia intensiva</article-title>
-				<trans-title-group xml:lang="pt">
-					<trans-title>Processo de enfermagem à pessoa com choque séptico após cirurgia de laparotomia em terapia intensiva</trans-title>
-				</trans-title-group>
+				<article-title>The nursing process for a patient with postoperative septic shock following a laparotomy in intensive care</article-title>
 				<trans-title-group xml:lang="en">
-					<trans-title>The nursing process for a patient with postoperative septic shock following a laparotomy in intensive care</trans-title>
+					<trans-title>Nursing process for a person with septic shock after laparotomy
+surgery in intensive care</trans-title>
 				</trans-title-group>
 			</title-group>
 			<contrib-group>
 				<contrib contrib-type="author">
 					<contrib-id contrib-id-type="orcid">0009-0009-2815-8866</contrib-id>
 					<name>
-						<surname>López-Navarro</surname>
-						<given-names>José Manuel</given-names>
+						<surname>Manuel López-Navarro</surname>
+						<given-names>José</given-names>
 					</name>
 					<xref ref-type="aff" rid="aff1">
 						<sup>1</sup>
 					</xref>
+					<role>Proceso de enfermería a persona con choque séptico postoperada de laparotomía en terapia intensiva</role>
 					<xref ref-type="corresp" rid="c1">
 						<sup>*</sup>
 					</xref>
@@ -42,32 +33,34 @@
 				<contrib contrib-type="author">
 					<contrib-id contrib-id-type="orcid">0000-0002-8154-2818</contrib-id>
 					<name>
-						<surname>Valle-Figueroa</surname>
-						<given-names>María del Carmen</given-names>
+						<surname>Carmen Valle-Figueroa</surname>
+						<given-names>María del</given-names>
 					</name>
-					<xref ref-type="aff" rid="aff1">
-						<sup>1</sup>
+					<xref ref-type="aff" rid="aff2">
+						<sup>2</sup>
 					</xref>
 				</contrib>
 				<contrib contrib-type="author">
 					<contrib-id contrib-id-type="orcid">0000-0003-3725-4226</contrib-id>
 					<name>
-						<surname>Quintana-Zavala</surname>
-						<given-names>María Olga</given-names>
+						<surname>Olga Quintana-Zavala</surname>
+						<given-names>María</given-names>
 					</name>
-					<xref ref-type="aff" rid="aff1">
-						<sup>1</sup>
+					<xref ref-type="aff" rid="aff3">
+						<sup>3</sup>
 					</xref>
+					<role>Master's Degree in Competency-Based Education</role>
 				</contrib>
 				<contrib contrib-type="author">
 					<contrib-id contrib-id-type="orcid">0009-0001-1911-1865</contrib-id>
 					<name>
-						<surname>Ponce-Meza</surname>
-						<given-names>Claudia Irene</given-names>
+						<surname>Irene Ponce-Meza</surname>
+						<given-names>Claudia</given-names>
 					</name>
-					<xref ref-type="aff" rid="aff1">
-						<sup>1</sup>
+					<xref ref-type="aff" rid="aff4">
+						<sup>4</sup>
 					</xref>
+					<role>Doctor in Nursing</role>
 				</contrib>
 				<contrib contrib-type="author">
 					<contrib-id contrib-id-type="orcid">0000-0002-5025-1030</contrib-id>
@@ -75,27 +68,51 @@
 						<surname>Figueroa-Ibarra</surname>
 						<given-names>Claudia</given-names>
 					</name>
-					<xref ref-type="aff" rid="aff1">
-						<sup>1</sup>
+					<xref ref-type="aff" rid="aff5">
+						<sup>5</sup>
 					</xref>
+					<role>Master's Degree in Competency-Based Education</role>
 				</contrib>
-				<aff id="aff1">
-					<label>1</label>
-					<institution content-type="original">Universidad de Sonora, Departamento de Enfermería, Hermosillo, Sonora, México</institution>
-					<institution content-type="orgname">Universidad de Sonora</institution>
-					<institution content-type="orgdiv1">Departamento de Enfermería</institution>
+				<aff id="aff2">
+					<label>2</label>
+					<institution content-type="original">Nurse Specialist in Intensive Care, Sonora, México.</institution>
+					<institution content-type="orgname">Nurse Specialist in Intensive Care</institution>
 					<addr-line>
-						<city>Hermosillo</city>
-						<state>Sonora</state>
+						<city>Sonora</city>
 					</addr-line>
-					<country country="MX">México</country>
-					<email>josemanuel.navarro@unison.mx</email>
+					<country country="MX">México.</country>
+				</aff>
+				<aff id="aff3">
+					<label>3</label>
+					<institution content-type="original">Departamento de Enfermería, Sonora, México.</institution>
+					<institution content-type="orgname">Departamento de Enfermería</institution>
+					<addr-line>
+						<city>Sonora</city>
+					</addr-line>
+					<country country="MX">México.</country>
+				</aff>
+				<aff id="aff4">
+					<label>4</label>
+					<institution content-type="original">Departamento de Enfermería, Sonora, México.</institution>
+					<institution content-type="orgname">Departamento de Enfermería</institution>
+					<addr-line>
+						<city>Sonora</city>
+					</addr-line>
+					<country country="MX">México.</country>
+				</aff>
+				<aff id="aff5">
+					<label>5</label>
+					<institution content-type="original">Departamento de Enfermería, Sonora, México.</institution>
+					<institution content-type="orgname">Departamento de Enfermería</institution>
+					<addr-line>
+						<city>Sonora</city>
+					</addr-line>
+					<country country="MX">México.</country>
 				</aff>
 			</contrib-group>
 			<author-notes>
 				<corresp id="c1">
-					<label>*</label>Autor para correspondencia: José Manuel López-Navarro Correo-e: <email>josemanuel.navarro@unison.mx</email>
-				</corresp>
+					<label>*</label>Autor para correspondencia: José Manuel López-Navarro Correo-e: </corresp>
 			</author-notes>
 			<pub-date date-type="pub" publication-format="electronic">
 				<day>01</day>
@@ -106,8 +123,8 @@
 				<season>Jan-Dec</season>
 				<year>2025</year>
 			</pub-date>
-			<volume>10</volume>
-			<issue>21</issue>
+			<volume>1</volume>
+			<issue>041109</issue>
 			<elocation-id>e566</elocation-id>
 			<history>
 				<date date-type="received">
@@ -203,13 +220,302 @@
 				<title>Palabras clave:</title>
 				<kwd>Proceso de enfermería</kwd>
 				<kwd>Choque séptico</kwd>
-				<kwd>Enfermería de cuidados críticos</kwd>
+				<kwd>Enfermería de cuidados críticos (DeCS)</kwd>
 			</kwd-group>
 			<kwd-group xml:lang="pt">
 				<title>Palavras-chave:</title>
 				<kwd>Processo de enfermagem</kwd>
 				<kwd>Choque séptico</kwd>
-				<kwd>Enfermagem em terapia intensiva</kwd>
+				<kwd>Enfermagem em terapia intensiva (DeCS). Introducción La profesión de enfermería se caracteriza por ofrecer cuidados   basados en conocimientos y técnicas específicas para cada individuo</kwd>
+				<kwd>familia o comunidad</kwd>
+				<kwd>a través de la metodología del Proceso de   Enfermería (PE)</kwd>
+				<kwd>que se define como un conjunto de pasos lógicos</kwd>
+				<kwd>dinámicos y sistemáticos con el objetivo de brindar cuidados de   enfermería sustentado en la evidencia de carácter científico y el   pensamiento crítico (1) . Durante el desarrollo del PE</kwd>
+				<kwd>la   enfermera o enfermero valora y diagnóstica y con esto se planifica</kwd>
+				<kwd>ejecuta y evalúa intervenciones encaminadas al mejoramiento y/o   mantenimiento de la salud</kwd>
+				<kwd>considerando la totalidad</kwd>
+				<kwd>seguridad y   sobre todo continuidad requerida en el cuidado</kwd>
+				<kwd>(2)</kwd>
+				<kwd>en el caso de las personas que se   encuentran críticamente enfermas</kwd>
+				<kwd>por lo regular son atendidas dentro   de unidades de terapia intensiva (UTI) o cuidados críticos y uno de   los problemas más complejos en dicho contexto es el proceso séptico   constituyendo una causa importante de morbimortalidad</kwd>
+				<kwd>especialmente   cuando se presenta una disfunción multiorgánica</kwd>
+				<kwd>afectando a distintos   aparatos y sistemas evolucionando gradualmente a un choque séptico</kwd>
+				<kwd>que constituye una estadía prolongada en la UTI</kwd>
+				<kwd>altos costos   intrahospitalarios y una disminución de la calidad de vida de los   pacientes que lo superan (3) . La gravedad de las enfermedades y complicaciones de los pacientes   que ingresan a la UTI hace imprescindible el proporcionar la atención   y continuidad a los cuidados que requieren</kwd>
+				<kwd>por ello la importancia de   implementar el PE como metodología científica en UTI y con esto   garantizar un cuidado de calidad que tome en cuenta los múltiples   requerimientos del paciente (4</kwd>
+				<kwd>5) . Es a través de la   valoración por Patrones Funcionales de Salud (PFS) de Marjory Gordon</kwd>
+				<kwd>como marco</kwd>
+				<kwd>que se obtiene un panorama completo de las respuestas   humanas de los individuos</kwd>
+				<kwd>familias y comunidades en los distintos   procesos vitales y/o problemas de salud. Este marco se basa en once   PFS</kwd>
+				<kwd>que permiten realizar una valoración al paciente de manera   holística y con esto identificar con precisión las respuestas humanas   y posterior a ello</kwd>
+				<kwd>seleccionar las intervenciones de enfermería   adecuadas para mejorar los procesos vitales o resolver los problemas   de salud y disminuir los riesgos (6) . El choque séptico como patología representa un reto tanto para el   sector salud</kwd>
+				<kwd>el personal de enfermería y por supuesto para las   personas que lo viven</kwd>
+				<kwd>así como sus familias. El sector salud</kwd>
+				<kwd>en el   caso de los hospitales públicos enfrentan los altos costos económicos   asociado a las complicaciones y procedimientos y por otro lado el   incremento en las tasas de mortalidad</kwd>
+				<kwd>para el personal de enfermería   por la complejidad del cuidado que significa y a los pacientes que lo   experimentan y sus familias</kwd>
+				<kwd>a causa de que está en peligro su vida   por constituir una patología compleja que se induce por la respuesta   del sistema inmunológico del huésped a un proceso infeccioso (7)</kwd>
+				<kwd>por lo anterior</kwd>
+				<kwd>se presenta un caso clínico con el   objetivo de aplicar el PE a una persona en estado de choque séptico de   origen intestinal posterior a laparotomía exploradora hospitalizada en   UTI. Metodología Estudio de caso clínico único a mujer adulta de 41 años de edad</kwd>
+				<kwd>en   el servicio de UTI</kwd>
+				<kwd>durante 3 días de intervención de enfermería</kwd>
+				<kwd>fundamentado científicamente en el PE basado en los 11 PFS de Marjory   Gordon para la valoración de enfermería. Se desarrolló el PE   cumpliendo las cinco etapas: Valoración de enfermería</kwd>
+				<kwd>donde se   recolectaron los datos por medio de la exploración física y fuentes   secundarias. Posteriormente</kwd>
+				<kwd>se realizó un análisis crítico</kwd>
+				<kwd>documentando los hallazgos encontrados e identificando seis   diagnósticos de enfermería</kwd>
+				<kwd>los cuales se priorizaron según el modelo   de enfermería Análisis de Resultados del Estado Actual (AREA) como   herramienta de razonamiento clínico para el análisis de resultados del   estado actual y posterior la planificación de cuidados (8) (Figura 1). Figura 1. Red de razonamiento de diagnósticos de enfermería según   el modelo AREA</kwd>
+				<kwd>2025 Diagrama El contenido generado por IA puede ser     incorrecto. Fuente: Elaboración propia En la etapa de planeación</kwd>
+				<kwd>se desarrolló la planificación de los   cuidados utilizando como base la taxonomía profesional de Diagnósticos   de enfermería (NANDA-I) (9)</kwd>
+				<kwd>Resultados esperados (NOC) (10) e Intervenciones de enfermería (NIC) (11)</kwd>
+				<kwd>con el fin de facilitar la ejecución de las intervenciones descritas</kwd>
+				<kwd>la evaluación de su eficacia y eficiencia</kwd>
+				<kwd>la ejecución y la   evaluación de enfermería. La información obtenida se describe en los   formatos de los planes de cuidados</kwd>
+				<kwd>las intervenciones realizadas y la   evolución presentada por la paciente. El estudio tuvo como sustento   ético el garantizar el anonimato y confidencialidad en la obtención de   datos</kwd>
+				<kwd>así como el respeto de los principios éticos dirigidos al   paciente: autonomía</kwd>
+				<kwd>justicia</kwd>
+				<kwd>no maleficencia y beneficencia (12) . Presentación del caso M.C.A.G.</kwd>
+				<kwd>persona femenina de 41 años</kwd>
+				<kwd>mexicana que acudió en   ambulancia al servicio de urgencias de un hospital público por   probable neumonía por broncoaspiración e infección de herida   quirúrgica por laparotomía exploratoria secundaria a oclusión   intestinal con derivación intestinal (colostomía ascendente). Como   antecedentes heredofamiliares se encontró por línea paterna y materna   hipertensión arterial sistémica e hipercolesterolemia. La paciente ingresó el 15 de febrero del 2023 en estado de   somnolencia</kwd>
+				<kwd>con datos de dificultad respiratoria evidenciando   taquipnea (30 respiraciones por minuto</kwd>
+				<kwd>tiraje intercostal y quejido   respiratorio)</kwd>
+				<kwd>requiriendo apoyo de oxigenoterapia con mascarilla con   reservorio a 10 litros por minutos. Taquicardia sinusal (120 latidos   por minuto)</kwd>
+				<kwd>hipotensión arterial (80/40 mmHg)</kwd>
+				<kwd>hipoxemia (85 %) y   datos de hipoperfusión tisular (palidez generalizada y llenado capilar   alargado de 6 segundos). Se inició apoyo de fluidoterapia con solución   Hartmann 1000 ml a 125 ml/hr y Norepinefrina 16 mg en 100 ml de   solución glucosada al 5% dosis respuesta iniciando a 5 ml/h. Se   identificó hipoperistaltismo intestinal y ausencia de eliminación   intestinal por efluente (ostomía). Eliminación urinaria por sonda   vesical tipo Foley con datos de oliguria (0.3 ml/kg/hr) y   concentración elevada de orina. Posteriormente persistió con datos de choque séptico</kwd>
+				<kwd>inestabilidad   hemodinámica</kwd>
+				<kwd>aumentando progresivamente dosis del vasopresor hasta 15   ml/hr. Además de datos del incremento de la insuficiencia   respiratoria</kwd>
+				<kwd>presentando hipoxemia (83 %) y taquipnea de 35   respiraciones por minuto (rpm)</kwd>
+				<kwd>a pesar de apoyo de oxigenoterapia con   mascarilla con reservorio. Se indicó requerimiento de soporte   respiratorio invasivo</kwd>
+				<kwd>por lo que se realizó intubación orotraqueal   con tubo no. 8.0</kwd>
+				<kwd>con ventilación mecánica asistida en modalidad   asisto controlado</kwd>
+				<kwd>Fracción inspirada de oxígeno (FiO2) de 100 %</kwd>
+				<kwd>Presión inspiratoria (PI) de 15 cmH 2 0</kwd>
+				<kwd>presión positiva al   final de la espiración (PEEP) de 7.0 cmH 2 0</kwd>
+				<kwd>Relación   inspiración-espiración(I:E) de 1:2</kwd>
+				<kwd>Frecuencia de ciclados (FC) de 15   por minuto</kwd>
+				<kwd>con apoyo de sedo-analgesia profunda con infusión de   Midazolam 100 mg aforados en 100 ml de solución cloruro de sodio 0.9 %   administrando a 14 ml/hr</kwd>
+				<kwd>Propofol 1 gr/100 ml sin dilución agregada a   15 ml/hr</kwd>
+				<kwd>Fentanilo 500 mcg/10ml sin dilución agregada a 2 ml/hr</kwd>
+				<kwd>Rocuronio 250 mg aforados en 100 ml solución cloruro de sodio al 0.9 %   a 7ml/hr. Posteriormente se inició tratamiento de antibioterapia con   carbapenémicos y lincosamidas. En fuentes secundarias presentó acidosis mixta</kwd>
+				<kwd>leucocitosis</kwd>
+				<kwd>trombocitopenia y en radiografía de tórax se encontró radiolucidez   pulmonar en ápice derecha e infiltración alveolar bilateral. Dos días   después fue ingresada a la UTI por choque séptico posterior a   laparotomía exploratoria secundaria a oclusión intestinal con   derivación intestinal (colostomía ascendente)</kwd>
+				<kwd>síndrome de dificultad   respiratoria aguda derivado de neumonía por broncoaspiración y   neumotórax derecho. La valoración de enfermería se realiza tres días posteriores al   ingreso. En cuanto al patrón nutricional metabólico</kwd>
+				<kwd>se brindó apoyo   nutricional con nutrición parenteral total con un aporte de 1400 kcal   y ayuno hasta nueva orden. Piel íntegra</kwd>
+				<kwd>con leve palidez generalizada   con adecuada turgencia y temperatura conservada en todas las áreas.   Presentó hipotermia (35.5ºC) axilar según Kosier. Se evidenció un   índice de masa corporal de 43.3 kg/m2</kwd>
+				<kwd>es decir</kwd>
+				<kwd>Obesidad tipo III</kwd>
+				<kwd>según NOM-008-SSA3-2017. Se instaló sonda nasogástrica a derivación   con contenido de características biliares. Presentaba edema en   miembros superiores e inferiores en grado 2 según escala de Godette   (++). Cabeza</kwd>
+				<kwd>cuero cabelludo</kwd>
+				<kwd>cara</kwd>
+				<kwd>cuello y cavidad bucodental sin   alteraciones</kwd>
+				<kwd>según Guía Seidel de exploración física. Presentaba herida en hipogastrio por laparotomía exploratoria con   presencia de suturas en dos tercios proximales y leve visualización de   tejido de granulación en tercio distal con eritema periférico y   enrojecimiento</kwd>
+				<kwd>el cual estaba expuesto</kwd>
+				<kwd>además de drenaje pasivo   (penrose) con contenido purulento levemente fétido</kwd>
+				<kwd>correctamente   implantado. Presentó lesión por presión en zona sacra en estadio 2. El   balance hídrico de 24 horas fue positivo de 676.5 ml. En fuentes   secundarias presentó hiperglucemia (153 mg/dL)</kwd>
+				<kwd>leucocitosis (14.72   10 3 /ul)</kwd>
+				<kwd>linfopenia (47 %)</kwd>
+				<kwd>neutrofilia (91.9 %)</kwd>
+				<kwd>anemia   normocítica hipocrómica (Hemoglobina: 8.3g/dl</kwd>
+				<kwd>Volumen corpuscular   medio 87 fL</kwd>
+				<kwd>y Hemoglobina corpuscular media: 28.9 g/dL). Dentro del patrón actividad ejercicio</kwd>
+				<kwd>se observó normotórax</kwd>
+				<kwd>relación entre diámetros anteroposterior y transverso normal.   Ventilación mecánica asistida con parámetros establecidos y dinámicos:   Modalidad: Asisto/Controlado</kwd>
+				<kwd>Modo: Presión</kwd>
+				<kwd>PI: 15 cmH 2 O</kwd>
+				<kwd>FiO2: 50 %</kwd>
+				<kwd>PEEP: 8 H 2 O</kwd>
+				<kwd>FC de 18 por minuto</kwd>
+				<kwd>humidificador   activo. La paciente presentaba estertores en área traqueal. Saturación   de oxígeno limítrofe (93 %) del rango de lo normal según PISA.   Evidencia de taquipnea (35 rpm)</kwd>
+				<kwd>confirmando desacoplamiento moderado   al ventilador mecánico. Campos pulmonares con presencia de estertores   en ápices y bases. Presentó leve hipotensión arterial (109/80 mm Hg   presión arterial media (PAM) de 89 mmHg dependiente de infusión   continua de norepinefrina 16 mg en 100 ml de solución glucosada al 5 %   a 18 ml/hr dosis respuesta</kwd>
+				<kwd>taquicardia sinusal (110 latidos por   minuto) y ruidos cardíacos centrales normales según Guía Seidel de   exploración física. Contaba con catéter venoso central FR 7 de 3   lúmenes en vena subclavia derecha instalado el 16 de febrero del 2023</kwd>
+				<kwd>sin datos de sangrado ni secreciones. Se encontraba con prolongación   del llenado capilar (6 segundos). Con presencia de alto riesgo de   caídas con 5 puntos según escala de Downton. En fuentes secundarias se   encontró acidosis mixta (pH: 7.23</kwd>
+				<kwd>pCO2 82 mmHg</kwd>
+				<kwd>PO2</kwd>
+				<kwd>155 mmHg y HCO3   34.3 mmol/L EB:-9). A la valoración de radiografía anteroposterior de   tórax se identificó infiltración alveolar difuso que afectaba al   espacio aéreo y se evidenciaban opacidades bilaterales en bases y   radiolucidez en ápice derecho. En el patrón cognitivo-perceptivo</kwd>
+				<kwd>se informó sobre órganos   sensoriales sin alteraciones según Guía Seidel de exploración física</kwd>
+				<kwd>a excepción de hiporreactividad pupilar a la luz. con puntuación de -2   en escala RASS presentando sedación moderada donde mostraba leve   apertura de ojos y realizaba leve movimiento de miembros inferiores   sin vencer gravedad. En valoración de dolor con escala behavioral pain   scale (BPS) se clasificó con dolor inaceptable (6 puntos)</kwd>
+				<kwd>evidenciando desacoplamiento del ventilador</kwd>
+				<kwd>movimiento de miembros   inferiores y leve contracción facial. Al explorar el patrón sexualidad-reproducción</kwd>
+				<kwd>se observó genitales   y glándulas mamarias sin alteraciones. Los patrones de mantenimiento y percepción de la salud</kwd>
+				<kwd>sueño   descanso</kwd>
+				<kwd>autopercepción-autoconcepto</kwd>
+				<kwd>rol relaciones</kwd>
+				<kwd>afrontamiento y   tolerancia al estrés y valores y creencias</kwd>
+				<kwd>no tuvieron datos a causa   de sedo-analgesia</kwd>
+				<kwd>ventilación mecánica invasiva y por no obtener   información secundaria por parte de los familiares. Resultados Mediante la valoración de enfermería por PFS se identificaron   diagnósticos de enfermería derivados de problemas reales o potenciales   que presentó la paciente. Con base a los datos obtenidos en el patrón   nutricional metabólico</kwd>
+				<kwd>actividad ejercicio y eliminación   principalmente se identificó la etiqueta diagnóstica: 00421. Volumen   de líquidos inadecuado</kwd>
+				<kwd>como prioridad para la restauración del estado   hemodinámico de la paciente</kwd>
+				<kwd>(Tabla 1). Tabla 1. Plan de cuidados dirigido al diagnóstico de enfermería   00421Volumen de líquidos inadecuado Diagnóstico de enfermería (NANDA) Resultado esperado (NOC) 00421. Volumen de líquidos inadecuado r/c           Dificultad para obtener líquidos</kwd>
+				<kwd>ingreso inadecuado de           líquidos m/p Alteración en la turgencia de la piel</kwd>
+				<kwd>disminución de la presión arterial</kwd>
+				<kwd>disminución del volumen           del pulso</kwd>
+				<kwd>disminución en la producción de orina</kwd>
+				<kwd>incremento           de la frecuencia cardíaca. 421. Severidad del shock: séptico Dominio: 2. Salud fisiológica Clase: E. Cardiopulmonar Indicadores: 042101. Disminución de la presión arterial sistólica 042102. Disminución de la presión arterial diastólica 042103. Aumento de la frecuencia cardíaca 042106. Aumento de la frecuencia respiratoria 042110. Disminución del oxígeno arterial 042111. Aumento de la temperatura corporal 042116. Palidez 042117. Coagulación intravascular 042118. Disminución de la diuresis 042119. Ruidos intestinales hipoactivo. Intervenciones de enfermería           (NIC) 4250. Manejo del shock Campo: 2. Fisiológico: complejo Clase: N. Control de la           perfusión tisular Actividades: Monitorizar los signos vitales</kwd>
+				<kwd>presión arterial</kwd>
+				<kwd>estado           mental y diuresis. Colocar al paciente en una posición que optimice la           perfusión. Instaurar y mantener la permeabilidad de las vías           aéreas. Vigilar la pulsioximetría. Administrar oxígeno y/o ventilación mecánica. Utilizar monitorización de la línea arterial para mejorar           la exactitud de las lecturas de la presión arterial. Realizar una gasometría arterial. Controlar las tendencias de los parámetros           hemodinámicos. Vigilar los factores determinantes del aporte de oxígeno           tisular Observar si hay síntomas de insuficiencia respiratoria. Monitorizar los valores de laboratorio. Administrar líquidos cristaloides o coloides I.V.</kwd>
+				<kwd>según           corresponda. Monitorizar el estado hiperdinámico del shock séptico tras           la reanimación con líquidos. Iniciar la administración temprana de antibióticos y           comprobar cuidadosamente su eficacia. Monitorizar la glucemia y tratar los niveles anormales</kwd>
+				<kwd>según cada caso. Monitorizar el estado de hidratación. Monitorizar la función renal. Administrar diuréticos. Administrar profilaxis para TVP y úlceras de estrés. 4255. Manejo del shock: sepsis Campo: 2. Fisiológico: complejo Clase: N. Control de la           perfusión tisular Utilizar herramientas de cribado apropiadas una vez           establecido el nivel de riesgo (qSOFA y SOFA). Evaluar las constantes vitales y los valores de laboratorio           utilizando los criterios prescritos de las herramientas de           cribado. Retirar cualquier posible fuente de infecciones. Seguir el protocolo del paquete de cuidados de la sepsis           para todas las personas con resultados positivos en el cribado           e infecciones confirmadas</kwd>
+				<kwd>en los plazos prescritos. Monitorizar continuamente los niveles de lactato cuando sea           &gt;2 mmol/l. Administrar antibióticos de forma temprana. Utilizar vasopresores para mantener la PAM ≥65 mmHg. Reexaminar el estado de volumen y la perfusión tisular tras           la administración inicial de líquido si persiste la           hipotensión (PAM &lt;65 mmHg) o si el lactato inicial era ≥4           mmol/l. Documentar todas las reevaluaciones y las medidas de           reanimación en curso. Mantener un cribado continuo de los criterios de evaluación           secuencial de fallo orgánico (SOFA) en las personas de riesgo           que cumplan los requisitos. Monitorizar los indicadores de detección precoz. Instruir sobre los signos de infección</kwd>
+				<kwd>cómo vigilar la           temperatura</kwd>
+				<kwd>la necesidad de tomar todos los antibióticos           prescritos hasta su finalización y la importancia del tiempo           en caso de infecciones graves. Evaluación de enfermería Utilizando la escala tipo Likert           de los NOC</kwd>
+				<kwd>se valoró cada indicador con base a las           actividades específicas aplicadas. En primera instancia</kwd>
+				<kwd>los           indicadores 042101 y 042101 referentes a la presión arterial           aumentaron sustancialmente el puntaje de 2 a 4</kwd>
+				<kwd>con el apoyo           de vasopresor en infusión intravenosa y la reanimación de           líquidos. Se valoraron de forma constante los signos vitales           de la paciente</kwd>
+				<kwd>evidenciando cambio en la frecuencia           respiratoria (042106) y oxígeno arterial (042110) con apoyo de           ventilación mecánica invasiva aumentando indicadores de 1a 3.           Se monitorizó el estado de hidratación y función renal (042116           y 042118)</kwd>
+				<kwd>mediante el cálculo de diuresis horaria</kwd>
+				<kwd>se           estimuló con la administración de líquidos y de diuréticos</kwd>
+				<kwd>mejorando indicadores de 3 a 5 pasando de 0.3 a 0.7 ml/kg/hr           de diuresis horaria. Fuente: Elaboración propia En segunda instancia</kwd>
+				<kwd>al hacer una valoración de la función   respiratoria de la paciente en el patrón actividad ejercicio</kwd>
+				<kwd>se   identificó el diagnóstico de enfermería: 00030. Deterioro del   intercambio gaseoso como respuesta humana prioritaria al contar con   apoyo ventilatorio invasivo</kwd>
+				<kwd>(Tabla 2). Tabla 2. Plan de cuidados dirigido al diagnóstico de enfermería:   Deterioro del intercambio gaseoso Diagnóstico de enfermería (NANDA) Resultado esperado (NOC) 00030. Deterioro del intercambio gaseoso r/c           patrón respiratorio ineficaz m/p hipercapnia (82 mmHg)</kwd>
+				<kwd>pH           arterial anormal (7.2)</kwd>
+				<kwd>color anormal en la piel</kwd>
+				<kwd>hipoxemia</kwd>
+				<kwd>hipoxia</kwd>
+				<kwd>taquicardia</kwd>
+				<kwd>taquipnea. 0411. Respuesta de la ventilación           mecánica: adulto Dominio: II. Salud fisiológica Clase: E. Cardiopulmonar Indicadores: 0D41102. Frecuencia respiratoria 041103. Ritmo respiratorio 041107. Capacidad vital 041108. Fracción de oxígeno inspirado (FiO2) satisface la           demanda de oxígeno 041109. Presión parcial de oxígeno en la sangre arterial           (PaO2) 041110. Presión parcial de dióxido de carbono en la sangre           arterial (PaCO2) 041111. pH arterial 041112. Saturación de oxígeno 041113. Perfusión del tejido periférico 041124. Dificultad para respirar con el ventilador 041127. Sonidos respiratorios adventicios 041134. Atelectasias 041130. Hipoxia 041131. Infección pulmonar 041132. Secreciones respiratorias 041137. Cognición 041128. Inquietud Intervenciones de enfermería           (NIC) 3300. Manejo de la ventilación           mecánica: invasiva Campo: 2. Fisiológico: complejo Clase: K. Manejo           respiratorio Actividades: Consultar con otros profesionales sanitarios para la           selección del modo del ventilador. Asegurarse de que las alarmas del ventilador están           conectadas. Comprobar regularmente todas las conexiones del           ventilador. Administrar y manejar los agentes paralizantes musculares</kwd>
+				<kwd>sedantes y analgésicos narcóticos que sean apropiados. Controlar los síntomas que indican un aumento del trabajo           respiratorio Vigilar la eficacia de la ventilación mecánica sobre el           estado fisiológico y psicológico del paciente. Proporcionar cuidados para aliviar las molestias del           paciente. Vaciar el agua condensada de los colectores de agua. Realizar aspiración</kwd>
+				<kwd>en función de la presencia de sonidos           adventicios y/o aumento de las presiones inspiratorias. Controlar la cantidad</kwd>
+				<kwd>color y consistencia de las           secreciones pulmonares</kwd>
+				<kwd>y documentar los resultados           periódicamente. Fomentar las evaluaciones rutinarias para los criterios de           destete. Establecer el cuidado bucal de forma rutinaria con gasas           blandas húmedas</kwd>
+				<kwd>antiséptico y succión suave. Monitorizar los efectos de los cambios del ventilador sobre           la oxigenación. 2260. Manejo de la sedación. Dominio: 2 Fisiológico: complejo Clase: H Manejo de la medicación Actividades: Comprobar si existían alergias a fármacos. Revisar los medicamentos y comprobar la ausencia de           contraindicaciones para la sedación. Revisar el consentimiento informado escrito. Evaluar el nivel de consciencia del paciente y los reflejos           protectores antes de proceder con la sedación. Determinar los signos vitales basales</kwd>
+				<kwd>la saturación de           oxígeno</kwd>
+				<kwd>el ECG</kwd>
+				<kwd>la talla y el peso. Asegurarse de que el equipo de reanimación de urgencia           estaba disponible con facilidad</kwd>
+				<kwd>en concreto</kwd>
+				<kwd>una fuente para           administrar O 2 al 100 %</kwd>
+				<kwd>medicación de urgencia y           un desfibrilador. Administrar medicación según la prescripción del           profesional médico</kwd>
+				<kwd>ajustándola con cuidado según la respuesta           del paciente. Monitorizar el nivel de consciencia</kwd>
+				<kwd>la vía respiratoria</kwd>
+				<kwd>los signos vitales</kwd>
+				<kwd>la saturación de oxígeno</kwd>
+				<kwd>el CO2           espiratorio final y el ECG durante el procedimiento. Monitorizar si se producen efectos adversos como           consecuencia de la medicación tras su administración. Utilizar una escala de sedación para determinar el nivel de           consciencia (RASS). Asegurar la disponibilidad de antagonistas y           administrarlos</kwd>
+				<kwd>según correspondía</kwd>
+				<kwd>de acuerdo con la           prescripción del médico. Documentar las acciones y la respuesta. Evaluación de enfermaría Los NOC que se valoraron           mejoraron de forma sustancial. Dentro de los indicadores se           encuentran la frecuencia</kwd>
+				<kwd>el ritmo y la capacidad           respiratoria</kwd>
+				<kwd>los cuales mejoraron de 1a 4 con cambios           específicos realizados al ventilador mecánico y el aumento de           dosis de sedación según la indicación médica. Se valoró           constantemente el estado de respuesta y conciencia con la           escala Agitación y Sedación de Richmond</kwd>
+				<kwd>el indicador 041128           mejoró de 2 a 4. El pH arterial y el dióxido de carbono se           mantuvieron en 3</kwd>
+				<kwd>al no presentar mejora de los signos de           acidosis respiratoria. Fuente: Elaboración propia También se estableció el diagnóstico de enfermería 00031. Limpieza   ineficaz de vías aéreas como respuesta a la disminución de respuesta   neurológica por sedo-analgesia inducida y el aumento de producción de   secreciones por la irritación del tubo orotraqueal</kwd>
+				<kwd>(Tabla 3). Tabla 3. Plan de cuidados dirigido al diagnóstico de enfermería:   Limpieza ineficaz de las vías aéreas Diagnóstico de enfermería (NANDA) Resultado esperado (NOC) 00031. Limpieza ineficaz de las vías aéreas           r/c Retención de las secreciones e/p sonidos respiratorios           adventicios</kwd>
+				<kwd>alteración del ritmo respiratorio</kwd>
+				<kwd>Taquipnea. 0410. Estado respiratorio: permeabilidad           de las vías respiratorias Dominio: II. Salud fisiológica Clase: E. Cardiopulmonar Indicadores: 041004. Frecuencia respiratoria 041005. Ritmo respiratorio 041012. Capacidad de eliminar secreciones 041022. Índice de masa corporal (IMC) 041007. Ruidos respiratorios patológicos 041018. Uso de músculos accesorios 041028. Secreciones en las vías respiratorias 041030. Inflamación de los tejidos de las vías           respiratorias Intervenciones de enfermería           (NIC) 3900. Aspiración de las vías           áreas Campo: 2. Fisiológico: complejo Clase: K. Manejo           respiratorio Actividades: Realizar el lavado de manos. Usar precauciones universales. Usar el equipo de protección personal. Determinar la necesidad de la aspiración oral y/o           traqueal. Auscultar sonidos respiratorios antes y después de la           aspiración. Proporcionar sedación. Hiperoxigenar con oxígeno al 100%</kwd>
+				<kwd>durante al menos 30           segundos mediante la utilización del ventilador. Utilizar aspiración de sistema cerrado. Utilizar equipo desechable estéril para cada procedimiento           de aspiración. Dejar al paciente conectado al ventilador durante la           aspiración</kwd>
+				<kwd>si se utiliza un sistema de aspiración traqueal           cerrado o un adaptador de dispositivo de insuflar oxígeno. Monitorizar el estado de oxigenación del paciente. Detener la aspiración traqueal y suministrar oxígeno           suplementario si el paciente experimenta bradicardia</kwd>
+				<kwd>un           aumento de las extrasístoles ventriculares y/o           desaturación. Controlar y observar el color</kwd>
+				<kwd>cantidad y consistencia de           las secreciones. Evaluación de enfermería Mediante la intervención de           aspiración de vías aéreas</kwd>
+				<kwd>se pudo aumentar el puntaje Likert           de ciertos indicadores del resultado esperado valorado. La           frecuencia respiratoria de la paciente disminuyó llegando a           rangos normales</kwd>
+				<kwd>es decir la puntuación del indicador 041004           aumentó de 3 a 5</kwd>
+				<kwd>el indicador 041005 tuvo mejoría notable.           Los estertores como ruidos respiratorios patológicos se           redujeron por completo. Fuente: Elaboración propia. En cuanto a los hallazgos encontrados en el patrón nutricional   metabólico</kwd>
+				<kwd>se identificó la etiqueta diagnóstica: 00044. Deterioro de   la integridad tisular</kwd>
+				<kwd>(Tabla 4). Tabla 4. Plan de cuidados dirigido al diagnóstico de enfermería:   00044 Deterioro de la integridad tisular Diagnóstico de enfermería (NANDA) Resultado esperado (NOC) 00044. Deterioro de la integridad tisular r/c           Desequilibrio de fluidos</kwd>
+				<kwd>excretas m/p crecimiento anormal del           tejido</kwd>
+				<kwd>alteración en el color de la piel</kwd>
+				<kwd>eritema           persistente. 1103. Curación de la herida: por segunda           intención. Dominio: II. Salud fisiológica Clase: L. Integridad tisular Indicadores: 110301. Granulación 110320. Formación de cicatriz 110321. Disminución del tamaño de la herida 110303. Secreción purulenta 110304. Secreción serosa 110305. Secreción sanguinolenta 110307. Eritema cutáneo circundante 110322. Inflamación de la herida 110308. Edema perilesional 110317. Mal olor de la herida Intervenciones de enfermería           (NIC) 3660. Cuidados de las           heridas Campo: 2. Fisiológico: complejo Clase: L. Manejo de la           piel/heridas Actividades: Vigilar el estado de oxigenación antes y después de un           cambio de posición. Colocar en la posición terapéutica especificada. Colocar en posición de alineación corporal correcta. Elevar la parte corporal afectada. Poner apoyos en las zonas edematosas (miembros superiores e           inferiores). Evitar colocar al paciente en una posición que le aumente           el dolor. Minimizar la fricción y las fuerzas de cizallamiento al           cambiar de posición al paciente. Girar al paciente en bloque. Evaluación de enfermería La NIC aplicada para aumentar           puntuación del resultado esperado fue levemente eficaz</kwd>
+				<kwd>ya que           la herida quirúrgica presentaba alteraciones graves. Los           indicadores del NOC aumentaron de 1 a 2 con la curación de           heridas</kwd>
+				<kwd>disminuyó levemente las secreciones excretadas por la           herida y el mal olor. Si embargo</kwd>
+				<kwd>se conservó puntuación en la           granulación</kwd>
+				<kwd>la disminución del tamaño y el edema           perilesional. Fuente: Elaboración propia Discusión La persona en estado de choque séptico evidenció hipotensión   arterial grave</kwd>
+				<kwd>está se presentó a pesar de la reanimación de   fluidoterapia. De forma agregada</kwd>
+				<kwd>la paciente requirió infusión de   vasopresores para mantener presión arterial media &gt;65 mmHg y   presentar hiperlactacidemia &gt; 20 mg/dl a pesar de la reposición de   líquidos adecuada</kwd>
+				<kwd>lo cual requirió intervenciones específicas para   tratar el diagnóstico de enfermería enunciado como (00421) volumen de   líquidos inadecuado y una evaluación de la severidad de shock de la   paciente. Los autores (13</kwd>
+				<kwd>14) . concuerdan que el manejo de   vasoactivos y la reanimación de líquidos en el estado de sepsis es de   vital importancia para mejorar la perfusión tisular con distintas   metas. Asimismo</kwd>
+				<kwd>de acuerdo con un investigador es de vital importancia la   identificación del estado de choque séptico por parte de los   profesionales de enfermería</kwd>
+				<kwd>donde se presentan alteraciones que ponen   en riesgo el estado de salud del usuario. Dentro de las intervenciones   de enfermería que describe el autor se familiarizan en las actividades   realizadas a la paciente</kwd>
+				<kwd>como son la aplicación de fluidos   intravenosos</kwd>
+				<kwd>la administración de medicamentos</kwd>
+				<kwd>manejo de   oxigenoterapia</kwd>
+				<kwd>llevar a cabo balance hídrico</kwd>
+				<kwd>entre otros</kwd>
+				<kwd>para la   mejora del estado de salud de la paciente y evitar complicaciones   futuras (15) . Por otro lado</kwd>
+				<kwd>para el manejo del diagnóstico de enfermería (00030)   Deterioro del intercambio gaseoso se utilizó ventilación mecánica   asistida de tipo invasiva con volúmenes de 6 a 12 ml/kg para pacientes   con dificultad respiratoria aguda y para el manejo de la (00031)   Limpieza ineficaz de las vías aéreas la recomendación para mejorar la   ventilación respiratoria eficaz es la aspiración de secreciones de las   vías aéreas y para limitar el riesgo de aspiración es la elevación de   la cabecera de 30 a 45º (16) . Esas intervenciones se   relacionan con lo descrito por diversos autores (17</kwd>
+				<kwd>18)</kwd>
+				<kwd>que   han evidenciado que las actividades</kwd>
+				<kwd>como la extracción de   secreciones</kwd>
+				<kwd>facilita los mecanismos ventilatorios y de oxigenación   sanguínea y apoya la prevención de complicaciones</kwd>
+				<kwd>principalmente la   neumonía por microorganismos. El origen del proceso séptico de la paciente fue por una herida   quirúrgica contaminada</kwd>
+				<kwd>lo que requirió el desarrollo de   intervenciones de actualización para el manejo de heridas crónicas por   medio de distintos métodos de curación</kwd>
+				<kwd>ya que es considerado de gran   importancia para el profesional de enfermería. Esto representó un reto   importante en el equipo de enfermería</kwd>
+				<kwd>ya que</kwd>
+				<kwd>si no se llevaban los   tratamientos adecuados</kwd>
+				<kwd>sería difícil que se logrará curarse el área   afectada y más grave aún</kwd>
+				<kwd>existía la posibilidad de desarrollar   complicaciones locales y sistémicas (19) . Existen distintas   intervenciones como la curación avanzada de heridas</kwd>
+				<kwd>la cual favorece   a la cicatrización mediante el principio de humedad. Sin embargo</kwd>
+				<kwd>el   uso de productos pasivos fue considerada una práctica negativa en el   manejo de heridas crónicas</kwd>
+				<kwd>ya que se consideran como débiles   absorbentes y alta incidencia de propiciar una infección (20) . Dentro de las limitaciones del estudio fue el estado de salud de la   paciente y la restricción de visita de los familiares dando como   resultado el que no se logrará obtener información subjetiva. Conclusión El diseño y la aplicación del PE a la persona con diagnóstico   médico de choque séptico de origen intestinal permitió identificar   patrones disfuncionales de salud y esto llevó a describir seis   diagnósticos de enfermería</kwd>
+				<kwd>los cuales fueron jerarquizados con base a   las especificaciones del modelo AREA en enfermería</kwd>
+				<kwd>seleccionando los   resultados que se esperaban en el estado de salud</kwd>
+				<kwd>con los cuales se   presentaron las intervenciones aplicadas para la erradicación de   dichos problemas</kwd>
+				<kwd>y con esto se evidencia una mejora moderada en la   función hemodinámica</kwd>
+				<kwd>respiratoria y urinaria</kwd>
+				<kwd>demostrando que   mediante un cuidado especializado dirigido a los pacientes en estado   crítico se logra mejorar los problemas reales y/o potenciales que se   presentaron. El estado de salud de la paciente tuvo leve mejoría   dentro del periodo de aplicación del PE. Sin embargo</kwd>
+				<kwd>se evidenciaba   un alto riesgo de mortalidad. Por otra parte</kwd>
+				<kwd>dentro de las actualizaciones del lenguaje   estandarizado de la profesión de enfermería</kwd>
+				<kwd>existe una innovación   entre la selección de NOC especificando el tipo de severidad de choque   que se va a valorar posterior a una NIC</kwd>
+				<kwd>como por ejemplo Severidad   del shock: séptico</kwd>
+				<kwd>Severidad del shock: cardiogénico</kwd>
+				<kwd>entre otros.   Del mismo modo</kwd>
+				<kwd>para la selección de la NIC</kwd>
+				<kwd>existe una especificación   en el tipo de choque al que se le aplicaron las actividades</kwd>
+				<kwd>como por   ejemplo manejo del shock: sepsis</kwd>
+				<kwd>manejo del shock: cardiaco</kwd>
+				<kwd>entre   otros. Esto demuestra la innovación en la ciencia de enfermería</kwd>
+				<kwd>ya   que se evidencia la necesidad de especificar el tipo de NIC y definir   las actividades encaminadas a la mejora del estado de salud de los   pacientes. Para los profesionales de enfermería</kwd>
+				<kwd>el diseño y la aplicación del   PE es una parte relevante en los servicios de urgencias</kwd>
+				<kwd>UTI y   hospitalización</kwd>
+				<kwd>ya que este ayuda a tener claridad en la   identificación de respuestas humanas</kwd>
+				<kwd>el proceso fisiopatológico y el   tratamiento oportuno para el impacto positivo de la sobrevida de estos   pacientes. Conflicto de intereses Los autores declaran que no existe ningún conflicto de   intereses. Financiamiento Los autores declaran que no existió ningún tipo de   financiamiento. Inteligencia artificial Los autores declaran que no han utilizado ningún tipo de recurso de   la inteligencia artificial en alguna de las secciones de este   manuscrito. Referencias bibliográficas Alonso SN</kwd>
+				<kwd>Martínez PR</kwd>
+				<kwd>Nava MG</kwd>
+				<kwd>Gutiérrez ML</kwd>
+				<kwd>Ramírez JF. El       Proceso de atención de enfermería como instrumento de       investigación. Dilemas Contemporáneos: Educación</kwd>
+				<kwd>Política y       Valores [Internet]. 2023 [citado 20 ene 2025]</kwd>
+				<kwd>2(82):1-13.       Disponible en: https://doi.org/10.46377/dilemas.v2i10.3555 . González-Quirarte N</kwd>
+				<kwd>Castañeda-Hidalgo H. Proceso de       enfermería. Guía teórico-práctica para dar respuesta a las       necesidades en salud. España: Elsevier [Internet]. 2024 [citado 20       ene 2025]. Disponible en: http://clinicalkeymeded.elsevier.com/ Acosta JA</kwd>
+				<kwd>Vera JG</kwd>
+				<kwd>Muñoz DA</kwd>
+				<kwd>Moreira LS</kwd>
+				<kwd>Freire PG</kwd>
+				<kwd>Arreaga       LA</kwd>
+				<kwd>et al. Mortalidad de la sepsis en la unidad de cuidados       intensivos. Cambios-HECAM [Internet]. 2023 [citado 20 ene       2025]</kwd>
+				<kwd>22(1):1-6. Disponible en: https://revistahcam.iess.gob.ec/index.php/cambios/article/view/865 . Carrasco OV. La importancia y realidad actual de la unidad de       cuidados intensivos en la pandemia del covid-19. Rev Med la Paz       [Internet]. 2022 [citado 20 ene 2025]</kwd>
+				<kwd>28(1):64-74. Disponible en: http://www.scielo.org.bo/scielo.php?script=sci_arttext&amp;pid=S1726-89582022000100064 . Gavilanes KM</kwd>
+				<kwd>Coellar KG</kwd>
+				<kwd>Narváez RS</kwd>
+				<kwd>Martínez DO. Manejo de       shock séptico en unidad de cuidados intensivos. RECIAMUC       [Internet]. 2021 [citado 20 ene 2025]</kwd>
+				<kwd>5(4):48-59. Disponible en: https://reciamuc.com/index.php/RECIAMUC/article/view/716 . Butcher RC</kwd>
+				<kwd>Jones DA. An integrative review of comprehensive       nursing assessment tools developed based on Gordon’s eleven       functional health patterns. International Journal of Nursing       Knowledge [Internet]. 2021 [citado 20 ene 2025]</kwd>
+				<kwd>32(4):294-307.       Disponible en: https://doi.org/10.1111/2047-3095.12321. Zeballos F. Shock séptico en terapia intensiva adulto del       hospital San Juan de Dios de la Ciudad de Tarija. Revista       Científica de Salud y Desarrollo Humano [Internet]. 2024 [citado       20 ene 25]</kwd>
+				<kwd>5(2):179-187. Disponible en: https://revistavitalia.org/index.php/vitalia/article/view/128/201 . Cisneros AD</kwd>
+				<kwd>López PL. Modelo de análisis de resultados del       estado actual (AREA) en un paciente con VIH/SIDA para el plan de       cuidados de enfermería. Caso clínico. Casos y revisiones de Salud       [Internet]. 2021 [citado 20 ene 2025]</kwd>
+				<kwd>3(2):26-35. Disponible:       https://doi.org/10.22201/fesz.26831422e.2021.3.2.4. Heather HT</kwd>
+				<kwd>Kamitsuru S</kwd>
+				<kwd>Lopes CT. Diagnósticos enfermeros.       Definiciones y clasificación 2024-2026. 13va. España: Elsevier.       2024. Moorhead S</kwd>
+				<kwd>Swanson E</kwd>
+				<kwd>Johnson M. Clasificación de resultados       de enfermería (NOC). 7ma ed. España: Elsevier. 2024. Wagner CM</kwd>
+				<kwd>Butcher HK</kwd>
+				<kwd>Clarke MF. Clasificación de       intervenciones de enfermería (NIC). 8va ed. España: Elsevier.       2024. Camargo RR. Visión holística de la bioética en la pandemia       COVID-19. Acta Colomb Cuidado Intensivo [Internet]. 2021 [citado       20 ene 2025]</kwd>
+				<kwd>22(Supl):S79-S92. Disponible en:       https://doi.org/10.1016/j.acci.2021.03.003 Sa MB</kwd>
+				<kwd>Salaverría I</kwd>
+				<kwd>Cabas AC. Fluidoterapia en la sepsis y el       choque séptico. Medicina intensiva [Internet]. 2022 [citado 20 ene       2025]</kwd>
+				<kwd>46(S1):14-25. Disponible en:       https://www.medintensiva.org/es-pdf-S0210569122000961 Barahona-Correa J</kwd>
+				<kwd>Pérez CV</kwd>
+				<kwd>Rondón-Carvajal J</kwd>
+				<kwd>Laserna A.       Agentes vasoactivos en sepsis: revisión crítica de la literatura.       Univ. Med [Internet]. 2022 [citado 20 ene 2025]</kwd>
+				<kwd>64(2):1-17. https://doi.org/10.11144/Javeriana.umed64-2.seps . Bleakley GC. Recognition and management of sepsis: the nurse’s       role. British Journal of Nursing [Internet]. 2020 [citado 20 ene       2025]</kwd>
+				<kwd>29(21):1248-1251. Disponible en: https://pubmed.ncbi.nlm.nih.gov/33242267/ . López DM</kwd>
+				<kwd>Castillo MM</kwd>
+				<kwd>García DC</kwd>
+				<kwd>Hernández AB. Proceso de       atención de enfermería en estado de choque séptico con deterioro       del intercambio de gases. Ciencia Latina [Internet]. 2025 [citado       20 ene 2025]</kwd>
+				<kwd>9(3):6892-6909. Disponible en:       https://ciencialatina.org/index.php/cienciala/article/view/18333 Martin LI. Sistemas de aspiración de secreciones cerrados:       indicaciones y cuidados. Ene [Internet]. 2021 [citado: 20 ene       2025]</kwd>
+				<kwd>15(1):1051. Disponible en: https://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1988-348X2021000100007&amp;lng=es . Ramos BP. Neumonía asociada a ventilación mecánica: actuación       de enfermería en las unidades de cuidados intensivos. Revisión       bibliográfica. Rev. Portales Médicos [Internet]. 2022 [citado: 20       ene 2025]</kwd>
+				<kwd>17(9):344. Disponible en:       https://tinyurl.tools/8512c257 Condori-Rodríguez E</kwd>
+				<kwd>Ajllahuanca-Callisaya V. Factores de       riesgo asociados a complicaciones de heridas quirúrgicas en       pacientes COVID-19. Rev Cient Cien Méd [Internet]. 2021[citado 20       ene 2025]</kwd>
+				<kwd>24(2):95-101. Disponible en: https://doi.org/10.51581/rccm.v24i2.397 Domínguez-Saavedra G</kwd>
+				<kwd>Hernández-Galván J. Actualización en el       manejo de heridas. Cir Plast [Internet]. 2021 [citado 20 ene       2025]</kwd>
+				<kwd>31(3):124-136. Disponible en:       https://dx.doi.org/10.35366/103715 López-Navarro J</kwd>
+				<kwd>Valle-Figueroa M</kwd>
+				<kwd>Quintana-Zavala M</kwd>
+				<kwd>Ponce-Meza C</kwd>
+				<kwd>Figueroa-Ibarra C. Proceso de enfermería a persona con choque séptico   postoperada de laparotomía en terapia intensiva. SANUS[Internet]. 2025   [citado dd mmm aaaa]</kwd>
+				<kwd>10(21):e566. Disponible en: DOI/URL</kwd>
 			</kwd-group>
 			<kwd-group xml:lang="en">
 				<title>Keywords:</title>
@@ -745,8 +1051,11 @@
 							<given-names>JF</given-names>
 						</name>
 					</person-group>
-					<article-title>El Proceso de atención de enfermería como instrumento de investigación</article-title>
-					<source>Dilemas Contemporáneos: Educación, Política y Valores</source>
+					<article-title>El
+      Proceso de atención de enfermería como instrumento de
+      investigación</article-title>
+					<source>Dilemas Contemporáneos: Educación, Política y
+      Valores [Internet]</source>
 					<year>2023</year>
 					<volume>2</volume>
 					<issue>82</issue>
@@ -763,7 +1072,7 @@
       ene 2025]. Disponible en:
       <ext-link ext-link-type="uri" xlink:href="http://clinicalkeymeded.elsevier.com/">http://clinicalkeymeded.elsevier.com/</ext-link>
 				</mixed-citation>
-				<element-citation publication-type="book">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
 							<surname>González-Quirarte</surname>
@@ -774,8 +1083,10 @@
 							<given-names>H</given-names>
 						</name>
 					</person-group>
-					<article-title>Proceso de enfermería. Guía teórico-práctica para dar respuesta a las necesidades en salud</article-title>
-					<publisher-name>Elsevier</publisher-name>
+					<article-title>Proceso de
+      enfermería</article-title>
+					<source>Guía teórico-práctica para dar respuesta a las
+      necesidades en salud</source>
 					<year>2024</year>
 					<ext-link ext-link-type="uri" xlink:href="http://clinicalkeymeded.elsevier.com/">http://clinicalkeymeded.elsevier.com/</ext-link>
 				</element-citation>
@@ -812,9 +1123,14 @@
 							<surname>Arreaga</surname>
 							<given-names>LA</given-names>
 						</name>
+						<name>
+							<surname>et</surname>
+							<given-names>al</given-names>
+						</name>
 					</person-group>
-					<article-title>Mortalidad de la sepsis en la unidad de cuidados intensivos</article-title>
-					<source>Cambios-HECAM</source>
+					<article-title>Mortalidad de la sepsis en la unidad de cuidados
+      intensivos</article-title>
+					<source>Cambios-HECAM [Internet]</source>
 					<year>2023</year>
 					<volume>22</volume>
 					<issue>1</issue>
@@ -835,8 +1151,10 @@
 							<given-names>OV</given-names>
 						</name>
 					</person-group>
-					<article-title>La importancia y realidad actual de la unidad de cuidados intensivos en la pandemia del covid-19</article-title>
-					<source>Rev Med la Paz</source>
+					<article-title>La importancia y realidad actual de la unidad de
+      cuidados intensivos en la pandemia del covid-19</article-title>
+					<source>Rev Med la Paz
+      [Internet]</source>
 					<year>2022</year>
 					<volume>28</volume>
 					<issue>1</issue>
@@ -869,8 +1187,10 @@
 							<given-names>DO</given-names>
 						</name>
 					</person-group>
-					<article-title>Manejo de shock séptico en unidad de cuidados intensivos</article-title>
-					<source>RECIAMUC</source>
+					<article-title>Manejo de
+      shock séptico en unidad de cuidados intensivos</article-title>
+					<source>RECIAMUC
+      [Internet]</source>
 					<year>2021</year>
 					<volume>5</volume>
 					<issue>4</issue>
@@ -896,8 +1216,11 @@
 							<given-names>DA</given-names>
 						</name>
 					</person-group>
-					<article-title>An integrative review of comprehensive nursing assessment tools developed based on Gordon’s eleven functional health patterns</article-title>
-					<source>International Journal of Nursing Knowledge</source>
+					<article-title>An integrative review of comprehensive
+      nursing assessment tools developed based on Gordon’s eleven
+      functional health patterns</article-title>
+					<source>International Journal of Nursing
+      Knowledge [Internet]</source>
 					<year>2021</year>
 					<volume>32</volume>
 					<issue>4</issue>
@@ -920,8 +1243,10 @@
 							<given-names>F</given-names>
 						</name>
 					</person-group>
-					<article-title>Shock séptico en terapia intensiva adulto del hospital San Juan de Dios de la Ciudad de Tarija</article-title>
-					<source>Revista Científica de Salud y Desarrollo Humano</source>
+					<article-title>Shock séptico en terapia intensiva adulto del
+      hospital San Juan de Dios de la Ciudad de Tarija</article-title>
+					<source>Revista
+      Científica de Salud y Desarrollo Humano [Internet]</source>
 					<year>2024</year>
 					<volume>5</volume>
 					<issue>2</issue>
@@ -947,8 +1272,10 @@
 							<given-names>PL</given-names>
 						</name>
 					</person-group>
-					<article-title>Modelo de análisis de resultados del estado actual (AREA) en un paciente con VIH/SIDA para el plan de cuidados de enfermería. Caso clínico</article-title>
-					<source>Casos y revisiones de Salud</source>
+					<article-title>Modelo de análisis de resultados del
+      estado actual (AREA) en un paciente con VIH/SIDA para el plan de
+      cuidados de enfermería</article-title>
+					<source>Caso clínico</source>
 					<year>2021</year>
 					<volume>3</volume>
 					<issue>2</issue>
@@ -962,7 +1289,7 @@
 				<mixed-citation>Heather HT, Kamitsuru S, Lopes CT. Diagnósticos enfermeros.
       Definiciones y clasificación 2024-2026. 13va. España: Elsevier.
       2024.</mixed-citation>
-				<element-citation publication-type="book">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
 							<surname>Heather</surname>
@@ -977,15 +1304,15 @@
 							<given-names>CT</given-names>
 						</name>
 					</person-group>
-					<article-title>Diagnósticos enfermeros. Definiciones y clasificación 2024-2026</article-title>
-					<publisher-name>Elsevier</publisher-name>
+					<article-title>Diagnósticos enfermeros</article-title>
+					<source>Definiciones y clasificación 2024-2026</source>
 					<year>2024</year>
 				</element-citation>
 			</ref>
 			<ref id="B10">
 				<mixed-citation>Moorhead S, Swanson E, Johnson M. Clasificación de resultados
       de enfermería (NOC). 7ma ed. España: Elsevier. 2024.</mixed-citation>
-				<element-citation publication-type="book">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
 							<surname>Moorhead</surname>
@@ -1000,8 +1327,9 @@
 							<given-names>M</given-names>
 						</name>
 					</person-group>
-					<article-title>Clasificación de resultados de enfermería (NOC)</article-title>
-					<publisher-name>Elsevier</publisher-name>
+					<article-title>Clasificación de resultados
+      de enfermería (NOC)</article-title>
+					<source>7ma ed</source>
 					<year>2024</year>
 				</element-citation>
 			</ref>
@@ -1009,7 +1337,7 @@
 				<mixed-citation>Wagner CM, Butcher HK, Clarke MF. Clasificación de
       intervenciones de enfermería (NIC). 8va ed. España: Elsevier.
       2024.</mixed-citation>
-				<element-citation publication-type="book">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
 							<surname>Wagner</surname>
@@ -1024,8 +1352,9 @@
 							<given-names>MF</given-names>
 						</name>
 					</person-group>
-					<article-title>Clasificación de intervenciones de enfermería (NIC)</article-title>
-					<publisher-name>Elsevier</publisher-name>
+					<article-title>Clasificación de
+      intervenciones de enfermería (NIC)</article-title>
+					<source>8va ed</source>
 					<year>2024</year>
 				</element-citation>
 			</ref>
@@ -1041,13 +1370,10 @@
 							<given-names>RR</given-names>
 						</name>
 					</person-group>
-					<article-title>Visión holística de la bioética en la pandemia COVID-19</article-title>
-					<source>Acta Colomb Cuidado Intensivo</source>
+					<article-title>Visión holística de la bioética en la pandemia
+      COVID-19</article-title>
+					<source>Acta Colomb Cuidado Intensivo [Internet]</source>
 					<year>2021</year>
-					<volume>22</volume>
-					<issue>Supl</issue>
-					<fpage>S79</fpage>
-					<lpage>S92</lpage>
 					<pub-id pub-id-type="doi">10.1016/j.acci.2021.03.003</pub-id>
 					<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.acci.2021.03.003">https://doi.org/10.1016/j.acci.2021.03.003</ext-link>
 				</element-citation>
@@ -1057,7 +1383,7 @@
       choque séptico. Medicina intensiva [Internet]. 2022 [citado 20 ene
       2025];46(S1):14-25. Disponible en:
       https://www.medintensiva.org/es-pdf-S0210569122000961</mixed-citation>
-				<element-citation publication-type="journal">
+				<element-citation publication-type="other">
 					<person-group person-group-type="author">
 						<name>
 							<surname>Sa</surname>
@@ -1072,11 +1398,10 @@
 							<given-names>AC</given-names>
 						</name>
 					</person-group>
-					<article-title>Fluidoterapia en la sepsis y el choque séptico</article-title>
-					<source>Medicina intensiva</source>
+					<article-title>Fluidoterapia en la sepsis y el
+      choque séptico</article-title>
+					<source>Medicina intensiva [Internet]</source>
 					<year>2022</year>
-					<volume>46</volume>
-					<issue>S1</issue>
 					<fpage>14</fpage>
 					<lpage>25</lpage>
 					<ext-link ext-link-type="uri" xlink:href="https://www.medintensiva.org/es-pdf-S0210569122000961">https://www.medintensiva.org/es-pdf-S0210569122000961</ext-link>
@@ -1107,7 +1432,7 @@
 						</name>
 					</person-group>
 					<article-title>Agentes vasoactivos en sepsis: revisión crítica de la literatura</article-title>
-					<source>Univ. Med</source>
+					<source>Univ</source>
 					<year>2022</year>
 					<volume>64</volume>
 					<issue>2</issue>
@@ -1129,8 +1454,9 @@
 							<given-names>GC</given-names>
 						</name>
 					</person-group>
-					<article-title>Recognition and management of sepsis: the nurse’s role</article-title>
-					<source>British Journal of Nursing</source>
+					<article-title>Recognition and management of sepsis: the nurse’s
+      role</article-title>
+					<source>British Journal of Nursing [Internet]</source>
 					<year>2020</year>
 					<volume>29</volume>
 					<issue>21</issue>
@@ -1164,8 +1490,10 @@
 							<given-names>AB</given-names>
 						</name>
 					</person-group>
-					<article-title>Proceso de atención de enfermería en estado de choque séptico con deterioro del intercambio de gases</article-title>
-					<source>Ciencia Latina</source>
+					<article-title>Proceso de
+      atención de enfermería en estado de choque séptico con deterioro
+      del intercambio de gases</article-title>
+					<source>Ciencia Latina [Internet]</source>
 					<year>2025</year>
 					<volume>9</volume>
 					<issue>3</issue>
@@ -1186,13 +1514,12 @@
 							<given-names>LI</given-names>
 						</name>
 					</person-group>
-					<article-title>Sistemas de aspiración de secreciones cerrados: indicaciones y cuidados</article-title>
-					<source>Ene</source>
+					<article-title>Sistemas de aspiración de secreciones cerrados:
+      indicaciones y cuidados</article-title>
+					<source>Ene [Internet]</source>
 					<year>2021</year>
 					<volume>15</volume>
 					<issue>1</issue>
-					<fpage>1051</fpage>
-					<lpage>1051</lpage>
 					<ext-link ext-link-type="uri" xlink:href="https://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1988-348X2021000100007&amp;lng=es">https://scielo.isciii.es/scielo.php?script=sci_arttext&amp;pid=S1988-348X2021000100007&amp;lng=es</ext-link>
 				</element-citation>
 			</ref>
@@ -1209,13 +1536,13 @@
 							<given-names>BP</given-names>
 						</name>
 					</person-group>
-					<article-title>Neumonía asociada a ventilación mecánica: actuación de enfermería en las unidades de cuidados intensivos. Revisión bibliográfica</article-title>
-					<source>Rev. Portales Médicos</source>
+					<article-title>Neumonía asociada a ventilación mecánica: actuación
+      de enfermería en las unidades de cuidados intensivos</article-title>
+					<source>Revisión
+      bibliográfica</source>
 					<year>2022</year>
 					<volume>17</volume>
 					<issue>9</issue>
-					<fpage>344</fpage>
-					<lpage>344</lpage>
 					<ext-link ext-link-type="uri" xlink:href="https://tinyurl.tools/8512c257">https://tinyurl.tools/8512c257</ext-link>
 				</element-citation>
 			</ref>
@@ -1237,8 +1564,10 @@
 							<given-names>V</given-names>
 						</name>
 					</person-group>
-					<article-title>Factores de riesgo asociados a complicaciones de heridas quirúrgicas en pacientes COVID-19</article-title>
-					<source>Rev Cient Cien Méd</source>
+					<article-title>Factores de
+      riesgo asociados a complicaciones de heridas quirúrgicas en
+      pacientes COVID-19</article-title>
+					<source>Rev Cient Cien Méd [Internet]</source>
 					<year>2021</year>
 					<volume>24</volume>
 					<issue>2</issue>
@@ -1264,8 +1593,9 @@
 							<given-names>J</given-names>
 						</name>
 					</person-group>
-					<article-title>Actualización en el manejo de heridas</article-title>
-					<source>Cir Plast</source>
+					<article-title>Actualización en el
+      manejo de heridas</article-title>
+					<source>Cir Plast [Internet]</source>
 					<year>2021</year>
 					<volume>31</volume>
 					<issue>3</issue>
@@ -1303,13 +1633,12 @@
 							<given-names>C</given-names>
 						</name>
 					</person-group>
-					<article-title>Proceso de enfermería a persona con choque séptico postoperada de laparotomía en terapia intensiva</article-title>
-					<source>SANUS</source>
+					<article-title>Proceso de enfermería a persona con choque séptico
+  postoperada de laparotomía en terapia intensiva</article-title>
+					<source>SANUS[Internet]</source>
 					<year>2025</year>
 					<volume>10</volume>
 					<issue>21</issue>
-					<fpage>e566</fpage>
-					<lpage>e566</lpage>
 				</element-citation>
 			</ref>
 		</ref-list>
@@ -1322,7 +1651,8 @@
 				</subj-group>
 			</article-categories>
 			<title-group>
-				<article-title>The nursing process for a patient with postoperative septic shock following a laparotomy in intensive care</article-title>
+				<article-title>Nursing process for a person with septic shock after laparotomy
+surgery in intensive care</article-title>
 			</title-group>
 			<abstract xml:lang="en">
 				<title>Abstract</title>

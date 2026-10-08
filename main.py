@@ -467,7 +467,7 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
     import time
     metadata = None
     if client:
-        models_to_try = ['gemini-3.5-flash-lite', 'gemini-3.5-flash', 'gemini-2.5-flash']
+        models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-1.5-flash']
         for model_name in models_to_try:
             try:
                 response = client.models.generate_content(
@@ -2329,7 +2329,7 @@ async def parse_references_with_gemini(ref_items: List[dict]) -> List[ReferenceI
         """ + combined_text[:60000]
 
         import time
-        models_to_try = ['gemini-3.5-flash-lite', 'gemini-3.5-flash', 'gemini-3.6-flash', 'gemini-2.5-flash']
+        models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-1.5-flash']
         for model_name in models_to_try:
             try:
                 response = client.models.generate_content(
