@@ -7,6 +7,7 @@ import pypandoc
 import tempfile
 import uuid
 import json
+import ssl
 from bs4 import BeautifulSoup
 from bs4.element import Tag
 from dotenv import load_dotenv
@@ -15,7 +16,21 @@ from pdf2docx import Converter
 from pydantic import BaseModel, Field
 from typing import List, Optional
 
-load_dotenv()
+
+from google.genai import types
+
+# 1. Desactivar validación de certificados SSL a nivel de runtime
+ssl._create_default_https_context = ssl._create_unverified_context
+os.environ["PYTHONHTTPSVERIFY"] = "0"
+os.environ["CURL_CA_BUNDLE"] = ""
+os.environ["REQUESTS_CA_BUNDLE"] = ""
+os.environ["SSL_CERT_FILE"] = ""
+
+# 2. Asegurar que las variables de proxy institucional estén activas
+os.environ["HTTP_PROXY"] = "http://172.16.2.108:3128"
+os.environ["HTTPS_PROXY"] = "http://172.16.2.108:3128"
+os.environ["http_proxy"] = "http://172.16.2.108:3128"
+os.environ["https_proxy"] = "http://172.16.2.108:3128"
 
 # Download pandoc if not installed
 try:
@@ -37,7 +52,10 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # Gemini Client Config
 api_key = os.getenv("GEMINI_API_KEY")
-client = genai.Client(api_key=api_key) if api_key else None
+client = genai.Client(api_key=api_key,
+        http_options=types.HttpOptions(
+            api_version="v1beta",
+        ),) if api_key else None
 
 
 # Pydantic Schemas for Metadata Extraction

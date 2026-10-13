@@ -1,0 +1,8 @@
+services:
+  api:   # o el nombre que tenga tu servicio
+    image: xmlpaper-api
+    environment:
+      - https_proxy=http://172.16.2.108:3128
+      - http_proxy=http://172.16.2.108:3128
+      - HTTPS_PROXY=http://172.16.2.108:3128
+      - HTTP_PROXY=http://172.16.2.108:3128

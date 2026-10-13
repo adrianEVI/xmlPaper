@@ -1,4 +1,5 @@
 version: "3.8"
+
 services:
   api:
     build: .
@@ -8,9 +9,17 @@ services:
       - .env
     volumes:
       - .:/app
+    environment:
+      # Proxy institucional funcional
+      - http_proxy=http://172.16.2.108:3128
+      - https_proxy=http://172.16.2.108:3128
+      - HTTP_PROXY=http://172.16.2.108:3128
+      - HTTPS_PROXY=http://172.16.2.108:3128
+      - no_proxy=localhost,127.0.0.1
+      - NO_PROXY=localhost,127.0.0.1
+      - PYTHONHTTPSVERIFY=0
 
   cloudflared:
     image: cloudflare/cloudflared:latest
     restart: unless-stopped
     command: tunnel run --token ${CLOUDFLARE_TUNNEL_TOKEN}
-
