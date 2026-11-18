@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2630</article-id>
+			<article-id pub-id-type="other">00153</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Analysis of shelf life and nutraceutical properties of two strawberry varieties inoculated with various strains of <italic><italic>Bacillus subtilis</italic></italic></article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Análisis de la vida útil y propiedades nutracéuticas de dos variedades de fresa inoculadas con diversas cepas de <italic>Bacillus subtilis</italic></trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-5747-0052</contrib-id>
+					<name>
+						<surname>Baltazar Vera</surname>
+						<given-names>Juan Carlos</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-0795-6035</contrib-id>
+					<name>
+						<surname>Olalde Portugal</surname>
+						<given-names>Víctor</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Cervantes Díaz</surname>
+						<given-names>Erick</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-7568-752X</contrib-id>
+					<name>
+						<surname>Tirado Torres</surname>
+						<given-names>David</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0001-2787-9911</contrib-id>
+					<name>
+						<surname>Valtierra Olivares</surname>
+						<given-names>Joel Everardo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff5"><sup>5</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-7482-4860</contrib-id>
+					<name>
+						<surname>Rodríguez Rodríguez</surname>
+						<given-names>Carolina de Jesús</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff6"><sup>6</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-1197-2572</contrib-id>
+					<name>
+						<surname>Sosa Morales</surname>
+						<given-names>María Elena</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff7"><sup>7</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-1813-6785</contrib-id>
+					<name>
+						<surname>Torres Arteaga</surname>
+						<given-names>Iovanna Consuelo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff8"><sup>8</sup></xref>
+					<xref ref-type="corresp" rid="c1"><sup>*</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-8871-1621</contrib-id>
+					<name>
+						<surname>Saldaña Robles</surname>
+						<given-names>Adriana</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff9"><sup>9</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-7208-6454</contrib-id>
+					<name>
+						<surname>Solís Rodríguez</surname>
+						<given-names>Ricardo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff10"><sup>10</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-4630-7900</contrib-id>
+					<name>
+						<surname>Abraham Juárez</surname>
+						<given-names>Ma del Rosario</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff11"><sup>11</sup></xref>
+					<xref ref-type="corresp" rid="c1"><sup>*</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Universidad de Guanajuato Departamento de Ingeniería en Minas, Metalurgia y Geología. Ex-Hda San Matías S/N col San Matías, Guanajuato, Gto. México C.P 36020. jc.baltazarvera@ugto.mx</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato</institution>
+				<institution content-type="orgdiv1">Departamento de Ingeniería en Minas, Metalurgia y Geología</institution>
+				<addr-line>
+					<city>Guanajuato</city>
+					<state>Gto</state>
+					<postal-code>36020</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>jc.baltazarvera@ugto.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Centro de Investigación y Estudios Avanzados del IPN (CINVESTAV). Departamento de Biología y Bioquímica. Libramiento Norte Carretera Irapuato-León Km. 9.6 Irapuato Gto. México C.P 36821. victor.olalde@cinvestav.mx</institution>
+				<institution content-type="normalized">Instituto Politécnico Nacional</institution>
+				<institution content-type="orgdiv1">Centro de Investigación y Estudios Avanzados</institution>
+				<institution content-type="orgname">IPN</institution>
+				<addr-line>
+					<city>Irapuato</city>
+					<state>Gto</state>
+					<postal-code>36821</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>victor.olalde@cinvestav.mx</email>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">Universidad de Guanajuato. Departamento de Alimentos. Centro Interdisciplinario del Noreste de la Universidad de Guanajuato Km 28 Carretera San José Iturbide-Tierra Blanca, Peña Blanca II de la Congregación Indígena Otomí de San Idelfonso de Cieneguilla. Tierra Blanca Gto. C.P 37970. e.diaz@ugto.mx</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato</institution>
+				<institution content-type="orgdiv1">Centro Interdisciplinario del Noreste de la Universidad de Guanajuato</institution>
+				<addr-line>
+					<city>Tierra Blanca</city>
+					<state>Gto</state>
+					<postal-code>37970</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>e.diaz@ugto.mx</email>
+			</aff>
+			<aff id="aff4">
+				<label>4</label>
+				<institution content-type="original">Universidad de Guanajuato. Departamento de Ingenierta Civil y Ambiental Juarez 77. Col. Zona Centro. Guanajuato, Gto. México. C.P 36000. d.tirado@ugto.mx</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato</institution>
+				<institution content-type="orgdiv1">Departamento de Ingenierta Civil y Ambiental</institution>
+				<addr-line>
+					<city>Guanajuato</city>
+					<state>Gto</state>
+					<postal-code>36000</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>d.tirado@ugto.mx</email>
+			</aff>
+			<aff id="aff5">
+				<label>5</label>
+				<institution content-type="original"> Universidad de Guanajuato Departamento de Ingeniería en Minas, Metalurgia y Geología. Ex-Hda San Matías S/N col San Matías, Guanajuato, Gto. México C.P 36020. valtierra.je@ugto.mx</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato</institution>
+				<institution content-type="orgdiv1">Departamento de Ingeniería en Minas, Metalurgia y Geología</institution>
+				<addr-line>
+					<city>Guanajuato</city>
+					<state>Gto</state>
+					<postal-code>36020</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>valtierra.je@ugto.mx</email>
+			</aff>
+			<aff id="aff6">
+				<label>6</label>
+				<institution content-type="original">Universidad de Guanajuato Departamento de Ingeniería en Minas, Metalurgia y Geología. Ex-Hda San Matías S/N col San Matías, Guanajuato, Gto. México C.P 36020. carolina.rodriguez@ugto.mx</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato</institution>
+				<institution content-type="orgdiv1">Departamento de Ingeniería en Minas, Metalurgia y Geología</institution>
+				<addr-line>
+					<city>Guanajuato</city>
+					<state>Gto</state>
+					<postal-code>36020</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>carolina.rodriguez@ugto.mx</email>
+			</aff>
+			<aff id="aff7">
+				<label>7</label>
+				<institution content-type="original">Universidad de Guanajuato. Departamento de Alimentos. Ex. Hda el Copal Km 9. Carretera Irapuato-Silao A.P 311 Irapuato Gto. México C.P 36500. msosa@ugto.mx</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato</institution>
+				<addr-line>
+					<city>Irapuato</city>
+					<state>Gto</state>
+					<postal-code>36500</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>msosa@ugto.mx</email>
+			</aff>
+			<aff id="aff8">
+				<label>8</label>
+				<institution content-type="original">Tecnológico Nacional de México/Instituto Superior de Abasolo. Blv Cuitzeo de los Naranjos 401 Col. Cuitzeo de los Naranjos C.P 36976. . iovannatorres@gmail.com</institution>
+				<institution content-type="orgname">Tecnológico Nacional de México</institution>
+				<institution content-type="orgdiv1">Instituto Superior de Abasolo</institution>
+				<addr-line>
+					<city>Cuitzeo de los Naranjos</city>
+					<postal-code>36976</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>iovannatorres@gmail.com</email>
+			</aff>
+			<aff id="aff9">
+				<label>9</label>
+				<institution content-type="original">Universidad de Guanajuato. Departamento de Ingeniería Agrícola. Ex. Hda el Copal Km 9. Carretera Irapuato-Silao A.P 311 Irapuato Gto. México C.P 36500. adriana.saldana@ugto.mx</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato</institution>
+				<institution content-type="orgdiv1">Departamento de Ingeniería Agrícola</institution>
+				<addr-line>
+					<city>Irapuato</city>
+					<state>Gto</state>
+					<postal-code>36500</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>adriana.saldana@ugto.mx</email>
+			</aff>
+			<aff id="aff10">
+				<label>10</label>
+				<institution content-type="original">Universidad de Guanajuato Departamento de Ingeniería en Minas, Metalurgia y Geología. Ex-Hda San Matías S/N col San Matías, Guanajuato, Gto. México C.P 36020. solis.r@ugto.mx</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato</institution>
+				<institution content-type="orgdiv1">Departamento de Ingeniería en Minas, Metalurgia y Geología</institution>
+				<addr-line>
+					<city>Guanajuato</city>
+					<state>Gto</state>
+					<postal-code>36020</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>solis.r@ugto.mx</email>
+			</aff>
+			<aff id="aff11">
+				<label>11</label>
+				<institution content-type="original">Universidad de Guanajuato. Departamento de Alimentos. Ex. Hda el Copal Km 9. Carretera Irapuato-Silao A.P 311 Irapuato Gto. México C.P 36500. mrosarioabdiciva@gmail.com</institution>
+				<institution content-type="normalized">Universidad de Guanajuato</institution>
+				<institution content-type="orgname">Universidad de Guanajuato</institution>
+				<addr-line>
+					<city>Irapuato</city>
+					<state>Gto</state>
+					<postal-code>36500</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>mrosarioabdiciva@gmail.com</email>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Author for correspondence: Ma del Rosario Abraham Juárez5 e-mail: <email>mrosarioabdiciva@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>13</day>
+				<month>08</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2630</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>13</day>
+					<month>05</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>01</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>13</day>
+					<month>08</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>The objective of this study was to analyze the effect on the physical properties (shape, size, weight and color), chemical (soluble solids, titratable acidity and pH), nutraceuticals (ascorbic acid and anthocyanins) and decay of strawberries (Fragaria x ananassa) of the Camino Real and Festival varieties when applying four treatments of B. subtilis strains (08, MZ, DN and 06) vs a control (No treatment) for 5 stages of ripening (red strawberries, ripe strawberries, pink strawberries, ripe green strawberries and green strawberries); the above in order to find the treatments that promote improvements in the parameters studied. From the results found it is necessary to have in the useful life for the Camino Real variety at 28.5 °C the treatment 06 reports a decline of 42.2 % lower than the CTL (43.9 %), for 8 °C the treatments MZ and DN reported a decline of 28.8 % which is lower than the CTL (36.1%); with respect to the Festival variety at 28.5 °C the treatment 06 registered a decline of 41.2 % below CTL (43.5 %), for 8 °C the treatments 08, MZ and DN registered a decline of 27.7 %, 30 % and 37.7 % respectively, values lower than the CTL (46.1 %). The results indicate that, when applying the treatments, the physical and chemical properties improve or in some cases remain the same as the untreated samples, which allows us to elucidate in a particular way that treatment 06 is the most suitable at 28.5 °C as well as MZ and DN at 8 °C for both varieties.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>El objetivo de este estudio es analizar el efecto sobre las propiedades físicas (forma, tamaño, peso y color), químicas ( Sólidos solubles, acidez titulable y pH), nutracéuticas (ácido ascórbico y antocianinas) y decaimiento de fresas (Fragaria x ananassa) de las variedades Camino Real y Festival al aplicar cuatro tratamientos de cepas de B. subtilis (08, MZ, DN y 06) vs un control (Sin tratamiento) para 5 estados de maduración (Fresas rojas, fresas maduras, fresas rosadas, fresas verdes maduras y fresas verdes); lo anterior con el fin de encontrar los tratamientos que pro-muevan mejoras en los parámetros estudiados. En los resultados encontrados se tiene que en la vida útil para la variedad Camino Real a 28.5 °C el tratamiento 06 reporta un decaimiento de 42.2 % menor que el CTL (43.9 %), para 8 °C los tratamientos MZ y DN reportaron un decai-miento de 28.8% que es inferior al CTL (36.1 %); respecto a la variedad Festival a 28.5 °C el tratamiento 06 registro un decaimiento de 41.2 % por debajo de CTL (43.5 %), para 8 °C los tratamientos 08, MZ y DN registran un decaimiento de 27.7 %, 30 % y 37.7 % respectivamente, valores inferiores al CTL (46.1 %). Los resultados indican que, al realizar los tratamientos, las propiedades físicas y químicas mejoran o en algunos casos se mantienen iguales a las muestras sin tratamiento, lo que permite dilucidar de manera particular que el tratamiento 06 es el más adecuado a 28.5 °C así como MZ y DN a 8°C para ambas variedades.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Strawberry</kwd>
+				<kwd>Shelf life</kwd>
+				<kwd>Chemical properties</kwd>
+				<kwd>Physical properties</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Fresa</kwd>
+				<kwd>Vida de anaquel</kwd>
+				<kwd>Propiedades químicas</kwd>
+				<kwd>Propiedades físicas</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="10"/>
+				<table-count count="6"/>
+				<equation-count count="0"/>
+				<ref-count count="34"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>Strawberry (<italic>Fragaria x ananassa</italic>) is a non-climacteric fruit, since it does not complete its commercial maturity after harvest. The shape and size of the fruits is a characteristic of each variety, with environmental factors being an important aspect for this character (<xref ref-type="bibr" rid="B25">Navarro et al., 2015</xref>). World production for the year 2023 reported close to 10.5 million tons and the main producing country was China; Mexico is the 3rd place in strawberry production for that same year, with a total of 557,514 tons (<xref ref-type="bibr" rid="B14">FAO, 2025</xref>). Strawberries are fruits that provide few calories and whose most abundant components after water are carbohydrates (fructose, glucose and sucrose). Its fiber contribution and the high content of citric acid and vitamin C stand out. The recommended daily intake for this vitamin (100-150 mg/day) can be satisfied with an average of 100 g of strawberries per day (<xref ref-type="bibr" rid="B10">Cubero-Cardoso et al., 2020</xref>). Also contain malic acid and oxalic acid, potassium and, to a lesser extent, vitamin E and vitamin B5 (niacin). The plant pigments that give these fruits their characteristic color are flavonoids (anthocyanins) (<xref ref-type="bibr" rid="B12">Dikshit and Tallapragada, 2018</xref>; <xref ref-type="bibr" rid="B18">García-Vaquero and Rajauria, 2018</xref>; <xref ref-type="bibr" rid="B22">Khoo et al., 2017</xref>; <xref ref-type="bibr" rid="B24">Miller and Liu, 2014</xref>; <xref ref-type="bibr" rid="B15">Farran et al., 2013</xref>). More than 100 diseases have been reported affecting strawberry cultivation, of these, the most common are those caused by fungal pathogens, including <italic>Marsonina fragariae</italic>, <italic>Botrytis cinerea</italic>, <italic>Colletotrichum</italic>, <italic>Hainesia liyhri</italic>, <italic>Rhizoctonia solani</italic> and <italic>Phytophthora cactorum</italic> (<xref ref-type="bibr" rid="B7">Cano, 2013</xref>).</p>
+			<p>A fungal pathogen that generates considerable losses in the strawberry crop is <italic>Botrytis cinerea</italic>, due to this, treatments have been studied in order to inhibit the pathological effects in the product such as: Treatment with pulsed light (PL) (<xref ref-type="bibr" rid="B31">Romero et al., 2019</xref>), inhibition using yeast (<xref ref-type="bibr" rid="B20">Hongtao et al., 2019</xref>), treatment with UV-C energy (254 nm) (<xref ref-type="bibr" rid="B17">Forges et al., 2018</xref>), hot air (45 °C, 3.5 h) (<xref ref-type="bibr" rid="B28">Peng et al., 2016</xref>), thermoplastic starch packaging (<xref ref-type="bibr" rid="B6">Campos et al., 2017</xref>), chlorine dioxide (<xref ref-type="bibr" rid="B2">Arangoa et al., 2016</xref>); there are recent studies that show the benefits of treatments such as gamma radiation-assisted cooling, which show an improvement in the physicochemical and neutraceutical properties (<xref ref-type="bibr" rid="B3">Barkaoui et al., 2021</xref>; <xref ref-type="bibr" rid="B16">Filho et al., 2018</xref>) which allows elucidating the possibility for a better control of <italic>Botrytis cinerea</italic>. Likewise, studies show that the use of elevated CO<sub>2</sub> during storage at 0 °C has shown to have positive effects on the quality of life of the fruit (Li <italic>et al</italic>., 2018). In this sense, it has been reported that when using <italic>B. subtilis</italic> strains, the physicochemical properties remain stable (<xref ref-type="bibr" rid="B33">Torres-García et al., 2024</xref>) and in some cases the nutraceutical properties have improved (<xref ref-type="bibr" rid="B13">Elikara et al., 2024</xref>). This study presents an analysis of the effect on shelf quality parameters in two varieties of strawberry (Festival and Camino Real) using biological control (<italic>Bacillus subtilis</italic>).</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Material and methods</title>
+			<sec>
+				<title>Location of the sample</title>
+				<p>Strawberries (<italic>Fragaria x ananassa</italic>), of the Festival and Camino Real varieties were used, identified in the community of Serrano, municipality of Guanajuato, México, located at a latitude of 20.7667, longitude -101.4 and altitude of 1740 m. The <italic>B. subtilis</italic> strains were obtained from the Ex-Hacienda de Márquez community in the town of Irapuato, Guanajuato, Mexico, located at latitude 20.78037, longitude -101.35979 and altitude of 1750 m. The cultivation method was fertigation and both varieties were collected at 7:00 a.m. in a period of two months, and the <italic>B. subtilis</italic> strains were grown at 28 °C for 12 h, in modified papa-dextrose-agar liquid medium (MPDA) (<xref ref-type="bibr" rid="B9">Castañeda and Ligia, 2016</xref>). The bacterial suspension was adjusted to a final concentration of 1× 10<sup>7</sup> CFU/mL, using MPDA. A weekly application of 1.5 mL per plant of each <italic>B. subtilis</italic> strain (08, MZ, DN and 06) was made to 30 strawberry plants for each variety (Camino Real and Festival) for 8 weeks, to study its effect as a control of <italic>B. cinerea</italic> by analyzing the useful life of the fruit and comparing it with samples without treatment (CTL). An NPK fertilization was used in the proportion 20-30-10 (%) in the first two months and 20-20-20 (%) later.</p>
+			</sec>
+			<sec>
+				<title>Collection of biological material</title>
+				<p>The strawberry samples used were collected in the morning and placed in baskets during the February to July 2022 period, from which a sample of 100 red strawberries (6), 20 ripe strawberries (5), 20 pink strawberries (3), 20 ripe green strawberries (2) were taken and 20 green strawberries (0) for each of the varieties (<xref ref-type="table" rid="t1">Table 1</xref>). The objective of analyzing different stages of fruit maturation is to study the evolution of physicochemical properties such as: weight, titratable acidity, pH, amount of ascorbic acid and anthocyanins through the physiological development of the fruit and subsequently study its shelf life; the strawberries were transported in a cooler to avoid damage and underwent analysis for characterization the same day of harvest, selecting the whole fruits to place them in containers corresponding to each study.</p>
+				<p>
+					<table-wrap-group id="t1">
+	<table-wrap xml:lang="en">
+						<label>Table 1</label>
+						<caption>
+							<title>Description of the degrees of ripening of the strawberry fruit.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 1.</label>
+		<caption>
+			<title>Descripción del grado de maduración de la fruta de la fresa.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Degree maturation </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 400px; background-color: #e6e7e8;"><bold>Description </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(0)</td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Well-developed greenish-white    fruit, this stage is known as physiological maturity.</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(2)</td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">The area of intense red color    in the apical zone is increased.</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(3)</td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">The pure red color covers up to    the middle area of the fruit and the calyx area has pinkish overtones.</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(5)</td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">The intense red color increase    and begins to cover the area of the calyx.</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">(6)</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">The intense red color covers    the entire fruit.</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p>Nomenclature of physiological stages in strawberries according to the <xref ref-type="bibr" rid="B26">Mexican Standard NMX-FF-062-SCFI-2002</xref>.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Determination of physical characteristics</title>
+				<p>The determination of physical parameters is essential in terms of product quality. In this study, characteristics were determined such as: Shape of strawberries (according to the letter of strawberry shapes), (<xref ref-type="bibr" rid="B11">Daubeny, 1980</xref>); size (using the method shown by <xref ref-type="bibr" rid="B23">Lin and Nay, 2018</xref>); in terms of shelf life, for both varieties, 300 red fruits by variety (Camino Real and Festival) were collected and were stored at 28.5 °C and 8 °C, for 7 and 15 days (d) respectively. Placing 10 fruits in a plastic clam in triplicate of each treatment (08, MZ, DN and 06) including the control (CTL), evaluated temperature and strawberry variety.</p>
+				<p>The fruits were examined every 3 days to determine changes in appearance. The percentage of decay was obtained considering as unacceptable fruit the one whose surface appears at least a spot of 1 mm in diameter due to the natural attack of <italic>B. cinerea</italic>. Considering that the % of decay is calculated by means of the quotient of affected fruits between total fruits multiplied by 100, in this sense it is important to mention that the reported storage time corresponds to the moment in which the first indication of affectation appears in one or more fruits which is indicative that in previous moments all the fruits remain in the category of acceptable. For the calculation of the texture, evaluations were performed in triplicate in series of 10 strawberries in the equatorial zone using a TA-XT2 texture analyzer equipped with a 4 mm diameter cylindrical specimen, with a head speed of 5 mm/s and a penetration distance of 8 mm.</p>
+			</sec>
+			<sec>
+				<title>Determination of chemical characteristics</title>
+				<p>Quality chemical factors for the strawberry determined are: Soluble solids (°Bx) using an ATAGO handheld refractometer, titratable acidity (%) using the <xref ref-type="bibr" rid="B1">A.O.A.C. method (1990)</xref>, pH (using an ORION model 420 A pH meter, previously calibrated with buffers at pH 4 and 7), ascorbic acid (mg/L) using the colorimetry method at an absorbance corresponding to a length of 750 nm in a LAMBDA XLS/XLAS+ brand spectrophotometer (<xref ref-type="bibr" rid="B30">Reyes, 2012</xref>) and anthocyanins (mg/L) using the Wrolstad spectrophotometric method, using a Lambda XLS/XLAS spectrophotometer reading at a wavelength of 520 nm (<xref ref-type="bibr" rid="B5">Bernal et al., 2015</xref>).</p>
+			</sec>
+			<sec>
+				<title>Color determination</title>
+				<p>Color measurements of the strawberry surface were performed using a Hunter Lab Reston colorimeter, ColorFlexEZ. The results were expressed according to the CIEL*a*b* system; the parameters determined are L* (luminosity, L*= 0 [black] and L*= 100 [white]), a* and b* (opponent color dimensions, [a* negative values = green and a* positive values = red], [b* negative values = blue and b* positive values = yellow]). In this regard, the equipment was previously calibrated according to the manufacturer’s instructions, and measurements were performed under controlled lighting conditions and in triplicate to ensure data reproducibility.</p>
+			</sec>
+			<sec>
+				<title>Statistical analysis</title>
+				<p>For the evaluation of shelf life and texture, a 2x3x3 factorial design, two strawberry varieties (Camino Real and Festival), three periods (beginning and end of shelf life) and three repetitions were used. The evaluation of acidity, pH, titratable acidity, vitamin C and anthocyanins used a 2x5x5 factorial arrangement, two strawberry varieties (Camino Real and Festival), five inoculation treatments (08, MZ, DN, 06 and CTL) and five stages of maturation (0, 2, 3, 5 and 6). Analysis of variance (ANOVA) was used to test statistical differences between samples of each parameter by Tukey’s analysis taking (p≤0.05).</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>Results and discussion</title>
+			<p>According to the chart of typical shapes of the strawberry published by the United States Department of Agriculture (<xref ref-type="bibr" rid="B11">Daubeny, 1980</xref>), the strawberry of the Camino Real variety presented an elongated conical shape. Most of the fruits of the Festival variety had an elongated conical shape and, to a lesser extent, a flattened long shape. In terms of weight, the Camino Real variety in stage of maturation 0 registered the best value corresponding to treatment 08 with 8.7 g, for the stage 2 case the highest weight was recorded by treatment DN with 11 g, for the case of maturation 3 the best value was recorded with the MZ treatment with 12.7 g, as well as for the 6 maturity stage with 17.9 g, finally for the 5 maturity stage a weight of 11 g was obtained for the DN treatment. In the case of the Festival variety in ripening stage 0 and 2, the highest weight was recorded by the CTL with 7.3 g and 8.4 g respectively; for the 3 maturation stage the highest value was obtained for the DN treatment with a value of 10.5 g, for the 6 stage a weight of 12.3 g was obtained corresponding to the CTL and finally for the 5 stage the treatments with the highest weight were: DN and 06, registering a weight of 10.4 g for both cases. In this sense, for the Camino Real variety the best result was obtained by the MZ treatment for the 6 stage, while for the Festival variety the best result was presented by the CTL for the 6 stage, which is indicative that the MZ treatment is beneficial for the Camino Real variety as far as weight is concerned.</p>
+			<p>Regarding texture, for the Camino Real variety the better value was obtained with the treatment 08<sup>b</sup> (4.4 N) with greater firmness, in second position to MZ<sup>a</sup> (4.3 N) with respect to the CTL<sup>a</sup> (4.2 N) and leaving treatments DN<sup>a</sup> (4.1 N) and 06<sup>a</sup> (4 N) behind. When evaluating the fruits under conditions of 8 °C, the firmness decreases in all treatments including CTL, however the only treatment that manages to maintain firmness was 06 (4 N); 08, DN and MZ lost 0.1 units with respect to the initial firmness. For conditions of 28.5 °C the softening was more noticeable, however the DN (4 N) treatment maintains the same firmness as the fruits evaluated under refrigeration, making it more stable than the remaining treatments. In this way, the greatest smoothing registered it the MZ treatment (2.9 N). For the Festival variety, the initial evaluation of strawberry fruits reported that treatment 08 (5.4 N) was the only one to exceed to CTL, and treatment 06 (4.5N) with the least firmness. Under 8 °C conditions, no treatment equaled the CTL<sup>c</sup> (5 N) being the closest DN<sup>c</sup> (4.9 N), followed by 08<sup>b</sup> (4.7 N) and for the MZ<sup>a</sup> and 06<sup>a</sup> (4.1 N). On the other hand, at 28.5 °C the loss of texture was obtained in all treatments except DN (4.9 N) which maintains its firmness from the beginning of the analysis, leaving treatment 08<sup>c</sup> (4.1 N) in second position following 06<sup>c</sup> (4 N), MZ<sup>b</sup> (3.6 N) and finally the CTL<sup>a</sup> (3.3 N). The best treatment for the Camino Real variety was DN, due to the fact that there is a difference of 0.1 N between the initial stage and the values at 8 °C and 28.5 °C, this treatment improves the results of the CTL; in the case of the Festival variety, the best treatment in the same way is the DN, maintaining the same values for the three temperature stages, in this sense, in the case of the stage at 8 °C, the value is below with respect to the CTL. While the one corresponding to 28.5 °C is above, which indicates that when carrying out the DN treatment the Camino Real variety presents a greater benefit in relation to said parameter. which is consistent with what is reported in the literature (<xref ref-type="bibr" rid="B32">Saleh and Abu-Dieyeh, 2022</xref>). In this sense, it has been reported that when carrying out biological treatments with <italic>B. subtilis</italic> the physical properties are maintained without negative impact, improving the humidity properties (<xref ref-type="bibr" rid="B33">Torres-García et al., 2024</xref>) statistical analysis indicates significant differences in texture between the various treatments for both varieties, which is indicative of the benefits of the biological treatment in the mentioned parameters.</p>
+			<sec>
+				<title>Shelf life (Percentage Decay)</title>
+				<p>The study carried out for Camino Real at 28.5 ° C records treatment 06 (42.2 %) below CTL (43.9 %), the remaining treatments have percentages higher than CTL, with the fruits of plants inoculated with DN (59.4 %) being the most susceptible to these temperature condition (<xref ref-type="fig" rid="f1">Figure 1</xref>). Statistical analysis indicates that there are significant differences between treatments 08, MZ and DN with respect to the control. Treatment 06 (41.2 %) of the Festival variety reports the lowest percentage of decay with respect to CTL (43.5 %), while DN (58.2 %) has a higher rate of affected fruits during the experimental phase of 15 days at a temperature between 28.5 °C (<xref ref-type="fig" rid="f1">Figure 1</xref>). As in the previous case, the statistical analysis indicates that there are significant differences between treatments 08, MZ and DN with respect to the control.</p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="en">
+						<label>Figure 1</label>
+						<caption>
+							<title>Decay percentage vs treatment for the Camino Real and Festival varieties at 28.5°C for 7 days of storage. Using Statistical analysis by Tukey’s test (P≤0.05). </title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 1.</label>
+	<caption>
+	<title>Porcentaje de descomposición vs tratamiento de las variedades Camino Real y Festival a 28.5 °C durante 7 días de almacenamiento realizando un análisis estadístico mediante la prueba de Tukey (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2630-gf1.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>Decay percentage in the Camino Real variety at 8 °C is shown in <xref ref-type="fig" rid="f2">Figure 2</xref>; treatments MZ and DN (28.8 %) register the lowest percentage of decay with respect to CTL (36.1 %) while 08 (36.6 %) and 06 (36.1 %) are higher than CTL. Statistical analysis indicates that there are significant differences between treatments MZ and DN with respect to the control. At 8 °C in the Festival variety (<xref ref-type="fig" rid="f2">Figure 2</xref>), the lower percentages of decay are represented by treatments 08 (27.7 %), MZ (30 %), DN (37.7 %), while treatments 06 and CTL (46.1 %) are the same among them. Statistical analysis indicates that there are significant differences between treatments 08, MZ and DN with respect to the control.</p>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="en">
+						<label>Figure 2</label>
+						<caption>
+							<title>Decay percentage vs treatment for the Camino Real and Festival varieties at 8 °C for 15 days of storage. Using Statistical analysis by Tukey’s test (P≤0.05).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 2.</label>
+	<caption>
+	<title>Porcentaje de descomposición vs tratamiento de las variedades Camino Real y Festival a 8 °C durante 15 días de almacenamiento realizando un análisis estadístico mediante la prueba de Tukey (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2630-gf2.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>The shelf life results obtained show that the test carried out at 28.5 °C, the fruits inoculated with the <italic>B. subtilis</italic> 06 strain for both the Camino real variety and the Festival variety indicate having a lower percentage than CTL. The evaluation at 8 °C for both varieties shows two possible treatments to reduce the percentage of decay in strawberries; the fruits inoculated with the MZ and DN strains register a lower percentage with respect to the CTL in the Camino Real variety. In the Festival variety, the favored treatments are 08 and MZ with respect to the CTL. The results show that the life of the product is higher (15 days) than that reported by some studies, which is around 9 days maximum (<xref ref-type="bibr" rid="B27">Paulsen <italic>et al</italic>., 2021</xref>); statistical analysis for shelf life indicates that significant differences were found between the various treatments, the least of these being that corresponding to treatment 06 with respect to the CTL for both varieties. In relation to shelf life, for both varieties at a temperature of 28.5 °C, the control had a shelf life of 7 days, while the best treatment reported a shelf life of 10 days. For both varieties at a temperature of 8 °C, the control reported a shelf life of 10 days, compared to 15 days for the treatments, which reported a lower decay percentage than the control.</p>
+				<p>The results obtained are consistent with studies that report that applying this type of biological treatment reduces the severity of the effect of pathogens by 80% and increases shelf life by up to 15 days (<xref ref-type="bibr" rid="B8">Caretta et al., 2025</xref>). This is of significant relevance since it provides alternatives to traditional preservation methods through natural and safe preservation techniques for these products without additives that may contain substances that affect the health of consumers (<xref ref-type="bibr" rid="B33">Torres-García et al., 2024</xref>).</p>
+			</sec>
+			<sec>
+				<title>Chemical properties</title>
+				<p>The results of soluble solids (°Bx) of the Camino Real variety (<xref ref-type="table" rid="t2">Table 2</xref>) indicate that in initial conditions treatment 06 equaled the CTL (8 °Bx), in such a way that MZ (8.2 °Bx), DN (8.6 °Bx ) and 08 (8.8 °Bx) surpassed the CTL treatment, with 08 being the study case with the highest sugar content; the statistical analysis indicates a significant difference between the DN and 08 treatments with respect to the control. In conditions of 8 °C all treatments increased the content of soluble solids where only treatment 08 (9.4 °Bx) exceeded CTL (8.9 °Bx), while the remaining treatments showed DN (8.7 °Bx), MZ (8.4 °Bx) and finally 06 (8.3 °Bx); the statistical analysis indicates that there is a significant difference between the 08 and 06 treatments with respect to the control. Regarding the conditions at 28.5 °C, concentrations of soluble solids were recorded in treatments 06 (11.5 °Bx), DN (11.2 °Bx), MZ (10.6 °Bx) and 08 (10.2 °Bx), all of which were higher to the CTL (10.1 °Bx); statistical analysis indicates that there are significant differences between treatments 06, DN and MZ with respect to the control.</p>
+				<p>
+					<table-wrap-group id="t2">
+	<table-wrap xml:lang="en">
+						<label>Table 2</label>
+						<caption>
+							<title>Soluble Solids of the strawberry fruit.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 2.</label>
+		<caption>
+			<title>Sólidos solubles de la fruta de la fresa.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Variety </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Temperature condition (°C) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Treatment </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Soluble solids (° Bx) </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="15">Camino Real</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="5">Test Start</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">CTL<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">08<sup>b</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.8</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">MZ<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.2</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">DN<sup>b</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.6</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">06<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="5">28.5</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">CTL<sup>c</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">10.1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">08<sup>c</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">10.2</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">MZ<sup>d</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">10.6</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">DN<sup>e</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">11.2</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">06<sup>e</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">11.5</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="5">8.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">CTL<sup>f</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.9</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">08<sup>g</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">9.4</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">MZ<sup>f</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.4</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">DN<sup>f</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">11.2</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">06<sup>h</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">11.5</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="15">Festival</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="5">Test Start</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">CTL<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.8</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">08<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.6</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">MZ<sup>b</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.4</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">DN<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.8</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">06<sup>c</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">9.4</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="5">28.5</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">CTL<sup>d</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.8</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">08<sup>f</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">10.4</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">MZ<sup>f</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">10.5</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">DN<sup>e</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">9.5</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">06<sup>f</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">10.5</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="5">8.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">CTL<sup>g</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.8</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">08<sup>g</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.6</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">MZ<sup>h</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.4</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">DN<sup>g</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.8</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-right: 1px solid #000000; text-align: center; background-color: #e6e7e8;">06<sup>i</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">9.4</td>
+  </tr>
+</tbody>
+</table>
+
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>The results for Festival Variety (<xref ref-type="table" rid="t1">Table 1</xref>) of the inoculated fruits with respect to the CTL indicate that at a temperature of 8 °C the DN treatment (8.8 °Bx) remained the same as the CTL However, treatment 06 (9.4 °Bx) managed to overcome both while the remaining treatments were below the CTL, which indicates that the sweetness was preserved or increased in all cases with respect to the initial stage; treatment 06 was the only one that presented a significant difference with respect to the control. On the other hand, at 28.5 °C the inoculated fruits had a more favorable behavior, all exceeded the CTL where the treatments MZ and 06 reached 10.5 °Bx, 08 (10.4 °Bx) and DN (9.5 °Bx); in this case, all treatments presented a significant difference with respect to the control. In this way we can say that the fruit when inoculated can increase its sweetness in both temperature conditions, being more notable at 28.5 °C due to the loss of water.</p>
+				<p>The titratable acidity corresponding to the Camino Real variety (<xref ref-type="fig" rid="f3">Figure 3</xref>) indicates that at the beginning of the study the CTL<sup>a</sup> and treatments DN<sup>a</sup> report a value of 0.96 % in stage 0 while 08<sup>a</sup>, 06<sup>a</sup> and MZ<sup>a</sup> with 0.98 %, 1 % and 1 % respectively, surpassing the previous ones. In 2, the CTL<sup>a</sup> (1 %) is equal to 06<sup>a</sup> keeping DN<sup>a</sup> (0.87 %), MZ<sup>a</sup> (0.96 %) and 08<sup>a</sup> (0.95 %) below CTL. The 3 stage is less affected in treatment 06<sup>a</sup> (0.92 %) with respect to CTL<sup>a</sup> (0.86 %). Regarding stage 6, treatment 08a (88 %) loses less % compared to CTL<sup>a</sup> (86 %), 06<sup>a</sup> equals CTL<sup>a</sup>, while MZ<sup>a</sup> (0.83 %) and DN<sup>a</sup> (81 %) register higher losses. Regarding stage 5, values equal to 6 were reported. Statistical analysis indicates that there is no significant difference between the various treatments in each of the stages studied. The titratable acidity results corresponding to the Festival variety (<xref ref-type="fig" rid="f4">Figure 4</xref>), indicates that there were no significant differences in this parameter during their maturation stages, reporting values of 1.2 % for 08<sup>a</sup>, regarding MZ<sup>a</sup> and DN<sup>a</sup> a value of 1.1 %, finally for 06<sup>a</sup> and CTL<sup>a</sup> of 1 %. Regarding the titratable acidity for the Camino Real variety, as the maturation stage progresses, the treatments mostly equal or remain below the CTL, and for the 5 stage only treatment 06 manages to equal to CTL, which is congruent with the results obtained from soluble solids since having greater sweetness the acidity decreases. In the case of the Festival variety, it can be observed that there is no significant difference between the maturation stages in their respective treatments, all of them being slightly above the CTL which indicates that this parameter is not affected by the treatments for this variety.</p>
+				<p>
+					<fig-group id="f3">
+	<fig xml:lang="en">
+						<label>Figure 3</label>
+						<caption>
+							<title>Titratable acidity corresponding to the Camino Real variety. Using Statistical analysis by Tukey’s test (P≤0.05).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 3.</label>
+	<caption>
+	<title>Acidez Titulable correspondiente a la variedad Camino Real, realizando un análisis estadístico mediante la prueba de Tukey (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2630-gf3.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>
+					<fig-group id="f4">
+	<fig xml:lang="en">
+						<label>Figure 4</label>
+						<caption>
+							<title>Titratable acidity corresponding to the Festival variety. Using Statistical analysis by Tukey’s test (P≤0.05).  </title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 4.</label>
+	<caption>
+	<title>Acidez Titulable correspondiente a la variedad Festival, realizando un análisis estadístico mediante la prueba de Tukey (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2630-gf4.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>The pH results corresponding to the Camino Real variety (<xref ref-type="fig" rid="f5">Figure 5</xref>) for stage 0, indicates there were no changes between treatments (3.9), for 2, higher pH was appreciated in treatments 08<sup>a</sup>, MZ<sup>a</sup> and DN<sup>a</sup> with a value of 3.9 with respect to CTL<sup>a</sup> (3.7), for stage 3 the results were similar, DN<sup>a</sup> equaling to CTL<sup>a</sup> with 3.9, below was 06<sup>a</sup> with 3.7 and above all of them MZ<sup>a</sup> with 3.8 and 08<sup>a</sup> with 4. In the 6 stage, all the treatments were equal to the CTL<sup>a</sup> (3.9), except DN<sup>a</sup> with a value of 4, and finally in 5 all the fruits share the same amount of pH equal to 4. The pH results corresponding to the Festival variety (<xref ref-type="fig" rid="f6">Figure 6</xref>) indicate that during the five stages of strawberry fruit ripening, no significant change in pH was observed between treatments whose value remained around 4 indicating that for both varieties there is no significant difference between the parameters studied. According to this, for the Camino Real variety it can be observed that for almost all stages the same pH values were reported and in some cases above to CTL, with the exception of treatments MZ and 06 in the 3 stage, these results are congruent with the parameters shown by soluble solids and titratable acidity. Regarding the Festival variety, the trend was the same as that of the Camino real variety, except for the 2 stage where the treatments were below to CTL, which is indicative of a good evolution of the fruits when applying the treatments since favor the generation of soluble solids and decrease acidity as the stage of maturity progresses. In terms of chemical properties, the results are similar, for example, to those reported by studies where electron beam irradiation is used (<xref ref-type="bibr" rid="B4">Barkaoui et al., 2021</xref>); as in the case of physical and chemical properties show significant differences between the various treatments for both varieties. Likewise, these results are consistent with studies reporting the benefits of this type of treatment in terms of the amount of soluble solids and sugar content, strengthening the evidence of the viability of the proposed alternative (<xref ref-type="bibr" rid="B21">Huasasquiche et al., 2024</xref>; <xref ref-type="bibr" rid="B33">Torres-García et al., 2024</xref>).</p>
+				<p>
+					<fig-group id="f5">
+	<fig xml:lang="en">
+						<label>Figure 5</label>
+						<caption>
+							<title>pH corresponding to the Camino Real variety. Using Statistical analysis by Tukey’s test (P≤0.05). </title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 5.</label>
+	<caption>
+	<title>pH correspondiente a la variedad Camino Real, realizando un análisis estadístico mediante la prueba de Tukey (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2630-gf5.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>
+					<fig-group id="f6">
+	<fig xml:lang="en">
+						<label>Figure 6</label>
+						<caption>
+							<title>pH corresponding to the Festival variety. Using Statistical analysis by Tukey’s test (P≤0.05). </title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 6.</label>
+	<caption>
+	<title>pH correspondiente a la variedad Festival, realizando un análisis estadístico mediante la prueba de Tukey (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2630-gf6.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Nutraceutical properties (Amount of ascorbic acid and anthocyanins)</title>
+				<p>
+					<xref ref-type="fig" rid="f7">Figure 7</xref> shows the results of the amount of ascorbic acid (Vitamin C) corresponding to the Camino Real variety, where can be observed that highest concentration of vitamin C is in stage 2 for MZ<sup>a</sup> and 06<sup>a</sup> treatments (1 %); In the remaining cases, it was observed that all the fruits inoculated with the different strains of <italic>B. subtilis</italic> are benefited with respect to CTL<sup>a</sup> (0.86 %), DN<sup>a</sup> (0.81 %) and 06<sup>a</sup> (0.86 %) in stages 6 and 5 respectively, they managed to have a non-significant difference, which assures us that although it does not increase the concentration of Vitamin C can be preserved without being altered. The results of the amount of ascorbic acid corresponding to the Festival variety (<xref ref-type="fig" rid="f8">Figure 8</xref>) indicates that the highest amount of ascorbic acid is obtained at the 2 stage for 08<sup>b</sup> treatment (6.8 %), followed by the 3, 6, and 5 stages which present the same values (6.3 %) for the same treatment, finally all treatments presented a greater amount of ascorbic acid with respect to CTL<sup>a</sup> (4.2 %). There is a significant difference between the various treatments and the control.</p>
+				<p>
+					<fig-group id="f7">
+	<fig xml:lang="en">
+						<label>Figure 7</label>
+						<caption>
+							<title>Ascorbic acid corresponding to the Camino Real variety. Using Statistical analysis by Tukey’s test (P≤0.05).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 7.</label>
+	<caption>
+	<title>Ácido ascórbico correspondiente a la variedad Camino Real, realizando un análisis estadístico mediante la prueba de Tukey (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2630-gf7.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>
+					<fig-group id="f8">
+	<fig xml:lang="en">
+						<label>Figure 8</label>
+						<caption>
+							<title>Ascorbic acid corresponding to the Festival variety. Using Statistical analysis by Tukey’s test (P≤0.05).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 8.</label>
+	<caption>
+	<title>Ácido ascórbico correspondiente a la variedad Festival, realizando un análisis estadístico mediante la prueba de Tukey (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2630-gf8.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>The results of the amount of anthocyanins (mg/L) depending on the treatment and maturation stage corresponding to the Camino Real variety (<xref ref-type="fig" rid="f9">Figure 9</xref>) indicate that the best value of this parameter was obtained by CTL with a value of 3.1 mg/L for stage 5, remaining all treatments below this; the results of the amount of anthocyanins corresponding to the Festival variety (<xref ref-type="fig" rid="f10">Figure 10</xref>) indicate that the best value of this parameter was obtained by treatments 08<sup>b</sup> and MZ<sup>b</sup> for stage 5, reporting a value of 3.7 mg/L in both cases, likewise all treatments reported values above CTL<sup>a</sup> (2.7 mg/L). The results found show higher values than those reported in other studies (<xref ref-type="bibr" rid="B29">Rahman et al., 2021</xref>), which indicates that the treatments improve the nutraceutical properties of the fruits in the Festival variety, the above is relevant since it has been shown that phenolic compounds act as non-enzymatic antioxidants and help delay fruit senescence and improve its shelf life (Wanyi <italic>et al</italic>., 2024). The statistical analysis corresponding to the nutraceutical properties indicates that there is a significant difference between the various treatments, maintaining a high degree of homogeneity between the various degrees of maturation of each treatment for both varieties.</p>
+				<p>
+					<fig-group id="f9">
+	<fig xml:lang="en">
+						<label>Figure 9</label>
+						<caption>
+							<title>Anthocyanins correspond to the Camino Real variety. Using Statistical analysis by Tukey’s test (P≤0.05).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 9.</label>
+	<caption>
+	<title>Antocianinas correspondientes a la variedad Camino Real, realizando un análisis estadístico mediante la prueba de Tukey (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2630-gf9.jpg"/>
+					</fig>
+					
+					</fig-group>
+				</p>
+				<p>
+					<fig-group id="f10">
+	<fig xml:lang="en">
+						<label>Figure 10</label>
+						<caption>
+							<title>Anthocyanins corresponding to the Festival variety. Using Statistical analysis by Tukey’s test (P≤0.05).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 10.</label>
+	<caption>
+	<title>Antocianinas correspondientes a la variedad Festival, realizando un análisis estadístico mediante la prueba de Tukey (P≤0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2630-gf10.jpg"/>
+					</fig>
+					
+					</fig-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Color Determination</title>
+				<p>
+					<xref ref-type="table" rid="t3">Table 3</xref> shows the color determination in Camino Real strawberries at 28.5 °C during 7 days of storage. In this sense, it can be observed that there are no significant differences between the treatments, presenting a correlation with the results obtained for the anthocyanin content, considering that a ripe strawberry is characterized by an intense red-pink color that intensifies with longer storage time, which translates into high and positive values in the a* coordinate of the CIELAB system and a moderately high L* value. In the case of the Festival variety, at 28.5 °C for 7 days of storage (<xref ref-type="table" rid="t4">Table 4</xref>), a similar trend to that shown in the previous case is maintained. It is worth mentioning that the color study was performed on the control and the treatments that obtained a percentage of decay lower than or equal to the aforementioned.</p>
+				<p>
+					<table-wrap-group id="t3">
+	<table-wrap xml:lang="en">
+						<label>Table 3</label>
+						<caption>
+							<title>Determination of color in Camino Real strawberries at 28.5 °C for 7 days of storage. </title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 3.</label>
+		<caption>
+			<title>Determinación de color en fresas de la variedad Camino Real a 28.5 °C durante 7 días de almacenamiento.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 450px; background-color: #e6e7e8;" colspan="3"><bold>Chromatic coordinates </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Temperature (°C)</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Treatment</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">L*</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">a*</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">b*</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="2">28.5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">CTL</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">52.24 ± 11.2959<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">28.4778 ± 4.8845<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">10.6222 ± 2.7810<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">06</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">50.83 ± 4.6692<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">27.3444 ± 4.6976<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">9.0444 ± 2.3505<sup>a</sup></td>
+  </tr>
+</tbody>
+</table>
+
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>
+					<table-wrap-group id="t4">
+	<table-wrap xml:lang="en">
+						<label>Table 4</label>
+						<caption>
+							<title>Determination of color in Festival strawberries at 28.5 °C for 7 days of storage. </title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 4.</label>
+		<caption>
+			<title>Determinación de color en fresas de la variedad Festival a 28.5 °C durante 7 días de almacenamiento.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 450px; background-color: #e6e7e8;" colspan="3"><bold>Chromatic coordinates </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Temperature (°C)</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Treatment</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">L*</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">a*</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">b*</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="2">28.5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">CTL</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">49.22 ± 3.2632<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">26.44 ± 4.3332<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">9.44 ± 2.5212<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">06</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">47.22 ± 2.2652<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">24.86 ± 4.3544<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">7.25 ± 2.3323<sup>a</sup></td>
+  </tr>
+</tbody>
+</table>
+
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>
+					<xref ref-type="table" rid="t5">Table 5</xref> shows the color determination of Camino Real strawberries at 8 °C for 15 days of storage; the results show no significant differences between the control and the treatments studied. For the Festival variety, at 8 °C for 15 days of storage (<xref ref-type="table" rid="t6">Table 6</xref>), there is no significant difference between the control and treatments 06 and DN. Likewise, there is a significant difference between treatments 08 and MZ compared to the control, with the latter two treatments reporting the highest color parameters. As with the temperature at 28.5 °C, color determination was performed on the control and on treatments that had a percentage decline equal to or lower than this.</p>
+				<p>
+					<table-wrap-group id="t5">
+	<table-wrap xml:lang="en">
+						<label>Table 5</label>
+						<caption>
+							<title>Color determination in Camino Real strawberries at 8°C for 15 days of storage.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 5.</label>
+		<caption>
+			<title>Determinación de color en fresas de la variedad Camino Real a 8 °C durante 15 días de almacenamiento.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 450px; background-color: #e6e7e8;" colspan="3"><bold>Chromatic coordinates </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Temperature (°C)</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Treatment</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">L*</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">a*</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">b*</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">8</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">CTL</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">51.33 ± 2.22<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">26.88 ± 4.56<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.89 ± 2.22<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">06</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">49.88 ± 3.23<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">26.41 ± 4.44<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.24 ± 2.44<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">08</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">50.44 ± 2.68<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">25.45 ± 4.24<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.87 ± 2.33<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">MZ</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">50.32 ± 2.62<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">26.02 ± 4.46<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.88 ± 2.42<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">DN</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">49.44 ± 3.42<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">25.86 ± 4.23<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">7.21 ± 2.88<sup>a</sup></td>
+  </tr>
+</tbody>
+</table>
+
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>
+					<table-wrap-group id="t6">
+	<table-wrap xml:lang="en">
+						<label>Table 6</label>
+						<caption>
+							<title>Color determination in Festival strawberries at 8°C for 15 days of storage.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 6.</label>
+		<caption>
+			<title>Determinación de color en fresas de la variedad Festival a 8 °C durante 15 días de almacenamiento.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 450px; background-color: #e6e7e8;" colspan="3"><bold>Chromatic coordinates </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Temperature (°C) </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Treatment </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>L*</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>a*</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>b*</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">8</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">CTL</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">49.3 ± 2.4442<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">26.25 ± 4.5726<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.22 ± 2.2254<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">06</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">50.22 ± 3.2457<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">25.95 ± 4. 8500<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.88 ± 2.5423<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">08</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">54.88 ± 2.6575<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">30.88 ± 4.2423<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">9.54 ± 2.3344<sup>b</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">MZ</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">55.42 ± 2.7869<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">31.84 ± 4.4444<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">9.88 ± 2.2422<sup>b</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">DN</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">49.62 ± 3.2234<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">25.86 ± 4.6258<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.22 ± 2.5634<sup>a</sup></td>
+  </tr>
+</tbody>
+</table>
+
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusions</title>
+			<p>The physical and chemical properties showed an improvement when applying the described treatments, which allows elucidating that these represent an alternative to increase the useful life of the strawberry varieties studied. Regarding the physical properties, for the Camino Real variety, the treatments MZ, 06 and DN reported the best values, and for the Festival variety the CTL sample reported the most adequate values. In terms of chemical and nutraceutical properties, treatments 06 and 08 reported the best values for both varieties, which is indicative that strain 06 of <italic>B. subtilis</italic> is the best treatment for the control of <italic>B. cinerea</italic>. Likewise, the completely randomized statistical design indicates that there is a significant difference in most of the studies carried out, which reinforces the evidence of changes in the physicochemical properties of the products studied when subjected to the treatments mentioned in this document.</p>
+		</sec>
+		<sec>
+			<title>Conflicts of interest</title>
+			<p>The authors declare that there is no conflict of interest in relation to this paper.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Acknowledgments</title>
+			<p>The authors thank the University of Guanajuato and the Center for Research and Advanced Studies of the I.P.N (CINVESTAV) Irapuato Unit.</p>
+		</ack>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>A.O.A.C. (Association of Official Analytical Chemist), 1990. OFFICIAL METHODS OF ANALYSIS, <ext-link ext-link-type="uri" xlink:href="https://law.resource.org/pub/us/cfr/ibr/002/aoac.methods.1.1990.pdf">https://law.resource.org/pub/us/cfr/ibr/002/aoac.methods.1.1990.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>A.O.A.C. (Association of Official Analytical Chemist)</collab>
+					</person-group>
+					<year>1990</year>
+					<source>OFFICIAL METHODS OF ANALYSIS</source>
+					<ext-link ext-link-type="uri" xlink:href="https://law.resource.org/pub/us/cfr/ibr/002/aoac.methods.1.1990.pdf">https://law.resource.org/pub/us/cfr/ibr/002/aoac.methods.1.1990.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Arangoa, J., Rubino, M., Aurasa, R., Gillett, J., Schilderb, A. and Grzesiak, A. 2016. Evaluation of chlorine dioxide as an antimicrobial against <italic>Botrytis cinerea</italic> in California strawberries. Food Packaging and Shelf Life 9:45-54. https://doi.org/10.1016/j.fpsl.2016.05.003</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arangoa</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Rubino</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Aurasa</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Gillett</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Schilderb</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Grzesiak</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Evaluation of chlorine dioxide as an antimicrobial against Botrytis cinerea in California strawberries</article-title>
+					<source>Food Packaging and Shelf Life</source>
+					<volume>9</volume>
+					<fpage>45</fpage>
+					<lpage>54</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.fpsl.2016.05.003</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Barkaoui, S., Mankai, M., Miloud, N., Kraïen, M., Madureria, J., Cabo, S. and Boudhrioua, N. 2021. Effect of gamma radiation coupled to refrigeration on antioxidant capacity, sensory properties and shelf life of strawberries. Food Science and Technology 150: 1-9. https://doi.org/10.1007/s11947-020-02490-1</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barkaoui</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Mankai</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Miloud</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Kraïen</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Madureria</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Cabo</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Boudhrioua</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Effect of gamma radiation coupled to refrigeration on antioxidant capacity, sensory properties and shelf life of strawberries</article-title>
+					<source>Food Science and Technology</source>
+					<volume>150</volume>
+					<fpage>1</fpage>
+					<lpage>9</lpage>
+					<pub-id pub-id-type="doi">10.1007/s11947-020-02490-1</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Barkaoui, S., Mankai, M., Miloud, N., Kraïen, M., Madureria, J., Cabo, S. and Boudhrioua, N. 2021. E-beam irradiation of strawberries: Investigation of microbiological, physicochemical, sensory acceptance properties and bioactive content. Innovative Food Science and Emerging Technologies 73: 1-10. https://doi.org/10.1016/j.ifset.2021.102769</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barkaoui</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Mankai</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Miloud</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Kraïen</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Madureria</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Cabo</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Boudhrioua</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>E-beam irradiation of strawberries: Investigation of microbiological, physicochemical, sensory acceptance properties and bioactive content</article-title>
+					<source>Innovative Food Science and Emerging Technologies</source>
+					<volume>73</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.ifset.2021.102769</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Bernal, F., Orduz-Diaz, L. and Coy-Barrera, E. 2015. Exploitation of the complexation reaction of ortho-dihydroxylated anthocyanins with aluminum (III) for their quantitative spectrophotometric determination in edible sources. Food Chemistry 185: 84-89. https://doi.org/10.1016/j.foodchem.2015.03.116</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bernal</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Orduz-Diaz</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Coy-Barrera</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Exploitation of the complexation reaction of ortho-dihydroxylated anthocyanins with aluminum (III) for their quantitative spectrophotometric determination in edible sources</article-title>
+					<source>Food Chemistry</source>
+					<volume>185</volume>
+					<fpage>84</fpage>
+					<lpage>89</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.foodchem.2015.03.116</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Campos, V., Rivas, B., Pérez, M., Figueroa, C., Figueroa, N. and Sanfuentes, E. 2017. Thermoplastic starch/claynano composites loaded with essential oil constituents as packaging for strawberries in vivo antimicrobial synergy over <italic>Botrytis cinerea</italic>. Phostarvest Biology and Technology 129: 29-36. https://doi.org/10.1016/j.postharvbio.2017.03.005</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Campos</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Rivas</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Pérez</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Figueroa</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Figueroa</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Sanfuentes</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Thermoplastic starch/claynano composites loaded with essential oil constituents as packaging for strawberries in vivo antimicrobial synergy over Botrytis cinerea</article-title>
+					<source>Phostarvest Biology and Technology</source>
+					<volume>129</volume>
+					<fpage>29</fpage>
+					<lpage>36</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.postharvbio.2017.03.005</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Cano, M. 2013. Biological strategies for disease management in strawberry growing (<italic>Fragaria</italic> spp.). Revista colombiana de ciencias hortícolas 7: 263-276. <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S2011-21732013000200011">http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S2011-21732013000200011</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cano</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Biological strategies for disease management in strawberry growing (Fragaria spp.)</article-title>
+					<source>Revista colombiana de ciencias hortícolas</source>
+					<volume>7</volume>
+					<fpage>263</fpage>
+					<lpage>276</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S2011-21732013000200011">http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S2011-21732013000200011</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Caretta T., Unterholzner M., Alzate M., Spitaler U., Ceccon A., Cesco S., Pii Y. 2025. Antifungal activity of surfactin produced by <italic>Bacillus subtilis</italic> against phytopathogenic fungi in apple and strawberry: an <italic>in vitro</italic> and <italic>in vivo</italic> study. Food Science + Technology 60(1): 87. https://doi.org/10.1093/ijfood/vvaf087</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Caretta</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Unterholzner</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Alzate</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Spitaler</surname>
+							<given-names>U.</given-names>
+						</name>
+						<name>
+							<surname>Ceccon</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Cesco</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Pii</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Antifungal activity of surfactin produced by Bacillus subtilis against phytopathogenic fungi in apple and strawberry: an in vitro and in vivo study</article-title>
+					<source>Food Science + Technology</source>
+					<volume>60</volume>
+					<issue>1</issue>
+					<fpage>87</fpage>
+					<lpage>87</lpage>
+					<pub-id pub-id-type="doi">10.1093/ijfood/vvaf087</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Castañeda, E. and Ligia, C. 2016. Evaluation of growth of four species of the genus <italic>Bacillus</italic> sp., the first step to understand their biocontrol effect on Fusarium sp. NOVA 12: 53-65. <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S1794-24702016000200006&amp;lng=e&amp;nrm=iso&amp;tlng=en">http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S1794-24702016000200006&amp;lng=e&amp;nrm=iso&amp;tlng=en</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castañeda</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Ligia</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Evaluation of growth of four species of the genus Bacillus sp., the first step to understand their biocontrol effect on Fusarium sp</article-title>
+					<source>NOVA</source>
+					<volume>12</volume>
+					<fpage>53</fpage>
+					<lpage>65</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S1794-24702016000200006&amp;lng=e&amp;nrm=iso&amp;tlng=en">http://www.scielo.org.co/scielo.php?script=sci_abstract&amp;pid=S1794-24702016000200006&amp;lng=e&amp;nrm=iso&amp;tlng=en</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Cubero-Cardoso, J., Serrano, A., Trujillo-Reyes, A., Villa-Gómez, D., Borja, R. and Fermoso, F. 2020 Valorization options of strawberry extrudate Agro-Waste. A Review. IntechOpen 1:1-20. DOI: 10.5772/intechopen.93997</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cubero-Cardoso</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Serrano</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Trujillo-Reyes</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Villa-Gómez</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Borja</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Fermoso</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Valorization options of strawberry extrudate Agro-Waste. A Review</article-title>
+					<source>IntechOpen</source>
+					<volume>1</volume>
+					<fpage>1</fpage>
+					<lpage>20</lpage>
+					<pub-id pub-id-type="doi">10.5772/intechopen.93997</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Daubeny, H. 1980. Red raspberry cultivar development in British Columbia with special reference to pest response and germplasm exploitation. Acta hort 112: 59-67. https://doi.org/10.17660/ActaHortic.1980.112.8</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Daubeny</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>1980</year>
+					<article-title>Red raspberry cultivar development in British Columbia with special reference to pest response and germplasm exploitation</article-title>
+					<source>Acta hort</source>
+					<volume>112</volume>
+					<fpage>59</fpage>
+					<lpage>67</lpage>
+					<pub-id pub-id-type="doi">10.17660/ActaHortic.1980.112.8</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Dikshit, R. and Tallapragada, P. 2018. Comparative study of natural and artificial flavoring agents and dyes. Natural and Artificial Flavoring Agents and Food Dyes 1: 83-111. 10.1016/B978-0-12-811518-3.00003-X</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dikshit</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Tallapragada</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Comparative study of natural and artificial flavoring agents and dyes</article-title>
+					<source>Natural and Artificial Flavoring Agents and Food Dyes</source>
+					<volume>1</volume>
+					<fpage>83</fpage>
+					<lpage>111</lpage>
+					<pub-id pub-id-type="doi">10.1016/B978-0-12-811518-3.00003-X</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Elikara, A.U., Popesku, G.C., Demiriel, F., Say, A. and Günes, A. 2024. Effect of Rhizobacteria application on nutrient content, bioactive compounds, antioxidant activity, color properties and fruit characteristics of strawberry cultivars. Processes. 12: 2242. https://doi.org/10.3390/pr12102242</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Elikara</surname>
+							<given-names>A.U.</given-names>
+						</name>
+						<name>
+							<surname>Popesku</surname>
+							<given-names>G.C.</given-names>
+						</name>
+						<name>
+							<surname>Demiriel</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Say</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Günes</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Effect of Rhizobacteria application on nutrient content, bioactive compounds, antioxidant activity, color properties and fruit characteristics of strawberry cultivars</article-title>
+					<source>Processes</source>
+					<volume>12</volume>
+					<pub-id pub-id-type="art-access-id">2242</pub-id>
+					<pub-id pub-id-type="doi">10.3390/pr12102242</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>FAO (The Food and Agriculture Organization). 2025. FAOSTAT BASE DE DATOS ESTADÍSTICOS, <ext-link ext-link-type="uri" xlink:href="https://www.fao.org/faostat/es/#data">https://www.fao.org/faostat/es/#data</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="database">
+					<person-group person-group-type="author">
+						<collab>FAO (The Food and Agriculture Organization)</collab> </person-group>
+					<year>2025</year>
+					<source>FAOSTAT BASE DE DATOS ESTADÍSTICOS</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.fao.org/faostat/es/#data">https://www.fao.org/faostat/es/#data</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Farran, A., Zamora, R. and Cervera, P. 2013. Tabla de composición de alimentos del CESNID. Editorial Universitat de Barcelona, S.A.U. 1 p. <ext-link ext-link-type="uri" xlink:href="https://www.sennutricion.org/es/2013/05/13/tablas-de-composicin-de-alimentos-del-cesnid">https://www.sennutricion.org/es/2013/05/13/tablas-de-composicin-de-alimentos-del-cesnid</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Farran</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Zamora</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Cervera</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<source>Tabla de composición de alimentos del CESNID</source>
+					<publisher-name>Editorial Universitat de Barcelona</publisher-name>
+					<comment>S.A.U</comment>
+					<comment>1 p</comment>
+					<ext-link ext-link-type="uri" xlink:href="https://www.sennutricion.org/es/2013/05/13/tablas-de-composicin-de-alimentos-del-cesnid">https://www.sennutricion.org/es/2013/05/13/tablas-de-composicin-de-alimentos-del-cesnid</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Filho, M., Zacchi, C., Henriques, S., Gomes, C., Ibrahim, P. and Della, S. 2018. Physicochemical, microbiological and sensory acceptance alterations of strawberries caused by gamma radiation and storage time. Scientia Horticulturae 238: 187-194. https://doi.org/10.1016/j.scienta.2018.04.053</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Filho</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Zacchi</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Henriques</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Gomes</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Ibrahim</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Della</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Physicochemical, microbiological and sensory acceptance alterations of strawberries caused by gamma radiation and storage time</article-title>
+					<source>Scientia Horticulturae</source>
+					<volume>238</volume>
+					<fpage>187</fpage>
+					<lpage>194</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.scienta.2018.04.053</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Forges, M., Vàsqueza, H., Charlesa, F., Chabane, D., Urbana, L., Lizzia, Y., Bardinb, M. and Aarroufa, J. 2018. Impact of UV-C radiation on the sensitivity of three strawberry plantcultivars (<italic>Fragaria x ananassa</italic>) against <italic>Botrytis cinerea</italic>. Scientia Horticulturae journal 240: 603-613. https://doi.org/10.1016/j.scienta.2018.06.063</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Forges</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Vàsqueza</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Charlesa</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Chabane</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Urbana</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Lizzia</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Bardinb</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Aarroufa</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Impact of UV-C radiation on the sensitivity of three strawberry plantcultivars (Fragaria x ananassa) against Botrytis cinerea</article-title>
+					<source>Scientia Horticulturae journal</source>
+					<volume>240</volume>
+					<fpage>603</fpage>
+					<lpage>613</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.scienta.2018.06.063</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>García-Vaquero, M. and Rajuria, G. 2018. Analytical techniques for phytochemical estimation in fruit juices. Fruit Juices 1: 669-693. https://doi.org/10.1016/B978-0-12-802230-6.00033-3</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>García-Vaquero</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Rajuria</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Analytical techniques for phytochemical estimation in fruit juices</article-title>
+					<source>Fruit Juices</source>
+					<volume>1</volume>
+					<fpage>669</fpage>
+					<lpage>693</lpage>
+					<pub-id pub-id-type="doi">10.1016/B978-0-12-802230-6.00033-3</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Hafizur, R., Nazmul, M., Zaved. 2021. Study on different nano fertilizers influencing the growth, proximate composition and antioxidant properties of strawberry fruits. Journal of Agriculture and Food Research 6:1-5. https://doi.org/10.1016/j.jafr.2021.100246</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hafizur</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Nazmul</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Zaved</surname>
+							<given-names/>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Study on different nano fertilizers influencing the growth, proximate composition and antioxidant properties of strawberry fruits</article-title>
+					<source>Journal of Agriculture and Food Research</source>
+					<volume>6</volume>
+					<fpage>1</fpage>
+					<lpage>5</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jafr.2021.100246</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Hongtao, S., Yingying, W., Xingxing, W., Congmin, X. and Xingfeng, S. 2019. The marine yeast <italic>Sporidiobolus pararoseus</italic> ZMY-1 has antagonistic properties against <italic>Botrytis cinerea</italic> in vitro and in strawberry fruit. Postharvest Biology and Technology 150: 1-8. https://doi.org/10.1016/j.postharvbio.2018.12.009</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hongtao</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Yingying</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Xingxing</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Congmin</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Xingfeng</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>The marine yeast Sporidiobolus pararoseus ZMY-1 has antagonistic properties against Botrytis cinerea in vitro and in strawberry fruit</article-title>
+					<source>Postharvest Biology and Technology</source>
+					<volume>150</volume>
+					<fpage>1</fpage>
+					<lpage>8</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.postharvbio.2018.12.009</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Huasasquiche, L., Alejandro, L., Ccori, T., Cantaro-Segura, H., Samaniego, T., Quispe, K. and Solórzano, R. 2024. <italic>Bacillus subtilis</italic> and <italic>Rhizophagus intraradices</italic> improve vegetative growth, yield, and fruit Qquality of <italic>Fragaria × ananassa</italic> var. San Andreas. Microorganism 12(9): 1816. https://doi.org/10.3390/microorganisms12091816</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Huasasquiche</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Alejandro</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Ccori</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Cantaro-Segura</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Samaniego</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Quispe</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Solórzano</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Bacillus subtilis and Rhizophagus intraradices improve vegetative growth, yield, and fruit Qquality of Fragaria × ananassa var. San Andreas</article-title>
+					<source>Microorganism</source>
+					<volume>12</volume>
+					<issue>9</issue>
+					<pub-id pub-id-type="art-access-id">1816</pub-id>
+					<pub-id pub-id-type="doi">10.3390/microorganisms12091816</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Khoo, H., Aslan, A., Tang, S. and Lim, S. 2017. Anthocyanidins and anthocyanins: colored pigments as food, pharmaceutical ingredients, and the potential health benefits. Food and Nutrition 61:1-21. 10.1080/16546628.2017.1361779</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Khoo</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Aslan</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Tang</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Lim</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Anthocyanidins and anthocyanins: colored pigments as food, pharmaceutical ingredients, and the potential health benefits</article-title>
+					<source>Food and Nutrition</source>
+					<volume>61</volume>
+					<fpage>1</fpage>
+					<lpage>21</lpage>
+					<pub-id pub-id-type="doi">10.1080/16546628.2017.1361779</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Lin, M. and Nay, Z. 2018. A simple and efficient method for automatic strawberry shape and size estimation and classification. Biosystems Engineering 170: 96-107. https://doi.org/10.1016/j.biosystemseng.2018.04.004</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lin</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Nay</surname>
+							<given-names>Z</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>A simple and efficient method for automatic strawberry shape and size estimation and classification</article-title>
+					<source>Biosystems Engineering</source>
+					<volume>170</volume>
+					<fpage>96</fpage>
+					<lpage>107</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.biosystemseng.2018.04.004</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Miller, D. and Liu, T. 2014. Antioxidants and phytochemicals. Reference Module in Biomedical Sciences 1 p. https://doi.org/10.1016/B978-0-12-801238-3.00236-1</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Miller</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Antioxidants and phytochemicals</article-title>
+					<source>Reference Module in Biomedical Sciences</source>
+					<size units="pages">1 p</size>
+					<pub-id pub-id-type="doi">10.1016/B978-0-12-801238-3.00236-1</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Navarro, C. and Muñoz-Garmendia, F. 2015. Desarrollo y caracterización de herramientas genómicas en fragaria diploide para la mejora del cultivo de fresa, Universidad Autonoma de Barcelona 1 p. <ext-link ext-link-type="uri" xlink:href="https://www.tesisenred.net/handle/10803/42009">https://www.tesisenred.net/handle/10803/42009</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Navarro</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Muñoz-Garmendia</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<source>Desarrollo y caracterización de herramientas genómicas en fragaria diploide para la mejora del cultivo de fresa</source>
+					<publisher-name>Universidad Autonoma de Barcelona</publisher-name>
+					<issue-part>1 p</issue-part>
+					<ext-link ext-link-type="uri" xlink:href="https://www.tesisenred.net/handle/10803/42009">https://www.tesisenred.net/handle/10803/42009</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>NMX-FF-062-SCFI-2002. 2002. Productos alimenticios no industrializados para consumo humano - fruta fresca - fresa (Fragaria x ananassa, Dutch) -especificaciones y método de prueba. <ext-link ext-link-type="uri" xlink:href="https://caisatech.net/uploads/XXI_2_MXD_C107_NMX-FF-062-SCFI-2002_R0_9AGO2002.pdf">https://caisatech.net/uploads/XXI_2_MXD_C107_NMX-FF-062-SCFI-2002_R0_9AGO2002.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>NMX-FF-062-SCFI-2002</source>
+					<year>2002</year>
+					<article-title>Productos alimenticios no industrializados para consumo humano - fruta fresca - fresa (Fragaria x ananassa, Dutch) -especificaciones y método de prueba</article-title>
+					<ext-link ext-link-type="uri" xlink:href="https://caisatech.net/uploads/XXI_2_MXD_C107_NMX-FF-062-SCFI-2002_R0_9AGO2002.pdf">https://caisatech.net/uploads/XXI_2_MXD_C107_NMX-FF-062-SCFI-2002_R0_9AGO2002.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Pausen, E., Barrio, S. and Lema, P. 2021. Production of packaged ready - to - eat whole strawberries (cv. San Andreas): Packaging conditions for shelf-life extension. Food Packaging and Shelf Life 29: 1-10. https://doi.org/10.1016/j.fpsl.2021.100696</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pausen</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Barrio</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Lema</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Production of packaged ready - to - eat whole strawberries (cv. San Andreas): Packaging conditions for shelf-life extension</article-title>
+					<source>Food Packaging and Shelf Life</source>
+					<volume>29</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.fpsl.2021.100696</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Peng, J., Cong, Z., Yu-ping, H., Xiao-li, W., Zi-sheng, L. and Yong-hua, Z. 2016. Hot air treatment activates defense responses and induces resistance against Botrytis cinerea in strawberry fruit. Journal of Integrative Agriculture 15: 2658-2665. https://doi.org/10.1016/S2095-3119(16)61387-4</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Peng</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Cong</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Yu-ping</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Xiao-li</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Zi-sheng</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Yong-hua</surname>
+							<given-names>Z</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Hot air treatment activates defense responses and induces resistance against Botrytis cinerea in strawberry fruit</article-title>
+					<source>Journal of Integrative Agriculture</source>
+					<volume>15</volume>
+					<fpage>2658</fpage>
+					<lpage>2665</lpage>
+					<pub-id pub-id-type="doi">10.1016/S2095-3119(16)61387-4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Rahman, T., Hasnain, M. and Islam, A. 2021. Food insecurity and mental health of women during COVID-19: Evidence from a developing country. PLoS ONE 16: 1-18 https://doi.org/10.1371/journal.pone.0255392</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rahman</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Hasnain</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Islam</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Food insecurity and mental health of women during COVID-19: Evidence from a developing country</article-title>
+					<source>PLoS ONE</source>
+					<volume>16</volume>
+					<fpage>1</fpage>
+					<lpage>18</lpage>
+					<pub-id pub-id-type="doi">10.1371/journal.pone.0255392</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Reyes, F. 2012. Análisis de la vida de anaquel y de algunas propiedades nutraceúticas de fresas inoculadas con diferentes cepas de Bacillus subtilis. Universidad de Guanajuato 1 p.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Reyes</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Análisis de la vida de anaquel y de algunas propiedades nutraceúticas de fresas inoculadas con diferentes cepas de Bacillus subtilis</source>
+					<publisher-name>Universidad de Guanajuato</publisher-name>
+					<issue-part>1 p</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Romero, A., Contigiani, E., González, H. Alzamora, S., Gómez, P. and Raffellinid S. 2019. <italic>Botrytis cinerea</italic> response to pulsed light: Cultivability, physiological state, ultrastructure and growth ability on strawberry fruit. International Journal of Food Microbiology 309: 1-8. https://doi.org/10.1016/j.ijfoodmicro.2019.108311</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Romero</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Contigiani</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>González</surname>
+							<given-names>H. Alzamora</given-names>
+						</name>
+						<name>
+							<surname>S.</surname>
+							<given-names>Gómez</given-names>
+						</name>
+						<name>
+							<surname>P.</surname>
+							<given-names>Raffellinid S</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Botrytis cinerea response to pulsed light: Cultivability, physiological state, ultrastructure and growth ability on strawberry fruit</article-title>
+					<source>International Journal of Food Microbiology</source>
+					<volume>309</volume>
+					<fpage>1</fpage>
+					<lpage>8</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.ijfoodmicro.2019.108311</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Saleh, I. and Abu-Dieyeh. 2022. Novel <italic>Prosopis juliflora</italic> leaf ethanolic extract coating for extending postharvest shelf-life of strawberries. Food Control 133: 1-10. https://doi.org/10.1016/j.foodcont.2021.108641</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Saleh</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Abu-Dieyeh</surname>
+							<given-names/>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Novel Prosopis juliflora leaf ethanolic extract coating for extending postharvest shelf-life of strawberries</article-title>
+					<source>Food Control</source>
+					<volume>133</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.foodcont.2021.108641</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Torres-García, J.R., Leonardo-Elias, A., Angoa-Pérez, M.V., Villar-Luna, E., Arías-Mártinez, S., Oyoque-Salcedo, G. and Oregel-Zamudio, E. 2024. <italic>Bacillus subtilis</italic> edible films for strawberry preservation: Antifungal Efficacy and Quality at Varied temperatures. Foods 13: 980. https://doi.org/10.3390/foods13070980</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Torres-García</surname>
+							<given-names>J.R.</given-names>
+						</name>
+						<name>
+							<surname>Leonardo-Elias</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Angoa-Pérez</surname>
+							<given-names>M.V.</given-names>
+						</name>
+						<name>
+							<surname>Villar-Luna</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Arías-Mártinez</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Oyoque-Salcedo</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Oregel-Zamudio</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Bacillus subtilis edible films for strawberry preservation: Antifungal Efficacy and Quality at Varied temperatures</article-title>
+					<source>Foods</source>
+					<volume>13</volume>
+					<pub-id pub-id-type="art-access-id">980</pub-id>
+					<pub-id pub-id-type="doi">10.3390/foods13070980</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Yang, W., Wang, M., Wang, H., Zhang, C., Zhang, Q. and Xiao, H. 2024. Exploitation of the biocontrol potential of a marine-derived <italic>Bacillus velezensis</italic> and its application on postharvest strawberry. Food Control 161: 110311 https://doi.org/10.1016/j.foodcont.2024.110311</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yang</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Xiao</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Exploitation of the biocontrol potential of a marine-derived Bacillus velezensis and its application on postharvest strawberry</article-title>
+					<source>Food Control</source>
+					<volume>161</volume>
+					<pub-id pub-id-type="art-access-id">110311</pub-id>
+					<pub-id pub-id-type="doi">10.1016/j.foodcont.2024.110311</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

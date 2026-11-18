@@ -1,0 +1,2768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2622</article-id>
+			<article-id pub-id-type="other">00152</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Growth, gut dimension, immune response and resistance to Aeromonas hydrophila in Nile Tilapia ( <italic><italic>Oreochromis niloticus</italic>) fed Onion (A<italic>llium cepa</italic>. L)</italic></article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Crecimiento, dimensión intestinal, respuesta inmune y resistencia a Aeromonas hydrophila en tilapia del Nilo (<italic>Oreochromis niloticus</italic>) alimentada con cebolla (<italic>Allium cepa</italic>. L)</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ajani</surname>
+						<given-names>Kolawole Emmanuel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Orisasona</surname>
+						<given-names>Olugbenga</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jenyo-Oni</surname>
+						<given-names>Adetola</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Oluwarotimi Omitoyin</surname>
+						<given-names>Bamidele</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kane</surname>
+						<given-names>Aboubacar</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Olumide Adekanmbi</surname>
+						<given-names>Abimbola</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Oladeji Kareem</surname>
+						<given-names>Kazeem</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Department of Aquaculture and Fisheries Management, University of Ibadan, Nigeria.</institution>
+				<institution content-type="normalized">Universidad de Ibadan</institution>
+				<institution content-type="orgdiv1">Department of Aquaculture and Fisheries Management</institution>
+				<institution content-type="orgname">University of Ibadan</institution>
+				<country country="NG">Nigeria</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Department of Animal Sciences, Obafemi Awolowo University, Nigeria.</institution>
+				<institution content-type="normalized">Obafemi Awolowo University</institution>
+				<institution content-type="orgdiv1">Department of Animal Sciences</institution>
+				<institution content-type="orgname">Obafemi Awolowo University</institution>
+				<country country="NG">Nigeria</country>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">Department of Microbiology, University of Ibadan, Nigeria.</institution>
+				<institution content-type="normalized">University of Ibadan</institution>
+				<institution content-type="orgdiv1">Department of Microbiology</institution>
+				<institution content-type="orgname">University of Ibadan</institution>
+				<country country="NG">Nigeria</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Author for correspondence: Olugbenga Orisasona e-mail: aquinter@uach.mx; <email>osasonagbenga@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>13</day>
+				<month>08</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2622</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>07</day>
+					<month>04</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>01</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>13</day>
+					<month>08</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>This study evaluated the use of onion (Allium cepa) powder in Oreochromis niloticus diets, focusing on growth, gut area, immune response, and resistance to Aeromonas hydrophila. Six diets, OP<sub>0</sub>, OP<sub>1</sub>, OP<sub>2</sub>, OP<sub>3</sub>, OP<sub>4</sub>, and OP<sub>5</sub> with onion powder inclusion from 0 % to 2.5 %, were formulated and fed to triplicate groups of fish (1.79±0.14g) for 10 weeks. Fish were then challenged with A. hydrophila and monitored for 14 d. While growth was not significantly altered by onion supplementation over 10 weeks, survival after A. hydrophila challenge was significantly improved. Bacterial diversity and total counts increased in gut onion-fed fish, with Bacillus and Enterobacter being the dominant species. Serum biochemistry indicated reduced alanine aminotransferase and aspartate aminotransferase levels in fish fed 0.5% to 1.5% onion diets, while alkaline phosphatase increased. Antioxidant enzyme activities were generally higher in onion-supplemented groups, with reduced levels of malondialdehyde. Villi height and width did not significantly differ across treatments. A. hydrophila challenge on Nile tilapia showed a significantly higher relative percentage survival (RPS) in onion-supplemented groups, with a record 100 % in groups fed 1.0 % and above. This study revealed that 1-1.5 % inclusion of onion in the diets of Nile tilapia resulted in enhanced immune response, gut health, and disease resistance. </p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>Este estudio evaluó el uso de polvo de cebolla (Allium cepa) en dietas de Oreochromis niloticus, centrándose en el crecimiento, el área intestinal, la respuesta inmune y la resistencia a Aeromonas hydrophila. Se formularon seis dietas, OP0, OP1, OP2, OP3, OP4 y OP5 con inclusión de polvo de cebolla de 0% a 2.5%, y se alimentaron a grupos triplicados de peces (1.79 ± 0.14 g) durante 10 semanas. Luego, los peces fueron desafiados con A. hydrophila y monitoreados durante 14 días. Si bien el crecimiento no se alteró significativamente con la suplementación con cebolla durante 10 semanas, la supervivencia después del desafío con A. hydrophila mejoró significativamente. La diversidad bacteriana y los recuentos totales aumentaron en los peces alimentados con cebolla intestinal, siendo Bacillus y Enterobacter las especies dominantes. La bioquímica sérica indicó niveles reducidos de alanina aminotransferasa y aspartato aminotransferasa en los peces alimentados con dietas de cebolla de 0.5 % a 1.5 %, mientras que la fosfatasa alcalina aumentó. La actividad de las enzimas antioxidantes fue generalmente mayor en los grupos suplementados con cebolla, con niveles reducidos de malondaldehído. La altura y el ancho de las vellosidades no mostraron diferencias significativas entre los tratamientos. El desafío con A. hydrophila en tilapia del Nilo mostró un porcentaje de supervivencia relativa (SPR) significativamente mayor en los grupos suplementados con cebolla, con un récord del 100 % en los grupos alimentados con una concentración del 1.0 % o superior. Este estudio reveló que la inclusión de cebolla del 1 % al 1.5 % en las dietas de tilapia del Nilo resultó en una mejor respuesta inmunitaria, salud intestinal y resistencia a enfermedades.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Key words:</title>
+				<kwd>Onion powder</kwd>
+				<kwd>Oreochromis niloticus</kwd>
+				<kwd>Aeromonas hydrophila</kwd>
+				<kwd>fish gut</kwd>
+				<kwd>fish blood</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Polvo de cebolla</kwd>
+				<kwd>Oreochromis niloticus</kwd>
+				<kwd>Aeromonas hydrophila</kwd>
+				<kwd>intestino de pescado</kwd>
+				<kwd>sangre de pescado</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="2"/>
+				<table-count count="7"/>
+				<equation-count count="1"/>
+				<ref-count count="48"/>
+				<page-count count="0"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>Aquaculture is crucial for global food security, and relies heavily on Nile tilapia (<italic>Oreochromis niloticus</italic>) as a key farmed species. The global production of this species, especially in tropical and subtropical riverine regions, reached seven million tons in 2024, a 4 - 5 % increase from last year (FAO, 2024). Sustainable aquaculture, which aims to produce high-quality fish for human consumption, relies on efficient nutrient utilization by farmed species, effective disease control, and eco-friendly culture practices. Ironically, intensive aquaculture practices can increase the susceptibility of tilapia to various diseases, including those caused by the bacterium <italic>Aeromonas hydrophila</italic>, posing significant challenges to sustainable production. Aquaculture practices have historically relied on the application of different synthetic compounds, including antibiotics, for growth enhancement, disease treatment and prevention. However, the rising prevalence of antibiotic-resistant bacterial strains, bioaccumulation of these compounds within cultured species, and the adverse ecological impacts on adjacent aquatic environments have led to regulatory restrictions, broadly prohibiting their use (<xref ref-type="bibr" rid="B42">Upadhaya and Kim, 2017</xref>). As a result, it is imperative to identify and implement more effective and sustainable approaches to pathogen management in aquaculture.</p>
+			<p>One potential strategy to enhance health and disease resistance of tilapia is through dietary supplementation with immune-stimulants. In response to the adverse effects of synthetic compounds, there is a growing focus on utilizing natural alternatives from plants, herbs, and their extracts to enhance fish growth and immunity without negatively impacting aquatic ecosystems (<xref ref-type="bibr" rid="B2">Abdel-Tawwab et al., 2018</xref>; <xref ref-type="bibr" rid="B5">Ajani et al., 2020</xref>; Orisasona <italic>et al</italic>., 2024). The regulatory roles of these natural products in fish metabolism are attributed to their diverse bioactive constituents, such as flavonoids, steroids, pigments, alkaloids, and phenolic compounds (Hodar <italic>et al</italic>., 2021). <italic>Allium cepa</italic> (Onion), a widely used spice, has been recognized for its medicinal properties and ability to boost the immune system (Elgendy <italic>et al</italic>., 2023) due to its rich content of bioactive compounds including phenolics and flavonoids. <italic>Allium cepa</italic> is a source of various bioactive compounds beneficial for aquaculture. Muhammad <italic>et al.</italic> (2020) reported that dark-colored onion bulbs exhibit higher levels of pyruvic acid, vitamin C, and flavonoids, while light-colored bulbs are richer in phenolic content. Additionally, Sami <italic>et al</italic>. (2021) documented the presence of vitamins B and C, as well as essential ions like calcium, copper, magnesium, and potassium, all crucial in regulating metabolic activities in fish. Traditionally, onion has been used to aid digestion and stimulate appetite to enhance growth in cultured fish (<xref ref-type="bibr" rid="B44">Vigneshpriya and Krisnaveni, 2016</xref>). Consistent with this, growth improvements have been observed in olive flounder, sea bass, and African catfish fed diets supplemented with onion (Cho and Lee, 2012; <xref ref-type="bibr" rid="B12">Bello et al., 2013</xref>; <xref ref-type="bibr" rid="B36">Saleh et al., 2015</xref>). While onion extracts and derivatives have been studied in some fish species, their potential benefits in tilapia culture remain underexplored. Specifically, there is limited scientific evidence on how onion-fortified diets influence growth performance, gut morphology, immune function, and disease resistance in Nile tilapia. Furthermore, the optimal inclusion levels of onions in fish diets and their mechanisms of action against <italic>A. hydrophila</italic> infection require investigation.</p>
+			<p>This study aimed to evaluate the impact of onion-fortified diets on the growth performance, gut morphology, immune response, and disease resistance of Nile tilapia against <italic>Aeromonas hydrophila</italic>. This is to enhance fish health and sustainable production, while reducing reliance on antibiotics in aquaculture.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Materials and methods</title>
+			<sec>
+				<title>Fish Feed, Experimental Design and Culture Conditions</title>
+				<p>Dark-skinned fresh onion bulbs were thoroughly washed, finely chopped, sun-dried, and pulverized into a fine powder using a blender. Six experimental diets with 35% crude protein were formulated, using a base mixture of cellulose, soybean meal, fishmeal, groundnut oil, salt, lysine, methionine, maize, and a fish premix. Onion powder was incorporated into diets at levels of 0%, 0.5%, 1.0%, 1.5%, 2.0%, and 2.5%, to produce OP<sub>0</sub>, OP<sub>1</sub>, OP<sub>2</sub>, OP<sub>3</sub>, OP<sub>4</sub> and OP<sub>5</sub> respectively (<xref ref-type="table" rid="t1">Table 1</xref>). All ingredients were thoroughly mixed and pelletized using a Hobart pelletizer (model A200, 2mm die). The pellets were air-dried, packaged in labeled bags, and stored at 4°C.</p>
+				<p>
+					<table-wrap-group id="t1">
+	<table-wrap xml:lang="en">
+						<caption>
+							<title>Gross and analyzed composition of experimental diets fortified with onions (g/100g DM) fed to <italic>Oreochromis niloticus</italic>.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 1.</label>
+		<caption>
+			<title>Composición bruta y analizada de dietas experimentales fortificadas con cebolla (g/100 g MS) alimentadas a <italic>Oreochromis niloticus.</italic>.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Ingredients </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>OP<sub>0</sub></bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>OP<sub>1</sub></bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>OP<sub>2</sub></bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>OP<sub>3</sub></bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>OP<sub>4</sub></bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>OP<sub>5</sub></bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Fish meal (72)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Soybean meal (44)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.66</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.66</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.66</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.66</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.66</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.66</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Ground nut cake (45)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.78</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Yellow Maize </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">15.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">15.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">15.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">15.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">15.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">15.25</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Cellulose</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">15.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14.75</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13.75</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">12.75</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Oil</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      Premix*
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.50</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.50</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.50</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.50</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.50</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.50</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Lysine</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Methionine</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.20</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Vitamin C</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.03</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.03</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.03</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.03</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.03</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.03</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Salt</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.25</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      DCP**
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.10</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.10</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.10</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.10</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.10</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.10</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Onion powder</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.50</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.50</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.50</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Total (g)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">100.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">100.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">100.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">100.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">100.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">100.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><bold>Proximate composition (%)</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Crude protein</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">34.07</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">34.37</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">34.03</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">34.88</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">34.85</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">35.08</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Ash content</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.30</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.70</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.35</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.45</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.50</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Ether</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.07</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.65</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.80</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.35</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.90</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Crude fibre</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.06</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.30</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.55</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.77</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Moisture contents</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.50</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.00</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.84</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.22</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.55</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.85</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      NFE
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">39.00</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">38.98</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">39.08</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">38.98</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">39.55</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">36.67</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p>Premix* = HI-MIX®AQUA 1 kg each contains; Folic acid, 800 mg; vitamin A, 4,000,000 IU; vitamin B6, 3,800 mg; vitamin B1, 4,000 mg; vitamin B2, 3,000 mg; vitamin K3, 1,600 mg; vitamin B12, 3 µg; vitamin D3, 8,00,000 IU; vitamin E, 40, 000 IU; Nicotinic acid 18000 mg; Biotin, 100 µg; Pantothenic acid, 8000 mg; Choline chloride 120,00. <italic>**DCP= dicalcium phosphate,</italic> NFE= Nitrogen free extract.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>The proximate composition of each diet was determined in duplicate according to <xref ref-type="bibr" rid="B9">AOAC (2005)</xref> methods. Moisture content was measured by drying samples at 105°C for 24 h. Crude protein was determined using a semi-auto Kjeldahl system (KDN-04A, Shanghai Hua Rui Instrument Co., Ltd), with a conversion factor of 6.25. Crude lipid was extracted using the Soxhlet method. Ash content assay was done by incinerating samples at 600°C for 24 h in a muffle furnace.</p>
+				<p>For 14 d, the fish were acclimatized, after which 360 <italic>Oreochromis niloticus</italic> (1.79±0.14g/fish) were randomly allotted equally to 18 fibreglass tanks (40 L) in a flow-through system. Fish were fed the six diets two times daily at apparent satiation (8:20 am and 4:20 pm) for 10 weeks. Water flowed through the tanks at 0.3 L/min and was aerated by air‐stones connected to air pumps. Weights were determined biweekly. Dissolved oxygen and temperature (mean values 5.01-5.20 mg/L and 25.8-26.15 <sup>o</sup>C respectively) was measured using YSA digital probe meter (Model 57; VWR Company, NJ). The potential of hydrogen (mean values 7.10-7.30) was measured using Pen type meter, while Aquasol AE-207 nitrite kit was used to determine nitrite (0.04 mg/L).</p>
+			</sec>
+			<sec>
+				<title><bold>Growth and Nutrient Utilization in <italic>
+ <italic>Oreochromis niloticus</italic> Fed Onions Fortified Diets</italic>
+</bold></title>
+				<p>The effect of onions on Tilapia’s growth and nutrient utilization was estimated using the initial and final weights of fish, the quantity of feed consumed, and nutrients diets.</p>
+				<disp-quote>
+					<p>Feed intake (g)=Sum of feed consumed during experimental period</p>
+				</disp-quote>
+				<disp-quote>
+					<p>Weight gain (g)=W2-W1</p>
+				</disp-quote>
+				<disp-quote>
+					<p>Specific growth rate (SGR)={[Log<sub>e</sub> W2-Log<sub>e</sub> W1]÷[T2-T1]}×100</p>
+				</disp-quote>
+				<disp-quote>
+					<p>Food conversion ratio (FCR)=Feed consumed (g)÷Gain in weight (g)</p>
+				</disp-quote>
+				<disp-quote>
+					<p>Survival rate=[No.of fish at end of trial T2÷No.of fish at start of trial T1]×100</p>
+				</disp-quote>
+				<disp-quote>
+					<p><italic>Where W2 = final weight, W1 = initial weight, Log</italic>
+ <sub>
+ <italic>e</italic>
+</sub> 
+ <italic>= Natural logarithm, T2 - T1 = experimental period in d</italic>, <italic>Protein intake = Feed intake × %Protein in diets</italic></p>
+				</disp-quote>
+			</sec>
+			<sec>
+				<title><bold>Gut Ecology of <italic>
+ <italic>Oreochromis niloticus</italic> Fed Onions Fortified Diets for 70 D</italic>
+</bold></title>
+				<p>Gut samples were collected from nine <italic>O. niloticus</italic> fish per treatment (3/unit) using sterile instruments and placed in sterile Petri dishes. For serial dilutions, 9 mL of sterile distilled water in foil-wrapped, cotton-plugged test tubes was autoclaved at 121°C for 15 minutes. From each gut sample, 1 mL stock solution was prepared, and serial dilutions from 10<sup>-</sup>¹ to 10<sup>-</sup>¹⁰ were performed. Using a sterile syringe, 1 mL of the 10<sup>-4</sup> dilution (<xref ref-type="bibr" rid="B5">Ajani et al., 2020</xref>) was dispensed into labeled sterile Petri dishes and molten sterile agar was aseptically poured. The plates were gently swirled to ensure even distribution of the inoculum (<xref ref-type="bibr" rid="B26">Narvaez et al., 2010</xref>). After solidification, the plates were incubated at 37°C for 24-48 h. To obtain pure isolates, distinct yellow colonies were repeatedly sub-cultured on nutrient agar. These isolates were Gram-stained and stored on nutrient agar slants in cryovials at 4°C for further analysis. 24 h old isolates were examined and characterized based on their cultural characteristics and biochemical properties (<xref ref-type="bibr" rid="B29">Olutiola et al., 2000</xref>).</p>
+			</sec>
+			<sec>
+				<title><bold>Blood and Serum Biochemical Profiling of <italic>
+ <italic>Oreochromis niloticus</italic> Fed Onion Based Diets</italic>
+</bold></title>
+				<p>Nine fish per treatment were selected and bled serially using tuberculin syringes fitted with 24-gauge needle (<xref ref-type="bibr" rid="B30">Omitoyin et al., 2006</xref>). For each treatment, two tubes were used for blood collection. For red blood cells (RBC), packed cell volume (PCV), white blood cells (WBC), hemoglobin (Hb) and platelet counts, blood samples were collected in bottles containing 20 U/L sodium heparinate as coagulant. The second tubes without anticoagulant were used for enzyme activities and biochemical analysis. Blood in the group was allowed to clot at 4°C and centrifuged at 10,000 xg for 15 min to obtain the serum. Packed cell volume (PCV) was determined using a hematocrit reader (<xref ref-type="bibr" rid="B3">Adeyemo, 2005</xref>). Hemoglobin (Hb) concentration and red blood cell (RBC) counts were measured using Drabkin’s solution and Rees and Ecker’s diluent fluid, respectively (<xref ref-type="bibr" rid="B3">Adeyemo, 2005</xref>; <xref ref-type="bibr" rid="B32">Oresegun and Alegbeleye, 2001</xref>). A Neubauer hemocytometer was used for White blood cell (WBC) counts as described by <xref ref-type="bibr" rid="B23">Kaplow (1955)</xref>. Platelet counts were determined using the Rees and Ecker direct method (<xref ref-type="bibr" rid="B34">Osuigwe et al., 2005</xref>). Serum aspartate aminotransferase (AST) and alanine aminotransferase (ALT) activities were estimated using the method of <xref ref-type="bibr" rid="B35">Reitman and Frankel (1957</xref>), and serum alkaline phosphatase (ALP) activity was determined according to <xref ref-type="bibr" rid="B41">Tietz et al. (1983)</xref>.</p>
+			</sec>
+			<sec>
+				<title><bold>Histological Processing and Gut Morphometry of <italic>
+ <italic>Oreochromis niloticus</italic> Fed Onion Fortified Diets</italic>
+</bold></title>
+				<p>For histological analysis, four fish were randomly selected per treatment and dissected, and the mid-gut was excised and fixed in 10 % buffered formalin. Samples were dehydrated in ethanol, cleared in xylene, and embedded in paraffin. Sections, approximately 5 μm thick, were cut using a rotary microtome, mounted on glass slides, and stained with hematoxylin and eosin (<xref ref-type="bibr" rid="B19">Hopwood, 1996</xref>). Histomorphometric analysis was conducted following the method of <xref ref-type="bibr" rid="B28">Oladele et al. (2012)</xref>. Five villi were randomly selected and measured from each section. Villi dimensions were measured in microns, converted to centimeters, using ToupView software on an AmScope MU900 camera, and the absorption area was calculated (<xref ref-type="bibr" rid="B31">Omitoyin <italic>et al</italic>., 2019</xref>).</p>
+			</sec>
+			<sec>
+				<title>Measurement of Antioxidant Biomarkers and Oxidative Enzyme Activities</title>
+				<p>The livers of six fish selected from each treatment were aseptically excised, cleaned, and blended in potassium phosphate buffer (0.1 M, pH 7.4). The samples were centrifuged at 10,000 rpm for 20 min. The resulting post-mitochondrial supernatants were maintained at -4<sup>o</sup>C until used for the biochemical assays. Protein concentration, Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) and Lipid peroxidation were determined by the method of <xref ref-type="bibr" rid="B17">Gornal et al. (1949)</xref>, <xref ref-type="bibr" rid="B45">Wolff (1994)</xref>, and <xref ref-type="bibr" rid="B43">Varshney and Kale (1990)</xref>, respectively. The concentrations of glutathione (GSH), Glutathione-S-transferase (GST) and Glutathione peroxidase (GPx) activities were estimated as described by Jollow <italic>et al.</italic> (1994), <xref ref-type="bibr" rid="B18">Habig et al. (1974)</xref>, and <xref ref-type="bibr" rid="B13">Buetler et al. (1963)</xref>, respectively.</p>
+			</sec>
+			<sec>
+				<title><bold>
+ <italic>Aeromonas hydrophila</italic> Challenge Test on <italic>
+ <italic>Oreochromis niloticus</italic> Fed Onions Fortified Diets</italic>
+</bold></title>
+				<p>A virulent strain of <italic>Aeromonas hydrophila</italic>, obtained from formalin-killed bacterin (<xref ref-type="bibr" rid="B11">Baba et al., 1988</xref>) at the Microbiology Department, University of Ibadan, was held overnight at room temperature. Sterility and safety tests were performed (<xref ref-type="bibr" rid="B14">Cardella and Eimers, 1990</xref>). The bacterial culture was then adjusted to a concentration of 1 × 10⁷ CFU/mL in phosphate-buffered saline (PBS) (<xref ref-type="bibr" rid="B31">Omitoyin <italic>et al</italic>., 2019</xref>). For each treatment, 20 fish were randomly selected and divided into two groups (A and B) of 10 fish per aquarium. Group A, serving as the control, received an intraperitoneal injection of 0.5 mL PBS, while group B received 0.5 mL of the <italic>A. hydrophila</italic> suspension. Fish were monitored for 14 d post-injection, with dead fish removed immediately. Relative percentage survival (RPS) was calculated (<xref ref-type="bibr" rid="B24">Kocour et al., 2005</xref>) as follows;</p>
+				<p>
+					<disp-formula id="e1">
+						<mml:math>
+							<mml:mi>R</mml:mi>
+							<mml:mi>P</mml:mi>
+							<mml:mi>S</mml:mi>
+							<mml:mi> </mml:mi>
+							<mml:mfenced separators="|">
+								<mml:mrow>
+									<mml:mi>%</mml:mi>
+								</mml:mrow>
+							</mml:mfenced>
+							<mml:mo>=</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:mi>N</mml:mi>
+									<mml:mi>o</mml:mi>
+									<mml:mi> </mml:mi>
+									<mml:mi>o</mml:mi>
+									<mml:mi>f</mml:mi>
+									<mml:mi> </mml:mi>
+									<mml:mi>s</mml:mi>
+									<mml:mi>u</mml:mi>
+									<mml:mi>r</mml:mi>
+									<mml:mi>v</mml:mi>
+									<mml:mi>i</mml:mi>
+									<mml:mi>v</mml:mi>
+									<mml:mi>i</mml:mi>
+									<mml:mi>n</mml:mi>
+									<mml:mi>g</mml:mi>
+									<mml:mi> </mml:mi>
+									<mml:mi>f</mml:mi>
+									<mml:mi>i</mml:mi>
+									<mml:mi>s</mml:mi>
+									<mml:mi>h</mml:mi>
+									<mml:mi> </mml:mi>
+									<mml:mi>a</mml:mi>
+									<mml:mi>f</mml:mi>
+									<mml:mi>t</mml:mi>
+									<mml:mi>e</mml:mi>
+									<mml:mi>r</mml:mi>
+									<mml:mi> </mml:mi>
+									<mml:mi>c</mml:mi>
+									<mml:mi>h</mml:mi>
+									<mml:mi>a</mml:mi>
+									<mml:mi>l</mml:mi>
+									<mml:mi>l</mml:mi>
+									<mml:mi>e</mml:mi>
+									<mml:mi>n</mml:mi>
+									<mml:mi>g</mml:mi>
+									<mml:mi>e</mml:mi>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mi>N</mml:mi>
+									<mml:mi>o</mml:mi>
+									<mml:mi> </mml:mi>
+									<mml:mi>o</mml:mi>
+									<mml:mi>f</mml:mi>
+									<mml:mi> </mml:mi>
+									<mml:mi>f</mml:mi>
+									<mml:mi>i</mml:mi>
+									<mml:mi>s</mml:mi>
+									<mml:mi>h</mml:mi>
+									<mml:mi> </mml:mi>
+									<mml:mi>i</mml:mi>
+									<mml:mi>n</mml:mi>
+									<mml:mi>j</mml:mi>
+									<mml:mi>e</mml:mi>
+									<mml:mi>c</mml:mi>
+									<mml:mi>t</mml:mi>
+									<mml:mi>e</mml:mi>
+									<mml:mi>d</mml:mi>
+									<mml:mi> </mml:mi>
+									<mml:mi>w</mml:mi>
+									<mml:mi>i</mml:mi>
+									<mml:mi>t</mml:mi>
+									<mml:mi>h</mml:mi>
+									<mml:mi> </mml:mi>
+									<mml:mi>b</mml:mi>
+									<mml:mi>a</mml:mi>
+									<mml:mi>c</mml:mi>
+									<mml:mi>t</mml:mi>
+									<mml:mi>e</mml:mi>
+									<mml:mi>r</mml:mi>
+									<mml:mi>i</mml:mi>
+									<mml:mi>a</mml:mi>
+								</mml:mrow>
+							</mml:mfrac>
+							<mml:mo>×</mml:mo>
+							<mml:mn>100</mml:mn>
+						</mml:math>
+					</disp-formula>
+				</p>
+			</sec>
+			<sec>
+				<title>Statistical Analysis</title>
+				<p>Bartlett’s test for homogeneity of variances among treatments was carried out. Descriptive statistics and one way analysis of variance (ANOVA) was used to ascertain the effect of onion powder on fish using IBM Statistical Package for Social Science (SPSS) version 20. Mean differences were separated using Duncan’s test at the 5 % probability level. The optimum inclusion level of <italic>Curcumin longa</italic> for growth was determined using polynomial regression.</p>
+			</sec>
+		</sec>
+		<sec sec-type="results">
+			<title>Results</title>
+			<sec>
+				<title><bold>Nutrient Utilization, Growth and Survival of <italic>
+ <italic>Oreochromis niloticus</italic> Fed Onions Fortified Diets</italic>
+</bold></title>
+				<p>The indices of growth and nutrient utilization in <italic>O. niloticus</italic> fed onion powder fortified diets are presented in <xref ref-type="table" rid="t2">Table 2</xref>. Growth indicators of weight gain (WG), feed conversion ratio (FCR), and specific growth rate (SGR) did not vary significantly (P&gt;0.05) across treatments. Feed intake was also not affected by the administration of treatments. However, the percentage of survival varied from 85% in OP0 to 96% in OP<sub>2</sub>. The second-order polynomial regression showing the relationships between survival and onion powder inclusion level is presented in <xref ref-type="fig" rid="f1">Figure 1</xref>. An optimal inclusion of 1.05% is recommended and Y = 34.391X<sup>3</sup> - 161.84X<sup>2</sup> + 228.51X represents the regression equation.</p>
+				<p>
+					<table-wrap-group id="t2">
+	<table-wrap xml:lang="en">
+						<label>Table 2</label>
+						<caption>
+							<title>Mean growth performance parameters and feed utilization of <italic>O. niloticus</italic> fed with experimental diets. </title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 2.</label>
+		<caption>
+			<title>Parámetros de rendimiento de crecimiento medio y utilización de alimento de <italic>O. niloticus</italic> alimentado con dietas experimentales.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px; background-color: #e6e7e8;"><bold>Treatment </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Initial 
+    Weight (g) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Final 
+    Weight (g) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Weight 
+    Gain(g) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        FCR
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        SGR
+      </xref>
+            (%/day) 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        FI
+      </xref>
+            (g) 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        PER
+      </xref>
+            (%) 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Survival 
+    (%) </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>0</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.76±0.15<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14.75±0.28<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">12.99±0.18<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.79±0.19<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.53±0.05<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">23.24±0.42<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.59±0.51<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">85</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>1</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.78±0.086<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">15.43±0.71<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13.66±0.79<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.78±0.43<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.57±0.21<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">24.32±1.21<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.60±0.13<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">85</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>2</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.73±0.19<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14.19±0.13<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">12.46±0.15<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.92±0.47<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.50±0.11<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">23.98±0.63<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.48±0.10<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">96</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>3</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.73±0.17<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14.69±0.36<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">12.96±0.36<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.86±0.55<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.61±0.13<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">24.23±1.03<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.52±0.16<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">91</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>4</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.84±0.13<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14.89±0.63<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13.76±0.56<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.85±0.35<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.42±0.12<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">24.01±1.18<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.54±0.08<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">91</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>5</sub></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1.78±0.14<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">14.79±0.41<sup>ab</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">13.02±0.46<sup>ab</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1.87±0.44<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">2.51±0.15<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">24.34±0.35<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1.52±0.13<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">95</td>
+  </tr>
+  </tbody>
+</table>
+						<table-wrap-foot>
+							<fn id="TFN2">
+								<p>Mean values with different superscripts along a column are significantly different (p&lt;0.05). NB: FCR; Feed conversion ratio; SGR, Specific growth rate; FI, Feed intake; PER, Protein efficiency ratio.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="en">
+						<label>Figure 1</label>
+						<caption>
+							<title>Polynomial regression curve showing the optimum inclusion level of onion powder in relation to survival.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 1.</label>
+	<caption>
+	<title>Curva de regresión polinomial que muestra el nivel óptimo de inclusión de cebolla en polvo en relación con la supervivencia.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2622-gf1.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>Mean gut morphometry of <italic>O. niloticus</italic> fed with different onion powder inclusion is presented in <xref ref-type="table" rid="t3">Table 3</xref>. Area of absorption was significantly lower (P&lt;0.05) in the control and OP<sub>5</sub> groups when compared to the others. The latter group generally resulted in the lowest values for all three measured parameters. The highest villi width and absorption area were recorded in OP<sub>4</sub>.</p>
+				<p>
+					<table-wrap-group id="t3">
+	<table-wrap xml:lang="en">
+						<label>Table 3</label>
+						<caption>
+							<title>Mean gut morphometrics of fish fed onion powder diets for 84 d. </title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 3.</label>
+		<caption>
+			<title>Morfometría intestinal media de peces alimentados con dietas de cebolla en polvo durante 84 días.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>Treatment </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>Villi Height (µm) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>Villi width (µm) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>Area of Absorption (µm<sup>2</sup>) </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">OP<sub>0</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.185<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.077<sup>abc</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.014<sup>b</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">OP<sub>1</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.200<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.083<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.017<sup>cd</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">OP<sub>2</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.195<sup>bc</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.075<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.016<sup>cd</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">OP<sub>3</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.201<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.081<sup>bc</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.017<sup>cd</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">OP<sub>4</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.193<sup>bc</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.095<sup>d</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.019<sup>d</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">OP<sub>5</sub></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.165<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.070<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.011<sup>a</sup></td>
+  </tr>
+</tbody>
+</table>
+
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title><bold>Microbial Analysis of <italic>
+ <italic>O. niloticus</italic> Gut Microflora</italic>
+</bold></title>
+				<p>The most isolated bacteria in the gut of <italic>O. niloticus</italic> fed different inclusion levels of onion powder were Bacillus and Enterobacter species (<xref ref-type="table" rid="t4">Table 4</xref>). In this study, the diversity of bacteria was higher in fish fed diets fortified with onions. Similarly, total heterotrophic and coliform counts were higher in the groups fed onions fortified diets, as shown in <xref ref-type="table" rid="t4">Table 4</xref>.</p>
+				<p>
+					<table-wrap-group id="t4">
+	<table-wrap xml:lang="en">
+						<label>Table 4</label>
+						<caption>
+							<title>Summary of isolates and bacterial counts obtained from the gut of <italic>O. niloticus</italic> fed an onion powder-based diet.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 4.</label>
+		<caption>
+			<title>Resumen de aislamientos y recuentos de bacterias obtenidos del intestino de <italic>O. niloticu</italic>s alimentado con una dieta a base de cebolla en polvo.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px; background-color: #e6e7e8;">Bacteria</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">OP<sub>0</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">OP<sub>1</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">OP<sub>2</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">OP<sub>3</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">OP<sub>4</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">OP<sub>5</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Total</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Bacillus sp.</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">10</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Enterobacter sp.</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">9</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Klebsiella sp.</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Proteus sp.</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Staphylococcus sp. </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Flavobacterium sp.</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Pseudomonas sp.</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>E. coli sp. </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN4"></xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Bacteria count </italic>(x10<sup>3</sup>CFU/g)</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Total Coliform Count</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.04</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">10.03</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">30.32</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">10.31</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">(TCC)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Total Heterotrophic</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Count </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.63</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.83</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.50</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.63</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.83</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.63</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">(THC)</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN4">
+								<p>Note: -- = no growth; 1, 2, 3, 4, 9, and 10 are numbers of isolates.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Hematological and Serum Biochemical Indices</title>
+				<p>Packed cell volume was significantly higher (p&lt;0.05) in groups fed 1.5% onion inclusion and above, while red blood and white blood cell counts did not vary significantly across treatments, as shown in <xref ref-type="table" rid="t5">Table 5</xref>. High hemoglobin values were observed in OP<sub>1</sub> and OP<sub>4</sub> (8.46 g/dL and 8.35 g/dL, respectively) while significantly lower values were recorded in OP<sub>2</sub> and OP<sub>3</sub> (6.92 g/dL and 6.93 g/dL, respectively). Platelets count across treatments varied significantly (p&lt;0.05). There was a marginal reduction in the level of aspartate aminotransferase (AST) in fish fed diets fortified with onion powder. Alanine aminotransferase (ALT) was significantly lower in fish fed the onion supplement, except in OP<sub>5</sub>, which was significantly similar to the value in the control group. However, alkaline phosphatase levels increased in fish fed onions-fortified diets.</p>
+				<p>
+					<table-wrap-group id="t5">
+	<table-wrap xml:lang="en">
+						<label>Table 5</label>
+						<caption>
+							<title>Mean blood and serum biochemical indices of <italic>O. niloticus</italic> fed onion supplemented diets.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 5.</label>
+		<caption>
+			<title>Índices bioquímicos sanguíneos y séricos medios de <italic>O. niloticus</italic> alimentados con dietas suplementadas con cebollas.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 120px; background-color: #e6e7e8;">Parameters</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;">OP<sub>0</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;">OP<sub>1</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;">OP<sub>2</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;">OP<sub>3</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;">OP<sub>4</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;">OP<sub>5</sub></td>
+  </tr>
+
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">PCV (g/dL)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">20.66±0.33<sup>d</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">22.49±0.49<sup>cd</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">21.66±0.33<sup>cd</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">24.55±1.12<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">25.04±0.04<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">22.84±0.17<sup>bc</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN5">
+      Hb
+    </xref>
+     (g/dL)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.05±0.05<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.46±0.03<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.92±0.09<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.93±0.16<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">8.35±0.05<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.60±0.10<sup>b</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN5">
+      RBC
+    </xref>
+     (×10<sup>6</sup>/µL)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.68±0.00<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.83±0.07<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.15±0.15<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.16±0.59<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.61±0.01<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.13±0.00<sup>ab</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN5">
+      WBC
+    </xref>
+     (×10<sup>9</sup>/µL)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.47±0.20<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.40±0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.50±0.09<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.45±0.11<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.45±0.01<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.42±0.00<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Platelets (%)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14.61±0.01<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">12.33±0.00<sup>f</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13.76±0.06<sup>d</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13.33±0.03<sup>e</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">16.05±0.05<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">14.28±0.05<sup>c</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Lymphocytes (%)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">61.00±0.00<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">58.50±0.50<sup>d</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">63.05±0.28<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">63.50±0.50<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">61.50±0.05<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">66.50±0.50<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Heterophils (%)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">31.62±0.05<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">34.63±0.03<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">30.71±0.04<sup>d</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">28.36±0.03<sup>e</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.33±0.05<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">28.36±0.03<sup>e</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Monocytes (%)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.67±0.00<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.00±0.00<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.67±0.00<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.66±0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.36±0.03<sup>d</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.33±0.00<sup>d</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Eosinophils (%)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.16±0.16<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.00±0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.00±0.00<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.16±0.16<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.00±0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.05±0.05<sup>b</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Basophils (%)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.33±0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.33±0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.33±0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.33±0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.33±0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.33±0.00<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN5">
+      AST
+    </xref>
+     (µL)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">194.95±0.72<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">189.00±1.00<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">192.43±0.23<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">189.94±0.27<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">193.57±3.24<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">193.57±3.24<sup>ab</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN5">
+      ALT
+    </xref>
+     (µL)</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.33±0.66<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">28.28±0.05<sup>bc</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">28.00±0.00<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">28.55±0.45<sup>bc</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">30.20±1.00<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.56±0.44<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN5">
+      ALP
+    </xref>
+     (µL)</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">183.5±0.50<sup>c</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">183.61±0.61<sup>c</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">201.06±1.94<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">193.60±3.60<sup>ab</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">185.20±2.00<sup>bc</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">185.20±2.00<sup>bc</sup></td>
+  </tr>
+  </tbody>
+</table>
+						<table-wrap-foot>
+							<fn id="TFN5">
+								<p><italic>Mean values with same superscript across row are statistically similar (p&gt;0.05).</italic>
+ <italic>NB: PCV= Packed Cell Volume; Hb = Hemoglobin concentration; RBC = Red Blood Cell; WBC = White Blood Cell; AST= Aspartate Aminotransferase; ALT = Alanine Aminotransferase; ALP = Alkaline Phosphate.</italic></p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title><bold>Antioxidant Enzyme Activities and Oxidative Markers in <italic>
+ <italic>O. niloticus</italic> Fed Onion Powder Based Diets</italic>
+</bold></title>
+				<p>Examination of the oxidative markers and antioxidant enzyme activities from the kidneys of experimental fish showed no variation (&gt;0.05) in total protein (TP), hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>), glutathione S-transferase (GST), glutathione (GSH), and glutathione peroxidase (GPx) among experimental fish (<xref ref-type="table" rid="t6">Table 6</xref>). However, malondialdehyde (MDA) values were significantly lower in fish fed between 1.0 and 2.0 % onion powder fortified diets.</p>
+				<p>
+					<table-wrap-group id="t6">
+	<table-wrap xml:lang="en">
+						<label>Table 6</label>
+						<caption>
+							<title>Oxidative stress indices in the kidney of <italic>O. niloticus</italic> fed Onion powder.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 6.</label>
+		<caption>
+			<title>Índices de estrés oxidativo en el riñón de <italic>O. niloticus</italic> alimentado con polvo de cebolla.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 70px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>Total protein (U/mg) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN6">
+        H<sub>2</sub>O<sub>2</sub>
+      </xref>
+            (µmol/mg) 
+      </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN6">
+        MDA
+      </xref>
+            (nmol/mg) 
+      </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN6">
+        GSH
+      </xref>
+            (U/mg) 
+      </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN6">
+        GPx
+      </xref>
+            (U/mg) 
+      </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN6">
+        GST
+      </xref>
+            (µmol/mg) 
+      </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>0</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.17±0.06<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">47.73±14.32<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.20±2.0<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">83.11±3.07<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1354.21±448.71<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.65±0.38<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>1</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.19±0.06<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">44.02±9.05<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.92±2.78<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">82.46±2.12<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1179.80±331.53<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.68±0.16<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>2</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.21±0.08<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">37.48±7.68<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.51±1.23<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">83.43±2.14<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1116.79±445.66<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.49±0.37<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>3</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.18±0.06<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">38.62±8.28<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.58±1.74<sup>bc</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">82.60±5.66<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1209.98±393.08<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.53±0.32<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>4</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.18±0.04<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">43.73±11.92<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.06±1.01<sup>bc</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">80.63±2.83<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1189.07±297.08<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.65±0.31<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>5</sub></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.15±0.04<sup>b</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">42.67±12.36<sup>ab</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">4.64±1.85<sup>b</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">86.78±13.04<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1180.93±303.21<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.59±0.38<sup>a</sup></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN6">
+								<p>Mean values with same superscript along column are statistically similar (p&gt;0.05). Note: H<sub>2</sub>O<sub>2</sub>= hydrogen peroxide; MDA=malondialdehyde; GSH=glutathione; GPx=glutathione peroxidase; GST= glutathione S-transferase.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>In the liver of fish, there was a significant reduction in the total protein values of fish fed onions fortified diets, except for the OP<sub>5</sub> group. As shown in <xref ref-type="table" rid="t7">Table 7</xref>, values of malondialdehyde, H<sub>2</sub>O<sub>2,</sub> and GPx were higher in the control compared to the others.</p>
+				<p>
+					<table-wrap-group id="t7">
+	<table-wrap xml:lang="en">
+						<label>Table 7</label>
+						<caption>
+							<title>Oxidative stress indices in the liver of <italic>O. niloticus</italic> fed Onion powder-based diets. </title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 7.</label>
+		<caption>
+			<title>Índices de estrés oxidativo en el hígado de <italic>O. niloticus</italic> alimentados con dietas a base de cebolla en polvo.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px; background-color: #e6e7e8;"><bold>Parameters </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>Total protein (U/mg) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN7">
+        H<sub>2</sub>O<sub>2</sub>
+      </xref>
+       (µmol/mg) 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN7">
+        MDA
+      </xref>
+       (nmol/mg) 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN7">
+        GSH
+      </xref>
+       (U/mg) 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN7">
+        GPx
+      </xref>
+       (U/mg) 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN7">
+        GST
+      </xref>
+       (µmol/mg) 
+    </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>0</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.25±0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">49.95±0.06<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.60±0.06<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">78.47±0.07<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1037.78±0.43<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.47±0.00<sup>c</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>1</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.24±0.00<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">37.88±0.01<sup>bc</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.38±0.02<sup>f</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">81.68±0.04<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">917.41±5.02<sup>d</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.58±0.00<sup>b</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>2</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.23±0.00<sup>bc</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">36.07±0.03<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.08±0.01<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">80.22±0.10<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1091.83±1.51<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.89±0.00<sup>a</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>3</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.22±0.00<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">45.28±5.00<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.47±0.01<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">71.27±0.22<sup>f</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">983.32±4.89<sup>c</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.58±0.00<sup>b</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>4</sub></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.24±0.00<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">45.08±0.00<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.28±0.00<sup>d</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">74.70±0.16<sup>e</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">882.22±0.66<sup>e</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.47±0.01<sup>c</sup></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">OP<sub>5</sub></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.26±0.00<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">41.46±0.00<sup>abc</sup></td>
+
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3.95±0.03<sup>e</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">76.30±0.09<sup>d</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">792.27±0.95<sup>f</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.41±0.00<sup>d</sup></td>
+  </tr>
+  </tbody>
+</table>
+						<table-wrap-foot>
+							<fn id="TFN7">
+								<p>Mean values with same superscript along column are statistically similar (p&gt;0.05). Note: H<sub>2</sub>O<sub>2</sub>= hydrogen peroxide; MDA=malondaldehyde; GSH=glutathione; GPx=glutathione peroxidase; GST= glutathione S-transferase.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title><bold>Resistance of <italic>
+ <italic>O. niloticus</italic> to <italic>Aeromonas hydrophila</italic> after Feeding</italic>
+</bold></title>
+				<p>The relative percentage survival (RPS) at the end of the 14 day post <italic>A. hydrophila</italic> injection was 30 % in the OP0 group, 80% in the OP<sub>1</sub> group and 100% in the other groups (<xref ref-type="fig" rid="f2">Figure 2</xref>). The six control groups injected with saline water all had zero mortality recorded.</p>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="en">
+						<label>Figure 2</label>
+						<caption>
+							<title>Survival of <italic>O. niloticus</italic> fed diets fortified with onion powder after challenging period.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 2.</label>
+	<caption>
+	<title>Supervivencia de <italic>O. niloticus</italic> alimentados con dietas fortificadas con cebolla en polvo después del período de desafío.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2622-gf2.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Discussion</title>
+				<p>In this study, results indicate that fortification of diets with onion (<italic>Allium cepa</italic>) powder did not impact growth and nutrient utilization in fish. Mean weight gain, feed conversion ratio and specific growth rate showed statistical similarity across all groups of experimental fish. Also, conversion of feed to flesh was not improved implying a no-effect of onion powder on feed cost reduction or modulation in this study. This agrees with <xref ref-type="bibr" rid="B39">Taher et al. (2024)</xref> when onion powder was fed to <italic>Cyprinus carpio</italic> in earthen ponds, although <xref ref-type="bibr" rid="B36">Saleh et al. (2015)</xref> reported that onions have digestive properties and appetite enhancing abilities in sea bass. Onion powder fed as additives in earlier work was reported to cause growth improvement in brown-marbled grouper, <italic>Epinephelus fuscoguttatus</italic>, <italic>Clarias gariepinus</italic>, and <italic>Oreochromis niloticus</italic> (<xref ref-type="bibr" rid="B8">Aly and Mohamed, 2010</xref>; <xref ref-type="bibr" rid="B7">Apines-Amar et al., 2012</xref>; <xref ref-type="bibr" rid="B4">Agbebi et al., 2013</xref>). The results in the current study may be attributed to the possibility that the basal diet was already nutritionally adequate for growth, thus minimizing the potential benefits of fortification. Also, the effectiveness of onion may be influenced by the form and quality of the powder used. It is also possible that the tilapia developed tolerance to the phytogenic compounds in the onion’s powder over time. Further studies using varied inclusion rates, and different onion preparations may help clarify the potential role as a growth promoter in tilapia diets.</p>
+				<p>The surface area for the absorption of nutrients in the gut of fish is dependent on the size and number of the villi, and there must be a balance in cell renewal and loss for the sustenance of the digestive and absorptive capacity of the intestine. According to <xref ref-type="bibr" rid="B10">Azevedo et al. (2016)</xref>, disequilibrium in cell turnover resulting in a change in villi height may occur when the fish responds to anti-nutritional compounds in diets or pathogenic compounds. In the present study, villus height, width, and area absorption were significantly different (P&lt;0.05) across the treatments, with groups fed onions fortified diets exhibiting higher values. Although this is similar to results of earlier work where villi length and width were significantly increased with the phytogenic extract additives, there was however, a non-significant difference in growth indices in the present study, which is at variance with the results of the previous studies (<xref ref-type="bibr" rid="B25">Mello et al., 2013</xref>; <xref ref-type="bibr" rid="B31">Omitoyin <italic>et al</italic>., 2019</xref>; <xref ref-type="bibr" rid="B5">Ajani et al., 2020</xref>). The non-alignment of the growth results in this present study to previous works may be due to species-specific responses, differences in onion dosage, form and quality, or already optimized diets that mask the effects of enhanced nutrient absorption. While onion powder improves gut structure, its impact on nutrient absorption may not be sufficient on its own to translate into measurable growth benefits under the present experimental conditions.</p>
+				<p>Fish fed onion powder had superior rates of survival. The result in this present study may be attributed to the presence of quercetin and organosulfur which are flavonoids in onion that have been suggested to improve the health status of fish. Also, immunomodulation properties are conferred on onions because of the predominance of S-propenyl-CSO in cysteine sulfoxide contained in them (<xref ref-type="bibr" rid="B33">Ostrowska et al., 2004</xref>). According to <xref ref-type="bibr" rid="B6">Amar and Faisan (2011)</xref>, sulfur containing compounds modulate the immune system in fish because of the S factor described as a component of antioxidant enzyme, glutathione peroxidase. The result of this study agrees with the findings of several authors where survival rates were improved in fish fed onion powder (<xref ref-type="bibr" rid="B15">Farahi, et al., 2010</xref>; <xref ref-type="bibr" rid="B22">Kalyankar et al., 2013</xref>; <xref ref-type="bibr" rid="B36">Saleh et al., 2015</xref>).</p>
+				<p>The microbial population also influences the survival of fish in the gut. Studies have shown that functional feed additives enhance the natural defense process by controlling the commensal gut microbiota, inhibiting disease-causing microbes from entering the organism and by directly activating the innate (nonspecific) and adaptive immune systems (<xref ref-type="bibr" rid="B40">Thepot et al., 2021</xref>). These gut microbes produce some physiologically active compounds (enzymes, amino acids, vitamins) beneficial to the host, and they also help in the breakdown of nutrients, while the host ensures the required metabolic activities for the sustenance of the microbes. In this study, eight isolated bacteria species were obtained (<italic>Proteus sp.</italic>, <italic>Flavobacterium sp.</italic>, <italic>Staphylococcus sp.</italic>, <italic>Bacillus sp.</italic>, <italic>Klebsiella sp.</italic>, <italic>Enterobacter sp.</italic>, <italic>E. coli</italic>, <italic>Pseudomonas sp.</italic>), with <italic>Bacillus sp.</italic> present in all samples examined. The bacterial diversity was higher in the gut of fish fed onion powder. Diets generally have an impact on the gut microbiota of fish. According to <xref ref-type="bibr" rid="B16">Givens et al. (2015)</xref>, feed variation resulted in significant variability in the microbiota of fifteen different species. Similarly, the microbial gut components in rainbow trout and salmon fed different diets caused a shift in specific bacterial genera, for instance, an increase in the occurrence of <italic>Staphylococcus</italic> and <italic>Lactobacillus</italic> in grain-based diet (<xref ref-type="bibr" rid="B46">Wong et al., 2013</xref>; <xref ref-type="bibr" rid="B37">Schmidt et al., 2016</xref>). </p>
+				<p>Monitoring hematological parameters in cultured species can be used to ascertain their health and physiological status (<xref ref-type="bibr" rid="B27">Nwanna et al., 2013</xref>). Although no significant differences were observed in parameters such as red blood cells, haemoglobin and white blood cells, the increase recorded in packed cell volume at 1.5 % and above inclusion levels shows that onion has a positive health effect on fed fish. This is more so because all the other blood indices fall within the optimal range for cultured fish (<xref ref-type="bibr" rid="B20">Hrubec et al., 2000</xref>). The similarity observed in the RBC, Hb and WBC levels in both treated fish and the control group is at variance with the report of <xref ref-type="bibr" rid="B36">Saleh et al. (2015</xref>), where the fish blood had increased Hb and WBC when administered diets with garlic or onion powder and <xref ref-type="bibr" rid="B22">Kalyankar et al. (2013)</xref>, where Swordtail, <italic>Xiphophorus helleri</italic> showed significant increase in all blood indices when fed 1.5% garlic in diet. </p>
+				<p>The marginal reduction in the level of aspartate aminotransferase (AST) in fish fed up to 1.5 % onion supplements and the significantly lower (p&lt;0.05) values of Alanine aminotransferase (ALT) signify that fish organs are functioning at levels devoid of physiological stress. The release of these two enzymes is indicative of cellular damage in the presence of a stressor (<xref ref-type="bibr" rid="B38">Soosean et al., 2010</xref>). <xref ref-type="bibr" rid="B31">Omitoyin <italic>et al</italic>. (2019)</xref> observed a reduction in the value of AST and ALT when <italic>O. niloticus</italic> were fed diets with guava leaf extracts as a supplement. Following the postulation in <xref ref-type="bibr" rid="B31">Omitoyin <italic>et al.</italic> (2019)</xref>, it may be stated that the presence of alkaloids in onion protects the hepatic tissue of fish. A significant increase in the values of alkaline phosphatase is a signal that <italic>Allium cepa</italic> supplemented diets enhance the health status of <italic>O. niloticus.</italic><xref ref-type="bibr" rid="B31">Omitoyin <italic>et al.</italic> (2019)</xref> stated that increased ALP is an indication of better absorption, better build-up and proper functioning of cells. The significant increase in alkaline phosphatase activity observed in <italic>O. niloticus</italic> fed <italic>Allium cepa</italic> supplemented diets may indicate enhanced liver metabolic activity and improved physiological function. When considered alongside other health indices, this suggests that <italic>A. cepa</italic> supplementation could contribute positively to fish health.</p>
+				<p>Oxidative stress causes the production of high levels of reactive oxygen species (ROS) that result in damage to proteins, lipids, and changes in glutathione and antioxidant enzymes. Quantification of oxidative stress in cultured fish is achieved by determining membrane damage by lipid peroxidation and evaluating the antioxidant defense (<xref ref-type="bibr" rid="B5">Ajani et al., 2020</xref>). Although the kidney’s Total protein (TP), hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>), glutathione S-transferase (GST), glutathione (GSH), and glutathione peroxidase (GPx) were statistically similar (p&gt;0.05) among experimental fish, there was however a reduction in malondialdehyde (MDA) values in OP<sub>2</sub>, OP<sub>3</sub> and OP<sub>4</sub> groups. Also, TP, MDA, H<sub>2</sub>O<sub>2</sub> and GPx were reduced significantly in the liver of fish fed diets fortified with onions. A decrease in the products of oxygen free radical peroxidation of lipids is indicative of cellular integrity in the fish fed onion powder diets. The changes observed in the liver biomarkers in <italic>O. niloticus</italic> may be attributed to the combined antioxidant and metabolic regulatory effects of quercetin<bold>,</bold> allicin, and phenolic acids present in it<bold>.</bold> These bioactive compounds help reduce oxidative stress and modulate enzyme activity, and therefore enhance liver health and systemic physiology in fish. This assertion is supported by <xref ref-type="bibr" rid="B48">Yagi (1984)</xref> and <xref ref-type="bibr" rid="B1">Abdel-Tawwab and Abass (2017)</xref> where the mop up of superoxide anions by flavonoids in phytogenic is reported to stimulate immune-modulatory activity in fish. A similar trend of reduced MDA and H<sub>2</sub>O<sub>2</sub> is reported in <xref ref-type="bibr" rid="B47">Xu et al. (2015)</xref> when hybrid tilapia was fed yeast nucleotides as an additive. </p>
+				<p>A challenge test was conducted to confirm the effect of onion powder on the innate immune system of fish fed experimental diets. After the 14-day challenge with <italic>A. hydrophila</italic>, the relative percentage survival was higher in <italic>O. niloticus</italic> fed onions fortified diets. Fish fed 1.0 % and above <italic>A. cepa</italic> recorded 100% survival after 14 d of infection with <italic>A. hydrophila</italic>. This suggests that the innate immune system is enhanced by onion powder, which enables them to resist attacks from <italic>A. hydrophila</italic> and achieve a better survival rate. This can be attributed to the immunostimulatory, antimicrobial, and antioxidant properties of bioactive compounds in onion<bold>.</bold> This agrees with earlier reports in <xref ref-type="bibr" rid="B1">Abdel-Tawwab and Abbass (2017)</xref> (turmeric), <xref ref-type="bibr" rid="B2">Abdel-Tawwab <italic>et al</italic>. (2018)</xref> (Clove) and <xref ref-type="bibr" rid="B31">Omitoyin <italic>et al</italic>. (2019)</xref> (Guava leaf extract). The antibacterial properties of <italic>Allium cepa</italic> are reported in <xref ref-type="bibr" rid="B12">Bello et al. (2013)</xref>
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusion</title>
+			<p>The use of onion powder as a feed additive in the diet of <italic>Oreochromis niloticus</italic> did not affect growth and nutrient utilization, but caused improvement in the innate immune system therefore increasing the rate of survival.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>Abdel‐Tawwab, M. and Abbass, F.E. 2017. Turmeric powder, <italic>Curcuma longa</italic> L., in common carp, <italic>Cyprinus carpio</italic> L., diets: Growth performance, innate immunity, and challenge against pathogenic <italic>Aeromonas hydrophila</italic> infection. Journal of the World Aquaculture Society, 48: 30-312. https ://doi.org/10.1111/jwas.12349</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Abdel‐Tawwab</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Abbass</surname>
+							<given-names>F.E</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Turmeric powder, Curcuma longa L., in common carp, Cyprinus carpio L., diets: Growth performance, innate immunity, and challenge against pathogenic Aeromonas hydrophila infection</article-title>
+					<source>Journal of the World Aquaculture Society</source>
+					<volume>48</volume>
+					<fpage>30</fpage>
+					<lpage>312</lpage>
+					<pub-id pub-id-type="doi">10.1111/jwas.12349</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Abdel‐Tawwab, M., Adeshina, I., Jenyo‐Oni, A., Ajani, E.K. and Emikpe, B.O. 2018. Growth, physiological, antioxidants, and immune response of African catfish, <italic>Clarias gariepinus</italic> (B.), to dietary clove basil, <italic>Ocimum gratissimum</italic>, leaf extract and its susceptibility to <italic>Listeria monocytogenes</italic> infection. Fish and Shellfish Immunology, 78: 346-354. https ://doi.org/10.1016/j.fsi.2018.04.057</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Abdel‐Tawwab</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Adeshina</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Jenyo‐Oni</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ajani</surname>
+							<given-names>E.K.</given-names>
+						</name>
+						<name>
+							<surname>Emikpe</surname>
+							<given-names>B.O</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Growth, physiological, antioxidants, and immune response of African catfish, Clarias gariepinus (B.), to dietary clove basil, Ocimum gratissimum, leaf extract and its susceptibility to Listeria monocytogenes infection</article-title>
+					<source>Fish and Shellfish Immunology</source>
+					<volume>78</volume>
+					<fpage>346</fpage>
+					<lpage>354</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.fsi.2018.04.057</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Adeyemo, O.K. 2005. Haematological and histopathological effects of cassava mill effluent in <italic>Clarias gariepinus</italic>. African Journal of Biomedical Research 8: 179-183.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Adeyemo</surname>
+							<given-names>O.K</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Haematological and histopathological effects of cassava mill effluent in Clarias gariepinus</article-title>
+					<source>African Journal of Biomedical Research</source>
+					<volume>8</volume>
+					<fpage>179</fpage>
+					<lpage>183</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Agbebi, O.T., Ogunmuyiwa, T.G. and Herbert, S.M. 2013. Effect of dietary garlic source on feed utilization, growth and histopathology of the African catfish (<italic>Clarias gariepinus</italic>). Journal of Agricultural Science, 5 (5): 26-34. http://dx.doi.org/ 10.5539/jas.v5n5p26.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Agbebi</surname>
+							<given-names>O.T.</given-names>
+						</name>
+						<name>
+							<surname>Ogunmuyiwa</surname>
+							<given-names>T.G.</given-names>
+						</name>
+						<name>
+							<surname>Herbert</surname>
+							<given-names>S.M</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Effect of dietary garlic source on feed utilization, growth and histopathology of the African catfish (Clarias gariepinus)</article-title>
+					<source>Journal of Agricultural Science</source>
+					<volume>5</volume>
+					<issue>5</issue>
+					<fpage>26</fpage>
+					<lpage>34</lpage>
+					<pub-id pub-id-type="doi">10.5539/jas.v5n5p26</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Ajani, E.K., Orisasona, O., Kareem, O.K., Osho, F.E, Adeyemo, A.O, Omitoyin, B.O. and Adekanmbi, A.O. 2020. Growth performance, gut ecology, immunocompetence and resistance of <italic>Oreochromis niloticus</italic> juveniles fed dietary <italic>Curcumin longa</italic>. Croatian Journal of Fisheries, 78: 145-156. DOI: 10.2478/cjf-2020-0014</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ajani</surname>
+							<given-names>E.K.</given-names>
+						</name>
+						<name>
+							<surname>Orisasona</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Kareem</surname>
+							<given-names>O.K.</given-names>
+						</name>
+						<name>
+							<surname>Osho</surname>
+							<given-names>F.E</given-names>
+						</name>
+						<name>
+							<surname>Adeyemo</surname>
+							<given-names>A.O</given-names>
+						</name>
+						<name>
+							<surname>Omitoyin</surname>
+							<given-names>B.O.</given-names>
+						</name>
+						<name>
+							<surname>Adekanmbi</surname>
+							<given-names>A.O</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Growth performance, gut ecology, immunocompetence and resistance of Oreochromis niloticus juveniles fed dietary Curcumin longa</article-title>
+					<source>Croatian Journal of Fisheries</source>
+					<volume>78</volume>
+					<fpage>145</fpage>
+					<lpage>156</lpage>
+					<pub-id pub-id-type="doi">10.2478/cjf-2020-0014</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Amar, E.C. and Faisan, J.P.Jr. 2011. Efficacy of an inactivated ‘‘vaccine’’ and nutritional additives against white spot syndrome virus (WSSV) in shrimp, <italic>Penaeus monodon</italic>. Israeli Journal of Aquaculture-Bamidgeh 63:IIC:2011.529-538.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Amar</surname>
+							<given-names>E.C.</given-names>
+						</name>
+						<name>
+							<surname>Faisan</surname>
+							<given-names>J.P.</given-names>
+							<suffix>Jr</suffix>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Efficacy of an inactivated ‘‘vaccine’’ and nutritional additives against white spot syndrome virus (WSSV) in shrimp, Penaeus monodon</article-title>
+					<source>Israeli Journal of Aquaculture-Bamidgeh</source>
+					<volume>63</volume>
+					<issue>IIC</issue>
+					<comment>2011</comment>
+					<fpage>529</fpage>
+					<lpage>538</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Apines-Amar, M.J.S., Amar, E.C. , Faisan, J.P., Rolando, V., Pakingking, R.V. and Satoh, S. 2012. Dietary onion and ginger enhance growth, hemato-immunological responses, and disease resistance in brown-arbled grouper, <italic>Epinephelus fuscoguttatus</italic>. AACL BIOFLUX 5, (4): 231-239.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Apines-Amar</surname>
+							<given-names>M.J.S.</given-names>
+						</name>
+						<name>
+							<surname>Amar</surname>
+							<given-names>E.C.</given-names>
+						</name>
+						<name>
+							<surname>Faisan</surname>
+							<given-names>J.P.</given-names>
+						</name>
+						<name>
+							<surname>Rolando</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Pakingking</surname>
+							<given-names>R.V.</given-names>
+						</name>
+						<name>
+							<surname>Satoh</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Dietary onion and ginger enhance growth, hemato-immunological responses, and disease resistance in brown-arbled grouper, Epinephelus fuscoguttatus</article-title>
+					<source>AACL BIOFLUX</source>
+					<volume>5</volume>
+					<issue>4</issue>
+					<fpage>231</fpage>
+					<lpage>239</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Aly, S.M. and Mohamed, M.F. 2010. <italic>Echinacea purpurea</italic> and <italic>Allium sativum</italic> as immunostimulants in fish culture using Nile tilapia (<italic>Oreochromis niloticus</italic>). Journal of Animal Physiology and Animal Nutrition, 94 (5): 31-39. http://dx.doi.org/10.1111/j.1439-0396.2009.00971.x.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aly</surname>
+							<given-names>S.M.</given-names>
+						</name>
+						<name>
+							<surname>Mohamed</surname>
+							<given-names>M.F</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Echinacea purpurea and Allium sativum as immunostimulants in fish culture using Nile tilapia (Oreochromis niloticus)</article-title>
+					<source>Journal of Animal Physiology and Animal Nutrition</source>
+					<volume>94</volume>
+					<issue>5</issue>
+					<fpage>31</fpage>
+					<lpage>39</lpage>
+					<pub-id pub-id-type="doi">10.1111/j.1439-0396.2009.00971.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>AOAC. 2005. <italic>Official methods of analysis of the association of analytical chemists international</italic> (18th edn). Rockville, MD: Official Methods.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>AOAC</collab>
+					</person-group>
+					<year>2005</year>
+					<source>Official methods of analysis of the association of analytical chemists international</source>
+					<edition>18th edn</edition>
+					<publisher-loc>Rockville, MD</publisher-loc>
+					<publisher-name>Official Methods</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Azevedo, R.V., Filho, J.C.F., Pereira, S.L., Cardoso, L.D., Andrade, D.R and Vidal Junior, M.V. 2016. Dietary mannan oligosaccharide and <italic>Bacillus subtilis</italic> in diets for Nile tilapia (<italic>Oreochromis niloticus</italic>). Acta Scientiarum. Animal Sciences Maringá, 38(4): 347-353. 10.4025/actascianimsci.v38i4.31360</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Azevedo</surname>
+							<given-names>R.V.</given-names>
+						</name>
+						<name>
+							<surname>Filho</surname>
+							<given-names>J.C.F.</given-names>
+						</name>
+						<name>
+							<surname>Pereira</surname>
+							<given-names>S.L.</given-names>
+						</name>
+						<name>
+							<surname>Cardoso</surname>
+							<given-names>L.D.</given-names>
+						</name>
+						<name>
+							<surname>Andrade</surname>
+							<given-names>D.R</given-names>
+						</name>
+						<name>
+							<surname>Vidal</surname>
+							<given-names>M.V</given-names>
+							<suffix>Junior</suffix>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Dietary mannan oligosaccharide and Bacillus subtilis in diets for Nile tilapia (Oreochromis niloticus)</article-title>
+					<source>Acta Scientiarum. Animal Sciences Maringá</source>
+					<volume>38</volume>
+					<issue>4</issue>
+					<fpage>347</fpage>
+					<lpage>353</lpage>
+					<pub-id pub-id-type="doi">10.4025/actascianimsci.v38i4.31360</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Baba, T., Imamura, J., Izawa K. and Ikeda, K. 1988. Immune protection in carp, <italic>Cyprinus carpio</italic> L., after immunization with <italic>Aeromonas hydrophila</italic> crude lipopolysaccharide. Journal of Fish Diseases, 11: 237-244.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Baba</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Imamura</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Izawa</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Ikeda</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>1988</year>
+					<article-title>Immune protection in carp, Cyprinus carpio L., after immunization with Aeromonas hydrophila crude lipopolysaccharide</article-title>
+					<source>Journal of Fish Diseases</source>
+					<volume>11</volume>
+					<fpage>237</fpage>
+					<lpage>244</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Bello O.S., Olaifa F.E., Emikpe B.O. and Ogunbanwo S.T. 2013. Potentials of walnut (<italic>Tetracarpidium conophorum</italic> Mull. Arg) leaf and onion (<italic>Allium cepa</italic> Linn) bulb extracts as antimicrobial agents for fish. African Journal of Microbiology Research, 7: 2027-2033.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bello</surname>
+							<given-names>O.S.</given-names>
+						</name>
+						<name>
+							<surname>Olaifa</surname>
+							<given-names>F.E.</given-names>
+						</name>
+						<name>
+							<surname>Emikpe</surname>
+							<given-names>B.O.</given-names>
+						</name>
+						<name>
+							<surname>Ogunbanwo</surname>
+							<given-names>S.T</given-names>
+						</name>
+					</person-group><bold>.</bold><year>2013</year>
+					<article-title>Potentials of walnut (Tetracarpidium conophorum Mull. Arg) leaf and onion (Allium cepa Linn) bulb extracts as antimicrobial agents for fish</article-title>
+					<source>African Journal of Microbiology Research</source>
+					<volume>7</volume>
+					<fpage>2027</fpage>
+					<lpage>2033</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Buetler, E., Duron, O. and Kelly, B.M. 1963. Improved method for the determination of blood glutathione. Journal of Laboratory and Clinical Medicine, 61: 882-890.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Buetler</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Duron</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Kelly</surname>
+							<given-names>B.M</given-names>
+						</name>
+					</person-group>
+					<year>1963</year>
+					<article-title>Improved method for the determination of blood glutathione</article-title>
+					<source>Journal of Laboratory and Clinical Medicine</source>
+					<volume>61</volume>
+					<fpage>882</fpage>
+					<lpage>890</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Cardella, M.A. and Eimers, M.E. 1990. Safety and potency testing of federal licensed fish bacterins. Journal of Aquatic Animal Health, 2: 49-55.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cardella</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Eimers</surname>
+							<given-names>M.E</given-names>
+						</name>
+					</person-group>
+					<year>1990</year>
+					<article-title>Safety and potency testing of federal licensed fish bacterins</article-title>
+					<source>Journal of Aquatic Animal Health</source>
+					<volume>2</volume>
+					<fpage>49</fpage>
+					<lpage>55</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Farahi, A., Kasiri, M., Sudagar, M., Iraei, M. and Shahkolaei, M.D. 2010. Effect of garlic (<italic>Allium sativum</italic>) on growth factors, some hematological parameters and body compositions in rainbow trout (<italic>Oncorhynchus mykiss</italic>). AACL Bioflux 3 (4): 317-323.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Farahi</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Kasiri</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Sudagar</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Iraei</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Shahkolaei</surname>
+							<given-names>M.D</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Effect of garlic (Allium sativum) on growth factors, some hematological parameters and body compositions in rainbow trout (Oncorhynchus mykiss)</article-title>
+					<source>AACL Bioflux</source>
+					<volume>3</volume>
+					<issue>4</issue>
+					<fpage>317</fpage>
+					<lpage>323</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Givens, C.E, Ransom, B., Bano, N. <italic>et al</italic>. 2015. Comparison of the gutmicrobiomes of 12 bony fish and 3 shark species. Mar Ecol Prog Ser, 518: 209-223.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Givens</surname>
+							<given-names>C.E</given-names>
+						</name>
+						<name>
+							<surname>Ransom</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Bano</surname>
+							<given-names>N.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2015</year>
+					<article-title>Comparison of the gutmicrobiomes of 12 bony fish and 3 shark species</article-title>
+					<source>Mar Ecol Prog Ser</source>
+					<issue>518</issue>
+					<fpage>209</fpage>
+					<lpage>223</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Gornal, A.G., Bardawill, J.C. and David, M.M. 1949. Determination of serum proteins by means of biuret reaction. J. Biol. Chem. 177: 751-766.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gornal</surname>
+							<given-names>A.G.</given-names>
+						</name>
+						<name>
+							<surname>Bardawill</surname>
+							<given-names>J.C.</given-names>
+						</name>
+						<name>
+							<surname>David</surname>
+							<given-names>M.M</given-names>
+						</name>
+					</person-group>
+					<year>1949</year>
+					<article-title>Determination of serum proteins by means of biuret reaction</article-title>
+					<source>J. Biol. Chem</source>
+					<issue>177</issue>
+					<fpage>751</fpage>
+					<lpage>766</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Habig, W.H., Pabst, M.J. and Jakoby W.B. 1974. Glutathione S-transferases. The first enzymatic step in mercapturic acid formation. J. Biol. Chem. 249: 7130-7139.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Habig</surname>
+							<given-names>W.H.</given-names>
+						</name>
+						<name>
+							<surname>Pabst</surname>
+							<given-names>M.J.</given-names>
+						</name>
+						<name>
+							<surname>akoby</surname>
+							<given-names>W.B.</given-names>
+						</name>
+					</person-group>
+					<year>1974</year>
+					<article-title>Glutathione S-transferases. The first enzymatic step in mercapturic acid formation</article-title>
+					<source>J. Biol. Chem</source>
+					<volume>249</volume>
+					<fpage>7130</fpage>
+					<lpage>7139</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Hopwood, D. 1996. Fixation and Fixatives. In S. A. Bancroft J., Theory and practice of histological techniques. (pp. 201-4). New York: Churchhill Livingstone</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hopwood</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>1996</year>
+					<chapter-title>Fixation and Fixatives</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bancroft J.</surname>
+							<given-names>S. A.</given-names>
+						</name>
+					</person-group>
+					<source>Theory and practice of histological techniques</source>
+					<fpage>201</fpage>
+					<lpage>204</lpage>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Churchhill Livingstone</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Hrubec, T.C., Cardinalle, J.L. and Smith, S.A. 2000. Hematology and plasma chemistry reference intervals for cultured Tilapia <italic>(Oreochromis</italic> hybrid). Veterinary Clinical Pathology, 29(1): 7-12. https://doi.org/10.1111/j.1939-165X.2000.tb00389.x</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hrubec</surname>
+							<given-names>T.C.</given-names>
+						</name>
+						<name>
+							<surname>Cardinalle</surname>
+							<given-names>J.L.</given-names>
+						</name>
+						<name>
+							<surname>Smith</surname>
+							<given-names>S.A</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>Hematology and plasma chemistry reference intervals for cultured Tilapia (Oreochromis hybrid)</article-title>
+					<source>Veterinary Clinical Pathology</source>
+					<volume>29</volume>
+					<issue>1</issue>
+					<fpage>7</fpage>
+					<lpage>12</lpage>
+					<pub-id pub-id-type="doi">10.1111/j.1939-165X.2000.tb00389.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Jollow, D.J., Michell, J.R., Zampaglionic, N. and Gillete, J.R. 1974. Bromobenzene‐induced liver necrosis: Protective role of glutathione and evidence for 34‐bromobenzene oxide as hepatotoxic metabolite. Pharmacology, 11: 151-169. https ://doi.org/10.1159/000136485</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jollow</surname>
+							<given-names>D.J.</given-names>
+						</name>
+						<name>
+							<surname>Michell</surname>
+							<given-names>J.R.</given-names>
+						</name>
+						<name>
+							<surname>Zampaglionic</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Gillete</surname>
+							<given-names>J.R</given-names>
+						</name>
+					</person-group>
+					<year>1974</year>
+					<article-title>Bromobenzene‐induced liver necrosis: Protective role of glutathione and evidence for 34‐bromobenzene oxide as hepatotoxic metabolite</article-title>
+					<source>Pharmacology</source>
+					<volume>11</volume>
+					<issue>151-169</issue>
+					<pub-id pub-id-type="doi">10.1159/000136485</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Kalyankar, A.D., Gupta, R.K., Bansal, N., Sabhlok, V.P. and Singh, D. 2013. Effect of garlic (<italic>Allium Sativum</italic>) against <italic>Aeromonas hydrophila</italic> and health management of Swordtail, <italic>Xiphophorus helleri</italic> A.D. J. Environ. Sci. Sustainability <italic>JESS</italic> 1 (2): 41-48.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kalyankar</surname>
+							<given-names>A.D.</given-names>
+						</name>
+						<name>
+							<surname>Gupta</surname>
+							<given-names>R.K.</given-names>
+						</name>
+						<name>
+							<surname>Bansal</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Sabhlok</surname>
+							<given-names>V.P.</given-names>
+						</name>
+						<name>
+							<surname>Singh</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Effect of garlic (Allium Sativum) against Aeromonas hydrophila and health management of Swordtail, Xiphophorus helleri A.D</article-title>
+					<source>J. Environ. Sci. Sustainability JESS</source>
+					<volume>1</volume>
+					<issue>2</issue>
+					<fpage>41</fpage>
+					<lpage>48</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Kaplow, L.S. 1955. A histochemical procedure for localizing and valuating leukocyte alkaline phosphatase activity in smears of blood and marrow. Blood, 10: 1023.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kaplow</surname>
+							<given-names>L.S</given-names>
+						</name>
+					</person-group>
+					<year>1955</year>
+					<article-title>A histochemical procedure for localizing and valuating leukocyte alkaline phosphatase activity in smears of blood and marrow</article-title>
+					<source>Blood</source>
+					<volume>10</volume>
+					<pub-id pub-id-type="art-access-id">1023</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Kocour, M., Lynhard, O., Gela, D. and Rodina, M. 2005. Growth performance of all-female and mixed-sex common carp, <italic>Cyprinus carpio</italic> L. population in central European climatic conditions. Journal of the World Aquaculture Society, 36: 103-113.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kocour</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Lynhard</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Gela</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Rodina</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Growth performance of all-female and mixed-sex common carp, Cyprinus carpio L. population in central European climatic conditions</article-title>
+					<source>Journal of the World Aquaculture Society</source>
+					<volume>36</volume>
+					<fpage>103</fpage>
+					<lpage>113</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Mello, H.D., Moraes, J.R.E., Niza, I.G., Moraes, F.R.D., Ozório, R.O.A., Shimada, M.T., … Claudiano, G.S. 2013. Efeitos benefices de probióticos no intestino de juvenis de Tilapia‐do‐Nilo. Pesquisa Veterinária Brasileira, 33: 724-730. https ://doi.org/10.1590/S0100-736X2 01300 0600006</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mello</surname>
+							<given-names>H.D.</given-names>
+						</name>
+						<name>
+							<surname>Moraes</surname>
+							<given-names>J.R.E.</given-names>
+						</name>
+						<name>
+							<surname>Niza</surname>
+							<given-names>I.G.</given-names>
+						</name>
+						<name>
+							<surname>Moraes</surname>
+							<given-names>F.R.D.</given-names>
+						</name>
+						<name>
+							<surname>Ozório</surname>
+							<given-names>R.O.A.</given-names>
+						</name>
+						<name>
+							<surname>Shimada</surname>
+							<given-names>M.T.</given-names>
+						</name>
+						<name>
+							<surname>Claudiano</surname>
+							<given-names>G.S</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Efeitos benefices de probióticos no intestino de juvenis de Tilapia‐do‐Nilo</article-title>
+					<source>Pesquisa Veterinária Brasileira</source>
+					<volume>33</volume>
+					<fpage>724</fpage>
+					<lpage>730</lpage>
+					<pub-id pub-id-type="art-access-id">10.1590/S0100-736X2 01300 0600006</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Narvaez, E., Berendsen, J., Guzman, F., Gallardo, J.A. and Mercardo, T. 2010. An immunological method of quantifying bacterial activity in <italic>Salma salar</italic> (Linnaeus 1758) skin mucus. Fish and Shellfish Immunology, 28: 235-239.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Narvaez</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Berendsen</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Guzman</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Gallardo</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Mercardo</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>An immunological method of quantifying bacterial activity in Salma salar (Linnaeus 1758) skin mucus</article-title>
+					<source>Fish and Shellfish Immunology</source>
+					<volume>28</volume>
+					<fpage>235</fpage>
+					<lpage>239</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Nwanna, L.C., Ajani, E.K. and Bamidele, S.F. 2013. Use of lactic acid bacteria from Nile tilapia <italic>Oreochromis niloticus</italic> as probiotics for sustainable production and improvement in welfare of the Fish. The Israeli Journal of Aquaculture <italic>‐ Bamidgeh</italic>, IJA_66.2014.977, 12. <ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/10524/49134">http://hdl.handle.net/10524/49134</ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nwanna</surname>
+							<given-names>L.C.</given-names>
+						</name>
+						<name>
+							<surname>Ajani</surname>
+							<given-names>E.K.</given-names>
+						</name>
+						<name>
+							<surname>Bamidele</surname>
+							<given-names>S.F</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Use of lactic acid bacteria from Nile tilapia Oreochromis niloticus as probiotics for sustainable production and improvement in welfare of the Fish</article-title>
+					<source>The Israeli Journal of Aquaculture ‐ Bamidgeh</source>
+					<pub-id pub-id-type="other">IJA_66.2014.977</pub-id>
+					<volume>12</volume>
+					<ext-link ext-link-type="uri" xlink:href="http://hdl.handle.net/10524/49134">http://hdl.handle.net/10524/49134</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Oladele, O.A., Emikpe, B.O. and Bakare, H. 2012. Effects of dietary garlic (<italic>Allium sativum</italic> linn.) supplementation on body weight and gut morphometry of commercial broilers. International Journal of Morphology, 30(1): 238-240.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Oladele</surname>
+							<given-names>O.A.</given-names>
+						</name>
+						<name>
+							<surname>Emikpe</surname>
+							<given-names>B.O.</given-names>
+						</name>
+						<name>
+							<surname>Bakare</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Effects of dietary garlic (Allium sativum linn.) supplementation on body weight and gut morphometry of commercial broilers</article-title>
+					<source>International Journal of Morphology</source>
+					<volume>30</volume>
+					<issue>1</issue>
+					<fpage>238</fpage>
+					<lpage>240</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Olutiola,P.O., Famurewa, O. and Sonntag, H.G. 2000. An Introduction to microbiology, a practical Approach. Tertiary Text Book series.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Olutiola</surname>
+							<given-names>P.O.</given-names>
+						</name>
+						<name>
+							<surname>Famurewa</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Sonntag</surname>
+							<given-names>H.G</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<source>An Introduction to microbiology, a practical Approach</source>
+					<comment>Tertiary Text Book series</comment>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Omitoyin, B.O., Ajani, E.K., Adesina, B.T. and Okuagu, C.N.F. 2006. Toxicity of lindane (gamma hexachloro‐cyclottexane) to <italic>Clarias gariepinus</italic> (Buchel, 1822). World Journal of Zoology, 1: 57-63.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Omitoyin</surname>
+							<given-names>B.O.</given-names>
+						</name>
+						<name>
+							<surname>Ajani</surname>
+							<given-names>E.K.</given-names>
+						</name>
+						<name>
+							<surname>Adesina</surname>
+							<given-names>B.T.</given-names>
+						</name>
+						<name>
+							<surname>Okuagu</surname>
+							<given-names>C.N.F</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>Toxicity of lindane (gamma hexachloro‐cyclottexane) to Clarias gariepinus (Buchel, 1822)</article-title>
+					<source>World Journal of Zoology</source>
+					<volume>1</volume>
+					<fpage>57</fpage>
+					<lpage>63</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Omitoyin B.O., Ajani, E.K., Orisasona O., Bassey, H.E., Kareem, K.O. and Osho, F.E. 2019. Effect of guava <italic>Psidium guajava</italic> (L.) aqueous extract diet on growth performance, intestinal morphology, immune response and survival of <italic>Oreochromis niloticus</italic> challenged with <italic>Aeromonas hydrophila</italic>. Aquaculture Research, 50: 1851-1861. https ://doi.org/10.1111/are.14068</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Omitoyin B.O.</surname>
+							<given-names>Ajani</given-names>
+						</name>
+						<name>
+							<surname>E.K.</surname>
+							<given-names>Orisasona O.</given-names>
+						</name>
+						<name>
+							<surname>Bassey</surname>
+							<given-names>H.E.</given-names>
+						</name>
+						<name>
+							<surname>Kareem</surname>
+							<given-names>K.O.</given-names>
+						</name>
+						<name>
+							<surname>Osho</surname>
+							<given-names>F.E</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Effect of guava Psidium guajava (L.) aqueous extract diet on growth performance, intestinal morphology, immune response and survival of Oreochromis niloticus challenged with Aeromonas hydrophila</article-title>
+					<source>Aquaculture Research</source>
+					<volume>50</volume>
+					<fpage>1851</fpage>
+					<lpage>1861</lpage>
+					<pub-id pub-id-type="doi">10.1111/are.14068</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Oresegun, A. and Alegbeleye, W.O. 2001. Serum and tissue thiocynate concentration in tilapia (<italic>Oreochromis niloticus</italic>) fed cassava peels based diets supplemented with D,L methionine. Proceedings of the 21<sup>st</sup> Fisheries Society of Nigeria on Fish Nutrition and Fish Feed. Eyo, A.A. Eds. Ilorin. 107-115.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Oresegun</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Alegbeleye</surname>
+							<given-names>W.O</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<chapter-title>Serum and tissue thiocynate concentration in tilapia (Oreochromis niloticus) fed cassava peels based diets supplemented with D,L methionine</chapter-title>
+					<source>Proceedings of the 21<sup>st</sup> Fisheries Society of Nigeria on Fish Nutrition and Fish Feed</source>
+					<publisher-name>Eyo, A.A. Eds</publisher-name>
+					<publisher-loc>Ilorin</publisher-loc>
+					<fpage>107</fpage>
+					<lpage>115</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Ostrowska, E., Gabler, N.K., Sterling, S.J., Tatham, B.G., Jones, R.B., Eagling, D.R., Jois, M. and Dunshea, F.R. 2004. Consumption of brown onions (<italic>Allium cepa</italic> var. cavalier and var. destiny) moderately modulates blood lipids, haematological and haemostatic variables in healthy pigs. British Journal of Nutrition. 91: 211-218.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ostrowska</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Gabler</surname>
+							<given-names>N.K.</given-names>
+						</name>
+						<name>
+							<surname>Sterling</surname>
+							<given-names>S.J.</given-names>
+						</name>
+						<name>
+							<surname>Tatham</surname>
+							<given-names>B.G.</given-names>
+						</name>
+						<name>
+							<surname>Jones</surname>
+							<given-names>R.B.</given-names>
+						</name>
+						<name>
+							<surname>Eagling</surname>
+							<given-names>D.R.</given-names>
+						</name>
+						<name>
+							<surname>Jois</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Dunshea</surname>
+							<given-names>F.R</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Consumption of brown onions (Allium cepa var. cavalier and var. destiny) moderately modulates blood lipids, haematological and haemostatic variables in healthy pigs</article-title>
+					<source>British Journal of Nutrition</source>
+					<volume>91</volume>
+					<fpage>211</fpage>
+					<lpage>218</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Osuigwe, D.I., Obiekezie, A.I. and Onuoha, G.C. 2005. Some haematological changes in hybrid catfish (<italic>Heterobranchus longifilis</italic> x <italic>Clarias gariepinus</italic>) fed different dietary levels of raw and boiled jackbean (<italic>Canavalia ensiformis</italic>) seed meal. African Journal of Biotechnology, 4: 1017-1021.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Osuigwe</surname>
+							<given-names>D.I.</given-names>
+						</name>
+						<name>
+							<surname>Obiekezie</surname>
+							<given-names>A.I.</given-names>
+						</name>
+						<name>
+							<surname>Onuoha</surname>
+							<given-names>G.C</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Some haematological changes in hybrid catfish (Heterobranchus longifilis x Clarias gariepinus) fed different dietary levels of raw and boiled jackbean (Canavalia ensiformis) seed meal</article-title>
+					<source>African Journal of Biotechnology</source>
+					<volume>4</volume>
+					<fpage>1017</fpage>
+					<lpage>1021</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Reitman, S. and Frankel, S. 1957. A colorimetric method for the determination of serum glutamic oxalacetic and glutamic pyruvic transaminases. American Journal of Clinical Pathology, 28: 56-63. https ://doi.org/10.1093/ajcp/28.1.56</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Reitman</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Frankel</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>1957</year>
+					<article-title>A colorimetric method for the determination of serum glutamic oxalacetic and glutamic pyruvic transaminases</article-title>
+					<source>American Journal of Clinical Pathology</source>
+					<volume>28</volume>
+					<fpage>56</fpage>
+					<lpage>63</lpage>
+					<pub-id pub-id-type="doi">10.1093/ajcp/28.1.56</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Saleh, N., Michael, M. and Toutou, M. 2015. Evaluation of garlic and onion powder as phyto-additives in the diet of sea bass (<italic>Dicentrarcus labrax</italic>). Egyptian Journal of Aquatic Research, 41 (1): 211-217.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Saleh</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Michael</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Toutou</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Evaluation of garlic and onion powder as phyto-additives in the diet of sea bass (Dicentrarcus labrax)</article-title>
+					<source>Egyptian Journal of Aquatic Research</source>
+					<volume>41</volume>
+					<issue>1</issue>
+					<fpage>211</fpage>
+					<lpage>217</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Schmidt, V. T, Smith, K. F, Melvin, D. W and Amaral-Zettler, L. A. 2016. Community assembly of a euryhaline fish microbiome during salinity acclimation. Molecular Ecology. 24:2537-2550. doi: 10.1111/mec.13177</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schmidt</surname>
+							<given-names>V. T</given-names>
+						</name>
+						<name>
+							<surname>Smith</surname>
+							<given-names>K. F</given-names>
+						</name>
+						<name>
+							<surname>Melvin</surname>
+							<given-names>D. W</given-names>
+						</name>
+						<name>
+							<surname>Amaral-Zettler</surname>
+							<given-names>L. A</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Community assembly of a euryhaline fish microbiome during salinity acclimation</article-title>
+					<source>Molecular Ecology</source>
+					<volume>24</volume>
+					<fpage>2537</fpage>
+					<lpage>2550</lpage>
+					<pub-id pub-id-type="doi">10.1111/mec.13177</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Soosean, C., Marimuthu, K., Sudhakaran, S. and Xavier, R. 2010. Effect of mangosteen (<italic>Garcinia mangostana</italic> L.) extracts as a feed additive on growth and haematological parameters of African catfish (<italic>Clarias gariepinus</italic>) fingerlings. European Review for Medical and Pharmacological Sciences, 14: 605-611.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Soosean</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Marimuthu</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Sudhakaran</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Xavier</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Effect of mangosteen (Garcinia mangostana L.) extracts as a feed additive on growth and haematological parameters of African catfish (Clarias gariepinus) fingerlings</article-title>
+					<source>European Review for Medical and Pharmacological Sciences</source>
+					<volume>14</volume>
+					<fpage>605</fpage>
+					<lpage>611</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Taher, M.M., Mojer, A.M., Muhammed, S.J., Al-Dubakel, A.Y., Salih, O.A. and Sabti, Z.A 2024. Effect of onion meal and commercial prebiotic on growth and survival of common carp, <italic>Cyprinus carpio</italic> juveniles cultivated in earthen ponds. Iraqi Journal of Aquaculture, 21(2): 29-44.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Taher</surname>
+							<given-names>M.M.</given-names>
+						</name>
+						<name>
+							<surname>Mojer</surname>
+							<given-names>A.M.</given-names>
+						</name>
+						<name>
+							<surname>Muhammed</surname>
+							<given-names>S.J.</given-names>
+						</name>
+						<name>
+							<surname>Al-Dubakel</surname>
+							<given-names>A.Y.</given-names>
+						</name>
+						<name>
+							<surname>Salih</surname>
+							<given-names>O.A.</given-names>
+						</name>
+						<name>
+							<surname>Sabti</surname>
+							<given-names>Z.A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Effect of onion meal and commercial prebiotic on growth and survival of common carp, Cyprinus carpio juveniles cultivated in earthen ponds</article-title>
+					<source>Iraqi Journal of Aquaculture</source>
+					<volume>21</volume>
+					<issue>2</issue>
+					<fpage>29</fpage>
+					<lpage>44</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Thepot, V., Campbell, A.H., Rimmer, M.A. and Paul, N.A. 2021. Meta analysis of the use of seaweeds and their extracts as immunostimulants for fish: A systematic review. Reviews in Aquaculture, <italic>13</italic>(2), 907-933. https://doi.org/10.1111/raq.12504</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Thepot</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Campbell</surname>
+							<given-names>A.H.</given-names>
+						</name>
+						<name>
+							<surname>Rimmer</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Paul</surname>
+							<given-names>N.A</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Meta analysis of the use of seaweeds and their extracts as immunostimulants for fish: A systematic review</article-title>
+					<source>Reviews in Aquaculture</source>
+					<volume>13</volume>
+					<issue>2</issue>
+					<fpage>907</fpage>
+					<lpage>933</lpage>
+					<pub-id pub-id-type="doi">10.1111/raq.12504</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Tietz, N.W., Burtis, C.A., Duncan, P., Ervin, K., Petitclerc, C.J., Rinker, A.D., … Zygowicz, E. R. 1983. A reference method for measurement of alkaline phosphatase activity in human serum. Clinical Chemistry, 0: 751-761.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tietz</surname>
+							<given-names>N.W.</given-names>
+						</name>
+						<name>
+							<surname>Burtis</surname>
+							<given-names>C.A.</given-names>
+						</name>
+						<name>
+							<surname>Duncan</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Ervin</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Petitclerc</surname>
+							<given-names>C.J.</given-names>
+						</name>
+						<name>
+							<surname>Rinker</surname>
+							<given-names>A.D.</given-names>
+						</name>
+						<name>
+							<surname>Zygowicz</surname>
+							<given-names>E. R</given-names>
+						</name>
+					</person-group>
+					<year>1983</year>
+					<article-title>A reference method for measurement of alkaline phosphatase activity in human serum</article-title>
+					<source>Clinical Chemistry</source>
+					<volume>0</volume>
+					<fpage>751</fpage>
+					<lpage>761</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Upadhaya, S.D. and Kim, I.H. 2017. Efficacy of phytogenic feed additive on performance, production and health status of monogastric animals - A review. Annals of Animal Science, 17(4): 929-948. https://doi.org/10.1515/aoas.2016-0079</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Upadhaya</surname>
+							<given-names>S.D.</given-names>
+						</name>
+						<name>
+							<surname>Kim</surname>
+							<given-names>I.H</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Efficacy of phytogenic feed additive on performance, production and health status of monogastric animals - A review</article-title>
+					<source>Annals of Animal Science</source>
+					<volume>17</volume>
+					<issue>4</issue>
+					<fpage>929</fpage>
+					<lpage>948</lpage>
+					<pub-id pub-id-type="doi">10.1515/aoas.2016-0079</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Vashney, R. and Kale, R.K. 1990. Effects of calmodulin antagonists on radiation‐induced lipid peroxidation in microsomes. International Journal of Radiation Biology, 58: 733-743. https ://doi.org/10.1080/09553009014552121</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vashney</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Kale</surname>
+							<given-names>R.K</given-names>
+						</name>
+					</person-group>
+					<year>1990</year>
+					<article-title>Effects of calmodulin antagonists on radiation‐induced lipid peroxidation in microsomes</article-title>
+					<source>International Journal of Radiation Biology</source>
+					<volume>58</volume>
+					<fpage>733</fpage>
+					<lpage>743</lpage>
+					<pub-id pub-id-type="doi">10.1080/09553009014552121</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Vigneshpriya, D. and Krishnaveni N . 2016. Effect of garlic and onion incorporated feed on the growth and nutritional status on the fresh water fish Tilapia<italic>, Oreochromis mossambicus</italic> (Peters, 1852). International Journal of Fisheries and Aquatic Studies 2016; 4(5): 253-257.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vigneshpriya</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Krishnaveni</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Effect of garlic and onion incorporated feed on the growth and nutritional status on the fresh water fish Tilapia, Oreochromis mossambicus (Peters, 1852)</article-title>
+					<source>International Journal of Fisheries and Aquatic Studies</source>
+					<comment>2016</comment>
+					<volume>4</volume>
+					<issue>5</issue>
+					<fpage>253</fpage>
+					<lpage>257</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Wolf, S.P. 1994. Methods Enzymol., 1994, 223, 182-189.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wolf</surname>
+							<given-names>S.P</given-names>
+						</name>
+					</person-group>
+					<year>1994</year>
+					<source>Methods Enzymol</source>
+					<volume>1994</volume>
+					<issue>223</issue>
+					<fpage>182</fpage>
+					<lpage>189</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Wong, S., Waldrop, T., Summerfelt, S. <italic>et al</italic>. 2013. Aquacultured rainbow trout (<italic>Oncorhynchus mykiss</italic>) possess a large core intestinal microbiota that is resistant to variation in diet and rearing density. Appllied Environmental Microbiology. 79: 4974-4984.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wong</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Waldrop</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Summerfelt</surname>
+							<given-names>S.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2013</year>
+					<article-title>Aquacultured rainbow trout (Oncorhynchus mykiss) possess a large core intestinal microbiota that is resistant to variation in diet and rearing density</article-title>
+					<source>Appllied Environmental Microbiology</source>
+					<volume>79</volume>
+					<fpage>4974</fpage>
+					<lpage>4984</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Xu, L., Ran, C., He, S., Zhang, J., Hu, J., Yang, Y. and Zhou, Z. 2015. Effects of dietary yeast nucleotides on growth, non‐specific immunity, intestine growth and intestinal microbiota of juvenile hybrid tilapia <italic>Oreochromis niloticus</italic> ♀ <italic>Oreochromis aureus</italic> ♂. Animal Nutrition, 1: 244-251. https ://doi.org/10.1016/j.aninu.2015.08.006</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Xu</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Ran</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>He</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Hu</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Zhou</surname>
+							<given-names>Z</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Effects of dietary yeast nucleotides on growth, non‐specific immunity, intestine growth and intestinal microbiota of juvenile hybrid tilapia Oreochromis niloticus ♀ Oreochromis aureus ♂</article-title>
+					<source>Animal Nutrition</source>
+					<volume>1</volume>
+					<fpage>244</fpage>
+					<lpage>251</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.aninu.2015.08.006</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Yagi, K. 1984. Increased lipid peroxides initiates atherogenesis. BioEssays, 1:58-60. https://doi.org/10.1002/bies.950010205</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yagi</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>1984</year>
+					<article-title>Increased lipid peroxides initiates atherogenesis</article-title>
+					<source>BioEssays</source>
+					<volume>1</volume>
+					<fpage>58</fpage>
+					<lpage>60</lpage>
+					<pub-id pub-id-type="doi">10.1002/bies.950010205</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

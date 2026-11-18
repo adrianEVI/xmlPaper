@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2537</article-id>
+			<article-id pub-id-type="other">00206</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Desarrollo de vacunas contra Leishmania mexicana: un enfoque de vacunología reversa</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Development of vaccines against <italic><italic>Leishmania mexicana</italic>: a reverse vaccinology approach</italic></trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-1488-4313</contrib-id>
+					<name>
+						<surname>Pérez-Concepción</surname>
+						<given-names>Isis</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0006-8637-707X</contrib-id>
+					<name>
+						<surname>Corona Guerrero</surname>
+						<given-names>Iván</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-7846-6124</contrib-id>
+					<name>
+						<surname>Hayano Kanashiro</surname>
+						<given-names>Corina</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-2968-0869</contrib-id>
+					<name>
+						<surname>Gámez Meza</surname>
+						<given-names>Nohemí</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-2225-467X</contrib-id>
+					<name>
+						<surname>Tejeda-Mansir</surname>
+						<given-names>Armando</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Biosciences Graduate Program, Universidad de Sonora, Sonora, Mexico. a221230212@unison.mx, </institution>
+				<institution content-type="normalized">Universidad de Sonora</institution>
+				<institution content-type="orgname">Universidad de Sonora</institution>
+				<addr-line>
+					<state>Sonora</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>a221230212@unison.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Biological Sciences Graduate Program, Universidad Autónoma de Querétaro, Santiago de Querétaro, Mexico. ivan.corona@uaq.mx, </institution>
+				<institution content-type="normalized">Universidad Autónoma de Querétaro </institution>
+				<institution content-type="orgname">Universidad Autónoma de Querétaro</institution>
+				<addr-line>
+					<city>Santiago de Querétaro</city>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>ivan.corona@uaq.mx</email>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">Department of Scientific and Technological Research, Universidad de Sonora, Sonora, Mexico. angela.hayano@unison.mx, nohemi.gamez@unison.mx, armando.tejeda@unison.mx</institution>
+				<institution content-type="normalized">Universidad de Sonora</institution>
+				<institution content-type="orgdiv1">Department of Scientific and Technological Research</institution>
+				<institution content-type="orgname">Universidad de Sonora</institution>
+				<addr-line>
+					<state>Sonora</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>angela.hayano@unison.mx</email>
+				<email>nohemi.gamez@unison.mx</email>
+				<email>armando.tejeda@unison.mx</email>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Author for correspondence: Armando Tejeda-Mansir, Isis Pérez-Concepción e-mail: <email>armando.tejeda@unison.mx</email>; <email>a221230212@unison.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>02</day>
+				<month>07</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2537</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>13</day>
+					<month>12</month>
+					<year>2024</year>
+				</date>
+				<date date-type="accepted">
+					<day>09</day>
+					<month>06</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>02</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>La leishmaniasis cutánea causada por Leishmania mexicana es un importante problema de salud pública en América. En consecuencia, se necesitan enfoques nuevos y más eficaces para controlar la enfermedad. A pesar de los considerables esfuerzos para prevenir y tratar la leishmaniasis cutánea, no se dispone de vacunas licenciadas para humanos, lo que incentiva la investigación en este tema. Los avances en la vacunología reversa y la inmunoinformática han facilitado el diseño de varios candidatos contra la leishmaniasis cutánea. La versatilidad del enfoque de vacunología reversa permite la inclusión de varios epítopos en una sola construcción de vacuna, pudiendo inducir respuestas inmunes protectoras in vivo. Por lo tanto, se espera que el enfoque in silico resuelva los problemas actuales relacionados con la inmunogenicidad, seguridad y costos de producción de las vacunas contra L. mexicana, así como cuestiones relacionadas con la biología del parásito. Este trabajo abarca el estado del arte de las vacunas para L. mexicana, así como las perspectivas y desafíos de la inmunoinformática en la investigación de vacunas contra la leishmaniasis cutánea.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>Cutaneous leishmaniasis caused by Leishmania mexicana is a major public health problem in America. Consequently, there is a need for new and more effective strategies to control the disease. Despite considerable efforts to prevent and treat cutaneous leishmaniasis, there is no licensed human vaccine, which encourages research on this topic. Advances in reverse vaccinology and immunoinformatics have facilitated the design of promising vaccine candidates against cutaneous leishmaniasis. The versatility of reverse vaccinology approach allows the inclusion of several epitopes into a single vaccine construction, potentially eliciting strong, protective immune responses when tested in vivo. Therefore, in silico approaches are expected to further overcome current issues regarding immunogenicity, safety, and production costs of L. mexicana vaccines, as well as questions related to parasite biology. This work covers the state of the art of conventional and new-generation vaccines for L. mexicana, as well as perspectives and challenges of immunoinformatics in cutaneous leishmaniasis vaccine research.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>New World Cutaneous Leishmaniasis</kwd>
+				<kwd>immunoinformatics</kwd>
+				<kwd>vaccine design</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Leishmaniasis cutánea del nuevo mundo</kwd>
+				<kwd>inmunoinformática</kwd>
+				<kwd>diseño de vacunas</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="1"/>
+				<table-count count="1"/>
+				<equation-count count="0"/>
+				<ref-count count="48"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>Cutaneous leishmaniasis (CL) is the most common presentation of leishmaniasis, a disease caused by parasites of the <italic>Leishmania</italic> genus. American CL, also known as tegumentary leishmaniasis, is charachterized by skin ulcers throughout the body, resulting from the dissemination of parasites through the bloodstream and lymphatic system. The manifestation of symptoms depends on the individual’s immune response and the specific species of <italic>Leishmania</italic> involved (<xref ref-type="bibr" rid="B30">Pinart et al., 2020</xref>).</p>
+			<p>In America, CL is known as New World CL (NWCL) or tegumentary leishmaniasis, and it is mainly caused by <italic>L. mexicana</italic> and <italic>L. brasiliensis</italic> species complex (<xref ref-type="bibr" rid="B1">Abadías-Granado et al., 2021</xref>). In 2024, more than 34,000 new cases were registered in the region, with an increased incidence in Mexico, Argentina, Costa Rica, and Ecuador largely due to vector spread and population migration (<xref ref-type="bibr" rid="B29">PAHO, 2024</xref>).</p>
+			<p>Control and prevention are based on vector/reservoir control and pharmacological treatment, for which <italic>L. mexicana</italic> has shown intermediate to low sensitivity (<xref ref-type="bibr" rid="B30">Pinart et al., 2020</xref>). Treatment success is variable mainly due to parasites’ resistance, high costs, low availability in endemic areas and toxicity<italic>.</italic> Antimycotics like ketoconazole show some efficacy against <italic>L. mexicana</italic> but <italic>in vitro</italic> sensitivity studies have reported contradictory data (<xref ref-type="bibr" rid="B45">de Vries and Schallig, 2022</xref>).</p>
+			<p>Sometimes, the infection is self-resolved, which indicates an effective but incomplete immune response development, supporting that a vaccine could be used to treat or prevent leishmaniasis. Although several strategies have been used to achieve a vaccine for humans, there is no licensed candidate to date, thus hampering the efficient control of leishmaniasis. In the last decade, bioinformatics tools and genetic engineering have boosted leishmaniasis vaccines research (<xref ref-type="bibr" rid="B14">Dinc, 2022</xref>).</p>
+			<p>This review provides a comprehensive overview of current vaccine development against NWCL caused by <italic>L. mexicana,</italic> and examines remaining problems to achieving effective vaccines for humans. It also discusses the status of immunoinformatics applied to CL vaccine research, the challenges that remain to be addressed, and the perspectives of this approach applied to CL prevention and treatment.</p>
+		</sec>
+		<sec>
+			<title>New generation vaccines for nwcl</title>
+			<p>Live vaccination against CL, known as leishmanization (LZ), has been practiced for centuries in Middle East countries, but is not recommended due to safety issues. In addition, no evidence proves that LZ is protective against New World <italic>Leishmania</italic> species in humans (<xref ref-type="bibr" rid="B26">Moreira et al., 2023</xref>). However, LZ has shown that vaccination in endemic areas is the most cost-effective tool for leishmaniasis control and prevention. An ideal NWCL vaccine should fulfill some requirements: (i) good safety profile, (ii) minimum number of immunizations, (iii) cost-effectiveness, (iv) show prophylactic or therapeutic efficacy, (v) optimal delivery, and (vi) no need for cold chain supply (<xref ref-type="bibr" rid="B31">Rafati et al., 2017</xref>).</p>
+			<p><italic>L. mexicana</italic> pathogenicity and the immune responses that mediate protection are complex. Nevertheless, a successful response to <italic>L. mexicana</italic> infection includes reactive oxygen species (ROS) and nitric oxide production by macrophages, which is triggered by T helper 1 lymphocytes, Natural Killer cells, and T cytotoxic lymphocytes. These immune responses decay faster than antibody responses (<xref ref-type="bibr" rid="B1">Abadías-Granado et al., 2021</xref>). Thus, immunological memory induction poses a problem for the effectiveness and efficacy of vaccines.</p>
+			<p>Several first (live or killed parasites), second (native or recombinant proteins) and third-generation (nucleic acids) vaccine candidates have been tested to prevent <italic>L. mexicana</italic> infection. Although there is still no vaccine for human use, advances reported in clinical trials provide hope for its development in the future (<xref ref-type="bibr" rid="B25">Moafi et al., 2019</xref>; <xref ref-type="bibr" rid="B14">Dinc, 2022</xref>) (<xref ref-type="table" rid="t1">Table I</xref>).</p>
+			<p>
+				<table-wrap-group id="t1">
+	<table-wrap xml:lang="en">
+					<label>Table I</label>
+					<caption>
+						<title>Vaccine candidates against <italic>L. mexicana</italic> tested in animal models. </title>
+					</caption>
+					</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 1.</label>
+		<caption>
+			<title>Candidatos vacunales contra <italic>L. mexicana</italic> evaluados en modelos animales.</title>
+		</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px; background-color: #e6e7e8;"><bold>Candidate </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 180px; background-color: #e6e7e8;"><bold>Antigens </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 250px; background-color: #e6e7e8;"><bold>Main results </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 180px; background-color: #e6e7e8;"><bold>Reference </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">DNA vaccine      </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2"><italic>L. mexicana </italic>GP63 gene into    ΔaroD <italic>S. typhi</italic> strain CVD 908</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Protection against active CL in    mice. Partial protection in monkeys. No need for adjuvant</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">(González <italic><italic>et al.</italic></italic>, 1998)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">(3<sup>rd</sup>    generation)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Native proteins      </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Adjuvated GP63, CP, and       <xref ref-type="fn" rid="TFN1">
+        MBA
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Protection against    promastigotes in C57B/L mice. Risk of transient and accentuated disease</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">(Aebischer <italic>et al.</italic>, 2000)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">(2<sup>nd</sup>    generation)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">L. mexicana H-line      </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Gentamicin-attenuated <italic>L. mexicana</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Significant control of 
+      <xref ref-type="fn" rid="TFN1">
+        WT
+      </xref>
+        parasites through Th1 response in BALB/c mice</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">(Daneshvar <italic>et al.</italic>, 2003)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">(1<sup>st</sup>    generation)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Killed parasites      </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Autoclaved <italic>L. mexicana</italic> + BCG</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Effective as immunotherapy in    human severe mucocutaneous and diffuse CL resistant to treatment</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">(Convit <italic>et al.</italic>, 2004)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">(1<sup>st</sup>    generation)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Genetically modified L. mexicana</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Δ
+      <xref ref-type="fn" rid="TFN1">
+        GDP-MP
+      </xref>
+            (live attenuated) </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Long-lasting protection in    BALB/c mice. Risk of virulence reversion</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">(Zabala-Peñafiel <italic>et al.</italic>, 2020)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">(1<sup>st</sup>    generation)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">In silico predicted antigen      </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2"><italic>L. mexicana</italic> <italic></italic>      <italic><xref ref-type="fn" rid="TFN1">
+        MBA
+      </xref>
+       gene into plasmid pVAX1 
+    </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Parasite reduction and    improvement of clinical manifestations of CL in mice. No need for adjuvant</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">(Burgos-Reyes <italic>et al.</italic>, 2021)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">(3<sup>rd</sup>    generation)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Genetically modified L. mexicana      </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="2">LmexCen-/-</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="2">Induce immune response similar    to natural infection. Risk of virulence reversion</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="2">(Volpedo <italic>et al.</italic>, 2022)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">(1<sup>st</sup>    generation)</td>
+  </tr>
+  </tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p>GDP-MP: GDP-mannose pyrophosphorylase; lmlpg2: <italic>L. mexicana</italic> Golgi GDP-mannose transporter coding gene; CPB: Cysteine proteinase B; MBA: Membrane bound acid phosphatase; WT: wild-type.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+				</table-wrap-group>
+			</p>
+			<p>Genome sequencing of <italic>L. mexicana</italic> species complex has enabled its genetic attenuation by targeted gene disruption (<xref ref-type="bibr" rid="B37">Saravia et al., 2006</xref>) and CRISPR/Cas9, with variable protection induction in murine and non-murine models (<xref ref-type="bibr" rid="B44">Volpedo et al., 2022</xref>). In contrast, Ishemgulova <italic>et al</italic>. (2018) demonstrated that <italic>L. mexicana</italic> knockout strains for a putative virulence factor predicted <italic>in silico</italic>, do not alter colonization in neither vector nor mice, which highlights the importance of bioinformatics-predicted virulence factors experimental validation.</p>
+			<p>Attenuated vaccines present drawbacks regarding standardization for large-scale production, virulence reversion or incomplete attenuation, and differences in protection between preclinical and clinical trials. Nevertheless, attenuation by genetic modification could contribute to maintain immunogenicity and vaccine potency, but assure no virulence reversion (<xref ref-type="bibr" rid="B48">Zabala-Peñafiel et al., 2020</xref>).</p>
+			<p>On the other hand, <italic>L. mexicana</italic> and <italic>L. amazonensis</italic> autoclaved promastigotes have been used as killed vaccines in South America, where cross-protection has been reported in some countries (<xref ref-type="bibr" rid="B11">Convit et al., 2004</xref>). Nevertheless, autoclaved parasites lose potency over time, therefore efforts are focused on combining its application with immunotherapy and chemotherapy (<xref ref-type="bibr" rid="B48">Zabala-Peñafiel et al., 2020</xref>).</p>
+			<p>Regarding second-generation candidates, subunit and recombinant vaccines for dogs have been authorized and are currently available in Europe and Brazil, namely Canileish®, Leish-Tec®, Leishmune® and Letifend® (<xref ref-type="bibr" rid="B7">Calzetta et al., 2020</xref>), supporting that a vaccine for humans is feasible. Although pathogen subunits do not confer long-lasting immunity, they are safer, more tolerated, and better characterized than whole-cell vaccines (<xref ref-type="bibr" rid="B41">Tahamtan et al., 2017</xref>).</p>
+			<p>Several attempts of second-generation candidates have been explored: fractionated parasite and vector proteins, polyprotein combinations, and delivery systems (<xref ref-type="bibr" rid="B10">Coler and Reed, 2005</xref>). However, <italic>Leishmania</italic> recombinant proteins are expensive to produce at large-scale, which is not viable for mass vaccination. Therefore, it is preferable to design synthetic polyepitopic vaccines using combinations of conserved epitopes. Moreover, synthetic peptides have great versatility to adapt to innovative delivery systems and have been investigated for vaccination against NWCL (<xref ref-type="bibr" rid="B20">Gupta et al., 2021</xref>).</p>
+			<p>Polyepitopic molecules have increased immunogenicity, lower risk of adverse reactions, and wider population/parasite species coverage compared to crude antigens. For instance, <italic>L. mexicana</italic> Nucleoside hydrolase 36 (NH36), a vital enzyme for parasite metabolism, has proven cross-protection against <italic>L. braziliensis</italic> in humans (<xref ref-type="bibr" rid="B5">Alves-Silva et al., 2019</xref>). Also, preclinical evidence indicates properly adjuvanted peptides and genetic vaccines induce strong protective cellular immunity (<xref ref-type="bibr" rid="B19">Graña et al., 2022</xref>).</p>
+			<p>In this regard, third-generation vaccines are advantageous due to their possibility to combine several epitopes into a single formulation that could provide cross-protection against different <italic>Leishmania</italic> species. NH36 and GP63 are the most tested proteins as genetic vaccines for NWCL in mice: VR1012-NH36 DNA candidate conferring cross-protection against <italic>L. chagasi</italic> and <italic>L. mexicana</italic> (<xref ref-type="bibr" rid="B15">Dumonteil et al., 2003</xref>), and naked gp63 DNA adjuvanted with aluminum induces cellular immune responses (<xref ref-type="bibr" rid="B36">Rosado-Vallado et al., 2005</xref>).</p>
+			<p>Several <italic>L. mexicana</italic> genes encoded in plasmid VR1012 have also been tested as DNA vaccines in mice challenges, inducing partial protection in all cases (<xref ref-type="bibr" rid="B15">Dumonteil et al., 2003</xref>). pVAX1 is another plasmid that has been used as a vector for an <italic>in silico</italic> predicted membrane-bound acid phosphatase gene from <italic>L. mexicana</italic> (LmMBA), demonstrating a protective effect in mice (<xref ref-type="bibr" rid="B6">Burgos-Reyes et al., 2021</xref>).</p>
+			<p>However, the failure of several genetic vaccine candidates demonstrates that protection against leishmaniasis is more complex than originally thought. Low immunogenicity of naked DNA vaccines’ due to degradation, hydrophilic nature, and poor recognition, is a major challenge (<xref ref-type="bibr" rid="B3">Akbari et al., 2021</xref>). Other concerns with nucleic acid vaccines are possible recombination with the host genome, enhanced disease and low gene transfection efficacy, which poses substantial problems for safety and manufacturing (<xref ref-type="bibr" rid="B42">Tejeda-Mansir et al., 2019</xref>).</p>
+			<p>Thus, researchers have explored alternative approaches including immunotherapy (<xref ref-type="bibr" rid="B3">Akbari et al., 2021</xref>), nanotechnology (<xref ref-type="bibr" rid="B42">Tejeda-Mansir et al., 2019</xref>), virus and bacteria (<xref ref-type="bibr" rid="B8">Cecílio et al., 2020</xref>). Remarkably, synthetic peptides, nucleic acids and proteins have great versatility to adapt to innovative delivery systems.</p>
+		</sec>
+		<sec>
+			<title>Cutaneous leishmaniasis vaccine development through reverse vaccinology</title>
+			<p>Reverse vaccinology (RV) involves the prediction of novel epitopes through bioinformatics, proteomics, comparative and functional genomics (<xref ref-type="bibr" rid="B33">Rappuoli, 2000</xref>). This methodology allows for thoughtful mapping and selection of immune targets with antigenic diversity, and has become extremely useful in vaccine research and development. Vaccine development against several pathogens and cancer has been swiftened using RV, thus holding great potential for global public health improvement (<xref ref-type="bibr" rid="B9">Cianci and Franza, 2022</xref>).</p>
+			<sec>
+				<title>RV methodology and advances</title>
+				<p>Vaccine design through RV starts with retrieving genomic data (DNA or translation products) from public online databases that gather information and models for new vaccine targets and drug development. Despite gaps in <italic>L. mexicana</italic> metabolism and pathogenicity knowledge, there are some databases exclusively related to the parasite, such as LeishInDB, TriTrypDB, LeishPathNet, LeishDB, LeishCyc and LmSmdB. Using these resources, various RV strategies have been explored to design synthetic and chimeric peptides, as well as DNA vaccines (<xref ref-type="bibr" rid="B16">Flórez et al., 2021</xref>; <xref ref-type="bibr" rid="B20">Gupta et al., 2021</xref>). <xref ref-type="fig" rid="f1">Figure 1</xref> shows a general RV workflow.</p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="en">
+						<label>Figure 1</label>
+						<caption>
+							<title>Reverse vaccinology general workflow. <italic>In silico approach</italic> starts with antigen mining from genes/proteins and selection of vaccine candidate sequences. Next filtering levels involve immune epitopes prediction, selection and linking to merge a vaccine construction. Subsequently, secondary and 3D structure analysis is performed. Docking studies, and immunogenicity studies can also be conducted. Codon sequence optimization is also necessary prior to <italic>in vitro</italic> cloning. Vaccine candidate is further purified and validated before moving into clinical trials (Created under BioRender.com license).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 1.</label>
+	<caption>
+	<title>Flujo de trabajo general en vacunología reversa. El enfoque <italic>in silico</italic> comienza con la identifiación de antígenos a partir de genes/proteínas y con la selección de secuencias candidatas a vacunas. Los siguientes niveles de filtrado implican la predicción, selección y combinación de epítopos inmunogénicos en una construcción de vacuna. Posteriormente, se realiza un análisis de estructuras secundarias y se generan modelos tridimensionales de las proteínas. Además, se pueden realizar estudios de acoplamiento y estudios de inmunogenicidad. La optimización de la secuencia de codones es necesaria antes de la clonación <italic>in vitro</italic>. Por último, la vacuna candidata se purifica y se valida experimentalmente antes de pasar a los ensayos clínicos (Creado bajo licencia de BioRender.com). </title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2537-gf1.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p><italic>L. mexicana</italic> genome comprises 8149 sequences on average, but gene expression varies depending on the parasite’s life stage (<xref ref-type="bibr" rid="B35">Rogers et al., 2011</xref>). Using DNA as a starting point for vaccine design offers the advantage of accessing all the potential proteins within the pathogen’s genome, but thousands of them are irrelevant as vaccine targets since they are not involved in cellular immune response (<xref ref-type="bibr" rid="B7">Calzetta et al., 2020</xref>). Considering this, an extensive analysis must be carried out to identify which disease-related genes are being expressed.</p>
+				<p>On the other hand, analyzing 3D structures of pathogenic proteins (translation products) offers valuable insights into the motifs responsible for immune recognition, thus helping in epitope prediction. Additionally, translation products can be obtained from diverse transcriptomic experiments, such as whole exome sequencing, RNAseq, or microarrays (<xref ref-type="bibr" rid="B22">Hwang et al., 2021</xref>). Using this approach, it is possible to assess the pathogen´s gene expression during multiple steps of its life cycle, and immune factors from the host, which leads to a more efficient antigen selection.</p>
+				<p>Numerous criteria for RV have been developed to aid in vaccine candidate prediction. The most widely used are the prediction of antigenicity, allergenicity and immunogenicity, subcellular localization, function, conservation, and physicochemical features such as hydrophobicity. However, for intracellular pathogens<italic>,</italic> subcellular localization could not be decisive, as antigens for T-cell immunity are not necessarily surface-exposed (<xref ref-type="bibr" rid="B24">Martinelli, 2022</xref>).</p>
+				<p>LmMBA, evaluated as a prophylactic vaccine by <xref ref-type="bibr" rid="B6">Burgos-Reyes et al. (2021)</xref> is a good example of a protein identified through a data mining approach. Various authors have developed immunoinformatics pipelines applicable to <italic>Leishmania</italic> vaccine design, with variable degrees of success when tested <italic>in vivo</italic> or <italic>in vitro</italic> (<xref ref-type="bibr" rid="B40">Singh et al., 2020</xref>; <xref ref-type="bibr" rid="B34">Rawal et al., 2021</xref>). This depends mostly on the parasite species, as well as target population, platforms/tools accuracy and procedure order, and the selected vaccine scaffold.</p>
+				<p>Once genomic data is retrieved, mining vaccine antigens is performed either by a subtractive genomic method or by a network-based approach. In the first case, the parasite transcriptome or proteome is classified according to each protein’s specific biological relevance while eliminating homologs that could lead to immune tolerance, autoimmune responses, or tissue damage in the host (<xref ref-type="bibr" rid="B43">Vivona et al., 2008</xref>).</p>
+				<p>In the network-based strategy, central proteins are identified <italic>in silico</italic>, a process that often involves mutational studies, molecular dynamics biology, and orthology-based methods to determine protein-protein interaction networks (<xref ref-type="bibr" rid="B46">Wheeler, 2021</xref>). The aforementioned methodologies can be combined, leading to an even deeper screening of potential targets. The selection process yields a short list of possible antigens to be tested in immunological simulations.</p>
+				<p>Conservation analysis among multiple pathogen strains and related species is also important. Such comparisons enhance our understanding of <italic>Leishmania</italic> diversity and permits identifying conserved epitope sequences specific to the pathogen, while minimizing or excluding variants found in other pathogen species that potentially elicit detrimental immune responses (<xref ref-type="bibr" rid="B39">Shams et al., 2022</xref>).</p>
+				<p>Cytokines like interferon gamma (IFN-γ) and major histocompatibility complex (MHC) I and II are important in protection against NWCL. One way to predict IFN-γ -inducing motifs is through IFNepitope, while MHC-II epitopes can be predicted in the Immune Epitope Database (IEDB), Vaxitop, and NetMHCIIPan-4.0, which is currently the most accurate software (<xref ref-type="bibr" rid="B13">Dhanda et al., 2013</xref>). Regarding MHC-I epitopes, artificial neural networks of NetMHC4.0 and NetMHCPan4.1 are reliable methods to screen for MHC-I binding peptides (<xref ref-type="bibr" rid="B18">Gonzalez-Galarza et al., 2020</xref>).</p>
+				<p>Genetic background can be detrimental for vaccine effectiveness. Since CL affects people in extensive areas, and MHC alleles are highly variable in humans, potential target population ethnicity must be taken into account. Population coverage, a tool from IEDB, in combination with allele frequency databases can be used to focus epitope prediction on a specific population based on geographical distribution. <xref ref-type="bibr" rid="B21">Herrera et al. (2020)</xref> created an interactive database with georeferenced information on <italic>Leishmania</italic> species distribution in America, which could help in target population selection and antigen/species conservation analysis.</p>
+				<p>B-cell epitopes may also be included in the vaccine to block the pathogen invasion. The corresponding analysis follows the same criteria of T-cell epitopes and can be performed alongside or after MHC selection. Tools like BepiPred3.0, ElliPro, DiscoTope and artificial intelligence platforms are available. Combining these softwares with a 3D visualization tool makes it possible to select linear and conformational B-cell epitopes (<xref ref-type="bibr" rid="B47">Woolums and Swiderski, 2021</xref>).</p>
+				<p>Regrettably, for <italic>L. mexicana</italic> no predicted immunogens have been successful in generating broadly neutralizing antibody responses. A highly specific and sensible B-cell epitope prediction for <italic>L. mexicana</italic> tool still does not exist because of epitope structural complexity. Another issue with epitope prediction from recombinant proteins is the loss of conformational epitopes as a result of non-native folding of the fragments (<xref ref-type="bibr" rid="B24">Martinelli, 2022</xref>). Therefore, not all predicted peptides are immunogenic in animal models.</p>
+				<p>Secondary structure analysis and 3D modeling of vaccine construction are critical. There are several tools for deducing chimeric protein structure: AlphaFold, RoseTTAFold and Modeller servers have become the most used for <italic>de novo</italic> predictions. However, depending on the amino acid sequence and program´s algorithm, the generated models could greatly differ between each other (<xref ref-type="bibr" rid="B23">Lee et al., 2022</xref>). Hence, it is recommended to compare the 3D models obtained from multiple tools and validate them using Ramachandran plots or servers like ERRAT, PROCHECK and ProSA-Web.</p>
+				<p>On the other hand, it is necessary to simulate the immune response induced by the vaccine, although sometimes the predictions do not match the results obtained in animal models (<xref ref-type="bibr" rid="B32">Rapin et al., 2010</xref>). Before preclinical evaluation, it is recommended to perform docking studies and immunogenicity simulations. PatchDock, AutoDock Vina, and SwissDock are the best performing docking simulators, while C-IMMSIM server is widely used for immunogenicity due to the variety of results it provides.</p>
+				<p>Finally, vaccines designed through RV may be used either as a subunit vaccine or as nucleic acid vaccine. Both approaches demand gene codon usage optimization, thus the peptide must be reverse translated into DNA and gene constructs adapted to improve cloning and expression. Servers like NovoPro and JCat are commonly used in this task, and gene synthesis companies often offer this service. It is also recommended to re-run the allergenic prediction test to prevent possible hypersensitivity reactions (<xref ref-type="bibr" rid="B47">Woolums and Swiderski, 2021</xref>).</p>
+			</sec>
+			<sec>
+				<title>RV challenges and future perspectives in NWCL vaccine research</title>
+				<p>RV methodology significantly reduces experimentation efforts and costs in comparison with the conventional approach. Furthermore, new-generation vaccines designed using <italic>in silico</italic> tools have proved to be safe, stable, and efficient in human and animal vaccination. The ultimate advantages of RV are speed, accuracy, and efficiency. These features contribute to cost-effectiveness of the vaccine development process, which is highly desirable in NTD research (<xref ref-type="bibr" rid="B28">Moxon et al., 2019</xref>).</p>
+				<p>However, <italic>in silico</italic> methods have drawbacks including failure in polysaccharide or glycolipid-derived antigens prediction, limited accuracy and reproducibility of antibody response simulation and immunogenic peptide ranking (<xref ref-type="bibr" rid="B33">Rappuoli, 2000</xref>). The RV approach is not inherently applicable to vaccine antigens that exhibit excessive variability, complex structures, or binding instability. In consequence, all predicted epitopes must be tested <italic>in vivo</italic> to determine their immunogenicity (<xref ref-type="bibr" rid="B46">Wheeler, 2021</xref>).</p>
+				<p>To date, RV´s main limitation is the lack of a high-throughput system to estimate memory immunity of selected candidates. Algorithms trained in a data set may not be able to make predictions in all proteomes or genomes, this fact is more evident when tools intended for one group of organisms are used to analyze information of an unrelated or distant species (<xref ref-type="bibr" rid="B46">Wheeler, 2021</xref>).</p>
+				<p>Although <italic>in silico</italic> methods present several drawbacks and shortcomings, their constant improvement through code development, AI-powered methods, and experimental validation has positioned bioinformatic methods as important tools for rational vaccine design. Molecular target discovery against <italic>L. mexicana</italic> is not a straightforward process, nevertheless bioinformatics tools combined with genetic engineering hold great promise due to their versatility.</p>
+				<p>New-generation vaccines in the reverse vaccinology era are promising strategies to design and develop vaccine candidates for human use. The foregoing approach has identified more potential vaccines against <italic>Leishmania</italic> than conventional approaches over the past 40 years. Considering this, it is not surprising that RV will be the method of choice for vaccinology studies in the near future.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusions</title>
+			<p>RV has contributed to successfully identifying vaccine candidates from <italic>L. mexicana</italic>. However, several challenges need to be solved before achieving this task. An effective vaccine for <italic>L. mexicana</italic> must induce cellular immune responses, some of which require antigen persistence to be maintained, thus improved antigens and adjuvants should be investigated.</p>
+			<p>RV and immunoinformatics approaches allow vaccine design and evaluation in a relatively short time, although the need to invest in research, new diagnostic, treatment, and prevention strategies against CL remains. Finally, these efforts are expected to contribute towards the development of new generation vaccines for NWCL, tailored to both the genetic makeup of the human and the pathogen.</p>
+		</sec>
+		<sec>
+			<title>Funding sources</title>
+			<p>Consejo Nacional de Humanidades, Ciencias y Tecnología (CONAHCyT), Mexico. Grant number 810067 to Isis Pérez-Concepción.</p>
+		</sec>
+		<sec>
+			<title>Conflicts of interest</title>
+			<p>The authors have no conflict of interest to disclose.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Acknowledgments</title>
+			<p>We are thankful to Dr. Andrea Romero and Dr. Alejandro Gómez for their valuable comments on our manuscript. This work is dedicated to the memory of Dr. Eliza Valenzuela-Soto by IPC in gratitude for her teachings, encouragement and recommendations over the years.</p>
+		</ack>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>Abadías-Granado, I., Diago, A., Cerro, P.A., Palma-Ruiz, A.M. and Gilaberte, Y. 2021. Cutaneous and mucocutaneous Leishmaniasis. <italic>Actas Dermo-Sifiliograficas</italic> 112(7), 601-618. doi: 10.1016/j.ad.2021.02.008.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Abadías-Granado</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Diago</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Cerro</surname>
+							<given-names>P.A.</given-names>
+						</name>
+						<name>
+							<surname>Palma-Ruiz</surname>
+							<given-names>A.M.</given-names>
+						</name>
+						<name>
+							<surname>Gilaberte</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Cutaneous and mucocutaneous Leishmaniasis</article-title>
+					<source>Actas Dermo-Sifiliograficas</source>
+					<volume>112</volume>
+					<issue>7</issue>
+					<fpage>601</fpage>
+					<lpage>618</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.ad.2021.02.008.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Aebischer, T., Wolfram, M., Patzer, S.I., Ilg, T., Wiese, M. and Overath, P. 2000. Subunit vaccination of mice against new world cutaneous leishmaniasis: comparison of three proteins expressed in amastigotes and six adjuvants. <italic>Infection and immunity</italic> 68(3), 1328-1336. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/10678945/">https://pubmed.ncbi.nlm.nih.gov/10678945/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aebischer</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Wolfram</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Patzer</surname>
+							<given-names>S.I.</given-names>
+						</name>
+						<name>
+							<surname>Ilg</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Wiese</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Overath</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>Subunit vaccination of mice against new world cutaneous leishmaniasis: comparison of three proteins expressed in amastigotes and six adjuvants</article-title>
+					<source>Infection and immunity</source>
+					<volume>68</volume>
+					<issue>3</issue>
+					<fpage>1328</fpage>
+					<lpage>1336</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/10678945/">https://pubmed.ncbi.nlm.nih.gov/10678945/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Akbari, M., Oryan, A. and Hatam, G. 2021. Immunotherapy in treatment of leishmaniasis. <italic>Immunology letters</italic> 233, 80-86. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/33771555/">https://pubmed.ncbi.nlm.nih.gov/33771555/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Akbari</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Oryan</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Hatam</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Immunotherapy in treatment of leishmaniasis</article-title>
+					<source>Immunology letters</source>
+					<volume>233</volume>
+					<fpage>80</fpage>
+					<lpage>86</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/33771555/">https://pubmed.ncbi.nlm.nih.gov/33771555/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Akya, A., Farasat, A., Ghadiri, K. and Rostamian, M. 2019. Identification of HLA-I restricted epitopes in six vaccine candidates of Leishmania tropica using immunoinformatics and molecular dynamics simulation approaches. <italic>Infection, Genetics and Evolution</italic> 75. doi: 10.1016/j.meegid.2019.103953.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Akya</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Farasat</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ghadiri</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Rostamian</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Identification of HLA-I restricted epitopes in six vaccine candidates of Leishmania tropica using immunoinformatics and molecular dynamics simulation approaches</article-title>
+					<source>Infection, Genetics and Evolution</source>
+					<volume>75</volume>
+					<pub-id pub-id-type="doi">10.1016/j.meegid.2019.103953</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Alves-Silva, M.V., Nico, D., De Luca, P.M. and Palatnik De-Sousa, C.B. 2019. The F1F3 recombinant chimera of <italic>Leishmania donovani</italic>-nucleoside hydrolase (NH36) and its epitopes induce cross-protection against <italic>Leishmania</italic> (V.) <italic>braziliensis</italic> infection in mice. <italic>Frontiers in immunology</italic> 10(APR). Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/31024556/">https://pubmed.ncbi.nlm.nih.gov/31024556/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alves-Silva</surname>
+							<given-names>M.V.</given-names>
+						</name>
+						<name>
+							<surname>Nico</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>De Luca</surname>
+							<given-names>P.M.</given-names>
+						</name>
+						<name>
+							<surname>Palatnik De-Sousa</surname>
+							<given-names>C.B</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>The F1F3 recombinant chimera of Leishmania donovani-nucleoside hydrolase (NH36) and its epitopes induce cross-protection against Leishmania (V.) braziliensis infection in mice</article-title>
+					<source>Frontiers in immunology</source>
+					<volume>10</volume>
+					<issue>APR</issue>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/31024556/">https://pubmed.ncbi.nlm.nih.gov/31024556/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Burgos-Reyes, M.A., Baylón-Pacheco, L., Espíritu-Gordillo, P., Galindo-Gómez, S., Tsutsumi, V. and Rosales-Encina, J.L. 2021. Effect of prophylactic vaccination with the membrane-bound acid phosphatase gene of <italic>Leishmania mexicana</italic> in the murine model of localized cutaneous Leishmaniasis. <italic>Journal of Immunology Research</italic> 2021. doi: 10.1155/2021/6624246.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Burgos-Reyes</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Baylón-Pacheco</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Espíritu-Gordillo</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Galindo-Gómez</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Tsutsumi</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Rosales-Encina</surname>
+							<given-names>J.L</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Effect of prophylactic vaccination with the membrane-bound acid phosphatase gene of Leishmania mexicana in the murine model of localized cutaneous Leishmaniasis</article-title>
+					<source>Journal of Immunology Research</source>
+					<volume>2021</volume>
+					<pub-id pub-id-type="doi">10.1155/2021/6624246.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Calzetta, L. <italic>et al</italic>. 2020. Immunoprophylaxis pharmacotherapy against canine leishmaniosis: A systematic review and meta-analysis on the efficacy of vaccines approved in European Union. <italic>Vaccine</italic> 38(43), 6695-6703. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/32883556/">https://pubmed.ncbi.nlm.nih.gov/32883556/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calzetta</surname>
+							<given-names>L.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2020</year>
+					<article-title>Immunoprophylaxis pharmacotherapy against canine leishmaniosis: A systematic review and meta-analysis on the efficacy of vaccines approved in European Union</article-title>
+					<source>Vaccine</source>
+					<volume>38</volume>
+					<issue>43</issue>
+					<fpage>6695</fpage>
+					<lpage>6703</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/32883556/">https://pubmed.ncbi.nlm.nih.gov/32883556/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Cecílio, P., Oristian, J., Meneses, C., Serafim, T.D., Valenzuela, J.G., Cordeiro da Silva, A. and Oliveira, F. 2020. Engineering a vector-based pan-Leishmania vaccine for humans: proof of principle. <italic>Scientific reports</italic> 10(1). Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/33122717/">https://pubmed.ncbi.nlm.nih.gov/33122717/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cecílio</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Oristian</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Meneses</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Serafim</surname>
+							<given-names>T.D.</given-names>
+						</name>
+						<name>
+							<surname>Valenzuela</surname>
+							<given-names>J.G.</given-names>
+						</name>
+						<name>
+							<surname>Cordeiro da Silva</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Oliveira</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Engineering a vector-based pan-Leishmania vaccine for humans: proof of principle</article-title>
+					<source>Scientific reports</source>
+					<volume>10</volume>
+					<issue>1</issue>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/33122717/">https://pubmed.ncbi.nlm.nih.gov/33122717/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Cianci, R. and Franza, L. 2022. Recent advances in vaccine technology and design. <italic>Vaccines</italic> 10(4). doi: 10.3390/vaccines10040624.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cianci</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Franza</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Recent advances in vaccine technology and design</article-title>
+					<source>Vaccines</source>
+					<volume>10</volume>
+					<issue>4</issue>
+					<pub-id pub-id-type="doi">10.3390/vaccines10040624.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Coler, R.N. and Reed, S.G. 2005. Second-generation vaccines against leishmaniasis. <italic>Trends in parasitology</italic> 21(5), 244-249. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/15837614/">https://pubmed.ncbi.nlm.nih.gov/15837614/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Coler</surname>
+							<given-names>R.N.</given-names>
+						</name>
+						<name>
+							<surname>Reed</surname>
+							<given-names>S.G</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Second-generation vaccines against leishmaniasis</article-title>
+					<source>Trends in parasitology</source>
+					<volume>21</volume>
+					<issue>5</issue>
+					<fpage>244</fpage>
+					<lpage>249</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/15837614/">https://pubmed.ncbi.nlm.nih.gov/15837614/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Convit, J., Ulrich, M., Polegre, M.A., Avila, A., Rodríguez, N., Mazzedo, M.I. and Blanco, B. 2004. Therapy of Venezuelan patients with severe mucocutaneous or early lesions of diffuse cutaneous leishmaniasis with a vaccine containing pasteurized Leishmania promastigotes and bacillus Calmette-Guerin: preliminary report. <italic>Memorias do Instituto Oswaldo Cruz</italic> 99(1), 57-62. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/15057348/">https://pubmed.ncbi.nlm.nih.gov/15057348/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Convit</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Ulrich</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Polegre</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Avila</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Mazzedo</surname>
+							<given-names>M.I.</given-names>
+						</name>
+						<name>
+							<surname>Blanco</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Therapy of Venezuelan patients with severe mucocutaneous or early lesions of diffuse cutaneous leishmaniasis with a vaccine containing pasteurized Leishmania promastigotes and bacillus Calmette-Guerin: preliminary report</article-title>
+					<source>Memorias do Instituto Oswaldo Cruz</source>
+					<volume>99</volume>
+					<issue>1</issue>
+					<fpage>57</fpage>
+					<lpage>62</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/15057348/">https://pubmed.ncbi.nlm.nih.gov/15057348/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Daneshvar, H., Hagan, P. and Phillips, R.S. 2003. <italic>Leishmania mexicana</italic> H-line attenuated under pressure of gentamicin, potentiates a Th1 response and control of cutaneous leishmaniasis in BALB/c mice. <italic>Parasite immunology</italic> 25(11-12), 589-596. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/15053780/">https://pubmed.ncbi.nlm.nih.gov/15053780/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Daneshvar</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Hagan</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Phillips</surname>
+							<given-names>R.S</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Leishmania mexicana H-line attenuated under pressure of gentamicin, potentiates a Th1 response and control of cutaneous leishmaniasis in BALB/c mice</article-title>
+					<source>Parasite immunology</source>
+					<volume>25</volume>
+					<issue>11-12</issue>
+					<fpage>589</fpage>
+					<lpage>596</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/15053780/">https://pubmed.ncbi.nlm.nih.gov/15053780/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Dhanda, S.K., Vir, P. and Raghava, G.P.S. 2013. Designing of interferon-gamma inducing MHC class-II binders. <italic>Biology Direct</italic> 8(1), 30. Available at: <ext-link ext-link-type="uri" xlink:href="http://pmc/articles/PMC4235049/">/pmc/articles/PMC4235049/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dhanda</surname>
+							<given-names>S.K.</given-names>
+						</name>
+						<name>
+							<surname>Vir</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Raghava</surname>
+							<given-names>G.P.S</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Designing of interferon-gamma inducing MHC class-II binders</article-title>
+					<source>Biology Direct</source>
+					<volume>8</volume>
+					<issue>1</issue>
+					<issue-part>30</issue-part>
+					<ext-link ext-link-type="uri" xlink:href="http://pmc/articles/PMC4235049/">/pmc/articles/PMC4235049/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Dinc, R. 2022. Leishmania vaccines: The current situation with its promising aspect for the future. <italic>Korean Journal of Parasitology</italic> 60(6), 379-391. doi: 10.3347/kjp.2022.60.6.379.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dinc</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Leishmania vaccines: The current situation with its promising aspect for the future</article-title>
+					<source>Korean Journal of Parasitology</source>
+					<volume>60</volume>
+					<issue>6</issue>
+					<fpage>379</fpage>
+					<lpage>391</lpage>
+					<pub-id pub-id-type="doi">10.3347/kjp.2022.60.6.379.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Dumonteil, E., Jesus, R.S.M., Javier, E.O. and Del Rosario, G.M.M. 2003. DNA vaccines induce partial protection against <italic>Leishmania mexicana</italic>. <italic>Vaccine</italic> 21(17-18), 2161-2168. doi: 10.1016/S0264-410X(02)00769-7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dumonteil</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Jesus</surname>
+							<given-names>R.S.M.</given-names>
+						</name>
+						<name>
+							<surname>Javier</surname>
+							<given-names>E.O.</given-names>
+						</name>
+						<name>
+							<surname>Del Rosario</surname>
+							<given-names>G.M.M</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>DNA vaccines induce partial protection against Leishmania mexicana</article-title>
+					<source>Vaccine</source>
+					<volume>21</volume>
+					<issue>17-18</issue>
+					<fpage>2161</fpage>
+					<lpage>2168</lpage>
+					<pub-id pub-id-type="doi">10.1016/S0264-410X(02)00769-7.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Flórez, M.M., Rodríguez, R., Cabrera, J.A., Robledo, S.M. and Delgado, G. 2021. <italic>Leishmania</italic> spp epitopes in humans naturally resistant to the disease: Working toward a synthetic vaccine. <italic>Frontiers in Cellular and Infection Microbiology</italic> 11. doi: 10.3389/fcimb.2021.631019.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Flórez</surname>
+							<given-names>M.M.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Cabrera</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Robledo</surname>
+							<given-names>S.M.</given-names>
+						</name>
+						<name>
+							<surname>Delgado</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Leishmania spp epitopes in humans naturally resistant to the disease: Working toward a synthetic vaccine</article-title>
+					<source>Frontiers in Cellular and Infection Microbiology</source>
+					<volume>11</volume>
+					<pub-id pub-id-type="doi">10.3389/fcimb.2021.631019.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>González, C.R. <italic>et al</italic>. 1998. Immunogenicity of a <italic>Salmonella typhi</italic> CVD 908 candidate vaccine strain expressing the major surface protein gp63 of <italic>Leishmania mexicana</italic> mexicana. <italic>Vaccine</italic> 16(9-10), 1043-1052. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/9682357/">https://pubmed.ncbi.nlm.nih.gov/9682357/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>González</surname>
+							<given-names>C.R.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>1998</year>
+					<article-title>Immunogenicity of a Salmonella typhi CVD 908 candidate vaccine strain expressing the major surface protein gp63 of Leishmania mexicana mexicana</article-title>
+					<source>Vaccine</source>
+					<volume>16</volume>
+					<issue>9-10</issue>
+					<fpage>1043</fpage>
+					<lpage>1052</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/9682357/">https://pubmed.ncbi.nlm.nih.gov/9682357/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Gonzalez-Galarza, F.F. <italic>et al</italic>. 2020. Allele frequency net database (AFND) 2020 update: gold-standard data classification, open access genotype data and new query tools. <italic>Nucleic Acids Research</italic> 48(D1), D783-D788. Available at: <ext-link ext-link-type="uri" xlink:href="https://academic.oup.com/nar/article/48/D1/D783/5624967">https://academic.oup.com/nar/article/48/D1/D783/5624967</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gonzalez-Galarza</surname>
+							<given-names>F.F.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2020</year>
+					<article-title>Allele frequency net database (AFND) 2020 update: gold-standard data classification, open access genotype data and new query tools</article-title>
+					<source>Nucleic Acids Research</source>
+					<volume>48</volume>
+					<issue>D1</issue>
+					<fpage>D783</fpage>
+					<lpage>D788</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://academic.oup.com/nar/article/48/D1/D783/5624967">https://academic.oup.com/nar/article/48/D1/D783/5624967</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Graña, C. <italic>et al</italic>. 2022. Efficacy and safety of COVID-19 vaccines. <italic>The Cochrane database of systematic reviews</italic> 12(12). Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/36473651/">https://pubmed.ncbi.nlm.nih.gov/36473651/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Graña</surname>
+							<given-names>C.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2022</year>
+					<article-title>Efficacy and safety of COVID-19 vaccines</article-title>
+					<source>The Cochrane database of systematic reviews</source>
+					<volume>12</volume>
+					<issue>12</issue>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/36473651/">https://pubmed.ncbi.nlm.nih.gov/36473651/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Gupta, O., Pradhan, T., Bhatia, R. and Monga, V. 2021. Recent advancements in anti-leishmanial research: Synthetic strategies and structural activity relationships. <italic>European Journal of Medicinal Chemistry</italic> 223. doi: 10.1016/j.ejmech.2021.113606.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gupta</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Pradhan</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Bhatia</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Monga</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Recent advancements in anti-leishmanial research: Synthetic strategies and structural activity relationships</article-title>
+					<source>European Journal of Medicinal Chemistry</source>
+					<volume>223</volume>
+					<pub-id pub-id-type="doi">10.1016/j.ejmech.2021.113606.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Herrera, G. <italic>et al</italic>. 2020. An interactive database of Leishmania species distribution in the Americas. <italic>Scientific Data</italic> 7(1). doi: 10.1038/s41597-020-0451-5.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Herrera</surname>
+							<given-names>G.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2020</year>
+					<article-title>An interactive database of Leishmania species distribution in the Americas</article-title>
+					<source>Scientific Data</source>
+					<volume>7</volume>
+					<issue>1</issue>
+					<pub-id pub-id-type="doi">10.1038/s41597-020-0451-5.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Hwang, W., Lei, W., Katritsis, N.M., MacMahon, M., Chapman, K. and Han, N. 2021. Current and prospective computational approaches and challenges for developing COVID-19 vaccines. <italic>Advanced Drug Delivery Reviews</italic> 172, 249-274. doi: 10.1016/j.addr.2021.02.004.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hwang</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Lei</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Katritsis</surname>
+							<given-names>N.M.</given-names>
+						</name>
+						<name>
+							<surname>MacMahon</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Chapman</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Han</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Current and prospective computational approaches and challenges for developing COVID-19 vaccines</article-title>
+					<source>Advanced Drug Delivery Reviews</source>
+					<volume>172</volume>
+					<fpage>249</fpage>
+					<lpage>274</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.addr.2021.02.004.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Lee, C., Su, B.H. and Tseng, Y.J. 2022. Comparative studies of AlphaFold, RoseTTAFold and Modeller: A case study involving the use of G-protein-coupled receptors. <italic>Briefings in Bioinformatics</italic> 23(5). doi: 10.1093/bib/bbac308.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lee</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Su</surname>
+							<given-names>B.H.</given-names>
+						</name>
+						<name>
+							<surname>Tseng</surname>
+							<given-names>Y.J</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Comparative studies of AlphaFold, RoseTTAFold and Modeller: A case study involving the use of G-protein-coupled receptors</article-title>
+					<source>Briefings in Bioinformatics</source>
+					<volume>23</volume>
+					<issue>5</issue>
+					<pub-id pub-id-type="doi">10.1093/bib/bbac308.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Martinelli, D.D. 2022. <italic>In silico</italic> vaccine design: A tutorial in immunoinformatics. <italic>Healthcare Analytics</italic> 2. doi: 10.1016/j.health.2022.100044.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martinelli</surname>
+							<given-names>D.D</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<source>In silico vaccine design: A tutorial in immunoinformatics. Healthcare Analytics</source>
+					<volume>2</volume>
+					<pub-id pub-id-type="doi">10.1016/j.health.2022.100044.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Moafi, M., Sherkat, R., Taleban, R. and Rezvan, H. 2019. Leishmania vaccines Eentered in clinical trials: A review of literature. <italic>International journal of preventive medicine</italic> 10(1), 1-6. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/31360342/">https://pubmed.ncbi.nlm.nih.gov/31360342/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Moafi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Sherkat</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Taleban</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Rezvan</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Leishmania vaccines Eentered in clinical trials: A review of literature</article-title>
+					<source>International journal of preventive medicine</source>
+					<volume>10</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>6</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/31360342/">https://pubmed.ncbi.nlm.nih.gov/31360342/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Moreira, P.O.L., Nogueira, P.M. and Monte-Neto, R.L. 2023. Next-generation leishmanization: Revisiting molecular targets for selecting genetically engineered live-attenuated leishmania. <italic>Microorganisms</italic> 
+ <italic>2023</italic>, 11(4), 1043. Available at: <ext-link ext-link-type="uri" xlink:href="https://www.mdpi.com/2076-2607/11/4/1043/htm">https://www.mdpi.com/2076-2607/11/4/1043/htm</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Moreira</surname>
+							<given-names>P.O.L.</given-names>
+						</name>
+						<name>
+							<surname>Nogueira</surname>
+							<given-names>P.M.</given-names>
+						</name>
+						<name>
+							<surname>Monte-Neto</surname>
+							<given-names>R.L</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Next-generation leishmanization: Revisiting molecular targets for selecting genetically engineered live-attenuated leishmania</article-title>
+					<source>Microorganisms</source>
+					<comment>2023</comment>
+					<volume>11</volume>
+					<issue>4</issue>
+					<issue-part>1043</issue-part>
+					<ext-link ext-link-type="uri" xlink:href="https://www.mdpi.com/2076-2607/11/4/1043/htm">https://www.mdpi.com/2076-2607/11/4/1043/htm</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Motamedpour, L., Dalimi, A., Pirestani, M. and Ghaffarifar, F. 2020. <italic>In silico</italic> analysis and expression of a new chimeric antigen as a vaccine candidate against cutaneous leishmaniasis. <italic>Iranian Journal of Basic Medical Sciences</italic> 23(11), 1409-1418. doi: 10.22038/ijbms.2020.45394.10561.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Motamedpour</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Dalimi</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Pirestani</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ghaffarifar</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>In silico analysis and expression of a new chimeric antigen as a vaccine candidate against cutaneous leishmaniasis</article-title>
+					<source>Iranian Journal of Basic Medical Sciences</source>
+					<volume>23</volume>
+					<issue>11</issue>
+					<fpage>1409</fpage>
+					<lpage>1418</lpage>
+					<pub-id pub-id-type="doi">10.22038/ijbms.2020.45394.10561.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Moxon, R., Reche, P.A. and Rappuoli, R. 2019. Editorial: Reverse vaccinology. <italic>Frontiers in immunology</italic> 10, 2776. Available at: <ext-link ext-link-type="uri" xlink:href="http://pmc/articles/PMC6901788/">/pmc/articles/PMC6901788/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Moxon</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Reche</surname>
+							<given-names>P.A.</given-names>
+						</name>
+						<name>
+							<surname>Rappuoli</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Editorial: Reverse vaccinology</article-title>
+					<source>Frontiers in immunology</source>
+					<volume>10</volume>
+					<issue-part>2776</issue-part>
+					<ext-link ext-link-type="uri" xlink:href="http://pmc/articles/PMC6901788/">/pmc/articles/PMC6901788/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>PAHO. 2024. <italic>Leishmaniasis: Epidemiological Report of the Americas</italic>. Available at: <ext-link ext-link-type="uri" xlink:href="https://iris.paho.org/handle/10665.2/63165">https://iris.paho.org/handle/10665.2/63165</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>PAHO</collab>
+					</person-group>
+					<year>2024</year>
+					<source>Leishmaniasis: Epidemiological Report of the Americas</source>
+					<ext-link ext-link-type="uri" xlink:href="https://iris.paho.org/handle/10665.2/63165">https://iris.paho.org/handle/10665.2/63165</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Pinart, M. <italic>et al</italic>. 2020. Interventions for American cutaneous and mucocutaneous leishmaniasis. <italic>Cochrane Database of Systematic Reviews</italic> 2020(8). doi: 10.1002/14651858.CD004834.PUB3.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pinart</surname>
+							<given-names>M.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2020</year>
+					<article-title>Interventions for American cutaneous and mucocutaneous leishmaniasis</article-title>
+					<source>Cochrane Database of Systematic Reviews</source>
+					<volume>2020</volume>
+					<issue>8</issue>
+					<pub-id pub-id-type="doi">10.1002/14651858.CD004834.PUB3.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Rafati, S., Shadab, M., Didwania, N., Sabur, A. and Ali, N. 2017. Alternative to chemotherapy-The unmet demand against Leishmaniasis. <italic>Immunol</italic> 8, 1779. Available at: <ext-link ext-link-type="uri" xlink:href="http:/www.frontiersin.org">www.frontiersin.org</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rafati</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Shadab</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Didwania</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Sabur</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ali</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Alternative to chemotherapy-The unmet demand against Leishmaniasis</article-title>
+					<source>Immunol</source>
+					<volume>8</volume>
+					<issue-part>1779</issue-part>
+					<ext-link ext-link-type="uri" xlink:href="http:/www.frontiersin.org">www.frontiersin.org</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Rapin, N., Lund, O., Bernaschi, M. and Castiglione, F. 2010. Computational immunology meets bioinformatics: The use of prediction tools for molecular binding in the simulation of the immune system. <italic>PLOS ONE</italic> 5(4), e9862. Available at: <ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009862">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009862</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rapin</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Lund</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Bernaschi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Castiglione</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Computational immunology meets bioinformatics: The use of prediction tools for molecular binding in the simulation of the immune system</article-title>
+					<source>PLOS ONE</source>
+					<volume>5</volume>
+					<issue>4</issue>
+					<elocation-id>e9862</elocation-id>
+					<ext-link ext-link-type="uri" xlink:href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009862">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009862</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Rappuoli, R. 2000. Reverse vaccinology. <italic>Current opinion in microbiology</italic> 3(5), 445-450. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/11050440/">https://pubmed.ncbi.nlm.nih.gov/11050440/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rappuoli</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>Reverse vaccinology</article-title>
+					<source>Current opinion in microbiology</source>
+					<volume>3</volume>
+					<issue>5</issue>
+					<fpage>445</fpage>
+					<lpage>450</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/11050440/">https://pubmed.ncbi.nlm.nih.gov/11050440/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Rawal, K. <italic>et al</italic>. 2021. Identification of vaccine targets in pathogens and design of a vaccine using computational approaches. <italic>Scientific Reports</italic> 
+ <italic>2021</italic> 11(1), 1-25. Available at: <ext-link ext-link-type="uri" xlink:href="https://www.nature.com/articles/s41598-021-96863-x c">https://www.nature.com/articles/s41598-021-96863-x c</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rawal</surname>
+							<given-names>K.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2021</year>
+					<article-title>Identification of vaccine targets in pathogens and design of a vaccine using computational approaches</article-title>
+					<source>Scientific Reports</source>
+					<comment>2021</comment>
+					<volume>11</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>25</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.nature.com/articles/s41598-021-96863-x c">https://www.nature.com/articles/s41598-021-96863-x c</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Rogers, M.B. <italic>et al</italic>. 2011. Chromosome and gene copy number variation allow major structural change between species and strains of Leishmania. <italic>Genome Research</italic> 21(12), 2129-2142. doi: 10.1101/GR.122945.111.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rogers</surname>
+							<given-names>M.B.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2011</year>
+					<article-title>Chromosome and gene copy number variation allow major structural change between species and strains of Leishmania</article-title>
+					<source>Genome Research</source>
+					<volume>21</volume>
+					<issue>12</issue>
+					<fpage>2129</fpage>
+					<lpage>2142</lpage>
+					<pub-id pub-id-type="doi">10.1101/GR.122945.111.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Rosado-Vallado, M., Mut-Martin, M., Del Rosario García-Miss, M. and Dumonteil, E. 2005. Aluminium phosphate potentiates the efficacy of DNA vaccines against <italic>Leishmania mexicana</italic>. <italic>Vaccine</italic> 23(46-47), 5372-5379. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/16054271/">https://pubmed.ncbi.nlm.nih.gov/16054271/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rosado-Vallado</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Mut-Martin</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Del Rosario García-Miss</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Dumonteil</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Aluminium phosphate potentiates the efficacy of DNA vaccines against Leishmania mexicana</article-title>
+					<source>Vaccine</source>
+					<volume>23</volume>
+					<issue>46-47</issue>
+					<fpage>5372</fpage>
+					<lpage>5379</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/16054271/">https://pubmed.ncbi.nlm.nih.gov/16054271/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Saravia, N.G. <italic>et al</italic>. 2006. Pathogenicity and protective immunogenicity of cysteine proteinase-deficient mutants of <italic>Leishmania mexicana</italic> in non-murine models. <italic>Vaccine</italic> 24(19), 4247-4259. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/16216395/">https://pubmed.ncbi.nlm.nih.gov/16216395/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Saravia</surname>
+							<given-names>N.G.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2006</year>
+					<article-title>Pathogenicity and protective immunogenicity of cysteine proteinase-deficient mutants of Leishmania mexicana in non-murine models</article-title>
+					<source>Vaccine</source>
+					<volume>24</volume>
+					<issue>19</issue>
+					<fpage>4247</fpage>
+					<lpage>4259</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/16216395/">https://pubmed.ncbi.nlm.nih.gov/16216395/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Shams, M. <italic>et al</italic>. [no date]. Engineering a multi-epitope vaccine candidate against Leishmania infantum using comprehensive Immunoinformatics methods. <italic>Biologia</italic> 1, p. 3. Available at: https://doi.org/10.1007/s11756-021-00934-3</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shams</surname>
+							<given-names>M.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<comment>[no date]</comment>
+					<article-title>Engineering a multi-epitope vaccine candidate against Leishmania infantum using comprehensive Immunoinformatics methods</article-title>
+					<source>Biologia</source>
+					<volume>1</volume>
+					<fpage>3</fpage>
+					<lpage>3</lpage>
+					<pub-id pub-id-type="doi">10.1007/s11756-021-00934-3</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Shams, M., Nourmohammadi, H., Majidiani, H., Shariatzadeh, S.A., Asghari, A., Fatollahzadeh, M. and Irannejad, H. 2022. Engineering a multi-epitope vaccine candidate against Leishmania infantum using comprehensive Immunoinformatics methods. <italic>Biologia</italic> 77(1), 277-289. doi: 10.1007/s11756-021-00934-3.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shams</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Nourmohammadi</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Majidiani</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Shariatzadeh</surname>
+							<given-names>S.A.</given-names>
+						</name>
+						<name>
+							<surname>Asghari</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Fatollahzadeh</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Irannejad</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Engineering a multi-epitope vaccine candidate against Leishmania infantum using comprehensive Immunoinformatics methods</article-title>
+					<source>Biologia</source>
+					<volume>77</volume>
+					<issue>1</issue>
+					<fpage>277</fpage>
+					<lpage>289</lpage>
+					<pub-id pub-id-type="doi">10.1007/s11756-021-00934-3.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Singh, G., Pritam, M., Banerjee, M., Singh, A.K. and Singh, S.P. 2020. Designing of precise vaccine construct against visceral leishmaniasis through predicted epitope ensemble: A contemporary approach. <italic>Computational Biology and Chemistry</italic> 86. doi: 10.1016/j.compbiolchem.2020.107259.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Singh</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Pritam</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Banerjee</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Singh</surname>
+							<given-names>A.K.</given-names>
+						</name>
+						<name>
+							<surname>Singh</surname>
+							<given-names>S.P</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Designing of precise vaccine construct against visceral leishmaniasis through predicted epitope ensemble: A contemporary approach</article-title>
+					<source>Computational Biology and Chemistry</source>
+					<volume>86</volume>
+					<pub-id pub-id-type="doi">10.1016/j.compbiolchem.2020.107259.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Tahamtan, A., Charostad, J., Javad, S., Shokouh, H. and Barati, M. 2017. An overview of history, evolution, and manufacturing of various generations of vaccines. <italic>Journal of Archives in Military Medicine</italic> 
+ <italic>2017</italic>
+ <italic>5:3</italic> 5(3), 12315. Available at: <ext-link ext-link-type="uri" xlink:href="https://brieflands.com/articles/jamm-12315.html">https://brieflands.com/articles/jamm-12315.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tahamtan</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Charostad</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Javad</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Shokouh</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Barati</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>An overview of history, evolution, and manufacturing of various generations of vaccines</article-title>
+					<source>Journal of Archives in Military Medicine</source>
+					<comment>2017</comment>
+					<volume>5</volume>
+					<issue>3</issue>
+					<issue-part>12315</issue-part>
+					<ext-link ext-link-type="uri" xlink:href="https://brieflands.com/articles/jamm-12315.html">https://brieflands.com/articles/jamm-12315.html</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Tejeda-Mansir, A., García-Rendón, A. and Guerrero-Germán, P. 2019. Plasmid-DNA lipid and polymeric nanovaccines: a new strategic in vaccines development. <italic>Biotechnology &amp; genetic engineering reviews</italic> 35(1), 46-68. Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/30587085/">https://pubmed.ncbi.nlm.nih.gov/30587085/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tejeda-Mansir</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>García-Rendón</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Guerrero-Germán</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Plasmid-DNA lipid and polymeric nanovaccines: a new strategic in vaccines development</article-title>
+					<source>Biotechnology &amp; genetic engineering reviews</source>
+					<volume>35</volume>
+					<issue>1</issue>
+					<fpage>46</fpage>
+					<lpage>68</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/30587085/">https://pubmed.ncbi.nlm.nih.gov/30587085/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Vivona, S., Gardy, J.L., Ramachandran, S., Brinkman, F.S.L., Raghava, G.P.S., Flower, D.R. and Filippini, F. 2008. Computer-aided biotechnology: from immuno-informatics to reverse vaccinology. <italic>Trends in Biotechnology</italic> 26(4), 190-200. doi: 10.1016/j.tibtech.2007.12.006.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vivona</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Gardy</surname>
+							<given-names>J.L.</given-names>
+						</name>
+						<name>
+							<surname>Ramachandran</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Brinkman</surname>
+							<given-names>F.S.L.</given-names>
+						</name>
+						<name>
+							<surname>Raghava</surname>
+							<given-names>G.P.S.</given-names>
+						</name>
+						<name>
+							<surname>Flower</surname>
+							<given-names>D.R.</given-names>
+						</name>
+						<name>
+							<surname>Filippini</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Computer-aided biotechnology: from immuno-informatics to reverse vaccinology</article-title>
+					<source>Trends in Biotechnology</source>
+					<volume>26</volume>
+					<issue>4</issue>
+					<fpage>190</fpage>
+					<lpage>200</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.tibtech.2007.12.006.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Volpedo, G. <italic>et al</italic>. 2022. Centrin-deficient <italic>Leishmania mexicana</italic> confers protection against New World cutaneous leishmaniasis. <italic>NPJ vaccines</italic> 7(1). Available at: <ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/35236861/">https://pubmed.ncbi.nlm.nih.gov/35236861/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Volpedo</surname>
+							<given-names>G.</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<year>2022</year>
+					<article-title>Centrin-deficient Leishmania mexicana confers protection against New World cutaneous leishmaniasis</article-title>
+					<source>NPJ vaccines</source>
+					<volume>7</volume>
+					<issue>1</issue>
+					<ext-link ext-link-type="uri" xlink:href="https://pubmed.ncbi.nlm.nih.gov/35236861/">https://pubmed.ncbi.nlm.nih.gov/35236861/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>de Vries, H.J.C. and Schallig, H.D. 2022. Cutaneous Leishmaniasis: A 2022 updated narrative review into diagnosis and management developments. <italic>American Journal of Clinical Dermatology</italic> 23(6), 823-840. doi: 10.1007/s40257-022-00726-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>de Vries</surname>
+							<given-names>H.J.C.</given-names>
+						</name>
+						<name>
+							<surname>Schallig</surname>
+							<given-names>H.D</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Cutaneous Leishmaniasis: A 2022 updated narrative review into diagnosis and management developments</article-title>
+					<source>American Journal of Clinical Dermatology</source>
+					<volume>23</volume>
+					<issue>6</issue>
+					<fpage>823</fpage>
+					<lpage>840</lpage>
+					<pub-id pub-id-type="doi">10.1007/s40257-022-00726-8.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Wheeler, R.J. 2021. A resource for improved predictions of Trypanosoma and Leishmania protein three-dimensional structure. <italic>PLoS ONE</italic> 16(11 November). doi: 10.1371/journal.pone.0259871.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wheeler</surname>
+							<given-names>R.J</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>A resource for improved predictions of Trypanosoma and Leishmania protein three-dimensional structure</article-title>
+					<source>PLoS ONE</source>
+					<volume>16</volume>
+					<issue>11 November</issue>
+					<pub-id pub-id-type="doi">10.1371/journal.pone.0259871.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Woolums, A.R. and Swiderski, C. 2021. New approaches to vaccinology made possible by advances in next generation sequencing, bioinformatics and protein modeling. <italic>Current Issues in Molecular Biology</italic> 42, 605-634. doi: 10.21775/cimb.042.605.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Woolums</surname>
+							<given-names>A.R.</given-names>
+						</name>
+						<name>
+							<surname>Swiderski</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>New approaches to vaccinology made possible by advances in next generation sequencing, bioinformatics and protein modeling</article-title>
+					<source>Current Issues in Molecular Biology</source>
+					<volume>42</volume>
+					<fpage>605</fpage>
+					<lpage>634</lpage>
+					<pub-id pub-id-type="doi">10.21775/cimb.042.605.</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Zabala-Peñafiel, A., Todd, D., Daneshvar, H. and Burchmore, R. 2020. The potential of live attenuated vaccines against cutaneous Leishmaniasis. <italic>Experimental Parasitology</italic> 210, 107849. doi: 10.1016/J.EXPPARA.2020.107849.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zabala-Peñafiel</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Todd</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Daneshvar</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Burchmore</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>The potential of live attenuated vaccines against cutaneous Leishmaniasis</article-title>
+					<source>Experimental Parasitology</source>
+					<volume>210</volume>
+					<issue-part>107849</issue-part>
+					<pub-id pub-id-type="doi">10.1016/J.EXPPARA.2020.107849.</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

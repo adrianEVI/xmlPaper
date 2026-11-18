@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biolex</journal-id>
+			<journal-title-group>
+				<journal-title>Biolex</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-5634</issn>
+			<issn pub-type="epub">2007-5545</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36796/biolex.v17i28.436</article-id>
+			<article-id pub-id-type="other">00118</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La revalidación del conocimiento de embarque en México: una barrera no arancelaria violatoria de la Ley Aduanera y contraria al Acuerdo sobre Facilitación del Comercio de la OMC</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>The Revalidation of the Bill of Lading in Mexico: A Non-Tariff Barrier Violating the Customs Law and Contrary to the WTO Trade Facilitation Agreement</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-4307-5160</contrib-id>
+					<name>
+						<surname>Casas Fraire</surname>
+						<given-names>Ignacio</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Profesor de tiempo completo</role>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Profesor de tiempo completo en el Tecnológico de Monterrey campus Chihuahua. Doctor en Ciencias de la Administración por la Universidad Nacional Autónoma de México. ignacio.casas@tec.mx</institution>
+					<institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+					<institution content-type="orgname">Universidad Nacional Autónoma de México</institution>
+					<country country="MX">Mexico</country>
+					<email>ignacio.casas@tec.mx</email>
+				</aff>
+			</contrib-group>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>31</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>17</volume>
+			<issue>28</issue>
+			<elocation-id>e436</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>22</day>
+					<month>10</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>19</day>
+					<month>12</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>La revalidación del conocimiento de embarque marítimo, Bill of Lading (BL), en las operaciones aduaneras mexicanas, continúa siendo un requisito obligatorio, a pesar de haber sido eliminada del marco legal desde el 2009. Este artículo examina dicha práctica como una barrera no arancelaria que contradice tanto la legislación aduanera mexicana como los compromisos asumidos en el Acuerdo sobre Facilitación del Comercio (AFC) de la Organización Mundial del Comercio (OMC). Adoptando como base analítica la Teoría Institucional de Douglass North, el estudio explora cómo la permisividad institucional y las estructuras informales de poder han permitido que las líneas navieras y los recintos fiscalizados impongan condiciones contractuales privadas que eluden los procedimientos aduaneros formales. A través de una metodología cualitativa que combina análisis normativo y documentación de casos, la investigación revela que esta práctica afecta de manera desproporcionada a las micro, pequeñas y medianas empresas (MIPyMES), genera costos logísticos adicionales y debilita la seguridad jurídica en el proceso de despacho aduanero. El artículo concluye que la persistencia de la revalidación del BL (a través de mecanismos no previstos por la ley) constituye una inconsistencia legal e institucional que obstaculiza la eficiencia comercial. Se proponen reformas regulatorias e institucionales urgentes, incluyendo supervisión por parte de la autoridad fiscal, eliminación de mandatos privados de revalidación y el fortalecimiento del Estado de derecho en el sistema logístico portuario mexicano.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The revalidation of the Bill of Lading (BL) in Mexican customs operations remains a mandatory step despite having been removed from the legal framework since 2009. This article examines the revalidation practice as a non-tariff barrier that contradicts both Mexico’s customs legislation and its commitments under the World Trade Organization (WTO) Trade Facilitation Agreement (TFA). Adopting Douglass North’s Institutional Theory as the analytical foundation, the study explores how institutional permissiveness and informal power structures have allowed shipping lines and customs terminals to enforce private contractual conditions that bypass formal customs procedures. Through a qualitative methodology combining regulatory analysis and case documentation, the research reveals that this practice disproportionately affects small and medium-sized enterprises (SMEs), generates additional logistical costs, and undermines legal certainty in the customs clearance process. The paper concludes that the continued requirement of BL revalidation (through practices not grounded in law) constitutes a legal and institutional inconsistency that impedes trade efficiency. It proposes urgent regulatory and institutional reforms, including oversight by tax authorities, elimination of private revalidation mandates, and reinforcement of the rule of law in Mexico’s port logistics system.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>comercio internacional</kwd>
+				<kwd>regulaciones de importación</kwd>
+				<kwd>logística de transporte</kwd>
+				<kwd>documentación de transporte</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keyword:</title>
+				<kwd>international trade</kwd>
+				<kwd>import regulations</kwd>
+				<kwd>transport logistics</kwd>
+				<kwd>transport documentation</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="1"/>
+				<equation-count count="0"/>
+				<ref-count count="29"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>I. Introducción</title>
+			<p>En el contexto del comercio internacional contemporáneo, la eficiencia aduanera no sólo representa un imperativo técnico-administrativo, sino que constituye un factor estructural clave para garantizar la competitividad de los países en el escenario global. En economías abiertas como la mexicana, donde el comercio exterior representa un componente esencial del producto interno bruto (PIB) y un canal estratégico de integración internacional, la eficacia de los procedimientos aduaneros incide directamente en los costos logísticos, los tiempos de entrega, la atracción de inversiones y la confianza de los actores económicos. En este marco, toda práctica que introduzca demoras injustificadas, costos innecesarios o requisitos extralegales representa una amenaza no solo para el desarrollo logístico del país, sino para la credibilidad del Estado de derecho y los compromisos internacionales asumidos por México.</p>
+			<p>Una de las prácticas más cuestionadas por los actores del comercio exterior mexicano es la exigencia de la revalidación del conocimiento de embarque, también conocido como <italic>Bill of Lading</italic> (BL). Este procedimiento consiste en la colocación de un sello físico o la emisión de una instrucción electrónica por parte de las navieras, mediante el cual se certifica que el consignatario ha cumplido con el pago total de los adeudos por el servicio de transporte internacional. Aunque podría parecer un acto administrativo menor, su exigencia tiene efectos sustantivos en el proceso aduanero, ya que condiciona la liberación de las mercancías depositadas en los recintos fiscalizados. Esta situación genera retrasos operativos, sobrecostos logísticos y una cadena de incertidumbres que afectan la planificación y ejecución de las operaciones comerciales.</p>
+			<p>Lo que agrava esta situación es el hecho de que dicha exigencia carece de sustento legal desde hace más de una década. A partir de una serie de reformas a la Ley Aduanera de 2013, así como de la derogación de las Reglas Generales de Comercio Exterior (RGCE) aplicables hasta 2009, se eliminó expresamente la obligación de presentar un conocimiento de embarque revalidado como requisito para efectuar el despacho de mercancías. De igual forma, se suprimieron las disposiciones que obligaban a los recintos fiscalizados a verificar dicha revalidación antes de autorizar la entrega de las mercancías. Sin embargo, en la práctica, esta exigencia persiste como una condición impuesta unilateralmente por ciertos actores privados, particularmente las navieras y operadores de recintos fiscalizados sin respaldo en disposición alguna de carácter general vigente.</p>
+			<p>Esta disonancia entre el marco legal y las prácticas operativas vigentes constituye un fenómeno que merece un análisis múltiple: jurídico, institucional, económico y logístico. Desde una perspectiva normativa, se trata de una exigencia ilegal que vulnera los principios de legalidad y seguridad jurídica garantizados por la Constitución Política de los Estados Unidos Mexicanos. Desde un enfoque institucional, revela la existencia de arreglos informales consolidados, que se sostienen gracias a estructuras de poder, omisiones regulatorias y una cultura de tolerancia frente a prácticas abusivas. Desde un ángulo económico, representa un sobrecosto sistemático que afecta la competitividad de las empresas importadoras, especialmente de las micro, pequeñas y medianas empresas (MIPyMES), que no siempre tienen capacidad de absorción financiera o poder de negociación. Desde la óptica logística, introduce cuellos de botella innecesarios que retrasan los procesos de entrega, incrementan los costos por almacenaje y demoras, además de obstaculizar la integración eficiente de las cadenas de suministro.</p>
+			<sec>
+				<title>1.1 Delimitación conceptual del acto de revalidación</title>
+				<p>Para efectos de este estudio, la revalidación del conocimiento de embarque (BL) se entiende como la confirmación que emite la línea naviera o su agente consignatario -ya sea mediante sello físico, o bien, mediante anotación o instrucción electrónica- de que el consignatario ha cumplido pagos o requisitos contractuales vinculados al transporte marítimo. En la práctica, esta validación habilita la autorización de entrega y, con ello, el retiro de la mercancía en el recinto fiscalizado, condicionando de facto el inicio del despacho aduanero aun cuando no constituye una formalidad vigente.</p>
+				<p>En términos de precisión: (i) el conocimiento de embarque es el documento en el que consta el contrato de transporte marítimo, título representativo de las mercancías y constancia de recibo a bordo (LNCM, art. 129)<xref ref-type="fn" rid="fn1"><sup>1</sup></xref>; (ii) el despacho aduanero es el conjunto de actos y formalidades ante la autoridad para la entrada o salida legal de mercancías (Ley Aduanera)<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>; y (iii) el recinto fiscalizado es un inmueble de un particular autorizado por el SAT para prestar servicios de manejo, almacenaje y custodia bajo control aduanero, sin potestad normativa para crear requisitos adicionales (Ley Aduanera, art. 14-A).</p>
+				<p>La revalidación es relevante para el análisis cuando su ausencia impide o retrasa materialmente la entrega, aun si el importador cumple con sus obligaciones aduaneras. Esta ubicación previa o paralela al despacho explica su potencial para generar fricciones sistémicas: incertidumbre, desplazamiento del inicio del despacho y costos por demoras y almacenajes.</p>
+			</sec>
+			<sec>
+				<title><italic>1.1.1 Naturaleza del acto y su ubicación en la cadena de liberación</italic></title>
+				<p>Desde un punto de vista analítico, la revalidación del BL no se examina aquí como una obligación contractual aislada del transporte marítimo, sino como un requisito que, en la práctica, se inserta en el punto crítico de la cadena logística: el momento de la liberación/entrega de la carga bajo custodia en un recinto fiscalizado. Por ello, el criterio central de delimitación es funcional: existe revalidación relevante para este estudio cuando la ausencia de dicha validación impide o retrasa materialmente la entrega de la mercancía, aun cuando el importador cumpla con sus obligaciones aduaneras y documentales frente a la autoridad.</p>
+				<p>Esta ubicación (previa o paralela al despacho) explica por qué la práctica puede generar fricciones sistémicas: desplaza el inicio del despacho aduanero o la disponibilidad efectiva de la mercancía, incrementa la incertidumbre operativa y abre espacio para cobros y gestiones cuya trazabilidad normativa no es clara. En consecuencia, el debate no se agota en si el transporte genera derechos y obligaciones entre privados, sino en si el diseño institucional del entorno portuario permite que un requisito privado condicione el acceso a la mercancía en una etapa que, por su impacto comercial, funciona como un “cuello de botella” del comercio exterior.</p>
+			</sec>
+			<sec>
+				<title><italic>1.1.2 Medidas y barreras no arancelarias en el marco de la Organización Mundial del Comercio</italic></title>
+				<p>En el marco del Sistema Multilateral de Comercio, la Organización Mundial del Comercio (OMC) emplea el lenguaje de “medidas” o “barreras” no arancelarias para referirse a restricciones al comercio distintas de los aranceles, tales como premisos previos, avisos automáticos, prohibiciones, regulaciones sanitarias, entre otras. En la práctica académica y técnica, se utiliza una distinción útil: una medida no arancelaria puede ser legítima que persiga objetivos de política pública, mientras que se habla de barrera no arancelaria cuando la medida, por su diseño o aplicación, opera como obstáculo injustificado o desproporcionado al comercio.</p>
+				<p>En términos operativos, este estudio adopta una definición amplia compatible con la clasificación internacional de referencia: son medidas no arancelarias aquellas disposiciones, requisitos o prácticas (distintas al arancel) que producen efectos económicos sobre la importación, ya sea elevando el costo de cumplimiento, incrementando tiempos de liberación o reduciendo previsibilidad.<xref ref-type="fn" rid="fn3"><sup>3</sup></xref> Bajo este enfoque, la revalidación del BL se analiza como una posible barrera no arancelaria cuando agrega pasos documentales y condicionamientos que alteran costo y tiempo de la importación sin integrarse de forma clara al procedimiento aduanero formal.</p>
+			</sec>
+			<sec>
+				<title><italic>1.1.3 Facilitación del comercio: formalidades, documentación y cobros</italic></title>
+				<p>El Acuerdo sobre Facilitación del Comercio (AFC) de la OMC aporta el marco normativo internacional más pertinente para evaluar prácticas que incrementan fricción en frontera. En particular, el artículo 10 del AFC orienta a los Miembros a revisar y simplificar formalidades y requisitos de documentación, de modo que sean necesarios y no más gravosos de lo indispensable para el control. A su vez, las disciplinas sobre “derechos y cargos” (artículo 6) buscan evitar cobros opacos o desproporcionados en conexión con la importación, reforzando transparencia y racionalidad económica.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>
+				</p>
+				<p>Este enfoque se complementa con la lógica del GATT 1994, artículo VIII, que establece que los derechos y cargas distintos de aranceles e impuestos internos cobrados “en conexión con” la importación deben limitarse al costo aproximado del servicio prestado y que las formalidades deben tender a simplificarse.<xref ref-type="fn" rid="fn5"><sup>5</sup></xref> Así, el marco conceptual permite tratar como potencial restricción no arancelaria a un requisito que, sin ser arancel: (i) condiciona la liberación, (ii) se asocia a cobros, y (iii) se traduce en demoras y costos incrementales para el importador.</p>
+			</sec>
+			<sec>
+				<title><italic>1.1.4 Instituciones formales e informales: costos de transacción y permisividad</italic></title>
+				<p>La persistencia de la revalidación, aun sin sustento normativo vigente, puede explicarse desde la teoría institucional. En la perspectiva de Douglass North, las instituciones, entendidas como reglas formales e informales, organizan incentivos y reducen la incertidumbre; cuando fallan en esa función, aumentan los costos de transacción y se consolidan arreglos informales que llegan a dominar la práctica. En este contexto, la revalidación opera como una institución informal con eficacia operativa, impulsada por incentivos privados asociados a cobros y al control de la liberación de la carga, y reforzada por la permisividad institucional expresada en tolerancia, vacíos regulatorios o aplicación débil de las reglas.</p>
+				<p>Adicionalmente, la economía de la regulación y la organización industrial permiten problematizar la asimetría entre importadores y actores con capacidad de condicionar la liberación. En contextos de regulación económica, es frecuente que los sectores regulados desarrollen mecanismos para influir o capturar arreglos institucionales en su favor, especialmente cuando el usuario del servicio enfrenta altos costos de cambio o información incompleta. Esta lectura es consistente con la concentración de poder operativo en nodos de infraestructura crítica (terminales, recintos, navieras) y con el impacto diferencial sobre mipymes, que suelen tener menor capacidad para absorber demoras y cargos.</p>
+			</sec>
+			<sec>
+				<title><italic>1.1.5 El tiempo como barrera comercial y su traducción logística</italic></title>
+				<p>En la literatura económica del comercio, el tiempo se ha conceptualizado como una forma de barrera: demoras en frontera y en la liberación equivalen a costos que reducen competitividad, afectan cumplimiento y encarecen transacciones.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref> En el ámbito portuario, esta lógica se materializa a través de efectos encadenados: pérdida de periodos libres, generación de demoras de contenedor, almacenajes y congestión operativa. Por ello, el análisis de la revalidación no se limita a describir un trámite, sino a rastrear su incidencia en tiempos y costos observables que determinan el desempeño logístico de la importación.</p>
+			</sec>
+			<sec>
+				<title><italic>1.1.6 Criterio de identificación empírica: mecanismo causal y variables observables</italic></title>
+				<p>Con base en los conceptos anteriores, la revalidación se examina a través de un mecanismo causal verificable. Primero, se exige como condición operativa para autorizar la liberación; después, su ausencia provoca la retención o el retraso en la entrega de la mercancía. A continuación, esta interrupción se traduce en costos y demoras adicionales, tales como cargos documentales, almacenajes, demoras de contenedor y servicios de gestión. Finalmente, el efecto se proyecta sobre la operatividad portuaria, al generar congestión, acumulación de contenedores y desplazamiento del inicio del despacho aduanero. Estas dimensiones se desarrollan en la sección metodológica mediante variables e indicadores sustentados en evidencia pública y técnica, como tarifarios, documentos operativos, testimonios y un caso de estudio, lo que permite valorar si la práctica introduce una carga administrativa adicional con capacidad de funcionar como barrera no arancelaria.</p>
+			</sec>
+			<sec>
+				<title>1.2 Pregunta de investigación e hipótesis</title>
+				<p>Esta investigación tiene como objetivo contestar la siguiente pregunta: ¿en qué medida la exigencia de revalidación del conocimiento de embarque marítimo, impuesta por actores privados como condición para liberar mercancías en recintos fiscalizados, constituye una medida no arancelaria de facto que incrementa costos y demoras, y resulta incompatible con el AFC de la OMC y el marco legal aduanero mexicano?</p>
+				<p>Se plantea como hipótesis que si la revalidación del BL no está prevista como formalidad aduanera vigente y aun así se exige en la práctica como requisito para liberar la mercancía, entonces introduce pasos documentales, demoras y cobros adicionales que elevan los costos de transacción y operan como una carga administrativa injustificada con potencial de funcionar como barrera no arancelaria, contraria a las disciplinas del AFC y explicable por la persistencia de arreglos informales en términos de la teoría institucional de Douglass North.</p>
+			</sec>
+			<sec>
+				<title>1.3. Objetivo general y objetivos específicos</title>
+				<p>Objetivo general: analizar la revalidación del conocimiento de embarque en importaciones marítimas en México como práctica extralegal que condiciona la liberación de mercancías, a fin de evaluar si sus efectos económicos y operativos son compatibles con la Ley Aduanera y con los compromisos de facilitación del comercio del AFC de la OMC, interpretando su persistencia desde la teoría institucional.</p>
+				<p>Objetivos específicos:</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>Delimitar conceptualmente el acto de revalidación del BL y distinguirlo de las formalidades del despacho aduanero, identificando a los actores que lo exigen y el punto en que se inserta en la cadena de liberación.</p>
+						</list-item>
+						<list-item>
+							<p>Reconstruir la evolución normativa del requisito en México y demostrar la ausencia de sustento jurídico vigente para su exigencia como condición de entrega.</p>
+						</list-item>
+						<list-item>
+							<p>Documentar, con evidencia pública y técnica, los mecanismos mediante los cuales la revalidación se impone operativamente en recintos fiscalizados y los supuestos en que su ausencia retrasa la entrega.</p>
+						</list-item>
+						<list-item>
+							<p>Estimar y describir los efectos de la revalidación en tiempos de liberación, costos logísticos y previsibilidad operativa, con énfasis en impactos diferenciados sobre MIPyMEs.</p>
+						</list-item>
+						<list-item>
+							<p>Evaluar la compatibilidad de la práctica con el AFC y con disciplinas de la OMC relacionadas con formalidades, documentación, transparencia y cargos en frontera.</p>
+						</list-item>
+						<list-item>
+							<p>Explicar la persistencia de la revalidación como arreglo institucional informal, analizando incentivos, asimetrías de poder y costos de transacción desde el enfoque de Douglass North.</p>
+						</list-item>
+					</list>
+				</p>
+			</sec>
+			<sec>
+				<title>1.4. Alcances y delimitaciones del estudio</title>
+				<p>Alcance material: el estudio se centra en la revalidación del conocimiento de embarque marítimo (BL) en operaciones de importación por vía marítima en México, específicamente cuando funciona como condición operativa para la liberación/entrega de la mercancía en recintos fiscalizados y afecta el inicio o continuidad del despacho aduanero.</p>
+				<p>Alcance espacial e institucional: el análisis se ubica en el entorno logístico-portuario mexicano, considerando la interacción entre líneas navieras (o sus agentes), recintos fiscalizados/terminales y los sujetos que realizan el despacho, bajo el marco de Ley Aduanera y los compromisos internacionales asumidos por México en la OMC, en particular el Acuerdo sobre Facilitación del Comercio (AFC).</p>
+				<p>Alcance temporal: se enfatiza el periodo posterior a la eliminación normativa del requisito (2009 en adelante), con atención a su persistencia operativa y a la evolución de prácticas documentales y cobros asociados.</p>
+				<p>Alcance analítico: el estudio evalúa la revalidación como práctica extralegal con efectos sobre tiempo, costo y previsibilidad. La interpreta desde la teoría institucional de Douglass North, distinguiendo entre reglas formales e informales y su impacto en costos de transacción. Asimismo, se contrasta su lógica con estándares de la OMC relacionados con formalidades, documentación y cargos.</p>
+				<p>Delimitaciones:</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>No se analizan controversias individuales ni se formulan conclusiones sobre responsabilidades civiles/mercantiles específicas entre particulares; el enfoque es institucional y regulatorio.</p>
+						</list-item>
+						<list-item>
+							<p>No se estima el impacto macroeconómico con modelos econométricos; se trabaja con evidencia documental y técnica y, en su caso, estimaciones ilustrativas de costos/tiempos a nivel operativo.</p>
+						</list-item>
+						<list-item>
+							<p>No se aborda de manera exhaustiva el desempeño de todas las aduanas o puertos. Se prioriza la cadena marítimo-portuaria donde se observa la exigencia de revalidación como condición de entrega.</p>
+						</list-item>
+						<list-item>
+							<p>No se evalúan en detalle otras medidas no arancelarias ajenas a la revalidación, se incluyen solo como marco comparativo para ubicar el fenómeno dentro de las categorías disciplinadas por la OMC.</p>
+						</list-item>
+					</list>
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="methods">
+			<title>II. Metodología</title>
+			<p>La presente investigación se desarrolló bajo un enfoque cualitativo de tipo exploratorio-analítico, centrado en el estudio de una práctica aduanera persistente (la revalidación del conocimiento de embarque), cuya vigencia operativa contrasta con su exclusión del marco legal mexicano desde 2009. La metodología se estructura en dos niveles complementarios: normativo y empírico. En primer lugar, se realizó un análisis jurídico-sistemático de la legislación aduanera mexicana (Ley Aduanera, su reglamento, y Reglas Generales de Comercio Exterior), así como de los compromisos internacionales asumidos por México en el marco del Acuerdo sobre Facilitación del Comercio de la OMC, particularmente en sus artículos 1 y 10. Asimismo, se examinó la evolución normativa de la figura de la revalidación documental desde su introducción en la Ley Aduanera de 1981, así como su establecimiento en las Reglas de Carácter General en Materia de Comercio Exterior de 2002 hasta su supresión en 2009, a fin de demostrar su falta de sustento jurídico actual.</p>
+			<p>En segundo lugar, se incorporó un análisis empírico documental basado en evidencia pública y accesible emitida por recintos fiscalizados y líneas navieras operando en puertos mexicanos, tales como Altamira Terminal Portuaria y empresas como Hamburg Süd, MSC y ZIM. Estos documentos fueron evaluados como prueba de la persistencia de mandatos contractuales privados que subordinan la entrega de mercancías a la obtención de un documento revalidado, lo cual configura una desviación práctica del marco legal vigente. La información recolectada fue contrastada con la teoría institucional de Douglass North, permitiendo explicar cómo normas informales (sostenidas por intereses privados) logran prevalecer sobre las normas formales del derecho positivo. Este enfoque teórico-metodológico permitió no solo identificar una barrera no arancelaria ilegal, sino también comprender los factores institucionales que explican su resistencia al cambio y su impacto desproporcionado sobre las mipymes importadoras.</p>
+			<sec>
+				<title>2.1 Estrategia de evidencia y variables observables</title>
+				<p>Con el fin de responder a la pregunta de investigación y evaluar la hipótesis, se integró una matriz de evidencia que vincula fuentes documentales, observaciones operativas y estimaciones de costo/tiempo. Esta estrategia busca mostrar de manera trazable cómo la revalidación funciona como condición previa a la entrega, así como los efectos logísticos y económicos que genera.</p>
+				<p>
+					<table-wrap id="t1">
+						<label>Tabla 1</label>
+						<caption>
+							<title><italic>Matriz de evidencia (resumen)</italic></title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;"><bold>Tipo de evidencia</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;"><bold>Fuente</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;"><bold>Qué demuestra</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px; width: 180px;"><bold>Uso analítico</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Normativa (derecho positivo)</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Ley Aduanera, Reglamento, RGCE y    reformas/derogaciones.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Que la revalidación dejó de ser requisito formal    del despacho; delimita la esfera pública.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Contraste de norma <italic>de jure</italic> v.s práctica <italic>de    facto</italic>; principio de legalidad.</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Documentos operativos públicos</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Comunicados y requisitos de recintos    fiscalizados y navieras.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Persistencia de la exigencia como    condición de entrega y/o programación operativa.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Prueba documental de la imposición    extralegal.</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Tarifas y estructuras de cargos</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Tarifarios publicados y cargos asociados.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Costos inducidos por demoras    imputables a trámites previos al despacho.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Estimación de sobrecostos y efectos    multiplicadores en cadena logística.</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Testimonios/entrevistas</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Importadores, agentes aduanales y transportistas    (entrevistas semiestructuradas).</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Tiempos típicos de gestión (24-48 h) y    cuellos de botella operativos asociados.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Triangulación y validación cualitativa    de la práctica.</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Caso de estudio</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Importación real (contenedor 40") con    desglose de costos.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">Materialización del impacto económico por    agotamiento de periodos libres y cargos adicionales.</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">Ilustración de magnitud y distribución    del impacto (MIPyMES).</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p><italic>Fuente</italic>: elaboración propia con datos de la investigación.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Variables/indicadores observables:</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>Tiempo adicional atribuible a revalidación: horas/días desde solicitud hasta liberación documental.</p>
+						</list-item>
+						<list-item>
+							<p>Riesgo de agotamiento del periodo libre de almacenaje en recinto (días) y generación de cargos por almacenaje.</p>
+						</list-item>
+						<list-item>
+							<p>Riesgo de incurrir en demoras por retraso en devolución de contenedor (tarifa diaria).</p>
+						</list-item>
+						<list-item>
+							<p>Cargos asociados a “revalidación”, “demoras” u otros conceptos vinculados a la liberación.</p>
+						</list-item>
+						<list-item>
+							<p>Impacto diferenciado por tamaño de empresa (MIPyMES v.s grandes importadores) en capacidad de absorción y negociación.</p>
+						</list-item>
+					</list>
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="results">
+			<title>III. Resultados</title>
+			<sec>
+				<title>3.1 Marco legal y normativo</title>
+				<p>Dado que no existe una definición jurídica formal del término “revalidación” del documento de transporte, este puede entenderse como el procedimiento realizado por una empresa de transporte marítimo o aéreo, mediante el cual se certifica que el consignatario ha cubierto los pagos correspondientes a los servicios prestados, tales como el flete internacional, depósitos en garantía, limpieza de contenedor u otros cargos asociados. Esta certificación puede efectuarse mediante la colocación de un sello físico sobre el conocimiento de embarque impreso, o bien, a través de una instrucción electrónica. El procedimiento se aplica tanto a embarques unitarios (un solo contenedor) como, en ciertos casos, a múltiples contenedores amparados bajo un mismo conocimiento de embarque, también a un contendedor con mercancías consolidadas de diferentes importadores en el que se genera una revalidación por cada BL individual (BL <italic>house</italic>) por cada consignatario.</p>
+				<p>La práctica de exigir la revalidación del documento de transporte tiene su origen en una disposición contenida en la Ley Aduanera de 1981, específicamente en el artículo 25, el cual establecía la documentación obligatoria para el despacho aduanero de las mercancías. En la fracción I, inciso b) se señalaba de forma explícita la necesidad de presentar el conocimiento de embarque en tráfico marítimo o la guía en tráfico aéreo, ambos revalidados por la empresa porteadora como requisito indispensable para completar el trámite.<xref ref-type="fn" rid="fn7"><sup>7</sup></xref>
+				</p>
+				<p>Dicha disposición se fundamentaba en una norma anterior: el Código Aduanero de los Estados Unidos Mexicanos de 1951, en cuyo artículo 21 establecía que cuando las mercancías mantuvieran adeudos con los porteadores, las aduanas debían retenerlas por un máximo de quince días, siempre que existiera una solicitud escrita por parte del acreedor. Si en ese plazo no se recibía una orden judicial, la retención cesaba y las mercancías quedaban a disposición del consignatario. Además, en las aduanas interiores, la retención se realizaba de oficio por los almacenistas hasta que se acreditara que no existían adeudos por concepto de fletes, lo que evidenciaba un marco normativo orientado a proteger prioritariamente los intereses de las empresas transportistas.<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>
+				</p>
+				<p>Posteriormente, la Ley Aduanera de 1995 mantuvo esta figura jurídica mediante dos artículos clave: el 36, fracción I, inciso b), que enumeraba los documentos que debían presentarse anexos al pedimento para efectos del despacho aduanero, entre los cuales se exigía que el conocimiento de embarque o la guía aérea estuvieran revalidados por la naviera o transportista correspondiente; y el artículo 162, fracción IV, que establecía que el agente aduanal estaba obligado a presentar junto con el pedimento un conocimiento de embarque debidamente revalidado, formalizando así el requerimiento tanto para particulares como para autoridades aduaneras<xref ref-type="fn" rid="fn9"><sup>9</sup></xref>.</p>
+				<p>Las primeras Reglas de Carácter General en Materia de Comercio Exterior (RCGMCE) ―hoy simplemente Reglas Generales de Comercio Exterior (RGCE)―, publicadas en el 2002, establecieron, de manera explícita, la obligatoriedad de la revalidación del documento de transporte. En particular, la regla 2.6.2. disponía que, para efectos de los artículos 36, fracción I, inciso b) y 162, fracción VII, inciso b), de la Ley Aduanera, el conocimiento de embarque en tráfico marítimo o la guía aérea en tráfico aéreo anexos al pedimento, debían estar debidamente revalidados por la empresa transportista o el agente naviero. Esta disposición otorgaba sustento jurídico a una práctica operativa que ya se encontraba arraigada en el comercio exterior mexicano. En ese mismo año, la regla 2.4.6. de las RCGMCE complementó esta exigencia al prever mecanismos alternativos para su cumplimiento. Señalaba que, para efectos del artículo 36, fracción I, inciso b) y de la propia regla 2.6.2., los agentes navieros generales o consignatarios de buques podían realizar la revalidación del conocimiento de embarque mediante medios electrónicos, siempre que dichos sistemas estuvieran interconectados con las aduanas a través de su asociación o cámara gremial.<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>
+				</p>
+				<p>Posteriormente, en 2003, las RCGMCE reafirmaron la obligatoriedad del procedimiento. La regla 2.6.2. reiteró que el documento de transporte debía ser revalidado y la regla 2.3.4. estableció que los recintos fiscalizados tenían la obligación de verificar dicha revalidación en el momento en que el agente aduanal solicitara la entrega de mercancías para su despacho aduanero.<xref ref-type="fn" rid="fn11"><sup>11</sup></xref>
+				</p>
+				<p>Ambas disposiciones fueron derogadas en 2009: la primera quedó sin efectos el 29 de abril con la publicación de nuevas reglas,<xref ref-type="fn" rid="fn12"><sup>12</sup></xref> mientras que la segunda fue eliminada el 6 de agosto de ese mismo año, mediante una disposición que suprimió expresamente la exigencia de presentar documentos de transporte revalidados.<xref ref-type="fn" rid="fn13"><sup>13</sup></xref> A partir de las RCGMCE de 2010, esta exigencia dejó de figurar formalmente en la normativa vigente.</p>
+				<p>Finalmente, la entrada en vigor de la nueva Ley Aduanera de 2013 (publicada en el Diario Oficial de la Federación el 9 de diciembre de ese año) significó la eliminación expresa de la obligación de presentar un documento de transporte revalidado. En particular, la fracción I, inciso b) del artículo 36-A ya no incluía dicho requisito, lo que implicó que tanto importadores como agentes aduanales quedaran liberados de esa exigencia. Aunque esta obligación ya había sido eliminada de manera práctica mediante modificaciones previas a las RCGMCE, la Ley Aduanera aún la contenía de forma tácita, lo cual generaba incertidumbre normativa.<xref ref-type="fn" rid="fn14"><sup>14</sup></xref> Con esta reforma se armonizó el marco legal con la práctica administrativa. A su vez, la RCGMCE 2.2.3., para 2010, señalaba que los recintos fiscalizados debían verificar la autenticidad de los datos del pedimento, cotejando la información del contenedor con la copia del conocimiento de embarque, pero sin exigir que este estuviera revalidado.<xref ref-type="fn" rid="fn15"><sup>15</sup></xref> No obstante, a pesar de que los fundamentos legales fueron derogados, en la práctica la exigencia del documento revalidado persiste, lo que sugiere una motivación económica más que jurídica por parte de las navieras y operadores logísticos.</p>
+				<p>Pese a ello, los recintos fiscalizados continúan exigiendo, a petición de las líneas navieras, el documento revalidado como condición para liberar la mercancía para que el agente aduanal inicie con el despacho de importación. Esta disonancia entre norma y práctica da lugar a una tensión jurídica significativa: lo que en derecho ya no es requerido, en la práctica sigue siendo impuesto, con consecuencias logísticas, financieras y de legalidad. Lo anterior se da por la subordinación que existe por los recintos fiscalizados hacia las líneas navieras.</p>
+				<p>Los recintos fiscalizados son empresas privadas que operan mediante una autorización o concesión otorgada por la autoridad aduanera, y cuya función principal consiste en resguardar mercancías de comercio exterior en sus instalaciones hasta que estas sean reclamadas para su despacho por el importador, a través de su agente aduanal, apoderado aduanal o representante legal aduanero (artículo 14 y 14-A de la Ley Aduanera). Su modelo de negocio se sustenta en el volumen de mercancías que reciben y en la prestación de servicios como manejo, custodia, almacenaje y maniobras, por los cuales aplican tarifas específicas. Dado que la rentabilidad de estos recintos depende directamente de la cantidad de carga que albergan, resulta fundamental para ellos mantener relaciones comerciales estratégicas con las líneas navieras, con el fin de ser seleccionados como punto de depósito para las mercancías que arriban al país en sus medios de transporte. En esta dinámica contractual se configura una relación de dependencia operativa, en la que los recintos fiscalizados tienden a adoptar una posición subordinada frente a las navieras, debido al poder de decisión que estas ejercen sobre el destino de las mercancías, según percepción de los entrevistados (agentes aduanales, importadores, agentes de carga, etc.).</p>
+				<p>Esa relación de subordinación puede constatarse en documentos públicos donde se evidencia que los recintos fiscalizados acatan instrucciones directas de sus socios comerciales (las líneas navieras) para retener mercancías hasta que se acredite la inexistencia de adeudos pendientes mediante la revalidación del conocimiento de embarque. Un ejemplo de ello se encuentra en la página oficial de Altamira Terminal Portuaria (ATP), donde se publica un comunicado emitido por la naviera Hamburg Süd. En dicho documento, Hamburg Süd instruye expresamente a la terminal a no liberar las mercancías de importación depositadas por su empresa, salvo que se haya autorizado previamente su entrega por Hamburg Süd México S. A. de C. V., conforme a los contratos de servicios celebrados entre ambas partes. El comunicado recuerda que ATP mantiene dos vínculos jurídicos distintos: el primero, como depositario de mercancías frente a Hamburg Süd y el segundo, como concesionario del gobierno federal en calidad de recinto fiscalizado. En este contexto, Hamburg Süd exige el cumplimiento de ambas obligaciones: por un lado, la observancia de la Ley Aduanera como concesionario federal y por otro, el respeto al contrato mercantil con la naviera, que prohíbe la entrega de mercancías sin una revalidación previa.<xref ref-type="fn" rid="fn16"><sup>16</sup></xref> Altamira Terminal Portuaria (ATP) ha recibido instrucciones similares por parte de Mediterranean Shipping Company (MSC)<xref ref-type="fn" rid="fn17"><sup>17</sup></xref> y Maersk Line<xref ref-type="fn" rid="fn18"><sup>18</sup></xref>, quienes exigen que la entrega de mercancías a los importadores se realice únicamente cuando el conocimiento de embarque (BL) haya sido debidamente revalidado.</p>
+				<p>Una situación análoga se presenta en la solicitud enviada por Altamarítima S. A. de C. V. a la Administración Portuaria Integral de Veracruz S. A. de C. V. (APIVER), así como a la Altamira Terminal Portuaria (ATP), en la cual se instruye lo siguiente:</p>
+				<p>…las mercancías de importación depositadas por nuestras líneas navieras representadas: APL, CMA-CGM, GLOVIS, GRIMALDI, HOEGH, ZIM y/o cualquier otra línea con buques, contenedores, vehículos y/o carga consignados a Altamarítima en la terminal APIVER y ATP, solo sean entregadas al consignatario cuando hayan sido liberadas/autorizadas por los representantes de Altamarítima. </p>
+				<p>En ambos documentos (enviados por separado) se advierte que tanto APIVER como ATP no pueden (o no deben) entregar la mercancía sin la revalidación previa por parte de las navieras representadas por Altamarítima. De hacerlo, estaría incumpliendo el contrato de depósito suscrito entre APIVER y ATP y las representadas de Altamarítima. Asimismo, se subraya que el contrato mercantil celebrado entre ambas partes establece que, en caso de incumplimiento, APIVER y ATP serán responsables del valor de las mercancías en depósito, del importe de los fletes y accesorios al transporte marítimo no cobrados, así como del pago de daños y perjuicios derivados de su negligencia.<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>
+				</p>
+				<p>El comunicado establece de manera expresa la improcedencia de retirar las mercancías sin la revalidación del conocimiento de embarque, argumentando lo siguiente:</p>
+				<p>
+					<list list-type="alpha-lower">
+						<list-item>
+							<p>Se incumpliría el contrato de depósito entre APIVER y LAS REPRESENTADAS DE ALTAMARITIMA</p>
+						</list-item>
+						<list-item>
+							<p>En el contrato de transporte marítimo (conocimiento de embarque) se tiene estipulado que para la entrega de la mercancía se requiere la revalidación por parte de la línea naviera o de sus agentes navieros consignatarios en los términos del artículo 24 de la Ley de Navegación.</p>
+						</list-item>
+						<list-item>
+							<p>El artículo 98 de la Ley de Navegación establece que la falta de pago del flete marítimo y accesorios da el derecho a la línea naviera y/o Agente Consignatario de retener las mercancías, lo cual no podría ocurrir si APIVER entregara la mercancía sin la autorización de LAS REPRESENTADAS DE ALTAMARITIMA y por consiguiente APIVER sería el responsable de los saldos por cobrar que la naviera no pudiera hacer efectivos al Consignatario.</p>
+						</list-item>
+						<list-item>
+							<p>En una interpretación armónica de la Ley Aduanera se establece en su artículo 36-A que quienes importen mercancías están obligados a transmitir en documento electrónico o digital como anexos al pedimento la información contenida en el conocimiento de embarque en marítimo, ya que de lo contrario el agente o apoderado aduanal estarían imposibilitados a cumplir con la obligación que les impone el artículo 162 de la misma Ley, respecto a formar un archivo electrónico de cada uno de los pedimentos con la información transmitida como parte de sus anexos conforme a los artículos 6o., 36 y 36-A de la presente Ley<xref ref-type="fn" rid="fn20"><sup>20</sup></xref>.</p>
+						</list-item>
+					</list>
+				</p>
+				<p>Como se puede apreciar, las empresas navieras imponen a los recintos fiscalizados la exigencia de contar con el conocimiento marítimo revalidado como condición para permitir la entrega de mercancías al agente aduanal. A través de esta revalidación, el importador acredita ante el recinto fiscalizado que no mantiene adeudos con la línea naviera, lo cual habilita el inicio del proceso de liberación de la mercancía. </p>
+				<p>Ante esta instrucción, los recintos fiscalizados carecen de margen de maniobra si no acatan la instrucción de exigir el documento de transporte revalidado. Corren el riesgo de que sus socios comerciales (las navieras) decidan no depositar las mercancías en sus instalaciones. Las navieras, en este contexto, recurren a preceptos legales del pasado para sustentar una práctica que responde principalmente a intereses económicos. Por su parte, los recintos fiscalizados dependen del volumen de carga que reciben para mantener su rentabilidad, ya que solo mediante el depósito de mercancías pueden facturar servicios como resguardo, maniobras, custodia y almacenaje a los importadores. Esta relación asimétrica refuerza la subordinación operativa de los recintos frente al poder de negociación de las navieras.</p>
+			</sec>
+			<sec>
+				<title>3.2. Dimensión operativa y logística</title>
+				<p>Desde el punto de vista logístico, la revalidación se presenta como una etapa intermedia entre la llegada de la mercancía y su ingreso al proceso formal de despacho aduanero. Consiste en colocar un sello físico o instrucción electrónica por parte de la naviera que certifica el cumplimiento de pagos. Sin este paso, el agente aduanal no puede solicitar la programación de la revisión física en el recinto fiscalizado ni avanzar en la elaboración del pedimento.</p>
+				<p>En términos operativos y derivado de las entrevistas con importadores, agentes aduanales y transportistas, el tiempo requerido para obtener la revalidación oscila entre 24 y 48 horas si se tiene toda la documentación (BL original o copia<xref ref-type="fn" rid="fn21"><sup>21</sup></xref>) para presentarse ante la naviera. Este retraso se suma al tiempo que la mercancía permanece en el recinto fiscalizado antes del inicio del despacho, lo que genera una pérdida efectiva del periodo de gracia que otorgan los recintos fiscalizados para evitar cobros de almacenaje (legalmente de siete días). Cuando el proceso de revalidación consume dos o más días, el margen de maniobra del importador se reduce considerablemente, incrementando la probabilidad de incurrir en cargos adicionales por almacenaje.</p>
+				<p>Además, este retraso tiene efectos multiplicadores en la cadena logística: afecta la programación del transporte terrestre, retrasa la devolución del contenedor a la naviera (lo que puede generar demoras de contenedor, otro cargo que va desde los 110 hasta los 200 dólares estadounidenses (USD) por día y muchas veces más) y compromete los plazos contractuales del importador con sus clientes o distribuidores. El costo de oportunidad del tiempo perdido se traduce en ineficiencia sistémica para el comercio exterior.</p>
+				<p>Aunque la mayoría de las líneas navieras no publican abiertamente sus tarifas de demoras, algunos operadores logísticos sí ofrecen acceso parcial a sus estructuras de costos a través de sus portales oficiales. A continuación, se presentan algunos de los cargos que han sido publicados en sus respectivos sitios web.</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>Hapag-Lloyd. Después de 7 días libres, entre días 8-14 la tarifa es de $155 USD por día. Luego desde, el día 15 en adelante, $200 USD por día para contenedor de 20 pies estándar<xref ref-type="fn" rid="fn22"><sup>22</sup></xref>.</p>
+						</list-item>
+						<list-item>
+							<p>Maersk. En operaciones CY Port Moves, los cargos se aplican una vez concluido el periodo libre de siete días. A partir del octavo día, los costos diarios se estructuran de la siguiente forma: para contenedores de 20, 40 y 45 pies, la naviera cobra $160 USD por día, entre los días 8 y 10 y $180 USD por día entre los días 11 y 14; $190 USD por día del día 15 al 21, y $200 USD por día a partir del día 22 en adelante<xref ref-type="fn" rid="fn23"><sup>23</sup></xref>.</p>
+						</list-item>
+						<list-item>
+							<p>OOCL. Los cargos por día de <italic>demurrage</italic> y/o <italic>detention</italic> aplican después del periodo gratuito (<italic>free time</italic>) y son los siguientes: contenedores secos de 20’/40’/40’HQ, $110 USD por día a partir del día 7 de la descarga; contenedores <italic>Reefer</italic>, $170 USD por día después del período gratuito de 5 días.<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>
+							</p>
+						</list-item>
+					</list>
+				</p>
+			</sec>
+			<sec>
+				<title>3.3. Dimensión económica</title>
+				<p>La práctica de la revalidación implica también un impacto económico directo. Si bien es cierto que muchas de las navieras no tienen un cobro por el concepto de “revalidación” <italic>per se</italic>, este se encuentra asociado a otros conceptos como los cobrados por CMA-CGM: </p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p><italic>Container inspection fees and survey fees</italic> = $85.00 USD</p>
+						</list-item>
+						<list-item>
+							<p><italic>Import documentation fee</italic> = $45.00 USD</p>
+						</list-item>
+						<list-item>
+							<p><italic>Serenity premium Container Guarantee destination</italic> = $39.00 USD </p>
+						</list-item>
+					</list>
+				</p>
+				<p>También, como el caso de la naviera Hapag-Lloyd mediante el <italic>Freightforwarder Noatum Logistics</italic>, quienes por revalidación imponen los siguientes conceptos:</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p><italic>Destination Delivery Charge</italic> = $384.00 USD</p>
+						</list-item>
+						<list-item>
+							<p><italic>Ams Service Fee</italic> = $5.00 USD</p>
+						</list-item>
+						<list-item>
+							<p><italic>Destination Charges</italic> = $50.00 USD </p>
+						</list-item>
+						<list-item>
+							<p><italic>Destination Hanger</italic> = $50.00 USD</p>
+						</list-item>
+						<list-item>
+							<p><italic>Cargo Insurance</italic> = $75.00 USD</p>
+						</list-item>
+					</list>
+				</p>
+				<p>Dicho cobro puede ir desde los $169.00 USD como CMA-CGM o hasta los $564.00 USD como en caso de Noatum-Hapag-Lloyd por cada revalidación, dependiendo de la empresa y del puerto de arribo. Con base en un promedio de 366.50 [(169+564) = 733 / 2] dólares por contenedor y considerando que en 2023 se importaron más de 3.1 millones de contenedores ―suponiendo que se revalidaron la misma cantidad de conocimientos de embarque―, el ingreso generado solo por este concepto podría superar 1136 millones de dólares anuales.<xref ref-type="fn" rid="fn25"><sup>25</sup></xref>
+				</p>
+				<p>Desde una perspectiva económica más amplia, estos costos adicionales encarecen las importaciones, afectando la competitividad del sector productivo nacional. Para las MIPyMES que constituyen más del 90 % de las unidades económicas en México, estos sobrecostos pueden representar una barrera insalvable para participar en el comercio internacional en condiciones equitativas.</p>
+				<p>Para ilustrar con mayor claridad los costos derivados de esta práctica, se presenta, a continuación, un caso de estudio real que refleja los efectos financieros de un retraso por revalidación.</p>
+				<p>Caso de estudio: importación de un contenedor de 40 pies con mercancías generales (no perecederos):</p>
+				<p>Una empresa importadora clasificada como PyME recibe un contenedor de 40 pies con mercancía general, el cual arriba al Puerto de Ensenada B. C. Conforme a lo establecido por la Ley Aduanera (artículo 15), el importador cuenta con 7 días naturales libres de almacenaje y, adicionalmente, dispone de 12 días libres para la devolución del contenedor vacío a la naviera, sin incurrir en cargos por demoras, según lo estipulado en el contrato de transporte (<italic>Bill of Lading</italic>) celebrado con la naviera CMA-CGM.</p>
+				<p>Al tratarse de una empresa de reciente creación y sin experiencia previa en operaciones de comercio exterior, desconocía el procedimiento de revalidación del conocimiento de embarque. Esto provocó un retraso significativo en la gestión documental, ya que, aunque el proveedor remitió el BL directamente al cliente final, no se inició oportunamente el trámite de revalidación ante la naviera. Como resultado, el contenedor permaneció en el recinto fiscalizado durante un periodo de 15 días, excediendo tanto el plazo libre de almacenaje en la aduana, así como el tiempo para la devolución del equipo libre de demoras de contenedor, 12 días. Esta omisión derivó en cargos adicionales por concepto de almacenaje y demoras, afectando negativamente los costos logísticos de la operación.</p>
+				<p>El retraso en la presentación del conocimiento de embarque original tuvo consecuencias económicas significativas para la empresa importadora, reflejadas en los siguientes conceptos:</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>Almacenaje: se agotaron los 7 días libres de almacenaje establecidos por la Ley Aduanera. Como resultado, el importador incurrió en 8 días adicionales de almacenaje, con un costo aproximado de $1740.00 pesos mexicanos (MXN) diarios, lo que representa un total de $13 920.00 MXN.</p>
+						</list-item>
+						<list-item>
+							<p>Demoras de contenedor: de conformidad con el contrato de transporte celebrado con la naviera CMA-CGM, el periodo libre de demoras era de 12 días. Al excederse este plazo en 3 días, se generaron cargos por demoras a una tarifa de $172.00 USD por día, lo que suma un total de $516.00 USD.</p>
+						</list-item>
+						<list-item>
+							<p>Revalidación del conocimiento de embarque: Adicionalmente, se sumó el cobro por la revalidación del BL, con un costo de $169.00 USD, más los costos operativos derivados de la intervención del agente aduanal y la coordinación logística, los cuales pueden variar dependiendo del proveedor de servicios.</p>
+						</list-item>
+					</list>
+				</p>
+				<p>Resumen del impacto económico</p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>Costo por almacenaje: $13 920.00 MXN</p>
+						</list-item>
+						<list-item>
+							<p>Costo por demoras de contenedor: $516.00 USD o 10 062.00 MXN.</p>
+						</list-item>
+						<list-item>
+							<p>Costo por revalidación: $169.00 USD o 3925.00 MXN.</p>
+						</list-item>
+					</list>
+				</p>
+				<p>Conversión de dólares a pesos mexicanos (tipo de cambio: $19.50 MXN/USD)</p>
+				<p>Costo total: $13 920.00 + $3295.00 + $10 062.00 = $27 277.00 MXN</p>
+				<p>Este caso evidencia que un retraso aparentemente menor, generado por un trámite sin fundamento legal, puede implicar costos adicionales cercanos a los 30 mil pesos mexicanos por contenedor, sin contar los efectos secundarios en la cadena logística como la pérdida de confianza del cliente o las afectaciones contractuales.</p>
+				<p>Este tipo de sobrecostos son especialmente gravosos para las MIPMES, que operan con márgenes financieros más reducidos y con menor capacidad de absorción de imprevistos. En consecuencia, la revalidación no solo representa una ineficiencia operativa, sino una barrera sistémica que perjudica desproporcionadamente a los actores económicos con menor poder de negociación.</p>
+			</sec>
+			<sec>
+				<title>3.4. Dimensión institucional</title>
+				<p>La persistencia de la revalidación, a pesar de su derogación legal, revela fallas estructurales en el diseño y aplicación del marco institucional del comercio exterior mexicano. Desde la perspectiva de la teoría institucional de Douglass North<xref ref-type="fn" rid="fn26"><sup>26</sup></xref>, las instituciones constituyen el conjunto de reglas (formales e informales) que estructuran la interacción humana y determinan los incentivos y restricciones del comportamiento económico y político. Su función central es reducir la incertidumbre en el intercambio y permitir la cooperación social mediante la creación de expectativas estables. Sin embargo, North advierte que las instituciones no cambian únicamente por la modificación de las reglas formales, sino cuando los incentivos y las percepciones de los actores se transforman. En este caso, la práctica de la revalidación del conocimiento de embarque, aunque formalmente eliminada del ordenamiento jurídico, se mantiene viva en la esfera informal porque los actores involucrados (principalmente navieras y recintos fiscalizados) obtienen beneficios económicos directos de su aplicación y no enfrentan sanciones efectivas ni incentivos contrarios que los impulsen a modificar su conducta. La estructura de incentivos, por tanto, permanece intacta, reproduciendo una norma informal más fuerte que la legalmente vigente.</p>
+				<p>De acuerdo con North, las instituciones informales (costumbres, prácticas y convenciones) tienden a perdurar incluso cuando las reglas formales cambian, debido a que están ancladas en rutinas, creencias y relaciones de poder. Esta resistencia al cambio institucional se acentúa cuando el aparato estatal carece de capacidad coercitiva o voluntad política para imponer las nuevas reglas. En el caso mexicano, la autoridad aduanera federal, a cargo de la Administración Nacional de Aduanas de México (ANAM), dependiente de la Secretaría de Hacienda, ha mostrado una conducta pasiva y permisiva, absteniéndose de ejercer plenamente su función reguladora y sancionadora. Esta omisión, en términos de North, erosiona la credibilidad del marco institucional y refuerza la persistencia de acuerdos informales que sustituyen al derecho positivo, generando una dualidad normativa donde las reglas escritas pierden legitimidad frente a las reglas practicadas.<xref ref-type="fn" rid="fn27"><sup>27</sup></xref>
+				</p>
+				<p>La coexistencia de normas formales y prácticas informales opuestas aumenta los costos de transacción y reduce la previsibilidad del sistema aduanero. Los usuarios del comercio exterior enfrentan un entorno incierto en el que las decisiones no dependen del cumplimiento de la ley, sino de arreglos discrecionales y prácticas no reguladas, lo cual distorsiona la competencia y desalienta la inversión. Para North, cuando las instituciones no logran minimizar la incertidumbre ni garantizar la aplicación imparcial de las reglas, el desempeño económico se estanca y el marco institucional pierde su capacidad de coordinar eficientemente la actividad productiva y comercial.<xref ref-type="fn" rid="fn28"><sup>28</sup></xref>
+				</p>
+				<p>En consecuencia, la persistencia de la revalidación refleja una falla del Estado en su función institucional más esencial: garantizar la congruencia entre las reglas formales y los incentivos reales. Esta incongruencia no solo debilita la autoridad del Estado mexicano en materia aduanera, sino que mina la confianza en el sistema normativo y en la eficacia del Estado de derecho, pilares indispensables para la competitividad y la facilitación del comercio internacional.</p>
+			</sec>
+			<sec>
+				<title>3.5. Dimensión internacional</title>
+				<p>México es signatario del AFC de la Organización Mundial del Comercio, el cual establece, entre otros principios, que todo trámite aduanero debe tener base legal, perseguir un fin legítimo, ser proporcional y lo menos restrictivo posible. En este sentido, la revalidación del BL no cumple ninguno de estos requisitos.</p>
+				<p>La práctica de exigir la revalidación del conocimiento de embarque como condición previa para el despacho aduanero en México se encuentra en abierta contradicción con el artículo 10 del Acuerdo sobre Facilitación del Comercio<xref ref-type="fn" rid="fn29"><sup>29</sup></xref> (AFC) de la OMC<xref ref-type="fn" rid="fn30"><sup>30</sup></xref>. Este artículo establece que los Miembros deben revisar y simplificar continuamente sus formalidades y requisitos documentales, asegurando que estos sean proporcionales, eficientes y que no se mantengan si ya no resultan necesarios. La revalidación fue eliminada formalmente del marco jurídico desde 2009, sin embargo, continúa aplicándose por las navieras y los recintos fiscalizados, generando retrasos, costos adicionales y distorsiones operativas. </p>
+				<p>Esta exigencia, carente de fundamento legal y sin una función técnica indispensable, representa una medida más restrictiva de lo necesario, vulnerando los principios de reducción de tiempos y costos, aceptación de documentos electrónicos y operatividad de la ventanilla única establecidos en el AFC. En consecuencia, la persistencia de esta práctica refleja una disonancia institucional que no solo compromete la eficiencia del sistema aduanero nacional, sino que también coloca a México en potencial incumplimiento de sus compromisos multilaterales en materia de facilitación del comercio. La existencia de prácticas informales, no registradas y no sancionadas, proyecta debilidad institucional y desincentiva la participación de nuevos operadores en el comercio exterior mexicano.</p>
+			</sec>
+			<sec>
+				<title>3.6. Dimensión estructural y política</title>
+				<p>Finalmente, el mantenimiento de la revalidación como práctica institucionalizada revela la existencia de estructuras de poder consolidadas en el ámbito portuario y logístico mexicano. Las navieras, en tanto actores globales con alto poder de mercado, han logrado imponer sus propias condiciones contractuales, operativas y financieras sin que exista una regulación efectiva por parte del Estado.</p>
+				<p>La alta concentración del mercado naviero, donde cinco empresas concentran más del 65 % el tráfico mundial, se traduce en una capacidad real para imponer términos desfavorables a los importadores. Esta dinámica se acentúa en puertos con menor competencia o supervisión institucional. La asimetría entre los operadores privados y los usuarios del comercio exterior es particularmente perjudicial para las empresas de menor escala.</p>
+				<p>De igual forma, la ausencia de una política pública clara que prohíba explícitamente esta práctica, o que al menos sancione su imposición indebida, permite que los incentivos económicos para mantener la revalidación continúen sin obstáculos. Esta falta de regulación también impide que los usuarios puedan apelar o denunciar estas exigencias, perpetuando un ciclo de indefensión y sobrecostos.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>IV. Complicidad e indulgencia de parte de las autoridades aduaneras</title>
+			<p>En los últimos años, a través de distintos canales institucionales y foros públicos, diversos usuarios del comercio exterior han manifestado de forma reiterada la necesidad de erradicar prácticas comerciales innecesarias, como la exigencia de la revalidación del conocimiento de embarque. A pesar de la visibilidad del problema y del debate generado en el ámbito legislativo y administrativo, las autoridades aduaneras han mantenido una actitud permisiva e incluso complaciente frente a estas irregularidades. A continuación, se presentan ejemplos concretos que evidencian la inercia institucional frente a esta problemática.</p>
+			<p>1. <bold>Iniciativa legislativa de 2008</bold>. El 29 de abril de 2008, los diputados Marco Antonio Peyrot Solís y Gerardo Buganza Salmerón, del Grupo Parlamentario del Partido Acción Nacional (PAN), presentaron en la Cámara de Diputados una iniciativa para expedir una nueva Ley de Navegación y Comercio Marítimos. Entre sus objetivos se incluía corregir deficiencias normativas y fortalecer la marina mercante nacional, así como establecer un marco jurídico moderno y competitivo. De manera específica, se proponía prohibir que los agentes marítimos impusieran cargos adicionales a consignatarios o destinatarios por la revalidación de conocimientos de embarque u otros documentos marítimos, reconociendo esta práctica como una carga injustificada para los operadores logísticos.<xref ref-type="fn" rid="fn31"><sup>31</sup></xref>
+			</p>
+			<p>2. <bold>Consulta nacional de la Secretaría de Economía (2016).</bold> En dicho ejercicio, se identificaron múltiples factores que obstaculizan la competitividad del comercio exterior mexicano. Entre ellos, se destacó la persistencia de la revalidación del conocimiento marítimo como un procedimiento costoso e innecesario, junto con prácticas como las maniobras obligatorias para contenedores vacíos y los cobros por limpieza de contenedores. Aunque estas exigencias no están respaldadas por la normativa aduanera vigente, siguen siendo impuestas por las navieras y los recintos fiscalizados, afectando la planeación logística de los importadores. En respuesta, agentes aduanales propusieron eliminar formalmente la revalidación, asignar la responsabilidad del alojamiento de contenedores a las navieras y prohibir el cobro obligatorio por limpieza como condición para la liberación de la mercancía.<xref ref-type="fn" rid="fn32"><sup>32</sup></xref>
+			</p>
+			<p>3. <bold>Punto de acuerdo del PRI (2018).</bold> El 1 de agosto de 2018, el Grupo Parlamentario del Partido Revolucionario Institucional presentó un punto de acuerdo ante el Congreso de la Unión, exhortando a la Secretaría de Hacienda y Crédito Público y a la Secretaría de Economía a adoptar medidas urgentes para eliminar barreras al comercio exterior. Esta solicitud surgió en el contexto de la guerra comercial iniciada por Estados Unidos contra México y hacía referencia explícita a la revalidación del conocimiento de embarque como un trámite que debía ser digitalizado y simplificado. Asimismo, se instó a suprimir la exigencia de garantías previas para la entrega de contenedores y se pidió a las líneas navieras mayor transparencia en sus tarifas y la eliminación de cobros anticipados injustificados.<xref ref-type="fn" rid="fn33"><sup>33</sup></xref>
+			</p>
+			<p>4. <bold>Propuesta del PAN en el Senado (2018).</bold> El 29 de noviembre del mismo año, el Grupo Parlamentario del PAN propuso modificar la fracción V del artículo 24 de la Ley de Navegación y Comercio Marítimos. Esta disposición otorga a los agentes navieros la facultad de revalidar conocimientos de embarque y entregar mercancías en nombre de las navieras. La iniciativa planteó eliminar esta atribución, argumentando que la revalidación carece de justificación técnica o legal y genera demoras innecesarias en el despacho aduanero, que pueden extenderse hasta por 48 horas. El objetivo de la propuesta era reducir los tiempos logísticos, incrementar la competitividad de los puertos mexicanos y suprimir una de las barreras más persistentes al comercio exterior.<xref ref-type="fn" rid="fn34"><sup>34</sup></xref>
+			</p>
+			<p>A pesar de estos esfuerzos legislativos y de las múltiples alertas emitidas por actores del sector privado, la práctica de exigir la revalidación del conocimiento de embarque continúa vigente en la operación cotidiana. Estos ejemplos muestran que, si bien el problema ha sido ampliamente diagnosticado y discutido en distintos niveles del aparato gubernamental, las autoridades han optado por una postura pasiva que ha permitido la continuidad de prácticas claramente contrarias al marco legal vigente y a los compromisos internacionales en materia de facilitación del comercio. Esta actitud de indulgencia y omisión institucional contribuye a perpetuar un entorno logístico ineficiente, opaco y costoso, especialmente perjudicial para las micro, pequeñas y medianas empresas.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>V. Consideraciones finales</title>
+			<p>La persistencia de la revalidación del conocimiento de embarque evidencia una disonancia institucional entre el marco jurídico formal y las prácticas operativas vigentes. Desde la perspectiva de la teoría institucional de North, esta situación es resultado de una dependencia de la trayectoria, donde estructuras de poder consolidadas perpetúan prácticas ineficientes. El poder de las navieras y la permisividad de las autoridades mexicanas refuerzan este esquema que representa una barrera estructural para la modernización del comercio exterior en el país.</p>
+			<p>Esta práctica representa una contradicción sistémica entre el marco jurídico vigente, los compromisos internacionales suscritos por México y las prácticas operativas impuestas por actores privados. A pesar de que la legislación aduanera ha eliminado expresamente la obligación de presentar documentos de transporte revalidados, esta exigencia persiste como una práctica cotidiana en los puertos marítimos y recintos fiscalizados del país, convirtiéndose en un obstáculo estructural que limita la competitividad, eficiencia y transparencia del comercio exterior de México.</p>
+			<p>Desde una perspectiva jurídica, la revalidación ha dejado de tener sustento desde hace más de una década. Las reformas a la Ley Aduanera de 2013 y la derogación de reglas complementarias en 2009 eliminaron cualquier obligación normativa respecto a la revalidación del BL. Sin embargo, la persistencia de esta práctica revela un desfase grave entre la norma formal (<italic>de jure</italic>) y la práctica (<italic>de facto</italic>). Este fenómeno puede ser entendido a través de la teoría institucional de Douglass North, que señala cómo los arreglos informales, sustentados en incentivos económicos, pueden perdurar incluso cuando las reglas formales cambian. En este caso, las navieras y recintos fiscalizados actúan como actores con poder de mercado que mantienen exigencias extralegales para garantizar ingresos adicionales, sin que exista un mecanismo estatal efectivo que fiscalice o sancione dicha conducta.</p>
+			<p>En términos operativos y logísticos, la revalidación se traduce en tiempos adicionales de despacho y costos innecesarios que afectan la eficiencia del sistema aduanero. El análisis del proceso aduanero revela que este trámite puede demorar entre 24 y 48 horas, lo que incrementa el riesgo de incurrir en cargos por almacenaje y demoras en la devolución de contenedores. Esta situación genera incertidumbre en la planeación logística de los importadores, impacta negativamente la cadena de suministro y reduce la capacidad de las empresas mexicanas, especialmente las MIPyMES para competir en condiciones de igualdad en el mercado internacional.</p>
+			<p>Desde un enfoque económico, el cobro por revalidación ha dado lugar a un negocio millonario. Con más de 3.1 millones de contenedores importados en 2023 y un costo promedio de 366.50 dólares por revalidación, las navieras y <italic>Freight Forwarders</italic> han generado ingresos estimados en más de 1136 millones de dólares por este concepto. Se trata de un cobro que no tiene justificación legal ni técnica, y cuya permanencia está motivada exclusivamente por el beneficio económico de quienes lo imponen. Aunado a esto, la ausencia de regulación sobre tarifas máximas, así como la inexistencia de mecanismos de supervisión institucional, colocan a los importadores en una situación de vulnerabilidad, afectando la transparencia y formalidad del sistema.</p>
+			<p>Desde la óptica del comercio internacional, la revalidación del BL en México constituye una violación directa al Acuerdo sobre Facilitación del Comercio (AFC) de la OMC. Este instrumento multilateral establece que los procedimientos documentales deben tener fundamento legal, ser proporcionales, transparentes y necesarios para el fin que persiguen. </p>
+			<p>La revalidación no cumple con ninguno de estos principios: fue eliminada del marco legal, no responde a una necesidad técnica del despacho aduanero, impone costos desproporcionados y carece de transparencia. En consecuencia, su persistencia no solo compromete el cumplimiento de los compromisos internacionales asumidos por México, sino que también daña la reputación del país como destino confiable para la inversión y el comercio global.</p>
+			<p>El problema evidencia una falla institucional debido a que la autoridad aduanera ha adoptado una postura pasiva frente a la imposición extralegal de la revalidación. No existen acciones contundentes de fiscalización ni sanciones hacia las empresas navieras que siguen exigiendo este trámite. Además, no se han desarrollado mecanismos para que los operadores logísticos puedan denunciar estas prácticas ni se ha promovido una política pública clara para su erradicación. Esta omisión institucional consolida la percepción de impunidad en el sistema y desalienta la transición hacia un comercio más moderno, eficiente y legalmente regulado.</p>
+			<p>El impacto de esta práctica no se distribuye de forma homogénea, ya que las pequeñas y medianas empresas, que representan el grueso del sector productivo nacional, enfrentan mayores dificultades para absorber estos costos inesperados. Muchas de ellas carecen de líneas de crédito, financiamiento o poder de negociación frente a las navieras, por lo que deben asumir de forma directa los sobrecostos logísticos derivados de la revalidación. Esta desigualdad acentúa las brechas entre empresas grandes y pequeñas, perpetúa barreras estructurales al comercio y limita las posibilidades de crecimiento e internacionalización del sector MIPyMES.</p>
+			<p>A nivel macroeconómico, los costos asociados a la revalidación y su impacto en los tiempos de despacho se reflejan en un encarecimiento de las importaciones, lo que puede incidir directamente en los precios al consumidor final. En un entorno de inflación global y competencia intensa en los mercados, cualquier sobrecosto logístico representa una desventaja estratégica para las economías que buscan fortalecer su presencia en cadenas globales de valor. La revalidación del BL, como práctica informal, constituye una barrera no arancelaria que limita la capacidad de México para integrarse eficazmente en los flujos comerciales internacionales.</p>
+			<p>Desde el punto de vista de la política comercial y la gobernanza del sistema portuario, la persistencia de la revalidación evidencia la debilidad del Estado frente a los actores privados con poder de mercado. En lugar de promover una regulación equitativa, transparente y eficiente, las autoridades han permitido que ciertos sectores mantengan prácticas que benefician intereses particulares en detrimento del interés público. Este desequilibrio institucional debe corregirse mediante una intervención decidida del Estado, que garantice el respeto al marco jurídico, sancione los abusos de poder y promueva la transformación estructural del sistema aduanero nacional.</p>
+			<p>La problemática de la revalidación también debe analizarse en el contexto de la digitalización y modernización de los procesos aduaneros. A pesar de avances importantes como la implementación de la Ventanilla Única de Comercio Exterior (VUCEM) y los Comprobantes de Valor Electrónico (COVE), la persistencia de trámites físicos, como la revalidación del BL, pone en evidencia la existencia de un rezago estructural que impide el aprovechamiento pleno de las herramientas tecnológicas. En la era del comercio digital, las prácticas basadas en sellos físicos, autorizaciones manuales y procesos burocráticos deben ser reemplazadas por sistemas automatizados que garanticen eficiencia, seguridad y trazabilidad documental.</p>
+			<p>Finalmente, el caso de la revalidación del conocimiento de embarque no debe entenderse como un problema aislado, sino como un síntoma de una problemática mayor: la existencia de un sistema aduanero que aún convive con prácticas informales, carente de mecanismos efectivos de supervisión, y con debilidades institucionales profundas que impiden la consolidación de un comercio verdaderamente facilitado, transparente y competitivo. Esta situación requiere una reforma estructural que vaya más allá de los aspectos normativos e incluya la transformación de las relaciones de poder en el sistema logístico, el fortalecimiento de las capacidades institucionales del Estado y el empoderamiento de los usuarios del comercio exterior.</p>
+			<p>La revalidación del conocimiento de embarque constituye una práctica ilegal, costosa y regresiva que debe ser eliminada de forma definitiva del sistema aduanero mexicano. Su erradicación no solo contribuirá a mejorar los tiempos y costos del comercio internacional, sino que también fortalecerá el Estado de derecho, la transparencia y la equidad en el funcionamiento del sistema portuario y aduanero nacional. Para ello, se requiere voluntad política, coordinación interinstitucional, participación del sector privado y una visión de largo plazo orientada a construir un comercio exterior verdaderamente moderno, eficiente y justo.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>VI. Referencias</title>
+			<ref id="B1">
+				<mixed-citation>C. North, Douglass. “Institutions”. <italic>Journal of Economic Perspectives</italic> 5, n.<sup>o</sup> 1 (1991): 97-112. https://doi.org/10.1257/jep.5.1.97</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>C. North</surname>
+							<given-names>Douglass</given-names>
+						</name>
+					</person-group>
+					<article-title>Institutions</article-title>
+					<source>Journal of Economic Perspectives</source>
+					<volume>5</volume>
+					<issue>1</issue>
+					<year>1991</year>
+					<fpage>97</fpage>
+					<lpage>112</lpage>
+					<pub-id pub-id-type="doi">10.1257/jep.5.1.97</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>C. North, Douglass. <italic>Institutions, Institutional Change and Economic Performance</italic>. Cambridge: Cambridge University Press, 1990.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>C. North</surname>
+							<given-names>Douglass</given-names>
+						</name>
+					</person-group>
+					<source>Institutions, Institutional Change and Economic Performance</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+					<year>1990</year>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Congreso de los Estados Unidos Mexicanos. <italic>Código Aduanero de los Estados Unidos Mexicanos</italic>, publicado en el <italic>Diario Oficial de la Federación</italic> el 31 de diciembre de 1951 (México: Diario Oficial, 1951), <ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_to_imagen_fs.php?cod_diario=192565&amp;pagina=4&amp;seccion=3">https://dof.gob.mx/nota_to_imagen_fs.php?cod_diario=192565&amp;pagina=4&amp;seccion=3</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Congreso de los Estados Unidos Mexicanos</collab>
+					</person-group>
+					<source>Código Aduanero de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1951</source>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Diario Oficial</publisher-name>
+					<year>1951</year>
+					<ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_to_imagen_fs.php?cod_diario=192565&amp;pagina=4&amp;seccion=3">https://dof.gob.mx/nota_to_imagen_fs.php?cod_diario=192565&amp;pagina=4&amp;seccion=3</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Hapag-Lloyd. <italic>Mexico Detention/Demurrage Import-Effective Date</italic>. PDF. <ext-link ext-link-type="uri" xlink:href="https://www.hapaglloyd.com/content/dam/website/downloads/detention_demurrage/05272025_Mexico_Detention_Demurrage_Import.pdf">https://www.hapaglloyd.com/content/dam/website/downloads/detention_demurrage/05272025_Mexico_Detention_Demurrage_Import.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hapag-Lloyd</surname>
+							<given-names/>
+						</name>
+					</person-group>
+					<source>Mexico Detention/Demurrage Import-Effective Date</source>
+					<publisher-name>PDF</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://www.hapaglloyd.com/content/dam/website/downloads/detention_demurrage/05272025_Mexico_Detention_Demurrage_Import.pdf">https://www.hapaglloyd.com/content/dam/website/downloads/detention_demurrage/05272025_Mexico_Detention_Demurrage_Import.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Hummels, David L. y Schaur Georg. “Time as a Trade Barrier”. <italic>American Economic Review</italic> 103, n.º 7 (2013): 2935-2959, <ext-link ext-link-type="uri" xlink:href="https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.103.7.2935">https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.103.7.2935</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hummels</surname>
+							<given-names>David L</given-names>
+						</name>
+						<name>
+							<surname>Georg</surname>
+							<given-names>Schaur</given-names>
+						</name>
+					</person-group>
+					<article-title>Time as a Trade Barrier</article-title>
+					<source>American Economic Review</source>
+					<volume>103</volume>
+					<issue>7</issue>
+					<year>2013</year>
+					<fpage>2935</fpage>
+					<lpage>2959</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.103.7.2935">https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.103.7.2935</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Maersk Line. <italic>Revalidación conocimiento de embarque MSL, Altamira Terminal Portuaria</italic>, enero de 2020. PDF. <ext-link ext-link-type="uri" xlink:href="https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSL.pdf">https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSL.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Maersk Line</collab>
+					</person-group>
+					<source>Revalidación conocimiento de embarque MSL, Altamira Terminal Portuaria</source>
+					<month>01</month>
+					<year>2020</year>
+					<publisher-name>PDF</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSL.pdf">https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSL.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>MAERSK. “Shipping to and from Mexico”. Acceso el 20 de octubre de 2025. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.maersk.com/local-information/latin-america/mexico/import">https://www.maersk.com/local-information/latin-america/mexico/import</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>MAERSK</collab>
+					</person-group>
+					<source>Shipping to and from Mexico</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-10-20">20 de octubre de 2025</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.maersk.com/local-information/latin-america/mexico/import">https://www.maersk.com/local-information/latin-america/mexico/import</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Mediterranean Shipping Company México. <italic>Revalidación conocimiento de embarque MSC</italic>. Altamira Terminal Portuaria, enero de 2020. PDF. <ext-link ext-link-type="uri" xlink:href="https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSC.pdf">https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSC.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Mediterranean Shipping Company México</collab>
+					</person-group>
+					<source>Revalidación conocimiento de embarque MSC</source>
+					<publisher-name>Altamira Terminal Portuaria</publisher-name>
+					<month>01</month>
+					<year>2020</year>
+					<publisher-name>PDF</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSC.pdf">https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSC.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>OOCL. “Rule Tariff Detail-México”. Acceso el 20 de octubre de 2025. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://moc.oocl.com/wls_prs_rp/public/ruleTariff/OOLL-100/E-40-77/display/today">https://moc.oocl.com/wls_prs_rp/public/ruleTariff/OOLL-100/E-40-77/display/today</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>OOCL</collab>
+					</person-group>
+					<source>Rule Tariff Detail-México</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-10-20">20 de octubre de 2025</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://moc.oocl.com/wls_prs_rp/public/ruleTariff/OOLL-100/E-40-77/display/today">https://moc.oocl.com/wls_prs_rp/public/ruleTariff/OOLL-100/E-40-77/display/today</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Organización Mundial del Comercio (OMC). “Normas y seguridad”. Acceso el 18 de diciembre de 2025. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.wto.org/spanish/thewto_s/whatis_s/tif_s/agrm4_s.htm#TRS">https://www.wto.org/spanish/thewto_s/whatis_s/tif_s/agrm4_s.htm#TRS</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Organización Mundial del Comercio (OMC)</collab>
+					</person-group>
+					<source>Normas y seguridad</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-12-18">18 de diciembre de 2025</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.wto.org/spanish/thewto_s/whatis_s/tif_s/agrm4_s.htm#TRS">https://www.wto.org/spanish/thewto_s/whatis_s/tif_s/agrm4_s.htm#TRS</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Organización Mundial del Comercio (OMC). <italic>Acuerdo General sobre Aranceles Aduaneros y Comercio</italic> (GATT de 1947). PDF. consultado el 18 de diciembre de 2025. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.wto.org/spanish/docs_s/legal_s/gatt47.pdf">https://www.wto.org/spanish/docs_s/legal_s/gatt47.pdf</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organización Mundial del Comercio (OMC)</collab>
+					</person-group>
+					<source>Acuerdo General sobre Aranceles Aduaneros y Comercio</source>
+					<comment>GATT de 1947</comment>
+					<publisher-name>PDF</publisher-name>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-12-18">18 de diciembre de 2025</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.wto.org/spanish/docs_s/legal_s/gatt47.pdf">https://www.wto.org/spanish/docs_s/legal_s/gatt47.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Organización Mundial del Comercio. “Facilitación del comercio”. <ext-link ext-link-type="uri" xlink:href="https://www.wto.org/spanish/tratop_s/tradfa_s/tradfa_s.htm">https://www.wto.org/spanish/tratop_s/tradfa_s/tradfa_s.htm</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Organización Mundial del Comercio</collab>
+					</person-group>
+					<source>Facilitación del comercio</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.wto.org/spanish/tratop_s/tradfa_s/tradfa_s.htm">https://www.wto.org/spanish/tratop_s/tradfa_s/tradfa_s.htm</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Secretaría de Gobernación. “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera”. <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5324941&amp;fecha=09/12/2013#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5324941&amp;fecha=09/12/2013#gsc.tab=0</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Secretaría de Gobernación</collab>
+					</person-group>
+					<source>Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5324941&amp;fecha=09/12/2013#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5324941&amp;fecha=09/12/2013#gsc.tab=0</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Secretaría de Gobernación. “Primera resolución de modificaciones a las Reglas de Carácter General en Materia de Comercio para 2009 y sus anexos 1, 13 y 22”. <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5101852&amp;fecha=06/08/2009#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5101852&amp;fecha=06/08/2009#gsc.tab=0</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Secretaría de Gobernación</collab>
+					</person-group>
+					<source>Primera resolución de modificaciones a las Reglas de Carácter General en Materia de Comercio para 2009 y sus anexos 1, 13 y 22</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5101852&amp;fecha=06/08/2009#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5101852&amp;fecha=06/08/2009#gsc.tab=0</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Secretaría de Gobernación. “Reglas de Carácter General en Materia de Comercio Exterior para 2002”. <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=733925&amp;fecha=31/05/2002#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=733925&amp;fecha=31/05/2002#gsc.tab=0</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Secretaría de Gobernación</collab>
+					</person-group>
+					<source>Reglas de Carácter General en Materia de Comercio Exterior para 2002</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=733925&amp;fecha=31/05/2002#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=733925&amp;fecha=31/05/2002#gsc.tab=0</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Secretaría de Gobernación. “Reglas de carácter general en materia de comercio exterior para 2003 y sus anexos 1, 2, 4, 6, 10, 13, 21, 22, 26 y 27”. <ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_detalle.php?codigo=697561&amp;fecha=17/04/2003#gsc.tab=0">https://dof.gob.mx/nota_detalle.php?codigo=697561&amp;fecha=17/04/2003#gsc.tab=0</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Secretaría de Gobernación</collab>
+					</person-group>
+					<source>Reglas de carácter general en materia de comercio exterior para 2003 y sus anexos 1, 2, 4, 6, 10, 13, 21, 22, 26 y 27</source>
+					<ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_detalle.php?codigo=697561&amp;fecha=17/04/2003#gsc.tab=0">https://dof.gob.mx/nota_detalle.php?codigo=697561&amp;fecha=17/04/2003#gsc.tab=0</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Secretaría de Gobernación. “Reglas de carácter general en materia de comercio exterior para 2010”. <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5149855&amp;fecha=30/06/2010#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5149855&amp;fecha=30/06/2010#gsc.tab=0</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Secretaría de Gobernación</collab>
+					</person-group>
+					<source>Reglas de carácter general en materia de comercio exterior para 2010</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5149855&amp;fecha=30/06/2010#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5149855&amp;fecha=30/06/2010#gsc.tab=0</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>ZIM. <italic>Revalidación conocimiento de embarque ZIM</italic>, <italic>Altamira Terminal Portuaria</italic>, enero de 2020. PDF. <ext-link ext-link-type="uri" xlink:href="https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-ZIM.pdf">https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-ZIM.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>ZIM</collab>
+					</person-group>
+					<source>Revalidación conocimiento de embarque ZIM, Altamira Terminal Portuaria</source>
+					<month>01</month>
+					<year>2020</year>
+					<publisher-name>PDF</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-ZIM.pdf">https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-ZIM.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Cámara de Diputados del H. Congreso de la Unión, <italic>Gaceta Parlamentaria</italic>, núm. 2283, LXIII Legislatura, 3er. Año, 2a. Reunión, 1 de agosto de 2018, 1029, <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/sedia/biblio/gaceta/Gaceta_Parlamentaria_LXIII/2018/ago/Gaceta_20180801.pdf">https://www.diputados.gob.mx/sedia/biblio/gaceta/Gaceta_Parlamentaria_LXIII/2018/ago/Gaceta_20180801.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Cámara de Diputados del H. Congreso de la Unión</collab>
+					</person-group>
+					<source>Gaceta Parlamentaria</source>
+					<issue>2283</issue>
+					<comment>LXIII Legislatura, 3er. Año, 2a. Reunión, 1 de agosto de 2018, 1029</comment>
+					<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/sedia/biblio/gaceta/Gaceta_Parlamentaria_LXIII/2018/ago/Gaceta_20180801.pdf">https://www.diputados.gob.mx/sedia/biblio/gaceta/Gaceta_Parlamentaria_LXIII/2018/ago/Gaceta_20180801.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Cámara de Diputados del H. Congreso de la Unión. <italic>Gaceta Parlamentaria</italic>, núm. 2283, LXIII Legislatura, 3er. Año, 2a. Reunión, 1 de agosto de 2018. <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/sedia/biblio/gaceta/Gaceta_Parlamentaria_LXIII/2018/ago/Gaceta_20180801.pdf">https://www.diputados.gob.mx/sedia/biblio/gaceta/Gaceta_Parlamentaria_LXIII/2018/ago/Gaceta_20180801.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Cámara de Diputados del H. Congreso de la Unión</collab>
+					</person-group>
+					<source>Gaceta Parlamentaria</source>
+					<issue>2283</issue>
+					<comment>LXIII Legislatura, 3er. Año, 2a. Reunión, 1 de agosto de 2018</comment>
+					<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/sedia/biblio/gaceta/Gaceta_Parlamentaria_LXIII/2018/ago/Gaceta_20180801.pdf">https://www.diputados.gob.mx/sedia/biblio/gaceta/Gaceta_Parlamentaria_LXIII/2018/ago/Gaceta_20180801.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Cámara de Diputados del H. Congreso de la Unión. <italic>Iniciativa con proyecto de decreto por la que se expide la Ley de Navegación y Comercio Marítimos</italic>. Presentada por los diputados Marco Antonio Peyrot Solís y Gerardo Buganza Salmerón del Grupo Parlamentario del PAN. Ciudad de México: Gaceta Parlamentaria, núm. 2495-V, 29 de abril de 2008. <ext-link ext-link-type="uri" xlink:href="https://gaceta.diputados.gob.mx/PDF/60/2008/abr/20080429-V.pdf">https://gaceta.diputados.gob.mx/PDF/60/2008/abr/20080429-V.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Cámara de Diputados del H. Congreso de la Unión</collab>
+					</person-group>
+					<source>Iniciativa con proyecto de decreto por la que se expide la Ley de Navegación y Comercio Marítimos</source>
+					<comment>Presentada por los diputados Marco Antonio Peyrot Solís y Gerardo Buganza Salmerón del Grupo Parlamentario del PAN</comment>
+					<publisher-loc>Ciudad de México</publisher-loc>
+					<publisher-name>Gaceta Parlamentaria</publisher-name>
+					<issue>2495-V</issue>
+					<day>29</day>
+					<month>04</month>
+					<year>2008</year>
+					<ext-link ext-link-type="uri" xlink:href="https://gaceta.diputados.gob.mx/PDF/60/2008/abr/20080429-V.pdf">https://gaceta.diputados.gob.mx/PDF/60/2008/abr/20080429-V.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Cámara de Diputados del H. Congreso de la Unión. <italic>Ley Aduanera</italic>. Nueva ley publicada en el <italic>Diario Oficial de la Federación</italic> el 15 de diciembre de 1995; última reforma DOF 19 de noviembre de 2025. PDF. Acceso el 18 de diciembre de 2025. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Cámara de Diputados del H. Congreso de la Unión</collab>
+					</person-group>
+					<source>Ley Aduanera. Nueva ley publicada en el Diario Oficial de la Federación el 15 de diciembre de 1995; última reforma DOF 19 de noviembre de 2025</source>
+					<comment>PDF</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-12-18">18 de diciembre de 2025</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Cámara de Diputados del H. Congreso de la Unión. <italic>Ley de Navegación y Comercio Marítimos</italic>, nueva ley publicada en el <italic>Diario Oficial de la Federación</italic> el 1 de junio de 2006, última reforma DOF 14 de noviembre de 2025. PDF. </mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Cámara de Diputados del H. Congreso de la Unión</collab>
+					</person-group>
+					<source>Ley de Navegación y Comercio Marítimos, nueva ley publicada en el Diario Oficial de la Federación el 1 de junio de 2006, última reforma DOF 14 de noviembre de 2025</source>
+					<comment>PDF</comment>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Cámara de Diputados del H. Congreso de la Unión. <italic>Ley de Navegación y Comercio Marítimos</italic>. Nueva ley publicada en el <italic>Diario Oficial de la Federación</italic> el 1 de junio de 2006; última reforma DOF 14 de noviembre de 2025. PDF. Acceso el 18 de diciembre de 2025. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Cámara de Diputados del H. Congreso de la Unión</collab>
+					</person-group>
+					<source>Ley de Navegación y Comercio Marítimos. Nueva ley publicada en el Diario Oficial de la Federación el 1 de junio de 2006; última reforma DOF 14 de noviembre de 2025</source>
+					<comment>PDF</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-12-18">18 de diciembre de 2025</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Confederación de Asociaciones de Agentes Aduanales de la República Mexicana (CAAAREM). <italic>Consulta Nacional sobre Inhibidores, Problemática y Propuestas para un Comercio Exterior Competitivo</italic>. Ciudad de México: Secretaría de Economía/CAAAREM, 2016. <ext-link ext-link-type="uri" xlink:href="https://www.snice.gob.mx/~oracle/SNICE_DOCS/SinRegimen_Vigente_Transparencia_Consulta-publica_CAAAREM-Propuestas-recibidas_20160816-20160216.pdf">https://www.snice.gob.mx/~oracle/SNICE_DOCS/SinRegimen_Vigente_Transparencia_Consulta-publica_CAAAREM-Propuestas-recibidas_20160816-20160216.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Confederación de Asociaciones de Agentes Aduanales de la República Mexicana (CAAAREM)</collab>
+					</person-group>
+					<source>Consulta Nacional sobre Inhibidores, Problemática y Propuestas para un Comercio Exterior Competitivo</source>
+					<publisher-loc>Ciudad de México</publisher-loc>
+					<publisher-name>Secretaría de Economía/CAAAREM</publisher-name>
+					<year>2016</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.snice.gob.mx/~oracle/SNICE_DOCS/SinRegimen_Vigente_Transparencia_Consulta-publica_CAAAREM-Propuestas-recibidas_20160816-20160216.pdf">https://www.snice.gob.mx/~oracle/SNICE_DOCS/SinRegimen_Vigente_Transparencia_Consulta-publica_CAAAREM-Propuestas-recibidas_20160816-20160216.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation><italic>Diario Oficial de la Federación</italic>, edición del 30 de diciembre de 1981. Secretaría de Gobernación. Acceso el 18 de diciembre de 2025. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/index_113.php?year=1981&amp;month=12&amp;day=30#gsc.tab=0">https://dof.gob.mx/index_113.php?year=1981&amp;month=12&amp;day=30#gsc.tab=0</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Diario Oficial de la Federación</source>
+					<day>30</day>
+					<month>12</month>
+					<year>1981</year>
+					<publisher-name>Secretaría de Gobernación</publisher-name>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-12-18">18 de diciembre de 2025</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/index_113.php?year=1981&amp;month=12&amp;day=30#gsc.tab=0">https://dof.gob.mx/index_113.php?year=1981&amp;month=12&amp;day=30#gsc.tab=0</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Diario Oficial de la Federación. <italic>Sección Segunda, edición matutina</italic>, 15 de diciembre de 1995. México: Gobierno de México. <ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/copias.php?acc=ajaxPaginas&amp;paginas=todas&amp;seccion=SEGUNDA&amp;edicion=209458&amp;ed=MATUTINO&amp;fecha=15/12/1995">https://dof.gob.mx/copias.php?acc=ajaxPaginas&amp;paginas=todas&amp;seccion=SEGUNDA&amp;edicion=209458&amp;ed=MATUTINO&amp;fecha=15/12/1995</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Diario Oficial de la Federación</collab>
+					</person-group>
+					<source>Sección Segunda, edición matutina</source>
+					<day>15</day>
+					<month>12</month>
+					<year>1995</year>
+					<publisher-loc>México</publisher-loc>
+					<publisher-name>Gobierno de México</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/copias.php?acc=ajaxPaginas&amp;paginas=todas&amp;seccion=SEGUNDA&amp;edicion=209458&amp;ed=MATUTINO&amp;fecha=15/12/1995">https://dof.gob.mx/copias.php?acc=ajaxPaginas&amp;paginas=todas&amp;seccion=SEGUNDA&amp;edicion=209458&amp;ed=MATUTINO&amp;fecha=15/12/1995</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Organización Mundial del Comercio (OMC), Consejo General. <italic>Protocolo de Enmienda del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio. Decisión de 27 de noviembre de 2014</italic> (WT/L/940, 28 de noviembre de 2014), PDF, consultado el 18 de diciembre de 2025, <comment> Decisión de 27 de noviembre de 2014 (WT/L/940, 28 de noviembre de 2014), PDF, consultado el 18 de diciembre de 2025, <ext-link ext-link-type="uri" xlink:href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=s:/WT/L/940.pdf&amp;Open=True">https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=s:/WT/L/940.pdf&amp;Open=True</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organización Mundial del Comercio (OMC), Consejo General</collab>
+					</person-group>
+					<source>Protocolo de Enmienda del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio. Decisión de 27 de noviembre de 2014</source>
+					<comment>(WT/L/940, 28 de noviembre de 2014), PDF</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-12-18">18 de diciembre de 2025</date-in-citation>
+					<comment> Decisión de 27 de noviembre de 2014 (WT/L/940, 28 de noviembre de 2014), PDF, consultado el 18 de diciembre de 2025, <ext-link ext-link-type="uri" xlink:href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=s:/WT/L/940.pdf&amp;Open=True">https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=s:/WT/L/940.pdf&amp;Open=True</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Senadora Indira de Jesús Rosales San Román. “Iniciativa con proyecto de decreto que reforma el artículo 24 de la Ley de Navegación y Comercio Marítimos”. Senado de la República, 29 de noviembre de 2018. <ext-link ext-link-type="uri" xlink:href="https://sil.gobernacion.gob.mx/Archivos/Documentos/2018/11/asun_3786086_20181129_1543520773.pdf">https://sil.gobernacion.gob.mx/Archivos/Documentos/2018/11/asun_3786086_20181129_1543520773.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<source>Senadora Indira de Jesús Rosales San Román. “Iniciativa con proyecto de decreto que reforma el artículo 24 de la Ley de Navegación y Comercio Marítimos”. Senado de la República</source>
+					<day>29</day>
+					<month>11</month>
+					<year>2018</year>
+					<ext-link ext-link-type="uri" xlink:href="https://sil.gobernacion.gob.mx/Archivos/Documentos/2018/11/asun_3786086_20181129_1543520773.pdf">https://sil.gobernacion.gob.mx/Archivos/Documentos/2018/11/asun_3786086_20181129_1543520773.pdf</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>
+					<xref ref-type="bibr" rid="B23">Cámara de Diputados del H. Congreso de la Unión</xref>, <italic>Ley de Navegación y Comercio Marítimos</italic>, nueva ley publicada en el Diario Oficial de la Federación el 1 de junio de 2006, última reforma DOF 14 de noviembre de 2025, PDF.</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>
+					<xref ref-type="bibr" rid="B22">Cámara de Diputados del H. Congreso de la Unión</xref>, <italic>Ley Aduanera</italic>, nueva ley publicada en el <italic>Diario Oficial de la Federación</italic> el 15 de diciembre de 1995, última reforma DOF 19 de noviembre de 2025, PDF, consultado el 18 de diciembre de 2025.</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>“Normas y seguridad”, <xref ref-type="bibr" rid="B10">Organización Mundial del Comercio (OMC)</xref>, acceso el 18 de diciembre de 2025, <ext-link ext-link-type="uri" xlink:href="https://www.wto.org/spanish/thewto_s/whatis_s/tif_s/agrm4_s.htm#TRS">https://www.wto.org/spanish/thewto_s/whatis_s/tif_s/agrm4_s.htm#TRS</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>
+					<xref ref-type="bibr" rid="B28">Organización Mundial del Comercio (OMC), Consejo General</xref>, <italic>Protocolo de Enmienda del Acuerdo de Marrakech por el que se establece la Organización Mundial del Comercio. Decisión de 27 de noviembre de 2014</italic> (WT/L/940, 28 de noviembre de 2014), PDF, consultado el 18 de diciembre de 2025, <ext-link ext-link-type="uri" xlink:href="https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=s:/WT/L/940.pdf&amp;Open=True">https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=s:/WT/L/940.pdf&amp;Open=True</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>
+					<xref ref-type="bibr" rid="B11">Organización Mundial del Comercio (OMC)</xref>, <italic>Acuerdo General sobre Aranceles Aduaneros y Comercio</italic> (GATT de 1947), PDF, consultado el 18 de diciembre de 2025, <ext-link ext-link-type="uri" xlink:href="https://www.wto.org/spanish/docs_s/legal_s/gatt47.pdf">https://www.wto.org/spanish/docs_s/legal_s/gatt47.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">David L. Hummels y Georg Schaur</xref>, “Time as a Trade Barrier”, <italic>American Economic Review</italic> 103, n.º 7 (2013): 2935-2959, <ext-link ext-link-type="uri" xlink:href="https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.103.7.2935">https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.103.7.2935</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>“<xref ref-type="bibr" rid="B26">Diario Oficial de la Federación</xref>”, Secretaría de Gobernación, <ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/index_113.php?year=1981&amp;month=12&amp;day=30#gsc.tab=0">https://dof.gob.mx/index_113.php?year=1981&amp;month=12&amp;day=30#gsc.tab=0</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn8">
+				<label>8</label>
+				<p>
+					<xref ref-type="bibr" rid="B3">Congreso de los Estados Unidos Mexicanos</xref>, <italic>Código Aduanero de los Estados Unidos Mexicanos</italic>, publicado en el <italic>Diario Oficial de la Federación</italic> el 31 de diciembre de 1951 (México: Diario Oficial, 1951), <ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_to_imagen_fs.php?cod_diario=192565&amp;pagina=4&amp;seccion=3">https://dof.gob.mx/nota_to_imagen_fs.php?cod_diario=192565&amp;pagina=4&amp;seccion=3</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn9">
+				<label>9</label>
+				<p>
+					<xref ref-type="bibr" rid="B27">Diario Oficial de la Federación</xref>, Sección Segunda, edición matutina, 15 de diciembre de 1995 (México: Gobierno de México), <ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/copias.php?acc=ajaxPaginas&amp;paginas=todas&amp;seccion=SEGUNDA&amp;edicion=209458&amp;ed=MATUTINO&amp;fecha=15/12/1995">https://dof.gob.mx/copias.php?acc=ajaxPaginas&amp;paginas=todas&amp;seccion=SEGUNDA&amp;edicion=209458&amp;ed=MATUTINO&amp;fecha=15/12/1995</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn10">
+				<label>10</label>
+				<p>“Reglas de Carácter General en Materia de Comercio Exterior para 2002”, <xref ref-type="bibr" rid="B15">Secretaría de Gobernación</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=733925&amp;fecha=31/05/2002#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=733925&amp;fecha=31/05/2002#gsc.tab=0</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn11">
+				<label>11</label>
+				<p>“Reglas de carácter general en materia de comercio exterior para 2003 y sus anexos 1, 2, 4, 6, 10, 13, 21, 22, 26 y 27”, <xref ref-type="bibr" rid="B16">Secretaría de Gobernación</xref>, <ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_detalle.php?codigo=697561&amp;fecha=17/04/2003#gsc.tab=0">https://dof.gob.mx/nota_detalle.php?codigo=697561&amp;fecha=17/04/2003#gsc.tab=0</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn12">
+				<label>12</label>
+				<p>“<xref ref-type="bibr" rid="B26">Diario Oficial de la Federación</xref>, Sección correspondiente al 29 de abril de 2009”, Secretaría de Gobernación, <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/index_113.php?year=2009&amp;month=04&amp;day=29#gsc.tab=0">https://www.dof.gob.mx/index_113.php?year=2009&amp;month=04&amp;day=29#gsc.tab=0</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn13">
+				<label>13</label>
+				<p>“Primera resolución de modificaciones a las Reglas de Carácter General en Materia de Comercio para 2009 y sus anexos 1, 13 y 22”, <xref ref-type="bibr" rid="B14">Secretaría de Gobernación</xref>, https://www.dof.gob.mx/nota_detalle.php?codigo=5101852&amp;fecha=06/08/2009#gsc.tab=0</p>
+			</fn>
+			<fn fn-type="other" id="fn14">
+				<label>14</label>
+				<p>“Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera”, <xref ref-type="bibr" rid="B13">Secretaría de Gobernación</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5324941&amp;fecha=09/12/2013#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5324941&amp;fecha=09/12/2013#gsc.tab=0</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn15">
+				<label>15</label>
+				<p>“Reglas de carácter general en materia de comercio exterior para 2010”, <xref ref-type="bibr" rid="B17">Secretaría de Gobernación</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5149855&amp;fecha=30/06/2010#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5149855&amp;fecha=30/06/2010#gsc.tab=0</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn16">
+				<label>16</label>
+				<p>Hamburg Süd, <italic>Revalidación conocimiento de embarque HSD</italic>, Altamira Terminal Portuaria, enero de 2020, PDF, <ext-link ext-link-type="uri" xlink:href="https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-HSD.pdf">https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-HSD.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn17">
+				<label>17</label>
+				<p>
+					<xref ref-type="bibr" rid="B8">Mediterranean Shipping Company México</xref>, <italic>Revalidación conocimiento de embarque MSC</italic>, Altamira Terminal Portuaria, enero de 2020, PDF, <ext-link ext-link-type="uri" xlink:href="https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSC.pdf">https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSC.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn18">
+				<label>18</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Maersk Line</xref>, <italic>Revalidación conocimiento de embarque MSL, Altamira Terminal Portuaria</italic>, enero de 2020, PDF, <ext-link ext-link-type="uri" xlink:href="https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSL.pdf">https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-MSL.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn19">
+				<label>19</label>
+				<p>
+					<xref ref-type="bibr" rid="B18">ZIM</xref>, <italic>Revalidación conocimiento de embarque ZIM</italic>, Altamira Terminal Portuaria, enero de 2020, PDF, <ext-link ext-link-type="uri" xlink:href="https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-ZIM.pdf">https://www.atpaltamira.com.mx/wp-content/uploads/2020/01/Revalidaci%C3%B3n-conocimiento-de-embarque-ZIM.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn20">
+				<label>20</label>
+				<p><italic>Ibid.</italic></p>
+			</fn>
+			<fn fn-type="other" id="fn21">
+				<label>21</label>
+				<p>El <italic>Bill of Lading</italic> (BL) es un contrato de transporte marítimo y puede emitirse como original físico, o bien, como télex <italic>release</italic>. El BL original es el más seguro y tradicional, ya que exige presentar el documento físico para liberar la carga, lo que protege al proveedor en caso de falta de pago, aunque implica costos de envío y puede retrasar el proceso. El télex <italic>release</italic> es una copia digital autorizada del BL original que permite liberar la mercancía sin entregar el documento físico, agilizando trámites y reduciendo costos, ideal cuando hay confianza moderada entre las partes. El télex <italic>release</italic> evita costos de mensajería y documentación, pero sacrifica distintos niveles de seguridad jurídica. Se llama télex <italic>realease</italic> porque antes de la existencia de los correos electrónicos, el envío del documento de transporte se hacía a través del medio electrónico Télex.</p>
+			</fn>
+			<fn fn-type="other" id="fn22">
+				<label>22</label>
+				<p>
+					<xref ref-type="bibr" rid="B4">Hapag-Lloyd</xref>, <italic>Mexico Detention/Demurrage Import-Effective Date</italic>, PDF, <ext-link ext-link-type="uri" xlink:href="https://www.hapaglloyd.com/content/dam/website/downloads/detention_demurrage/05272025_Mexico_Detention_Demurrage_Import.pdf">https://www.hapaglloyd.com/content/dam/website/downloads/detention_demurrage/05272025_Mexico_Detention_Demurrage_Import.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn23">
+				<label>23</label>
+				<p>“Shipping to and from Mexico”, <xref ref-type="bibr" rid="B7">MAERSK</xref>, acceso el 20 de octubre de 2025, <ext-link ext-link-type="uri" xlink:href="https://www.maersk.com/local-information/latin-america/mexico/import">https://www.maersk.com/local-information/latin-america/mexico/import</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn24">
+				<label>24</label>
+				<p>“Rule Tariff Detail-México”, <xref ref-type="bibr" rid="B9">OOCL</xref>, acceso el 20 de octubre de 2025, <ext-link ext-link-type="uri" xlink:href="https://moc.oocl.com/wls_prs_rp/public/ruleTariff/OOLL-100/E-40-77/display/today">https://moc.oocl.com/wls_prs_rp/public/ruleTariff/OOLL-100/E-40-77/display/today</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn25">
+				<label>25</label>
+				<p>No existe información en México acerca de un número específicos de BLs que se revaliden cada año, ya que este es un trámite que se realiza por cada carga que llega al país. En 2023, 3.1 millones de contenedores arribaron, sin embargo, un contendor que contenga carga consolidada puede tener más de 10 BL <italic>house</italic> que deberán ser revalidados y, por lo tanto, habrá diez cobros iguales por ese mismo trámite. De igual manera, si un BL ampara más de 10 contenedores, la revalidación será por el BL que los ampara a todos.</p>
+			</fn>
+			<fn fn-type="other" id="fn26">
+				<label>26</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">Douglass C. North</xref>, “Institutions”, <italic>Journal of Economic Perspectives</italic> 5, n.<sup>o</sup> 1 (1991): 97-112, <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1257/jep.5.1.97">https://doi.org/10.1257/jep.5.1.97</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn27">
+				<label>27</label>
+				<p><italic>Ibid.</italic></p>
+			</fn>
+			<fn fn-type="other" id="fn28">
+				<label>28</label>
+				<p>
+					<xref ref-type="bibr" rid="B2">Douglass C. North</xref>, <italic>Institutions, Institutional Change and Economic Performance</italic> (Cambridge: Cambridge University Press, 1990), 101.</p>
+			</fn>
+			<fn fn-type="other" id="fn29">
+				<label>29</label>
+				<p>“Facilitación del comercio”, <xref ref-type="bibr" rid="B12">Organización Mundial del Comercio</xref>, <ext-link ext-link-type="uri" xlink:href="https://www.wto.org/spanish/tratop_s/tradfa_s/tradfa_s.htm">https://www.wto.org/spanish/tratop_s/tradfa_s/tradfa_s.htm</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn30">
+				<label>30</label>
+				<p>El AFC busca agilizar el comercio internacional mediante la simplificación de procedimientos aduaneros y la reducción de requisitos documentales. El artículo 10 instruye a los países a revisar sus formalidades, eliminar aquellas innecesarias, aceptar copias digitales de documentos, evitar duplicidades, usar ventanillas únicas y promover estándares internacionales. Estas disposiciones buscan reducir costos logísticos, mejorar la transparencia y facilitar la participación en el comercio, especialmente para las MIPyMES.</p>
+			</fn>
+			<fn fn-type="other" id="fn31">
+				<label>31</label>
+				<p>
+					<xref ref-type="bibr" rid="B21">Cámara de Diputados del H. Congreso de la Unión</xref>, <italic>Iniciativa con proyecto de decreto por la que se expide la Ley de Navegación y Comercio Marítimos</italic>, presentada por los diputados Marco Antonio Peyrot Solís y Gerardo Buganza Salmerón del Grupo Parlamentario del PAN (Ciudad de México: <xref ref-type="bibr" rid="B19">Gaceta Parlamentaria</xref>, núm. 2495-V, 29 de abril de 2008), <ext-link ext-link-type="uri" xlink:href="https://gaceta.diputados.gob.mx/PDF/60/2008/abr/20080429 V.pdf">https://gaceta.diputados.gob.mx/PDF/60/2008/abr/20080429-V.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn32">
+				<label>32</label>
+				<p>
+					<xref ref-type="bibr" rid="B25">Confederación de Asociaciones de Agentes Aduanales de la República Mexicana (CAAAREM)</xref>, <italic>Consulta Nacional sobre Inhibidores, Problemática y Propuestas para un Comercio Exterior Competitivo</italic> (Ciudad de México: Secretaría de Economía/CAAAREM,2016),<ext-link ext-link-type="uri" xlink:href="https://www.snice.gob.mx/~oracle/SNICE_DOCS/SinRegimen_Vigente_Transparencia_Consulta-publica_CAAAREM-Propuestas-recibidas_20160816-20160216.pdf">https://www.snice.gob.mx/~oracle/SNICE_DOCS/SinRegimen_Vigente_Transparencia_Consulta-publica_CAAAREM-Propuestas-recibidas_20160816-20160216.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn33">
+				<label>33</label>
+				<p>Cámara de Diputados del H. Congreso de la Unión, <xref ref-type="bibr" rid="B20"><italic>Gaceta Parlamentaria</italic></xref>, núm. 2283, LXIII Legislatura, 3er. Año, 2a. Reunión, 1 de agosto de 2018, 1029, <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/sedia/biblio/gaceta/Gaceta_Parlamentaria_LXIII/2018/ago/Gaceta_20180801.pdf">https://www.diputados.gob.mx/sedia/biblio/gaceta/Gaceta_Parlamentaria_LXIII/2018/ago/Gaceta_20180801.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn34">
+				<label>34</label>
+				<p>
+					<xref ref-type="bibr" rid="B29">Senadora Indira de Jesús Rosales San Román</xref>, “Iniciativa con proyecto de decreto que reforma el artículo 24 de la Ley de Navegación y Comercio Marítimos”, Senado de la República, 29 de noviembre de 2018, <ext-link ext-link-type="uri" xlink:href="https://sil.gobernacion.gob.mx/Archivos/Documentos/2018/11/asun_3786086_20181129_1543520773.pdf">https://sil.gobernacion.gob.mx/Archivos/Documentos/2018/11/asun_3786086_20181129_1543520773.pdf</ext-link>
+				</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

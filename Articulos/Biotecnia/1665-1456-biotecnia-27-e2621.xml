@@ -1,0 +1,1813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2621</article-id>
+			<article-id pub-id-type="other">00148</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Fracción de glutelina de hoja de yaca: un nuevo emulsionante con propiedades antioxidantes y estabilidad térmica con potencial para la estabilización de emulsiones de aceite en agua</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Glutelin fraction from jackfruit leaf: a novel emulsifier with antioxidant properties and thermal stability, with potential for stabilizing oil-in-water emulsions</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-8744-1815</contrib-id>
+					<name>
+						<surname>Calderón-Santoyo</surname>
+						<given-names>Montserrat</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-4341-5658</contrib-id>
+					<name>
+						<surname>Calderón-Chiu</surname>
+						<given-names>Carolina</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0006-8880-4717</contrib-id>
+					<name>
+						<surname>Vilchis-Gómez</surname>
+						<given-names>Doane Santalucia</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-2298-3306</contrib-id>
+					<name>
+						<surname>Ragazzo-Sánchez</surname>
+						<given-names>Juan Arturo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Laboratorio Integral de Investigación en Alimentos, Tecnológico Nacional de México/Instituto Tecnológico de Tepic, Tepic, Nayarit, México. mcalderon@tepic.tecnm.mx, cacalderonch@ittepic.edu.mx, dosavilchisgo@ittepic.edu.mx, jragazzo@tepic.tecnm.mx</institution>
+					<institution content-type="normalized">Instituto Tecnológico de Tepic</institution>
+					<institution content-type="orgdiv1">Laboratorio Integral de Investigación en Alimentos</institution>
+					<institution content-type="orgname">Instituto Tecnológico de Tepic</institution>
+					<addr-line>
+						<city>Tepic</city>
+						<state>Nayarit</state>
+					</addr-line>
+					<country country="MX">Mexico</country>
+					<email>mcalderon@tepic.tecnm.mx</email>
+					<email>cacalderonch@ittepic.edu.mx</email>
+					<email>dosavilchisgo@ittepic.edu.mx</email>
+					<email>jragazzo@tepic.tecnm.mx</email>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Autor para correspondencia: Juan Arturo Ragazzo-Sánchez Correo-e: <email>jragazzo@tepic.tecnm.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>02</day>
+				<month>07</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2621</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>28</day>
+					<month>03</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>09</day>
+					<month>06</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>02</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>La investigación de proteínas vegetales como emulsionantes ha ido en aumento considerablemente. La fracción de glutelina del concentrado proteico de hoja de yaca se muestra prometedora como emulsionante. Este estudio tuvo como objetivo evaluar la actividad de eliminación de radicales (RSA), el perfil térmico mediante análisis termogravimétrico y los parámetros cinéticos y termodinámicos de la fracción de glutelina. Se utilizó ultrasonido para crear emulsiones de aceite en agua (O/W), y se evaluó su estabilidad bajo diferentes condiciones simuladas. La fracción de glutenina exhibió 50% ABTS<sup>+</sup> RSA a 0.377 ± 0.004 mg/mL y estabilidad térmica hasta 239.7 °C. Los parámetros cinéticos y termodinámicos indicaron que su descomposición térmica es un proceso endotérmico. La emulsión creada con glutelina al 0.5% (p/v) exhibió un tamaño promedio de gota de 2.4 µm. La emulsión se mantuvo estable durante 5 días tanto a 4 °C como a 25 °C, fue estable en un rango de pH de 6.0 a 8.0, con estabilidad moderada en presencia de NaCl. La glutelina puede ser un emulsionante que posee buena estabilidad térmica y RSA y eficaz para crear emulsiones O/W (en ciertas condiciones). . Esta fracción proteica es una alternativa vegetal a los emulsionantes tradicionales.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The investigation of plant proteins as emulsifiers has been increasing significantly. The glutelin fraction from jackfruit leaf protein concentrate shows promise as an emulsifier, requiring characterization. As a result, this study aimed to assess the radical scavenging activity (RSA), thermal profile through thermogravimetric analysis, and the kinetic and thermodynamic parameters of the glutelin fraction. Ultrasound was used to create oil-in-water (O/W) emulsions, and their stability was evaluated under different simulated conditions. The glutenin fraction exhibited 50 % ABTS<sup>+</sup> RSA at 0.377 ± 0.004 mg/mL and thermal stability up to 239.7 °C. The kinetic and thermodynamic parameters indicated that the glutelin’s thermal decomposition is an endothermic process. The emulsion created by the glutelin fraction at 0.5 % (w/v) exhibited an average droplet size of 2.4 µm. The emulsion remained stable for 5 days at both 4 °C and 25 °C, within a pH range of 6.0 to 8.0. It demonstrated moderate stability when NaCl was present. Glutelin appears to be an effective emulsifier with good thermal stability and RSA for creating O/W emulsions (under certain conditions). This protein fraction is a plant-based alternative to traditional emulsifiers.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Antioxidants</kwd>
+				<kwd>particle size distribution</kwd>
+				<kwd>protein fraction</kwd>
+				<kwd>thermogravimetric analysis</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Antioxidantes, distribución del tamaño de partículas, fracción proteica</kwd>
+				<kwd>análisis termogravimétrico</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="5"/>
+				<table-count count="1"/>
+				<equation-count count="6"/>
+				<ref-count count="32"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>El consumo de compuestos lipofílicos como vitaminas, polifenoles, carotenoides y ácidos grasos poliinsaturados se ha asociado con diversos beneficios fisiológicos. Estos beneficios suelen verse reducidos por varios factores, como la limitada solubilidad en agua de los compuestos lipofílicos, su baja permeabilidad membranal e inestabilidad en entornos fisiológicos (<xref ref-type="bibr" rid="B14">Gonçalves et al., 2018</xref>; <xref ref-type="bibr" rid="B13">Gomes y Sobral, 2021</xref>).</p>
+			<p>En ese sentido, las emulsiones de aceite en agua (O/W) mejoran eficazmente la absorción oral y la eficacia de dichos compuestos y por ello tienen amplia aplicación en diversos sectores, como el alimentario, el cosmético y el farmacéutico (<xref ref-type="bibr" rid="B13">Gomes y Sobral, 2021</xref>). Las emulsiones O/W son dispersiones coloidales formadas por dos fases inmiscibles (oleosa y acuosa), en la cual una fase oleosa está dispersa en forma de gotitas microscópicas dentro de una fase acuosa (<xref ref-type="bibr" rid="B8">Calderón‐Santoyo et al., 2022</xref>). </p>
+			<p>Generalmente, las proteínas de origen animal se utilizan para estabilizar emulsiones O/W debido a que confieren alta estabilidad. Sin embargo, las preocupaciones ambientales generadas por la producción primaria de estas proteínas, así como cambios en los hábitos alimentarios, han incitado la búsqueda de proteínas alternativas con propiedades emulsificantes. En ese sentido, las proteínas vegetales se consideran una fuente sostenible y renovable. Las proteínas vegetales son una opción atractiva para la industria alimentaria debido a sus numerosos beneficios, como la versatilidad química y estructural, su biodegradabilidad y biocompatibilidad, así como su alta capacidad para encapsular de forma efectiva compuestos lipofílicos y para estabilizar emulsiones O/W (<xref ref-type="bibr" rid="B29">Samborska et al., 2021</xref>). Entre ellas destacan las proteínas de cereales, legumbres, semillas oleaginosas y frutos secos (<xref ref-type="bibr" rid="B10">Fasolin et al., 2019</xref>; <xref ref-type="bibr" rid="B11">Gao et al., 2024</xref>).</p>
+			<p>Otra fuente de proteína vegetal es la derivada de biomasa verde (hojas) de diversos cultivos. Este material vegetal es de bajo costo y ampliamente disponible para el procesamiento y la producción de concentrados de proteína de hoja (LPC) (<xref ref-type="bibr" rid="B15">Kaur y Bhatia, 2022</xref>). Además, la obtención de proteínas vegetales de la biomasa verde amplia significativamente la gama de fuentes proteicas disponibles tanto para el consumo como para aplicaciones industriales. Este enfoque aborda las necesidades y preferencias nutricionales, ambientales y culturales de diversos grupos poblaciones, ofreciendo una solución viable a los problemas ambientales actuales (<xref ref-type="bibr" rid="B26">Phiri et al., 2024</xref>). LPC de <italic>Medicago sativa</italic>, <italic>Spinacia oleracea</italic> (<xref ref-type="bibr" rid="B22">Nynäs et al., 2023</xref>), <italic>Azolla Pinnata</italic> (<xref ref-type="bibr" rid="B27">Qoms et al., 2022</xref>), rábano (<xref ref-type="bibr" rid="B15">Kaur y Bhatia, 2022</xref>), y <italic>Artocarpus heterophyllus</italic> (<xref ref-type="bibr" rid="B6">Calderón-Chiu et al., 2024</xref>) son potenciales fuentes de proteínas comestibles que han mostrado propiedades emulsionantes. </p>
+			<p>Aunque estos LPCs han emergido como una nueva fuente de proteína vegetal es necesario profundizar en el fraccionamiento de estas proteínas y sus propiedades emulsificantes. Específicamente, el LPC de <italic>A. heterophyllus</italic> o yaca tiene fracciones de glutelina que exhiben buenas propiedades emulsionantes, tales como el índice de actividad emulsionante (EAI) y el índice de estabilidad de la emulsión (ESI) (<xref ref-type="bibr" rid="B6">Calderon-Chiu et al., 2024</xref>). Sin embargo, no hay informes sobre el tamaño de gota de emulsiones O/W estabilizadas por esta fracción de glutelina ni de sus propiedades antioxidantes o estabilidad térmica. Por ello, este estudio evaluó la actividad de eliminación de radicales (RSA), las propiedades térmicas mediante análisis termogravimétrico y la subsecuente obtención de los parámetros cinéticos y termodinámicos de la fracción de glutelina. De igual forma se investigó la capacidad de esta fracción de glutelina para crear emulsiones O/W mediante ultrasonido, así como su estabilidad bajo condiciones de procesamiento simuladas en almacenamiento, fuerza iónica y pH. Los resultados de este estudio ampliarían la caracterización de esta fracción proteica y sentar las bases para su posterior uso en el desarrollo de sistemas de liberación de sustancias lipofílicas.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Materiales y métodos</title>
+			<sec>
+				<title>Material vegetal y sustancias químicas</title>
+				<p>Las hojas de yaca se recolectaron en Zacualpan, Compostela, Nayarit, México (21°15′ N 105°10′ O). Las hojas se lavaron y secaron a 60 °C durante 24 h en una estufa de secado convectivo (HS60-AID, Guadalajara, Jalisco, México). Una vez secas, las hojas se molieron y se tamizaron con una malla de 100. La harina resultante (con 24 % de contenido proteico) se empacó y almacenó a temperatura ambiente hasta su uso. El persulfato de potasio, el ácido 2,2′-azinobis-(3-etilbenzotiazolina-6-sulfónico (ABTS<sup>+</sup>) y el ácido 6-hidroxi-2,5,7,8-tetrametilcroman-2-carboxílico (Trolox) se adquirieron de Sigma Chemical Co. (St. Louis, MO, USA.). El NaCl, NaOH y etanol se obtuvieron de Jalmek<sup>®</sup> (San Nicolás de los Garza, Nuevo León, México).</p>
+			</sec>
+			<sec>
+				<title>Extracción del concentrado proteico de hoja (LPC) de jaca</title>
+				<p>Para la extracción de LPC, se realizó una mezcla de harina de hoja (30 g), agua destilada (563 mL) y NaOH 0.2 M (188 mL). La mezcla se sometió a extracción asistida por ultrasonido (CD-4820, Shenzhen, Guangdong, CHN) a 42 kHz durante 20 min (22-25 °C). Posteriormente, la mezcla se centrifugó a 6195 × <italic>g</italic> durante 20 min a 4 °C (Hermle Z 326 K, Wehingen, DEU) y se recuperó el sobrenadante. El sobrenadante fue ajustado a pH a 4.0 utilizando HCl 1 N para precipitar las proteínas, las cuales fueron recuperadas mediante centrifugación y liofilizadas -50 °C y 0.12 mbar. El LPC resultante tuvo un contenido de proteína de 65% (<xref ref-type="bibr" rid="B4">Calderón-Chiu et al., 2021</xref>).</p>
+			</sec>
+			<sec>
+				<title>Obtención de la fracción de glutelina del LPC</title>
+				<p>La fracción de glutelina se obtuvo mediante fraccionamiento de Osborne (<xref ref-type="bibr" rid="B6">Calderon-Chiu et al., 2024</xref>). Para ello el LPC fue sometido a extracciones secuenciales con agua (pH 7.0), NaCl 0.5 M, etanol al 70 % y NaOH 0.1 N en una proporción de 1:30 (LPC: disolvente de extracción). El proceso de extracción consistió en la agitación mecánica de la mezcla a 700 rpm durante 60 min, seguido de centrifugación a 6195 × <italic>g</italic> (Hermle Z, 326 K, Hermle Labortechnik GmbH, Wehingen, DEU) durante 20 min a 25 °C para recuperar secuencialmente las fracciones solubles de albúmina, globulina, prolamina y glutelina. La fracción de glutelina se liofilizó y fue usada para posteriores análisis.</p>
+			</sec>
+			<sec>
+				<title>Actividad de eliminación de radicales ABTS<sup>+</sup></title>
+				<p>La actividad de eliminación de radicales (RSA) ABTS<sup>+</sup> se determinó utilizando el método propuesto por <xref ref-type="bibr" rid="B28">Re et al. (1999)</xref> con modificaciones. Para ello, se preparó una solución stock de ABTS<sup>+</sup> a 7 mM en 2.45 mM de persulfato de potasio en condiciones de completa oscuridad a temperatura ambiente y con agitación durante 16 h antes de su uso. La solución stock se diluyó en agua destilada hasta obtener una absorbancia de 0.70 ± 0.02 a 734 nm (Cary 50 Bio UV‒Visible Varian, AUS). Para análisis, se combinaron 50 µL de solución de proteína (0.1-1.0 mg/mL) con 950 µL de solución de ABTS<sup>+</sup> diluida. La mezcla se agitó en vórtex durante 10 s y después de 7 min, se midió la absorbancia (ABS) a 734 nm. La RSA ABTS<sup>+</sup> se calculó con la <xref ref-type="disp-formula" rid="e1">Ec. 1.</xref> </p>
+				<p>
+					<disp-formula id="e1">
+						<mml:math>
+							<mml:msup>
+								<mml:mrow>
+									<mml:mi mathvariant="normal">A</mml:mi>
+									<mml:mi mathvariant="normal">B</mml:mi>
+									<mml:mi mathvariant="normal">T</mml:mi>
+									<mml:mi mathvariant="normal">S</mml:mi>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mo>+</mml:mo>
+								</mml:mrow>
+							</mml:msup>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mi mathvariant="normal">R</mml:mi>
+							<mml:mi mathvariant="normal">S</mml:mi>
+							<mml:mi mathvariant="normal">A</mml:mi>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mfenced separators="|">
+								<mml:mrow>
+									<mml:mi mathvariant="normal">%</mml:mi>
+								</mml:mrow>
+							</mml:mfenced>
+							<mml:mo>=</mml:mo>
+							<mml:mfenced close="]" open="[" separators="|">
+								<mml:mrow>
+									<mml:mfrac>
+										<mml:mrow>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">A</mml:mi>
+													<mml:mi mathvariant="normal">B</mml:mi>
+													<mml:mi mathvariant="normal">S</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">A</mml:mi>
+													<mml:mi mathvariant="normal">B</mml:mi>
+													<mml:mi mathvariant="normal">T</mml:mi>
+													<mml:mi mathvariant="normal">S</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+											<mml:mo>-</mml:mo>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">A</mml:mi>
+													<mml:mi mathvariant="normal">B</mml:mi>
+													<mml:mi mathvariant="normal">S</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi>M</mml:mi>
+													<mml:mi>u</mml:mi>
+													<mml:mi>e</mml:mi>
+													<mml:mi>s</mml:mi>
+													<mml:mi>t</mml:mi>
+													<mml:mi>r</mml:mi>
+													<mml:mi>a</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">A</mml:mi>
+													<mml:mi mathvariant="normal">B</mml:mi>
+													<mml:mi mathvariant="normal">S</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">A</mml:mi>
+													<mml:mi mathvariant="normal">B</mml:mi>
+													<mml:mi mathvariant="normal">T</mml:mi>
+													<mml:mi mathvariant="normal">S</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+										</mml:mrow>
+									</mml:mfrac>
+								</mml:mrow>
+							</mml:mfenced>
+							<mml:mi mathvariant="normal">x</mml:mi>
+							<mml:mi> </mml:mi>
+							<mml:mn>100</mml:mn>
+						</mml:math>
+						<label>(1)</label>
+					</disp-formula>
+				</p>
+				<p>El valor IC<sub>50</sub>, la concentración de proteína (mg/mL) necesaria para alcanzar el 50% de RSA, se calculó utilizando una ecuación de regresión lineal de la curva que ilustra la relación entre el RSA (%) y la concentración de la muestra (mg/mL).</p>
+				<p>Análisis termogravimétrico (TGA) de la fracción de glutelina</p>
+				<p>La fracción de glutelina (5-10 mg) se sometió a calentamiento de 25 a 800 °C a una velocidad de 10 °C/min en atmósfera de nitrógeno en un equipo TGA 550 (TA Instruments, New Castle, DE, USA). El termograma resultante fue analizado con el software TRIOS 5.0.0.44616, en el cual, la primera etapa de descomposición se refirió al contenido de agua en la muestra, mientras que la temperatura inicial de la segunda etapa de descomposición se consideró como la temperatura de descomposición (T<sub>dec</sub>) (<xref ref-type="bibr" rid="B2">Calderón-Chiu et al., 2022</xref>).</p>
+			</sec>
+			<sec>
+				<title>Determinación de parámetros cinéticos y termodinámicos</title>
+				<p>Los parámetros termodinámicos de la fracción de glutelina se determinaron a partir de la curva TGA utilizando la versión modificada del método Coats-Redfern (<xref ref-type="disp-formula" rid="e2">Ec. 2</xref>) descrita por <xref ref-type="bibr" rid="B7">Calderón-Santoyo et al. (2025)</xref>:</p>
+				<p>
+					<disp-formula id="e2">
+						<mml:math>
+							<mml:mi mathvariant="normal">l</mml:mi>
+							<mml:mi mathvariant="normal">n</mml:mi>
+							<mml:mfenced close="]" open="[" separators="|">
+								<mml:mrow>
+									<mml:mo>-</mml:mo>
+									<mml:mi mathvariant="normal">l</mml:mi>
+									<mml:mi mathvariant="normal">n</mml:mi>
+									<mml:mfenced separators="|">
+										<mml:mrow>
+											<mml:mn>1</mml:mn>
+											<mml:mo>-</mml:mo>
+											<mml:mi mathvariant="normal">X</mml:mi>
+										</mml:mrow>
+									</mml:mfenced>
+								</mml:mrow>
+							</mml:mfenced>
+							<mml:mo>=</mml:mo>
+							<mml:mi mathvariant="normal">l</mml:mi>
+							<mml:mi mathvariant="normal">n</mml:mi>
+							<mml:mfenced close="]" open="[" separators="|">
+								<mml:mrow>
+									<mml:mfrac>
+										<mml:mrow>
+											<mml:msup>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">A</mml:mi>
+													<mml:mi mathvariant="normal">R</mml:mi>
+													<mml:mi mathvariant="normal">T</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mn>2</mml:mn>
+												</mml:mrow>
+											</mml:msup>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi>β</mml:mi>
+													<mml:mi mathvariant="normal">E</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">a</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+										</mml:mrow>
+									</mml:mfrac>
+								</mml:mrow>
+							</mml:mfenced>
+							<mml:mo>-</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi>E</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mi mathvariant="normal">a</mml:mi>
+										</mml:mrow>
+									</mml:msub>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mi mathvariant="normal">R</mml:mi>
+									<mml:mi mathvariant="normal">T</mml:mi>
+								</mml:mrow>
+							</mml:mfrac>
+						</mml:math>
+						<label>(2)</label>
+					</disp-formula>
+				</p>
+				<p>donde A= factor pre-exponencial, <italic>β</italic>= velocidad de calentamiento (10 °C/min), R= constante general del gas (8.3143 J/mol•K), <italic>E</italic>
+ <sub>
+ <italic>a</italic>
+</sub> = energía de activación, T= temperatura (K) y X= grado de conversión. El grado de conversión fue calculado utilizando la <xref ref-type="disp-formula" rid="e3">Ec. 3.</xref></p>
+				<p>
+					<disp-formula id="e3">
+						<mml:math>
+							<mml:mi>X</mml:mi>
+							<mml:mo>=</mml:mo>
+							<mml:mfenced separators="|">
+								<mml:mrow>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi mathvariant="normal">W</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mi mathvariant="normal">i</mml:mi>
+										</mml:mrow>
+									</mml:msub>
+									<mml:mo>-</mml:mo>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi mathvariant="normal">W</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mi mathvariant="normal">t</mml:mi>
+										</mml:mrow>
+									</mml:msub>
+								</mml:mrow>
+							</mml:mfenced>
+							<mml:mo>/</mml:mo>
+							<mml:mfenced separators="|">
+								<mml:mrow>
+									<mml:mfenced separators="|">
+										<mml:mrow>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">W</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">i</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+											<mml:mo>-</mml:mo>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">W</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi mathvariant="normal">f</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+										</mml:mrow>
+									</mml:mfenced>
+								</mml:mrow>
+							</mml:mfenced>
+						</mml:math>
+						<label>(3)</label>
+					</disp-formula>
+				</p>
+				<p>Donde Wi= peso inicial de la muestra, Wt= peso de la muestra en el tiempo t y Wf= peso final de la muestra. Las relaciones entre ln[−ln(1−x)] y 1000/T se emplearon para determinar los parámetros cinéticos (A y <italic>E</italic>
+ <sub>
+ <italic>a</italic>
+</sub> ). Los parámetros termodinámicos como Δ<italic>H</italic> (variación total de entalpía), Δ<italic>S</italic> (variación total de entropía) y Δ<italic>G</italic> (energía libre de Gibbs) para cada etapa de descomposición se determinó con las <xref ref-type="disp-formula" rid="e4">Ec. 4.</xref> - <xref ref-type="disp-formula" rid="e6">6</xref>, respectivamente. Donde <italic>k</italic>= Constante de Boltzmann y <italic>h</italic>= la constante de Planck.</p>
+				<p>
+					<disp-formula id="e4">
+						<mml:math>
+							<mml:mo>∆</mml:mo>
+							<mml:mi>H</mml:mi>
+							<mml:mi> </mml:mi>
+							<mml:mo>=</mml:mo>
+							<mml:msub>
+								<mml:mrow>
+									<mml:mi>E</mml:mi>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mi mathvariant="normal">a</mml:mi>
+								</mml:mrow>
+							</mml:msub>
+							<mml:mo>-</mml:mo>
+							<mml:mi mathvariant="normal">R</mml:mi>
+							<mml:mi mathvariant="normal">T</mml:mi>
+						</mml:math>
+						<label>(4)</label>
+					</disp-formula>
+				</p>
+				<p>
+					<disp-formula>
+						<mml:math>
+							<mml:mi>A</mml:mi>
+							<mml:mi> </mml:mi>
+							<mml:mo>=</mml:mo>
+							<mml:mo>(</mml:mo>
+							<mml:mi>k</mml:mi>
+							<mml:mi>T</mml:mi>
+							<mml:mo>/</mml:mo>
+							<mml:mi>h</mml:mi>
+							<mml:mo>)</mml:mo>
+							<mml:mi> </mml:mi>
+							<mml:msup>
+								<mml:mrow>
+									<mml:mi mathvariant="normal">e</mml:mi>
+									<mml:mi mathvariant="normal">x</mml:mi>
+									<mml:mi mathvariant="normal">p</mml:mi>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mo>(</mml:mo>
+									<mml:mo>∆</mml:mo>
+									<mml:mi>S</mml:mi>
+									<mml:mo>/</mml:mo>
+									<mml:mi>R</mml:mi>
+									<mml:mo>)</mml:mo>
+								</mml:mrow>
+							</mml:msup>
+						</mml:math>
+						<label>(5)</label>
+					</disp-formula>
+				</p>
+				<p>
+					<disp-formula id="e6">
+						<mml:math>
+							<mml:mo>∆</mml:mo>
+							<mml:mi>G</mml:mi>
+							<mml:mi> </mml:mi>
+							<mml:mo>=</mml:mo>
+							<mml:mo>∆</mml:mo>
+							<mml:mi>H</mml:mi>
+							<mml:mo>-</mml:mo>
+							<mml:mi>T</mml:mi>
+							<mml:mo>∆</mml:mo>
+							<mml:mi>S</mml:mi>
+						</mml:math>
+						<label>(6)</label>
+					</disp-formula>
+				</p>
+			</sec>
+			<sec>
+				<title>Preparación de la emulsión usando la fracción de glutelina</title>
+				<p>Para explorar el potencial de la fracción de glutelina de hoja de yaca como posible emulsionante, se preparó una solución de glutelina al 0.5 % (p/v) en agua destilada (pH de 7.0), la cual constituyó la fase acuosa de la emulsión. En tanto, la fase oleosa fue aceite de oliva. La fase acuosa (90 % p/p) y oleosa (10 % p/p) se homogeneizaron con un ultraturrax básic (IKA T10, IKA, Staufen, DEU) a 10 000 rpm durante 2 min para obtener una preemulsión. Esta preemulsión se procesó con una sonda ultrasónica (Digital Sonifier<sup>®</sup>, S-150D, Danbury, CT, USA.) a 24 kHz durante 5 min. A la emulsión resultante se le determinó la distribución del tamaño de gota y se evaluó su estabilidad en diferentes condiciones (<xref ref-type="bibr" rid="B2">Calderón-Chiu et al., 2022</xref>).</p>
+			</sec>
+			<sec>
+				<title>Estabilidad de la emulsión en el almacenamiento</title>
+				<p>La emulsión recién preparada se almacenó en un vial de vidrio a 4 y 25 ± 1 °C. Se monitoreó la distribución del tamaño de gota y el diámetro de Brouckere (D[3, 4]) a los 0, 1, 5, 10 y 15 días de almacenamiento como indicadores de estabilidad de la emulsión (<xref ref-type="bibr" rid="B2">Calderón-Chiu et al., 2022</xref>).</p>
+			</sec>
+			<sec>
+				<title>Estabilidad de la emulsión a diferente pH</title>
+				<p>A 20 mL de emulsión recién preparada se ajustó el pH a diferentes valores (2.0-8.0) utilizando HCl 1 N o NaOH. Tras agitar en vórtex, las muestras se almacenaron durante 24 h a 25 °C (<xref ref-type="bibr" rid="B32">Zang et al., 2019</xref>). Posteriormente, se determinó la distribución del tamaño de gota y el diámetro de De Brouckère (D[3, 4]).</p>
+			</sec>
+			<sec>
+				<title>Estabilidad de la emulsión a diferente concentración de NaCl</title>
+				<p>A 20 mL de emulsión recién preparada, se añadió NaCl hasta obtener concentraciones de 100 a 500 mM (<xref ref-type="bibr" rid="B23">Ozturk et al., 2015</xref>). Tras 24 h de almacenamiento a 25 °C, se determinó la distribución del tamaño de gota y el diámetro de De Brouckère (D[3,4]).</p>
+			</sec>
+			<sec>
+				<title>Distribución del tamaño de gota</title>
+				<p>La distribución del tamaño de gota se obtuvo con un equipo Mastersizer 3000 Hydro EV (Malvern, Worcestershire, UK). Esta evaluación se realizó a 25 °C y ajustando el índice de refracción a 1.46 para la fase dispersa (aceite de oliva) y 1.33 para el dispersante (agua). La emulsión se añadió gota a gota (hasta obtener un oscurecimiento del láser de entre el 8-12 %) a 400 mL de agua destilada en la unidad Hydro EV y se obtuvo la curva de distribución del tamaño de gota y el diámetro de De Brouckere (D[3,4]) con el software Mastersizer v. 3.60. </p>
+			</sec>
+			<sec>
+				<title>Análisis estadístico</title>
+				<p>El análisis de datos se realizó utilizando un análisis de varianza de una vía (ANOVA), seguido de una prueba de comparación de medias LSD con P &lt; 0.05) con el software Statistica versión 12.0 (StatSoft, Inc., Tulsa, OK, USA).</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>Resultados y discusión</title>
+			<sec>
+				<title>Actividad de eliminación de radicales ABTS<sup>+</sup></title>
+				<p>La actividad de eliminación de radicales ABTS<sup>+</sup> de la fracción de glutelina aumentó significativamente con el incremento de la concentración (<xref ref-type="fig" rid="f1">Figura 1</xref>). Esta fracción presentó un 50% de RSA a 0.377 ± 0.004 mg/mL. El valor de IC<sub>50</sub> de la fracción de glutelina es menor al reportado para el LPC (1.01 mg/mL) y los hidrolizados de pepsina de 30 a 180 min (0.37-0.50 mg/mL) de la misma biomasa verde (<xref ref-type="bibr" rid="B3">Calderón-Chiu et al., 2021</xref>). Esta diferencia podría estar relacionada con el perfil de aminoácidos, ya que hubo mayor rendimiento de aminoácidos en la fracción de glutelina. Específicamente, esta fracción de glutelina mostró altos contenidos de leucina (10.01 g/100 g), valina (8.44 g/100 g), ácido glutámico (7.30 g/100 g), alanina (6.00 g/100 g) e isoleucina (5.83 g/100 g) (<xref ref-type="bibr" rid="B5">Calderon-Chiu et al., 2024</xref>). Estos aminoácidos poseen grupos estables en la cadena lateral (alquilo y fenilo) que permanecen inertes a los agentes oxidantes (<xref ref-type="bibr" rid="B30">Xu et al., 2017</xref>). Adicionalmente, la alanina, valina, leucina e isoleucina, presentan cadenas laterales de hidrocarburos alifáticos apolares. Estas estructuras mejoran las interacciones entre ácidos grasos y proteínas, lo que pueden mejorar la solubilidad en aceite, interactuar con radicales libres, mejorar la actividad antioxidante (<xref ref-type="bibr" rid="B1">Aguilar‐Toalá y Liceaga, 2021</xref>; <xref ref-type="bibr" rid="B24">Pan et al., 2022</xref>) y las propiedades emulsificantes. Por tanto, la RSA de la fracción de glutelina podría indicar su potencial para mitigar la oxidación lipídica, especialmente cuando se integra en una fase continua de una emulsión de aceite en agua (<xref ref-type="bibr" rid="B20">Münch et al., 2024</xref>). Asimismo, se ha demostrado que las proteínas con propiedades antioxidantes pueden ayudar a reducir el daño celular causado por el estrés oxidativo asociado a las especies reactivas de oxígeno. En ese sentido, los hidrolizados proteicos obtenidos a partir de la hoja de jaca redujeron significativamente las especies reactivas de oxígeno intracelular en células normales HaCaT (queratinocitos humanos) (<xref ref-type="bibr" rid="B5">Calderón-Chiu <italic>et al</italic>., 2024</xref>). Por consiguiente, esta fracción proteica de la misma hoja podría tener importantes aplicaciones en este campo.</p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="es">
+						<label>Figura 1</label>
+						<caption>
+							<title>Actividad de eliminación de radicales ABTS<sup>+</sup> de la fracción de glutelina de la hoja de yaca. </title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 1:</label>
+	<caption>
+	<title>The ABTS<sup>+</sup> radical scavenging activity of jackfruit leaf of glutelin fraction.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2621-gf1.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Análisis térmico y parámetros cinéticos y termodinámicos de la fracción de glutelina</title>
+				<p>La fracción de glutelina presentó tres eventos térmicos (<xref ref-type="fig" rid="f2">Figura 2 A</xref>). El primer evento ocurrió entre 41.3 y 89.48 °C (etapa 1), con una pérdida de masa del 15.4 % que fue asociada con la evaporación de agua libre. El siguiente evento ocurrió entre 239.7 y 399.6 °C (etapa 2), lo que resultó en una pérdida de masa del 36 %. Esta pérdida se relacionó con la volatilización de fragmentos de proteína debido al inicio de la descomposición. El inicio de la descomposición de la fracción de glutelina (239.7 °C) es similar a la temperatura de desnaturalización obtenida por DSC en estudios previos (<xref ref-type="bibr" rid="B6">Calderon-Chiu et al., 2024</xref>). Por otro lado, esta temperatura de descomposición fue superior a la reportada para los hidrolizados proteicos derivados de la misma biomasa (217-230.7 °C) (<xref ref-type="bibr" rid="B2">Calderón-Chiu <italic>et al</italic>., 2022</xref>), lo cual implica superior ventaja en procesos industriales que requieren altas temperaturas de procesamiento. El ultimo evento térmico se observó entre 676.4 °C y 786.2 °C (etapa 3) <bold>con</bold> una pérdida de masa del 25.1 %. Este evento se relacionó con la formación de cenizas resultante de la descomposición de proteínas en la etapa anterior. Después de los 786 °C se obtuvo un residuo del 23.5 % derivado de la degradación de materiales carbonosos (<xref ref-type="bibr" rid="B9">Chen et al., 2018</xref>).</p>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="es">
+						<label>Figura 2</label>
+						<caption>
+							<title>Análisis térmico de la fracción de glutelina: A) Análisis termogravimétrico (TG) y derivada termogravimétrica (DTG) y B) Gráfico de 1000/T versus ln[−ln(1−x)].</title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 2:</label>
+	<caption>
+	<title>Thermal analysis of the glutelin fraction: A) Thermogravimetric (TG) and derivative thermogravimetric (DTG) analyses and B) Graph of 1000/T versus ln[−ln(1−x)].</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2621-gf2.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>Los parámetros cinéticos y termodinámicos (<xref ref-type="table" rid="t1">Tabla 1</xref>) de la fracción de glutelina se obtuvieron a partir de la representación gráfica de 1000/T vs ln[−ln(1−x)] (<xref ref-type="fig" rid="f2">Figura 2B</xref>). Los coeficientes de determinación (R²) fueron muy cercanos a 1.0, lo que indica una fuerte correlación entre los datos experimentales y el modelo de Coats-Redfern, así como un nivel significativo de precisión y validez. Respecto a la energía de activación (<italic>E</italic>
+ <sub>
+ <italic>a</italic>
+</sub> ), la fracción de glutelina presentó altos valores de energía de activación durante la etapa inicial de descomposición. Esto indica que la fracción de glutelina requiere mayor energía de activación para la descomposición, lo que podría ser atribuible al contenido de humedad, dado que se requeriría un mayor consumo de energía debido al calor latente de vaporización (<xref ref-type="bibr" rid="B31">Yiga et al., 2023</xref>). Por otro lado, los valores de A inferiores a 10<sup>-9</sup> indican el predominio de reacciones superficiales, en tanto, valores iguales o superiores a 10<sup>-9</sup> denotan un mecanismo más complejo de reacción. Los valores de A de la fracción de glutelina disminuyeron a medida que avanzaban las etapas de descomposición, con diferencias en el orden de magnitud de 10<sup>-01</sup> a 10<sup>-03</sup>. Estos valores de A indican que la fracción de glutelina se descompone térmicamente a través de reacciones superficiales con diferentes niveles de energía. Los altos valores de A en la etapa 1 sugiere colisiones moleculares más sustanciales, con nuevas reacciones que requieren mayor transferencia de calor (<xref ref-type="bibr" rid="B17">Li et al., 2023</xref>).</p>
+				<p>
+					<table-wrap-group id="t1">
+	<table-wrap xml:lang="es">
+						<label>Tabla 1</label>
+						<caption>
+							<title>Parámetros cinéticos y termodinámicos de la fracción de glutelina.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 1:</label>
+		<caption>
+			<title>Kinetic and thermodynamic parameters of glutelin fraction.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 200px; background-color: #e6e7e8;" colspan="2"><bold>Parámetros 
+      cinéticos </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px; background-color: #e6e7e8;" colspan="3"><bold>Parámetros 
+      termodinámicos </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN1">
+        <italic>E</italic><sub>a</sub>
+      </xref> 
+    </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN1">
+        A
+      </xref>
+    </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN1">
+        ∆<italic>H</italic>
+      </xref>
+    </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN1">
+        ∆<italic>S</italic>
+      </xref>
+    </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN1">
+        ∆<italic>G</italic>
+      </xref>
+    </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Etapa </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>T (°C) </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+      (KJ/mol) </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+      (s<sup>-1</sup>) </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+      (KJ/mol) </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+      (KJ/mol•K) </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+      (KJ/mol) </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">239.7</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">22.86</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.53E-01</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">18.69</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-0.26</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">149.95</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">399.63</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">19.12</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.08E-02</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13.65</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-0.28</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">204.60</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">786.18</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">17.46</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">4.93E-03</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">8.84</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">-0.30</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">326.20</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p>A: factor preexponencial; <italic>E</italic>
+ <sub>
+ <italic>a</italic>
+</sub> : energía de activación; Δ<italic>H</italic>: cambio de entalpía total; Δ<italic>S</italic>: cambio de entropía total (ΔS); Δ<italic>G</italic>: energía de Gibbs libre. A: preexponential factor; <italic>E</italic>
+ <sub>
+ <italic>a</italic>
+</sub> : activation energy; Δ<italic>H</italic>: Total enthalpy change; Δ<italic>S</italic>: total entropy change; Δ<italic>G</italic>: free Gibbs energy.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>Los parámetros termodinámicos de la fracción de glutelina Δ<italic>H</italic> y Δ<italic>S</italic> (<xref ref-type="table" rid="t1">Tabla 1</xref>), fueron superiores en la etapa 1, ambos parámetros disminuyeron considerablemente en subsecuentes etapas de descomposición. Los valores de Δ<italic>H</italic> positivos en todas las etapas indican que la descomposición térmica de la glutelina es un proceso endotérmico, es decir, las moléculas absorben energía térmica para descomponerse y formar nuevos enlaces químicos no covalentes. Con respecto a Δ<italic>S</italic>, la fracción de glutelina presentó valores negativos de entropía en todas las etapas del proceso de descomposición. La tendencia descendente de los valores de Δ<italic>S</italic> indica que las muestras redujeron la reactividad a medida que transcurría el proceso térmico (<xref ref-type="bibr" rid="B25">Parthasarathy et al., 2022</xref>). Por otra parte, la fracción de glutelina presentó valores positivos de Δ<italic>G</italic> en todas las etapas, con los valores más altos de Δ<italic>G</italic> en la etapa final de descomposición. Los valores positivos de Δ<italic>G</italic> indican que la descomposición de esta fracción proteica es un proceso endergónico que requiere energía externa para su descomposición (<xref ref-type="bibr" rid="B19">Marouani et al., 2020</xref>).</p>
+				<p>La entalpía y la entropía conformacional en un modelo reticular de plegamiento de proteínas indican que la energía se cuantifica mediante el número de interacciones hidrofóbico-polar (<xref ref-type="bibr" rid="B12">van Gils et al., 2023</xref>). En ese sentido, los elevados valores de entalpía durante la etapa 1 (41.3-89.48 °C) pueden sugerir la existencia de interacciones hidrofóbicas-polares favorables y atribuidas a la presencia de agua en la muestra. Por otro lado, la etapa 2 (239.7-399.6 °C) se podrían sugerir mayores interacciones hidrofóbicas-hidrofóbicas como consecuencia de la evaporación de agua durante la etapa 1. El predominio de interacciones hidrofóbicas-hidrofóbicas conlleva una disminución de la entalpía. Como resultado, esta condición limita la libertad conformacional de la proteína y disminuye su entropía (<xref ref-type="bibr" rid="B12">van Gils <italic>et al</italic>., 2023</xref>), lo cual concuerda con los hallazgos en este estudio. Además, un aumento de la temperatura del proceso puede facilitar la formación de agregados como resultado de un aumento de las interacciones hidrofóbicas. La existencia de estos agregados resulta en una disminución de la entropía conformacional y configuracional de las proteínas, aumentando la energía libre de Gibbs de la fracción de glutelina en la etapa final de descomposición (<xref ref-type="bibr" rid="B21">Nascimento et al., 2022</xref>). Esto indica que, hasta 239 °C, la fracción de glutelina puede mostrar una buena flexibilidad, esta característica es esencial para algunas propiedades tecno-funcionales como la emulsificación. </p>
+			</sec>
+			<sec>
+				<title>Estabilidad de la emulsión en el almacenamiento</title>
+				<p>La emulsión estabilizada con la fracción de glutelina presentó un diámetro promedio de 2.4 µm (<xref ref-type="fig" rid="f3">Figura 3A</xref>) y una distribución monomodal (<xref ref-type="fig" rid="f3">Figura 3B</xref>). El tamaño de gota de esta emulsión es menor que el observado en la emulsión estabilizada con hidrolizados proteicos (diámetro de 2.70 µm) derivados de la misma biomasa a concentraciones equivalentes (<xref ref-type="bibr" rid="B2">Calderón-Chiu et al., 2022</xref>). La emulsión estabilizada con la fracción de glutelina mostró un aumento en el diámetro de gota a medida que transcurría el tiempo de almacenamiento a 4 y 25 °C (<xref ref-type="fig" rid="f3">Figuras 3 C y 3D</xref>). La emulsión almacenada a 4 °C tuvo un aumento en el tamaño de gota de 2.4 µm (día 0) a 10.24 µm (día 15). En tanto, la emulsión almacenada a 25 °C presentó una distribución (<xref ref-type="fig" rid="f3">Figura 3D</xref>) y tamaño de gota más amplios, con un aumento de 2.4 µm (día 0) a 62.3 µm (día 15). </p>
+				<p>
+					<fig-group id="f3">
+	<fig xml:lang="es">
+						<label>Figura 3</label>
+						<caption>
+							<title>Estabilidad de la emulsión durante el almacenamiento. Tamaño de gota (A), distribución del tamaño de partícula el día 0 (B) y almacenamiento a 4 °C (C) y 25 °C (D) durante 15 días. Letras diferentes indican diferencias significativas (P &lt; 0.05) entre los tratamientos. </title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 3:</label>
+	<caption>
+	<title>Emulsion stability during storage. Droplet size (A), particle size distribution at day 0 (B) and storage at 4 (C) and 25 °C (D) for 15 days. Different letters indicate significant differences (P&lt;0.05) between treatments.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2621-gf3.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>Tras un día, las emulsiones almacenadas a 4 y 25 °C presentaron una distribución monomodal. Después de cinco días, las emulsiones almacenadas a 4 °C mostraron una distribución bimodal (<xref ref-type="fig" rid="f3">Figura 3B</xref>). Por el contrario, a 25 °C las emulsiones mostraron una distribución trimodal (<xref ref-type="fig" rid="f3">Figura 3D</xref>). Este comportamiento puede estar asociado a alteraciones en la conformación proteica debido al proceso de envejecimiento, en el que las proteínas participan en interacciones no covalentes (como enlaces de hidrógeno e interacciones hidrofóbicas) con proteínas adyacentes en sus interfaces. Esta unión entre las moléculas proteicas adsorbidas modifica la capa de adsorción, lo que resulta en una capa frágil y quebradiza. Cuando la superficie se expande o deforma, esta capa puede romperse, lo que provoca la floculación de las gotas y un aumento de tamaño (<xref ref-type="bibr" rid="B16">Lam y Nickerson, 2013</xref>; <xref ref-type="bibr" rid="B18">Ling et al., 2020</xref>). Cabe destacar que la emulsión almacenada a 4 °C mostró un menor aumento del tamaño de gota (P&lt;0.05), lo que indica un menor nivel de floculación y mejor estabilidad que la emulsión almacenada a 25 °C.</p>
+				<p>Las emulsiones estabilizadas con hidrolizados proteicos derivados de la misma biomasa mostraron una menor estabilidad en refrigeración después de un día de almacenamiento (<xref ref-type="bibr" rid="B4">Calderón-Chiu et al., 2021</xref>). Esta observación subraya el impacto del método de obtención de proteínas vegetales en sus propiedades funcionales, destacando el potencial del fraccionamiento de la proteína de hoja de yaca como una estrategia eficaz para mejorar estas propiedades emulsionantes.</p>
+			</sec>
+			<sec>
+				<title>Estabilidad de la emulsión a diferentes pHs</title>
+				<p>El tamaño de gota y el patrón de distribución de la emulsión fue influenciada por el nivel de pH (<xref ref-type="fig" rid="f4">Figura 4</xref>). Las emulsiones con un pH de 2.0 mostraron los mayores tamaños de gota (19.2 µm) (P&lt;0.05), y a medida que el pH aumentó de 4.0 a 8.0, el tamaño de gota se redujo significativamente de 15.1 µm a 2.4 µm. Esta observación sugiere que las emulsiones exhiben una mayor estabilidad a niveles de pH alcalinos (<xref ref-type="fig" rid="f4">Figura 4A</xref>). Las emulsiones a niveles de pH de 2.0 y 4.0 exhibieron distribuciones bimodales y caracterizadas por una concentración sustancial de gotas con tamaños de 10 a 100 µm (<xref ref-type="fig" rid="f4">Figura 4B</xref>). Este fenómeno ocurrió debido a que el pH del medio se aproxima al punto isoeléctrico (pI) de la proteína. Bajo estas condiciones, la cantidad de grupos amino cargados positivamente es equivalente a la cantidad de grupos carboxilo cargados negativamente en la interfaz aceite/agua (O/W). En consecuencia, la carga neta de la gota es insuficiente para inhibir la atracción de van der Waals en el punto isoeléctrico. Por tanto, el aumento del tamaño de la gota se atribuye a la agregación, lo que contribuye a una mayor inestabilidad (<xref ref-type="bibr" rid="B23">Ozturk et al., 2015</xref>). </p>
+				<p>
+					<fig-group id="f4">
+	<fig xml:lang="es">
+						<label>Figura 4</label>
+						<caption>
+							<title>Estabilidad de la emulsión a diferentes pH. A) Tamaño de gota y (B) Distribución del tamaño de partícula. Letras diferentes indican diferencias significativas (P &lt; 0.05) entre tratamientos. </title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 4:</label>
+	<caption>
+	<title>Emulsion stability at different pH. A) droplet size and (B) particle size distribution. Different letters indicate significant differences (P&lt;0.05) between treatments.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2621-gf4.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>A medida que el pH asciende a 6.0, el patrón de distribución se orienta hacia partículas más pequeñas (0.2 y 6 µm) y con una configuración bimodal, mientras que a pH 8.0, la distribución del tamaño de gota cambia a monomodal (<xref ref-type="fig" rid="f4">Figura 4B</xref>). Los resultados indican que la fracción de glutelina tiene potencial para formular emulsiones O/W en un rango de pH de 6.0 a 8.0 y con potencial para incorporar compuestos lipofílicos, como vitaminas, aceites y extractos. No obstante, se requiere investigación adicional para optimizar las condiciones de formulación y corroborar esta hipótesis.</p>
+			</sec>
+			<sec>
+				<title>Estabilidad de la emulsión a diferentes concentraciones de NaCl</title>
+				<p>Las emulsiones mostraron un aumento notable en el tamaño de gota y un cambio en el patrón de distribución hacia partículas más grandes al aumentar la concentración de NaCl de 0 a 300 mM (1.5 a 6.40 µm, <xref ref-type="fig" rid="f5">Figura 5</xref>). El aumento en el tamaño de gota es debido a los efectos del cribado electrostático y la unión iónica. Cuando la concentración de cloruro de sodio (NaCl) supera un umbral específico, las fuerzas de repulsión electrostática no pueden contrarrestar adecuadamente las interacciones atractivas entre las gotas, lo que resulta en la agregación (<xref ref-type="bibr" rid="B32">Zang et al., 2019</xref>). Por otro lado, el aumento en la concentración de cloruro de sodio a 400 mM no produjo alteraciones sustanciales en el tamaño de gota. Este comportamiento podría indicar que mayores concentraciones de glutelina pueden contrarrestar el cribado electrostático, reduciendo el tamaño de las gotas y produciendo distribuciones monomodales. Por otro lado, dado que la sal es uno de los aditivos más utilizados en la industria alimentaria, esta emulsión podría ser útil para formulaciones alimentarias que requieren grandes porciones de NaCl. </p>
+				<p>
+					<fig-group id="f5">
+	<fig xml:lang="es">
+						<label>Figura 5</label>
+						<caption>
+							<title>Estabilidad de la emulsión en diferente concentración de NaCl. A) Tamaño de gota y B) Distribución del tamaño de partícula. Letras diferentes indican diferencias significativas (P &lt; 0.05) entre tratamientos.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="en">
+	<label>Figure 5:</label>
+	<caption>
+	<title>Emulsion stability at different NaCl concentrations. A) droplet size and B) particle size distribution. Different letters indicate significant differences (P&lt;0.05) between treatments.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2621-gf5.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>Las proteínas con buenas propiedades emulsionantes se caracterizan por estabilizar emulsiones con un aumento mínimo del tamaño de gota durante el almacenamiento, y por permanecer estable a factores ambientales como el pH o la fuerza iónica (<xref ref-type="bibr" rid="B20">Münch et al., 2024</xref>). Con base en ello, la fracción de glutelina podría ser un agente eficaz para estabilizar emulsiones a pH de 6.0 a 8.0 y a concentraciones de NaCl que no superen los 100 mM. Cabe destacar que estas emulsiones se estabilizaron a una concentración de proteína del 0.5 %, lo que es relativamente baja. En consecuencia, se prevé que la emulsión estabilizada con esta fracción proteica mejore su estabilidad cuando se aumente su concentración en la fase acuosa. No obstante, en la formulación actual, la emulsión ha mostrado estabilidad durante 5 días de almacenamiento, manteniendo un tamaño de gota relativamente pequeño. Esta característica la hace adecuada para su procesamiento mediante secado por aspersión. Este método mejoraría las propiedades de almacenamiento, procesamiento y manipulación, a la vez que facilita la encapsulación de compuestos lipofílicos.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>Se investigó el potencial de la fracción de glutelina de hoja de yaca para estabilizar una emulsión O/W. Los hallazgos mostraron que la fracción de glutelina mantuvo la estabilidad de la emulsión durante 5 días a 4 °C y 25 °C, con superior estabilidad a 4 °C, lo que indica su posible uso en formulaciones industriales que requieren refrigeración. De igual forma, la emulsión fue estable a un pH superior a 6.0 y a concentraciones de NaCl menores a 100 mM. Esta fracción proteica también mostró una alta estabilidad térmica y propiedades antioxidantes, lo que podría retrasar la oxidación lipídica en emulsiones de aceite en agua. No obstante, se requieren estudios adicionales para validar estos hallazgos y evaluar el potencial de esta proteína para prevenir la oxidación lipídica o reducir los niveles de especies reactivas de oxígeno intracelulares. Aun así, los resultados son alentadores y se prevé que futuras investigaciones mejoren significativamente la estabilidad de las emulsiones a través de procesos de optimización o al combinarlas con otros polímeros. Esto proporcionaría una alternativa vegetal a los emulsionantes tradicionales, diversificando las opciones en la industria alimentaria.</p>
+		</sec>
+		<sec>
+			<title>Expresiones de gratitud</title>
+			<p>Los autores agradecen a la red temática CYTED por su apoyo a través del proyecto número 319RT0576.</p>
+		</sec>
+		<sec>
+			<title>Conflictos de interes</title>
+			<p>Los autores declaran no tener intereses en competencia.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>Aguilar‐Toalá, J.E. y Liceaga, A.M. 2021. Cellular antioxidant effect of bioactive peptides and molecular mechanisms underlying: beyond chemical properties. <italic>International Journal of Food Science &amp; Technology</italic>, 56 (5), 2193-2204.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aguilar‐Toalá</surname>
+							<given-names>J.E.</given-names>
+						</name>
+						<name>
+							<surname>Liceaga</surname>
+							<given-names>A.M</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Cellular antioxidant effect of bioactive peptides and molecular mechanisms underlying: beyond chemical properties</article-title>
+					<source>International Journal of Food Science &amp; Technology</source>
+					<volume>56</volume>
+					<issue>5</issue>
+					<fpage>2193</fpage>
+					<lpage>2204</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Calderón-Chiu, C., Calderón-Santoyo, M., Barros-Castillo, J.C., Díaz, J.A. y Ragazzo-Sánchez, J.A. 2022. Structural modification of jackfruit leaf protein concentrate by enzymatic hydrolysis and their effect on the emulsifier properties. <italic>Colloids and Interfaces</italic>, 6 (4), 52.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calderón-Chiu</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Calderón-Santoyo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Barros-Castillo</surname>
+							<given-names>J.C.</given-names>
+						</name>
+						<name>
+							<surname>Díaz</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Ragazzo-Sánchez</surname>
+							<given-names>J.A</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Structural modification of jackfruit leaf protein concentrate by enzymatic hydrolysis and their effect on the emulsifier properties</article-title>
+					<source>Colloids and Interfaces</source>
+					<volume>6</volume>
+					<issue>4</issue>
+					<issue-part>52</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Calderón-Chiu, C., Calderón-Santoyo, M., Damasceno-Gomes, S. y Ragazzo-Sánchez, J.A. 2021. Use of jackfruit leaf (<italic>Artocarpus heterophyllus</italic> L.) protein hydrolysates as a stabilizer of the nanoemulsions loaded with extract-rich in pentacyclic triterpenes obtained from Coccoloba uvifera L. leaf. <italic>Food Chemistry: X</italic>, 12, 100138.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calderón-Chiu</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Calderón-Santoyo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Damasceno-Gomes</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ragazzo-Sánchez</surname>
+							<given-names>J.A</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Use of jackfruit leaf (Artocarpus heterophyllus L.) protein hydrolysates as a stabilizer of the nanoemulsions loaded with extract-rich in pentacyclic triterpenes obtained from Coccoloba uvifera L. leaf</article-title>
+					<source>Food Chemistry: X</source>
+					<volume>12</volume>
+					<issue-part>100138</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Calderón-Chiu, C., Calderón-Santoyo, M., Herman-Lara, E. y Ragazzo-Sánchez, J.A. 2021. Jackfruit (<italic>Artocarpus heterophyllus</italic> Lam) leaf as a new source to obtain protein hydrolysates: Physicochemical characterization, techno-functional properties and antioxidant capacity. <italic>Food Hydrocolloids</italic>, 112, 106319.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calderón-Chiu</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Calderón-Santoyo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Herman-Lara</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Ragazzo-Sánchez</surname>
+							<given-names>J.A</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Jackfruit (Artocarpus heterophyllus Lam) leaf as a new source to obtain protein hydrolysates: Physicochemical characterization, techno-functional properties and antioxidant capacity</article-title>
+					<source>Food Hydrocolloids</source>
+					<volume>112</volume>
+					<issue-part>106319</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Calderon-Chiu, C., Calderón-Santoyo, M. y Ragazzo-Sánchez, J.A. 2024. Protein fractions of jackfruit leaf flour and protein concentrate: Amino acid profile, functional properties and thermal analysis. <italic>Applied Sciences</italic>, 14 (20), 9155.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calderon-Chiu</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Calderón-Santoyo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ragazzo-Sánchez</surname>
+							<given-names>J.A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Protein fractions of jackfruit leaf flour and protein concentrate: Amino acid profile, functional properties and thermal analysis</article-title>
+					<source>Applied Sciences</source>
+					<volume>14</volume>
+					<issue>20</issue>
+					<issue-part>9155</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Calderón-Chiu, C., Ragazzo-Sánchez, J.A., Ordaz-Hernández, A. y Herrera-Martínez, M. 2024. Jackfruit leaf protein hydrolysates obtained by enzymatic hydrolysis of leaf protein concentrate with pepsin and pancreatin: Molecular weight, cytotoxicity, antiproliferative activity, and oxidative stress. <italic>Plant Foods for Human Nutrition</italic>, 79 (3), 685-692.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calderón-Chiu</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Ragazzo-Sánchez</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Ordaz-Hernández</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Herrera-Martínez</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Jackfruit leaf protein hydrolysates obtained by enzymatic hydrolysis of leaf protein concentrate with pepsin and pancreatin: Molecular weight, cytotoxicity, antiproliferative activity, and oxidative stress</article-title>
+					<source>Plant Foods for Human Nutrition</source>
+					<volume>79</volume>
+					<issue>3</issue>
+					<fpage>685</fpage>
+					<lpage>692</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Calderón-Santoyo, M., Calderón-Chiu, C. y Ragazzo-Sánchez, J.A. 2025. Characterisation of hydrophilic bioactive extracts of fruits from Mexico: Phenolic content, thermal and kinetic and thermodynamic analysis. <italic>Plant Foods for Human Nutrition</italic> , 80 (1), 83.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calderón-Santoyo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Calderón-Chiu</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Ragazzo-Sánchez</surname>
+							<given-names>J.A</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Characterisation of hydrophilic bioactive extracts of fruits from Mexico: Phenolic content, thermal and kinetic and thermodynamic analysis</article-title>
+					<source>Plant Foods for Human Nutrition</source>
+					<volume>80</volume>
+					<issue>1</issue>
+					<issue-part>83</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Calderón‐Santoyo, M., González‐Cruz, E.M., Iñiguez‐Moreno, M., Ramos‐Martínez, O., Burgos‐Hernández, A. y Ragazzo‐Sánchez, J.A. 2022. Microencapsulation of phenolic extract from sea grape (<italic>Coccoloba uvifera</italic> L.) with antimutagenic activity. <italic>Chemistry &amp; Biodiversity</italic>, 19 (11).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calderón‐Santoyo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>González‐Cruz</surname>
+							<given-names>E.M.</given-names>
+						</name>
+						<name>
+							<surname>Iñiguez‐Moreno</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ramos‐Martínez</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Burgos‐Hernández</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ragazzo‐Sánchez</surname>
+							<given-names>J.A</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Microencapsulation of phenolic extract from sea grape (Coccoloba uvifera L.) with antimutagenic activity</article-title>
+					<source>Chemistry &amp; Biodiversity</source>
+					<volume>19</volume>
+					<issue>11</issue>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Chen, W.-H., Chu, Y.-S., Liu, J.-L. y Chang, J.-S. 2018. Thermal degradation of carbohydrates, proteins and lipids in microalgae analyzed by evolutionary computation. <italic>Energy Conversion and Management</italic>, 160, 209-219.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chen</surname>
+							<given-names>W.-H.</given-names>
+						</name>
+						<name>
+							<surname>Chu</surname>
+							<given-names>Y.-S.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>J.-L.</given-names>
+						</name>
+						<name>
+							<surname>Chang</surname>
+							<given-names>J.-S</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Thermal degradation of carbohydrates, proteins and lipids in microalgae analyzed by evolutionary computation</article-title>
+					<source>Energy Conversion and Management</source>
+					<volume>160</volume>
+					<fpage>209</fpage>
+					<lpage>219</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Fasolin, L.H., Pereira, R.N., Pinheiro, A.C., Martins, J.T., Andrade, C.C.P., Ramos, O.L. y Vicente, A.A. 2019. Emergent food proteins - Towards sustainability, health and innovation. <italic>Food Research International</italic>, 125, 108586.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fasolin</surname>
+							<given-names>L.H.</given-names>
+						</name>
+						<name>
+							<surname>Pereira</surname>
+							<given-names>R.N.</given-names>
+						</name>
+						<name>
+							<surname>Pinheiro</surname>
+							<given-names>A.C.</given-names>
+						</name>
+						<name>
+							<surname>Martins</surname>
+							<given-names>J.T.</given-names>
+						</name>
+						<name>
+							<surname>Andrade</surname>
+							<given-names>C.C.P.</given-names>
+						</name>
+						<name>
+							<surname>Ramos</surname>
+							<given-names>O.L.</given-names>
+						</name>
+						<name>
+							<surname>Vicente</surname>
+							<given-names>A.A</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Emergent food proteins - Towards sustainability, health and innovation</article-title>
+					<source>Food Research International</source>
+					<volume>125</volume>
+					<issue-part>108586</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Gao, K., Rao, J. y Chen, B. 2024. Plant protein solubility: A challenge or insurmountable obstacle. <italic>Advances in Colloid and Interface Science</italic>, 324, 103074.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gao</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Rao</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Plant protein solubility: A challenge or insurmountable obstacle</article-title>
+					<source>Advances in Colloid and Interface Science</source>
+					<volume>324</volume>
+					<issue-part>103074</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>van Gils, J.H.M., Mouhib, H., van Dijk, E., Dijkstra, M., Houtkamp, I., Goetzee, A., Abeln, S. y Feenstra, A.K. 2023. Thermodynamics of protein folding. <italic>In</italic>: J.H.M. van Gils, A.K. Feenstra, y S. Abeln, eds. <italic>Introduction to Protein Structural Bioinformatics</italic>. 1-22.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>van Gils</surname>
+							<given-names>J.H.M.</given-names>
+						</name>
+						<name>
+							<surname>Mouhib</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>van Dijk</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Dijkstra</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Houtkamp</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Goetzee</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Abeln</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Feenstra</surname>
+							<given-names>A.K</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<chapter-title>Thermodynamics of protein folding</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>van Gils</surname>
+							<given-names>J.H.M</given-names>
+						</name>
+						<name>
+							<surname>Feenstra</surname>
+							<given-names>A.K</given-names>
+						</name>
+						<name>
+							<surname>Abeln</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<source>Introduction to Protein Structural Bioinformatics</source>
+					<fpage>1</fpage>
+					<lpage>22</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Gomes, A. y Sobral, P.J.D.A. 2021. Plant protein-based delivery systems: An emerging approach for increasing the efficacy of lipophilic bioactive compounds. <italic>Molecules</italic>, 27 (1), 60.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gomes</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Sobral</surname>
+							<given-names>P.J.D.A</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Plant protein-based delivery systems: An emerging approach for increasing the efficacy of lipophilic bioactive compounds</article-title>
+					<source>Molecules</source>
+					<volume>27</volume>
+					<issue>1</issue>
+					<issue-part>60</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Gonçalves, R.F.S., Martins, J.T., Duarte, C.M.M., Vicente, A.A. y Pinheiro, A.C. 2018. Advances in nutraceutical delivery systems: From formulation design for bioavailability enhancement to efficacy and safety evaluation. <italic>Trends in Food Science &amp; Technology</italic>, 78, 270-291.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gonçalves</surname>
+							<given-names>R.F.S.</given-names>
+						</name>
+						<name>
+							<surname>Martins</surname>
+							<given-names>J.T.</given-names>
+						</name>
+						<name>
+							<surname>Duarte</surname>
+							<given-names>C.M.M.</given-names>
+						</name>
+						<name>
+							<surname>Vicente</surname>
+							<given-names>A.A.</given-names>
+						</name>
+						<name>
+							<surname>Pinheiro</surname>
+							<given-names>A.C</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Advances in nutraceutical delivery systems: From formulation design for bioavailability enhancement to efficacy and safety evaluation</article-title>
+					<source>Trends in Food Science &amp; Technology</source>
+					<volume>78</volume>
+					<fpage>270</fpage>
+					<lpage>291</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Kaur, G. y Bhatia, S. 2022. Radish leaf protein concentrates: optimization of alkaline extraction for production and characterization of an alternative plant protein concentrate. <italic>Journal of Food Measurement and Characterization</italic>, 16 (4), 3166-3181.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kaur</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Bhatia</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Radish leaf protein concentrates: optimization of alkaline extraction for production and characterization of an alternative plant protein concentrate</article-title>
+					<source>Journal of Food Measurement and Characterization</source>
+					<volume>16</volume>
+					<issue>4</issue>
+					<fpage>3166</fpage>
+					<lpage>3181</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Lam, R.S.H. y Nickerson, M.T. 2013. Food proteins: A review on their emulsifying properties using a structure-function approach. <italic>Food Chemistry</italic>, 141 (2), 975-984.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lam</surname>
+							<given-names>R.S.H.</given-names>
+						</name>
+						<name>
+							<surname>Nickerson</surname>
+							<given-names>M.T</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Food proteins: A review on their emulsifying properties using a structure-function approach</article-title>
+					<source>Food Chemistry</source>
+					<volume>141</volume>
+					<issue>2</issue>
+					<fpage>975</fpage>
+					<lpage>984</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Li, Y., Wang, Y., Chai, M., Li, C., Nishu, Yellezuome, D. y Liu, R. 2023. Pyrolysis kinetics and thermodynamic parameters of bamboo residues and its three main components using thermogravimetric analysis. <italic>Biomass and Bioenergy</italic>, 170, 106705.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Chai</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Nishu, Yellezuome</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Pyrolysis kinetics and thermodynamic parameters of bamboo residues and its three main components using thermogravimetric analysis</article-title>
+					<source>Biomass and Bioenergy</source>
+					<volume>170</volume>
+					<issue-part>106705</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Ling, Z., Ai, M., Zhou, Q., Guo, S., Zhou, L., Fan, H., Cao, Y. y Jiang, A. 2020. Fabrication egg white gel hydrolysates-stabilized oil-in-water emulsion and characterization of its stability and digestibility. <italic>Food Hydrocolloids</italic> , 102, 105621.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ling</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Ai</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Zhou</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Guo</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Zhou</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Fan</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Cao</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Jiang</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Fabrication egg white gel hydrolysates-stabilized oil-in-water emulsion and characterization of its stability and digestibility</article-title>
+					<source>Food Hydrocolloids</source>
+					<volume>102</volume>
+					<issue-part>105621</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Marouani, M. El, Bouzbib, M., Hamdaoui, L. El, Pienaar, A., Trif, L., Tagne, M.S. y Kifani-Sahban, F. 2020. <italic>Eriobotrya japonica</italic> Lindl. Kernels: Kinetics of Thermal Degradation under Inert Atmosphere Using Model-Free and Fitting Methods. <italic>Biointerface Research in Applied Chemistry</italic>, 11 (4), 11357-11379.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marouani</surname>
+							<given-names>M. El</given-names>
+						</name>
+						<name>
+							<surname>Bouzbib</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Hamdaoui</surname>
+							<given-names>L. El</given-names>
+						</name>
+						<name>
+							<surname>Pienaar</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Trif</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Tagne</surname>
+							<given-names>M.S.</given-names>
+						</name>
+						<name>
+							<surname>Kifani-Sahban</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Eriobotrya japonica Lindl. Kernels: Kinetics of Thermal Degradation under Inert Atmosphere Using Model-Free and Fitting Methods</article-title>
+					<source>Biointerface Research in Applied Chemistry</source>
+					<volume>11</volume>
+					<issue>4</issue>
+					<fpage>11357</fpage>
+					<lpage>11379</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Münch, K., Schroën, K. y Berton‐Carabin, C. 2024. Relevance of various components present in plant protein ingredients for lipid oxidation in emulsions. <italic>Journal of the American Oil Chemists’ Society</italic>, 101 (10), 1065-1084.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Münch</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Schroën</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Berton‐Carabin</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Relevance of various components present in plant protein ingredients for lipid oxidation in emulsions</article-title>
+					<source>Journal of the American Oil Chemists’ Society</source>
+					<volume>101</volume>
+					<issue>10</issue>
+					<fpage>1065</fpage>
+					<lpage>1084</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Nascimento, R.G., Porfírio, M.C.P., Nascimento, P.A., Alves, A.N., Santos, L.S., Veloso, C.M., Bonomo, R.C.F. y Fontan, R. da C.I. 2022. A novel hydrophobic matrix grafted with aniline for protein capture and thermodynamic study of BSA adsorption. <italic>Journal of Polymers and the Environment</italic>, 30 (8), 3230-3238.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nascimento</surname>
+							<given-names>R.G.</given-names>
+						</name>
+						<name>
+							<surname>Porfírio</surname>
+							<given-names>M.C.P.</given-names>
+						</name>
+						<name>
+							<surname>Nascimento</surname>
+							<given-names>P.A.</given-names>
+						</name>
+						<name>
+							<surname>Alves</surname>
+							<given-names>A.N.</given-names>
+						</name>
+						<name>
+							<surname>Santos</surname>
+							<given-names>L.S.</given-names>
+						</name>
+						<name>
+							<surname>Veloso</surname>
+							<given-names>C.M.</given-names>
+						</name>
+						<name>
+							<surname>Bonomo</surname>
+							<given-names>R.C.F.</given-names>
+						</name>
+						<name>
+							<surname>Fontan</surname>
+							<given-names>R. da C.I</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>A novel hydrophobic matrix grafted with aniline for protein capture and thermodynamic study of BSA adsorption</article-title>
+					<source>Journal of Polymers and the Environment</source>
+					<volume>30</volume>
+					<issue>8</issue>
+					<fpage>3230</fpage>
+					<lpage>3238</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Nynäs, A.-L., Newson, W.R., Langton, M., Wouters, A.G.B. y Johansson, E. 2023. Applicability of leaf protein concentrates from various sources in food: Solubility at food-relevant pH values and air-water interfacial properties. <italic>LWT</italic>, 184, 114962.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nynäs</surname>
+							<given-names>A.-L.</given-names>
+						</name>
+						<name>
+							<surname>Newson</surname>
+							<given-names>W.R.</given-names>
+						</name>
+						<name>
+							<surname>Langton</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Wouters</surname>
+							<given-names>A.G.B.</given-names>
+						</name>
+						<name>
+							<surname>Johansson</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Applicability of leaf protein concentrates from various sources in food: Solubility at food-relevant pH values and air-water interfacial properties</article-title>
+					<source>LWT</source>
+					<volume>184</volume>
+					<issue-part>114962</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Ozturk, B., Argin, S., Ozilgen, M. y McClements, D.J. 2015. Formation and stabilization of nanoemulsion-based vitamin E delivery systems using natural biopolymers: Whey protein isolate and gum arabic. <italic>Food Chemistry</italic> , 188, 256-263.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ozturk</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Argin</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ozilgen</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>McClements</surname>
+							<given-names>D.J</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Formation and stabilization of nanoemulsion-based vitamin E delivery systems using natural biopolymers: Whey protein isolate and gum arabic</article-title>
+					<source>Food Chemistry</source>
+					<volume>188</volume>
+					<fpage>256</fpage>
+					<lpage>263</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Pan, F.G., Yang, E.Q., Xu, J.Y., Lu, Y.F., Yang, C.X., Zhang, Y.D., Li, S. y Liu, B.Q. 2022. Review on preparation methods, mechanisms and applications for antioxidant peptides in oil. <italic>Grasas y Aceites</italic>, 73 (4), e478.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pan</surname>
+							<given-names>F.G.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>E.Q.</given-names>
+						</name>
+						<name>
+							<surname>Xu</surname>
+							<given-names>J.Y.</given-names>
+						</name>
+						<name>
+							<surname>Lu</surname>
+							<given-names>Y.F.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>C.X.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>Y.D.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>B.Q</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Review on preparation methods, mechanisms and applications for antioxidant peptides in oil</article-title>
+					<source>Grasas y Aceites</source>
+					<volume>73</volume>
+					<issue>4</issue>
+					<elocation-id>e478</elocation-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Parthasarathy, P., Fernandez, A., Singh, D.K., Al-Ansari, T., Mackey, H.R., Rodriguez, R., Mazza, G., Tirkey, J.V. y McKay, G. 2022. Thermogravimetric analysis of camel dung, date stone, and their blend for pyrolytic, kinetic, and thermodynamic studies. <italic>Cleaner Chemical Engineering</italic>, 4, 100072.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parthasarathy</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Fernandez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Singh</surname>
+							<given-names>D.K.</given-names>
+						</name>
+						<name>
+							<surname>Al-Ansari</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Mackey</surname>
+							<given-names>H.R.</given-names>
+						</name>
+						<name>
+							<surname>Rodriguez</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Mazza</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Tirkey</surname>
+							<given-names>J.V.</given-names>
+						</name>
+						<name>
+							<surname>McKay</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Thermogravimetric analysis of camel dung, date stone, and their blend for pyrolytic, kinetic, and thermodynamic studies</article-title>
+					<source>Cleaner Chemical Engineering</source>
+					<volume>4</volume>
+					<issue-part>100072</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Phiri, R., Rangappa, S.M. y Siengchin, S. 2024. Agro-waste for renewable and sustainable green production: A review. <italic>Journal of Cleaner Production</italic>, 434, 139989.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Phiri</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Rangappa</surname>
+							<given-names>S.M.</given-names>
+						</name>
+						<name>
+							<surname>Siengchin</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Agro-waste for renewable and sustainable green production: A review</article-title>
+					<source>Journal of Cleaner Production</source>
+					<volume>434</volume>
+					<issue-part>139989</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Qoms, M.S., Arulrajah, B., Shamsudin, R., Ibadullah, W.Z.W. y Saari, N. 2022. Valorization of green biomass <italic>Azolla pinnata</italic> fern: multi‐parameter evaluation of processing conditions on protein extractability and their influence on the physicochemical, structural, techno‐functional properties and protein quality. <italic>Journal of the Science of Food and Agriculture</italic>, 102 (15), 6974-6983.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Qoms</surname>
+							<given-names>M.S.</given-names>
+						</name>
+						<name>
+							<surname>Arulrajah</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Shamsudin</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Ibadullah</surname>
+							<given-names>W.Z.W.</given-names>
+						</name>
+						<name>
+							<surname>Saari</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Valorization of green biomass Azolla pinnata fern: multi‐parameter evaluation of processing conditions on protein extractability and their influence on the physicochemical, structural, techno‐functional properties and protein quality.</article-title>
+					<source>Journal of the Science of Food and Agriculture</source>
+					<volume>102</volume>
+					<issue>15</issue>
+					<fpage>6974</fpage>
+					<lpage>6983</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Re, R., Pellegrini, N., Proteggente, A., Pannala, A., Yang, M. y Rice-Evans, C. 1999. Antioxidant activity applying an improved ABTS radical cation decolorization assay. <italic>Free Radical Biology and Medicine</italic>, 29 (9-10), 1231-1237.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Re</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Pellegrini</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Proteggente</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Pannala</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Rice-Evans</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<article-title>Antioxidant activity applying an improved ABTS radical cation decolorization assay</article-title>
+					<source>Free Radical Biology and Medicine</source>
+					<volume>29</volume>
+					<issue>9-10</issue>
+					<fpage>1231</fpage>
+					<lpage>1237</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Samborska, K., Boostani, S., Geranpour, M., Hosseini, H., Dima, C., Khoshnoudi-Nia, S., Rostamabadi, H., Falsafi, S.R., Shaddel, R., Akbari-Alavijeh, S. y Jafari, S.M. 2021. Green biopolymers from by-products as wall materials for spray drying microencapsulation of phytochemicals. <italic>Trends in Food Science &amp; Technology</italic> , 108, 297-325.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Samborska</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Boostani</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Geranpour</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Hosseini</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Dima</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Khoshnoudi-Nia</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Rostamabadi</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Falsafi</surname>
+							<given-names>S.R.</given-names>
+						</name>
+						<name>
+							<surname>Shaddel</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Akbari-Alavijeh</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Jafari</surname>
+							<given-names>S.M</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Green biopolymers from by-products as wall materials for spray drying microencapsulation of phytochemicals</article-title>
+					<source>Trends in Food Science &amp; Technology</source>
+					<volume>108</volume>
+					<fpage>297</fpage>
+					<lpage>325</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Xu, N., Chen, G. y Liu, H. 2017. Antioxidative categorization of twenty amino acids based on experimental evaluation. <italic>Molecules</italic> , 22 (12), 2066.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Xu</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Antioxidative categorization of twenty amino acids based on experimental evaluation</article-title>
+					<source>Molecules</source>
+					<volume>22</volume>
+					<issue>12</issue>
+					<issue-part>2066</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Yiga, V.A., Katamba, M., Lubwama, M., Adolfsson, K.H., Hakkarainen, M. y Kamalha, E. 2023. Combustion, kinetics and thermodynamic characteristics of rice husks and rice husk-biocomposites using thermogravimetric analysis. <italic>Journal of Thermal Analysis and Calorimetry</italic>, 148 (21), 11435-11454.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yiga</surname>
+							<given-names>V.A.</given-names>
+						</name>
+						<name>
+							<surname>Katamba</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Lubwama</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Adolfsson</surname>
+							<given-names>K.H.</given-names>
+						</name>
+						<name>
+							<surname>Hakkarainen</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Kamalha</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Combustion, kinetics and thermodynamic characteristics of rice husks and rice husk-biocomposites using thermogravimetric analysis</article-title>
+					<source>Journal of Thermal Analysis and Calorimetry</source>
+					<volume>148</volume>
+					<issue>21</issue>
+					<fpage>11435</fpage>
+					<lpage>11454</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Zang, X., Yue, C., Wang, Y ., Shao, M. y Yu, G. 2019. Effect of limited enzymatic hydrolysis on the structure and emulsifying properties of rice bran protein. <italic>Journal of Cereal Science</italic>, 85, 168-174.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zang</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Yue</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>Y .</given-names>
+						</name>
+						<name>
+							<surname>Shao</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Yu</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Effect of limited enzymatic hydrolysis on the structure and emulsifying properties of rice bran protein</article-title>
+					<source>Journal of Cereal Science</source>
+					<volume>85</volume>
+					<fpage>168</fpage>
+					<lpage>174</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

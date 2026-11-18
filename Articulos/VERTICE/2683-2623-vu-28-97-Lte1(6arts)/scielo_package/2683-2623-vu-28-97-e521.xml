@@ -1,0 +1,2294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">vu</journal-id>
+			<journal-title-group>
+				<journal-title>Vértice universitario</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Vértice univ.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-1388</issn>
+			<issn pub-type="epub">2683-2623</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Económicas y Administrativas</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36792/rvu.v28i97.521</article-id>
+			<article-id pub-id-type="other">00106</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Valor percibido, Influencia social e intención de compra para Consumo sostenible en México</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-7739-0225</contrib-id>
+					<name>
+						<surname>Vela Reyna</surname>
+						<given-names>Juan Benito</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Profesor Investigador</role>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Profesor Investigador.Facultad de Ciencias Administrativas, Universidad Autónoma de Baja California. Correo electrónico: jbenitovela@uabc.edu.mx </institution>
+					<institution content-type="normalized">Universidad Autónoma de Baja California</institution>
+					<institution content-type="orgname">Universidad Autónoma de Baja California</institution>
+					<country country="MX">Mexico</country>
+					<email>jbenitovela@uabc.edu.mx</email>
+				</aff>
+			</contrib-group>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>27</day>
+				<month>05</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>28</volume>
+			<issue>97</issue>
+			<elocation-id>e521</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>27</day>
+					<month>02</month>
+					<year>2026</year>
+				</date>
+				<date date-type="accepted">
+					<day>19</day>
+					<month>05</month>
+					<year>2026</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El objetivo de este estudio es analizar la relación entre percepción del valor e influencia social sobre la intención y el comportamiento de compra sostenible en consumidores mexicanos. La metodología es cuantitativa, explicativa y diseño transversal, recolectando datos de 233 participantes mediante cuestionario en línea aplicado entre febrero y mayo de 2025, analizados mediante ecuaciones estructurales (SEM). Los resultados indican que la percepción del valor y la influencia social tienen efectos significativos en la intención y en el comportamiento de compra sostenible, además de revelar una relación recíproca entre ambos constructos. Como limitación, el estudio se desarrolló en un contexto nacional específico y con un muestreo no probabilístico lo que puede restringir la generalización de los resultados. En conclusión, los hallazgos indican que el fortalecimiento del valor percibido y la validación social son factores clave para impulsar el consumo responsable. La revisión de la literatura señala que, pese al creciente interés por la sostenibilidad, la investigación empírica en México sigue siendo limitada. Este estudio aporta un modelo causal que integra variables psicosociales relevantes para el fomento del consumo sostenible.</p>
+			</abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras-clave:</title>
+				<kwd>Consumo sostenible</kwd>
+				<kwd>comportamiento de consumo</kwd>
+				<kwd>producto sostenible</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Código JEL:</title>
+				<kwd>D12</kwd>
+				<kwd>Q56</kwd>
+				<kwd>M31</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="2"/>
+				<table-count count="14"/>
+				<equation-count count="0"/>
+				<ref-count count="39"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>1. Introducción</title>
+			<p>En la actualidad, ante la crisis ambiental, el interés por comprender qué factores determinan la adopción de prácticas de consumo sostenible, va en aumento. En países como México, donde estas prácticas todavía se encuentran en proceso de consolidación, resulta indispensable generar evidencia empírica que explique cómo los consumidores construyen sus decisiones de compra responsables (<xref ref-type="bibr" rid="B29">Maduku, 2024</xref>; <xref ref-type="bibr" rid="B14">Ghaffar &amp; Islam, 2024</xref>). Además, de lo anterior, existen otros elementos como la percepción del valor, la influencia social y la intención de compra que guardan una relación intensa respecto al consumo responsable, por lo cual, su análisis debe ser incluyente para conocer de forma precisa el comportamiento del consumidor mexicano. Asimismo, estos elementos han sido ampliamente estudiados en contextos asiáticos y europeos (<xref ref-type="bibr" rid="B1">Ajzen, 1991</xref>; <xref ref-type="bibr" rid="B23">Jiang et al., 2024</xref>; <xref ref-type="bibr" rid="B31">Nangia et al., 2024</xref>), la literatura dentro del contexto nacional y regional disponible es aún limitada, reciente y en ocasiones contradictoria. </p>
+			<p>El objetivo de la presente investigación consiste en analizar la existencia de relaciones significativas entre la percepción del valor (VPS), la influencia social (RCS), la intención de compra (ICS) y el comportamiento de compra sostenible (CCS) en consumidores mexicanos. Para esto, se utilizó el modelo de ecuaciones estructurales por mínimos cuadrados parciales (PLS-SEM). Con todo esto, se busca comprobar relaciones positivas entre dichas variables y aportar evidencia para el diseño de estrategias empresariales y políticas públicas que refuercen la validación social y el valor percibido como factores que impulsen el consumo sostenible. </p>
+			<p>Este estudio aporta evidencia empírica reciente de México, cuyo ámbito aún es poco explorado, pese a que resulta urgente la promoción del consumo responsable en Baja California. Asimismo, propone un modelo correlacional que combina simultáneamente las variables psicosociales: percepción del valor e influencia social, y su relación tanto con la intención como con el comportamiento de compra sostenible. </p>
+			<p>El artículo inicia con la revisión de la literatura en torno a la perspectiva del valor, la influencia social, la intención y el comportamiento de compra sostenible; se presenta el modelo teórico y las hipótesis de investigación. Luego, se describe la metodología utilizada donde se incluye el diseño de investigación, la muestra, el instrumento de recolección de datos y el modelo estadístico aplicado (PLS-SEM). Posteriormente, se muestran los resultados del análisis a partir del modelo de ecuaciones estructurales y en el siguiente apartado se discuten los hallazgos más destacados. Finalmente se exponen las conclusiones del estudio, sus limitaciones y posibles líneas de investigación para el futuro.</p>
+		</sec>
+		<sec>
+			<title>2. Revisión de la Literatura</title>
+			<sec>
+				<title>2.1 Percepción del valor en el consumo responsable (VPS)</title>
+				<p>El valor percibido, en materia del consumo responsable, no está limitado al precio o calidad del producto, sino de una valoración más amplia en el que las personas toman en cuenta factores éticos, ambientales, emocionales y sociales que influyen en su decisión de compra (<xref ref-type="bibr" rid="B14">Ghaffar &amp; Islam, 2024</xref>). Diversos estudios revelan que los consumidores suelen dar mayor valor a bienes y servicios que generan beneficios colectivos, como los productos ecológicos o de producción local (<xref ref-type="bibr" rid="B29">Maduku, 2024</xref>). Además, la satisfacción de escoger algo que concuerda con sus principios, o incluso la incomodidad de no estar actuando conforme a valores sostenibles, también pesa al momento de decidir qué comprar (<xref ref-type="bibr" rid="B31">Nangia et al., 2024</xref>).</p>
+			</sec>
+			<sec>
+				<title>2.2 Influencia social en el consumo sostenible (RCS)</title>
+				<p>En las decisiones de compra, el entorno social ejerce una influencia decisiva. Según la Teoría del Comportamiento Planeado, descrito en el estudio seminal de Akzen (1991) las normas subjetivas, entendidas como la percepción de lo socialmente apropiado, inciden directamente en la intención de actuar de forma sostenible. Familiares, amistades y figuras públicas actúan como referentes de conducta, especialmente cuando intervienen la aceptación social y el sentido de pertenencia (<xref ref-type="bibr" rid="B4">Ali et al., 2022</xref>).</p>
+				<p>Las redes sociales digitales amplifican este efecto al visibilizar y reforzar prácticas sostenibles. El apoyo público de influencers o de personas cercanas favorece la adopción de actitudes proambientales (<xref ref-type="bibr" rid="B27">Le et al., 2024</xref>; <xref ref-type="bibr" rid="B20">Horrich et al., 2024</xref>). Desde el Razonamiento Conductual, se reconoce que las acciones sostenibles pueden responder no solo a convicciones personales, sino también a la necesidad de proyectar coherencia e identidad social (<xref ref-type="bibr" rid="B38">Wang et al., 2021</xref>), fenómeno especialmente notable entre la Generación Z, caracterizada por su afinidad con las causas ambientales (<xref ref-type="bibr" rid="B24">Kara &amp; Min, 2024</xref>; <xref ref-type="bibr" rid="B36">Zhao et al., 2010</xref>).</p>
+			</sec>
+			<sec>
+				<title>2.3 Intención de compra sostenible (ICS)</title>
+				<p>La intención de compra sostenible se entiende como la disposición de adquirir productos que provoquen un menor impacto ambiental, teniendo en cuenta criterios relacionados con la protección del medio ambiente, el consumo responsable y la sostenibilidad. La intención se encuentra influenciada por factores como la actitud hacia los productos ecológicos, las normas sociales percibidas, la percepción que tiene el consumidor sobre su capacidad para realizar compras sostenibles y la creencia de que sus acciones de consumo pueden contribuir positivamente al cuidado del medio ambiente (<xref ref-type="bibr" rid="B11">Do et al., 2025</xref>). De acuerdo con la Teoría del Comportamiento Planeado, dicha disposición está determinada por la actitud, las normas sociales percibidas y el control conductual percibido (<xref ref-type="bibr" rid="B1">Ajzen, 1991</xref>). Investigaciones recientes han incorporado variables adicionales, como la conciencia ambiental y la preocupación por la salud, que fortalecen la intención de compra responsable (<xref ref-type="bibr" rid="B28">Li &amp; Shan, 2025</xref>). Asimismo, se han identificado factores como el juicio moral y la valoración ecológica, los cuales influyen positivamente junto con atributos más tangibles, como el precio o la calidad del producto (<xref ref-type="bibr" rid="B37">Tian et al., 2022</xref>; <xref ref-type="bibr" rid="B34">Patiño-Toro et al., 2024</xref>).</p>
+				<p>Un estudio de la India revela que la actitud es el factor determinante de la intención sostenible, seguida de la percepción de accesibilidad y la facilidad de pago por precios razonable (<xref ref-type="bibr" rid="B33">Panda et al., 2024</xref>). El consumo consciente, se entiende como la elección de productos o servicios teniendo en cuenta valores éticos y ambientales que refuerzan esta intención (<xref ref-type="bibr" rid="B22">Ji et al., 2025</xref>). </p>
+			</sec>
+			<sec>
+				<title>2.4 Comportamiento de compra sostenible (CCS)</title>
+				<p>El comportamiento de compra sostenible se entiende como la acción de obtener bienes o servicios impactando lo menos posible en el ambiente, en congruencia con valores éticos y de responsabilidad ecológica (<xref ref-type="bibr" rid="B8">Dangelico &amp; Vocalelli, 2024</xref>). A diferencia de la intención, esta conducta representa la materialización de actitudes y normas sociales en decisiones reales de consumo (<xref ref-type="bibr" rid="B35">Sharma et al., 2022</xref>).</p>
+				<p>Factores como el conocimiento sobre responsabilidad social empresarial, la presión social, la exposición a contenidos proambientales y la identificación con valores comunitarios pueden motivar tanto comportamientos altruistas como de interés personal hacia el consumo responsable (<xref ref-type="bibr" rid="B30">Mahmud, 2024</xref>; <xref ref-type="bibr" rid="B3">Alghamdi &amp; Agag, 2024</xref>). En generaciones como la centennial (Gen Z), variables culturales, emocionales y de estilo de vida también ejercen una influencia relevante (<xref ref-type="bibr" rid="B2">Akbar et al., 2024</xref>). </p>
+			</sec>
+			<sec>
+				<title>2.5 Relaciones entre variables en el consumo sostenible (Figura 1)</title>
+				<p>En la <xref ref-type="fig" rid="f1">figura 1</xref> se representa las conexiones entre lo que valoran los consumidores, la presión social y sus decisiones de compra sostenible. A partir de ello, se proponen cinco relaciones para entender este comportamiento:</p>
+				<p>La percepción del valor en productos sostenibles influye en la apertura a la influencia social, especialmente cuando los consumidores asocian atributos éticos o simbólicos al consumo responsable, buscando coherencia con normas sociales (<xref ref-type="bibr" rid="B29">Maduku, 2024</xref>). En entornos donde el consumo sostenible es deseable, esta percepción fortalece la validación social y el sentimiento de pertenencia (<xref ref-type="bibr" rid="B27">Le et al., 2024</xref>).</p>
+				<p>
+					<fig id="f1">
+						<label>Figura 1:</label>
+						<caption>
+							<title>Modelo estructural </title>
+						</caption>
+						<graphic xlink:href="2683-2623-vu-28-97-e521-gf1.jpg"/>
+						<attrib>Fuente: Elaboración propia a partir de la literatura consultada</attrib>
+					</fig>
+				</p>
+				<p>Para comprobar el modelo propuesto, se plantean las siguientes hipótesis:</p>
+				<p>H1. La percepción del valor (VPS) tiene relación positiva en la influencia social (RCS), al promover la aceptación de normas sostenibles (<xref ref-type="bibr" rid="B1">Ajzen, 1991</xref>; <xref ref-type="bibr" rid="B24">Kara &amp; Min, 2024</xref>; <xref ref-type="bibr" rid="B20">Horrich et al., 2024</xref>).</p>
+				<p>H2. La influencia social (RCS) se asocia positivamente en la intención de compra sostenible (ICS), al fortalecer actitudes hacia el consumo ecológico (<xref ref-type="bibr" rid="B14">Ghaffar &amp; Islam, 2024</xref>; <xref ref-type="bibr" rid="B37">Tian et al., 2022</xref>; <xref ref-type="bibr" rid="B29">Maduku, 2024</xref>).</p>
+				<p>H3. La percepción del valor (VPS) incide positivamente en la intención de compra sostenible (ICS), al reflejar la evaluación ética y funcional del producto (<xref ref-type="bibr" rid="B34">Patiño-Toro et al., 2024</xref>).</p>
+				<p>H4. La percepción del valor (VPS) se relaciona positivamente con el comportamiento de compra sostenible (CCS), al integrar beneficios personales, sociales y ambientales (<xref ref-type="bibr" rid="B2">Akbar et al., 2024</xref>).</p>
+				<p>H5. El comportamiento de compra sostenible (CCS) incide positivamente en la intención de compra futura (ICS), consolidando hábitos responsables (<xref ref-type="bibr" rid="B22">Ji et al., 2025</xref>).</p>
+			</sec>
+		</sec>
+		<sec sec-type="methods">
+			<title>3. Metodología</title>
+			<p>La investigación se desarrolló bajo un enfoque cuantitativo, con diseño explicativo y de corte transversal, orientado a analizar la influencia de la percepción del valor (VPS), la influencia social (RCS), la intención de compra sostenible (ICS) y el comportamiento de compra sostenible (CCS). Se encuestó a 233 personas de distintas entidades de México, seleccionadas mediante muestreo no probabilístico por conveniencia, que hubieran realizado al menos una compra sostenible en los seis meses previos y que estuvieran dentro del rango de 25 a 45 años. La recolección de datos se realizó entre febrero y mayo de 2025 mediante un cuestionario digital estructurado en Google Forms, distribuido por redes sociales y canales universitarios. El instrumento final incluyó 16 ítems organizados en los cuatro constructos señalados, medidos con escala tipo Likert de 5 puntos.</p>
+			<p>Con el programa estadístico gratuito G*Power, se verificó que los datos fueran lo suficientemente confiables para ser analizados y obtener resultados confiabilibles. Se configuró el programa para el análisis con la familia de pruebas Exact (<xref ref-type="bibr" rid="B12">Faul, Erdfelder, Lang &amp; Buchner, 2007</xref>), para el cálculo de la significancia y el poder estadístico a partir de distribuciones exactas del estadístico de prueba, sin necesidad de recurrir a aproximaciones. Se utilizó la fusión de Correlación Bivariada como prueba estadística para asegurar el poder estadístico del tamaño de la muestra y el tamaño del efecto esperado bajo un nivel de significancia de alpha = 0.05 (<xref ref-type="bibr" rid="B32">Neyman &amp; Pearson, 1933</xref>; Field, 2018) por último en el tipo de análisis de la potencia fijada se estableció en modo post hoc (<xref ref-type="bibr" rid="B7">Cohen, 1988</xref>; <xref ref-type="bibr" rid="B12">Faul et al., 2007</xref>) el cual se utiliza para determinar el poder estadístico alcanzado (<xref ref-type="bibr" rid="B7">Cohen, 1988</xref>; <xref ref-type="bibr" rid="B15">Hair, Hult, Ringle &amp; Sarstedt, 2021a</xref>).</p>
+			<p>La elaboración del cuestionario se basó en escalas previamente validadas en literatura científica internacional. Para el constructo de Percepción del valor, se tomaron como referencia los estudios de <xref ref-type="bibr" rid="B14">Ghaffar e Islam (2024)</xref>, <xref ref-type="bibr" rid="B29">Maduku (2024)</xref> y <xref ref-type="bibr" rid="B27">Le et al. (2024)</xref>, quienes abordan el valor percibido desde dimensiones emocionales, sociales y éticas. La Influencia social fue medida con base en los aportes de <xref ref-type="bibr" rid="B1">Ajzen (1991)</xref>, <xref ref-type="bibr" rid="B4">Ali et al. (2022)</xref> y <xref ref-type="bibr" rid="B20">Horrich et al. (2024)</xref>, que destacan el rol de las normas sociales y la presión de grupo en las decisiones de consumo responsable. Para la Intención de compra sostenible, se retomaron los trabajos de <xref ref-type="bibr" rid="B37">Tian et al. (2022)</xref>, <xref ref-type="bibr" rid="B33">Panda et al. (2024)</xref> y <xref ref-type="bibr" rid="B22">Ji et al. (2025)</xref>. Finalmente, el Comportamiento de compra sostenible fue evaluado con base en los estudios de <xref ref-type="bibr" rid="B8">Dangelico y Vocalelli (2024)</xref>, <xref ref-type="bibr" rid="B30">Mahmud (2024)</xref> y <xref ref-type="bibr" rid="B35">Sharma et al. (2022)</xref>. </p>
+			<p>Se utilizó el modelo de ecuaciones estructurales por mínimos cuadrados parciales (PLS-SEM) usando ADANCO, para evaluar los siguientes indicadores: cargas factoriales (λ), validez convergente (AVE), fiabilidad compuesta (ρc y ρA), alfa de Cronbach (α) y validez discriminante (criterios Fornell-Larcker, HTMT y HTMT2). Se calculó el ajuste global del modelo mediante el indicador SRMR (Standardized Root Mean Square Residual), aceptando valores menores a 0.08 (<xref ref-type="bibr" rid="B21">Hu &amp; Bentler, 1999</xref>), lo cual permitió evaluar el ajuste estructural general del modelo. Asimismo, la validez y confiabilidad de los constructos se verificaron a través de las cargas factoriales y los indicadores de consistencia interna correspondientes. </p>
+		</sec>
+		<sec sec-type="results">
+			<title>4.Resultados</title>
+			<sec>
+				<title>4.1 Evaluación del modelo de medición y ajuste estructural</title>
+				<p>Respecto a quienes respondieron la encuesta, el 55.4% fueron mujeres, 42.5% hombre y 2.1% se distinguieron en otro género; por su parte, la edad considerada para su participación de este estudio fue de 25 a45 años.</p>
+				<p>Con la cantidad de encuestas aplicadas se realizó un análisis para determinar el nivel de confiabilidad de los constructos y determinar su incorporación al modelo planteado. Para ello se inició un análisis de Correlación Bivariada obteniendo así el índice de Correlación ρ H1 (<xref ref-type="bibr" rid="B7">Cohen, 1988</xref>; <xref ref-type="bibr" rid="B26">Lakens, 2013</xref>), al final los valores alcanzados basado en las correlaciones del modelo se pueden observar en la siguiente <xref ref-type="table" rid="t1">tabla (1)</xref>.</p>
+				<p>
+					<table-wrap id="t1">
+						<label>Tabla 1</label>
+						<caption>
+							<title>Correlaciones bivariadas entre los constructos del modelo</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Relación entre constructos</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Correlación ρ H1</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">VPS – RCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.508</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">RCS – ICS</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.607</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">VPS – CCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.715</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">CCS – ICS</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.836</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">VPS – ICS</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">0.675</td>
+  </tr>
+</tbody>
+</table>
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p>Fuente: Elaboración propia a partir de los datos recolectados con el instrumento.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>En todos los casos evaluados, el poder estadístico fue superior a 0.95, garantizando que la muestra obtenida es suficiente para identificar de manera confiable el efecto esperado en el estudio (ver <xref ref-type="table" rid="t2">tabla 2</xref>) (<xref ref-type="bibr" rid="B7">Cohen, 1988</xref>; <xref ref-type="bibr" rid="B12">Faul, Erdfelder, Lang &amp; Buchner, 2007</xref>; <xref ref-type="bibr" rid="B15">Hair, Hult, Ringle &amp; Sarstedt, 2021a</xref>).</p>
+				<p>
+					<table-wrap id="t2">
+						<label>Tabla 2</label>
+						<caption>
+							<title>Correlaciones bivariadas entre constructos y resultados del análisis de potencia estadística (1-β)</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Relación entre constructos</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Correlación ρ H1</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Potencia (1- β probabilidad del error)</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">VPS – RCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.508</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">1.0000000</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">RCS – ICS</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.607</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">1.0000000</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">VPS – CCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.715</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">1.0000000</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">CCS – ICS</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.836</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">1.0000000</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">VPS – ICS</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">0.675</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">1.0000000</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN2">
+								<p>Fuente: Elaboración propia a partir de los datos recolectados con el instrumento.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Se evaluaron los valores estadísticos obtenidos a partir del modelo propuesto para la verificación de la consistencia interna. Se consideraron las cargas factoriales estandarizadas por encima del umbral aceptable de 0.707, tal como lo sugieren <xref ref-type="bibr" rid="B6">Carmines y Zeller (1979)</xref>. En este estudio, las dieciséis preguntas evaluadas presentan cargas factoriales que fluctúan entre 0.7036 y 0.9307, como se muestra en la <xref ref-type="table" rid="t3">Tabla 3</xref>.</p>
+				<p>
+					<table-wrap id="t3">
+						<label>Tabla 3</label>
+						<caption>
+							<title>Fiabilidad de constructos y consistencia interna del modelo.</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 200px; background-color: #c7c8c9;"><bold>Variable</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Indicador</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Peso λ</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Alfa de Cronbach (α)</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Jöreskog's rho (ρc)</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Dijkstra-Henseler's rho</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="4">Influencia social en el consumo sostenible    (RCS).</td>
+    
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS 1</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.7927</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="4">0.8970</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="4">0.8955</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="4">0.901</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS 2</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.8000</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS 3</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.7728</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS 4</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.9307</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" rowspan="6">Intención de compra sostenible (ICS).</td>
+    
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 1</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7735</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" rowspan="6">0.9002</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" rowspan="6">0.9001</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" rowspan="6">0.9016</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 2</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7336</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 3</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7907</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 4</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7192</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 5</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7948</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 6</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.8332</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="3">Comportamiento de Compra Sostenible (CCS).</td>
+    
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">CCS 1</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.7036</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="3">0.7888</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="3">0.7906</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="3">0.7942</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">CCS 2</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.7267</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">CCS 3</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.8069</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" rowspan="3">Percepción del valor en el consumo    responsable (VPS)</td>
+    
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">VPS 1</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7369</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" rowspan="3">0.8057</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" rowspan="3">0.8057</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" rowspan="3">0.8063</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">VPS 2</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7685</td>
+  </tr>
+  <tr>
+    
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">VPS 3</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.7796</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN3">
+								<p>Nota. Se reportan las cargas factoriales (λ²), el alfa de Cronbach (α), la fiabilidad compuesta (ρc) y la fiabilidad compuesta de Dijkstra-Henseler (ρA). </p>
+							</fn>
+							<fn id="TFN4">
+								<p>Fuente: Elaboración propia a partir de los datos recolectados con el instrumento</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>El primer indicador de consistencia evaluado fue el alfa de Cronbach (α), el cual arrojó rangos satisfactorios de confiabilidad (<xref ref-type="bibr" rid="B9">Darren &amp; Mallery, 1995</xref>). Se obtuvo un valor aceptable de 0.7888 para el Comportamiento de Compra Sostenible (CCS); valores muy aceptables de 0.8057 y 0.8970 para Percepción del Valor en el Consumo Responsable (VPS) e Influencia Social en el Consumo Sostenible (RCS), respectivamente, y un excelente de 0.9002 para Intención de Compra Sostenible (ICS).</p>
+				<p>De manera complementaria, el coeficiente de fiabilidad consistente pA respaldó estos hallazgos (<xref ref-type="bibr" rid="B10">Dijkstra &amp; Henseler, 2015</xref>). Los índices obtenidos para CCS (0.7942) y VPS (0.8063) se sitúan en rangos aceptables, mientras que los constructos RCS (0.9010) y ICS (0.9016) alcanzaron niveles excelentes de consistencia interna.</p>
+				<p>Por su parte, el coeficiente de fiabilidad consistente (ρA) debe ser igual o superior a 0.70 para demostrar una consistencia interna adecuada (<xref ref-type="bibr" rid="B10">Dijkstra &amp; Henseler, 2015</xref>). Los valores superiores a 0.90 son considerados excelentes, umbral que alcanzaron los constructos RCS e ICS en esta investigación.</p>
+				<p>Finalmente, se evaluó la varianza media extraída (AVE) como medida de validez convergente. De acuerdo con Fornell y Larcker (1981), la AVE es una métrica más conservadora que la fiabilidad compuesta, y establece que un valor superior a 0.50 indica que el constructo explica al menos el 50 % de la varianza de sus indicadores observables. En este estudio, los valores originales de AVE obtenidos de manera directa de ABANCO superan este umbral para todos los constructos, ejemplo CCS=0.5581 (<xref ref-type="table" rid="t4">Tabla 4</xref>), confirmando la validez discriminante de las variables latentes.</p>
+				<p>
+					<table-wrap id="t4">
+						<label>Tabla 4</label>
+						<caption>
+							<title>Matriz de validez convergente</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Constructo</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>RCS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>VPS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>CCS</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>RCS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>0.6829</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.4493</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"><bold>0.6008</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>VPS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.3115</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.4734</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>0.5804</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>CCS</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.1571</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.5837</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.3824</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"><bold>0.5581</bold></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN5">
+								<p>Nota. En la diagonal se presenta la raíz cuadrada de la AVE. Debe ser mayor que las correlaciones entre constructos (Fornell &amp; Larcker, 1981). </p>
+							</fn>
+							<fn id="TFN6">
+								<p>Fuente: Elaboración propia a partir de los datos recolectados con el instrumento.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Al evaluar la validez discriminante mediante el criterio tradicional de Fornell y Larcker (1981), se observó que la mayoría de los constructos presentan una raíz cuadrada de la varianza media extraída (AVE) superior a las correlaciones con las demás variables latentes. No obstante, se identificó una limitación latente (<xref ref-type="table" rid="t4">Tabla 4</xref>), la correlación entre los constructos Intención de Compra Sostenible (ICS) y Comportamiento de Compra Sostenible (CCS) alcanzó un valor de 0.5837, aproximándose críticamente a la raíz cuadrada de la AVE de ICS (0.6008), lo que podría sugerir una ligera superposición conceptual. </p>
+				<p>Ante este tipo de ambigüedades <xref ref-type="bibr" rid="B19">Henseler, Ringle y Sarstedt (2016b)</xref> demostraron que el criterio de Fornell y Larcker presenta baja sensibilidad para detectar problemas de validez y propusieron un método alternativo más robusto: la ratio Heterotrait-Monotrait (HTMT). Este coeficiente determina la validez discriminante estimando la media de las correlaciones de los indicadores entre constructos (heterotrait) en relación con la media geométrica de las correlaciones de los indicadores dentro del mismo constructo (monotrait). Siguiendo los umbrales consevadores de Kline (2011), valores de HTMT inferiores a 0.85 confirman la validez discriminante. En la <xref ref-type="table" rid="t5">Tabla 5</xref> todos los ratios de HTMT se situaron por debajo de este límite, resolviendo de manera concluyente la idoneidad y separación psicométrica en los constructos analizados.</p>
+				<p>
+					<table-wrap id="t5">
+						<label>Tabla 5</label>
+						<caption>
+							<title>Razón de correlaciones heterotrait-monotrait (HTMT)</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Constructo</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>RCS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>VPS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>CCS</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>RCS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.6672</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>VPS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.5572</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.6871</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>CCS</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.3972</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.7639</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.6176</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN7">
+								<p>Nota: Valores inferiores a 0.85 indican evidencia adecuada de validez discriminante (<xref ref-type="bibr" rid="B19">Henseler et al., 2016</xref>; Kline, 2011).</p>
+							</fn>
+							<fn id="TFN8">
+								<p>Fuente: Elaboración propia a partir de los datos recolectados con el instrumento.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>En la <xref ref-type="table" rid="t5">Tabla 5</xref>, se observan los valores ratios Heterotrait-Monotrait se situaron por debajo del límite estricto. De manera específica la relación entre los constructos ICS y CCS registró un índice HTMT de 0.7639. Para mayor robustez metodológica, se evaluó el indicador HTMT2 (<xref ref-type="table" rid="t6">Tabla 6</xref>), confirmando un valor de 0.7587 para dicha interacción. Dado que ninguna de estimaciones se aproximó al límite crítico de 0.85 (Kline, 2011), mostrando que la validez discriminante entre ICS y CCS es aceptable. Ambos indicadores permiten confirmar de manera concluyente la validez discriminante en el modelo propuesto.</p>
+				<p>
+					<table-wrap id="t6">
+						<label>Tabla 6</label>
+						<caption>
+							<title>Razón de correlaciones heterotrait-monotrait (HTMT2)</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Constructo</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>RCS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>VPS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>CCS</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>RCS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.6644</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>VPS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.5568</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.6854</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>CCS</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.3653</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.7587</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.6127</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+</tbody>
+</table>
+
+
+						<table-wrap-foot>
+							<fn id="TFN9">
+								<p>Nota: Valores inferiores a 0.85 indican evidencia adecuada de validez discriminante (<xref ref-type="bibr" rid="B18">Henseler et al., 2016</xref>; Kline, 2011). </p>
+							</fn>
+							<fn id="TFN10">
+								<p>Fuente: Elaboración propia a partir de los datos recolectados con el instrumento.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Con base en lo anterior, se puede confirmar de manera metodológicamente sólida y confiable la distinción entre ambos constructos dentro del modelo estructural. Los resultados obtenidos, al ser evaluados mediante los criterios de Fornell-Larcker, HTMT y HTMT2, aportan consistencia estadística suficiente para validar su independencia conceptual y justificar su permanencia como variables diferenciadas.</p>
+				<p>En cuanto al ajuste global del modelo, se empleó como indicador principal la Raíz Cuadrada Media Residual Estandarizada (SRMR), la cual representa la raíz cuadrada de las diferencias entre las correlaciones observadas y las predichas. De acuerdo con <xref ref-type="bibr" rid="B21">Hu y Bentler (1999)</xref>, un valor inferior a 0.08 indica un ajuste aceptable. En este caso, el valor obtenido para el SRMR fue de 0.0553, lo que indica que el ajuste global modelo propuesto es adecuado.</p>
+			</sec>
+			<sec>
+				<title>4.2 Análisis de relaciones estructurales y prueba de hipótesis</title>
+				<p>En esta segunda fase se examinaron las relaciones entre los constructos mediante los coeficientes beta estandarizados (β), a fin de determinar la aceptación o rechazo de las hipótesis. Conforme a Lohmöller (1989), un coeficiente β superior a 0.20 se considera relevante.</p>
+				<p>También se evaluó el tamaño del efecto (f²), indicador de la fuerza de la relación entre variables, independiente del tamaño muestral. Según <xref ref-type="bibr" rid="B7">Cohen (1988)</xref>, valores de 0.02, 0.15 y 0.35 representan efectos pequeños, medios y grandes, respectivamente.</p>
+				<p>La significancia estadística de los coeficientes estructurales se verificó mediante el procedimiento bootstrap, que genera los valores t empíricos y p asociados. Un coeficiente es significativo cuando t &gt; 2.576 (p &lt; .01), criterio común en estudios sobre comportamiento del consumidor (<xref ref-type="bibr" rid="B25">Kock, 2014</xref>; <xref ref-type="bibr" rid="B16">Hair et al., 2011</xref>). Con base en estos parámetros, se obtuvieron los siguientes resultados (<xref ref-type="table" rid="t7">Tabla 7</xref>).</p>
+				<p>
+					<table-wrap id="t7">
+						<label>Tabla 7</label>
+						<caption>
+							<title>Resultados de las hipótesis del modelo estructural</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Hipótesis</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Relación entre constructos</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>β</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>f<sup>2</sup></bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>R<sup>2</sup></bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>p-valores</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>t-valores</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Resultado</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>H<sup>1</sup></bold></td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>VPS -&gt; RCS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.5581</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.4525</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.0000</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">9.2747</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Acepado</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>H<sup>2</sup></bold></td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>RCS -&gt; ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.3773</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.4000</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.0000</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">4.7013</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Acepado</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>H<sup>3</sup></bold></td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>VPS -&gt; ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.6881</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.0513</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.0000</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">11.1593</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Acepado</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>H<sup>4</sup></bold></td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>VPS -&gt; CCS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.6184</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.6192</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.0000</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">8.1955</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Acepado</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>H<sup>5</sup></bold></td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>CCS -&gt; ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.5168</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.6730</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.0000</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">6.0014</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Acepado</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;"><bold>RCS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.3115</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;"><bold>ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.7564</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9; border-bottom: 1px solid #000000;"></td>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9; border-bottom: 1px solid #000000;"><bold>CCS</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.3824</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN11">
+								<p>Nota. Se presentan los coeficientes estandarizados (β), tamaños del efecto (f²), coeficientes de determinación (R²), valores p, valores t y el resultado de aceptación de las hipótesis. Un valor de p &lt; 0.01 y t &gt; 2.576 indica significancia estadística al 1 % (<xref ref-type="bibr" rid="B16">Hair et al., 2011</xref>). </p>
+							</fn>
+							<fn id="TFN12">
+								<p>Fuente: Elaboración propia a partir de los datos recolectados con el instrumento.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>H1 se acepta: La percepción del valor incide positivamente en la influencia social (β = 0.5581; f² = 0.4525; relación altamente significativa).</p>
+				<p>H2 se acepta: Es la relación con el coeficiente más bajo del modelo, sin embargo, la influencia social incide positivamente en la intención de compra sostenible (β = 0.377; f² = 0.4000; evidencia estadística sólida).</p>
+				<p>H3 se acepta: Es la relación más fuerte del modelo (β = 0.6881; alto y f² = 0.0513). Un incremento en la percepción del valor genera el mayor impacto directo sobre la intención de compra sostenible.</p>
+				<p>H4 se acepta: muestra un impacto directo elevado (β = 0.6184; f² = 0.6730) validando que la percepción del valor es un predictor del comportamiento de compra sostenible; relación significativa).</p>
+				<p>H5 se acepta: El comportamiento de compra sostenible incide positivamente en la intención de compra sostenible (β = 0.5168; f² = 0.6192; evidencia robusta).</p>
+				<p>Aunque H3 presenta el coeficiente de trayectoria más elevado hacia ICS (β = 0.6881, p &lt; 0.01, t = 11.1593), su tamaño del efecto es pequeño (f² = 0.0513), lo cual se explica por la presencia de los mediadores RCS y CCS, cuyos f² son sustancialmente mayores (0.4000 y 0.6730, respectivamente) y que en conjunto explican el 75.64% de la varianza de ICS (R² = 0.7564). El índice f² refleja la contribución incremental de VPS una vez que los mediadores ya han absorbido gran parte de esa varianza, por lo que su magnitud reducida no invalida la relación, sino que indica que la influencia de VPS sobre ICS opera predominantemente a través de las rutas mediadas. Conforme a <xref ref-type="bibr" rid="B7">Cohen (1988)</xref>, <xref ref-type="bibr" rid="B36">Zhao, Lynch y Chen (2010)</xref> y <xref ref-type="bibr" rid="B15">Hair et al. (2021a)</xref>, este patrón es propio de modelos con mediación parcial o indirecta exclusiva, donde la varianza explicativa se distribuye entre los constructos mediadores.</p>
+				<p>Finalmente, el coeficiente de determinación R², mide la proporción de varianza explicada de un constructo endógeno (dependiente) que es explicada por sus variables predictoras, y se utiliza como indicador de la bondad del ajuste en los modelos de regresión (<xref ref-type="bibr" rid="B39">Wooldridge, 1996)</xref>. Esta medida permite evaluar el poder predictivo del modelo en la muestra analizada (<xref ref-type="bibr" rid="B5">Becker, 2013</xref>).</p>
+				<p>De acuerdo con los criterios establecidos por <xref ref-type="bibr" rid="B16">Hair et al. (2021b)</xref>, los valores de R² obtenidos en el modelo permiten clasificarse de la siguiente manera: los constructos Influencia Social en el Consumo Sostenible (RCS) con 0.3115 (efecto moderado) es decir el 31.15% de su varianza es explicada por VPS. El Comportamiento de Compra Sostenible (CCS) con 0.3824 (efecto moderado) en donde el 38.24% de su varianza es explicada por; mientras que el constructo Intención de Compra Sostenible (ICS) alcanza un valor de 0.7564, el modelo explicado por RCS, VPS y CCS predice el 75.64% de la intensión de compra, lo cual representa un nivel alto de capacidad explicativa por parte del modelo.</p>
+			</sec>
+		</sec>
+		<sec sec-type="discussion">
+			<title>5.Discusión</title>
+			<p>Los resultados de este estudio confirman que la percepción del valor y la influencia social son factores decisivos en la formación de la intención y el comportamiento de compra sostenible. El modelo de ecuaciones estructurales aportó evidencia empírica sólida que amplía la comprensión de estos vínculos en el contexto mexicano y latinoamericano.</p>
+			<p>En primer lugar, los hallazgos respaldan la relación planteada en H1, demostrando que una percepción positiva del valor, que combina dimensiones éticas, emocionales y sociales, incrementa la apertura a las prácticas y mensajes sostenibles dentro del entorno social. Esto muestra que, cuando la sostenibilidad adquiere un significado personal y simbólico, las personas se vuelven más receptivas a la influencia de sus pares, en línea con lo planteado por <xref ref-type="bibr" rid="B27">Le et al. (2024)</xref> y <xref ref-type="bibr" rid="B29">Maduku (2024)</xref>. Asimismo, la aceptación de la H2 confirma el peso de la influencia social sobre la intención de compra sostenible, coherente con la Teoría del Comportamiento Planeado (<xref ref-type="bibr" rid="B1">Ajzen, 1991</xref>), donde las normas subjetivas y la aprobación percibida orientan la decisión de compra. Asimismo, la presencia de referentes en redes sociales refuerza la disposición hacia el consumo responsable, tal como señalan <xref ref-type="bibr" rid="B24">Kara y Min (2024)</xref>.</p>
+			<p>Por otra parte, respecto a la H3, los resultados evidencian que una valoración favorable del producto sostenible aumenta la intención de adquirirlo. Aunque el efecto fue pequeño, su importancia radica en que el valor percibido se nutre de elementos éticos y simbólicos (<xref ref-type="bibr" rid="B37">Tian et al., 2022</xref>; <xref ref-type="bibr" rid="B34">Patiño-Toro et al., 2024</xref>). Esta premisa se extiende con fuerza en la H4, la cual mostró una relación fuerte entre la percepción del valor y el comportamiento de compra sostenible. Este resultado sugiere que la valoración positiva de la sostenibilidad puede traducirse en acciones concretas cuando existen condiciones que facilitan la coherencia entre valores y prácticas cotidianas (<xref ref-type="bibr" rid="B36">Zhao et al., 2010</xref>4; <xref ref-type="bibr" rid="B2">Akbar et al., 2024</xref>).</p>
+			<p>Por último, la H5 evidencia que el comportamiento de compra sostenible refuerza la intención futura de seguir consumiendo de forma responsable. Este efecto acumulativo indica que la experiencia positiva y la satisfacción derivadas del consumo sostenible fortalecen su continuidad (<xref ref-type="bibr" rid="B22">Ji et al., 2025</xref>).</p>
+			<p>En conjunto, los hallazgos destacan que promover el consumo sostenible requiere fortalecer simultáneamente el valor percibido y los entornos sociales que legitiman las prácticas responsables. De esta forma, empresas, instituciones y organizaciones civiles pueden diseñar estrategias que integren argumentos éticos, beneficios colectivos y experiencias cercanas, impulsando una cultura de consumo más consciente y coherente con la sostenibilidad.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>6.Conclusiones</title>
+			<p>Los resultados evidencian que el consumo sostenible se fortalece cuando la sostenibilidad pasa de ser considerado un “atributo adicional” a ser considerado un valor necesario y relevante para el consumidor. Esto como resultado de una reciente cultura de consumo basado en un mayor nivel de conciencia de preservar el medio ambiente. En este sentido, se puede afirmar que el valor percibido y la validación social se retroalimentan para generar compras sostenibles.</p>
+			<p>Adicionalmente, los resultados confirman que la percepción del valor incrementa la receptividad a señales sociales, lo que lleva al individuo al consumo sostenible como una forma de validación y de pertenencia a un sector de la sociedad. </p>
+			<p>Por otra parte, la intención de compra fue el constructo con mayor nivel de explicación, lo que sugiere la existencia de un amplio mercado para aprovechar enfocado a productos sostenibles. En el caso del comportamiento de compra efectivo, los resultados fueron modestos, lo que significa que existen paralelamente otros elementos que inciden en la decisión de compra como el precio, accesibilidad, por ejemplo. Es decir, se puede tener la disposición a comprar, pero debido a ciertos elementos, la compra puede no ser siempre constante. En el caso de México, para consolidar el consumo sostenible, es imperativo generar experiencias repetibles que generen un hábito en lugar de una compra aislada.</p>
+			<p>La originalidad de este estudio radica en articular simultáneamente, el valor percibido e influencia social como determinantes de intención y comportamiento de compra. Además, inserta la idea de la continuidad como elemento que permita generar un consumo periódico. Asimismo, la evidencia empírica con este enfoque es aún incipiente dentro del contexto analizado.</p>
+			<p>Como limitaciones del estudio, se mencionan su carácter transversal, lo que impide dar seguimiento a las decisiones de los consumidores y sus hábitos a lo largo del tiempo. Además, al ser un muestreo no probabilístico por conveniencia, la robustez de los resultados es inferior, generando sesgos que impiden conocer el comportamiento de todo tipo de consumidor a lo largo de todo el país. </p>
+			<p>Finalmente, como futuras líneas de investigación, se considera implementar diseños longitudinales para mayor precisión y conocimiento profundo del consumidor. Incluir segmentos diversos y hacer comparaciones entre sí. Por ejemplo, diferencias en regiones del país de los encuestados, niveles socioeconómicos, rango de edades, entre otros. </p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografia</title>
+			<ref id="B1">
+				<mixed-citation>Ajzen, I. (1991) The theory of planned behavior, <italic>Organizational Behavior and Human Decision Processes</italic>, 50(2), 179-211. https://doi.org/10.1016/0749-5978(91)90020-T</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ajzen</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<year>1991</year>
+					<article-title>The theory of planned behavior</article-title>
+					<source>Organizational Behavior and Human Decision Processes</source>
+					<volume>50</volume>
+					<issue>2</issue>
+					<fpage>179</fpage>
+					<lpage>211</lpage>
+					<pub-id pub-id-type="doi">10.1016/0749-5978(91)90020-T</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Akbar, M., Al-Maghrabi, T. and Al-Shammari, N. (2024) Factors affecting millennials green purchase behavior: Evidence from Saudi Arabia, <italic>Journal of Retailing and Consumer Services</italic>, 77, 103563. https://doi.org/10.1016/j.jretconser.2023.103563</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Akbar</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Al-Maghrabi</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Al-Shammari</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Factors affecting millennials green purchase behavior: Evidence from Saudi Arabia</article-title>
+					<source>Journal of Retailing and Consumer Services</source>
+					<volume>77</volume>
+					<issue-part>103563</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jretconser.2023.103563</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Alghamdi, O.A. and Agag, G. (2024) Understanding factors affecting consumers conscious green purchasing behavior, <italic>Sustainability</italic>, 16(2), 705. https://doi.org/10.3390/su16020705</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alghamdi</surname>
+							<given-names>O.A.</given-names>
+						</name>
+						<name>
+							<surname>Agag</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Understanding factors affecting consumers conscious green purchasing behavior</article-title>
+					<source>Sustainability</source>
+					<volume>16</volume>
+					<issue>2</issue>
+					<issue-part>705</issue-part>
+					<pub-id pub-id-type="doi">10.3390/su16020705</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Ali, M., Ullah, S., Ahmad, M.S., Cheok, M.Y. and Alenezi, H. (2022) Assessing the impact of green consumption behavior and green purchase intention among millennials toward sustainable environment, <italic>Environmental Science and Pollution Research</italic>, 30 (2023), 23335-23347. https://doi.org/10.1007/s11356-022-23811-1</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ali</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ullah</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ahmad</surname>
+							<given-names>M.S.</given-names>
+						</name>
+						<name>
+							<surname>Cheok</surname>
+							<given-names>M.Y.</given-names>
+						</name>
+						<name>
+							<surname>Alenezi</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Assessing the impact of green consumption behavior and green purchase intention among millennials toward sustainable environment</article-title>
+					<source>Environmental Science and Pollution Research</source>
+					<volume>30</volume>
+					<issue>2023</issue>
+					<fpage>23335</fpage>
+					<lpage>23347</lpage>
+					<pub-id pub-id-type="doi">10.1007/s11356-022-23811-1</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Becker, J.M., Rai, A. and Rigdon, E. (2013) ‘Predictive validity and formative measurement in structural equation modeling: Embracing practical relevance’, Proceedings of the International Conference on Information Systems (ICIS).</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Becker</surname>
+							<given-names>J.M.</given-names>
+						</name>
+						<name>
+							<surname>Rai</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Rigdon</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>‘Predictive validity and formative measurement in structural equation modeling: Embracing practical relevance’</article-title>
+					<source>Proceedings of the International Conference on Information Systems (ICIS)</source>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Carmines, E.G. and Zeller, R.A. (1979) ‘<italic>Reliability and validity assessment</italic>’. Beverly Hills, CA: SAGE Publications. <ext-link ext-link-type="uri" xlink:href="https://methods.sagepub.com/book/mono/reliability-and-validity-assessment/toc">https://methods.sagepub.com/book/mono/reliability-and-validity-assessment/toc</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carmines</surname>
+							<given-names>E.G.</given-names>
+						</name>
+						<name>
+							<surname>Zeller</surname>
+							<given-names>R.A</given-names>
+						</name>
+					</person-group>
+					<year>1979</year>
+					<source>Reliability and validity assessments</source>
+					<publisher-loc>Beverly Hills, CA</publisher-loc>
+					<publisher-name>SAGE Publications</publisher-name>
+					<ext-link ext-link-type="uri" xlink:href="https://methods.sagepub.com/book/mono/reliability-and-validity-assessment/toc">https://methods.sagepub.com/book/mono/reliability-and-validity-assessment/toc</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Cohen, J. (1988) ‘<italic>Statistical power analysis for the behavioral sciences</italic> (2nd ed.)’. Hillsdale, NJ: Lawrence Erlbaum Associates.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cohen</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>1988</year>
+					<source>‘tatistical power analysis for the behavioral sciences</source>
+					<edition>2nd</edition>
+					<publisher-loc>Hillsdale, NJ</publisher-loc>
+					<publisher-name>Lawrence Erlbaum Associates</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Dangelico, R.M. and Vocalelli, D. (2024) ‘Consumer behavioral intention toward sustainable biscuits: An extension of the theory of planned behavior’, <italic>Business Strategy and the Environment</italic>, 33(2), pp. 974-988. https://doi.org/10.1002/bse.3506</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dangelico</surname>
+							<given-names>R.M.</given-names>
+						</name>
+						<name>
+							<surname>Vocalelli</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>‘Consumer behavioral intention toward sustainable biscuits: An extension of the theory of planned behavior’</article-title>
+					<source>Business Strategy and the Environment</source>
+					<volume>33</volume>
+					<issue>2</issue>
+					<fpage>974</fpage>
+					<lpage>988</lpage>
+					<pub-id pub-id-type="doi">10.1002/bse.3506</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Darren, G. and Mallery, P. (1995) ‘<italic>SPSS for Windows Step by Step: A Simple Guide and Reference</italic>’. Belmont, CA: Wadsworth Pub. Co.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Darren</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Mallery</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>1995</year>
+					<source>SPSS for Windows Step by Step: A Simple Guide and Reference</source>
+					<publisher-loc>Belmont, CA</publisher-loc>
+					<publisher-name>Wadsworth Pub. Co</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Dijkstra, T.K. and Henseler, J. (2015) ‘Consistent partial least squares path modeling’, <italic>MIS Quarterly</italic>, 39(2), pp. 297-316. Available at: <ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/publication/265316206_Consistent_Partial_Least_Squares_Path_Modeling">https://www.researchgate.net/publication/265316206_Consistent_Partial_Least_Squares_Path_Modeling</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dijkstra</surname>
+							<given-names>T.K.</given-names>
+						</name>
+						<name>
+							<surname>Henseler</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Consistent partial least squares path modeling</article-title>
+					<source>MIS Quarterly</source>
+					<volume>39</volume>
+					<issue>2</issue>
+					<fpage>297</fpage>
+					<lpage>316</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.researchgate.net/publication/265316206_Consistent_Partial_Least_Squares_Path_Modeling">https://www.researchgate.net/publication/265316206_Consistent_Partial_Least_Squares_Path_Modeling</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Do, A. D., Ha, D. L., Phan, T. T. L., Bui, T. M., Le, T. B. N., Tran, M. N., &amp; Dang, D. Q. (2025). Antecedents of Gen Z’s green purchase intention in Vietnam’s fashion industry with the moderating role of greenwash perception. PLOS ONE, 20(5), e0324923. https://doi.org/10.1371/journal.pone.0324923</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Do</surname>
+							<given-names>A. D.</given-names>
+						</name>
+						<name>
+							<surname>Ha</surname>
+							<given-names>D. L.</given-names>
+						</name>
+						<name>
+							<surname>Phan</surname>
+							<given-names>T. T. L.</given-names>
+						</name>
+						<name>
+							<surname>Bui</surname>
+							<given-names>T. M.</given-names>
+						</name>
+						<name>
+							<surname>Le</surname>
+							<given-names>T. B. N.</given-names>
+						</name>
+						<name>
+							<surname>Tran</surname>
+							<given-names>M. N.</given-names>
+						</name>
+						<name>
+							<surname>Dang</surname>
+							<given-names>D. Q</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Antecedents of Gen Z’s green purchase intention in Vietnam’s fashion industry with the moderating role of greenwash perception</article-title>
+					<source>PLOS ONE</source>
+					<volume>20</volume>
+					<issue>5</issue>
+					<elocation-id>e0324923</elocation-id>
+					<pub-id pub-id-type="doi">10.1371/journal.pone.0324923</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Faul, F., Erdfelder, E., Lang, A.G. and Buchner, A. (2007) ‘G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences’, <italic>Behavior Research Methods</italic>, 39(2), pp. 175-191.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Faul</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Erdfelder</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Lang</surname>
+							<given-names>A.G.</given-names>
+						</name>
+						<name>
+							<surname>Buchner</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences’</article-title>
+					<source>Behavior Research Methods</source>
+					<volume>39</volume>
+					<issue>2</issue>
+					<fpage>175</fpage>
+					<lpage>191</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Field, A. (2024) ‘<italic>Discovering statistics using IBM SPSS Statistics</italic>’. London: Sage Publications Ltd.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Field</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<source>Discovering statistics using IBM SPSS Statistics</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Sage Publications Ltd</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Ghaffar, A. and Islam, T. (2024) ‘Factors leading to sustainable consumption behavior: An empirical investigation among millennial consumers’, <italic>Kybernetes</italic>, 53(8), pp. 2574-2592. https://doi.org/10.1108/K-12-2022-1675</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ghaffar</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Islam</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Factors leading to sustainable consumption behavior: An empirical investigation among millennial consumers’</article-title>
+					<source>Kybernetes</source>
+					<volume>53</volume>
+					<issue>8</issue>
+					<fpage>2574</fpage>
+					<lpage>2592</lpage>
+					<pub-id pub-id-type="doi">10.1108/K-12-2022-1675</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Hair, J.F., Hult, G.T.M., Ringle, C. and Sarstedt, M. (2021a) ‘<italic>A primer on partial least squares structural equation modeling (PLS-SEM)</italic> (3rd ed.)’. Thousand Oaks, CA: Sage.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hair</surname>
+							<given-names>J.F.</given-names>
+						</name>
+						<name>
+							<surname>Hult</surname>
+							<given-names>G.T.M.</given-names>
+						</name>
+						<name>
+							<surname>Ringle</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Sarstedt</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<source>A primer on partial least squares structural equation modeling (PLS-SEM)</source>
+					<edition>3rd</edition>
+					<publisher-loc>Thousand Oaks, CA</publisher-loc>
+					<publisher-name>Sage</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Hair, J.F., Ringle, C.M. and Sarstedt, M. (2011b) ‘PLS-SEM: Indeed a silver bullet’, <italic>Journal of Marketing Theory and Practice</italic>, 19(2), pp. 139-152.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hair</surname>
+							<given-names>J.F.</given-names>
+						</name>
+						<name>
+							<surname>Ringle</surname>
+							<given-names>C.M.</given-names>
+						</name>
+						<name>
+							<surname>Sarstedt</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>PLS-SEM: Indeed a silver bullet’</article-title>
+					<source>Journal of Marketing Theory and Practice</source>
+					<volume>19</volume>
+					<issue>2</issue>
+					<fpage>139</fpage>
+					<lpage>152</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Hair, J.F., Sarstedt, M., Ringle, C.M. and Gudergan, S.P. (2021c) ‘<italic>Advanced issues in partial least squares structural equation modeling (PLS-SEM)</italic>’ (2nd ed.). Thousand Oaks, CA: Sage.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hair</surname>
+							<given-names>J.F.</given-names>
+						</name>
+						<name>
+							<surname>Sarstedt</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ringle</surname>
+							<given-names>C.M.</given-names>
+						</name>
+						<name>
+							<surname>Gudergan</surname>
+							<given-names>S.P</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<source>Advanced issues in partial least squares structural equation modeling (PLS-SEM)</source>
+					<edition>2nd</edition>
+					<publisher-loc>Thousand Oaks, CA</publisher-loc>
+					<publisher-name>Sage</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Henseler, J., Hubona, G. and Ray, A.P. (2016a) ‘Using PLS path modeling in new technology research: Updated guidelines’, <italic>Industrial Management &amp; Data Systems</italic>, 116(1), https://doi.org/10.1108/IMDS-09-2015-0382</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Henseler</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Hubona</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Ray</surname>
+							<given-names>A.P</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Using PLS path modeling in new technology research: Updated guidelines’</article-title>
+					<source>Industrial Management &amp; Data Systems</source>
+					<volume>116</volume>
+					<issue>1</issue>
+					<pub-id pub-id-type="doi">10.1108/IMDS-09-2015-0382</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Henseler, J., Ringle, C. and Sarstedt, M. (2016b) ‘Testing measurement invariance of composites using partial least squares’, <italic>International Marketing Review</italic>, 33(3), pp. 405-431. https://doi.org/10.1108/IMR-09-2014-0304</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Henseler</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Ringle</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Sarstedt</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Testing measurement invariance of composites using partial least squares</article-title>
+					<source>International Marketing Review</source>
+					<volume>33</volume>
+					<issue>3</issue>
+					<fpage>405</fpage>
+					<lpage>431</lpage>
+					<pub-id pub-id-type="doi">10.1108/IMR-09-2014-0304</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Horrich, A., Ertz, M. and Bekir, I. (2024) ‘The effect of information adoption via social media on sustainable consumption intentions: The moderating influence of gender’, <italic>Current Psychology</italic>, 43, pp. 16349-16362. https://doi.org/10.1007/s12144-023-05526-9</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Horrich</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ertz</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Bekir</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>The effect of information adoption via social media on sustainable consumption intentions: The moderating influence of gender</article-title>
+					<source>Current Psychology</source>
+					<volume>43</volume>
+					<fpage>16349</fpage>
+					<lpage>16362</lpage>
+					<pub-id pub-id-type="doi">10.1007/s12144-023-05526-9</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Hu, L. and Bentler, P.M. (1999) ‘Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives’, <italic>Structural Equation Modeling</italic>, 6(1), pp. 1-55. https://doi.org/10.1080/10705519909540118</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hu</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Bentler</surname>
+							<given-names>P.M</given-names>
+						</name>
+					</person-group>
+					<year>1999</year>
+					<article-title>Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives’</article-title>
+					<source>Structural Equation Modeling</source>
+					<volume>6</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>55</lpage>
+					<pub-id pub-id-type="doi">10.1080/10705519909540118</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Ji, D., Pongsakornrungsilp, S., Pongsakornrungsilp, P. and Kumar, V. (2025) ‘When mindful consumption meets green purchase intention: Empirical evidence on how a mindful mindset influences tourists’, <italic>Sustainability</italic>, 17(3), 1266. https://doi.org/10.3390/su17031266</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ji</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Pongsakornrungsilp</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Pongsakornrungsilp</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Kumar</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>When mindful consumption meets green purchase intention: Empirical evidence on how a mindful mindset influences tourists</article-title>
+					<source>Sustainability</source>
+					<volume>17</volume>
+					<issue>3</issue>
+					<issue-part>1266</issue-part>
+					<pub-id pub-id-type="doi">10.3390/su17031266</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Jiang, H., Elahi, E., Gao, M., Huang, Y. and Liu, X. (2024) ‘Digital economy to encourage sustainable consumption and reduce carbon emissions’, <italic>Journal of Cleaner Production</italic>, 443, 140867. https://doi.org/10.1016/j.jclepro.2024.140867</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jiang</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Elahi</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Gao</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Huang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>X</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Digital economy to encourage sustainable consumption and reduce carbon emissions</article-title>
+					<source>Journal of Cleaner Production</source>
+					<volume>443</volume>
+					<issue-part>140867</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jclepro.2024.140867</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Kara, A. and Min, M.K. (2024) ‘Gen Z consumers’ sustainable consumption behaviors: Influencers and moderators’, <italic>International Journal of Sustainability in Higher Education</italic>, 25(1), pp. 124-142. https://doi.org/10.1108/IJSHE-08-2022-0263</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kara</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Min</surname>
+							<given-names>M.K</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Gen Z consumers’ sustainable consumption behaviors: Influencers and moderators</article-title>
+					<source>International Journal of Sustainability in Higher Education</source>
+					<volume>25</volume>
+					<issue>1</issue>
+					<fpage>124</fpage>
+					<lpage>142</lpage>
+					<pub-id pub-id-type="doi">10.1108/IJSHE-08-2022-0263</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Kock, N. (2014) ‘<italic>One-tailed or two-tailed P values in PLS-SEM?</italic>’ Laredo, TX: ScriptWarp Systems.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kock</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<source>One-tailed or two-tailed P values in PLS-SEM?</source>
+					<publisher-loc>Laredo, TX</publisher-loc>
+					<publisher-name>ScriptWarp Systems</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Lakens, D. (2013) ‘Calculating and reporting effect sizes to facilitate cumulative science: A practical primer for t-tests and ANOVAs’, <italic>Frontiers in Psychology</italic>, 4, 863.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lakens</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Calculating and reporting effect sizes to facilitate cumulative science: A practical primer for t-tests and ANOVAs</article-title>
+					<source>Frontiers in Psychology</source>
+					<volume>4</volume>
+					<issue-part>863</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Le, N., Lam, P.H., Tuyet, C.H. and Hoa, N.T.L. (2024) ‘Impact of emotional perceptions and social influences on green consumption practices in Vietnam’, <italic>Challenges in Sustainability</italic>, 12(1), pp. 34-51. https://doi.org/10.56578/cis120103</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Le</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Lam</surname>
+							<given-names>P.H.</given-names>
+						</name>
+						<name>
+							<surname>Tuyet</surname>
+							<given-names>C.H.</given-names>
+						</name>
+						<name>
+							<surname>Hoa</surname>
+							<given-names>N.T.L</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Impact of emotional perceptions and social influences on green consumption practices in Vietnam</article-title>
+					<source>Challenges in Sustainability</source>
+					<volume>12</volume>
+					<issue>1</issue>
+					<fpage>34</fpage>
+					<lpage>51</lpage>
+					<pub-id pub-id-type="doi">10.56578/cis120103</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Li, Y. and Shan, B. (2025) ‘Exploring the role of health consciousness and environmental awareness in purchase intentions for green-packaged organic foods: An extended TPB model’, <italic>Frontiers in Nutrition</italic>, 12, 1528016. https://doi.org/10.3389/fnut.2025.1528016</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Shan</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Exploring the role of health consciousness and environmental awareness in purchase intentions for green-packaged organic foods: An extended TPB model</article-title>
+					<source>Frontiers in Nutrition</source>
+					<volume>12</volume>
+					<issue-part>1528016</issue-part>
+					<pub-id pub-id-type="doi">10.3389/fnut.2025.1528016</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Maduku, D.K. (2024) ‘How environmental concerns influence consumers’ anticipated emotions towards sustainable consumption: The moderating role of regulatory focus’, <italic>Journal of Retailing and Consumer Services</italic>, 76, 103593. https://doi.org/10.1016/j.jretconser.2023.103593</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Maduku</surname>
+							<given-names>D.K</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>How environmental concerns influence consumers’ anticipated emotions towards sustainable consumption: The moderating role of regulatory focus</article-title>
+					<source>Journal of Retailing and Consumer Services</source>
+					<volume>76</volume>
+					<issue-part>103593</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jretconser.2023.103593</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Mahmud, A. (2024) ‘How and when consumer corporate social responsibility knowledge influences green purchase behavior: A moderated-mediated model’, <italic>Heliyon</italic>, 10, e24680. https://doi.org/10.1016/j.heliyon.2024.e24680</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mahmud</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>How and when consumer corporate social responsibility knowledge influences green purchase behavior: A moderated-mediated model</article-title>
+					<source>Heliyon</source>
+					<volume>10</volume>
+					<elocation-id>e24680</elocation-id>
+					<pub-id pub-id-type="doi">10.1016/j.heliyon.2024.e24680</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Nangia, P., Bansal, S. and Thaichon, P. (2024) ‘Doing more with less: An integrative literature review on responsible consumption behaviour’, <italic>Journal of Consumer Behaviour</italic>, 23(1), pp. 141-155. https://doi.org/10.1002/cb.2163</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nangia</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Bansal</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Thaichon</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Doing more with less: An integrative literature review on responsible consumption behaviour</article-title>
+					<source>Journal of Consumer Behaviour</source>
+					<volume>23</volume>
+					<issue>1</issue>
+					<fpage>141</fpage>
+					<lpage>155</lpage>
+					<pub-id pub-id-type="doi">10.1002/cb.2163</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Neyman, J. and Pearson, E.S. (1933) ‘On the problem of the most efficient tests of statistical hypotheses’, <italic>Philosophical Transactions of the Royal Society of London. Series A</italic>, 231, pp. 289-337.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Neyman</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Pearson</surname>
+							<given-names>E.S</given-names>
+						</name>
+					</person-group>
+					<year>1933</year>
+					<article-title>On the problem of the most efficient tests of statistical hypotheses</article-title>
+					<source>Philosophical Transactions of the Royal Society of London. Series A</source>
+					<volume>231</volume>
+					<fpage>289</fpage>
+					<lpage>337</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Panda, D., Singhal, D., Jena, S. and Tripathy, S. (2024) ‘Assessment of Indian consumers’ green purchase intention: An integration of theory of planned behaviour and meta-analysis’, <italic>Environment, Development and Sustainability</italic>. https://doi.org/10.1007/s10668-024-04897-8</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Panda</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Singhal</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Jena</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Tripathy</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Assessment of Indian consumers’ green purchase intention: An integration of theory of planned behaviour and meta-analysis</article-title>
+					<source>Environment, Development and Sustainability</source>
+					<pub-id pub-id-type="doi">10.1007/s10668-024-04897-8</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Patiño-Toro, O.N., Valencia-Arias, A., Palacios-Moya, L., Uribe-Bedoya, H., Valencia, J., Londoño, W. and Gallegos, A. (2024) ‘Green purchase intention factors: A systematic review and research agenda’, <italic>Sustainable Environment</italic>, 10(1), 2356392. https://doi.org/10.1080/27658511.2024.2356392</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Patiño-Toro</surname>
+							<given-names>O.N.</given-names>
+						</name>
+						<name>
+							<surname>Valencia-Arias</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Palacios-Moya</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Uribe-Bedoya</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Valencia</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Londoño</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Gallegos</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Green purchase intention factors: A systematic review and research agenda</article-title>
+					<source>Sustainable Environment</source>
+					<volume>10</volume>
+					<issue>1</issue>
+					<issue-part>2356392</issue-part>
+					<pub-id pub-id-type="doi">10.1080/27658511.2024.2356392</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Sharma, R., Choudhury, R. and Dhir, A. (2022) ‘Factors affecting green purchase behavior: A systematic literature review’, <italic>Business Strategy and the Environment</italic>, 31(1), pp. 1-20. https://doi.org/10.1002/bse.2883</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sharma</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Choudhury</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Dhir</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Factors affecting green purchase behavior: A systematic literature review</article-title>
+					<source>Business Strategy and the Environment</source>
+					<volume>31</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>20</lpage>
+					<pub-id pub-id-type="doi">10.1002/bse.2883</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Zhao, X., Lynch Jr, J. G., &amp; Chen, Q. (2010). Reconsidering Baron and Kenny: Myths and truths about mediation analysis.<italic>Journal of consumer research</italic>,<italic>37</italic>(2), 197-206. https://doi.org/10.1086/651257</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhao</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Lynch</surname>
+							<given-names>J. G.</given-names>
+							<suffix>Jr</suffix>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>Q</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Reconsidering Baron and Kenny: Myths and truths about mediation analysis</article-title>
+					<source>Journal of consumer research</source>
+					<volume>37</volume>
+					<issue>2</issue>
+					<fpage>197</fpage>
+					<lpage>206</lpage>
+					<pub-id pub-id-type="doi">10.1086/651257</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Tian, Z., Sun, X., Wang, J., Su, W. and Li, G. (2022) ‘Factors affecting green purchase intention: A perspective of ethical decision making’, <italic>International Journal of Environmental Research and Public Health</italic>, 19(18), 11151. https://doi.org/10.3390/ijerph191811151</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tian</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Sun</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Su</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Factors affecting green purchase intention: A perspective of ethical decision making</article-title>
+					<source>International Journal of Environmental Research and Public Health</source>
+					<volume>19</volume>
+					<issue>18</issue>
+					<issue-part>11151</issue-part>
+					<pub-id pub-id-type="doi">10.3390/ijerph191811151</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Wang, J., Shen, M. and Chu, M. (2021) ‘Why is green consumption easier said than done? Exploring the green consumption attitude-intention gap in China with behavioral reasoning theory’, <italic>Cleaner and Responsible Consumption</italic>, 2, 100015. https://doi.org/10.1016/j.clrc.2021.100015</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wang</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Shen</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Chu</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Why is green consumption easier said than done? Exploring the green consumption attitude-intention gap in China with behavioral reasoning theory</article-title>
+					<source>Cleaner and Responsible Consumption</source>
+					<volume>2</volume>
+					<issue-part>100015</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.clrc.2021.100015</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Wooldridge, J.M. (1996) ‘<italic>Introductory econometrics: A modern approach</italic>’ (3rd ed.). Cincinnati, OH: South-Western College Publishing.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wooldridge</surname>
+							<given-names>J.M</given-names>
+						</name>
+					</person-group>
+					<year>1996</year>
+					<source>Introductory econometrics: A modern approach</source>
+					<edition>3rd</edition>
+					<publisher-loc>Cincinnati, OH</publisher-loc>
+					<publisher-name>South-Western College Publishing</publisher-name>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+	<sub-article article-type="translation" id="s1" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Perceived Value, Social Influence and Purchase Intention for Sustainable Consumption in Mexico</article-title>
+			</title-group>
+			<abstract>
+				<title>Abstract</title>
+				<p>The objective of this study is to analyze the relationship between perceived value and social influence on the intention and behavior of sustainable purchasing among Mexican consumers. The methodology is quantitative, explanatory, and cross-sectional, collecting data from 233 participants via an online questionnaire administered between February and May 2025. The data were analyzed using structural equation modeling (SEM). The results indicate that perceived value and social influence have significant effects on the intention and behavior of sustainable purchasing, revealing a reciprocal relationship between these two constructs. A limitation of the study is that it was conducted within a specific national context and used non-probability sampling, which may restrict the generalizability of the results. In conclusion, the findings indicate that strengthening perceived value and social validation are key factors in promoting responsible consumption. The literature review indicates that, despite the growing interest in sustainability, empirical research in Mexico remains limited. This study contributes a causal model that integrates relevant psychosocial variables to promote sustainable consumption.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Sustainable consumption</kwd>
+				<kwd>consumer behavior</kwd>
+				<kwd>sustainable product</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>JEL Codes:</title>
+				<kwd>D12</kwd>
+				<kwd>Q56</kwd>
+				<kwd>M31</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="intro">
+				<title>1. Introduction</title>
+				<p>In the current context of accelerating environmental crisis, scholarly interest in identifying the determinants of sustainable consumption behavior has grown considerably. In countries such as Mexico, where such practices remain in an early stage of consolidation, generating robust empirical evidence that elucidates how consumers construct responsible purchasing decisions has become a research priority (<xref ref-type="bibr" rid="B29">Maduku, 2024</xref>; <xref ref-type="bibr" rid="B14">Ghaffar &amp; Islam, 2024</xref>). Beyond this foundational concern, additional constructs, including perceived value, social influence, and purchase intention, have been shown to maintain strong theoretical and empirical associations with responsible consumption; accordingly, any comprehensive account of Mexican consumer behavior must incorporate these dimensions. Although these constructs have been extensively examined in Asian and European contexts (<xref ref-type="bibr" rid="B1">Ajzen, 1991</xref>; <xref ref-type="bibr" rid="B23">Jiang et al., 2024</xref>; <xref ref-type="bibr" rid="B31">Nangia et al., 2024</xref>), the body of literature addressing the national and regional context remains limited, recent, and at times contradictory.</p>
+				<p>The purpose of the present study is to examine the existence of significant relationships among value perception (VPS), social influence (RCS), purchase intention (ICS), and sustainable purchasing behavior (CCS) in a sample of Mexican consumers, employing Partial Least Squares Structural Equation Modeling (PLS-SEM) as the analytical framework. The study seeks to confirm positive associations among these constructs and to provide evidence-based insights for the design of corporate strategies and public policies aimed at reinforcing social validation and perceived value as key drivers of sustainable consumption.</p>
+				<p>This investigation contributes timely empirical evidence from Mexico, a context that remains substantially underexplored, notwithstanding the urgency of advancing responsible consumption in Baja California. Furthermore, it proposes a correlational model that simultaneously integrates the psychosocial constructs of value perception and social influence, examining their respective and joint relationships with both sustainable purchase intention and sustainable purchasing behavior.</p>
+				<p>The article proceeds as follows. Section 2 presents a review of the theoretical and empirical literature on value perception, social influence, sustainable purchase intention, and sustainable purchasing behavior, culminating in the proposed theoretical model and research hypotheses. Section 3 describes the research methodology, encompassing study design, sampling procedures, data collection instruments, and the PLS-SEM analytical approach. Section 4 reports the results derived from the structural equation model, while Section 5 discusses the most salient findings. The article concludes with a presentation of theoretical and practical implications, acknowledged limitations, and directions for future research.</p>
+			</sec>
+			<sec>
+				<title>2. Literature Review</title>
+				<sec>
+					<title>2. Value Perception in Responsible Consumption (VPS)</title>
+					<p>In the domain of responsible consumption, perceived value extends beyond conventional assessments of price and product quality to encompass a broader evaluative process through which individuals weigh ethical, environmental, emotional, and social considerations when making purchasing decisions (<xref ref-type="bibr" rid="B14">Ghaffar &amp; Islam, 2024</xref>). Empirical evidence consistently indicates that consumers tend to assign higher value to goods and services capable of generating collective benefits, such as eco-friendly or locally sourced products, reflecting a shift toward socially and environmentally conscious valuation frameworks (<xref ref-type="bibr" rid="B29">Maduku, 2024</xref>). Moreover, the psychological satisfaction derived from acting in accordance with one's sustainability principles, as well as the moral discomfort associated with behavior that contradicts such values, constitutes an additional affective dimension that shapes consumers' purchasing choices (<xref ref-type="bibr" rid="B31">Nangia et al., 2024</xref>).</p>
+				</sec>
+				<sec>
+					<title>2.2 Social Influence in Sustainable Consumption (RCS)</title>
+					<p>The social environment exerts a decisive influence on consumers' purchasing decisions. Within the framework of the Theory of Planned Behavior, as formulated in <xref ref-type="bibr" rid="B1">Ajzen's (1991)</xref> seminal contribution, subjective norms, conceptualized as individuals' perceptions of socially sanctioned conduct, directly shape behavioral intention toward sustainable consumption. Family members, peer groups, and public figures function as salient referents of normative behavior, particularly in contexts where social acceptance and group belonging are implicated (<xref ref-type="bibr" rid="B4">Ali et al., 2022</xref>).</p>
+					<p>Digital social networks substantially amplify this normative dynamic by enhancing the visibility of sustainable practices and reinforcing their perceived desirability. Public endorsements by influencers or trusted social contacts have been shown to facilitate the adoption of pro-environmental attitudes and behaviors (<xref ref-type="bibr" rid="B27">Le et al., 2024</xref>; <xref ref-type="bibr" rid="B20">Horrich et al., 2024</xref>). From a Behavioral Reasoning perspective, sustainable conduct may be motivated not solely by internalized convictions, but also by the imperative to project social coherence and affirm personal identity (<xref ref-type="bibr" rid="B38">Wang et al., 2021</xref>), a phenomenon particularly pronounced among Generation Z consumers, who are distinguished by their pronounced identification with environmental causes (<xref ref-type="bibr" rid="B24">Kara &amp; Min, 2024</xref>; <xref ref-type="bibr" rid="B36">Zhao et al., 2010</xref>).</p>
+				</sec>
+				<sec>
+					<title>2.3 Sustainable Purchase Intention (ICS)</title>
+					<p>Sustainable purchase intention is conceptualized as an individual's predisposition to acquire products associated with reduced environmental impact, guided by criteria pertaining to environmental protection, responsible consumption, and sustainability. This intention is shaped by a constellation of factors, including attitude toward eco-friendly products, perceived social norms, the consumer's self-assessed capacity to engage in sustainable purchasing, and the belief that individual consumption choices can contribute meaningfully to environmental preservation (<xref ref-type="bibr" rid="B11">Do et al., 2025</xref>). Consistent with the Theory of Planned Behavior, this predisposition is jointly determined by attitude, perceived social norms, and perceived behavioral control (<xref ref-type="bibr" rid="B1">Ajzen, 1991</xref>). More recent scholarship has incorporated additional constructs, notably environmental awareness and health consciousness, that have been found to further strengthen responsible purchase intention (<xref ref-type="bibr" rid="B28">Li &amp; Shan, 2025</xref>). Moral judgment and ecological valuation have likewise been identified as significant positive antecedents, operating alongside more utilitarian attributes such as price and product quality (<xref ref-type="bibr" rid="B37">Tian et al., 2022</xref>; <xref ref-type="bibr" rid="B34">Patiño-Toro et al., 2024</xref>).</p>
+					<p>Evidence from the Indian context indicates that attitude constitutes the primary determinant of sustainable purchase intention, followed by perceived product accessibility and price affordability (<xref ref-type="bibr" rid="B33">Panda et al., 2024</xref>). Conscious consumption, defined as the deliberate selection of products or services in accordance with ethical and environmental values, has been similarly identified as a reinforcing antecedent of this intention (<xref ref-type="bibr" rid="B22">Ji et al., 2025</xref>).</p>
+				</sec>
+				<sec>
+					<title>2.4 Sustainable Purchasing Behavior (CCS)</title>
+					<p>Sustainable purchasing behavior refers to the concrete act of acquiring goods or services in a manner that minimizes environmental impact and remains congruent with ethical values and ecological responsibility (<xref ref-type="bibr" rid="B8">Dangelico &amp; Vocalelli, 2024</xref>). In contrast to intention, this behavioral construct represents the actualization of attitudes and internalized social norms into observable consumption decisions (<xref ref-type="bibr" rid="B35">Sharma et al., 2022</xref>).</p>
+					<p>A range of antecedents has been identified as capable of motivating sustainable purchasing behavior, including knowledge of corporate social responsibility, normative social pressure, exposure to pro-environmental communication, and identification with community-level values, each of which may activate both altruistic and self-interested motivational pathways (<xref ref-type="bibr" rid="B30">Mahmud, 2024</xref>; <xref ref-type="bibr" rid="B3">Alghamdi &amp; Agag, 2024</xref>). Among centennial consumers (Generation Z), cultural, emotional, and lifestyle-related variables have been shown to exercise additional significant influence on these behavioral outcomes (<xref ref-type="bibr" rid="B2">Akbar et al., 2024</xref>).</p>
+				</sec>
+				<sec>
+					<title>2.5 Interrelationships Among Variables in Sustainable Consumption (Figure 1)</title>
+					<p>
+						<xref ref-type="fig" rid="f2">Figure 1</xref> depicts the theoretical connections among consumers' value assessments, social influence processes, and sustainable purchasing decisions, from which five relational propositions are derived to account for this behavioral phenomenon.</p>
+					<p>
+						<fig id="f2">
+							<label>Figure 1:</label>
+							<caption>
+								<title>Structual Model </title>
+							</caption>
+							<graphic xlink:href="2683-2623-vu-28-97-e521-gf2.jpg"/>
+							<attrib>Source: Own elaboration based on the consulted literature</attrib>
+						</fig>
+					</p>
+					<p>Perceived value associated with sustainable products is posited to influence consumers' receptivity to social influence, particularly when individuals attribute ethical or symbolic significance to responsible consumption and seek coherence with prevailing social norms (<xref ref-type="bibr" rid="B29">Maduku, 2024</xref>). In contexts where sustainable consumption carries positive social valence, this perceived value reinforces social validation processes and strengthens consumers' sense of community belonging (<xref ref-type="bibr" rid="B27">Le et al., 2024</xref>).</p>
+					<p>To test the proposed model, the following hypotheses are advanced:</p>
+					<p>H1. Value perception (VPS) is positively associated with social influence (RCS), insofar as it promotes the internalization and acceptance of sustainable consumption norms (<xref ref-type="bibr" rid="B1">Ajzen, 1991</xref>; <xref ref-type="bibr" rid="B24">Kara &amp; Min, 2024</xref>; <xref ref-type="bibr" rid="B20">Horrich et al., 2024</xref>).</p>
+					<p>H2. Social influence (RCS) is positively associated with sustainable purchase intention (ICS), by reinforcing favorable attitudes toward ecological consumption (<xref ref-type="bibr" rid="B14">Ghaffar &amp; Islam, 2024</xref>; <xref ref-type="bibr" rid="B37">Tian et al., 2022</xref>; <xref ref-type="bibr" rid="B29">Maduku, 2024</xref>).</p>
+					<p>H3. Value perception (VPS) exerts a positive effect on sustainable purchase intention (ICS), reflecting consumers' ethical and functional evaluation of the product (<xref ref-type="bibr" rid="B34">Patiño-Toro et al., 2024</xref>).</p>
+					<p>H4. Value perception (VPS) is positively related to sustainable purchasing behavior (CCS), by integrating personal, social, and environmental benefits into the consumer's decision-making process (<xref ref-type="bibr" rid="B2">Akbar et al., 2024</xref>).</p>
+					<p>H5. Sustainable purchasing behavior (CCS) exerts a positive influence on future purchase intention (ICS), thereby consolidating responsible consumption habits over time (<xref ref-type="bibr" rid="B22">Ji et al., 2025</xref>).</p>
+				</sec>
+			</sec>
+			<sec sec-type="methods">
+				<title>3. Methodology</title>
+				<p>The study was conducted under a quantitative approach, with an explanatory, cross-sectional design aimed at examining the influence of value perception (VPS), social influence (RCS), sustainable purchase intention (ICS), and sustainable purchasing behavior (CCS). A total of 233 individuals from various Mexican states were surveyed through non-probabilistic convenience sampling. Eligibility criteria required participants to have made at least one sustainable purchase within the six months preceding data collection and to fall within the 25-45 age range. Data were collected between February and May 2025 using a structured digital questionnaire administered via Google Forms and distributed through social media platforms and university networks. The final instrument comprised 16 items organized across the four aforementioned constructs, measured on a five-point Likert scale.</p>
+				<p>Statistical adequacy was assessed using G*Power, a freely available power analysis software, to verify that the sample yielded sufficient statistical reliability for the intended analyses (<xref ref-type="bibr" rid="B12">Faul, Erdfelder, Lang, &amp; Buchner, 2007</xref>). The software was configured under the Exact test family, which derives significance and statistical power directly from the exact distribution of the test statistic, thereby precluding the need for asymptotic approximations. Bivariate correlation was selected as the statistical test to confirm adequate statistical power given the sample size and the anticipated effect size, under a significance level of α = .05 (<xref ref-type="bibr" rid="B32">Neyman &amp; Pearson, 1933</xref>; Field, 2018). Power analysis was conducted in post hoc mode (<xref ref-type="bibr" rid="B7">Cohen, 1988</xref>; <xref ref-type="bibr" rid="B12">Faul et al., 2007</xref>), which determines the statistical power achieved for a given sample size, effect size, and significance level (<xref ref-type="bibr" rid="B7">Cohen, 1988</xref>; <xref ref-type="bibr" rid="B17">Hair, Hult, Ringle, &amp; Sarstedt, 2021</xref>).</p>
+				<p>The questionnaire was developed on the basis of scales previously validated in the international scientific literature. Items measuring value perception drew on the work of <xref ref-type="bibr" rid="B14">Ghaffar and Islam (2024)</xref>, <xref ref-type="bibr" rid="B29">Maduku (2024)</xref>, and <xref ref-type="bibr" rid="B27">Le et al. (2024)</xref>, whose contributions address perceived value across emotional, social, and ethical dimensions. Social influence was operationalized with reference to <xref ref-type="bibr" rid="B1">Ajzen (1991)</xref>, <xref ref-type="bibr" rid="B4">Ali et al. (2022)</xref>, and <xref ref-type="bibr" rid="B20">Horrich et al. (2024)</xref>, whose frameworks emphasize the role of social norms and group pressure in responsible consumption decisions. Sustainable purchase intention was assessed using items adapted from <xref ref-type="bibr" rid="B37">Tian et al. (2022)</xref>, <xref ref-type="bibr" rid="B33">Panda et al. (2024)</xref>, and <xref ref-type="bibr" rid="B22">Ji et al. (2025)</xref>. Finally, sustainable purchasing behavior was measured on the basis of <xref ref-type="bibr" rid="B8">Dangelico and Vocalelli (2024)</xref>, <xref ref-type="bibr" rid="B30">Mahmud (2024)</xref>, and <xref ref-type="bibr" rid="B35">Sharma et al. (2022)</xref>.</p>
+				<p>Partial Least Squares Structural Equation Modeling (PLS-SEM) was estimated using ADANCO software. The measurement model was evaluated through the following indicators: factor loadings (λ), convergent validity via Average Variance Extracted (AVE), composite reliability (ρc and ρA), noting that Cronbach's alpha (α) tends to underestimate reliability while composite reliability (ρc) tends to overestimate it, with ρA regarded as the most balanced indicator of internal consistency within the PLS-SEM framework, and discriminant validity assessed through the Fornell-Larcker criterion, the Heterotrait-Monotrait ratio (HTMT), and its refined version (HTMT₂). Overall model fit was evaluated using the Standardized Root Mean Square Residual (SRMR), with values below 0.08 considered indicative of acceptable fit (<xref ref-type="bibr" rid="B21">Hu &amp; Bentler, 1999</xref>), thereby enabling a comprehensive assessment of the model's structural adequacy.</p>
+			</sec>
+			<sec sec-type="results">
+				<title>4. Results</title>
+				<sec>
+					<title>4.1 Measurement Model Evaluation and Structural Fit</title>
+					<p>Regarding the sociodemographic profile of respondents, 55.4% identified as female, 42.5% as male, and 2.1% identified with another gender category. As established by the eligibility criteria, all participants fell within the 25-45 age range.</p>
+					<p>To assess the reliability of the proposed constructs and determine their suitability for inclusion in the structural model, a Bivariate Correlation analysis was conducted to obtain the effect size index ρ for each hypothesis (H1-H5), following the conventions established by <xref ref-type="bibr" rid="B7">Cohen (1988)</xref> and <xref ref-type="bibr" rid="B26">Lakens (2013)</xref>. The resulting values, derived from the interconstruct correlations of the model, are presented in <xref ref-type="table" rid="t8">Table 1</xref>.</p>
+					<p>
+						<table-wrap id="t8">
+							<label>Table 1</label>
+							<caption>
+								<title>Bivariate Correlations Among Model Constructs</title>
+							</caption>
+							<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Construct Relationships</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Correlation ρ H1</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">VPS – RCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.508</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">RCS – ICS</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.607</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">VPS – CCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.715</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">CCS – ICS</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.836</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">VPS – ICS</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">0.675</td>
+  </tr>
+</tbody>
+</table>
+
+							<table-wrap-foot>
+								<fn id="TFN13">
+									<p>Source: Own elaboration based on data collected through the research instrument.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>In all evaluated cases, statistical power exceeded 0.95, confirming that the obtained sample is sufficient to reliably detect the expected effect sizes within the study (see <xref ref-type="table" rid="t9">Table 2</xref>) (<xref ref-type="bibr" rid="B7">Cohen, 1988</xref>; <xref ref-type="bibr" rid="B12">Faul, Erdfelder, Lang, &amp; Buchner, 2007</xref>; <xref ref-type="bibr" rid="B17">Hair, Hult, Ringle, &amp; Sarstedt, 2021</xref>).</p>
+					<p>
+						<table-wrap id="t9">
+							<label>Table 2</label>
+							<caption>
+								<title>Bivariate Correlations Among Constructs and Statistical Power Analysis Results (1-β)</title>
+							</caption>
+							<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Construct Relationship</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Correlation ρ H1</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Power (1- β error probability)</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">VPS – RCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.508</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">1.0000000</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">RCS – ICS</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.607</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">1.0000000</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">VPS – CCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.715</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">1.0000000</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">CCS – ICS</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.836</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">1.0000000</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">VPS – ICS</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">0.675</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">1.0000000</td>
+  </tr>
+</tbody>
+</table>
+
+							<table-wrap-foot>
+								<fn id="TFN14">
+									<p>Source: Own elaboration based on data collected through the research instrument.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>The statistical values derived from the proposed model were evaluated to verify internal consistency. Standardized factor loadings were required to exceed the acceptable threshold of 0.707, as recommended by <xref ref-type="bibr" rid="B6">Carmines and Zeller (1979)</xref>. In the present study, all sixteen items yielded factor loadings ranging from 0.7036 to 0.9307, as reported in <xref ref-type="table" rid="t10">Table 3</xref>.</p>
+					<p>
+						<table-wrap id="t10">
+							<label>Table 3</label>
+							<caption>
+								<title>Construct Reliability and Internal Consistency of the Model.</title>
+							</caption>
+							<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 250px; background-color: #c7c8c9;"><bold>Variable</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Indicator</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Loading λ2</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Cronbach alpha (α)</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Jöreskog's rho (ρc)</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Dijkstra-Henseler's rho</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="4">Social Influence in Sustainable Consumption    (RCS).</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS 1</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.7927</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="4">0.8970</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="4">0.8955</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="4">0.901</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS 2</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.8000</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS 3</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.7728</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS 4</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.9307</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" rowspan="6">Sustainable Purchase Intention (ICS).</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 1</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7735</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" rowspan="6">0.9002</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" rowspan="6">0.9001</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" rowspan="6">0.9016</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 2</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7336</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 3</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7907</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 4</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7192</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 5</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7948</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS 6</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.8332</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="3">Sustainable Purchasing Behavior (CCS).</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">CCS 1</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.7036</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="3">0.7888</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="3">0.7906</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" rowspan="3">0.7942</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">CCS 2</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.7267</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">CCS 3</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.8069</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" rowspan="3">Value Perception in Responsible Consumption    (VPS)</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">VPS 1</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7369</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" rowspan="3">0.8057</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" rowspan="3">0.8057</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" rowspan="3">0.8063</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">VPS 2</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.7685</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">VPS 3</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.7796</td>
+  </tr>
+</tbody>
+</table>
+
+							<table-wrap-foot>
+								<fn id="TFN15">
+									<p>Note. Factor loadings (λ²), Cronbach's alpha (α), composite reliability (ρc), and Dijkstra-Henseler composite reliability (ρA) are reported. </p>
+								</fn>
+								<fn id="TFN16">
+									<p>Source: Source: Own elaboration based on data collected through the research instrument.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>The first consistency indicator assessed was Cronbach's alpha (α), which yielded satisfactory reliability estimates across all constructs (<xref ref-type="bibr" rid="B9">Darren &amp; Mallery, 1995</xref>). An acceptable value of 0.7888 was obtained for Sustainable Purchasing Behavior (CCS); highly acceptable values of 0.8057 and 0.8970 were recorded for Value Perception in Responsible Consumption (VPS) and Social Influence in Sustainable Consumption (RCS), respectively; and an excellent value of 0.9002 was obtained for Sustainable Purchase Intention (ICS).</p>
+					<p>As a complementary indicator, the consistent reliability coefficient ρA corroborated these findings (<xref ref-type="bibr" rid="B10">Dijkstra &amp; Henseler, 2015</xref>). The values obtained for CCS (0.7942) and VPS (0.8063) fell within acceptable ranges, while the constructs RCS (0.9010) and ICS (0.9016) attained excellent levels of internal consistency.</p>
+					<p>It should be noted that the consistent reliability coefficient (ρA) must equal or exceed 0.70 to demonstrate adequate internal consistency (<xref ref-type="bibr" rid="B10">Dijkstra &amp; Henseler, 2015</xref>), with values above 0.90 considered excellent, a threshold achieved by both RCS and ICS in the present study.</p>
+					<p>Finally, the Average Variance Extracted (AVE) was evaluated as a measure of convergent validity. As established by Fornell and Larcker (1981), AVE is a more conservative metric than composite reliability, with values exceeding 0.50 indicating that the construct accounts for at least 50% of the variance in its observable indicators. In the present study, the AVE values obtained directly from ADANCO surpassed this threshold for all constructs, for instance, CCS = 0.5581 (<xref ref-type="table" rid="t11">Table 4</xref>), thereby confirming the convergent validity of the latent variables.</p>
+					<p>
+						<table-wrap id="t11">
+							<label>Table 4</label>
+							<caption>
+								<title>Convergent Validity Matrix.</title>
+							</caption>
+							<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Construct</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>RCS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>VPS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>CCS</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>0.6829</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">ICS</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.4493</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"><bold>0.6008</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">VPS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.3115</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.4734</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>0.5804</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">CCS</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.1571</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.5837</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.3824</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"><bold>0.5581</bold></td>
+  </tr>
+</tbody>
+</table>
+
+							<table-wrap-foot>
+								<fn id="TFN17">
+									<p>Note. The diagonal entries represent the square root of the AVE for each construct, which must exceed the interconstruct correlations (Fornell &amp; Larcker, 1981). </p>
+								</fn>
+								<fn id="TFN18">
+									<p>Source: Source: Own elaboration based on data collected through the research instrument.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>When assessing discriminant validity through the traditional Fornell and Larcker (1981) criterion, the square root of the Average Variance Extracted (AVE) for the majority of constructs exceeded their interconstruct correlations. However, a potential limitation was identified (<xref ref-type="table" rid="t11">Table 4</xref>): the correlation between Sustainable Purchase Intention (ICS) and Sustainable Purchasing Behavior (CCS) reached a value of 0.5837, critically approaching the square root of the AVE for ICS (0.6008), which may suggest a degree of conceptual overlap between these two constructs.</p>
+					<p>In addressing this type of ambiguity, <xref ref-type="bibr" rid="B19">Henseler, Ringle, and Sarstedt (2016)</xref> demonstrated that the Fornell-Larcker criterion exhibits limited sensitivity in detecting discriminant validity issues, and proposed a more robust alternative: the Heterotrait-Monotrait ratio (HTMT). This coefficient assesses discriminant validity by estimating the mean of the cross-construct indicator correlations (heterotrait) relative to the geometric mean of the within-construct indicator correlations (monotrait). Following the conservative thresholds established by Kline (2011), HTMT values below 0.85 are considered confirmatory of discriminant validity. As shown in <xref ref-type="table" rid="t12">Table 5</xref>, all HTMT ratios fell below this threshold, conclusively establishing the psychometric distinctiveness of the constructs under examination.</p>
+					<p>
+						<table-wrap id="t12">
+							<label>Table 5</label>
+							<caption>
+								<title>Heterotrait-Monotrait Ratio (HTMT) Matrix</title>
+							</caption>
+							<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Construct</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>RCS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>VPS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>CCS</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.6672</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>VPS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.5572</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.6871</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"><bold>CCS</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.3972</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.7639</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.6176</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+</tbody>
+</table>
+
+							<table-wrap-foot>
+								<fn id="TFN19">
+									<p>Note: Values below 0.85 indicate adequate evidence of discriminant validity (<xref ref-type="bibr" rid="B19">Henseler et al., 2016</xref>; Kline, 2011).</p>
+								</fn>
+								<fn id="TFN20">
+									<p> Source: Own elaboration based on data collected through the research instrument.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>Specifically, the relationship between ICS and CCS yielded an HTMT index of 0.7639. To further strengthen the methodological robustness of this assessment, the HTMT₂ indicator was additionally evaluated (<xref ref-type="table" rid="t13">Table 6</xref>), confirming a value of 0.7587 for this particular construct pair. Given that neither estimate approached the critical threshold of 0.85 (Kline, 2011), discriminant validity between ICS and CCS is deemed acceptable. Taken together, both indicators provide conclusive confirmation of discriminant validity across the proposed model.</p>
+					<p>
+						<table-wrap id="t13">
+							<label>Table 6</label>
+							<caption>
+								<title>Heterotrait-Monotrait Ratio Matrix (HTMT₂)</title>
+							</caption>
+							<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Construct</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>RCS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>VPS</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>CCS</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">RCS</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"><bold>ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.6644</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>VPS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.5568</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.6854</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"><bold>CCS</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.3653</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.7587</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.6127</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+</tbody>
+</table>
+
+							<table-wrap-foot>
+								<fn id="TFN21">
+									<p>Note: Values below 0.85 indicate adequate evidence of discriminant validity (<xref ref-type="bibr" rid="B19">Henseler et al., 2016</xref>; Kline, 2011). </p>
+								</fn>
+								<fn id="TFN22">
+									<p> Source: Own elaboration based on data collected through the research instrument.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>On the basis of the foregoing, the conceptual distinction between both constructs within the structural model can be confirmed in a methodologically rigorous and reliable manner. The results obtained through the joint application of the Fornell-Larcker criterion, HTMT, and HTMT₂ provide sufficient statistical consistency to validate their conceptual independence and justify their retention as distinct variables within the model.</p>
+					<p>Regarding overall model fit, the Standardized Root Mean Square Residual (SRMR) was employed as the primary fit index, representing the square root of the discrepancies between observed and model-implied correlations. In accordance with <xref ref-type="bibr" rid="B21">Hu and Bentler (1999)</xref>, values below 0.08 are indicative of acceptable fit. The SRMR value obtained in the present study was 0.0553, confirming that the overall fit of the proposed model is adequate.</p>
+				</sec>
+				<sec>
+					<title>4.2 Structural Relationships and Hypothesis Testing</title>
+					<p>In this second phase, the relationships among constructs were examined through standardized beta coefficients (β) to determine the acceptance or rejection of each hypothesis. Following Lohmöller (1989), a β coefficient exceeding 0.20 is considered substantively relevant.</p>
+					<p>Effect size (f²) was additionally assessed as an indicator of the strength of the relationship between variables, independent of sample size. According to <xref ref-type="bibr" rid="B7">Cohen (1988)</xref>, values of 0.02, 0.15, and 0.35 represent small, medium, and large effects, respectively.</p>
+					<p>The statistical significance of the structural coefficients was verified through bootstrapping, which yields empirical t-values and their associated p-values. A coefficient is considered statistically significant when t &gt; 2.576 (p &lt; .01), a criterion widely adopted in consumer behavior research (<xref ref-type="bibr" rid="B25">Kock, 2014</xref>; <xref ref-type="bibr" rid="B16">Hair et al., 2011</xref>). Based on these parameters, the following results were obtained (<xref ref-type="table" rid="t14">Table 7</xref>).</p>
+					<p>
+						<table-wrap id="t14">
+							<label>Table 7</label>
+							<caption>
+								<title>Structural Model Hypothesis Testing Results</title>
+							</caption>
+							<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Hypothesis</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Construts Relationship</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>β</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>f<sup>2</sup></bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>R<sup>2</sup></bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>p-valores</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>t-valores</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Result</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">H<sup>1</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>VPS -&gt; RCS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.5581</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.4525</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.0000</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">9.2747</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Acepado</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"><bold>H<sup>2</sup></bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"><bold>RCS -&gt; ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.3773</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.4000</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.0000</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">4.7013</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Acepado</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>H<sup>3</sup></bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>VPS -&gt; ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.6881</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.0513</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.0000</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">11.1593</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Acepado</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"><bold>H<sup>4</sup></bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"><bold>VPS -&gt; CCS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.6184</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.6192</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.0000</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">8.1955</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Acepado</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>H<sup>5</sup></bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>CCS -&gt; ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.5168</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.6730</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.0000</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">6.0014</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Acepado</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"><bold>RCS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">0.3115</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"><bold>ICS</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.7564</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"><bold>CCS</bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">0.3824</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;"></td>
+  </tr>
+</tbody>
+</table>
+
+							<table-wrap-foot>
+								<fn id="TFN23">
+									<p>Note. Standardized coefficients (β), effect sizes (f²), coefficients of determination (R²), p-values, t-values, and hypothesis acceptance outcomes are reported. A p-value &lt; 0.01 and t-value &gt; 2.576 indicate statistical significance at the 1% level (<xref ref-type="bibr" rid="B16">Hair et al., 2011</xref>). </p>
+								</fn>
+								<fn id="TFN24">
+									<p>Source: Own elaboration based on data collected through the research instrument.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>H1 supported: Value perception exerts a positive effect on social influence (β = 0.5581; f² = 0.4525), constituting a highly significant relationship.</p>
+					<p>H2 supported: Although this path yielded the lowest coefficient in the model, social influence exerts a positive effect on sustainable purchase intention (β = 0.377; f² = 0.4000), supported by robust statistical evidence.</p>
+					<p>H3 supported: This represents the strongest relationship in the model (β = 0.6881; f² = 0.0513). An increase in value perception produces the greatest direct impact on sustainable purchase intention.</p>
+					<p>H4 supported: This path demonstrates a substantial direct effect (β = 0.6184; f² = 0.6730), validating value perception as a significant predictor of sustainable purchasing behavior.</p>
+					<p>H5 supported: Sustainable purchasing behavior exerts a positive effect on sustainable purchase intention (β = 0.5168; f² = 0.6192), supported by robust statistical evidence.</p>
+					<p>Although H3 yields the highest path coefficient toward ICS (β = 0.6881, p &lt; .01, t = 11.1593), its effect size is small (f² = 0.0513). This outcome is attributable to the presence of the mediating constructs RCS and CCS, whose effect sizes are substantially larger (0.4000 and 0.6730, respectively) and which jointly account for 75.64% of the variance in ICS (R² = 0.7564). The f² index reflects the incremental contribution of VPS once the mediators have already absorbed a substantial portion of the explained variance; consequently, its reduced magnitude does not invalidate the relationship, but rather indicates that the influence of VPS on ICS operates predominantly through mediated pathways. In accordance with <xref ref-type="bibr" rid="B7">Cohen (1988)</xref>, <xref ref-type="bibr" rid="B36">Zhao, Lynch, and Chen (2010)</xref>, and <xref ref-type="bibr" rid="B17">Hair et al. (2021</xref>), this pattern is characteristic of models involving partial or exclusive indirect mediation, in which explanatory variance is distributed across the mediating constructs.</p>
+					<p>Finally, the coefficient of determination R² measures the proportion of variance in an endogenous (dependent) construct explained by its predictor variables, and serves as an indicator of goodness of fit in regression-based models (<xref ref-type="bibr" rid="B39">Wooldridge, 1996</xref>), enabling assessment of the model's predictive capacity within the analyzed sample (<xref ref-type="bibr" rid="B5">Becker, 2013</xref>).</p>
+					<p>In accordance with the criteria established by <xref ref-type="bibr" rid="B17">Hair et al. (2021)</xref>, the R² values obtained in the model may be classified as follows: Social Influence in Sustainable Consumption (RCS) achieved a value of 0.3115, indicating a moderate effect, whereby 31.15% of its variance is explained by VPS. Sustainable Purchasing Behavior (CCS) obtained a value of 0.3824, also reflecting a moderate effect, with 38.24% of its variance accounted for by its predictor. Sustainable Purchase Intention (ICS) reached a value of 0.7564, indicating that the model, comprising RCS, VPS, and CCS as predictors, explains 75.64% of the variance in purchase intention, representing a high level of explanatory capacity.</p>
+				</sec>
+			</sec>
+			<sec sec-type="discussion">
+				<title>5. Discussion</title>
+				<p>The findings of this study confirm that value perception and social influence are decisive factors in the formation of sustainable purchase intention and sustainable purchasing behavior. The structural equation model provided robust empirical evidence that extends the understanding of these relationships within the Mexican and broader Latin American context.</p>
+				<p>With respect to H1, the findings support the proposed relationship, demonstrating that a positive value perception, one that integrates ethical, emotional, and social dimensions, enhances receptivity to sustainable practices and messages within the social environment. This indicates that when sustainability acquires personal and symbolic meaning, individuals become more responsive to peer influence, consistent with the propositions advanced by <xref ref-type="bibr" rid="B27">Le et al. (2024)</xref> and <xref ref-type="bibr" rid="B29">Maduku (2024)</xref>. The acceptance of H2 further confirms the weight of social influence on sustainable purchase intention, in alignment with the Theory of Planned Behavior (<xref ref-type="bibr" rid="B1">Ajzen, 1991</xref>), whereby subjective norms and perceived social approval shape purchasing decisions. The presence of social media referents similarly reinforces the predisposition toward responsible consumption, as documented by <xref ref-type="bibr" rid="B24">Kara and Min (2024)</xref>.</p>
+				<p>Regarding H3, the results indicate that a favorable evaluation of sustainable products increases the intention to acquire them. Although the effect size was small, its theoretical significance lies in the fact that perceived value is informed by ethical and symbolic dimensions (<xref ref-type="bibr" rid="B37">Tian et al., 2022</xref>; <xref ref-type="bibr" rid="B34">Patiño-Toro et al., 2024</xref>). This premise is extended with greater force in H4, which revealed a strong relationship between value perception and sustainable purchasing behavior. This finding suggests that a positive valuation of sustainability can translate into concrete action when conditions exist that facilitate coherence between personal values and everyday consumption practices (<xref ref-type="bibr" rid="B36">Zhao et al., 2010</xref>; <xref ref-type="bibr" rid="B2">Akbar et al., 2024</xref>).</p>
+				<p>Finally, H5 demonstrates that sustainable purchasing behavior reinforces future intention to continue consuming responsibly. This cumulative effect indicates that the positive experience and satisfaction derived from sustainable consumption strengthen its continuity over time (<xref ref-type="bibr" rid="B22">Ji et al., 2025</xref>).</p>
+				<p>Taken together, the findings underscore that fostering sustainable consumption requires the simultaneous strengthening of perceived value and the social environments that legitimize responsible practices. In this regard, businesses, institutions, and civil society organizations are well-positioned to design strategies that integrate ethical arguments, collective benefits, and relatable lived experiences, thereby advancing a culture of consumption that is both more conscious and more consistently aligned with sustainability imperatives.</p>
+			</sec>
+			<sec sec-type="conclusions">
+				<title>6. Conclusions</title>
+				<p>The findings demonstrate that sustainable consumption is strengthened when sustainability transitions from being regarded as an &quot;additional attribute&quot; to being perceived as a necessary and meaningful value by the consumer, a shift that reflects an emerging consumption culture grounded in heightened environmental awareness. In this sense, it can be affirmed that perceived value and social validation operate in a mutually reinforcing dynamic that collectively promotes sustainable purchasing decisions.</p>
+				<p>Furthermore, the results confirm that value perception enhances receptivity to social cues, leading individuals to embrace sustainable consumption as a form of social validation and a means of belonging to a particular segment of society aligned with environmental values.</p>
+				<p>Sustainable purchase intention emerged as the construct with the highest explanatory power, suggesting the existence of a substantial and largely untapped market for sustainable products. In contrast, the results for effective purchasing behavior were more modest, indicating that additional factors, such as price and product accessibility, simultaneously influence actual purchasing decisions. That is, while consumers may be predisposed to purchase sustainably, certain contextual barriers may prevent such behavior from being consistent or habitual. In the Mexican context specifically, consolidating sustainable consumption will require the creation of repeatable experiences capable of generating habitual behavior rather than isolated purchasing episodes.</p>
+				<p>The originality of this study lies in its simultaneous articulation of perceived value and social influence as joint determinants of both purchase intention and purchasing behavior, while additionally introducing the notion of behavioral continuity as a mechanism through which periodic sustainable consumption may be fostered. Empirical evidence adopting this integrated perspective remains incipient within the analyzed context.</p>
+				<p>Among the study's limitations, its cross-sectional design precludes longitudinal tracking of consumer decisions and the evolution of consumption habits over time. Additionally, the use of non-probabilistic convenience sampling reduces the generalizability of the findings, introducing potential biases that limit representativeness across the full spectrum of consumer profiles throughout the country.</p>
+				<p>Future lines of research should consider the implementation of longitudinal designs to enable greater analytical precision and a more in-depth understanding of consumer behavior. The inclusion of more diverse and representative samples, along with systematic comparisons across segments, such as regional differences, socioeconomic strata, and age cohorts, among others, would substantially enrich the field's understanding of sustainable consumption dynamics in Mexico and comparable emerging market contexts.</p>
+			</sec>
+		</body>
+	</sub-article>
+</article>

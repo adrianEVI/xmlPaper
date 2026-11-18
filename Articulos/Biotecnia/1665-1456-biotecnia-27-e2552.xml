@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2552</article-id>
+			<article-id pub-id-type="other">00156</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Genome Analysis of <italic>Bacillus paralicheniformis</italic> AA1 isolated from a conventional milpa farming system in the southern region of Sonora, Mexico</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Análisis del genoma de <italic>Bacillus paralicheniformis</italic> AA1 aislado de un sistema de milpa convencional en la región sur de Sonora, México</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chávez-Almanza</surname>
+						<given-names>Andrés</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Villa-Rodríguez</surname>
+						<given-names>Eber</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Rojas-Padilla</surname>
+						<given-names>Jonathan</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Cantú-Soto</surname>
+						<given-names>Ernesto</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Díaz-Quiroza</surname>
+						<given-names>Carlos</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Verdugo-Fuentes</surname>
+						<given-names>Abel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1"><sup>*</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Departamento de Biotecnología y Ciencias Alimentarias, Instituto Tecnológico de Sonora, 5 de febrero 818 Sur, CP 85000, Cd. Obregón, Sonora, México. abel.verdugo@itson.edu.mx</institution>
+				<institution content-type="normalized">Instituto Tecnológico de Sonora</institution>
+				<institution content-type="orgdiv1">Departamento de Biotecnología y Ciencias Alimentarias</institution>
+				<institution content-type="orgname">Instituto Tecnológico de Sonora</institution>
+				<addr-line>
+					<postal-code>85000</postal-code>
+					<city>Cd. Obregón</city>
+					<state>Sonora</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>abel.verdugo@itson.edu.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Department of Molecular Biology and Genetics, Aarhus University, Denmark</institution>
+				<institution content-type="normalized">Aarhus University</institution>
+				<institution content-type="orgdiv1">Department of Molecular Biology and Genetics</institution>
+				<institution content-type="orgname">Aarhus University</institution>
+				<country country="DK">Denmark</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Author for correspondence: Abel Verdugo-Fuentes e-mail: <email>abel.verdugo@itson.edu.mx</email>; †Contributed equally to this work</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>22</day>
+				<month>08</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2552</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>08</day>
+					<month>01</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>11</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>23</day>
+					<month>08</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>This study provides an in-depth genome analysis of Bacillus paralicheniformis AA1, a bacterial strain isolated from a traditional milpa farming system in Sonora, Mexico. The genomic analysis revealed a high level of completeness, demonstrated by the presence of a diverse and functionally significant repertoire of genes associated with fundamental biological processes, including nutrient assimilation, stress response, and cellular regulation. Notably, the genome also contains genes responsible for the biosynthesis of secondary metabolites, highlighting its potential for biotechnological applications. Taxonomic classification was rigorously conducted using integrated genome-wide approaches, which definitively confirmed the identification of isolate AA1 as belonging to the species Bacillus paralicheniformis. Comparative genomic analysis further established a high degree of genetic similarity between AA1 and other B. paralicheniformis strains with well-characterized biotechnological capabilities. This similarity strongly suggests that AA1 harbors genetic elements responsible for the synthesis of antimicrobial compounds, enzymes with industrial relevance, and metabolites that promote plant growth. The findings underscore the potential of Bacillus paralicheniformis AA1 as a valuable resource for biotechnology and sustainable agriculture. By enhancing our understanding of microbial diversity within traditional agroecosystems, this study contributes to the broader knowledge base required for the development of innovative agricultural practices. Future research should focus on functional validation of key genes to fully unlock AA1’s potential as a bioresource for antimicrobial production, enzyme synthesis, and crop enhancement, paving the way for its application in environmentally sustainable farming systems.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>El presente estudio presenta un análisis genómico de Bacillus paralicheniformis AA1, una cepa bacteriana aislada de un sistema agrícola tradicional de milpa en Sonora, México. El análisis genómico reveló un alto nivel de integridad, evidenciado por la presencia de un repertorio diverso y funcionalmente significativo de genes asociados con procesos biológicos fundamentales, incluyendo la asimilación de nutrientes, la respuesta al estrés y la regulación celular. En particular, el genoma también contiene genes responsables de la biosíntesis de metabolitos secundarios, lo que resalta su potencial para aplicaciones biotecnológicas. La clasificación taxonómica se realizó rigurosamente mediante enfoques genómicos integrados, confirmando la identificación de la cepa AA1 como perteneciente a la especie B. paralicheniformis. El análisis genómico comparativo estableció además un alto grado de similitud genética entre B. paralicheniformis AA1 y otras cepas de B. paralicheniformis con capacidades biotecnológicas caracterizadas. Esta similitud sugiere que AA1 posee elementos genéticos responsables de la síntesis de compuestos antimicrobianos, enzimas de relevancia industrial y metabolitos que promueven el crecimiento vegetal. Los hallazgos resaltan el potencial de B. paralicheniformis AA1 como una cepa valiosa para la biotecnología y la agricultura sostenible. Este análisis contribuye al conocimiento necesario para el desarrollo de prácticas agrícolas innovadoras al mejorar nuestra comprensión de la diversidad microbiana en agroecosistemas tradicionales. Las investigaciones derivadas de este estudio deberán centrarse en la validación funcional de genes clave para comprender completamente el potencial de AA1 en la producción de antimicrobianos, la síntesis de enzimas y su aplicación en sistemas agrícolas sostenibles.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Bacillus paralicheniformis</kwd>
+				<kwd>whole genome</kwd>
+				<kwd>genomic analysis</kwd>
+				<kwd>sustainable agriculture</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Bacillus paralicheniformis</kwd>
+				<kwd>genoma completo</kwd>
+				<kwd>análisis genómico</kwd>
+				<kwd>agricultura sustentable</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="4"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="35"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>Bacteria exhibit a ubiquitous presence across diverse environments, spanning terrestrial and marine habitats, where they play diverse ecological roles (<xref ref-type="bibr" rid="B15">Delgado-Baquerizo et al., 2018</xref>). Among these, a range of different species within the genus <italic>Bacillus</italic> are commercially available biopesticides because of their capacity to synthesize a diverse group of antimicrobials, nematicidal, and insecticidal metabolites (<xref ref-type="bibr" rid="B30">Steinke et al., 2021</xref>; <xref ref-type="bibr" rid="B31">Su et al., 2020</xref>).</p>
+			<p>In recent years, <italic>Bacillus paralicheniformis</italic> has gained attention for its remarkable characteristics, including its ability to produce antimicrobial bioactive substances and thrive in challenging environments (<xref ref-type="bibr" rid="B5">Ashajyothi et al., 2024</xref>; <xref ref-type="bibr" rid="B21">Iqbal et al., 2023</xref>). From an agrobiotechnology perspective, <italic>B. paralicheniformis</italic> is an interesting source for biofertilizer development due to its multifaceted capabilities (<xref ref-type="bibr" rid="B32">Swietczak et al., 2023</xref>). These include the production of bioactive molecules that stimulate plant growth (<italic>e.g.</italic>, indoleacetic acid, siderophores, ACC deaminase), enhancement of plant nutrition through nutrient solubilization (<italic>iron</italic>, phosphorus, and potassium), and inhibition of phytopathogen attacks either via antimicrobial production or by triggering plant immune responses (<xref ref-type="bibr" rid="B12">Chavarria-Quicaño et al., 2023</xref>; <xref ref-type="bibr" rid="B22">Jinal et al., 2020</xref>). This particular <italic>Bacillus</italic> specie has demonstrated successful applications across a variety of economically significant crops, including tomato (<xref ref-type="bibr" rid="B16">Díaz-Manzano et al., 2023</xref>), mango (<xref ref-type="bibr" rid="B20">Hemangini et al., 2018</xref>), chili (<xref ref-type="bibr" rid="B29">Pawaskar, 2023</xref>), highlighting its biotechnological relevance. </p>
+			<p>Milpa farming systems, characterized by the cultivation of multiple crop species such as maize, beans, herbs, and grass, have been linked to elevated soil microbial diversity in comparison to monocultures (<xref ref-type="bibr" rid="B18">Fonteyne et al., 2023</xref>). In these highly diverse microbiomes, microbe-microbe interactions, involving both competition and cooperation, are naturally intensified. Consequently, microbes thriving in such environments often possess an interesting set of genes enabling them to effectively compete and collaborate with other microbial inhabitants, while also adapting to the selective pressures exerted by the varied root exudates of different plant species (<xref ref-type="bibr" rid="B14">Compant et al., 2019</xref>). This characteristic makes milpa production systems a promising reservoir of microbes with interesting biotechnological potential. In this work, we present the genome assembly of one of the most abundant bacterial isolates (strain AA1) recovered from a conventional milpa farming system in the northwestern region of Sonora, Mexico. The aim of this genome sequence announcement is to report the draft genome sequence of <italic>Bacillus paralicheniformis</italic> strain AA1, a rhizospheric bacterium isolated from a traditional milpa farming system in Sonora, Mexico. This genome provides insights into the genetic basis of its potential for biotechnological applications, including secondary metabolite biosynthesis, stress response, and plant growth promotion, and contributes to the understanding of microbial diversity in traditional agroecosystems.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Materials and methods</title>
+			<sec>
+				<title>Sample collection</title>
+				<p>Soil samples were collected from a milpa production system at the Technological Institute of Sonora in the northwest region of Sonora, Mexico. The location is 27°29’46”N 109°58’18”W, and the elevation is 40 m above sea level. During May, the area typically receives temperatures of 27.5 °C and an average rainfall of 2.0 mm (based on a local weather station, CONAGUA). During the vegetative phase of the maize growth cycle in May 2023, three composite soil samples weighing about 1 kg each were randomly obtained from three separate locations. The depth at which the samples were collected was 20 cm, using sterile tools and sampling bags. The soil samples were subsequently examined for microbial analyses in the laboratory after being carried in a cooler maintained at 4 ± 2 °C.</p>
+			</sec>
+			<sec>
+				<title>Microbiological analysis</title>
+				<p><italic>Bacillus</italic> isolation was carried out as follows; ten grams of each sample were dissolved in 90 mL of distilled water and heated to 80 °C for 15 min (<xref ref-type="bibr" rid="B35">Wen et al., 2022</xref>). After diluting the solution with sterile water, 0.1 mL of the mixture was equally spread out on Luria Bertani (LB) (Sigma-Aldrich<sup></sup>) agar plates. The plates were then placed in an aerobic incubator at 37 °C for 24 h. The colonies were then prepared for microscopic morphological identification using Gram staining and subjected to purification. Among the isolates, strain AA1 was one of the most abundant and consistently observed colony types across replicate plates. This strain was purified by repeated streaking on fresh nutrient agar plates until a uniform, morphologically consistent colony phenotype was obtained, ensuring clonality of the isolate. The purified strain AA1 was stored at -80 °C in LB broth (Sigma-Aldrich<sup></sup>) supplemented with 20% glycerol for further molecular and genomic analyses (<xref ref-type="bibr" rid="B25">Lavanya et al., 2021</xref>).</p>
+			</sec>
+			<sec>
+				<title>DNA extraction and sequencing</title>
+				<p>Strain AA1 was grown in Trypticase Soy Broth (TSB) at 37 °C for 24 h. An axenic culture of the strain was subsequently sent to The Sainsbury Laboratory (Norwich, United Kingdom), where the downstream genomic procedures were carried out. At The Sainsbury Laboratory, genomic DNA was extracted using the DNeasy Blood &amp; Tissue Kit (Qiagen, Cat. No. 69504), following the manufacturer’s instructions. The purity and concentration of the extracted DNA were assessed spectrophotometrically. Library preparation and high-throughput sequencing were then performed on the Illumina NovaSeq platform (2x250 bp), according to standard protocols. All procedures related to DNA isolation, quality control, and sequencing were conducted by The Sainsbury Laboratory team.</p>
+			</sec>
+			<sec>
+				<title>Bioinformatic analyses</title>
+				<p>Genome assembly was conducted using SPAdes genome assembler (version 3.15.4) (<xref ref-type="bibr" rid="B8">Bankevich et al., 2012</xref>). The resulting assembly was submitted to NCBI Prokaryotic Genome Annotation (PGAP) pipeline for i) prediction of protein-coding genes, ii) determination of RNAs, tRNAs, and pseudogenes, iii) gene annotation and iv) genome completeness and contamination assessment (<xref ref-type="bibr" rid="B33">Tatusova et al., 2016</xref>). Additionally, KOs and COGs assignments were executed using anvi’o v8 (<xref ref-type="bibr" rid="B17">Eren et al., 2020</xref>), these annotations provide insights into the metabolic potential and ecological roles of the strain by linking genes to known biological pathways (via KOs) and to evolutionarily conserved functional categories (via COGs). Phylogenomics analysis was performed using GtoTree pipeline (<xref ref-type="bibr" rid="B26">Lee, 2019</xref>), while a pangenomics-based tree and ANI identity matrix were generated using anvi’o v8 (<xref ref-type="bibr" rid="B17">Eren <italic>et al</italic>., 2020</xref>). The genome map was generated using Proksee (<xref ref-type="bibr" rid="B19">Grant et al., 2023</xref>).</p>
+			</sec>
+			<sec>
+				<title>Data availability</title>
+				<p>The whole genome sequence was submitted to DDBJ/ENA/GenBank and assigned the accession number JAYMDM000000000. The sequenced strain’s BioProject database accession number is PRJNA1061142. The project’s Sequence Read Archive information can be accessed using the accession number SRR27458597.</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>Results and discussion</title>
+			<p>Milpa farming systems represent a valuable reservoir of microorganisms with potential biotechnological applications. To explore this microbial diversity, we collected rhizospheric soil samples from a traditional milpa production system located at the Technological Institute of Sonora in the northwest region of Sonora, Mexico. Bacterial isolation was performed using the serial dilution method on nutrient agar plates. After incubation, colonies with distinct morphological features were selected and subjected to Gram staining to facilitate preliminary identification. Among the isolates, one of the most abundant and consistently observed colonies was designated as strain AA1, which was further purified through successive streaking on fresh agar plates until a morphologically uniform culture was obtained. Strain AA1 was selected for whole genome sequencing based on its stable association with the rhizosphere environment, with the aim of exploring its genetic repertoire potentially linked to plant-microbe interactions and environmental adaptability.</p>
+			<sec>
+				<title>AA1 sequencing results in a high-quality genome assembly</title>
+				<p>To gain insights into the genetic features facilitating the proliferation of this strain within the studied milpa system, genomic DNA (gDNA) was isolated, sequenced, and assembled the obtained sequencing reads using the SPAdes assembler. The sequencing achieved an average genome coverage of approximately 56× (mean coverage: 55.99; mean coverage excluding 0s: 55.99), considered adequate for high-quality genome assembly. The de novo genome assembly resulted in a total of 39 contigs, 10 contigs with sizes larger than 50 kb, and the largest contig of 1071 kb (<xref ref-type="fig" rid="f1">Figure 1A</xref> and <xref ref-type="fig" rid="f1">1B</xref>) with a total genome length of 4,318,295 bp, a GC content of 46.06 %, and an N50 value of 701,491 bp. Next, we submitted our genome to the Prokaryotic Genome Annotation Pipeline (PGAP) to identify genome features of AA1 (<italic>e.g.,</italic> CDSs, RNAs, tRNAs, and pseudogenes) and perform genome completeness and contamination assessment. This analysis indicated high genome completeness (99.41 %) and no contamination (0%) (<xref ref-type="fig" rid="f1">Figure 1C</xref>). Additionally, PGAP predicted i) a total of 4400 genes, of which 4212 correspond to protein-coding sequences and 75 pseudogenes, ii) 26 ribosomal RNAs (rRNAs), of which 9, 7, and 12 correspond to 5S, 16S, and 23S rRNA, respectively, and iii) 80 tRNAs and 5 ncRNAs (<xref ref-type="fig" rid="f1">Figure C</xref>). According to NCBI Prokaryotic Genome Annotation Standards (<xref ref-type="bibr" rid="B24">Klimke et al., 2011</xref>), the minimum standards to consider a genome complete are i) at least one copy of each rRNA (5S, 16S, 23S), ii) at least one copy of tRNAs for each amino acid and iii) Protein-coding genes count divided by genome length close to 1. Overall, our genome assembly surpasses the assemblies of previous studies (<xref ref-type="bibr" rid="B10">Berais-Rubio et al., 2023</xref>; <xref ref-type="bibr" rid="B11">Berriel et al., 2021</xref>) and meets NCBI standards, indicating suitable assembly to explore the genomic information of this isolate.</p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="en">
+						<label>Figure 1</label>
+						<caption>
+							<title>Genome assembly and statistics of AA1 genome. A) Quality information of AA1 genome assembly. B) AA1 circular genome map. From the innermost to the outermost rings; GC skew, GC content, CDS in minus (-) strand, CDS in plus (+) strand. C) AA1 genome information determined by PGAP pipeline.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 1.</label>
+	<caption>
+	<title>Ensamblaje y estadísticas del genoma de AA1. A) Información de calidad del ensamblaje del genoma de AA1. B) Mapa circular del genoma de AA1. De los anillos más internos a los más externos: sesgo de GC, contenido de GC, CDS en la cadena negativa (-), CDS en la cadena positiva (+). C) Información genómica de AA1 determinada mediante el pipeline PGAP.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2552-gf1.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>The sequenced genomes of <italic>Bacillus paralicheniformis</italic> exhibit a consistent genome size ranging from approximately 4.16 to 4.55 Mb, with a stable GC content around 45.3% to 46.1% (<xref ref-type="bibr" rid="B1">Agersø et al., 2019</xref>; <xref ref-type="bibr" rid="B2">Albdaiwi et al., 2022</xref>; <xref ref-type="bibr" rid="B13">Chebotar et al., 2024</xref>; <xref ref-type="bibr" rid="B27">Olajide et al., 2021</xref>). These genomes typically encode between 3,981 and 4,478 protein-coding genes, alongside a complement of rRNAs and tRNAs, reflecting a well-conserved genetic architecture (<xref ref-type="bibr" rid="B22">Albdaiwi <italic>et al</italic>., 2022</xref>; <xref ref-type="bibr" rid="B27">Olajide <italic>et al</italic>., 2021</xref>).</p>
+			</sec>
+			<sec>
+				<title><bold>Genome-wide analysis reveals AA1 is a <italic>
+ <italic>Bacillus paralicheniformis</italic> strain</italic>
+</bold></title>
+				<p>Taxonomic identification of bacterial isolates is a crucial step in bioprospection, as it enables us to gain insights into their biotechnological or pathogenic potential. In this work, we initially explore the taxonomic affiliation of strain AA1 by performing a BLAST using 16S rRNA, a highly conserved and widely used prokaryotic taxonomic marker (<xref ref-type="bibr" rid="B23">Kim and Chun, 2014</xref>). Thus, we observed that the 16S rRNA sequence of strain AA1 is highly conserved with some isolates of <italic>B. licheniformis</italic> (100% identity/coverage) and <italic>B. paralicheniformis</italic> (100% identity/coverage)<italic>,</italic> suggesting that strain AA1 could belong to one of these taxonomic groups. While useful, 16S rRNA-based bacterial classification has the disadvantage that some bacteria may share high similarity with other members of the same family (<xref ref-type="bibr" rid="B9">Bars-Cortina et al., 2023</xref>), as observed here.</p>
+				<p>Hence, we conducted an integrated genome-wide approach to taxonomically classify strain AA1 (<xref ref-type="fig" rid="f2">Figure 2</xref>). First, we performed a phylogenomic analysis using 119 single-copy gene (SCG) markers commonly used in firmicutes (<xref ref-type="fig" rid="f2">Figure 2</xref>), alongside 38 <italic>Bacillus</italic> representative accessions retrieved from the GenomAe Taxonomy Database (<xref ref-type="bibr" rid="B28">Parks et al., 2022</xref>). This analysis facilitated the identification of different <italic>Bacillus</italic> species (<italic>B. paralicheniformis</italic>, <italic>B. licheniformis</italic>, <italic>B. haynesii</italic>, <italic>B. sweneyi</italic>, <italic>B. pumilus</italic>) closely related to AA1 strain. Subsequently, a pangenome-based tree was constructed using high-quality complete genomes (including type strains) of closely related species, obtained from EZbiocloud (<ext-link ext-link-type="uri" xlink:href="http://www.ezbiocloud.net">www.ezbiocloud.net</ext-link>). This approach clusters genomes based on the presence or absence of predicted coding regions. Our pangenome-based tree reveals three distinct groups, with the AA1 genome present in group 1, clustering alongside <italic>B. paralicheniformis</italic> genomes. This clustering strongly suggests AA1 affiliation with this taxonomic group. Lastly, we conducted an Average Nucleotide Identity (ANI) analysis using genomes within group 1. In bacterial taxonomy, species are typically distinguished based on an ANI threshold of 95% (<xref ref-type="bibr" rid="B4">Arahal, 2014</xref>). Our analysis revealed that AA1 exhibits an ANI value higher than 95% when compared to any of the <italic>B. paralicheniformis</italic> genomes included in the study. This result shows that strain AA1 can unequivocally be classified as <italic>Bacillus paralicheniformis</italic>. Noteworthy, this <italic>Bacillus</italic> species has been associated with multiple traits with biotechnological relevance (<xref ref-type="bibr" rid="B20">Hemangini et al., 2018</xref>; <xref ref-type="bibr" rid="B22">Jinal et al., 2020</xref>), suggesting that strain AA1 could harbor some of these traits.</p>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="en">
+						<label>Figure 2</label>
+						<caption>
+							<title>Genome-wide analysis determines AA1 taxonomy. A) Phylogenomic analysis using a single copy gene (SCG) set for Firmicutes (119 genes). B) Pangenome-based tree using closely related species determined in phylogenomic tree using SCG. Asterisks denote type strains retrieved from EZbiocloud (www.ezbiocloud.net). Each line represents a genome. Filled-colored lines (Green to gray for <italic>B. licheniformis</italic>, <italic>B. paralicheniformis</italic>, <italic>B. haynesii</italic>, <italic>B. sweneyi</italic>, <italic>B. pumilus</italic>, and <italic>B. velezensis</italic>, respectively) represent the presence of a gene, while lighter color represents the absence of a gene. C) ANI identity matrix using strains present AA1 clade in the pan genome-based tree.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 2.</label>
+	<caption>
+	<title>El análisis a nivel genómico determina la taxonomía de AA1. A) Análisis filogenómico utilizando un conjunto de genes de copia única (SCG) para Firmicutes (119 genes). B) Árbol basado en el pan-genoma utilizando especies estrechamente relacionadas determinadas en el árbol filogenómico con SCG. Los asteriscos indican cepas tipo recuperadas de EZbiocloud (www.ezbiocloud.net). Cada línea representa un genoma. Las líneas coloreadas y rellenas (de verde a gris para <italic>B. licheniformis</italic>, <italic>B. paralicheniformis</italic>, <italic>B. haynesii</italic>, <italic>B. sweneyi</italic>, <italic>B. pumilus</italic> y <italic>B. velezensis</italic>, respectivamente) representan la presencia de un gen, mientras que los colores más claros indican su ausencia. C) Matriz de identidad ANI utilizando cepas presentes en el clado AA1 en el árbol basado en el pan-genoma.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2552-gf2.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+			</sec>
+			<sec>
+				<title><bold>Genome annotation and comparative genomics reveal functional traits in <italic>
+ <italic>Bacillus paralicheniformis</italic> AA1 associated with biotechnological applications</italic>
+</bold></title>
+				<p>In bacterial bioprospection, genome annotation is an essential step since it facilitates the identification of the functional elements found in the genome. This process provides valuable insights that could reveal potential biotechnological applications for bacterial isolates. In this sense, we perform the genome annotation of <italic>Bacillus paralicheniformis</italic> AA1 to gain insight into their potential biological functions. To this end, we use an integrated approach using different annotation systems (PGAP, KEGG, COG). A total of 3827, 3427, and 2971 genes were annotated with PGAP, COG, and KEGG systems, respectively, displaying multiple overlaps in the annotated genes (<xref ref-type="fig" rid="f3">Figure 3A</xref>). Overall, with our approach, we were able to retrieve biological information from around 91% of the coding sequences (<xref ref-type="fig" rid="f3">Figure 3A</xref>). Within the AA1 genome, there is an overrepresentation of genes linked to fundamental biological processes essential for cellular function. These include genes involved in i) carbohydrate metabolism (345 genes), ii) transcription (303 genes), iii) amino acid metabolism and transport (301 genes), and iv) translation, ribosomal structure, and biogenesis (245 genes). Noteworthy, <italic>Bacillus paralicheniformis</italic> AA1 has 81 genes involved in secondary metabolite biosynthesis (<xref ref-type="fig" rid="f3">Figure 3B</xref>), which suggests that this strain could produce several metabolites with biotechnological potential.</p>
+				<p>
+					<fig-group id="f3">
+	<fig xml:lang="en">
+						<label>Figure 3</label>
+						<caption>
+							<title><bold>Genome annotation of <italic>Bacillus paralicheniformis</italic> AA1.</bold> A) Upset plot displaying overlaps of gene annotations by multiple annotation systems. B) Distribution of Clusters of Orthologous Genes (COG) categories within the AA1 genome, with respective gene counts indicated.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 3.</label>
+	<caption>
+	<title>Anotación genómica de <italic>Bacillus paralicheniformis</italic> AA1. A) Gráfico de tipo Upset que muestra la superposición de anotaciones génicas por múltiples sistemas de anotación. B) Distribución de las categorías de Clusters of Orthologous Genes (COG) dentro del genoma de AA1, con el número respectivo de genes indicado.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2552-gf3.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>Over the last years, several <italic>Bacillus paralicheniformis</italic> representatives with biotechnological potential have been studied. This can be exemplified in a recent study where a comprehensive genome analysis of <italic>Bacillus paralicheniformis</italic> BP9 revealed this strain has multiple interesting biotechnological traits, such as production of secondary metabolites (bacillibactin, fengycin, bacitracin, and lantibiotics), genes involved in niche competition, and genes involved in plant growth promotion (<xref ref-type="bibr" rid="B6">Asif et al., 2023a</xref>). Similarly, genome-wide analysis in other <italic>Bacillus paralicheniformis</italic> strains, TRQ65 and KMS 80, evidenced similar traits (<xref ref-type="bibr" rid="B3">Annapurna et al., 2018</xref>; <xref ref-type="bibr" rid="B34">Valenzuela-Ruiz et al., 2019</xref>).</p>
+				<p>Molecular markers such as the antibiotic resistance genes <italic>aadK</italic> and <italic>aph</italic> are conserved and co-located within the chromosome, while the presence of the fengycin biosynthetic operon distinguishes <italic>B. paralicheniformis</italic> from closely related <italic>Bacillus</italic> species (<xref ref-type="bibr" rid="B1">Agersø et al., 2019</xref>; <xref ref-type="bibr" rid="B7">Asif et al., 2023b</xref>). Importantly, the genomes harbor multiple biosynthetic gene clusters responsible for the production of secondary metabolites, including bacitracin, fengycin, butirosin, lichenysin, bacillibactin, pulcherriminic acid, schizokinen, and geobacillin II, underscoring their significant antimicrobial potential (<xref ref-type="bibr" rid="B2">Albdaiwi et al., 2022</xref>; <xref ref-type="bibr" rid="B13">Chebotar et al., 2024</xref>). Additionally, genes involved in abiotic stress tolerance, nitrogen fixation, phosphate mobilization, and auxin production highlight their capacity to promote plant growth and resilience, particularly under saline or stressful environmental conditions (<xref ref-type="bibr" rid="B21">Iqbal et al., 2023</xref>).</p>
+				<p>In this work, we perform a comparative genomic analysis using AA1 alongside these strains exhibiting biotechnological traits (<xref ref-type="fig" rid="f4">Figure 4</xref>). Our analysis reveals that while each strain harbors a unique set of genes, a high overlap exists (ANI &gt; 99 %), with more than 4300 genes shared among them. Furthermore, we observe that strain AA1 shares a closer genomic content, particularly in terms of gene presence/absence, with the BP9 strain. The high overlap of genes between strain AA1 and other <italic>Bacillus paralicheniformis</italic> strains known for their biotechnological applications indicates that AA1 harbors promising genetic elements. Collectively, these genomic features position <italic>Bacillus paralicheniformi</italic>s as a promising candidate for biotechnological applications, especially as a biocontrol agent and microbial inoculant in sustainable agriculture. Nonetheless, a future analysis focusing on identifying and validating AA1 biotechnological traits must be undertaken.</p>
+				<p>
+					<fig-group id="f4">
+	<fig xml:lang="en">
+						<label>Figure 4</label>
+						<caption>
+							<title><bold>illustrates the comparative genomics of <italic>Bacillus paralicheniformis</italic> AA1 alongside other strains known for their biotechnologically relevant traits within the species.</bold> Each line in the graph represents a genome, with black-filled segments indicating the presence of a gene and lighter sections denoting gene absence. Additionally, unique genes present in the analyzed genomes are specifically highlighted. </title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 4.</label>
+	<caption>
+	<title>Genómica comparativa de <italic>Bacillus paralicheniformis</italic> AA1 con otras cepas conocidas por sus rasgos relevantes en biotecnología dentro de la especie<bold>.</bold> Cada línea en el gráfico representa un genoma, con segmentos negros rellenos que indican la presencia de un gen y secciones más claras que denotan su ausencia. Además, se destacan específicamente los genes únicos presentes en los genomas analizados.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2552-gf4.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusion</title>
+			<p>The genome analysis of <italic>Bacillus paralicheniformis</italic> AA1, isolated from a milpa farming system in Sonora, Mexico, reveals a wealth of genetic features that underscore its potential biotechnological applications. This study enhances our understanding of the microbial diversity associated with milpa ecosystems and highlights the capacity of such microorganisms to contribute to sustainable agricultural practices. The findings lay a foundation for exploring AA1’s functional roles, particularly in antimicrobial compound synthesis, industrial enzyme production, and plant growth promotion. Future research focused on identifying and characterizing specific genes responsible for these traits will be pivotal in fully realizing the biotechnological promise of <italic>Bacillus paralicheniformis</italic> AA1, potentially offering innovative solutions for agriculture and biotechnology.</p>
+		</sec>
+		<sec>
+			<title>Funding information</title>
+			<p>This work was supported by Instituto Tecnológico de Sonora through the project PROFAPI-2024-033. The sequencing of the bacterial strains was supported by GetGenome and The Sainsbury Laboratory, Norwich, UK, with support from the Gatsby Charitable Foundation and the Biotechnology and Biological Sciences Research Council (BBSRC).</p>
+		</sec>
+		<sec>
+			<title>Conflict of interest</title>
+			<p>The authors declare that there are no conflicts of interest.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>Agersø, Y., Bjerre, K., Brockmann, E., Johansen, E., Nielsen, B., Siezen, R., Stuer-Lauridsen, B., Wels, M. and Zeidan, A.A. 2019. Putative antibiotic resistance genes present in extant <italic>Bacillus licheniformis</italic> and <italic>Bacillus paralicheniformis</italic> strains are probably intrinsic and part of the ancient resistome. <italic>PLOS One</italic>, <italic>14</italic>(1), e0210363. https://doi.org/10.1371/JOURNAL.PONE.0210363</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Agersø</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Bjerre</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Brockmann</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Johansen</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Nielsen</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Siezen</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Stuer-Lauridsen</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Wels</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Zeidan</surname>
+							<given-names>A.A</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Putative antibiotic resistance genes present in extant Bacillus licheniformis and Bacillus paralicheniformis strains are probably intrinsic and part of the ancient resistome</article-title>
+					<source>PLOS One</source>
+					<volume>14</volume>
+					<issue>1</issue>
+					<elocation-id>e0210363</elocation-id>
+					<pub-id pub-id-type="doi">10.1371/JOURNAL.PONE.0210363</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Albdaiwi, R., Alhindi, T. and Hasan, S. 2022. Draft genome sequence of <italic>Bacillus paralicheniformis</italic> strain GSFE7, a halotolerant plant growth-promoting bacterial endophyte isolated from cultivated saline areas of the dead sea region. <italic>Microbiology Resource Announcements</italic>, <italic>11</italic>(9), e00425-22. https://doi.org/10.1128/MRA.00425-22</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Albdaiwi</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Alhindi</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Hasan</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Draft genome sequence of Bacillus paralicheniformis strain GSFE7, a halotolerant plant growth-promoting bacterial endophyte isolated from cultivated saline areas of the dead sea region</article-title>
+					<source>Microbiology Resource Announcements</source>
+					<volume>11</volume>
+					<issue>9</issue>
+					<elocation-id>e00425-22</elocation-id>
+					<pub-id pub-id-type="doi">10.1128/MRA.00425-22</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Annapurna, K., Govindasamy, V., Sharma, M., Ghosh, A. and Chikara, S. K. 2018. Whole genome shotgun sequence of <italic>Bacillus paralicheniformis</italic> strain KMS 80, a rhizobacterial endophyte isolated from rice (<italic>Oryza sativa</italic> L.). <italic>3 Biotech</italic>, 8(5), 1-4. https://doi.org/10.1007/S13205-018-1242-y</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Annapurna</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Govindasamy</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Sharma</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ghosh</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Chikara</surname>
+							<given-names>S. K</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Whole genome shotgun sequence of Bacillus paralicheniformis strain KMS 80, a rhizobacterial endophyte isolated from rice (Oryza sativa L.)</article-title>
+					<source>3 Biotech</source>
+					<volume>8</volume>
+					<issue>5</issue>
+					<fpage>1</fpage>
+					<lpage>4</lpage>
+					<pub-id pub-id-type="doi">10.1007/S13205-018-1242-y</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Arahal, D.R. 2014. Whole-genome analyses: Average nucleotide identity. <italic>Methods in Microbiology</italic>, <italic>41</italic>, 103-122. https://doi.org/10.1016/BS.MIM.2014.07.002</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arahal</surname>
+							<given-names>D.R</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Whole-genome analyses: Average nucleotide identity</article-title>
+					<source>Methods in Microbiology</source>
+					<volume>41</volume>
+					<fpage>103</fpage>
+					<lpage>122</lpage>
+					<pub-id pub-id-type="doi">10.1016/BS.MIM.2014.07.002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Ashajyothi, M., Mahadevakumar, S., Venkatesh, Y.N., Sarma, P.V.S.R.N., Danteswari, C., Balamurugan, A., Prakash, G., Khandelwal, V., Tarasatyavathi, C., Podile, A.R., Kirankumar, M.S. and Chandranayaka, S. 2024. Comprehensive genomic analysis of <italic>Bacillus subtilis</italic> and <italic>Bacillus paralicheniformis</italic> associated with the pearl millet panicle reveals their antimicrobial potential against important plant pathogens. <italic>BMC Plant Biology</italic>, <italic>24</italic>(1), 1-23. https://doi.org/10.1186/S12870-024-04881-4</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ashajyothi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Mahadevakumar</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Venkatesh</surname>
+							<given-names>Y.N.</given-names>
+						</name>
+						<name>
+							<surname>Sarma</surname>
+							<given-names>P.V.S.R.N.</given-names>
+						</name>
+						<name>
+							<surname>Danteswari</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Balamurugan</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Prakash</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Khandelwal</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Tarasatyavathi</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Podile</surname>
+							<given-names>A.R.</given-names>
+						</name>
+						<name>
+							<surname>Kirankumar</surname>
+							<given-names>M.S.</given-names>
+						</name>
+						<name>
+							<surname>Chandranayaka</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Comprehensive genomic analysis of Bacillus subtilis and Bacillus paralicheniformis associated with the pearl millet panicle reveals their antimicrobial potential against important plant pathogens</article-title>
+					<source>BMC Plant Biology</source>
+					<volume>24</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>23</lpage>
+					<pub-id pub-id-type="doi">10.1186/S12870-024-04881-4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Asif, M., Li-Qun, Z., Zeng, Q., Atiq, M., Ahmad, K., Tariq, A., Al-Ansari, N., Blom, J., Fenske, L., Alodaini, H.A. and Hatamleh, A.A. 2023a. Comprehensive genomic analysis of <italic>Bacillus paralicheniformis</italic> strain BP9, pan-genomic and genetic basis of biocontrol mechanism. <italic>Computational and Structural Biotechnology Journal</italic>, <italic>21</italic>, 4647-4662. https://doi.org/10.1016/J.CSBJ.2023.09.043</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Asif</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Li-Qun</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Zeng</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Atiq</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ahmad</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Tariq</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Al-Ansari</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Blom</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Fenske</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Alodaini</surname>
+							<given-names>H.A.</given-names>
+						</name>
+						<name>
+							<surname>Hatamleh</surname>
+							<given-names>A.A</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Comprehensive genomic analysis of Bacillus paralicheniformis strain BP9, pan-genomic and genetic basis of biocontrol mechanism</article-title>
+					<source>Computational and Structural Biotechnology Journal</source>
+					<volume>21</volume>
+					<fpage>4647</fpage>
+					<lpage>4662</lpage>
+					<pub-id pub-id-type="doi">10.1016/J.CSBJ.2023.09.043</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Asif, M., Li-Qun, Z., Zeng, Q., Atiq, M., Ahmad, K., Tariq, A., Al-Ansari, N., Blom, J., Fenske, L., Alodaini, H.A. and Hatamleh, A.A. 2023b. Comprehensive genomic analysis of <italic>Bacillus paralicheniformis</italic> strain BP9, pan-genomic and genetic basis of biocontrol mechanism. <italic>Computational and Structural Biotechnology Journal</italic>, <italic>21</italic>, 4647-4662. https://doi.org/10.1016/J.CSBJ.2023.09.043</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Asif</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Li-Qun</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Zeng</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Atiq</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ahmad</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Tariq</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Al-Ansari</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Blom</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Fenske</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Alodaini</surname>
+							<given-names>H.A.</given-names>
+						</name>
+						<name>
+							<surname>Hatamleh</surname>
+							<given-names>A.A</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Comprehensive genomic analysis of Bacillus paralicheniformis strain BP9, pan-genomic and genetic basis of biocontrol mechanism</article-title>
+					<source>Computational and Structural Biotechnology Journal</source>
+					<volume>21</volume>
+					<fpage>4647</fpage>
+					<lpage>4662</lpage>
+					<pub-id pub-id-type="doi">10.1016/J.CSBJ.2023.09.043</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Bankevich, A., Nurk, S., Antipov, D., Gurevich, A.A., Dvorkin, M., Kulikov, A.S., Lesin, V.M., Nikolenko, S.I., Pham, S., Prjibelski, A.D., Pyshkin, A.V., Sirotkin, A.V., Vyahhi, N., Tesler, G., Alekseyev, M.A. and Pevzner, P.A. 2012. SPAdes: A new genome assembly Algorithm and its applications to single-cell sequencing. <italic>Journal of Computational Biology</italic>, <italic>19</italic>(5), 455. https://doi.org/10.1089/CMB.2012.0021</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bankevich</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Nurk</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Antipov</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Gurevich</surname>
+							<given-names>A.A.</given-names>
+						</name>
+						<name>
+							<surname>Dvorkin</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Kulikov</surname>
+							<given-names>A.S.</given-names>
+						</name>
+						<name>
+							<surname>Lesin</surname>
+							<given-names>V.M.</given-names>
+						</name>
+						<name>
+							<surname>Nikolenko</surname>
+							<given-names>S.I.</given-names>
+						</name>
+						<name>
+							<surname>Pham</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Prjibelski</surname>
+							<given-names>A.D.</given-names>
+						</name>
+						<name>
+							<surname>Pyshkin</surname>
+							<given-names>A.V.</given-names>
+						</name>
+						<name>
+							<surname>Sirotkin</surname>
+							<given-names>A.V.</given-names>
+						</name>
+						<name>
+							<surname>Vyahhi</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Tesler</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Alekseyev</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Pevzner</surname>
+							<given-names>P.A</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>SPAdes: A new genome assembly Algorithm and its applications to single-cell sequencing</article-title>
+					<source>Journal of Computational Biology</source>
+					<volume>19</volume>
+					<issue>5</issue>
+					<fpage>455</fpage>
+					<lpage>455</lpage>
+					<pub-id pub-id-type="doi">10.1089/CMB.2012.0021</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Bars-Cortina, D., Moratalla-Navarro, F., García-Serrano, A., Mach, N., Riobó-Mayo, L., Vea-Barbany, J., Rius-Sansalvador, B., Murcia, S., Obón-Santacana, M. and Moreno, V. 2023. Improving species level-taxonomic assignment from 16S rRNA sequencing technologies. <italic>Current Protocols</italic>, 3(11), e930. https://doi.org/10.1002/CPZ1.930</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bars-Cortina</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Moratalla-Navarro</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>García-Serrano</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Mach</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Riobó-Mayo</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Vea-Barbany</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Rius-Sansalvador</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Murcia</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Obón-Santacana</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Moreno</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Improving species level-taxonomic assignment from 16S rRNA sequencing technologies</article-title>
+					<source>Current Protocols</source>
+					<volume>3</volume>
+					<issue>11</issue>
+					<elocation-id>e930</elocation-id>
+					<pub-id pub-id-type="doi">10.1002/CPZ1.930</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Berais-Rubio, A., Morel-Revetria, M., Filippi, C.V., Reyno, R. and Monza, J. 2023. <italic>Ensifer meliloti</italic> elite strain U143 used as alfalfa inoculant in Uruguay: Characterization and draft genome sequence. <italic>The Microbe</italic>, 1, 100008. https://doi.org/10.1016/J.MICROB.2023.100008</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Berais-Rubio</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Morel-Revetria</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Filippi</surname>
+							<given-names>C.V.</given-names>
+						</name>
+						<name>
+							<surname>Reyno</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Monza</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Ensifer meliloti elite strain U143 used as alfalfa inoculant in Uruguay: Characterization and draft genome sequence</article-title>
+					<source>The Microbe</source>
+					<issue>1</issue>
+					<pub-id pub-id-type="art-access-id">100008</pub-id>
+					<pub-id pub-id-type="doi">10.1016/J.MICROB.2023.100008</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Berriel, V., Morel, M.A., Filippi, C.V. and Monza, J. 2021. Draft genome sequence of <italic>Bradyrhizobium</italic> sp. strain Oc8 isolated from <italic>Crotalaria ochroleuca</italic> nodule. <italic>Current Research in Microbial Sciences</italic>, 2, 100074. https://doi.org/10.1016/J.CRMICR.2021.100074</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Berriel</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Morel</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Filippi</surname>
+							<given-names>C.V.</given-names>
+						</name>
+						<name>
+							<surname>Monza</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Draft genome sequence of Bradyrhizobium sp. strain Oc8 isolated from Crotalaria ochroleuca nodule</article-title>
+					<source>Current Research in Microbial Sciences</source>
+					<issue>2</issue>
+					<pub-id pub-id-type="art-access-id">100074</pub-id>
+					<pub-id pub-id-type="doi">10.1016/J.CRMICR.2021.100074</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Chavarria-Quicaño, E., Contreras-Jácquez, V., Carrillo-Fasio, A., De la Torre-González, F. and Asaff-Torres, A. 2023. Native <italic>Bacillus paralicheniformis</italic> isolate as a potential agent for phytopathogenic nematodes control. <italic>Frontiers in Microbiology</italic>, <italic>14</italic>. https://doi.org/10.3389/FMICB.2023.1213306</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chavarria-Quicaño</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Contreras-Jácquez</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Carrillo-Fasio</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>De la Torre-González</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Asaff-Torres</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Native Bacillus paralicheniformis isolate as a potential agent for phytopathogenic nematodes control</article-title>
+					<source>Frontiers in Microbiology</source>
+					<volume>14</volume>
+					<pub-id pub-id-type="doi">10.3389/FMICB.2023.1213306</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Chebotar, V.K., Gancheva, M.S., Keleinikova, O.V., Baganova, M.E., Zaplatkin, A.N., Pishchik, V.N. and Chizhevskaya, E.P. 2024. Whole-genome sequence of <italic>Bacillus paralicheniformis</italic> strain R243 isolated from rice (<italic>Oryza sativa</italic> L.) roots. <italic>Microbiology Resource Announcements</italic>, <italic>13</italic>(11), e00879-24. https://doi.org/10.1128/MRA.00879-24</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chebotar</surname>
+							<given-names>V.K.</given-names>
+						</name>
+						<name>
+							<surname>Gancheva</surname>
+							<given-names>M.S.</given-names>
+						</name>
+						<name>
+							<surname>Keleinikova</surname>
+							<given-names>O.V.</given-names>
+						</name>
+						<name>
+							<surname>Baganova</surname>
+							<given-names>M.E.</given-names>
+						</name>
+						<name>
+							<surname>Zaplatkin</surname>
+							<given-names>A.N.</given-names>
+						</name>
+						<name>
+							<surname>Pishchik</surname>
+							<given-names>V.N.</given-names>
+						</name>
+						<name>
+							<surname>Chizhevskaya</surname>
+							<given-names>E.P</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Whole-genome sequence of Bacillus paralicheniformis strain R243 isolated from rice (Oryza sativa L.) roots</article-title>
+					<source>Microbiology Resource Announcements</source>
+					<volume>13</volume>
+					<issue>11</issue>
+					<elocation-id>e00879-24</elocation-id>
+					<pub-id pub-id-type="doi">10.1128/MRA.00879-24</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Compant, S., Samad, A., Faist, H. and Sessitsch, A. 2019. A review on the plant microbiome: Ecology, functions, and emerging trends in microbial application. <italic>Journal of Advanced Research</italic>, <italic>19</italic>, 29-37. https://doi.org/10.1016/J.JARE.2019.03.004</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Compant</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Samad</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Faist</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Sessitsch</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>A review on the plant microbiome: Ecology, functions, and emerging trends in microbial application</article-title>
+					<source>Journal of Advanced Research</source>
+					<volume>19</volume>
+					<fpage>29</fpage>
+					<lpage>37</lpage>
+					<pub-id pub-id-type="doi">10.1016/J.JARE.2019.03.004</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Delgado-Baquerizo, M., Oliverio, A.M., Brewer, T.E., Benavent-González, A., Eldridge, D.J., Bardgett, R.D., Maestre, F.T., Singh, B.K. and Fierer, N. 2018. A global atlas of the dominant bacteria found in soil. <italic>Science</italic>, <italic>359</italic>(6373), 320-325. https://doi.org/10.1126/science.aap9516</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Delgado-Baquerizo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Oliverio</surname>
+							<given-names>A.M.</given-names>
+						</name>
+						<name>
+							<surname>Brewer</surname>
+							<given-names>T.E.</given-names>
+						</name>
+						<name>
+							<surname>Benavent-González</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Eldridge</surname>
+							<given-names>D.J.</given-names>
+						</name>
+						<name>
+							<surname>Bardgett</surname>
+							<given-names>R.D.</given-names>
+						</name>
+						<name>
+							<surname>Maestre</surname>
+							<given-names>F.T.</given-names>
+						</name>
+						<name>
+							<surname>Singh</surname>
+							<given-names>B.K.</given-names>
+						</name>
+						<name>
+							<surname>Fierer</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>A global atlas of the dominant bacteria found in soil</article-title>
+					<source>Science</source>
+					<volume>359</volume>
+					<issue>6373</issue>
+					<fpage>320</fpage>
+					<lpage>325</lpage>
+					<pub-id pub-id-type="doi">10.1126/science.aap9516</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Díaz-Manzano, F.E., Amora, D.X., Martínez-Gómez, Á., Moelbak, L. and Escobar, C. 2023. Biocontrol of <italic>Meloidogyne</italic> spp. in <italic>Solanum lycopersicum</italic> using a dual combination of <italic>Bacillus strains</italic>. <italic>Frontiers in Plant Science</italic>, <italic>13</italic>, 1077062. https://doi.org/10.3389/FPLS.2022.1077062</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Díaz-Manzano</surname>
+							<given-names>F.E.</given-names>
+						</name>
+						<name>
+							<surname>Amora</surname>
+							<given-names>D.X.</given-names>
+						</name>
+						<name>
+							<surname>Martínez-Gómez</surname>
+							<given-names>Á.</given-names>
+						</name>
+						<name>
+							<surname>Moelbak</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Escobar</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Biocontrol of Meloidogyne spp. in Solanum lycopersicum using a dual combination of Bacillus strains</article-title>
+					<source>Frontiers in Plant Science</source>
+					<volume>13</volume>
+					<pub-id pub-id-type="art-access-id">1077062</pub-id>
+					<pub-id pub-id-type="doi">10.3389/FPLS.2022.1077062</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Eren, A.M., Kiefl, E., Shaiber, A., Veseli, I., Miller, S.E., Schechter, M.S., Fink, I., Pan, J.N., Yousef, M., Fogarty, E.C., Trigodet, F., Watson, A.R., Esen, Ö.C., Moore, R.M., Clayssen, Q., Lee, M.D., Kivenson, V., Graham, E.D., Merrill, B.D., … Willis, A.D. 2020. Community-led, integrated, reproducible multi-omics with anvi’o. <italic>Nature Microbiology</italic> 
+ <italic>2020 6:1</italic>, 6(1), 3-6. https://doi.org/10.1038/s41564-020-00834-3</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Eren</surname>
+							<given-names>A.M.</given-names>
+						</name>
+						<name>
+							<surname>Kiefl</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Shaiber</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Veseli</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Miller</surname>
+							<given-names>S.E.</given-names>
+						</name>
+						<name>
+							<surname>Schechter</surname>
+							<given-names>M.S.</given-names>
+						</name>
+						<name>
+							<surname>Fink</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Pan</surname>
+							<given-names>J.N.</given-names>
+						</name>
+						<name>
+							<surname>Yousef</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Fogarty</surname>
+							<given-names>E.C.</given-names>
+						</name>
+						<name>
+							<surname>Trigodet</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Watson</surname>
+							<given-names>A.R.</given-names>
+						</name>
+						<name>
+							<surname>Esen</surname>
+							<given-names>Ö.C.</given-names>
+						</name>
+						<name>
+							<surname>Moore</surname>
+							<given-names>R.M.</given-names>
+						</name>
+						<name>
+							<surname>Clayssen</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>M.D.</given-names>
+						</name>
+						<name>
+							<surname>Kivenson</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Graham</surname>
+							<given-names>E.D.</given-names>
+						</name>
+						<name>
+							<surname>Merrill</surname>
+							<given-names>B.D.</given-names>
+						</name>
+						<name>
+							<surname>Willis</surname>
+							<given-names>A.D</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Community-led, integrated, reproducible multi-omics with anvi’o</article-title>
+					<source>Nature Microbiology</source>
+					<comment>2020 6:1</comment>
+					<volume>6</volume>
+					<issue>1</issue>
+					<fpage>3</fpage>
+					<lpage>6</lpage>
+					<pub-id pub-id-type="doi">10.1038/s41564-020-00834-3</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Fonteyne, S., Castillo Caamal, J.B., Lopez-Ridaura, S., Van Loon, J., Espidio Balbuena, J., Osorio Alcalá, L., Martínez Hernández, F., Odjo, S. and Verhulst, N. 2023. Review of agronomic research on the milpa, the traditional polyculture system of Mesoamerica. <italic>Frontiers in Agronomy</italic>, 5, 1115490. https://doi.org/10.3389/FAGRO.2023.1115490</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fonteyne</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Castillo Caamal</surname>
+							<given-names>J.B.</given-names>
+						</name>
+						<name>
+							<surname>Lopez-Ridaura</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Van Loon</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Espidio Balbuena</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Osorio Alcalá</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Martínez Hernández</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Odjo</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Verhulst</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Review of agronomic research on the milpa, the traditional polyculture system of Mesoamerica</article-title>
+					<source>Frontiers in Agronomy</source>
+					<volume>5</volume>
+					<pub-id pub-id-type="art-access-id">1115490</pub-id>
+					<pub-id pub-id-type="doi">10.3389/FAGRO.2023.1115490</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Grant, J.R., Enns, E., Marinier, E., Mandal, A., Herman, E.K., Chen, C.Y., Graham, M., Van Domselaar, G. and Stothard, P. 2023. Proksee: in-depth characterization and visualization of bacterial genomes. <italic>Nucleic acids research</italic>, <italic>51</italic>(W1), W484-W492. https://doi.org/10.1093/NAR/GKAD326</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Grant</surname>
+							<given-names>J.R.</given-names>
+						</name>
+						<name>
+							<surname>Enns</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Marinier</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Mandal</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Herman</surname>
+							<given-names>E.K.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>C.Y.</given-names>
+						</name>
+						<name>
+							<surname>Graham</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Van Domselaar</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Stothard</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Proksee: in-depth characterization and visualization of bacterial genomes</article-title>
+					<source>Nucleic acids research</source>
+					<volume>51</volume>
+					<issue>W1</issue>
+					<fpage>W484</fpage>
+					<lpage>W492</lpage>
+					<pub-id pub-id-type="doi">10.1093/NAR/GKAD3</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Hemangini, B.D., Kiran, C.S., Vrinda, T.S. and Bhatt Hemangini, C.D. 2018. Antimicrobial activity of <italic>Bacillus paralicheniformis</italic> SUBG0010 against plant pathogenic bacteria of mango. <italic>Journal of Pharmacognosy and Phytochemistry</italic>, 7(6), 449-455.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hemangini</surname>
+							<given-names>B.D.</given-names>
+						</name>
+						<name>
+							<surname>Kiran</surname>
+							<given-names>C.S.</given-names>
+						</name>
+						<name>
+							<surname>Vrinda</surname>
+							<given-names>T.S.</given-names>
+						</name>
+						<name>
+							<surname>Bhatt Hemangini</surname>
+							<given-names>C.D</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Antimicrobial activity of Bacillus paralicheniformis SUBG0010 against plant pathogenic bacteria of mango</article-title>
+					<source>Journal of Pharmacognosy and Phytochemistry</source>
+					<volume>7</volume>
+					<issue>6</issue>
+					<fpage>449</fpage>
+					<lpage>455</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Iqbal, S., Qasim, M., Rahman, H., Khan, N., Paracha, R.Z., Bhatti, M.F., Javed, A., and Janjua, H.A. 2023. Genome mining, antimicrobial and plant growth-promoting potentials of halotolerant <italic>Bacillus paralicheniformis</italic> ES-1 isolated from salt mine. <italic>Molecular Genetics and Genomics</italic>, <italic>298</italic>(1), 79-93. https://doi.org/10.1007/S00438-022-01964-5</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Iqbal</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Qasim</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Rahman</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Khan</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Paracha</surname>
+							<given-names>R.Z.</given-names>
+						</name>
+						<name>
+							<surname>Bhatti</surname>
+							<given-names>M.F.</given-names>
+						</name>
+						<name>
+							<surname>Javed</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Janjua</surname>
+							<given-names>H.A</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Genome mining, antimicrobial and plant growth-promoting potentials of halotolerant Bacillus paralicheniformis ES-1 isolated from salt mine</article-title>
+					<source>Molecular Genetics and Genomics</source>
+					<volume>298</volume>
+					<issue>1</issue>
+					<fpage>79</fpage>
+					<lpage>93</lpage>
+					<pub-id pub-id-type="doi">10.1007/S00438-022-01964-5</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Jinal, H.N., Sakthivel, K. and Amaresan, N. 2020. Characterisation of antagonistic <italic>Bacillus paralicheniformis</italic> (strain EAL) by LC-MS, antimicrobial peptide genes, and ISR determinants. <italic>Antonie van Leeuwenhoek, International Journal of General and Molecular Microbiology</italic>, <italic>113</italic>(8), 1167-1177. https://doi.org/10.1007/S10482-020-01423-4</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jinal</surname>
+							<given-names>H.N.</given-names>
+						</name>
+						<name>
+							<surname>Sakthivel</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Amaresan</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Characterisation of antagonistic Bacillus paralicheniformis (strain EAL) by LC-MS, antimicrobial peptide genes, and ISR determinants</article-title>
+					<source>Antonie van Leeuwenhoek, International Journal of General and Molecular Microbiology</source>
+					<volume>113</volume>
+					<issue>8</issue>
+					<fpage>1167</fpage>
+					<lpage>1177</lpage>
+					<pub-id pub-id-type="doi">10.1007/S10482-020-01423-4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Kim, M. and Chun, J. 2014. 16S rRNA gene-based identification of bacteria and archaea using the EzTaxon Server. <italic>Methods in Microbiology</italic>, <italic>41</italic>, 61-74. https://doi.org/10.1016/BS.MIM.2014.08.001</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kim</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Chun</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>16S rRNA gene-based identification of bacteria and archaea using the EzTaxon Server</article-title>
+					<source>Methods in Microbiology</source>
+					<volume>41</volume>
+					<fpage>61</fpage>
+					<lpage>74</lpage>
+					<pub-id pub-id-type="doi">10.1016/BS.MIM.2014.08.001</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Klimke, W., O’Donovan, C., White, O., Brister, J.R., Clark, K., Fedorov, B., Mizrachi, I., Pruitt, K.D. and Tatusova, T. 2011. Solving the problem: Genome annotation standards before the data deluge. <italic>Standards in Genomic Sciences</italic>, 5(1), 168. https://doi.org/10.4056/SIGS.2084864</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Klimke</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>O’Donovan</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>White</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Brister</surname>
+							<given-names>J.R.</given-names>
+						</name>
+						<name>
+							<surname>Clark</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Fedorov</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Mizrachi</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Pruitt</surname>
+							<given-names>K.D.</given-names>
+						</name>
+						<name>
+							<surname>Tatusova</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Solving the problem: Genome annotation standards before the data deluge</article-title>
+					<source>Standards in Genomic Sciences</source>
+					<volume>5</volume>
+					<issue>1</issue>
+					<fpage>168</fpage>
+					<lpage>168</lpage>
+					<pub-id pub-id-type="doi">10.4056/SIGS.2084864</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Lavanya, J., Manjula, S., Chitra, A.G., Chaithanya, V. and Sivaramakrishnan, R. 2021. Efficacy of peptone glycerol broth in long-term storage of the bacterial and yeast cultures. <italic>Journal of Clinical and Diagnostic Research</italic>. https://doi.org/10.7860/JCDR/2021/47796.14524</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lavanya</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Manjula</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Chitra</surname>
+							<given-names>A.G.</given-names>
+						</name>
+						<name>
+							<surname>Chaithanya</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Sivaramakrishnan</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Efficacy of peptone glycerol broth in long-term storage of the bacterial and yeast cultures</article-title>
+					<source>Journal of Clinical and Diagnostic Research</source>
+					<pub-id pub-id-type="doi">10.7860/JCDR/2021/47796.14524</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Lee, M.D. 2019. GToTree: a user-friendly workflow for phylogenomics. <italic>Bioinformatics</italic>, <italic>35</italic>(20), 4162-4164. https://doi.org/10.1093/BIOINFORMATICS/BTZ188</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lee</surname>
+							<given-names>M.D</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>GToTree: a user-friendly workflow for phylogenomics</article-title>
+					<source>Bioinformatics</source>
+					<volume>35</volume>
+					<issue>20</issue>
+					<fpage>4162</fpage>
+					<lpage>4164</lpage>
+					<pub-id pub-id-type="doi">10.1093/BIOINFORMATICS/BTZ188</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Olajide, A.M., Chen, S. and LaPointe, G. 2021. Markers to rapidly distinguish <italic>Bacillus paralicheniformis</italic> from the very close relative, <italic>Bacillus licheniformis</italic>. <italic>Frontiers in Microbiology</italic>, <italic>11</italic>, 596828. https://doi.org/10.3389/FMICB.2020.596828</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Olajide</surname>
+							<given-names>A.M.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>LaPointe</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Markers to rapidly distinguish Bacillus paralicheniformis from the very close relative, Bacillus licheniformis</article-title>
+					<source>Frontiers in Microbiology</source>
+					<volume>11</volume>
+					<pub-id pub-id-type="art-access-id">596828</pub-id>
+					<pub-id pub-id-type="doi">10.3389/FMICB.2020.596828</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Parks, D.H., Chuvochina, M., Rinke, C., Mussig, A.J., Chaumeil, P.A. and Hugenholtz, P. 2022. GTDB: an ongoing census of bacterial and archaeal diversity through a phylogenetically consistent, rank normalized and complete genome-based taxonomy. <italic>Nucleic Acids Research</italic>, <italic>50</italic>(D1), D785-D794. https://doi.org/10.1093/NAR/GKAB776</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parks</surname>
+							<given-names>D.H.</given-names>
+						</name>
+						<name>
+							<surname>Chuvochina</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Rinke</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Mussig</surname>
+							<given-names>A.J.</given-names>
+						</name>
+						<name>
+							<surname>Chaumeil</surname>
+							<given-names>P.A.</given-names>
+						</name>
+						<name>
+							<surname>Hugenholtz</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>GTDB: an ongoing census of bacterial and archaeal diversity through a phylogenetically consistent, rank normalized and complete genome-based taxonomy</article-title>
+					<source>Nucleic Acids Research</source>
+					<volume>50</volume>
+					<issue>D1</issue>
+					<fpage>D785</fpage>
+					<lpage>D794</lpage>
+					<pub-id pub-id-type="doi">10.1093/NAR/GKAB776</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Pawaskar, M. 2023. <italic>In-vivo biocontrol of Fusarium wilt in chilli plants using hypersaline Bacillus paralicheniformis strain MPSK23</italic>. https://doi.org/10.21203/RS.3.RS-2927693/V1</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pawaskar</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<source>In-vivo biocontrol of Fusarium wilt in chilli plants using hypersaline Bacillus paralicheniformis strain MPSK23</source>
+					<pub-id pub-id-type="doi">10.21203/RS.3.RS-2927693/V1</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Steinke, K., Mohite, O.S., Weber, T. and Kovács, Á.T. 2021. Phylogenetic distribution of secondary metabolites in the <italic>Bacillus subtilis</italic> species complex. <italic>mSystems</italic>, 6(2). https://doi.org/10.1128/MSYSTEMS.00057-21</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Steinke</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Mohite</surname>
+							<given-names>O.S.</given-names>
+						</name>
+						<name>
+							<surname>Weber</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Kovács</surname>
+							<given-names>Á.T</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Phylogenetic distribution of secondary metabolites in the Bacillus subtilis species complex</article-title>
+					<source>mSystems</source>
+					<volume>6</volume>
+					<issue>2</issue>
+					<pub-id pub-id-type="doi">10.1128/MSYSTEMS.00057-21</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Su, Y., Liu, C., Fang, H. and Zhang, D. 2020. <italic>Bacillus subtilis</italic>: a universal cell factory for industry, agriculture, biomaterials and medicine. <italic>Microbial Cell Factories</italic> 
+ <italic>2020 19:1</italic>, <italic>19</italic>(1), 1-12. https://doi.org/10.1186/S12934-020-01436-8</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Su</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Fang</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Bacillus subtilis: a universal cell factory for industry, agriculture, biomaterials and medicine</article-title>
+					<source>Microbial Cell Factories</source>
+					<comment>2020 19:1</comment>
+					<volume>19</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>12</lpage>
+					<pub-id pub-id-type="doi">10.1186/S12934-020-01436-8</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Swietczak, J., Kalwasińska, A., Felföldi, T. and Swiontek Brzezinska, M. 2023. <italic>Bacillus paralicheniformis</italic> 2R5 and its impact on canola growth and N-cycle genes in the rhizosphere. <italic>FEMS Microbiology Ecology</italic>, <italic>99</italic>(9). https://doi.org/10.1093/FEMSEC/FIAD093</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Swietczak</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Kalwasińska</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Felföldi</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Swiontek Brzezinska</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Bacillus paralicheniformis 2R5 and its impact on canola growth and N-cycle genes in the rhizosphere</article-title>
+					<source>FEMS Microbiology Ecology</source>
+					<volume>99</volume>
+					<issue>9</issue>
+					<pub-id pub-id-type="doi">10.1093/FEMSEC/FIAD093</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Tatusova, T., Dicuccio, M., Badretdin, A., Chetvernin, V., Nawrocki, E.P., Zaslavsky, L., Lomsadze, A., Pruitt, K.D., Borodovsky, M. and Ostell, J. 2016. NCBI prokaryotic genome annotation pipeline. <italic>Nucleic Acids Research</italic>, <italic>44</italic>(14), 6614-6624. https://doi.org/10.1093/NAR/GKW569</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tatusova</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Dicuccio</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Badretdin</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Chetvernin</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Nawrocki</surname>
+							<given-names>E.P.</given-names>
+						</name>
+						<name>
+							<surname>Zaslavsky</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Lomsadze</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Pruitt</surname>
+							<given-names>K.D.</given-names>
+						</name>
+						<name>
+							<surname>Borodovsky</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ostell</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>NCBI prokaryotic genome annotation pipeline</article-title>
+					<source>Nucleic Acids Research</source>
+					<volume>44</volume>
+					<issue>14</issue>
+					<fpage>6614</fpage>
+					<lpage>6624</lpage>
+					<pub-id pub-id-type="doi">10.1093/NAR/GKW569</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Valenzuela-Ruiz, V., Robles-Montoya, R.I., Parra-Cota, F.I., Santoyo, G., del Carmen Orozco-Mosqueda, M., Rodríguez-Ramírez, R. and de los Santos-Villalobos, S. 2019. Draft genome sequence of <italic>Bacillus paralicheniformis</italic> TRQ65, a biological control agent and plant growth-promoting bacterium isolated from wheat (<italic>Triticum turgidum</italic> subsp. <italic>durum</italic>) rhizosphere in the Yaqui Valley, México. <italic>3 Biotech</italic>, 9(11), 1-7. https://doi.org/10.1007/S13205-019-1972-5</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Valenzuela-Ruiz</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Robles-Montoya</surname>
+							<given-names>R.I.</given-names>
+						</name>
+						<name>
+							<surname>Parra-Cota</surname>
+							<given-names>F.I.</given-names>
+						</name>
+						<name>
+							<surname>Santoyo</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>del Carmen Orozco-Mosqueda</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Ramírez</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>de los Santos-Villalobos</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Draft genome sequence of Bacillus paralicheniformis TRQ65, a biological control agent and plant growth-promoting bacterium isolated from wheat (Triticum turgidum subsp. durum) rhizosphere in the Yaqui Valley, México</article-title>
+					<source>3 Biotech,</source>
+					<volume>9</volume>
+					<issue>11</issue>
+					<fpage>1</fpage>
+					<lpage>7</lpage>
+					<pub-id pub-id-type="doi">10.1007/S13205-019-1972-5</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Wen, J., Smelt, J.P.P.M., Vischer, N.O.E., de Vos, A.L., Setlow, P. and Brul, S. 2022. Heat activation and inactivation of bacterial spores: Is there an overlap? <italic>Applied and Environmental Microbiology</italic>, <italic>88</italic>(5). https://doi.org/https://doi.org/10.1128/aem.02324-21</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wen</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Smelt</surname>
+							<given-names>J.P.P.M.</given-names>
+						</name>
+						<name>
+							<surname>Vischer</surname>
+							<given-names>N.O.E.</given-names>
+						</name>
+						<name>
+							<surname>de Vos</surname>
+							<given-names>A.L.</given-names>
+						</name>
+						<name>
+							<surname>Setlow</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Brul</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Heat activation and inactivation of bacterial spores: Is there an overlap?</article-title>
+					<source>Applied and Environmental Microbiology</source>
+					<volume>88</volume>
+					<issue>5</issue>
+					<pub-id pub-id-type="doi">10.1128/aem.02324-2</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

@@ -1,0 +1,3017 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2666</article-id>
+			<article-id pub-id-type="other">00154</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Streptomycetes isolated from the rhizosphere of agricultural soils in the Valle del Mezquital, Mexico: <italic><italic>in vitro</italic> production capacity of growth-promoting metabolites and antagonists against phytopathogenic fungi</italic></article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Streptomicetos aislados de la rizosfera de suelos agrícolas del Valle del Mezquital, México: capacidad de producción <italic>in vitro</italic> de metabolitos promotores de crecimiento y de antagonismo contra hongos fitopatógenos</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-3569-7472</contrib-id>
+					<name>
+						<surname>Castañeda-Cisneros</surname>
+						<given-names>Yamily Elianeth</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-1009-4851</contrib-id>
+					<name>
+						<surname>Zafra</surname>
+						<given-names>Germán</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-3278-2783</contrib-id>
+					<name>
+						<surname>Mercado-Flores</surname>
+						<given-names>Yuridia</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-2401-6608</contrib-id>
+					<name>
+						<surname>Anducho-Reyes</surname>
+						<given-names>Miguel Angel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-8117-8753</contrib-id>
+					<name>
+						<surname>Ramírez-Vargas</surname>
+						<given-names>María del Rocío</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-5491-3679</contrib-id>
+					<name>
+						<surname>Téllez-Jurado</surname>
+						<given-names>Alejandro</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1"><sup>*</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Laboratorio de Aprovechamiento Integral de Recursos Bióticos, Universidad Politécnica de Pachuca, Carretera Pachuca-Cd. Sahagún, km 20, Ex-Hacienda de Santa Bárbara. Zempoala, Hidalgo, C.P.43830, México. yamili_elianeth@hotmail.com, yuridiamercado@upp.edu.mx, anducho@upp.edu.mx, rocioramirez@upp.edu.mx, alito@upp.edu.mx</institution>
+				<institution content-type="normalized">Universidad Politécnica de Pachuca</institution>
+				<institution content-type="orgdiv1">Laboratorio de Aprovechamiento Integral de Recursos Bióticos</institution>
+				<institution content-type="orgname">Universidad Politécnica de Pachuca</institution>
+				<addr-line>
+					<city>Zempoala</city>
+					<state>Hidalgo</state>
+					<postal-code>43830</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>yamili_elianeth@hotmail.com</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Grupo de Investigación en Bioquímica y Microbiología. Escuela de Microbiología. Universidad Industrial de Santander, Bucaramanga, 680003, Colombia. geralzaf@uis.edu.co</institution>
+				<institution content-type="normalized">Universidad Industrial de Santander</institution>
+				<institution content-type="orgdiv1">Escuela de Microbiología</institution>
+				<institution content-type="orgname">Universidad Industrial de Santander</institution>
+				<addr-line>
+					<postal-code>680003</postal-code>
+				</addr-line>
+				<country country="CO">Colombia</country>
+				<email>geralzaf@uis.edu.co</email>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Author for correspondence: AlejandroTéllez Jurado e-mail: <email>alito@upp.edu.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>13</day>
+				<month>08</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2666</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>22</day>
+					<month>05</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>02</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>13</day>
+					<month>08</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>The Valle del Mezquital, Mexico, is one of the main crop-producing areas in the country. This valley is irrigated by wastewater, primarily from Mexico City. This characteristic creates unique environmental conditions that can impact microorganisms in agricultural soils. In this study, actinomycetes were isolated from the rhizosphere of agricultural soils to characterize them and determine their potential as plant growth promoters and inhibitors of phytopathogenic fungi. Thirteen strains of the Streptomyces genus were isolated, and in vitro studies revealed that all could produce indoleacetic acid, siderophores, and organic acids. Streptomyces thinghirensis and Streptomyces lateritius solubilized phosphates, while Streptomyces lusitanus produced HCN. Previously unreported strains with antagonistic activity against plant pathogenic fungi were identified, the main ones being Streptomyces pseudogriseolus, Streptomyces atrovirens, Streptomyces lateritius, Streptomyces nigra, and Streptomyces griseoplanus. The results obtained provide new knowledge into Streptomycetes that have not been previously studied and may offer tools for the biological control of diseases caused by phytopathogenic fungi, as well as strategies for enhancing productivity under conservation tillage conditions.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>El Valle del Mezquital, México, es una de las principales zonas productoras de diferentes cultivos en el país. Este Valle es irrigado por las aguas residuales provenientes principalmente de la Ciudad de México, esta característica genera condiciones ambientales únicas que pueden incidir sobre los microorganismos de los suelos agrícolas. En el presente trabajo, se aislaron actinomicetos de la rizósfera de suelos agrícolas con el fin de caracterizarlos y determinar su potencial como promotores del crecimiento vegetal y de inhibición de hongos fitopatógenos. Se aislaron 13 cepas del género de Streptomyces, a través del estudio in vitro se observó que todas fueron capaces de producir ácido indol acético, sideróforos y ácidos orgánicos. Streptomyces thinghirensis y Streptomyces lateritus fueron capaces de solubilizar fosfatos y Streptomyces lusitanus de producir HCN. Se identificaron cepas no reportadas con anterioridad con capacidad antagónica contra hongos fitopatógenos siendo los principales Streptomyces pseudogriseolus, Streptomyces atrovirens, Streptomyces lateritius, Streptomyces nigra y Streptomyces griseoplanus. Los resultados obtenidos aportan nuevos conocimientos sobre Streptomycetes que no han sido estudiados previamente y pueden ofrecer herramientas para el control biológico de enfermedades causadas por hongos fitopatógenos, así como estrategias para mejorar la productividad en condiciones de labranza de conservación.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Actinomycetes</kwd>
+				<kwd>Conservation agriculture</kwd>
+				<kwd>Wastewater irrigation</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Actinomicetos</kwd>
+				<kwd>Agricultura de conservación</kwd>
+				<kwd>Riego con aguas residuales</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group award-type="contract">
+					<funding-source>National Council of Sciences, Humanities, and Technology</funding-source>
+					<award-id>467187</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<fig-count count="2"/>
+				<table-count count="3"/>
+				<equation-count count="0"/>
+				<ref-count count="51"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>Actinomycetes constitute a heterogeneous group of microorganisms capable of utilizing simple or complex carbon sources and organic molecular compounds such as acids, polysaccharides, lipids, proteins, and aliphatic hydrocarbons. They also utilize ammonium, nitrates, amino acids, peptones, and a large number of proteins as nitrogen sources (<xref ref-type="bibr" rid="B30">Leveau and Bouix, 2000</xref>).</p>
+			<p>Direct mechanisms occur when bacteria synthesize metabolites that facilitate plant growth or increase the availability of nutrients required for plant metabolism, and improve plant nutrition. They include nitrogen fixation, synthesis of phytohormones, vitamins and enzymes, phosphorus solubilization, nitrite production, nitrate accumulation, and siderophore secretion (<xref ref-type="bibr" rid="B16">Gómez et al., 2012</xref>). In addition to these characteristics, they can also exhibit antagonistic activity, which is an interaction between microorganisms where one interferes with the other, causing the loss or reduction of activity of one of them. This is the basis for true biological control of phytopathogenic microorganisms in plants.</p>
+			<p>The Valle del Mezquital (VM) is a unique ecosystem located southeast of Hidalgo, covering 642,653 ha, 60 km northwest of the Mexico City Metropolitan Area. The VM is the region in the world with the second-highest use of wastewater in the agricultural sector. Paradoxically, the economic development of the area is closely linked to the use of this resource in agriculture (<xref ref-type="bibr" rid="B13">Durán-Álvarez et al., 2021</xref>). Conventional agricultural practices applied in the VM are based on intensive tillage techniques, residue burning, and plowing (<xref ref-type="bibr" rid="B51">Zhang et al., 2018</xref>), which has generated problems of soil alkalization and desertification. In the VM, there are experimental platforms whose objective is to apply agricultural soil recovery practices. These platforms have been in existence for around 20 years, and strictly adhere to the conservation of agriculture practices. Furthermore, analyzing the biota of agricultural soils provides a better understanding of the biogeochemical cycles that occur. Additionally, it is possible to infer the potential relationships between microorganisms and their impact on crop productivity (<xref ref-type="bibr" rid="B8">Castañeda-Cisneros et al., 2024</xref>).</p>
+			<p>Some authors have described how irrigation water has a significant impact on soil microbiota, with prevailing species including Proteobacteria, Firmicutes, and Actinobacteria (<xref ref-type="bibr" rid="B24">Jiang et al., 2024</xref>), which primarily specialize in degrading toxic contaminants. Therefore, the actinomycetes present in the rhizosphere of crops in the area, as well as the potential impact of wastewater irrigation on these microorganisms, are of interest. This study aimed to study actinomycetes isolated from agricultural soils irrigated with wastewater and subject to conservation agriculture in the VM. The production of molecules involved in plant growth by each microorganism was studied, as well as their possible antagonistic effect against phytopathogenic microorganisms present in the VM.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Material and methods</title>
+			<sec>
+				<title>Microorganisms, strain propagation, and conservation</title>
+				<p>The method used for isolating actinomycetes was by serial plate dilutions (<xref ref-type="bibr" rid="B20">Hayakawa, 2008</xref>). One g of dry soil from each sample was vigorously shaken in 9 mL of sterile distilled water and heated at 50 °C for 30 min (<xref ref-type="bibr" rid="B35">Oskay et al., 2004</xref>). This solution (10<sup>-1</sup>) was diluted five times (10<sup>-5</sup>) using sterile distilled water. A 50 µL aliquot was taken and distributed onto Petri dishes containing ISP2 (4 g/L yeast extract, 10 g/L malt extract, 4 g/L dextrose, and 20 g/L bacteriological agar at pH 7.3) or ISP3 (20 g/L oats, 1 mL trace salt solution [0.1 g FeSO<sub>4</sub>⋅7 H<sub>2</sub>O, 0.1 g MnCl<sub>2</sub>⋅4 H<sub>2</sub>O, 0.1 g ZnSO<sub>4</sub>⋅7 H<sub>2</sub>O] in 100 mL of distilled water, and 18 g/L bacteriological agar at pH 7.2) media. All strains were propagated both media. The media were supplemented with nystatin (50 µg/mL) and nalidixic acid (25 µg/mL) to inhibit fungal and bacterial contamination. The plates were incubated at 28 °C for 28 d and replated. All plates were reseeded monthly and kept refrigerated until use. The strains <italic>Streptomyces atrovirens</italic>, <italic>Streptomyces lateritius</italic>, <italic>Streptomyces</italic> sp. A-C7, <italic>Streptomyces pseudogriseolus</italic>, <italic>Streptomyces heliomycini</italic>, <italic>Streptomyces anulatus</italic>, <italic>Streptomyces virginiae</italic>, <italic>Streptomyces nigra</italic> CB-8, <italic>Streptomyces griseoplanus</italic> B4-M10, <italic>Streptomyces flavogriseus</italic>, <italic>Streptomyces thinghirensis</italic>, <italic>Streptomyces lusitanus</italic> and <italic>Streptomyces griseoaurantiacus</italic>, were used (<xref ref-type="bibr" rid="B7">Castañeda-Cisneros et al., 2020</xref>).</p>
+			</sec>
+			<sec>
+				<title><bold>
+ <italic>In vitro</italic> plant growth promotion activities</bold></title>
+			</sec>
+			<sec>
+				<title>Phosphate solubilization</title>
+				<p>The qualitative activity of phosphate solubilization was analyzed on Pikovskaya (PVK) agar (<xref ref-type="bibr" rid="B37">Pikovskaya, 1948</xref>). Each strain was inoculated in the center of the plate by puncturing it with a sterile toothpick. A PVK agar plate served as a control. A clear zone around the colony was considered positive after 14 d of incubation at 28 °C. The phosphate solubilization index (SI) was calculated from the ratio of the total diameter (colony plus halo area) to the colony diameter, according to a formula reported by <xref ref-type="bibr" rid="B9">Chouyia et al. (2020)</xref> expressed in mm.</p>
+			</sec>
+			<sec>
+				<title>Organic acid production</title>
+				<p>Phosphate-solubilizing actinomycetes were transferred to Sandar-Rao and Shina (SRSM-1) agar (<xref ref-type="bibr" rid="B40">Sandar and Shina, 1963</xref>). Each strain was inoculated onto the center of the plate using a sterile toothpick and incubated at 28 °C for 14 d. An uninoculated SRSM-1 agar plate served as a control. A color change in the solubilization halo from purple to yellow indicated a positive result. Results were reported using the phosphate solubilization index, expressed in mm. Strains were classified based on their SI as low (SI &lt; 2), intermediate (2 &lt; SI &lt; 4), and high (SI &gt; 4) solubilization (<xref ref-type="bibr" rid="B14">Elias et al., 2016</xref>).</p>
+			</sec>
+			<sec>
+				<title>Siderophore production</title>
+				<p>Siderophore production was determined on Chromium Azurol S (CAS) agar, according to the method described by <xref ref-type="bibr" rid="B41">Schwyn and Neilands (1987)</xref> and modified by <xref ref-type="bibr" rid="B21">Hu and Xu (2011)</xref>. Strains were inoculated by pinprick in the center of the plate and incubated at 28 °C for 7 d. An uninoculated plate was used as a control. A colony with the formation of an orange-yellow halo was considered positive for siderophore production. Activity diameters were reported using the following scale: 0 = negative; 1 = 1-10 mm halo; 2 = 11-20 mm halo; 3 = 21-30 mm halo; 4 = 31-40 mm halo; and 5 = 41-50 mm halo (<xref ref-type="bibr" rid="B44">Sreevidya et al., 2016</xref>).</p>
+			</sec>
+			<sec>
+				<title>Hydrogen cyanide production</title>
+				<p>The qualitative determination of hydrogen cyanide (HCN) was evaluated using the method described by <xref ref-type="bibr" rid="B31">Lorck (1948)</xref>. Strains were streaked onto modified Bennett agar plates (<xref ref-type="bibr" rid="B25">Jones, 1949</xref>) (glycine 4.4 g/L, meat extract 1 g/L, enzymatically hydrolyzed casein 2 g/L, yeast extract 1 g/L, and bacteriological agar 15 g at pH 7.3). A Whatman No. 1 filter paper was placed under the lid of the Petri dish, previously soaked in 0.5 % picric acid in 2 % sodium carbonate for 1 minute. All plates were sealed with parafilm and incubated at 28 °C for 7 d. A color change expressed a positive indicator of HCN production in the filter paper; the scale was negative (-) = no color change; weak producer (+) = yellow to light reddish brown; Moderate producer (++) = yellow to medium reddish brown, and heavy producer (+++) = yellow to dark reddish brown (<xref ref-type="bibr" rid="B44">Sreevidya et al., 2016</xref>).</p>
+			</sec>
+			<sec>
+				<title>Indoleacetic acid production</title>
+				<p>Indoleacetic acid (IAA) production was estimated using the <xref ref-type="bibr" rid="B17">Gordon and Weber (1951)</xref> method. Actinomycete strains were grown on ISP2 agar and incubated at 28 °C for 10 d. One mm diameter discs were cut from each plate using a sterile scalpel and transferred to Erlenmeyer flasks containing 100 mL of ISP2 broth supplemented with 0.2 % L-tryptophan. The flasks were maintained at 28 °C with continuous shaking at 125 rpm. After 15 d of incubation, the resulting cultures were centrifuged at 11,000 rpm for 15 min. The reaction consisted of placing 1 mL of supernatant with 2 mL of Salkowski reagent in test tubes, which were incubated for 25 min in the dark at 28 °C. The appearance of a pink-red color indicated the production of IAA (<xref ref-type="bibr" rid="B34">Naik and Gupta, 2020</xref>). Absorbance was measured at a wavelength of 530 nm, and the concentration was reported using a calibration curve with IAA as the standard, expressed in micrograms per milliliter (μg/mL). Distilled water was used as the reaction blank.</p>
+			</sec>
+			<sec>
+				<title>Ammonia production</title>
+				<p>To evaluate the capacity of actinomycetes as ammonia producers, the methodology proposed by <xref ref-type="bibr" rid="B6">Cappucino and Sherman (1992)</xref> was followed. The strains were inoculated into Erlenmeyer flasks with 10 mL of peptone water (1 g/L peptone and 8.5 g/L NaCl at pH 7) and maintained at 28 ºC with continuous shaking at 120 rpm for 15 d. Then, 0.5 mL of Nessler reagent was added to each culture, and the development of a yellow to brown color was considered a positive result.</p>
+			</sec>
+			<sec>
+				<title>Antagonistic activity against plant pathogenic fungi</title>
+				<p>The <italic>in vitro</italic> antagonistic activity of actinomycetes against 10 plant pathogenic fungi that impact crops was evaluated. These fungi were identified and donated by Dr. Issac Juan Luna Romero of the Plant Pathology Laboratory of the National Polytechnic Institute: <italic>Colletotrichum lindemuthianum</italic>, <italic>Pestalotia</italic> spp., <italic>Helminthosporium maydis</italic>, <italic>Curvularia</italic> spp., <italic>Colletotrichum</italic> spp., <italic>Fusarium</italic> spp., <italic>Alternaria dauci</italic>, <italic>Phytophthora</italic> spp., <italic>Sclerotinia sclerotiorum</italic>, and <italic>Fusarium oxysporum</italic>. The strains were grown on Potato Dextrose Agar (PDA) at 28 °C for 10 d or until complete sporulation. Each fungus was inoculated by puncturing it with a sterile bacteriological loop in the center of a PDA plate, and seven different actinomycetes were plated around it. Control plates were prepared without inoculating the actinomycetes to evaluate fungal growth. The plates were kept at 28 °C for 10 d. In the antagonism experiments, inhibition was identified by the absence of contact between the actinomycetes and the fungus. This was expressed as a percentage of inhibition based on the difference between the diameter of the fungal mycelium on the control plates and the diameter of the fungal mycelium on the plates containing the different actinomycetes. The results were expressed as described by <xref ref-type="bibr" rid="B26">Kumar et al. (2014)</xref> as: - = no activity; + = weak activity (&lt; 25 % inhibition); ++ = moderate activity (25-50 % inhibition); and +++ = strong activity (&gt; 50 % inhibition).</p>
+			</sec>
+			<sec>
+				<title>Data análisis</title>
+				<p>The mean and standard deviation were calculated based on the replicates of each experiment. Data were analyzed using one-way analysis of variance (ANOVA). Significant differences between means were determined using Tukey’s method with a 95 % confidence interval, as calculated with Minitab 18.1 software (Minitab Inc., State College, PA, USA). All analyses were performed in triplicate.</p>
+			</sec>
+		</sec>
+		<sec sec-type="results">
+			<title>Results</title>
+			<sec>
+				<title>Production of metabolites involved in plant growth</title>
+				<p>The first stage of the study focused on analyzing the in vitro properties of Streptomyces strains isolated from agricultural soils in the Valle del Mezquital. Of the 13 isolated strains, only 2 (15.38 %) (<xref ref-type="fig" rid="f1">Fig. 1A</xref>) were able to utilize tricalcium phosphate as an insoluble source (<xref ref-type="fig" rid="f1">Fig. 1B</xref>). <italic>S. thinghirensis</italic> had the highest phosphate SI at 3.4, followed by <italic>S. lateritius</italic> with an SI of 2. The strains were transferred to SRSM-1 medium (PVK plus bromocresol purple) to determine the secretion of organic acids. Eleven Streptomyces strains (84.62%) (<xref ref-type="fig" rid="f1">Fig. 1A</xref>) were observed to acidify the medium, as indicated by the formation of yellow halos around the colonies (<xref ref-type="fig" rid="f1">Fig. 1C</xref>). The maximum acidification zone was obtained with <italic>S. thinghirensis</italic> (SI = 5). At the same time, <italic>S. lateritius</italic> (SI = 4), <italic>S. griseoplanus</italic> B4-M10 (SI = 3.2), <italic>S. griseoaurantiacus</italic> (SI = 2.83), <italic>S. anulatus</italic> (SI = 2.69), and <italic>S. lusitanus</italic> (SI = 2.67) showed intermediate indices (<xref ref-type="table" rid="t1">Table 1</xref>). The 13 strains (<xref ref-type="fig" rid="f1">Fig. 1A</xref>) studied produced siderophores on CAS agar. Different colors were observed in the halos due to the availability of Fe since most of this ion is chelated to CAS (blue); that is, the strain takes up Fe by synthesizing siderophores (orange or purple), which are molecules with a higher affinity for Fe than CAS itself (<xref ref-type="fig" rid="f1">Fig. 1D</xref>). <italic>S. griseoplanus</italic> B4-M10 showed the highest activity with a siderophore diameter of 35 mm (siderophore rating of 4), followed by <italic>S. flavogriseus</italic> and <italic>S. nigra</italic> CB-8 with diameters of 24 and 22 mm (siderophore rating of 3), respectively (<xref ref-type="table" rid="t1">Table 1</xref>). The strain with the lowest activity diameter was <italic>S. atrovirens</italic>, with a diameter of 4 mm (siderophore rating of 1).</p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="en">
+						<label>Figura 1</label>
+						<caption>
+							<title>Número total de cepas productoras de moléculas promotoras del crecimiento vegetal y algunos resultados de las pruebas cualitativas en placa de las actividades ensayadas. A = Número de cepas productoras de moleculas promotoras del crecimiento vegetal; B = Solubilización de fosfatos; C = Producción de ácidos orgánicos; D = Producción de sideróforos; E = Producción de cianuro de hidrógeno; F = Producción de AIA y, G = Producción de amoniaco.T</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figure 1.</label>
+	<caption>
+	<title>otal number of strains producing plant growth-promoting molecules and some results of qualitative plate tests for the activities tested. A = Number of strains producing plant growth-promoting molecules; B = Phosphate solubilization; C = Organic acid production; D = Siderophore production; E = Hydrogen cyanide production; F = IAA production; and G = Ammonia production.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2666-gf1.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>
+					<table-wrap-group id="t1">
+	<table-wrap xml:lang="en">
+						<label>Tabla 1</label>
+						<caption>
+							<title>Producción de metabolitos detectados de las 13 cepas de Streptomicetos aislados de los suelos agrícolas del Valle del Mezquital.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Table 1.</label>
+		<caption>
+			<title>Production of metabolites detected from the 13 strains of Streptomycetes isolated from the agricultural soils of the Valle del Mezquital.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px; background-color: #e6e7e8;" rowspan="2"><bold>Actinomycete </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 600px; background-color: #e6e7e8;" colspan="6"><bold>Metabolite production </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Phophate 
+      solubilization (SI)<sup>1</sup> </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Organic acids (I.S.)<sup>2</sup> </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Siderophores classification </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>HCN 
+      production </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>IAA 
+      (µg/mL) </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>Ammonium production </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. atrovirens </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">46.29    ± 0.02</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. lateritius </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">67.71    ± 0.01</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Streptomyces</italic> sp. A-C7</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">41.72    ± 0.01</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. pseudogriseolus </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.42</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">32.99    ± 0.11</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. heliomycini </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">41.84    ± 0.07</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. anulatus </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.69</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">42.69    ± 0.03</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. virginiae </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">33.66    ± 0.01</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    nigra</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">39.09    ± 0.14</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    griseoplanus</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">229.54    ± 0.04</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. flavogriseus </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.23</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">52.08    ± 0.02</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. thinghirensis </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.4</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">231.73    ± 0.06</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. lusitanus </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.67</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      ++
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">30.74    ± 0.11</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. griseoaurantiacus </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">2.83</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">28.79    ± 0.21</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      +
+    </xref></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p>IS<sup>1</sup> índice de solubilización en agar PVK; IS<sup>2</sup> índice de solubilización en agar SRSM-1 (PVK+ púrpura de bromocresol). Escala para la clasificación de acuerdo al IS (Marra <italic>et al</italic>., 2015); bajo (IS&lt;2); intermedio (2&lt; IS &lt;4); alto (IS&gt;4). - = Sin actividad; + = con actividad. SI<sup>1</sup> Solubilization Index on PVK agar; SI<sup>2</sup> Solubilization Index on SRSM-1 agar (PVK + bromocresol purple). Scale for classification according to IS (Marra <italic>et al</italic>., 2015): low (IS&lt;2); intermediate (2&lt; IS&lt;4); high (IS&gt;4). - = no activity, + = with activity.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>On the other hand, only one of the strains studied tested positive for HCN (<xref ref-type="fig" rid="f1">Fig. 1A</xref>). <italic>S. lusitanus</italic> was found to be a moderate producer (++) of HCN (<xref ref-type="fig" rid="f1">Fig. 1E</xref>). Regarding IAA production (<xref ref-type="fig" rid="f1">Fig. 1F</xref>), all 13 strains exhibited this activity (<xref ref-type="fig" rid="f1">Fig. 1A</xref>). The strains with the highest IAA production were <italic>S. thinghirensis</italic> and <italic>S. griseoplanus</italic> B4-M10, with 231.73 and 229.54 µg/mL of IAA, respectively. At the same time, <italic>S. griseoaurantiacus</italic> produced the lowest concentration (28.79 µg/mL). Finally, ammonia production was observed in 100 % (<xref ref-type="fig" rid="f1">Fig. 1A</xref>) of the strains tested using Nessler’s reagent, where the color turns yellowish-brown, and its intensity depends on the NH<sub>3</sub> concentration (<xref ref-type="fig" rid="f1">Fig. 1G</xref>).</p>
+			</sec>
+			<sec>
+				<title>Evaluation of Antagonistic Activity</title>
+				<p>A preliminary qualitative assay evaluated the inhibitory activity of 13 actinomycete strains on the mycelial growth of 10 phytopathogenic fungi impacting agriculture. The strain that exhibited the greatest antagonistic activity was <italic>Streptomyces</italic> sp. A-C7 exhibited antagonistic activity against all 10 phytopathogenic fungal strains. <italic>S. griseoaurantiacus</italic> exhibited antagonistic activity against nine phytopathogenic fungi, except for <italic>Fusarium</italic> spp. did not show this activity, while S<italic>. pesudogriseolus</italic> showed antagonistic activity against seven phytopathogenic fungi, except <italic>Fusarium</italic> spp., <italic>Phytophtora</italic> spp., and <italic>F. oxysporum</italic>. The <italic>S. lusitanus</italic> strain only showed antagonistic activity against <italic>C. lindemuthianum</italic>. The results obtained from this step are presented in <xref ref-type="table" rid="t2">Table 2</xref>.</p>
+				<p>
+					<table-wrap-group id="t2">
+	<table-wrap xml:lang="en">
+						<label>Tabla 2</label>
+						<caption>
+							<title>Actividad antagónica <italic>in vitro</italic> de diferentes actinomicetos aislados de suelos agrícolas del Valle del Mezquital, Hidalgo contra hongos fitopatógenos.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 2.</label>
+		<caption>
+			<title><italic>In vitro</italic> antagonistic activity of different actinomycetes isolated from the Valle del Mezquital agricultural soils, Hidalgo, against phytopathogenic fungi.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 140px; background-color: #e6e7e8;" rowspan="2"><bold>Actinomycete </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 500px; background-color: #e6e7e8;" colspan="10"><bold>Fungi (Inhibition scale) </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        1
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        2
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        3
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        4
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        5
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        6
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        7
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        8
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        9
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN2">
+        10
+      </xref> 
+    </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. atrovirens </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. lateritius </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Streptomyces</italic> sp. A-C7</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. pseudogriseolus </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. heliomycini </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. anulatus </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. virginiae </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. nigra</italic> B-C8</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. griseoplanus</italic> B4-M10</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. flavogriseus </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. thinghirensis </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. lusitanus </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. griseoaurantiacus </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      ++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +++
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      +
+    </xref></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN2">
+								<p>Hongos: 1 = <italic>C. lindemuthianum</italic>; 2 = <italic>Pestalotia</italic> spp.; 3 = <italic>H. maydis</italic>; 4 = <italic>Curvularia</italic> spp.; 5 = <italic>Colletotrichum</italic> spp.; 6 = <italic>Fusarium</italic> spp.; 7 = <italic>A. dauci</italic>; 8 = <italic>Phytophtora</italic> spp.; 9 = <italic>S. sclerotiorum</italic>; 10 = <italic>F. oxysporum</italic>. - = Sin actividad; + = actividad débil; ++ = actividad moderada, and +++ = actividad fuerte. Fungus: 1 = <italic>C. lindemuthianum</italic>; 2 = <italic>Pestalotia</italic> spp.; 3 = <italic>H. maydis</italic>; 4 = <italic>Curvularia</italic> spp.; 5 = <italic>Colletotrichum</italic> spp.; 6 = <italic>Fusarium</italic> spp.; 7 = <italic>A. dauci</italic>; 8 = <italic>Phytophtora</italic> spp.; 9 = <italic>S. sclerotiorum</italic>; 10 = <italic>F. oxysporum</italic>. - = no activity; + = weak activity; ++ = moderate activity, and +++ = strong activity.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>From the <italic>in vitro</italic> qualitative experiment, actinomycetes with the highest antagonistic potential (+++) were selected and subjected to quantitative tests for 10 d. The results of the dual culture assays between actinomycetes and fungi are shown in <xref ref-type="table" rid="t3">Table 3</xref>. It was detected that <italic>C. lindemuthianum</italic> was inhibited by 11 actinomycetes (84.62 %), of which <italic>Streptomyces</italic> sp. A-C7 showed the maximum inhibition activity with 95.18 %, followed by <italic>S. griseoaurantiacus</italic> with 91.33 %, <italic>S. griseoplanus</italic> B4-M10 with 88.69 %, and <italic>S. heliomycini</italic> with 81.23 %. <italic>S. atrovirens</italic> and <italic>S. anulatus</italic> strains were unable to affect the radial growth of the other. It was also observed that <italic>A. dauci</italic>, the cause of leaf blight in carrots, was inhibited by six actinomycetes (46.15 %), the most effective of which was <italic>Streptomyces</italic> sp. A-C7 (69.62 %) and <italic>S. pseudogriseolus</italic> (60.76 %). The species <italic>S. atrovirens</italic>, <italic>S. lateritius</italic>, <italic>S. griseoplanus</italic> B4-M10, and <italic>S. flavogriseus</italic> exhibited low inhibition percentages, ranging from 15 % to 30 %.</p>
+				<p>
+					<table-wrap-group id="t3">
+	<table-wrap xml:lang="en">
+						<label>Tabla 3</label>
+						<caption>
+							<title>Inhibición de los hongos fitopatógeno por los actinomicetos aislados de suelos agrícolas del Valle del Mezquital en estudio.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 3.</label>
+		<caption>
+			<title>Phytopathogenic fungi inhibition by actinomycetes isolated from agricultural soils of the Valle del Mezquital under study.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 140px; background-color: #e6e7e8;" rowspan="2"><bold>Actinomycete </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 500px; background-color: #e6e7e8;" colspan="10"><bold>Fungi (% inhibition) </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN3">
+        1
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN3">
+        2
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN3">
+        3
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN3">
+        4
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN3">
+        5
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN3">
+        6
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN3">
+        7
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN3">
+        8
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN3">
+        9
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN3">
+        10
+      </xref>
+    </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    atrovirens</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">15.19    ± 0.12</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    lateritius</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">54.22    ± 0.23</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">27.85    ± 0.39</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Streptomyces</italic> sp. A-C7</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">95.18    ± 0.13</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">72.22    ± 0.09</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">68.89    ± 0.27</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">69.93    ± 0.28</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">74.44    ± 0.16</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">34.16    ± 0.39</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">69.62    ± 0.08</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">80    ± 0.07</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">66.67    ± 0.13</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">32.53    ± 0.13</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    pseudogriseolus</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">68.23    ± 0.06</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">73.33    ± 0.12</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">61.11    ± 0.05</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">50.33    ± 0.32</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">60.76    ± 0.22</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">83.33    ± 0.27</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    heliomycini</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">81.23    ± 0.28</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">75.56    ± 0.09</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    anulatus</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    virginiae</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">45.78    ± 0.14</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. nigra </italic>B-C8</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">53.26    ± 0.71</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">76.67    ± 0.02</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>S. griseoplanus</italic> B4-M10</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">88.69    ± 0.23</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20.25    ± 0.02</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    flavogriseus</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">72.22    ± 0.09</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">15.19    ± 0.35</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    thinghirensis</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">23.14    ± 0.05</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    lusitanus</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">19.72    ± 0.22</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;">S.    griseoaurantiacus</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">91.33    ± 0.18</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">55.57    ± 0.03</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN3">
+      -
+    </xref></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN3">
+								<p>Hongos: 1 = <italic>C. lindemuthianum</italic>; 2 = <italic>Pestalotia</italic> spp.; 3 = <italic>H. maydis</italic>; 4 = <italic>Curvularia</italic> spp.; 5 = <italic>Colletotrichum</italic> spp.; 6 = <italic>Fusarium</italic> spp.; 7 = <italic>A. dauci</italic>; 8 = <italic>Phytophtora</italic> spp.; 9 = <italic>S. sclerotiorum</italic>; 10 = <italic>F. oxysporum</italic>; - = sin inhibición. Fungus: 1 = <italic>C. lindemuthianum</italic>; 2 = <italic>Pestalotia</italic> spp.; 3 = <italic>H. maydis</italic>; 4 = <italic>Curvularia</italic> spp.; 5 = <italic>Colletotrichum</italic> spp.; 6 = <italic>Fusarium</italic> spp.; 7 = <italic>A. dauci</italic>; 8 = <italic>Phytophtora</italic> spp.; 9 = <italic>S. sclerotiorum</italic>; 10 = <italic>F. oxysporum</italic>; - = no inhibition.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p><italic>Streptomyces</italic> sp. A-C7 and <italic>S. pseudogriseolus</italic> were the candidates with the highest antifungal spectrum potential. <italic>Streptomyces</italic> sp. A-C7 actively suppressed the growth of all 10 fungi studied, reaching inhibition percentages greater than 65 % for 8 phytopathogenic strains: <italic>C. lindemuthianum</italic>, <italic>Pestalotia</italic> spp., <italic>H. maydis</italic>, <italic>Curvularia</italic> spp., <italic>Colletotrichum</italic> spp., <italic>A. dauci</italic>, <italic>Phytophthora</italic> spp., and <italic>S. sclerotiorum</italic>. Meanwhile, lower inhibition values were observed for <italic>Fusarium</italic> spp. and <italic>F. oxysporum</italic>, with 34.16 % and 32.53 %, respectively (<xref ref-type="fig" rid="f2">Figure 2A</xref>). On the other hand, <italic>S. pseudogriseolus</italic> had inhibitory effects on 6 of the fungi analyzed: <italic>C. lindemuthianum</italic>, <italic>Pestalotia</italic> spp., <italic>H. maydis</italic>, <italic>Curvularia</italic> spp., <italic>A. dauci,</italic> and <italic>S. sclerotiorum</italic> (<xref ref-type="fig" rid="f2">Figure 2B</xref>).</p>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="en">
+						<label>Figura 2</label>
+						<caption>
+							<title>Confrontación dual de la cepa A-C7 de <italic>Streptomyces</italic> sp. contra los hongos fitopatógenos (2A): a) <italic>C. lindemuthianum</italic>; b) <italic>Pestalotia</italic> spp.; c) <italic>H. maydis</italic>; d) <italic>Curvularia</italic> spp.; e) <italic>Colletotrichum</italic> spp.; f) <italic>Fusarium</italic> spp.; g) <italic>A. dauci</italic>; h) <italic>Phytophtora</italic> spp<italic>.</italic>; i) <italic>S. sclerotiorum</italic> y j) <italic>F. oxysporum</italic>. La cepa <italic>S. pseudogriseolus</italic> A7-M9 (2B) se confronta contra a) <italic>Pestalotia</italic> spp<italic>.</italic>; b) <italic>H. maydis</italic>; c) <italic>Curvularia</italic> spp.; d) <italic>A. dauci</italic> y e) <italic>S. sclerotiorum</italic>, mientras que la cepa de <italic>S. griseoauranticus</italic> se confronta contra f) <italic>H. maydis</italic>; la cepa <italic>S. heliomycini</italic> se confronta contra g) <italic>S. sclerotiorum</italic> y finalmente <italic>S. flavogriseus</italic> se confronta contra h) <italic>A. dauci</italic>. </title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figure 2.</label>
+	<caption>
+	<title>Dual confrontation of the <italic>Streptomyces</italic> sp. strain A-C7 against phytopathogenic fungi (2A): a) <italic>C. lindemuthianum</italic>; b) <italic>Pestalotia</italic> spp.; c) <italic>H. maydis</italic>; d) <italic>Curvularia</italic> spp.; e) <italic>Colletotrichum</italic> spp<italic>.</italic>; f) <italic>Fusarium</italic> spp.; g) <italic>A. dauci</italic>; h) <italic>Phytophtora</italic> spp.; i) <italic>S. sclerotiorum</italic>; j) <italic>F. oxysporum</italic>. The <italic>S. pseudogriseolus</italic> A7-M9 strain (2B) is confronted against a) <italic>Pestalotia</italic> spp.; b) <italic>H. maydis</italic>; c) <italic>Curvularia</italic> spp.; d) <italic>A. dauci</italic> and e) <italic>S. sclerotiorum</italic>, while the <italic>S. griseoauranticus</italic> strain is confronted against f) <italic>H. maydis</italic>; the <italic>S. heliomycini</italic> strain is confronted against g) <italic>S. sclerotiorum</italic> and finally <italic>S. flavogriseus</italic> is confronted against h) <italic>A. dauci</italic>.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2666-gf2.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p><italic>C. lindemuthianum</italic>, which causes bean anthracnose, was inhibited by 11 of the 13 actinomycetes; only <italic>S. atrovirens</italic> and <italic>S. anulatus</italic> could inhibit its growth. <italic>A. dauci</italic>, the cause of carrot leaf blight, was inhibited by six streptomycetes. <italic>Streptomyces</italic> sp. A.C7 exhibited the greatest inhibition with 69.62 %, followed by <italic>S. pseudogriseolus</italic> with 60.76 %.</p>
+			</sec>
+		</sec>
+		<sec sec-type="discussion">
+			<title>Discussion</title>
+			<sec>
+				<title>Evaluation of plant growth promotion capacity</title>
+				<p><italic>Streptomyces</italic> is considered the most abundant actinomycete and possibly the most important due to its ability to produce a wide range of bioactive compounds, antibiotics, and extracellular enzymes. <xref ref-type="bibr" rid="B9">Chouyia et al. (2020)</xref> reported the phosphate solubilizing activity of <italic>Streptomyces roseocinereus</italic> and <italic>Streptomyces natalensis</italic> with maximum SI of 1.75 and 1.17, respectively. <xref ref-type="bibr" rid="B5">Boubekri et al. (2021)</xref> found an SI of 3.17 for <italic>S. anulatus</italic> P16 in a medium supplemented with phosphate rock as the sole source of insoluble phosphate. Compared with the present work, the S<italic>. anulatus</italic> A5-M14 strain did not show phosphorus solubilizing capacity; only <italic>S. lateritius</italic> and <italic>S. thinghirensis</italic> showed the ability to solubilize phosphates, with solubilization indices of 2 and 12, respectively. Regarding <italic>S. thinghirensis</italic>, SI is higher than that reported by both authors. The potential of <italic>S. thinghirensis</italic> to efficiently solubilize phosphates has been previously described by D<xref ref-type="bibr" rid="B11">jebaili et al. (2020)</xref>. <xref ref-type="bibr" rid="B39">Rehan et al. (2021)</xref> analyzed an <italic>S. thinghirensis</italic> HM3 strain isolated from agricultural soils in Saudi Arabia and found it capable of growing on PVK agar. However, the formation of a visible solubilization halo was not evident, they found visible phosphate traces. Among the mechanisms associated with phosphate solubilization by bacteria, acidification, chelation, phosphatase enzymes, and the production of organic acids may be involved (<xref ref-type="bibr" rid="B33">Mohammed, 2020</xref>).</p>
+				<p>Low molecular weight organic acids originate from metabolizing high molecular weight compounds, such as carbohydrates, peptides, and lipids. Among the organic acids produced by <italic>Streptomyces</italic> are succinic, formic, acetic acid, and the most predominant ones, such as oxalic, citric, and gluconic acid (<xref ref-type="bibr" rid="B45">Vargas-Hoyos et al., 2021</xref>), which are possibly responsible for the decrease in pH and, therefore, the solubilization of minerals.</p>
+				<p>Siderophores sequester Fe from the rhizosphere, inhibiting pathogen growth or metabolic activity. <xref ref-type="bibr" rid="B23">Jarmusch <italic>et al</italic>. (2021)</xref> reported that the <italic>Streptomyces</italic> sp. S29 strain was effective in Fe chelation due to the secretion of siderophores, which inhibited the growth of filamentous fungi. On the other hand, <xref ref-type="bibr" rid="B32">Manigundan et al. (2020)</xref> reported that strains with higher secretion of siderophores can promote plant growth and yield better crops. In the present study, the generation of siderophores by <italic>S. lateritius</italic>, <italic>S. flavogriseus</italic>, and <italic>S. lusitanus</italic> was detected; this ability has not been previously reported in these microorganisms, making them an additional option for developing new biotechnological products.</p>
+				<p>Hydrogen cyanide (HCN) is a volatile secondary metabolite, a byproduct of glycine metabolism, which is highly dependent on glycine availability and environmental Fe levels (<xref ref-type="bibr" rid="B43">Short et al., 2018</xref>). HCN production by <italic>Streptomyces</italic> sp. has been reported. <xref ref-type="bibr" rid="B2">Anwar et al. (2016)</xref> evaluated HCN secretion in six actinomycetes obtained from the rhizosphere of wheat and tomato plants grown in Punjab province, Pakistan. <xref ref-type="bibr" rid="B36">Passari et al. (2015)</xref> found that 68 % of endophytic isolates from medicinal plants produced the metabolite, and most belonged to the genus <italic>Streptomyces</italic>. In the present work, only <italic>S. lusitanus</italic> could produce HCN; no evidence was found in the literature of <italic>S. lusi</italic>tanus as an HCN producer. The fact that <italic>S. lusitanus</italic> produces HCN could indicate its potential role in controlling diseases of fungal or bacterial origin.</p>
+				<p>Among auxins, indole-3-acetic acid (IAA) is the phytohormone most produced by microorganisms; it is synthesized through the metabolism of L-tryptophan (<xref ref-type="bibr" rid="B50">Widawati, 2020</xref>). This metabolite regulates essential biological processes, primarily in plant growth and development, including cell expansion, division, differentiation, fruit development, leaf formation, and trophic responses. Of the microorganisms studied, those that presented the highest IAA production were <italic>S. thinghirensis</italic>, <italic>S. griseoplanus</italic> B4-M10, and <italic>S. lateritius</italic>. The IAA concentrations in the present study are higher than those reported by other authors; <xref ref-type="bibr" rid="B22">Harikrishnan et al. (2014)</xref> selected IAA-producing microorganisms from the rice rhizosphere, they found that <italic>Streptomyces</italic> sp. VSMGT1014 produced 15.96 µg/mL of IAA, while <xref ref-type="bibr" rid="B10">Detraksa (2018)</xref> isolated 95 strains from the sugarcane rhizosphere, and only eleven isolates showed the capacity to produce IAA in a range of 4.76 to 29.02 µg/mL. In the present study, <italic>S. thinghirensis</italic> was the strain with the highest production of IAA with 231.73 µg/mL. This result contrasts with that described by D<xref ref-type="bibr" rid="B11">jebaili et al. (2020)</xref> who evaluated two strains of <italic>S. thinghirensis</italic>, the first, J4, showed a biosynthesis capacity of 12.8 µg/mL of IAA, and the second, K23, did not produce this auxin. On the other hand, <xref ref-type="bibr" rid="B39">Rehan et al. (2021)</xref> analyzed <italic>S. thinghirensis</italic> HM3 and detected 86.66 µg/mL of IAA.</p>
+				<p>Nitrogen (N<sub>2</sub>) is essential for all living organisms. It is the most abundant element in the atmosphere, but biochemically, it is not available to plants and most microorganisms, as it is a non-reactive form. The accessible forms are ammonia (NH<sub>3</sub>), ammonium (NH<sub>4</sub>
+ <sup>+</sup>), nitrates (NO<sub>3</sub>
+ <sup>−</sup>), and nitrites (NO<sub>2</sub>) (<xref ref-type="bibr" rid="B42">Shomi et al., 2021</xref>). The release of NH<sub>3</sub> gas by bacteria in vitro is associated with the use of substrates rich in proteins or amino acids, involved in amino acid catabolism and deamination reactions (<xref ref-type="bibr" rid="B48">Vlassi et al., 2020</xref>). NH<sub>3</sub> production by <italic>Streptomyces</italic> is considered an efficient way to overcome rhizosphere competitors due to its biosynthetic simplicity and low metabolic cost. <xref ref-type="bibr" rid="B3">Avalos et al. (2020)</xref> demonstrated that <italic>Streptomyces</italic> can produce high levels of NH<sub>3</sub> that affect the growth of gram-positive and negative bacteria over long distances. <xref ref-type="bibr" rid="B4">Borah and Thakur (2020)</xref> reported that different <italic>Streptomyces</italic> isolates can produce NH<sub>3</sub>, an essential metabolite in suppressing the growth of plant-pathogenic fungi. The 13 strains studied showed the ability to produce ammonia, which suggests that they are involved in N bioavailability processes in plants.</p>
+			</sec>
+			<sec>
+				<title>Antagonistic and Inhibitory Activity of Isolated Strains</title>
+				<p>The antagonism exhibited by actinomycetes is mainly due to the production of lytic enzymes, antibiotics, and parasitism. Different <italic>Streptomyces</italic> species produce antibiotics, and some strains are used in the biological control of plant diseases mainly caused by fungi (<xref ref-type="bibr" rid="B29">Law et al., 2017</xref>). The results obtained were heterogeneous regarding the antagonistic activity of the 13 <italic>Streptomyces</italic> strains studied. <italic>C. lindemuthianum</italic> was inhibited by 11 of the <italic>Streptomyces</italic> strains; only <italic>S. atrovirens</italic> and <italic>S. anulatus</italic> could not inhibit this fungus. There are no recent reports on the growth inhibition of <italic>C. lindemuthianum</italic> with the 11 strains studied. Regarding the growth inhibition of <italic>Pestolia</italic> spp., only <italic>Streptomyces</italic> spp. A-57 and <italic>S. pseudogriseolus</italic> were able to inhibit it. Regarding the growth inhibition of <italic>H. maydis</italic>, <italic>Curvularia</italic> spp., and <italic>A. dauci</italic>, the antifungal and antibacterial activity of <italic>S. pseudogriseolus</italic> has already been reported; <xref ref-type="bibr" rid="B1">Alekhya and Gopalakrishnan (2014)</xref> reported that <italic>Streptomyces</italic> species are capable of inhibiting the growth of <italic>F. oxysporum</italic>, <italic>Macrophomina phaseolina</italic>, and <italic>Rhizoctonia bataticola</italic>, which are pathogens of chickpea and sorghum; <xref ref-type="bibr" rid="B15">Fatmawati et al. (2018)</xref> found high antagonistic activity against <italic>E. coli</italic>, <italic>Staphylococcus aureus</italic>, and <italic>F. oxysporum</italic>. However, in this study, <italic>S. pseudogriseolus</italic> A7-M9 showed no effect on <italic>F. oxysporum</italic>. Furthermore, <xref ref-type="bibr" rid="B46">Vatsa-Portugal et al. (2017)</xref> reported that <italic>S. anulatus</italic> S37 induces an early plant response against various diseases and pests. Other <italic>S. anulatus</italic> strains have also shown antagonistic and inhibitory activity against <italic>Phytophtora</italic> sp. (<xref ref-type="bibr" rid="B28">Kunova et al., 2016</xref>), <italic>F. oxysporium</italic> (<xref ref-type="bibr" rid="B12">Djebaili et al., 2021</xref>), and <italic>S. sclerotiorum</italic> (<xref ref-type="bibr" rid="B28">Kunova <italic>et al</italic>., 2016</xref>). On the other hand, <xref ref-type="bibr" rid="B47">Vijayabharanthi et al. (2014)</xref> found that <italic>S. griseoplanus</italic> displayed a broad spectrum of activity against entomopathogens. Different strains of this microorganism have also shown activity against bacterial diseases and pests (<xref ref-type="bibr" rid="B27">Kumar et al., 2024</xref>). For their part, <xref ref-type="bibr" rid="B49">Vurukonda et al. (2021)</xref>) observed that <italic>S. atrovirens</italic> showed antagonistic activity against <italic>Colletotrichum</italic> spp. Regarding <italic>S. lateritius</italic>, it showed inhibitory activity against <italic>Fusarium</italic> spp. (<xref ref-type="bibr" rid="B18">Gromovykh et al., 2005</xref>), while <italic>S. heliomycini</italic> against <italic>Fusarium graminearum</italic>, and <italic>S. griseoaurantiacus</italic> showed antagonistic activity against <italic>Sclerotium rolfsii</italic> in pepper (<xref ref-type="bibr" rid="B38">Qiu et al., 2024</xref>).</p>
+				<p>The results of the present study indicated that strains isolated from the soils of the Mezquital Valley exhibit significant antagonistic and inhibitory activity, likely due to the growth conditions to which they are subjected. It was observed that several of the Streptomyces strains isolated had not been reported for their antagonistic or inhibitory activity, as is the case primarily with <italic>S. pseudogriseolus</italic>, <italic>S. virginiae</italic>, <italic>S. thinghirensis</italic>, and <italic>S. griseoaurantiacus</italic>. Environmental growing conditions likely influence this activity.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusions</title>
+			<p>The strains isolated from the agricultural soil under study showed the ability to secrete metabolites related to plant growth, such as siderophores, IAA, and organic acids. Only two strains (<italic>S. thinghirensis</italic> and <italic>S. lateritius</italic>) showed the ability to solubilize phosphates, and one strain (<italic>S. lusitanus</italic>) showed the ability to produce HCN. Previously undescribed strains with antagonistic and inhibitory capacity were identified, such as <italic>S. pseudogriseolus</italic>, <italic>S. atrovirens</italic>, <italic>S. lateritius</italic>, <italic>S. nigra</italic>, S<italic>. griseoplanus</italic>, <italic>S. flavogriseus</italic>, and <italic>S. griseoaurantiacus</italic>, representing new options for the generation of formulations for the biological control of diseases caused by phytopathogenic fungi.</p>
+		</sec>
+		<sec>
+			<title>Conflicts of interest</title>
+			<p>The authors declare that they have no conflict of interest.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Acknowledgments</title>
+			<p>We thank the National Council of Sciences, Humanities, and Technology for supporting the doctoral scholarship awarded No. 467187</p>
+		</ack>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>Alekhya, G. and Gopalakrishnan, S. 2014. Characterization of antagonistic <italic>Streptomyces</italic> as potential biocontrol agent against fungal pathogens of chickpea and sorghum. Philippine Agricultural Scientist. 97: 191-198.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alekhya</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Gopalakrishnan</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Characterization of antagonistic Streptomyces as potential biocontrol agent against fungal pathogens of chickpea and sorghum</article-title>
+					<source>Philippine Agricultural Scientist</source>
+					<volume>97</volume>
+					<fpage>191</fpage>
+					<lpage>198</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Anwar, S., Ali, B. and Sajid, I. 2016. Screening of rhizospheric actinomycetes for various <italic>in-vitro</italic> and <italic>in-vivo</italic> plant growth promoting (PGP) traits and for agroactive compounds. Frontiers in Microbiology 7(1334), 1-11.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Anwar</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ali</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Sajid</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Screening of rhizospheric actinomycetes for various in-vitro and in-vivo plant growth promoting (PGP) traits and for agroactive compounds</article-title>
+					<source>Frontiers in Microbiology</source>
+					<volume>7</volume>
+					<issue>1334</issue>
+					<fpage>1</fpage>
+					<lpage>11</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Avalos, M., Garbeva, P., Raaijmakers, J.M. and van Wezel, G.P. 2020. Production of ammonia as a low-cost and long-distance antibiotic strategy by <italic>Streptomyces</italic> species. ISME Journal. 14: 569-583.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Avalos</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Garbeva</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Raaijmakers</surname>
+							<given-names>J.M.</given-names>
+						</name>
+						<name>
+							<surname>van Wezel</surname>
+							<given-names>G.P</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Production of ammonia as a low-cost and long-distance antibiotic strategy by Streptomyces species</article-title>
+					<source>ISME Journal</source>
+					<volume>14</volume>
+					<fpage>569</fpage>
+					<lpage>583</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Borah, A. and Thakur, D. 2020. Phylogenetic and functional characterization of culturable endophytic actinobacteria associated with <italic>Camellia</italic> spp. for growth promotion in commercial tea cultivars. Frontiers in Microbiology. 11: 318.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Borah</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Thakur</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Phylogenetic and functional characterization of culturable endophytic actinobacteria associated with Camellia spp. for growth promotion in commercial tea cultivars</article-title>
+					<source>Frontiers in Microbiology</source>
+					<volume>11</volume>
+					<issue>318</issue>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Boubekri, K., Soumare, A., Mardad, I., Lyamlouli, K., Hafidi, M., Ouhdouch, Y. and Kouisni, L. 2021. The screening of potassium-and phosphate-solubilizing actinobacteria and the assessment of their ability to promote wheat growth parameters. Microorganisms. 9: 470.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boubekri</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Soumare</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Mardad</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Lyamlouli</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Hafidi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ouhdouch</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Kouisni</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>The screening of potassium-and phosphate-solubilizing actinobacteria and the assessment of their ability to promote wheat growth parameters</article-title>
+					<source>Microorganisms</source>
+					<issue>9</issue>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Cappucino, J.C. and Sherman, N. 1992. Microbiology: a laboratory manual. New York, Benjamin: Cummings Publishing Company: 125-179.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cappucino</surname>
+							<given-names>J.C.</given-names>
+						</name>
+						<name>
+							<surname>Sherman</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>1992</year>
+					<source>Microbiology: a laboratory manual</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Benjamin: Cummings Publishing Company</publisher-name>
+					<fpage>125</fpage>
+					<lpage>179</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Castañeda-Cisneros, Y.E., Mercado-Flores, Y., Anducho-Reyes, M.A., Álvarez-Cervantes, J., Ponce-Lira, B., Evangelista-Martínez, Z. and Téllez-Jurado, A. 2020. Isolation and selection of <italic>Streptomyces</italic> species from semi-arid agricultural soils and their potential as producers of xylanases and cellulases. Current Microbiology. 77(11): 3460-3472.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castañeda-Cisneros</surname>
+							<given-names>Y.E.</given-names>
+						</name>
+						<name>
+							<surname>Mercado-Flores</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Anducho-Reyes</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Álvarez-Cervantes</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Ponce-Lira</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Evangelista-Martínez</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Téllez-Jurado</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Isolation and selection of Streptomyces species from semi-arid agricultural soils and their potential as producers of xylanases and cellulases</article-title>
+					<source>Current Microbiology</source>
+					<volume>77</volume>
+					<issue>11</issue>
+					<fpage>3460</fpage>
+					<lpage>3472</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Castañeda-Cisneros, Y.E., Zafra, G., Anducho-Reyes, M.A., Mercado-Flores, Y., Ponce-Lira, B. and Téllez-Jurado, A. 2024. Comparison of bacterial communities of agricultural soils subjected to different types of tillage in the Valle del Mezquital, Mexico. Soil and Environment. 43(2): 160-175.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castañeda-Cisneros</surname>
+							<given-names>Y.E.</given-names>
+						</name>
+						<name>
+							<surname>Zafra</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Anducho-Reyes</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Mercado-Flores</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Ponce-Lira</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Téllez-Jurado</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Comparison of bacterial communities of agricultural soils subjected to different types of tillage in the Valle del Mezquital, Mexico</article-title>
+					<source>Soil and Environment</source>
+					<volume>43</volume>
+					<issue>2</issue>
+					<fpage>160</fpage>
+					<lpage>175</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Chouyia, F.E., Romano, I., Fechtali, T., Fagnano, M., Fiorentino, N., Visconti, D., Idbella, M., Ventorino, V. and Pepe, O. 2020. P-solubilizing <italic>Streptomyces roseocinereus</italic> MS1B15 with multiple plant growth-promoting traits enhance barley development and regulate rhizosphere microbial population. Frontiers in Plant Science. 11: 1137.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chouyia</surname>
+							<given-names>F.E.</given-names>
+						</name>
+						<name>
+							<surname>Romano</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Fechtali</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Fagnano</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Fiorentino</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Visconti</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Idbella</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ventorino</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Pepe</surname>
+							<given-names>O</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>P-solubilizing Streptomyces roseocinereus MS1B15 with multiple plant growth-promoting traits enhance barley development and regulate rhizosphere microbial population</article-title>
+					<source>Frontiers in Plant Science</source>
+					<volume>11</volume>
+					<issue>1137</issue>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Detraksa, J. 2018. Sugarcane seedling growth promotion by indole acetic acid (IAA) producing <italic>Streptomyces</italic> sp. AS14-2 isolated from rhizosphere of sugarcane and rice. Food and Applied Bioscience Journal. 6: 179-188.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Detraksa</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Sugarcane seedling growth promotion by indole acetic acid (IAA) producing Streptomyces sp. AS14-2 isolated from rhizosphere of sugarcane and rice</article-title>
+					<source>Food and Applied Bioscience Journal</source>
+					<volume>6</volume>
+					<fpage>179</fpage>
+					<lpage>188</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Djebaili, R., Pellegrini, M., Smati, M., Del Gallo, M. and Kitouni, M. 2020. <italic>Actinomycete</italic> strains isolated from saline soils: plant-growth-promoting traits and inoculation effects on <italic>Solanum lycopersicum</italic>. Sustainability. 12: 4617.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>jebaili</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Pellegrini</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Smati</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Del Gallo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Kitouni</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Actinomycete strains isolated from saline soils: plant-growth-promoting traits and inoculation effects on Solanum lycopersicum</article-title>
+					<source>Sustainability</source>
+					<volume>12</volume>
+					<issue>4617</issue>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Djebaili, R., Pellegrini, M., Ercole, C., Farda, B., Kitouni, M. and Del Gallo, M. 2021. Biocontrol of soil-borne pathogens of <italic>Solanum lycopersicum</italic> L. and <italic>Daucus carota</italic> L. by plant growth-promoting actinomycetes: <italic>In vitro</italic> and in planta antagonistic activity. Pathogens. 10(10): 1305.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Djebaili</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Pellegrini</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ercole</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Farda</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Kitouni</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Del Gallo</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Biocontrol of soil-borne pathogens of Solanum lycopersicum L. and Daucus carota L. by plant growth-promoting actinomycetes: In vitro and in planta antagonistic activity</article-title>
+					<source>Pathogens</source>
+					<volume>10</volume>
+					<issue>10</issue>
+					<fpage>1305</fpage>
+					<lpage>1305</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Durán-Álvarez, J.C., Jiménez, B., Rodríguez-Varela, M. and Prado, B. 2021. The Mezquital Valley from the perspective of the new Dryland Development Paradigm (DDP): Present and future challenges to achieve sustainable development. Current Opinion in Environmental Sustainability. 48: 139-150.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Durán-Álvarez</surname>
+							<given-names>J.C.</given-names>
+						</name>
+						<name>
+							<surname>Jiménez</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Varela</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Prado</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>The Mezquital Valley from the perspective of the new Dryland Development Paradigm (DDP): Present and future challenges to achieve sustainable development</article-title>
+					<source>Current Opinion in Environmental Sustainability</source>
+					<volume>48</volume>
+					<fpage>139</fpage>
+					<lpage>150</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Elias, F., Woyessa, D. and Muleta, D. 2016. Phosphate solubilization potential of <italic>Rhizosphere</italic> fungi isolated from plants in Jimma Zone, Southwest Ethiopia. International Journal of Microbiology. 5472601.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Elias</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Woyessa</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Muleta</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Phosphate solubilization potential of Rhizosphere fungi isolated from plants in Jimma Zone, Southwest Ethiopia</article-title>
+					<source>International Journal of Microbiology</source>
+					<pub-id pub-id-type="art-access-id">5472601</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Fatmawati, U., Lestari, Y., Meryandini, A., Nawangsih, A.A. and Wahyudi, A.T. 2018. Isolation of actinomycetes from maize rhizosphere from Kupang, East Nusa Tenggara Province, and evaluation of their antibacterial, antifungal, and extracellular enzyme activity. Indonesian Journal of Biotechnology. 23: 40-47.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fatmawati</surname>
+							<given-names>U.</given-names>
+						</name>
+						<name>
+							<surname>Lestari</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Meryandini</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Nawangsih</surname>
+							<given-names>A.A.</given-names>
+						</name>
+						<name>
+							<surname>Wahyudi</surname>
+							<given-names>A.T</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Isolation of actinomycetes from maize rhizosphere from Kupang, East Nusa Tenggara Province, and evaluation of their antibacterial, antifungal, and extracellular enzyme activity</article-title>
+					<source>Indonesian Journal of Biotechnology</source>
+					<volume>23</volume>
+					<fpage>40</fpage>
+					<lpage>47</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Gómez, B.E., Hernández, A., Herrera, C.H., Arroyo, G., Vargas, L. and Olalde, V. 2012. Aislamiento de bacterias promotoras del crecimiento de la rizósfera de plantas de guayaba (<italic>Psidium guajava</italic>). Ra Ximhai. 8(3): 97-102. León Guanajuato, México.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gómez</surname>
+							<given-names>B.E.</given-names>
+						</name>
+						<name>
+							<surname>Hernández</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Herrera</surname>
+							<given-names>C.H.</given-names>
+						</name>
+						<name>
+							<surname>Arroyo</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Vargas</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Olalde</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Aislamiento de bacterias promotoras del crecimiento de la rizósfera de plantas de guayaba (Psidium guajava)</article-title>
+					<source>Ra Ximhai</source>
+					<volume>8</volume>
+					<issue>3</issue>
+					<fpage>97</fpage>
+					<lpage>102</lpage>
+					<publisher-loc>León Guanajuato, México</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Gordon, S.A. and Weber, R.P. 1951. Colorimetric estimation of indoleacetic acid. Plant Physiology. 26: 192.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gordon</surname>
+							<given-names>S.A.</given-names>
+						</name>
+						<name>
+							<surname>Weber</surname>
+							<given-names>R.P</given-names>
+						</name>
+					</person-group>
+					<year>1951</year>
+					<article-title>Colorimetric estimation of indoleacetic acid</article-title>
+					<source>Plant Physiology</source>
+					<volume>26</volume>
+					<issue>192</issue>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Gromovykh, T.I., Litovka, Y.A., Sadykova, V.S. and Gabidulina, I.G. 2005. Biological characteristics of the new <italic>Streptomyces lateritius</italic> 19/97-M strain, promising for use in plant production. Biotekhnologiya. 5: 37-40.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gromovykh</surname>
+							<given-names>T.I.</given-names>
+						</name>
+						<name>
+							<surname>Litovka</surname>
+							<given-names>Y.A.</given-names>
+						</name>
+						<name>
+							<surname>Sadykova</surname>
+							<given-names>V.S.</given-names>
+						</name>
+						<name>
+							<surname>Gabidulina</surname>
+							<given-names>I.G</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Biological characteristics of the new Streptomyces lateritius 19/97-M strain, promising for use in plant production</article-title>
+					<source>Biotekhnologiya</source>
+					<volume>5</volume>
+					<fpage>37</fpage>
+					<lpage>40</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Guzmán, A., Obando, M., Rivera, D. and Bonilla, R. 2012. Selección y caracterización de rizobacterias promotoras de crecimiento vegetal ( RPCV ) asociadas al cultivo de algodón (<italic>Gossypium hirsutum</italic> ). Revista Colombiana de Biotecnología. XIV(1): 182-190.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Guzmán</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Obando</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Rivera</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Bonilla</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Selección y caracterización de rizobacterias promotoras de crecimiento vegetal ( RPCV ) asociadas al cultivo de algodón (Gossypium hirsutum )</article-title>
+					<source>Revista Colombiana de Biotecnología</source>
+					<volume>XIV</volume>
+					<issue>1</issue>
+					<fpage>182</fpage>
+					<lpage>190</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Hayakawa, M. 2008. Studies on the isolation and distribution of rare actinomycetes in soil. Actinomycetologica. 22: 12-19.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hayakawa</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Studies on the isolation and distribution of rare actinomycetes in soil</article-title>
+					<source>Actinomycetologica</source>
+					<volume>22</volume>
+					<fpage>12</fpage>
+					<lpage>19</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Hu, Q.P. and Xu, J.G. 2011. A simple double-layered chrome azurol S agar (SD-CASA) plate assay to optimize the production of siderophores by a potential biocontrol agent <italic>Bacillus</italic>. African Journal of Microbiology Research. 5: 4321-4327.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hu</surname>
+							<given-names>Q.P.</given-names>
+						</name>
+						<name>
+							<surname>Xu</surname>
+							<given-names>J.G</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>A simple double-layered chrome azurol S agar (SD-CASA) plate assay to optimize the production of siderophores by a potential biocontrol agent Bacillus</article-title>
+					<source>African Journal of Microbiology Research</source>
+					<volume>5</volume>
+					<fpage>4321</fpage>
+					<lpage>4327</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Harikrishnan, H., Shanmugaiah, V. and Balasubramanian, N. 2014. Optimization for production of indole acetic acid (IAA) by plant growth promoting <italic>Streptomyces</italic> sp. VSMGT1014 isolated from rice rhizosphere. International Journal of Current Microbiology and Applied Science. 3: 158-171.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Harikrishnan</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Shanmugaiah</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Balasubramanian</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Optimization for production of indole acetic acid (IAA) by plant growth promoting Streptomyces sp. VSMGT1014 isolated from rice rhizosphere</article-title>
+					<source>International Journal of Current Microbiology and Applied Science</source>
+					<volume>3</volume>
+					<fpage>158</fpage>
+					<lpage>171</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Jarmusch, S.A., Lagos-Susaeta, D., Diab, E., Salazar, O., Asenjo, J.A., Ebel, R. and Jaspars, M. 2021. Iron-meditated fungal starvation by lupine rhizosphere-associated and extremotolerant <italic>Streptomyces</italic> sp. S29 desferrioxamine production. Molecular Omics Journal. 17: 95-107.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jarmusch</surname>
+							<given-names>S.A.</given-names>
+						</name>
+						<name>
+							<surname>Lagos-Susaeta</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Diab</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Salazar</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Asenjo</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Ebel</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Jaspars</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Iron-meditated fungal starvation by lupine rhizosphere-associated and extremotolerant Streptomyces sp. S29 desferrioxamine production</article-title>
+					<source>Molecular Omics Journal</source>
+					<volume>17</volume>
+					<fpage>95</fpage>
+					<lpage>107</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Jiang, H., Xie, X., Li, J., Jiang, Z., Pi, K. and Wang, Y. 2024. Metagenomic and FT-ICR MS insights into the mechanism for the arsenic biogeochemical cycling in groundwater. Journal of Hazardous Materials. 476: 135047.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jiang</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Xie</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Jiang</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Pi</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Metagenomic and FT-ICR MS insights into the mechanism for the arsenic biogeochemical cycling in groundwater</article-title>
+					<source>Journal of Hazardous Materials</source>
+					<volume>476</volume>
+					<pub-id pub-id-type="art-access-id">135047</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Jones, K.L. 1949. Fresh isolates of actinomycetes in which the presence of sporogenous aerial mycelia is a fluctuating characteristic. Journal of Bacteriology. 57(2):141-145.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jones</surname>
+							<given-names>K.L</given-names>
+						</name>
+					</person-group>
+					<year>1949</year>
+					<article-title>Fresh isolates of actinomycetes in which the presence of sporogenous aerial mycelia is a fluctuating characteristic</article-title>
+					<source>Journal of Bacteriology</source>
+					<volume>57</volume>
+					<issue>2</issue>
+					<fpage>141</fpage>
+					<lpage>145</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Kumar, P.S., Duraipandiyan, V. and Ignacimuthu, S. 2014. Isolation, screening and partial purification of antimicrobial antibiotics from soil <italic>Streptomyces</italic> sp. SCA 7. The Kaohsiung Journal of Medical Sciences. 30(9): 435-446.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kumar</surname>
+							<given-names>P.S.</given-names>
+						</name>
+						<name>
+							<surname>Duraipandiyan</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Ignacimuthu</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Isolation, screening and partial purification of antimicrobial antibiotics from soil Streptomyces sp. SCA 7</article-title>
+					<source>The Kaohsiung Journal of Medical Sciences</source>
+					<volume>30</volume>
+					<issue>9</issue>
+					<fpage>435</fpage>
+					<lpage>446</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Kumar, S., Sindhu, S.S. and Kumar, R. 2024. Microbial endophytes: prospects in biological control of plant pathogens and plant growth stimulation for sustainable agriculture. In <italic>Plant endophytes and secondary metabolites</italic> (pp. 375-422). Academic Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kumar</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Sindhu</surname>
+							<given-names>S.S.</given-names>
+						</name>
+						<name>
+							<surname>Kumar</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<chapter-title>Microbial endophytes: prospects in biological control of plant pathogens and plant growth stimulation for sustainable agriculture</chapter-title>
+					<source>Plant endophytes and secondary metabolites</source>
+					<fpage>375</fpage>
+					<lpage>422</lpage>
+					<publisher-name>Academic Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Kunova, A., Bonaldi, M., Saracchi, M., Pizzatti, C., Chen, X. and Cortesi, P. 2016. Selection of Streptomyces against soil borne fungal pathogens by a standardized dual culture assay and evaluation of their effects on seed germination and plant growth. BMC Microbiology. 16: 1-11.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kunova</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Bonaldi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Saracchi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Pizzatti</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Cortesi</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Selection of Streptomyces against soil borne fungal pathogens by a standardized dual culture assay and evaluation of their effects on seed germination and plant growth</article-title>
+					<source>BMC Microbiology</source>
+					<volume>16</volume>
+					<fpage>1</fpage>
+					<lpage>11</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Law, J.W.F., Ser, H.L., Khan, T.M., Chuah, L.H., Pusparajah, P., Chan, K.G., Goh, B. and Lee, L.H. 2017. The potential of <italic>Streptomyces</italic> as biocontrol agents against the rice blast fungus, <italic>Magnaporthe oryzae</italic> (<italic>Pyricularia oryzae</italic>). Frontiers in Microbiology. 8: 3.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Law</surname>
+							<given-names>J.W.F.</given-names>
+						</name>
+						<name>
+							<surname>Ser</surname>
+							<given-names>H.L.</given-names>
+						</name>
+						<name>
+							<surname>Khan</surname>
+							<given-names>T.M.</given-names>
+						</name>
+						<name>
+							<surname>Chuah</surname>
+							<given-names>L.H.</given-names>
+						</name>
+						<name>
+							<surname>Pusparajah</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Chan</surname>
+							<given-names>K.G.</given-names>
+						</name>
+						<name>
+							<surname>Goh</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>L.H</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>The potential of Streptomyces as biocontrol agents against the rice blast fungus, Magnaporthe oryzae (Pyricularia oryzae)</article-title>
+					<source>Frontiers in Microbiology</source>
+					<volume>8</volume>
+					<issue>3</issue>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Leveau, J.Y. and Bouix, M. 2000. Microbiología industrial: Los microorganismos de interés industrial. Revista de Química. 15(1): 114-115. Retrieved from <ext-link ext-link-type="uri" xlink:href="http://revistas.pucp.edu.pe/index.php/quimica/article/view/4761">http://revistas.pucp.edu.pe/index.php/quimica/article/view/4761</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Leveau</surname>
+							<given-names>J.Y.</given-names>
+						</name>
+						<name>
+							<surname>Bouix</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>Microbiología industrial: Los microorganismos de interés industrial</article-title>
+					<source>Revista de Química</source>
+					<volume>15</volume>
+					<issue>1</issue>
+					<fpage>114</fpage>
+					<lpage>115</lpage>
+					<comment>Retrieved from</comment>
+					<ext-link ext-link-type="uri" xlink:href="http://revistas.pucp.edu.pe/index.php/quimica/article/view/4761">http://revistas.pucp.edu.pe/index.php/quimica/article/view/4761</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Lorck, H. 1948. Production of hydrocyanic acid by bacteria. Physiologia Plantarum. 1: 142-146.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lorck</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>1948</year>
+					<article-title>Production of hydrocyanic acid by bacteria</article-title>
+					<source>Physiologia Plantarum</source>
+					<volume>1</volume>
+					<issue>142-146</issue>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Manigundan, K., Joseph, J., Ayswarya, S., Vignesh, A., Vijayalakshmi, G., Soytong, K., Gopikrishnan, V. and Radhakrishnan, M. 2020. Identification of biostimulant and microbicide compounds from <italic>Streptomyces</italic> sp. UC1A-3 for plant growth promotion and disease control. International Journal of Agriculture Technology. 16: 1125-1144.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Manigundan</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Joseph</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Ayswarya</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Vignesh</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Vijayalakshmi</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Soytong</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Gopikrishnan</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Radhakrishnan</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Identification of biostimulant and microbicide compounds from Streptomyces sp. UC1A-3 for plant growth promotion and disease control</article-title>
+					<source>International Journal of Agriculture Technology</source>
+					<volume>16</volume>
+					<fpage>1125</fpage>
+					<lpage>1144</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Mohammed, A.F. 2020. Influence of <italic>Streptomyces</italic> sp. Kp109810 on solubilization of inorganic phosphate and growth of maize (<italic>Zea mays</italic> L.). Journal of Applied Plant Protection. 9: 17-24.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mohammed</surname>
+							<given-names>A.F</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Influence of Streptomyces sp. Kp109810 on solubilization of inorganic phosphate and growth of maize (Zea mays L.)</article-title>
+					<source>Journal of Applied Plant Protection</source>
+					<volume>9</volume>
+					<fpage>17</fpage>
+					<lpage>24</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Naik, J.A. and Gupta, G.K. 2020. Optimization of indole acetic acid production by active isolate actinomycetes rm-9 isolated from rizospheric soil of Valsad, Gujarat, India. Journal of Advanced Scientific Research. 11: 194-201.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Naik</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Gupta</surname>
+							<given-names>G.K</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Optimization of indole acetic acid production by active isolate actinomycetes rm-9 isolated from rizospheric soil of Valsad, Gujarat, India</article-title>
+					<source>Journal of Advanced Scientific Research</source>
+					<volume>11</volume>
+					<fpage>194</fpage>
+					<lpage>201</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Oskay, A.M., Üsame, T. and Cem, A. 2004. Antibacterial activity of some actinomycetes isolated from farming soils of Turkey. African Journal of Biotechnology. 3: 441-446.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Oskay</surname>
+							<given-names>A.M.</given-names>
+						</name>
+						<name>
+							<surname>Üsame</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Cem</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Antibacterial activity of some actinomycetes isolated from farming soils of Turkey</article-title>
+					<source>African Journal of Biotechnology</source>
+					<volume>3</volume>
+					<fpage>441</fpage>
+					<lpage>446</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Passari, A.K., Mishra, V.K., Gupta, V.K., Yadav, M.K., Saikia, R. and Singh, B.P. 2015. <italic>In vitro</italic> and <italic>in vivo</italic> plant growth promoting activities and DNA fingerprinting of antagonistic endophytic actinomycetes associates with medicinal plants. PLoS One. 10: e0139468.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Passari</surname>
+							<given-names>A.K.</given-names>
+						</name>
+						<name>
+							<surname>Mishra</surname>
+							<given-names>V.K.</given-names>
+						</name>
+						<name>
+							<surname>Gupta</surname>
+							<given-names>V.K.</given-names>
+						</name>
+						<name>
+							<surname>Yadav</surname>
+							<given-names>M.K.</given-names>
+						</name>
+						<name>
+							<surname>Saikia</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Singh</surname>
+							<given-names>B.P</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>In vitro and in vivo plant growth promoting activities and DNA fingerprinting of antagonistic endophytic actinomycetes associates with medicinal plants</article-title>
+					<source>PLoS One</source>
+					<volume>10</volume>
+					<pub-id pub-id-type="art-access-id">e0139468</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Pikovskaya, R.I. 1948. Mobilization of phosphorus in soil connection with the vital activity of some microbial species. Microbiology. 17: 362-370.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pikovskaya</surname>
+							<given-names>R.I</given-names>
+						</name>
+					</person-group>
+					<year>1948</year>
+					<article-title>Mobilization of phosphorus in soil connection with the vital activity of some microbial species</article-title>
+					<source>Microbiology</source>
+					<volume>17</volume>
+					<fpage>362</fpage>
+					<lpage>370</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Qiu, Z.L., Da Liu, S., Li, X.G., Zhong, J. and Zhu, J.Z. 2024. Identification and mechanism characterization of <italic>Streptomyces griseoaurantiacus</italic> XQ-29 with biocontrol ability against pepper southern blight caused by <italic>Sclerotium rolfsii</italic>. Pesticide Biochemistry and Physiology. 202:105956.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Qiu</surname>
+							<given-names>Z.L.</given-names>
+						</name>
+						<name>
+							<surname>Da Liu</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>X.G.</given-names>
+						</name>
+						<name>
+							<surname>Zhong</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Zhu</surname>
+							<given-names>J.Z</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Identification and mechanism characterization of Streptomyces griseoaurantiacus XQ-29 with biocontrol ability against pepper southern blight caused by Sclerotium rolfsii</article-title>
+					<source>Pesticide Biochemistry and Physiology</source>
+					<volume>202</volume>
+					<pub-id pub-id-type="art-access-id">105956</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Rehan, M., Alsohim, A.S., Abidou, H., Rasheed, Z. and Al Abdulmonem, W. 2021. Isolation, identification, biocontrol activity, and plant growth promoting capability of a superior <italic>Streptomyces tricolor</italic> strain HM10. Polish Journal of Microbiology. 70: 245.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rehan</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Alsohim</surname>
+							<given-names>A.S.</given-names>
+						</name>
+						<name>
+							<surname>Abidou</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Rasheed</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Al Abdulmonem</surname>
+							<given-names>W</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Isolation, identification, biocontrol activity, and plant growth promoting capability of a superior Streptomyces tricolor strain HM10</article-title>
+					<source>Polish Journal of Microbiology</source>
+					<volume>70</volume>
+					<issue>245</issue>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Sandar, R. and Shina, W. 1963. Phosphate dissolving microorganism in the soil and rhizosphere. Indian Journal of Agricultural Sciences. 33: 272-278.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sandar</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Shina</surname>
+							<given-names>W</given-names>
+						</name>
+					</person-group>
+					<year>1963</year>
+					<article-title>Phosphate dissolving microorganism in the soil and rhizosphere</article-title>
+					<source>Indian Journal of Agricultural Sciences</source>
+					<volume>33</volume>
+					<fpage>272</fpage>
+					<lpage>278</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Schwyn, B. and Neilands, J.B. 1987. Universal chemical assay for the detection and determination of siderophores. Analytical Biochemistry. 160: 47-56.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schwyn</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Neilands</surname>
+							<given-names>J.B</given-names>
+						</name>
+					</person-group>
+					<year>1987</year>
+					<article-title>Universal chemical assay for the detection and determination of siderophores</article-title>
+					<source>Analytical Biochemistry</source>
+					<volume>160</volume>
+					<fpage>47</fpage>
+					<lpage>56</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Shomi, F.Y., Uddin, M.B. and Zerin, T. 2021. Isolation and characterization of nitrogen-fixing bacteria from soil sample in Dhaka, Bangladesh. Stamford Journal of Microbiology. 11(1): 11-13.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shomi</surname>
+							<given-names>F.Y.</given-names>
+						</name>
+						<name>
+							<surname>Uddin</surname>
+							<given-names>M.B.</given-names>
+						</name>
+						<name>
+							<surname>Zerin</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Isolation and characterization of nitrogen-fixing bacteria from soil sample in Dhaka, Bangladesh</article-title>
+					<source>Stamford Journal of Microbiology</source>
+					<volume>11</volume>
+					<issue>1</issue>
+					<fpage>11</fpage>
+					<lpage>13</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Short, S.M., van Tol, S., MacLeod, H.J. and Dimopoulos, G. 2018. Hydrogen cyanide produced by the soil bacterium <italic>Chromobacterium</italic> sp. Panama contributes to mortality in <italic>Anopheles gambiae</italic> mosquito larvae. Scientific Reports. 8: 8358.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Short</surname>
+							<given-names>S.M.</given-names>
+						</name>
+						<name>
+							<surname>van Tol</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>MacLeod</surname>
+							<given-names>H.J.</given-names>
+						</name>
+						<name>
+							<surname>Dimopoulos</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Hydrogen cyanide produced by the soil bacterium Chromobacterium sp. Panama contributes to mortality in Anopheles gambiae mosquito larvae</article-title>
+					<source>Scientific Reports</source>
+					<volume>8</volume>
+					<pub-id pub-id-type="art-access-id">8358</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Sreevidya, M., Gopalakrishnan, S., Kudapa, H. and Varshney, R.K. 2016. Exploring plant growth-promotion actinomycetes from vermicompost and rhizosphere soil for yield enhancement in chickpea. Brazilian Journal of Microbiology. 47: 85-95.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sreevidya</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Gopalakrishnan</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Kudapa</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Varshney</surname>
+							<given-names>R.K</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Exploring plant growth-promotion actinomycetes from vermicompost and rhizosphere soil for yield enhancement in chickpea</article-title>
+					<source>Brazilian Journal of Microbiology</source>
+					<volume>47</volume>
+					<fpage>85</fpage>
+					<lpage>95</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Vargas Hoyos, H.A., Chiaramonte, J.B., Barbosa-Casteliani, A.G., Fernandez Morais, J., Perez-Jaramillo, J.E., Nobre Santos, S., Nascimento Queiroz, S.C. and Soares Melo, I. 2021. An Actinobacterium strain from soil of Cerrado promotes phosphorus solubilization and plant growth in soybean plants. Fronters in Bioengineering and Biotechnology. 9: 219.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vargas Hoyos</surname>
+							<given-names>H.A.</given-names>
+						</name>
+						<name>
+							<surname>Chiaramonte</surname>
+							<given-names>J.B.</given-names>
+						</name>
+						<name>
+							<surname>Barbosa-Casteliani</surname>
+							<given-names>A.G.</given-names>
+						</name>
+						<name>
+							<surname>Fernandez Morais</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Perez-Jaramillo</surname>
+							<given-names>J.E.</given-names>
+						</name>
+						<name>
+							<surname>Nobre Santos</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Nascimento Queiroz</surname>
+							<given-names>S.C.</given-names>
+						</name>
+						<name>
+							<surname>Soares Melo</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>An Actinobacterium strain from soil of Cerrado promotes phosphorus solubilization and plant growth in soybean plants</article-title>
+					<source>Fronters in Bioengineering and Biotechnology</source>
+					<volume>9</volume>
+					<issue>219</issue>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Vatsa-Portugal, P., Aziz, A., Rondeau, M., Villaume, S., Morjani, H., Clément, C. and Ait Barka, E. 2017. How <italic>Streptomyces anulatus</italic> primes grapevine defenses to cope with gray mold: A study of the early responses of cell suspensions. Frontiers in Plant Science. 8: 1043.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vatsa-Portugal</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Aziz</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Rondeau</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Villaume</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Morjani</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Clément</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Ait Barka</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>How Streptomyces anulatus primes grapevine defenses to cope with gray mold: A study of the early responses of cell suspensions</article-title>
+					<source>Frontiers in Plant Science</source>
+					<volume>8</volume>
+					<issue>1043</issue>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Vijayabharanthi, R., Kumari, B.R., Sathya, A., Srinivas, V., Abhishek, R., Sharma, H.C. and Gopalakrishnan, S. 2014. Biological activity of entomopathogenic actinomycetes against lepidopteran insects (Noctuidae: Lepidoptera). Canadian Journal of Plant Science. 94: 759-769.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vijayabharanthi</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Kumari</surname>
+							<given-names>B.R.</given-names>
+						</name>
+						<name>
+							<surname>Sathya</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Srinivas</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Abhishek</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Sharma</surname>
+							<given-names>H.C.</given-names>
+						</name>
+						<name>
+							<surname>Gopalakrishnan</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Biological activity of entomopathogenic actinomycetes against lepidopteran insects (Noctuidae: Lepidoptera)</article-title>
+					<source>Canadian Journal of Plant Science</source>
+					<volume>94</volume>
+					<fpage>759</fpage>
+					<lpage>769</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Vlassi, A., Nesler, A., Parich, A., Puopolo, G. and Schuhmacher, R. 2020. Volatile-mediated inhibitory activity of rhizobacteria as a result of multiple factors interaction: The case of <italic>Lysobacter capsici</italic> AZ78. Microorganisms. 8: 1761.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vlassi</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Nesler</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Parich</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Puopolo</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Schuhmacher</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Volatile-mediated inhibitory activity of rhizobacteria as a result of multiple factors interaction: The case of Lysobacter capsici AZ78</article-title>
+					<source>Microorganisms</source>
+					<volume>8</volume>
+					<issue>1761</issue>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Vurukonda, S.S.K.P., Giovanadri, D. and Stefani, E. 2021. Growth promotion and biocontrol activity of endophytic <italic>Streptomyces</italic> spp. Prime Archives in Molecular Sciences, 2nd Edition, 1, 1-55.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vurukonda</surname>
+							<given-names>S.S.K.P.</given-names>
+						</name>
+						<name>
+							<surname>Giovanadri</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Stefani</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<chapter-title>Growth promotion and biocontrol activity of endophytic Streptomyces spp</chapter-title>
+					<source>Prime Archives in Molecular Sciences</source>
+					<edition>2nd Edition</edition>
+					<issue-part>1</issue-part>
+					<issue-part>1-55</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>Widawati, S. 2020. Isolation of indole acetic acid (IAA) producing <italic>Bacillus siamensis</italic> from peat and optimization of the culture conditions for maximum IAA production. In <italic>IOP Conference Series: Earth and Environmental Science</italic>, <italic>572</italic>, 012025.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Widawati</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Isolation of indole acetic acid (IAA) producing Bacillus siamensis from peat and optimization of the culture conditions for maximum IAA production</article-title>
+					<source>IOP Conference Series: Earth and Environmental Science</source>
+					<issue>572</issue>
+					<pub-id pub-id-type="art-access-id">012025</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<mixed-citation>Zhang, Y., Wang, S., Wang, H., Ning, F., Zhang, Y., Dong, Z., Wen, P., Wang, R., Wang, X. and Li, J. 2018. The effects of rotating conservation tillage with conventional tillage on soil properties and grain yields in winter wheat-spring maize rotations. Agricultural and Forest Meteorology. 263: 107-117.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Ning</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Dong</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Wen</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>The effects of rotating conservation tillage with conventional tillage on soil properties and grain yields in winter wheat-spring maize rotations</article-title>
+					<source>Agricultural and Forest Meteorology</source>
+					<volume>263</volume>
+					<fpage>107</fpage>
+					<lpage>117</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

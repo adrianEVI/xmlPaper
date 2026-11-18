@@ -1,0 +1,2461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2633</article-id>
+			<article-id pub-id-type="other">00205</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Botanical extracts with biostimulant potential for agriculture in Mexico: a review</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Extractos botánicos con potencial bioestimulante para la agricultura en México: una revisión</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-6207-445X</contrib-id>
+					<name>
+						<surname>Espinosa-Antón</surname>
+						<given-names>Adrian Alejandro</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-8753-3138</contrib-id>
+					<name>
+						<surname>Hernández-Herrera</surname>
+						<given-names>Rosalba Mireya</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-2784-322X</contrib-id>
+					<name>
+						<surname>Pizano-Andrade</surname>
+						<given-names>Juan Carlos</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-5292-3099</contrib-id>
+					<name>
+						<surname>Salcedo-Perez</surname>
+						<given-names>Eduardo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">University Center of Biological and Agricultural Sciences, University of Guadalajara. Camino Ramón Padilla Sánchez No. 2100, C.P. 45200, Zapopan, Jalisco, Mexico. aeanton9407@gmail.com, rosalmir@yahoo.com, pizanjc@gmail.com, eduardo.salcedo@academicos.udg.mx</institution>
+					<institution content-type="normalized">Universidad de Guadalajara</institution>
+					<institution content-type="orgdiv1">University Center of Biological and Agricultural Sciences</institution>
+					<institution content-type="orgname">University of Guadalajara</institution>
+					<addr-line>
+						<postal-code>45200</postal-code>
+						<city>Zapopan</city>
+						<state>Jalisco</state>
+					</addr-line>
+					<country country="MX">Mexico</country>
+					<email>eduardo.salcedo@academicos.udg.mx</email>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Author for correspondence: Eduardo Salcedo-Perez e-mail: <email>eduardo.salcedo@academicos.udg.mx</email>, pizanjc@gmail.com</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>13</day>
+				<month>06</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2633</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>09</day>
+					<month>04</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>12</day>
+					<month>05</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>13</day>
+					<month>06</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>The main challenge facing the agricultural sector today is to ensure continued access to enough nutritious food with minimal environmental impact. Therefore, the search for sustainable and effective methods to stimulate crop yield and quality is a priority. Plants are emerging as an attractive local resource for biostimulant extracts due to their abundant biomass and high content of bioactive compounds. However, the factors that support the implementation of botanical extracts as alternative bioproducts to reduce dependence on agrochemicals are not yet fully understood. This review aimed to analyze the available information on the potential use of botanical extracts as biostimulants for Mexican agriculture. An updated overview of the definition and regulation of agricultural biostimulants worldwide and in Mexico is provided. In addition, research trends on the biostimulant properties of extracts derived from Mexican plants related to the species used as raw material, extraction methods, modes of application, and types of crops evaluated are analyzed. Finally, the effects and mechanisms of action of botanical extracts on crop plants are discussed, and future research needs to optimize their application in agricultural production.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>El reto principal del sector agrícola actualmente es garantizar el acceso constante a cantidades suficientes de alimentos nutritivos con un impacto ambiental mínimo. Por ende, la búsqueda de métodos sostenibles y eficaces para estimular el rendimiento y calidad de las cosechas representa una prioridad. Las plantas son recursos locales atractivos para la obtención de extractos bioestimulantes debido a su disponibilidad de biomasa y alto contenido en compuestos bioactivos. Sin embargo, la comprensión de los factores que sustentan la aplicación de los extractos botánicos como bioproductos alternativos para reducir la dependencia de los agroquímicos es aún limitada. El objetivo de esta revisión es analizar la información disponible sobre el uso potencial de los extractos botánicos como bioestimulantes para la agricultura mexicana. Se ofrece una visión general y actualizada de la definición y regulación de los bioestimulantes agrícolas en el mundo y en México. Además, se analizan las tendencias de la investigación sobre las propiedades bioestimulantes de los extractos derivados de plantas mexicanas relacionadas con las especies empleadas como materia prima, los métodos de extracción, las vías de aplicación y los tipos de cultivos evaluados. Finalmente, se discuten los efectos y mecanismos de acción de los extractos botánicos en los cultivos, así como las necesidades futuras de investigación para optimizar su implementación en la producción agrícola.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Sustainable agriculture</kwd>
+				<kwd>plant extracts</kwd>
+				<kwd>phenolic compounds</kwd>
+				<kwd>biostimulant regulation</kwd>
+				<kwd>abiotic stress tolerance</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Agricultura sostenible</kwd>
+				<kwd>extractos de plantas</kwd>
+				<kwd>compuestos fenólicos</kwd>
+				<kwd>regulación de bioestimulantes</kwd>
+				<kwd>tolerancia a estrés abiótico</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="4"/>
+				<table-count count="2"/>
+				<equation-count count="0"/>
+				<ref-count count="61"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>The production and productivity of the Mexican agricultural sector depend, among other factors, on the use of agrochemicals such as fertilizers and pesticides (<xref ref-type="bibr" rid="B17">DataMéxico, 2025</xref>). According to the 2019 National Agricultural Survey (ENA) 67.4 % of the sector’s production units used chemical fertilizers, and the remaining 24.4 % used natural fertilizers (<xref ref-type="bibr" rid="B29">INEGI, 2019</xref>). In Mexico, as in the rest of the world, the use of fertilizers is mainly concentrated in nitrogenous ones (65.3 %), followed by phosphorous fertilizers (16.1 %) and potassium fertilizers (18.6 %) (<xref ref-type="bibr" rid="B7">Banco de México, 2022</xref>).</p>
+			<p>For decades, the dependence on synthetic chemical inputs has significantly boosted food production. However, the inadequate application of these products has also generated harmful effects on human health and agroecosystems due to their high toxicity, rapid mobility in the soil, and high residuality in harvested products (<xref ref-type="bibr" rid="B44">Rouphael and Colla, 2020</xref>; <xref ref-type="bibr" rid="B12">Carvalho et al., 2021</xref>). Therefore, one of the fundamental challenges currently facing the agricultural sector is the implementation of new and efficient strategies that promote the sustainability of agroproductive systems (<xref ref-type="bibr" rid="B4">Ali et al., 2021</xref>; <xref ref-type="bibr" rid="B36">Martínez-Lorente et al., 2024</xref>). Also, the accelerated growth of the population has promoted the need to enhance the development and yield of crops to meet consumer demands in terms of quantity and quality (<xref ref-type="bibr" rid="B61">Zulfiqar et al., 2020</xref>; <xref ref-type="bibr" rid="B3">Akter et al., 2024</xref>).</p>
+			<p>In the search for sustainable solutions in agriculture, natural products derived from renewable raw materials emerge as a promising alternative (<xref ref-type="bibr" rid="B30">Jasso de Rodríguez et al., 2020</xref>; <xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>). Plant biostimulants comprise substances, compounds, and growth-promoting microorganisms that regulate or enhance plant-soil system processes (<xref ref-type="bibr" rid="B10">Calvo et al., 2014</xref>; <xref ref-type="bibr" rid="B44">Rouphael and Colla, 2020</xref>; <xref ref-type="bibr" rid="B45">Sanjuán et al., 2023</xref>). Nevertheless, despite the remarkable advances in biostimulant science in recent years, their definition, classification, and regulation continue to evolve. The importance of these bioproducts lies in their ability to enhance nutrient use efficiency and promote plant vigor, independently of their nutrient content and without directly affecting pest or disease control (<xref ref-type="bibr" rid="B58">Yakhin et al., 2017</xref>; <xref ref-type="bibr" rid="B16">Corsi et al., 2022</xref>). Therefore, the integration of biostimulant products into agricultural production systems has been demonstrated to promote desirable agronomic traits and help reduce the use of agrochemical inputs (<xref ref-type="bibr" rid="B11">Caradonia et al., 2019</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>).</p>
+			<p>However, to generalize the implementation of biostimulants in agriculture, it is important to consider the availability and accessibility of raw materials for processing (<xref ref-type="bibr" rid="B57">Xu and Geelen, 2018</xref>). In this context, there is growing interest in exploring the potential of botanical extracts as sources for novel biostimulant formulations. This interest stems from their high content of bioactive compounds, including polyphenols, phytohormones, organic acids, sterols, and terpenoids, as well as their availability from diverse and abundant raw materials, including weeds, invasive species, and agro-industrial byproducts (<xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). Moreover, the cost-effectiveness of their production by the same manufacturer underscores their economic viability (<xref ref-type="bibr" rid="B2">Ahmad et al., 2022</xref>; <xref ref-type="bibr" rid="B53">Velasco-Ramírez et al., 2022b</xref>).</p>
+			<p>Due to the novelty of this topic, understanding the factors that underpin the use of botanical extracts as alternative bioproducts, to improve agricultural production and reduce dependence on agrochemicals, is still limited. The main objective of the current review was to analyze the available scientific information on the potential use of botanical extracts as biostimulants for Mexican agriculture. In particular, this review provides an updated overview of the definition and regulation of agricultural biostimulants worldwide and in Mexico. Furthermore, it examines current research trends on botanical extracts, focusing on the species used as raw materials, extraction methods, modes of application, and the types of crops evaluated. Finally, the effects and mechanisms of action of botanical extracts on plants are discussed, along with future research needs to optimize their application in agricultural production.</p>
+			<sec>
+				<title>Global and Mexican context of plant biostimulants</title>
+				<p>Although interest in biostimulants in agriculture began in the second half of the twentieth century, in recent years it has experience exponential growth, consolidating itself as an innovative tool to improve the production and productivity of crops (<xref ref-type="bibr" rid="B2">Ahmad et al., 2022</xref>; <xref ref-type="bibr" rid="B16">Corsi et al., 2022</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). Throughout history, plant biostimulants have received various names in the scientific literature, such as biogenic stimulants, plant strengtheners, metabolic enhancers, phytostimulants, positive plant growth regulators, growth promoters and biofertilizers, among others (<xref ref-type="bibr" rid="B58">Yakhin et al., 2017</xref>). However, there is no single, universally accepted definition of the term “plant biostimulant” (<xref ref-type="bibr" rid="B45">Sanjuán et al., 2023</xref>).</p>
+				<p>This lack of consensus is due to multiple factors, among which the following stand out: (1) heterogeneity in their sources of production, elaboration processes, and composition; (2) the difficulty in elucidating its mode of action; (3) similarities with other categories of agricultural products regulated under existing regulations; (4) the variability in regulatory frameworks between countries and regions; (5) the commercial interests of large companies that dominate the agrochemical market and; (6) the progressive advancement of scientific knowledge about the nature of its effects on the different components of the plant-soil systems (<xref ref-type="bibr" rid="B58">Yakhin et al., 2017</xref>; <xref ref-type="bibr" rid="B16">Corsi et al., 2022</xref>; Sanjuán <italic>et al</italic>., 2024).</p>
+				<p>Despite this context, the academic community agrees that biostimulants are substances and microorganisms that, when applied at low concentrations to plants, seeds, or the rhizosphere, stimulate natural processes that improve or benefit nutrient absorption, nutritional efficiency, tolerance to abiotic stress, growth, productivity, and/or crop quality regardless of their nutrient content (<xref ref-type="bibr" rid="B20">du Jardin, 2015</xref>; <xref ref-type="bibr" rid="B58">Yakhin et al., 2017</xref>; Zulfiqar <italic>et al</italic>., 2019; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>; Sanjuán <italic>et al</italic>., 2024). By extension, products containing mixtures of such substances and/or microorganisms are also recognized as plant biostimulants (<xref ref-type="bibr" rid="B20">du Jardin, 2015</xref>).</p>
+				<p>One of the most supported premises is that the recognition of a product as a plant biostimulant should focus on its agricultural functions, rather than on the nature of its components or its modes of action, as these can originate from multiple sources (<xref ref-type="bibr" rid="B42">Ricci et al., 2019</xref>; Sanjuán <italic>et al</italic>., 2024). These include humic substances, animal and plant protein hydrolysates, algae and plant extracts, biochemicals, beneficial microorganisms, and agroindustrial residues (<xref ref-type="bibr" rid="B58">Yakhin et al., 2017</xref>). More recently, a trend has been to classify this wide diversity into microbial and non-microbial biostimulants (<xref ref-type="bibr" rid="B16">Corsi et al., 2022</xref>).</p>
+				<p>Commercial biostimulants may include compounds not naturally present in the feedstock (<xref ref-type="bibr" rid="B58">Yakhin et al., 2017</xref>; Sanjuán <italic>et al</italic>., 2024). Adding to the lack of a clear definition and consistent criteria that distinguish biostimulants, this situation generates confusion with other agricultural formulations such as fertilizers and growth regulators (<xref ref-type="bibr" rid="B16">Corsi et al., 2022</xref>). To address this problem, it is essential to establish a regulatory framework that guarantees the quality, efficacy, and safety of biostimulants at the national and regional levels (<xref ref-type="bibr" rid="B58">Yakhin <italic>et al</italic>., 2017</xref>; <xref ref-type="bibr" rid="B42">Ricci et al., 2019</xref>).</p>
+				<p>In this sense, the European Union established the “Regulation (EU) 2019/1009 of the European Parliament and the Council”, which is the first legislative text that provides a legal framework for the marketing of biostimulant products (<xref ref-type="bibr" rid="B22">European Union, 2019</xref>). On the other hand, in the United States, despite significant progress in defining and proposing a bill with the backing of regulatory agencies and industry, there is still no federal or state regulation for these products (<xref ref-type="bibr" rid="B25">GPO, 2023</xref>). There are no specific legal provisions for plant biostimulants in other countries such as India, South Africa, Canada, and Brazil. Instead, these products are indirectly regulated under national laws that address other agricultural inputs (<xref ref-type="bibr" rid="B11">Caradonia et al., 2019</xref>).</p>
+				<p>In Mexico, despite the wide availability of both national and imported biostimulants in the agricultural market, current legislation lacks specific regulations for their production, labeling, and commercialization. In the absence of a legal definition of “plant biostimulant”, they are intended to be regulated under other categories recognized in the Norma Oficial Mexicana NOM-077-FITO-2000, which establishes the specifications, criteria, and procedures to regulate studies of the biological effectiveness of plant nutrition inputs for agricultural use (<xref ref-type="bibr" rid="B18">DOF, 2020</xref>). Biological effectiveness results from applying a plant nutrition input, which can be said to have a biostimulant effect if it improves nutritional uptake efficiency, abiotic stress tolerance, and/or crop quality (<xref ref-type="bibr" rid="B20">DOF, 2020</xref>). These inputs are highly diverse and include:</p>
+				<p><italic>Inoculant</italic>: Plant nutrition input made from microorganisms that, when applied, favors the use of nutrients in association with the plant or its rhizosphere.</p>
+				<p><italic>Organic soil improvers</italic>: plant nutrition inputs made from organic products or microorganisms that favorably modify the physical, chemical, or biological conditions of the soil for the best plant development.</p>
+				<p><italic>Type 1 growth regulators</italic>: Growth regulators are based on substances found naturally in plant tissues, whether obtained by extraction, fermentation, synthesis, or other methods. These types of regulators are also known as phytohormones or plant hormones.</p>
+				<p><italic>Type 2 growth regulators</italic>: Products based on substances obtained by synthesis and not found naturally in the plant.</p>
+				<p>However, these definitions do not fully capture the diverse and multifunctional nature of plant biostimulants. In addition, when analyzing these definitions, it can be observed that establishing an exclusive regulation for biostimulants would be complicated due to the overlaps in their composition and modes of action with some existing categories. For example, botanical or algae extracts are complex mixtures of different bioactive compounds, including plant hormones and their precursors or intermediates. This raises the question of whether they should be classified as type 1 growth regulators since they contain phytohormones, or if they should be considered biostimulants as they include substances other than phytohormones. Therefore, fostering a clear and accurate understanding of plant biostimulants is crucial to promote their adoption as sustainable alternatives to agrochemicals. Addressing this challenge requires coordinated efforts among academic institutions, industry stakeholders, and regulatory agencies to update and harmonize existing legislation.</p>
+			</sec>
+			<sec>
+				<title>Analysis of research on the use of botanical extracts as biostimulants in México</title>
+				<p>In México, just over 25,000 species of vascular plants have been documented, representing approximately 9.1 % of all known species worldwide. These figures position the country among the five nations with the most incredible wealth of vascular plants (<xref ref-type="bibr" rid="B47">SEMARNAT, 2012</xref>). Therefore, one of the promising strategies to promote economic and environmental sustainability in Mexican agriculture is using local plant species as a source of bioactive compounds with biostimulant activity.</p>
+			</sec>
+			<sec>
+				<title>Evolution of scientific production</title>
+				<p>From 2008 to date, 15 original articles by Mexican authors have been published evaluating the use of botanical extracts as plant biostimulants. Of the total scientific production analyzed, 73 % corresponds to the years 2022 (14 %), 2023 (36 %) and 2024 (27 %). In contrast, between 2008 and 2021, the number of publications on this topic remained constant (<xref ref-type="fig" rid="f1">Figure 1</xref>). The increase observed in recent years reflects an increased visibility of research that uses extracts obtained from plants as a source of biologically active substances to enhance crop growth, development, and productivity.</p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="en">
+						<label>Figure 1</label>
+						<caption>
+							<title>Articles published by Mexican authors on the use of botanical extracts as biostimulants for agriculture. Data for the first months of 2025 are not represented.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 1.</label>
+	<caption>
+	<title>Artículos publicados por autores mexicanos sobre el uso de extractos botánicos como bioestimulantes en agricultura. Datos para los primeros meses de 2025 no están representados.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2633-gf1.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>This growing interest in the topic can be attributed to the remarkable global boom in plant biostimulants over the past decade, which have established themselves as innovative alternatives to synthetic chemical fertilizers to address the challenges of sustainable agriculture (Zulfiqar et <italic>al</italic>., 2019; <xref ref-type="bibr" rid="B2">Ahmad et al., 2022</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). Mexico is among the 10 countries with the highest production of scientific articles regarding the benefits of the use of biostimulants in agricultural production systems (<xref ref-type="bibr" rid="B16">Corsi et al., 2022</xref>), with special emphasis on research related to botanical extracts (Carvalho <italic>et al</italic>., 2022).</p>
+				<p>Also, nine scientific journals were identified that published articles included in this review, predominantly those edited by Mexican institutions. Among the Mexican journals, <italic>Biotecnia</italic> and <italic>Ecosistemas y Recursos Agropecuarios</italic> stands out for concentrating 53 % of the scientific production on the potential of plant extracts as biostimulants in agriculture. Both journals are included in the Emerging Sources Citation Index (ESCI), which is part of the primary collection of the Web of Science, and the SCIELO Citation Index, another database integrated into this same scientific information platform.</p>
+			</sec>
+			<sec>
+				<title>Plants as raw material for biostimulant extracts</title>
+				<p>The research analyzed highlights the biostimulant properties of extracts from 22 plant species originating from diverse habitats, including semiarid zones, disturbed vegetation, halophytic grasslands, and freshwater ecosystems. These species represent approximately 0.1 % of the vascular plant diversity reported in Mexico (<xref ref-type="bibr" rid="B47">SEMARNAT, 2012</xref>). The analyzed species belong to 14 botanical families, with Asteraceae and Anacardaceae being the most represented, accounting for 23 % and 18 % of the total species, respectively (<xref ref-type="fig" rid="f2">Figure 2A</xref>).</p>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="en">
+						<label>Figure 2</label>
+						<caption>
+							<title>(A) Number of species evaluated by botanical family, (B) Main species evaluated as a source of biostimulant extracts, and (C) Percentage of the species studied according to their biogeographical status in México.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 2.</label>
+	<caption>
+	<title>(A) Número de especies evaluadas por familia botánica, (B) Principales especies evaluadas como fuente de extractos bioestimulantes y (C) Porcentaje de especies estudiadas de acuerdo a su estado migratorio en México.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2633-gf2.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>On the other hand, <italic>Rhus muelleri</italic> Standl. and F.A. Barkley is positioned as the most researched species as a source of extracts with biostimulant properties in agriculture, representing 27 % of the articles analyzed (<xref ref-type="fig" rid="f2">Figure 2B</xref>). Other prominent species include <italic>Flourensia microphylla</italic> S.F. Blake, <italic>Flourensia retinophylla</italic> S.F. Blake and <italic>Verbesina sphaerocephala</italic> A. Gray ex S.Wats., which were the subject of study in 20 % of the studies (<xref ref-type="fig" rid="f2">Figure 2B</xref>). <italic>Rhus virens</italic> Lindh. ex A. Gray and <italic>Moringa oleifera</italic> Lam. were represented in 13 % of the studies (<xref ref-type="fig" rid="f2">Figure 2B</xref>). The remaining set of species assessed includes <italic>Cenchrus echinatus</italic> L., <italic>Distichlis spicata</italic> L., <italic>Rhus trilobata</italic> Nutt., <italic>Amphipterygium glaucum</italic> (Hemsl. &amp; Rose) Hemsl. &amp; Rose ex Standl., <italic>Cucurbita foetidissima</italic> Kunth, <italic>Bacopa monnieri</italic> (L.) Wettst, <italic>Heliotropium curassavicum</italic> L., <italic>Flaveria trinervia</italic> (Spreng.) C. Mohr, <italic>Sesuvium verrucosum</italic> Raf., <italic>Maclura tinctoria</italic> (L.) D. Don ex Steud, <italic>Myriophyllum aquaticum</italic> (Vell.) Verdc., <italic>Jatropha dioica</italic> Cerv., <italic>Juglans mollis</italic> Engelm., <italic>Opuntia ficus-indica</italic> (L.) Mill., and <italic>Coriandrum sativum</italic> L. Each species represents 5 % of the studies included in this work.</p>
+				<p>The biogeographical status of the plant species reveals that 59 % are native and 27 % are endemic to Mexico (<xref ref-type="bibr" rid="B19">DOF, 2010</xref>) (<xref ref-type="fig" rid="f2">Figure 2C</xref>). The utilization of local flora as a source of bioactive extracts underscores the value of national resources, and opens new possibilities for discovery of compounds that stimulate plant growth (<xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>). In addition, using weeds as raw material for obtaining biostimulant extracts, as in the case of <italic>C. echinatus</italic>, could represent a promising strategy (<xref ref-type="bibr" rid="B28">Huez-Lopez et al., 2008</xref>; <xref ref-type="bibr" rid="B34">Leopardi-Verde et al., 2021</xref>).</p>
+				<p>In contrast, 14 % of the species evaluated are exotic (<xref ref-type="fig" rid="f2">Figure 2C</xref>), that is, those not native to Mexico and have been introduced intentionally or accidentally. Among these, <italic>M. aquaticum</italic> is classified as an invasive species (<xref ref-type="bibr" rid="B8">Bonilla-Barbosa and Santamaría, 2013</xref>), whose benefits in horticultural production were documented by <xref ref-type="bibr" rid="B56">Viveros-Legorreta et al. (2018)</xref>.</p>
+			</sec>
+			<sec>
+				<title>Methods of preparation</title>
+				<p>Botanical extracts are complex mixtures of primary and secondary metabolites whose biostimulant properties depend on various factors (<xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>). One of the key aspects is the selection of the plant biomass source used as a feedstock, which largely determines the chemical composition of the resulting extract (Zulfiqar <italic>et al</italic>., 2019; <xref ref-type="bibr" rid="B2">Ahmad et al., 2022</xref>). As shown in <xref ref-type="table" rid="t1">Table 1</xref>, the extracts evaluated in different studies as stimulants of crop growth and development are obtained from both whole plants and specific parts, including leaves, cladodes, or fruits. In addition, agricultural residues, often underutilized, represent valuable sources for obtaining plant-based biostimulants (<xref ref-type="bibr" rid="B28">Huez-López <italic>et al</italic>., 2008)</xref>.</p>
+				<p>
+					<table-wrap-group id="t1">
+	<table-wrap xml:lang="en">
+						<label>Table 1</label>
+						<caption>
+							<title>Summary of the methods for obtaining plant extracts as biostimulants.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 1.</label>
+		<caption>
+			<title>Resumen de métodos para la obtención de extractos de plantas como bioestimulantes.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Type of extraction </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>Method </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Solvent </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>Plant material </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>Biomass 
+    pretreatment </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>References </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Chemistry</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Organic solvent extraction</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Methanol</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Leaves and fruits</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Drying and crushing</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Jasso de Rodríguez <italic><italic>et al.</italic></italic> (2020; 2023; 2024a; 2024b)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Ethanol/ Acetone</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Leaves</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Fresh</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Brazales-Cevallos <italic>et al.</italic> (2022)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="5">Physics</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Water</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Young leaves</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Drying and crushing</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Velasco-Ramírez <italic>et al.</italic> (2021; 2022; 2023)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Mechanical extraction with    blender</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Water</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Leaves </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Fresh</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Brazales-Cevallos <italic>et al.</italic> (2022)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="2">Maceration</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Water</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Leaves</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Drying and crushing</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Garza-García <italic>et al.</italic> (2023)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Methanol</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Leaves and cladodes </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Fresh</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Moreno-Guerrero <italic>et al.</italic> (2024)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Ultrasound-assisted extraction</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Water</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Leaves</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Fresh</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Velázquez-Gamboa <italic>et al.</italic> (2024)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="2">Biological</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="2">Anaerobic fermentation</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Water</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Waste</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Fresh</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Huez-Lopez <italic>et al.</italic> (2008)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Water</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">The whole plant</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Fresh and segmented</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Alcalán-López <italic>et al.</italic> (2023)</td>
+  </tr>
+</tbody>
+</table>
+
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>Once the plant material has been selected, several biomass pretreatment steps must be carried out before extracting the bioactive compounds from the plant tissues (<xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>). The first step is to wash the collected material several times with tap water to remove surface impurities (<xref ref-type="bibr" rid="B2">Ahmad et al., 2022</xref>). The biomass intended for extraction can then be used in its fresh state or subjected to drying processes (<xref ref-type="table" rid="t1">Table 1</xref>). These processes can be carried out at room temperature (~26 °C) in the laboratory (<xref ref-type="bibr" rid="B52">Velasco-Ramírez et al., 2021</xref>; <xref ref-type="bibr" rid="B51">2022a</xref>) or at low temperatures (-80 °C) by freeze-drying to preserve the properties of the compounds present in the extract (e.g., polyphenols and flavonoids) (<xref ref-type="bibr" rid="B23">Garza-García et al., 2023</xref>). The dried plant material is then crushed and screened to obtain a homogeneous sample and increase the surface-to-volume ratio (<xref ref-type="bibr" rid="B39">Michalak and Chojnacka, 2014</xref>). In most studies, the crushing stage is not described in detail, although it is usually done with the help of an electric mill or mixer.</p>
+				<p>Several methods exist to obtain biostimulant extracts from plant biomass (<xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). However, the method and solvent selection are essential to ensure a high yield of the bioactive compounds of interest and preserve their integrity and properties (<xref ref-type="bibr" rid="B39">Michalak and Chojnacka, 2014</xref>; <xref ref-type="bibr" rid="B2">Ahmad et al., 2022</xref>). In addition, identifying an economical, simple, effective, and environmentally friendly method for preparing biostimulants based on plant extracts is crucial to scaling up the process (<xref ref-type="bibr" rid="B39">Michalak and Chojnacka, 2014</xref>). The research analyzed in this study describes methods for extracting plant biomass that use various approaches (<xref ref-type="table" rid="t1">Table 1</xref>).</p>
+				<p>The 54 % of the studies used physical methods for the extraction of bioactive compounds, such as maceration, autoclaving, or ultrasound, which facilitates the release of these from plant tissue (<xref ref-type="bibr" rid="B53">Velasco-Ramírez et al., 2022a</xref>; <xref ref-type="bibr" rid="B23">Garza-García et al., 2023</xref>; <xref ref-type="bibr" rid="B40">Moreno-Guerrero et al., 2024</xref>; <xref ref-type="bibr" rid="B54">Velazquez-Gamboa et al., 2024</xref>). The choice of solvent is crucial for extraction efficiency (<xref ref-type="bibr" rid="B39">Michalak and Chojnacka, 2014</xref>). The 38 % of the research used organic solvents such as methanol, ethanol, and acetone, which selectively dissolve the compounds of interest (<xref ref-type="bibr" rid="B30">Jasso de Rodríguez et al., 2020</xref>; <xref ref-type="bibr" rid="B9">Brazales-Cevallos et al., 2022</xref>). The evaporation of these solvents ensures that the final extract is safe for crops application (<xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>; <xref ref-type="bibr" rid="B2">Ahmad et al., 2022</xref>).</p>
+				<p>In addition to the methods previously described, 15 % of the studies included in this work employed biological processes such as fermentation to obtain plant extracts with biostimulant activity. This method consists in inoculating fresh plant material with natural sources of microorganisms, such as manure, which are responsible for carrying out the fermentation process under anaerobic conditions (<xref ref-type="bibr" rid="B28">Huez-López <italic>et al</italic>., 2008</xref>; <xref ref-type="bibr" rid="B5">Alcalán-López et al., 2023</xref>). Microbial activity facilitates the release of bioactive compounds in the plant matrix and improves its chemical and functional properties, increasing its effectiveness in agricultural applications (<xref ref-type="bibr" rid="B41">Pérez-Alva et al., 2022</xref>).</p>
+				<p>In general, water-based extraction methods are the most common to produce botanical extracts for use in agriculture (<xref ref-type="table" rid="t1">Table 1</xref>). These extractions are simple and relatively inexpensive and dispense with the use of organic solvents, reducing toxicity and residue generation while improving crop yield and quality (<xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>; <xref ref-type="bibr" rid="B52">Velasco-Ramírez et al., 2021</xref>). However, using water as a solvent for specific compound extractions has disadvantages, as its low selectivity and extraction efficiency reduce the yield per unit of biomass used as feedstock (<xref ref-type="bibr" rid="B39">Michalak and Chojnacka, 2014</xref>).</p>
+			</sec>
+			<sec>
+				<title>Application into plants and seeds</title>
+				<p>The application method of botanical extracts determines their effectiveness as agricultural biostimulants (<xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). In this study, four methods for applying plant extracts in crops were identified and evaluated under various experimental conditions. These methods include seed treatment, direct application to plants or soil, and a combination of the latter approaches (<xref ref-type="fig" rid="f3">Figure 3</xref>).</p>
+				<p>
+					<fig-group id="f3">
+	<fig xml:lang="en">
+						<label>Figure 3</label>
+						<caption>
+							<title>Main applications of plant extracts in agriculture, and the experimental conditions evaluated in the articles published by Mexican authors during the study period. </title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 3.</label>
+	<caption>
+	<title>Principales aplicaciones de los extractos vegetales en agricultura, y las condiciones experimentales evaluadas en publicaciones por autores mexicanos durante el periodo de estudio.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2633-gf3.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>The 47 % of the studies explored the biostimulant effects of seed treatment by hydration with different concentrations of extracts. Of these, 27 % were performed in petri dishes under laboratory conditions, 7 % in germination trays or pots under greenhouse conditions, and 13 % in both experimental environments (<xref ref-type="fig" rid="f3">Figure 3</xref>). Also, direct application to plants by foliar spray accounted for 47 % of the research analyzed in this study, all of which were conducted under greenhouse conditions (<xref ref-type="fig" rid="f3">Figure 3</xref>).</p>
+				<p>These results highlight the potentialities of using botanical extracts by both application methods to promote desirable agronomic traits in crops. For example, seed priming with botanical extracts is consolidated as an effective preconditioning strategy, which optimizes germination capacity and promotes adequate seedling establishment (<xref ref-type="bibr" rid="B5">Alcalán-López et al., 2023</xref>; <xref ref-type="bibr" rid="B51">Velasco-Ramírez et al., 2022a</xref>; Carvalho <italic>et al</italic>., 2024; <xref ref-type="bibr" rid="B33">Jasso de Rodríguez et al., 2024b</xref>). On the other hand, foliar spraying allows an immediate interaction of the bioactive substances present in plant extracts with plant tissues, thanks to their rapid absorption through stomata and cuticles, which induces a direct response in crops (<xref ref-type="bibr" rid="B59">Youssef et al., 2022</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). This application method is most effective when it is performed in the morning, between 8:00 and 10:00 a.m., when the stomata remain open (<xref ref-type="bibr" rid="B31">Jasso de Rodríguez <italic>et al</italic>., 2023</xref>). Likewise, the complementary use of agricultural adjuvants contributes to optimizing the absorption of extracts through plant foliage (<xref ref-type="bibr" rid="B30">Jasso de Rodríguez <italic>et al</italic>., 2020</xref>).</p>
+				<p>The applications of botanical extracts by irrigation to the soil or to the growing substrate were evaluated in 34 % of the studies, 27 % in the greenhouse, and 7 % in the laboratory (<xref ref-type="fig" rid="f3">Figure 3</xref>). This method delivers plant extracts to the base of the crop, promoting root development and microbial activity in the rhizosphere (<xref ref-type="bibr" rid="B59">Youssef et al., 2022</xref>). However, bioactive substances can be adsorbed by soil particles or lost through leaching, limiting their bioavailability (<xref ref-type="bibr" rid="B37">Mattner et al., 2013</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). The combined application of botanical extracts to both plants and soil has been demonstrated to enhance their effectiveness (<xref ref-type="bibr" rid="B53">Velasco-Ramírez et al., 2022b</xref>). Only 7 % of studies have investigated this approach under greenhouse conditions (<xref ref-type="fig" rid="f3">Figure 3</xref>), underscoring the need for further research in this sense.</p>
+				<p>On the other hand, bioactive compounds in botanical extracts tend to oxidize or degrade over time, limiting the duration of their beneficial effects on plants (<xref ref-type="bibr" rid="B4">Ali et al., 2021</xref>). Therefore, applications should be every 7 to 14 days to obtain an optimal response in crops (<xref ref-type="bibr" rid="B9">Brazales-Cevallos et al., 2022</xref>; <xref ref-type="bibr" rid="B53">Velasco-Ramírez et al., 2022</xref>a; <xref ref-type="bibr" rid="B23">Garza-García et al., 2023</xref>; <xref ref-type="bibr" rid="B33">Jasso de Rodríguez et al., 2024a</xref>; <xref ref-type="bibr" rid="B40">Moreno-Guerrero et al., 2024</xref>). In addition, the efficacy of the extracts also depends on the developmental stage of the crop, with transplanting, flowering, and fruiting being key moments for their application (<xref ref-type="bibr" rid="B30">Jasso de Rodríguez <italic>et al</italic>., 2020</xref>; <xref ref-type="bibr" rid="B31">2023</xref>).</p>
+			</sec>
+			<sec>
+				<title>Crops evaluated with botanical extracts</title>
+				<p>The analyzed studies used 12 crop species as experimental models to evaluate the biostimulant properties of botanical extracts. Among these, horticultural crops were the most extensively studied, accounting for 67 % of the research included in this review. Cucumber (<italic>Cucumis sativus</italic> L.) was the most frequently studied crop, appearing in 27 % of the publications. Other key vegetables, such as tomato (<italic>Solanum lycopersicum</italic> L.) and lettuce (<italic>Lactuca sativa</italic> L.), were evaluated in 20 % of the studies. Bell pepper (<italic>Capsicum annuum</italic> L.) was addressed in 13 % of the publications, while carrot (<italic>Daucus carota</italic> L.) and radish (<italic>Raphanus sativus</italic> L.) were each featured in only 7 %.</p>
+				<p>This preference for leaf, root, or fruit vegetables is probably attributed to their short growth cycle, which facilitates the observation of rapid treatment responses. This group of crops has been recommended in NOM-077-FITO-2000 to carry out biological effectiveness studies of plant nutrition inputs (<xref ref-type="bibr" rid="B20">DOF, 2020</xref>). In addition, vegetables represent a fundamental part of agricultural production in Mexico, where approximately 20.3 % of arable areas are used for this type of crop (<xref ref-type="bibr" rid="B48">SIAP, 2024</xref>).</p>
+				<p>On the other hand, 7 % of the studies investigated the biostimulant effects of botanical extracts on fruit (<italic>Fragaria ananassa</italic> Duch.), ornamental (<italic>Catharanthus roseus</italic> L.), and medicinal (<italic>Calendula officinalis</italic> L.) crops. The remaining 20 % of the published articles included crops such as <italic>Salicornia bigelovii</italic> Torr., <italic>Stevia rebaudiana</italic> Bertoni, and <italic>Arabidopsis thaliana</italic> L., species with various agroindustrial and biological applications.</p>
+			</sec>
+			<sec>
+				<title>Biostimulant effects of botanical extracts</title>
+				<p>Several studies in recent years have demonstrated the positive effects of crude botanical extracts or their organic fractions on seed germination, vegetative growth, flowering, and fruiting of crops of commercial interest (<xref ref-type="bibr" rid="B30">Jasso de Rodríguez et al., 2020</xref>; <xref ref-type="bibr" rid="B52">Velasco-Ramírez et al., 2021</xref>; <xref ref-type="bibr" rid="B31">Jasso de Rodríguez <italic>et al</italic>., 2023</xref>; <xref ref-type="bibr" rid="B53">Velasco-Ramírez <italic>et al</italic>., 2022b</xref>; <xref ref-type="bibr" rid="B5">Alcalán-López et al., 2023</xref>; <xref ref-type="bibr" rid="B32">Jasso de Rodríguez <italic>et al</italic>., 2024a</xref>; <xref ref-type="bibr" rid="B40">Moreno-Guerrero et al., 2024</xref>; <xref ref-type="bibr" rid="B54">Velázquez-Gamboa <italic>et al</italic>., 2024</xref>; <xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). These processes are critical to agricultural production, directly impacting crop yield and quality (<xref ref-type="bibr" rid="B36">Martínez-Lorente et al., 2024</xref>). <xref ref-type="table" rid="t2">Table 2</xref> summarizes the biostimulant effects of Mexican plant extracts and the metabolites responsible for their biological activities.</p>
+				<p>
+					<table-wrap-group id="t2">
+	<table-wrap xml:lang="en">
+						<label>Table 2</label>
+						<caption>
+							<title>Biostimulant effects of extracts obtained from plants distributed in Mexico, and responsible metabolites identified in the study * or suggested from the literature **.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 2.</label>
+		<caption>
+			<title>Efectos bioestimulantes de extractos obtenidos de plantas distribuidas en México, y metabolitos responsables identificados en el estudio * o sugeridos en la literatura **.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 150px; background-color: #e6e7e8;"><bold>Plant source for extract </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>Responsible metabolites </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>Biostimulant effect </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>Plant evaluated </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>References </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Grasses</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Humic substances      **</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Improved seed germination and    radicle growth under salt stress</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Chili pepper</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Huez-López <italic><italic>et al.</italic></italic>, 2008)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Myriophyllum aquaticum </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Phenolic compounds      *</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Increased root elongation</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Lettuce</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Viveros-Legorreta <italic>et al.</italic>, 2018).</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Rhus trilobata, 
+      
+      
+    </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Rhus muelleri,</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Flourensia microphylla,</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Phenolic compounds      **</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Increased vegetative growth,    crop yield, and fruit quality</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Tomato</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Jasso de Rodríguez <italic>et al.</italic>, 2020)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Flourensia retinophylla, </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Cucurbita foetidissima </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Verbesina sphaerocephala </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Phenolic compounds      *</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Stimulated vegetative growth    and flowering</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Cucumber</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Velasco-Ramírez <italic>et al.</italic>, 2021)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Moringa oleifera </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Flavonoids, Amino Acids      **</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Induce tolerance to salinity</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Arabidopsis</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Brazales-Cevallos <italic>et al.</italic>, 2022)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Verbesina sphaerocephala 
+      Verbesina fastigiata </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Phenolic compounds      **</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Promoted seedling growth</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Tomato, cucumber</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Velasco-Ramírez <italic>et al.</italic>, 2022a)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Verbesina sphaerocephala, Verbesina fastigiata </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Phenolic compounds      **</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Increased vegetative growth,    flowering, and fruit production</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Strawberry</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Velasco-Ramírez <italic>et al.</italic>, 2022b)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Bacopa monieri, Distichlis spicata,    Heliotropium curasavicun, Flaveria    trinervia, Sesuvium verrucosum</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Not mentioned</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Increased germination    parameters</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Carrot, lettuce, radish, and    cucumber</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Alcalán López <italic>et al.</italic>, 2023)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;">Maclura tinctoria</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Phenolic compounds      *</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Stimulation of plant growth,    height, and flowering</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><italic>Salicornia bigelovii </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Corona <italic>et al.</italic>, 2023)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Amphipterygium glaucum </italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Flavonoids, polyphenols,    reducing sugars      *</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Improved vegetative    development, flower production, and photosynthetic pigment content</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Vinca, Calendula</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Garza-García <italic>et al.</italic>, 2023)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>R. muelleri, Rhus virens, F.    microphylla, F. retinophylla</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Phenolic compounds      **</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Promotion of growth, yield, and    fruit quality</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Bell pepper</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Jasso de Rodríguez <italic>et al.</italic>, 2023)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>R. muelleri, F. microphylla F. retinophylla</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Phenolic 
+      compounds      **</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Increased growth, yield, and    fruit quality</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Cucumber</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Jasso de Rodríguez <italic>et al.</italic>, 2024a)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>R. muelleri, R. virens, Jatropha    dioica, Juglans mollis</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Phenolic 
+      compounds      **</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Stimulated root, stem, and leaf    growth</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Tomato</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Jasso de Rodríguez <italic>et al.</italic>, 2024b)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Opuntia ficus-indica, Coriandrum sativum</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Phenolic compounds,    phytohormones      **</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Increased mineral nutrient    content</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Lettuce</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">(Moreno-Guerrero <italic>et al.</italic>, 2024)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><italic>Moringa oleifera </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Not mentioned</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Increased phenolic compounds    and glycosides content in leaves</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><italic>Stevia rebaudiana </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">(Velazquez-Gamboa <italic>et al.</italic>, 2024)</td>
+  </tr>
+</tbody>
+</table>
+
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Seed germination</title>
+				<p>Seed germination is a key stage for agricultural production because it marks the beginning of plant growth and largely determines crop yield (Carvalho <italic>et al</italic>., 2022). Therefore, it is important to implement natural strategies that ensure successful and uniform germination to obtain vigorous plants resistant to various environmental conditions (<xref ref-type="bibr" rid="B26">Gupta et al., 2022</xref>). Seed treatment (i.e., imbibition or soaking) with botanical extracts is a simple and effective technique to improve germination and stimulate seedling growth (<xref ref-type="bibr" rid="B36">Martínez-Lorente et al., 2024</xref>). However, the concentration of the extracts evaluated is a determining factor in their effectiveness as biostimulants (<xref ref-type="bibr" rid="B27">Han et al., 2024</xref>).</p>
+				<p>For example, liquid extracts obtained from different halophytes at 5 % increased the relative germination percentage, relative radicle growth, seedling length, and germination index of crops such as carrot (<italic>D. carota</italic>), lettuce (<italic>L. sativa</italic>), radish (<italic>R. sativus</italic>), and cucumber (<italic>C. sativus</italic>). High concentrations (20 %) significantly reduced these parameters (<xref ref-type="bibr" rid="B5">Alcalán-López et al., 2023</xref>). In another study, aqueous extracts of <italic>V. sphaerocephala</italic> and <italic>V. fastigiata</italic> at 0.5 % and 1.0 % adversely affected the germination percentage, mean germination time, and vigor index of tomato and cucumber seeds. However, they promoted the growth of leaves and seedling roots of these potted vegetables (Velasco-Ramírez <italic>et al</italic>., 2023). These authors suggested that <italic>Verbesina</italic> extracts contain allelopathic compounds that inhibit germination. On the other hand, <xref ref-type="bibr" rid="B33">Jasso de Rodríguez et al. (2024b)</xref>) reported the highest values of total plumule and radicle length, as well as the fresh weight of seedlings of two tomato varieties, at the lowest (75 mg mL<sup>-1</sup>) and highest (200 mg mL<sup>-1</sup>) concentrations of semi-desert plant extracts. </p>
+				<p>Also, the application of botanical extracts has been shown to improve the germination percentage and growth of bell pepper (<italic>C. annuum</italic>) and <italic>Arabidopsis thaliana</italic> seedlings under salinity stress conditions (<xref ref-type="bibr" rid="B28">Huez-Lopez et al., 2008</xref>; <xref ref-type="bibr" rid="B9">Brazales-Cevallos et al., 2022</xref>). In general, the variability in observed effects across studies can be attributed to differences in extract type, the plant species or cultivar evaluated, and the experimental conditions (Carvalho <italic>et al</italic>., 2022). </p>
+			</sec>
+			<sec>
+				<title>Crop growth and productivity</title>
+				<p>Enhancing crop morphology and physiology during the growth phase is associated with increased productivity, which is the primary objective of agricultural production (<xref ref-type="bibr" rid="B61">Zulfiqar et al., 2020</xref>). Appropriate treatment with botanical extracts at different phenological stages of crops has positive effects on growth and productivity parameters (<xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). </p>
+				<p>In a study, extracts of <italic>R. muelleri</italic> and <italic>J. dioica</italic> stimulated root and aerial growth of tomato seedlings under greenhouse conditions, more than commercial rooting products (<xref ref-type="bibr" rid="B33">Jasso de Rodríguez et al., 2024b</xref>). Similarly, another study reported that the application of botanical extracts increased stem length and diameter, as well as leaf dry weight, in tomato plants. Moreover, the extract of <italic>R. muelleri</italic> showed greater efficacy in increasing the number, weight, and yield of tomatoes, reaching values similar to those obtained with the bioregulator 6-benzylaminopurine (<xref ref-type="bibr" rid="B30">Jasso de Rodríguez <italic>et al</italic>., 2020</xref>). Likewise, applying <italic>F. retinophylla</italic> extract to bell pepper plants has stimulated longitudinal stem growth and enhanced total dry matter accumulation and root volume. This, in turn, increased fresh weight, volume, and yield of pepper fruit (<xref ref-type="bibr" rid="B31">Jasso de Rodríguez <italic>et al</italic>., 2023</xref>).</p>
+				<p>The biostimulant effect of botanical extracts, whether applied individually or in combination, has also been demonstrated to improve growth parameters (e.g., plant height, leaf number, chlorophyll index, and biomass accumulation) and enhance the productivity of cucumber plants (<xref ref-type="bibr" rid="B52">Velasco-Ramírez et al., 2021</xref>; <xref ref-type="bibr" rid="B33">Jasso de Rodríguez et al., 2024a</xref>).</p>
+				<p>A study by <xref ref-type="bibr" rid="B53">Velasco-Ramírez et al. (2022b)</xref> found that extracts of <italic>V. sphaerocephala</italic> and <italic>V. fastigiata</italic> improved the growth (leaf width and length, crown number, and root length) and reproductive development (number of buds, flowers, and fruits) of strawberry plants grown in pots. On the other hand, the foliar application of nanoparticles synthesized from the methanolic extract of <italic>A. glaucum</italic> stimulated better vegetative development and increased the content of photosynthetic pigments in vinca (<italic>C. roseus</italic>) and calendula (<italic>C. officinalis</italic>) plants (<xref ref-type="bibr" rid="B23">Garza-García et al., 2023</xref>). In contrast, nopal (<italic>O. ficus-indica</italic>) and coriander (<italic>C. sativum)</italic> extracts did not positively affect the growth of lettuce plants (<xref ref-type="bibr" rid="B40">Moreno-Guerrero et al., 2024</xref>).</p>
+			</sec>
+			<sec>
+				<title>Tolerance of abiotic stress</title>
+				<p>In recent years, there has been a notable increase in the prevalence of abiotic stress conditions in agriculture, largely due to the effects of climate change (<xref ref-type="bibr" rid="B4">Ali et al., 2021</xref>; <xref ref-type="bibr" rid="B36">Martínez-Lorente et al., 2024</xref>). These situations induce physiological stress that can significantly reduce crop yields (<xref ref-type="bibr" rid="B2">Ahmad et al., 2022</xref>). The use of plant-derived biostimulants is emerging as a cost-effective and sustainable strategy to mitigate the effects of adverse environmental conditions on crops (<xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>; <xref ref-type="bibr" rid="B2">Ahmad <italic>et al</italic>., 2022</xref>; <xref ref-type="bibr" rid="B36">Martínez-Lorente <italic>et al</italic>., 2024</xref>). However, research on the potential of Mexican plant extracts to enhance abiotic stress tolerance is still in its early stages.</p>
+				<p>The study by <xref ref-type="bibr" rid="B28">Huez-Lopez et al. (2008)</xref> reported that <italic>C. echinatus</italic> extract, obtained by fermentation, improved seed germination percentage and the length of the radicle and hypocotyl of chili pepper (<italic>C</italic>. <italic>annuum</italic>) seedlings under salinity conditions. Likewise, <xref ref-type="bibr" rid="B9">Brazales-Cevallos et al. (2022)</xref> observed that <italic>M. oleifera</italic> leaf extracts induce tolerance to saline stress on <italic>A. thaliana</italic> seeds. This study offers significant insights into the mechanisms at the transcriptomic level underlying the protective effects of plant-based biostimulants during the initial stages of plant development.</p>
+			</sec>
+			<sec>
+				<title>Harvest quality</title>
+				<p>Ensuring access to sufficient, safe, and high-quality nutritious food to meet dietary needs represents one of the major challenges facing agriculture in the quest for food security. The quality of agricultural products is a key factor influencing their commercial value, consumer satisfaction, and the reduction of post-harvest losses (<xref ref-type="bibr" rid="B3">Akter et al., 2024</xref>). The concept of quality encompasses the physical appearance of the product (i.e., color, size, shape, firmness) as well as the organoleptic, nutritional and nutraceutical properties that determine its acceptability and health benefits (<xref ref-type="bibr" rid="B43">Reis et al., 2022</xref>). A recently recognized strategy for enhancing crop quality is the application of plant biostimulants (<xref ref-type="bibr" rid="B10">Calvo et al., 2014</xref>; <xref ref-type="bibr" rid="B44">Rouphael and Colla, 2020</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). In this regard, several studies included in this review highlight the potential of botanical extracts to improve various quality attributes, demonstrating their capacity to positively influence the characteristics of the final product.</p>
+				<p>The foliar application of extracts from plants native to the semiarid regions of northeastern Mexico resulted in tomato fruits (<italic>S. lycopersicum</italic>) with polar length, equatorial diameter, firmness, pH, total soluble solids (TSS), lycopene, and vitamin C content comparable to those obtained with the synthetic cytokinin 6-BAP (<xref ref-type="bibr" rid="B30">Jasso de Rodríguez et al., 2020</xref>). Similarly, foliar spraying of semi-desert plant extracts enhanced several quality attributes of bell peppers, including longitudinal and equatorial diameters, volume, TSS, anthocyanin, and vitamin C content. The values obtained were comparable to or exceeded, those obtained with commercial bioregulators (<xref ref-type="bibr" rid="B31">Jasso de Rodríguez <italic>et al</italic>., 2023</xref>). In another study, combining various botanical extracts improved several of the aforementioned quality parameters in cucumber fruits (<xref ref-type="bibr" rid="B33">Jasso de Rodríguez <italic>et al</italic>., 2024a</xref>). On the other hand, <italic>S. rebaudiana</italic> plants treated with nanoparticles synthesized from the aqueous extract of <italic>M. oleifera</italic> showed a higher leaf content of phenolic compounds (chlorogenic acid and caffeic acid) and glycosides (<xref ref-type="bibr" rid="B35">Velázquez-Gamboa <italic>et al</italic>., 2024</xref>). Moreover, foliar application of nopal and coriander extracts increased the concentration of macro and micronutrients in the lettuce leaf tissue (<xref ref-type="bibr" rid="B40">Moreno-Guerrero et al., 2024</xref>).</p>
+			</sec>
+			<sec>
+				<title>Mechanisms of biostimulatory activity</title>
+				<p>According to <xref ref-type="bibr" rid="B58">Yakhin et al. (2017)</xref>, the mode of action refers to the “specific effect on a discrete biochemical or regulatory process”, while the mechanism of action involves the “impact on general biochemical or molecular pathways or physiological processes”. The inherent chemical complexity of botanical extracts has thus far precluded the requisite level of characterization necessary to elucidate their specific modes of action. Therefore, their functions in plants are mainly inferred from the underlying mechanisms of action (<xref ref-type="bibr" rid="B36">Martínez-Lorente et al., 2024</xref>).</p>
+				<p>In this regard, the overall positive effects of the botanical extracts on plant growth and productivity are due to the modulation of various physiological and biochemical processes, such as (1) nutrient and water uptake, (2) photosynthetic activity, (3) modulation of phytohormones, (4) specialized and oxidative metabolism, (5) gene expression related to abiotic stress tolerance, and (6) plant architecture and phenology (<xref ref-type="bibr" rid="B61">Zulfiqar et al., 2020</xref>; <xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>; <xref ref-type="bibr" rid="B2">Ahmad et al., 2022</xref>; <xref ref-type="bibr" rid="B36">Martínez-Lorente et al., 2024</xref>). However, it should be clarified that the biostimulatory properties of botanical extracts on plant performance are not the result of a single bioactive compound, but of the coordinated and synergistic action of predominant compounds, such as polyphenols, phytohormones, amino acids, sterols, terpenoids, and vitamins (<xref ref-type="bibr" rid="B2">Ahmad e<italic>t al</italic>., 2022</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>; <xref ref-type="bibr" rid="B33">Jasso de Rodríguez et al., 2024a</xref>). Although some studies have reported the presence of micro- and macronutrients in plants-derived extracts (<xref ref-type="bibr" rid="B28">Huez-Lopez et al., 2008</xref>; <xref ref-type="bibr" rid="B53">Velasco-Ramírez et al., 2022b</xref>; <xref ref-type="bibr" rid="B5">Alcalán-López et al., 2023</xref>), their concentrations are often insufficient to induce physiological responses in plants at the doses commonly employed (<xref ref-type="bibr" rid="B27">Han <italic>et al</italic>., 2024</xref>). This observation suggests that organic constituents, rather than mineral elements, are primarily responsible for growth-stimulating activity.</p>
+				<p>Most of the studies analyzed in this review attribute the beneficial effects of extracts from Mexican plants to their phenolic compound content. These compounds represent one of the most abundant families of secondary plant metabolites and include phenolic acids, flavonoids, tannins, and others (<xref ref-type="bibr" rid="B38">Michalak et al., 2006</xref>; <xref ref-type="bibr" rid="B36">Martínez-Lorente et al., 2024</xref>). Recently, interest in phenolics has increased considerably due to their potential as biostimulants in agriculture (<xref ref-type="bibr" rid="B44">Rouphael and Colla, 2020</xref>). Phenolics act as potent antioxidants because they can scavenge reactive oxygen species, thus helping to maintain redox homeostasis and protect cells from oxidative damage under normal and stressful conditions (<xref ref-type="bibr" rid="B38">Michalak <italic>et al</italic>., 2006</xref>). Furthermore, they modulate the metabolism and transport of auxins and ethylene, thereby indirectly influencing the processes regulated by these phytohormones (<xref ref-type="bibr" rid="B46">Santner et al., 2009</xref>). For example, auxins are primarily associated with growth and development, while ethylene regulates maturation, senescence, and stress response (<xref ref-type="bibr" rid="B4">Ali et al., 2021</xref>). By the above, several studies on plant methanolic extracts in various horticultural crops have reported biostimulatory activity comparable to that of synthetic bioregulators, such as indoleacetic acid, gibberellic acid, and 6-benzylaminopurine (<xref ref-type="bibr" rid="B30">Jasso de Rodríguez et al., 2020</xref>; J<xref ref-type="bibr" rid="B32">asso de Rodríguez <italic>et al</italic>., 2024a</xref>; <xref ref-type="bibr" rid="B33">Jasso de Rodríguez <italic>et al</italic>., 2024b</xref>). In another study, moringa leaf extracts induced tolerance to salinity stress in <italic>A. thaliana</italic> seeds through the transcriptional activation of abscisic acid, salicylic acid, auxin, and ethylene-related signaling pathways (<xref ref-type="bibr" rid="B9">Brazales-Cevallos et al., 2022</xref>).</p>
+				<p>Additionally, phenolic compounds can stimulate photosynthesis, enhance CO<sub>2</sub> fixation, and regulate the stomatal opening/closing mechanism, promoting better plant adaptation to environmental conditions (<xref ref-type="bibr" rid="B21">Ertani et al., 2016</xref>; <xref ref-type="bibr" rid="B1">Agati et al., 2012</xref>; <xref ref-type="bibr" rid="B35">Martínez-Alonso <italic>et al</italic>., 2022</xref>). On the other hand, when applied to the soil, flavonoids can function as chelating agents for metal ions, enhancing their availability for plant nutrition (<xref ref-type="bibr" rid="B13">Cesco et al., 2012</xref>). Moreover, it has been proposed that flavonoids released into the rhizosphere stimulate the solubilization of inorganic phosphorus from the soil, allowing its plant uptake (<xref ref-type="bibr" rid="B49">Tomasi et al., 2008</xref>). These phenolic compounds have also been found to increase the expression of aquaporins in biological membranes, improving water uptake efficiency (<xref ref-type="bibr" rid="B35">Martinez-Alonso et al., 2022</xref>).</p>
+				<p>Another important role of phenolics is their participation in plant-microorganism interactions (<xref ref-type="bibr" rid="B6">Badri et al., 2009</xref>). It has been described that <italic>nod</italic> genes, which are activated in legumes during symbiosis with nitrogen-fixing bacteria, are stimulated by flavonoids acting as chemical signals that trigger their activation (<xref ref-type="bibr" rid="B14">Cooper, 2007</xref>). Furthermore, both flavonoids and some phenolic acids have been shown to interfere with quorum sensing, a microbial communication system used in symbiosis, defense, and other plant-microorganism interactions (Zhuang <italic>et al</italic>., 2005).</p>
+				<p>Finally, based on the scientific reports included in this work, we suggest that the bioactive compounds in botanical extracts can promote plant growth and increase plant productivity (yield and quality) through direct and indirect mechanisms of action. When absorbed through the leaves or roots, some compounds interact directly with plant metabolism and physiology. In contrast, others act indirectly by improving soil properties, enhancing the rhizospheric environment, and stimulating beneficial soil microbiota.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>Fundamental stages of plants bioprospecting for the production of biostimulants</title>
+			<p>Biostimulants derived from native plant extracts are currently experiencing a global surge in interest, aiming to valorize local natural resources to enhance agriculture and promote food sovereignty (<xref ref-type="bibr" rid="B24">Godlewska et al., 2021</xref>; <xref ref-type="bibr" rid="B27">Han et al., 2024</xref>). However, the studies analyzed in this review show that only a limited number of plant species in Mexico have been evaluated for this purpose. In this context, the systematic search for natural compounds and whole organisms with potential commercial value-known as bioprospecting-is a valuable tool for increasing our understanding of species with known biostimulant properties (<xref ref-type="bibr" rid="B50">Torres and Velho, 2009</xref>). In the context of this publication, a bioprospecting was focused on the identification and development of novel plant-derived bioactive compounds for use as agricultural biostimulants, and a methodology in two-phases was proposed. To achieve this, the integration of knowledge, technologies and processes is needed through schemes with systematic approaches and phases such as the one presented in <xref ref-type="fig" rid="f4">Figure 4</xref>.</p>
+			<p>Phase 1 focuses on the initial exploration and selection of species of interest with agricultural potential. The process starts with a judicious assessment of potential plant species, weighing their favourable attributes (such as abundance in the ecosystem, ease of access and their ability to thrive in challenging environmental conditions) against potential constraints, such as biomass yield or the stability of their compounds. Once a species has been pre-selected, the research is aimed at locating the metabolites of interest within the plant, commonly concentrated in the leaves. Priority is given to aqueous extraction methods due to their simplicity and applicability both in the laboratory and in the field, also incorporating a sustainability perspective when considering the use of residual biomass. Preliminary biological assays, such as germination tests or rapid growth models, are then performed to evaluate the biostimulant potential of the extracts obtained. This stage requires previously defining the key variables that will allow the effect to be measured, such as germination growth, and vigor parameters of the plants. It is important that bioprospecting studies consider the specifications of NOM-077-FITO-2000, which are mainly applicable in phase 1 of this strategy (<xref ref-type="fig" rid="f4">Figure 4</xref>). Once the exploratory phase is over, Phase 2 delves into scientific research and product development. It begins with an exhaustive chemical characterization of those extracts that showed promising activity, in order to identify the molecules responsible for the biostimulant effect. Accurate quantification of these active molecules, both in the extracts and in the original plant, is another crucial step in standardizing and understanding the dose-response. At the same time, it seeks to elucidate the underlying mechanisms of action, that is, how these molecules interact at a biochemical, physiological or genetic level in the plant. Subsequently, the research addresses the ways for the formulation of the product, will delve into the methods used to create or develop a product. At this point the research will explore the specific techniques, processes, and approaches involved in taking an idea and turning it into a tangible product up to sustainable and scalable production of the bioinput, exploring options such as the cultivation of the source species, the culture of plant tissues or even the organic synthesis of the identified molecules. Prior to final implementation, a rigorous cost-benefit analysis is performed to determine the economic viability of the technology. Finally, the process of registering intellectual property is contemplated to protect the innovation developed.</p>
+			<p>
+				<fig-group id="f4">
+	<fig xml:lang="en">
+					<label>Figure 4</label>
+					<caption>
+						<title>Phases of bioprospecting of plant species for the production biostimulants.</title>
+					</caption>
+					</fig>
+	<fig xml:lang="es">
+	<label>Figura 4.</label>
+	<caption>
+	<title>Fases de bioprospección de especies vegetales para la producción de bioestimulantes.</title>
+	</caption>
+					<graphic xlink:href="1665-1456-biotecnia-27-e2633-gf4.jpg"/>
+				</fig>
+				</fig-group>
+			</p>
+			<sec>
+				<title>Concluding remarks and research perspectives</title>
+				<p>Interest in plant biostimulants has increased significantly in recent years, driven by the need to adopt more sustainable and efficient agricultural practices. However, there are still several issues to be addressed, mainly related to their definition and regulation. In Mexico, the production, commercialization, and use of biostimulants in agriculture remain limited, partly due to the absence of a specific regulatory framework. Currently, these products attempt to be regulated indirectly through the Norma Oficial Mexicana NOM-077-FITO-2000, which focuses on plant nutrition inputs, such as organic soil improvers, inoculants, and type 1 and 2 growth regulators. Therefore, a coordinated effort between academia, government regulatory agencies, and industry is needed to harmonize current regulations and enhance farmers’ comprehension of the functions and benefits of biostimulants.</p>
+				<p>Among the diversity of raw materials recognized for biostimulant production, plants stand out for their accessibility, wide availability, and richness in primary and secondary metabolites with multiple biological functions. In this sense, the studies analyzed in this review support the biostimulant potential of extracts from plant species distributed in Mexico. However, despite the remarkable floristic richness of the country, few species have been studied for this purpose. In particular, the Asteraceae family concentrates the largest number of species evaluated in bioprospecting studies.</p>
+				<p>The application of botanical extracts to seeds, plants, or soil has been demonstrated to have positive effects on key processes such as germination, seedling vigor, vegetative growth, reproductive development, abiotic stress tolerance, as well as on crop yield and nutritional quality. Horticultural crops are among the most used experimental models in studies evaluating the biological effectiveness of botanical extracts, both under laboratory and greenhouse conditions. Most studies attribute the observed benefits to phenolic compounds, including phenolic acids and flavonoids. However, the efficacy of these extracts can be influenced by several factors, including the characteristics of the raw material (species, phenological stage, part of the plant), the extraction method (extraction technique and solvent), and the conditions of application to the plant (concentration, dose, frequency, and timing of application).</p>
+				<p>Although advances in the understanding of Mexican plant extracts highlight their potential as a promising strategy for sustainable crop management aimed at enhancing production and productivity, further research is still required. The exploration of new species with biostimulant properties, especially those native or endemic species with the ability to adapt to specific environmental conditions, would allow the identification of novel biological activities and bioactive compounds. Moreover, research on the mechanism of action requires the elucidation of the chemical compounds responsible for the effects observed in botanical extracts already studied, as well as a further understanding of the physiological, metabolic, and genomic modifications induced in plants. Likewise, to optimize the use of these bioproducts in agriculture, crop-specific research is needed to study in depth the duration of the effect after the application of the extract, the most appropriate phenological stages for its application and maximization of benefits, as well as the possibility of obtaining synergistic effects by combining extracts from different plant species or concentrations. Additional trials also should be conducted under field conditions to demonstrate the efficacy of these botanical formulations in natural settings, including abiotic stress situations. Finally, using advanced biotechnological tools, such as nanotechnology, can enhance the biostimulant properties of botanical extracts, improving their stability, bioavailability, and competitiveness against synthetic agro-inputs.</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>Conflicts of interest</title>
+			<p>The authors declare no conflict of interest.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>Agati, G., Azzarello, E., Pollastri, S. and Tattini, M. 2012. Flavonoids as antioxidants in plants: Location and functional significance. Plant Science. 196: 67-76. https://doi.org/10.1016/J.PLANTSCI.2012.07.014</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Agati</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Azzarello</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Pollastri</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Tattini</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Flavonoids as antioxidants in plants: Location and functional significance</article-title>
+					<source>Plant Science</source>
+					<volume>196</volume>
+					<fpage>67</fpage>
+					<lpage>76</lpage>
+					<pub-id pub-id-type="doi">10.1016/J.PLANTSCI.2012.07.014</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Ahmad, A., Blasco, B. and Martos, V. 2022. Combating salinity through natural plant extracts based biostimulants: A review. Frontiers in Plant Science. 13: 862034. https://doi.org/10.3389/fpls.2022.862034</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ahmad</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Blasco</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Martos</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Combating salinity through natural plant extracts based biostimulants: A review</article-title>
+					<source>Frontiers in Plant Science</source>
+					<volume>13</volume>
+					<pub-id pub-id-type="art-access-id">862034</pub-id>
+					<pub-id pub-id-type="doi">10.3389/fpls.2022.862034</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Akter, T., Bhattacharya, T., Kim, J.H., Kim, M.S., Baek, I., Chan, D.E. and Cho, B.K. 2024. A comprehensive review of external quality measurements of fruits and vegetables using nondestructive sensing technologies. Journal of Agriculture and Food Research. 15: 101068. https://doi.org/10.1016/J.JAFR.2024.101068</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Akter</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Bhattacharya</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Kim</surname>
+							<given-names>J.H.</given-names>
+						</name>
+						<name>
+							<surname>Kim</surname>
+							<given-names>M.S.</given-names>
+						</name>
+						<name>
+							<surname>Baek</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Chan</surname>
+							<given-names>D.E.</given-names>
+						</name>
+						<name>
+							<surname>Cho</surname>
+							<given-names>B.K</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>A comprehensive review of external quality measurements of fruits and vegetables using nondestructive sensing technologies</article-title>
+					<source>Journal of Agriculture and Food Research</source>
+					<volume>15</volume>
+					<pub-id pub-id-type="art-access-id">101068</pub-id>
+					<pub-id pub-id-type="doi">10.1016/J.JAFR.2024.101068</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Ali, O., Ramsubhag, A. and Jayaraman, J. 2021. Biostimulant properties of seaweed extracts in plants: Implications towards sustainable crop production. Plants. 10(531): 1-27. https://doi.org/10.3390/plants10030531</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ali</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Ramsubhag</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Jayaraman</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Biostimulant properties of seaweed extracts in plants: Implications towards sustainable crop production</article-title>
+					<source>Plants</source>
+					<volume>10</volume>
+					<issue>531</issue>
+					<fpage>1</fpage>
+					<lpage>27</lpage>
+					<pub-id pub-id-type="doi">10.3390/plants10030531</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Alcalán-López, L.Á., Lastiri-Hernández, M.A. and Álvarez-Bernal, D. 2023. Efecto de biofertilizantes líquidos, obtenidos a partir de halófitas, en la germinación y emergencia de cuatro especies de hortalizas (<italic>Daucus carota</italic> L., <italic>Lactuca sativa</italic> L., <italic>Raphanus sativus</italic> L. y <italic>Cucumis sativus</italic> L.). Biotecnia. 25(3): 197-207. https://doi.org/10.18633/biotecnia.v25i3.2127</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alcalán-López</surname>
+							<given-names>L.Á.</given-names>
+						</name>
+						<name>
+							<surname>Lastiri-Hernández</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Álvarez-Bernal</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Efecto de biofertilizantes líquidos, obtenidos a partir de halófitas, en la germinación y emergencia de cuatro especies de hortalizas (Daucus carota L., Lactuca sativa L., Raphanus sativus L. y Cucumis sativus L.)</article-title>
+					<source>Biotecnia</source>
+					<volume>25</volume>
+					<issue>3</issue>
+					<fpage>197</fpage>
+					<lpage>207</lpage>
+					<pub-id pub-id-type="doi">10.18633/biotecnia.v25i3.2127</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Badri, D.V., Weir, T.L., van der Lelie, D. and Vivanco, J. M. 2009. Rhizosphere chemical dialogues: plant-microbe interactions. Current Opinion in Biotechnology. 20(6): 642-650. https://doi.org/10.1016/J.COPBIO.2009.09.014</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Badri</surname>
+							<given-names>D.V.</given-names>
+						</name>
+						<name>
+							<surname>Weir</surname>
+							<given-names>T.L.</given-names>
+						</name>
+						<name>
+							<surname>van der Lelie</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Vivanco</surname>
+							<given-names>J. M</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Rhizosphere chemical dialogues: plant-microbe interactions</article-title>
+					<source>Current Opinion in Biotechnology</source>
+					<volume>20</volume>
+					<issue>6</issue>
+					<fpage>642</fpage>
+					<lpage>650</lpage>
+					<pub-id pub-id-type="doi">10.1016/J.COPBIO.2009.09.014</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Banco de México [accessed February 1, 2025]. 2022. Estimación de la exposición regional ante cambios en el mercado de fertilizantes nitrogenados. Available online at: <comment>Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.banxico.org.mx/publicaciones-y-prensa/reportes-sobre-las-economias-regionales/recuadros/%7B3F3D3D32-A106-FC6B-5746-0BC00AA60666%7D.pdf">https://www.banxico.org.mx/publicaciones-y-prensa/reportes-sobre-las-economias-regionales/recuadros/%7B3F3D3D32-A106-FC6B-5746-0BC00AA60666%7D.pdf</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Banco de México</collab>
+					</person-group>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-02-01">February 1, 2025</date-in-citation>
+					<year>2022</year>
+					<source>Estimación de la exposición regional ante cambios en el mercado de fertilizantes nitrogenados</source>
+					<comment>Available online</comment>
+					<comment>Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.banxico.org.mx/publicaciones-y-prensa/reportes-sobre-las-economias-regionales/recuadros/%7B3F3D3D32-A106-FC6B-5746-0BC00AA60666%7D.pdf">https://www.banxico.org.mx/publicaciones-y-prensa/reportes-sobre-las-economias-regionales/recuadros/%7B3F3D3D32-A106-FC6B-5746-0BC00AA60666%7D.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Bonilla-Barbosa, J.R. and Santamaría, B. 2013. Plantas acuáticas exóticas y traslocadas invasoras. En Especies acuáticas invasoras en México. R. Mendoza y P. Koleff (ed.), pp. 223-247. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad, México.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bonilla-Barbosa</surname>
+							<given-names>J.R.</given-names>
+						</name>
+						<name>
+							<surname>Santamaría</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<chapter-title>Plantas acuáticas exóticas y traslocadas invasoras</chapter-title>
+					<source>Especies acuáticas invasoras en México</source>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mendoza</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Koleff</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<fpage>223</fpage>
+					<lpage>247</lpage>
+					<publisher-name>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</publisher-name>
+					<publisher-loc>México</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Brazales-Cevallos, D.K., Romero-Contreras, Y.J., Vences-Guzmán, M.Á., Torres, M., Aviles-Baltazar, N.Y., Sohlenkamp, C., and Serrano, M. 2022. Transcriptional characterization of the biostimulant effect of <italic>Moringa oleifera</italic> leaf extracts using <italic>Arabidopsis thaliana</italic> as a model. South African Journal of Botany, 144, 250-256. https://doi.org/10.1016/j.sajb.2021.09.011</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Brazales-Cevallos</surname>
+							<given-names>D.K.</given-names>
+						</name>
+						<name>
+							<surname>Romero-Contreras</surname>
+							<given-names>Y.J.</given-names>
+						</name>
+						<name>
+							<surname>Vences-Guzmán</surname>
+							<given-names>M.Á.</given-names>
+						</name>
+						<name>
+							<surname>Torres</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Aviles-Baltazar</surname>
+							<given-names>N.Y.</given-names>
+						</name>
+						<name>
+							<surname>Sohlenkamp</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Serrano</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Transcriptional characterization of the biostimulant effect of Moringa oleifera leaf extracts using Arabidopsis thaliana as a model</article-title>
+					<source>South African Journal of Botany</source>
+					<volume>144</volume>
+					<fpage>250</fpage>
+					<lpage>256</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.sajb.2021.09.011</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Calvo, P., Nelson, L. and Kloepper, J.W. 2014. Agricultural uses of plant biostimulants. Plant and Soil. 383: 3-41. https://doi.org/10.1007/s11104-014-2131-8</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calvo</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Nelson</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Kloepper</surname>
+							<given-names>J.W</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Agricultural uses of plant biostimulants</article-title>
+					<source>Plant and Soil</source>
+					<volume>383</volume>
+					<fpage>3</fpage>
+					<lpage>41</lpage>
+					<pub-id pub-id-type="doi">10.1007/s11104-014-2131-8</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Caradonia, F., Battaglia, V., Righi, L., Pascali, G. and La Torre, A. 2019. Plant biostimulant regulatory framework: Prospects in Europe and current situation at international level. Journal of Plant Growth Regulation. 38: 438-448. https://doi.org/10.1007/s00344-018-9853-4</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Caradonia</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Battaglia</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Righi</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Pascali</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>La Torre</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Plant biostimulant regulatory framework: Prospects in Europe and current situation at international level</article-title>
+					<source>Journal of Plant Growth Regulation</source>
+					<volume>38</volume>
+					<fpage>438</fpage>
+					<lpage>448</lpage>
+					<pub-id pub-id-type="doi">10.1007/s00344-018-9853-4</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Carvalho, R. da S., Silva, M.A. da, Borges, M.T.M.R. and Forti, V.A. 2021. Plant extracts in agriculture and their applications in the treatment of seeds. Ciência Rural, 52(5), e20210245. https://doi.org/10.1590/0103-8478cr20210245 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carvalho</surname>
+							<given-names>R. da S.</given-names>
+						</name>
+						<name>
+							<surname>Silva</surname>
+							<given-names>M.A. da</given-names>
+						</name>
+						<name>
+							<surname>Borges</surname>
+							<given-names>M.T.M.R.</given-names>
+						</name>
+						<name>
+							<surname>Forti</surname>
+							<given-names>V.A</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Plant extracts in agriculture and their applications in the treatment of seeds</article-title>
+					<source>Ciência Rural</source>
+					<volume>52</volume>
+					<issue>5</issue>
+					<elocation-id>e20210245</elocation-id>
+					<pub-id pub-id-type="doi">10.1590/0103-8478cr20210245</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Cesco, S., Mimmo, T., Tonon, G., Tomasi, N., Pinton, R., Terzano, R., Neumann, G., Weisskopf, L., Renella, G., Landi, L. and Nannipieri, P. 2012. Plant-borne flavonoids released into the rhizosphere: Impact on soil bioactivities related to plant nutrition. A review. Biology and Fertility of Soils. 48(2): 123-149. https://doi.org/10.1007/s00374-011-0653-2</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cesco</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Mimmo</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Tonon</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Tomasi</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Pinton</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Terzano</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Neumann</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Weisskopf</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Renella</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Landi</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Nannipieri</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Plant-borne flavonoids released into the rhizosphere: Impact on soil bioactivities related to plant nutrition. A review</article-title>
+					<source>Biology and Fertility of Soils</source>
+					<volume>48</volume>
+					<issue>2</issue>
+					<fpage>123</fpage>
+					<lpage>149</lpage>
+					<pub-id pub-id-type="doi">10.1007/s00374-011-0653-2</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Cooper, J.E. 2007. Early interactions between legumes and rhizobia: disclosing complexity in a molecular dialogue. Journal of Applied Microbiology. 103(1): 1355-1365.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cooper</surname>
+							<given-names>J.E</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Early interactions between legumes and rhizobia: disclosing complexity in a molecular dialogue</article-title>
+					<source>Journal of Applied Microbiology</source>
+					<volume>103</volume>
+					<issue>1</issue>
+					<fpage>1355</fpage>
+					<lpage>1365</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Corona, B.E.L., Ocampo, A.G., Juárez, D.R., García, J.O., Fernández, I.M. and Puente, E.O.R. 2023. Biostimulant effect of chitosan and phenolic extracts on the phenological development of the halophyte <italic>Salicornia bigelovii</italic> (Torr.). Journal of the Saudi Society of Agricultural Sciences. 22(8): 584-590. https://doi.org/10.1016/j.jssas.2023.08.001</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Corona</surname>
+							<given-names>B.E.L.</given-names>
+						</name>
+						<name>
+							<surname>Ocampo</surname>
+							<given-names>A.G.</given-names>
+						</name>
+						<name>
+							<surname>Juárez</surname>
+							<given-names>D.R.</given-names>
+						</name>
+						<name>
+							<surname>García</surname>
+							<given-names>J.O.</given-names>
+						</name>
+						<name>
+							<surname>Fernández</surname>
+							<given-names>I.M.</given-names>
+						</name>
+						<name>
+							<surname>Puente</surname>
+							<given-names>E.O.R</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Biostimulant effect of chitosan and phenolic extracts on the phenological development of the halophyte Salicornia bigelovii (Torr.)</article-title>
+					<source>Journal of the Saudi Society of Agricultural Sciences</source>
+					<volume>22</volume>
+					<issue>8</issue>
+					<fpage>584</fpage>
+					<lpage>590</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jssas.2023.08.001</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Corsi, S., Ruggeri, G., Zamboni, A., Bhakti, P., Espen, L., Ferrante, A., Noseda, M., Varanini, Z. and Scarafoni, A. 2022. A bibliometric analysis of the scientific literature on biostimulants. Agronomy. 12(6): 1257. https://doi.org/10.3390/agronomy12061257 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Corsi</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ruggeri</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Zamboni</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Bhakti</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Espen</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Ferrante</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Noseda</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Varanini</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Scarafoni</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>A bibliometric analysis of the scientific literature on biostimulants</article-title>
+					<source>Agronomy</source>
+					<volume>12</volume>
+					<issue>6</issue>
+					<pub-id pub-id-type="art-access-id">1257</pub-id>
+					<pub-id pub-id-type="doi">10.3390/agronomy12061257</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>DataMéxico [accessed February 1, 2025]. 2025. Fabricación de fertilizantes, pesticidas y otros agroquímicos. Available online at: <comment>Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.economia.gob.mx/datamexico/es/profile/industry/pesticide-fertilizer-and-other-agricultural-chemical-manufacturing">https://www.economia.gob.mx/datamexico/es/profile/industry/pesticide-fertilizer-and-other-agricultural-chemical-manufacturing</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="database">
+					<person-group person-group-type="author">
+						<collab>DataMéxico</collab>
+					</person-group>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-02-01">February 1, 2025</date-in-citation>
+					<year>2025</year>
+					<source>Fabricación de fertilizantes, pesticidas y otros agroquímicos</source>
+					<comment>Available online</comment>
+					<comment>Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.economia.gob.mx/datamexico/es/profile/industry/pesticide-fertilizer-and-other-agricultural-chemical-manufacturing">https://www.economia.gob.mx/datamexico/es/profile/industry/pesticide-fertilizer-and-other-agricultural-chemical-manufacturing</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>DOF, Diario Oficial de la Federación. [accessed: January 30, 2025]. 2020. Norma Oficial Mexicana NOM-077-FITO-2000. Estudios de efectividad biológica en insumos de nutrición vegetal de uso agrícola y su Dictamen Técnico. Available online at: <comment>Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5592222&amp;fecha=24/04/2020#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5592222&amp;fecha=24/04/2020#gsc.tab=0</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>DOF, Diario Oficial de la Federación</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-30">January 30, 2025</date-in-citation>
+					<year>2020</year>
+					<article-title>Norma Oficial Mexicana NOM-077-FITO-2000. Estudios de efectividad biológica en insumos de nutrición vegetal de uso agrícola y su Dictamen Técnico</article-title>
+					<comment>Available online</comment>
+					<comment>Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/nota_detalle.php?codigo=5592222&amp;fecha=24/04/2020#gsc.tab=0">https://www.dof.gob.mx/nota_detalle.php?codigo=5592222&amp;fecha=24/04/2020#gsc.tab=0</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>DOF, Diario Oficial de la Federación. [accessed January 30, 2025]. 2010. NORMA Oficial Mexicana NOM-059-SEMARNAT-2010, Protección ambiental-Especies nativas de México de flora y fauna silvestres-Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio-Lista de especies en riesgo. Available online at: <comment>Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/normasOficiales/4254/semarnat/semarnat.htm">https://www.dof.gob.mx/normasOficiales/4254/semarnat/semarnat.htm</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>DOF, Diario Oficial de la Federación</collab>
+					</person-group>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-01-30">January 30, 2025</date-in-citation>
+					<year>2010</year>
+					<article-title>NORMA Oficial Mexicana NOM-059-SEMARNAT-2010, Protección ambiental-Especies nativas de México de flora y fauna silvestres-Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio-Lista de especies en riesgo</article-title>
+					<comment>Available online</comment>
+					<comment>Available online at: <ext-link ext-link-type="uri" xlink:href="https://www.dof.gob.mx/normasOficiales/4254/semarnat/semarnat.htm">https://www.dof.gob.mx/normasOficiales/4254/semarnat/semarnat.htm</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Du Jardin, P. 2015. Plant biostimulants: Definition, concept, main categories and regulation. Scientia Horticulturae. 196: 3-14. https://doi.org/10.1016/j.scienta.2015.09.021</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Du Jardin</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Plant biostimulants: Definition, concept, main categories and regulation</article-title>
+					<source>Scientia Horticulturae</source>
+					<volume>196</volume>
+					<fpage>3</fpage>
+					<lpage>14</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.scienta.2015.09.021</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Ertani, A., Pizzeghello, D., Francioso, O., Tinti, A. and Nardi, S. 2016. Biological activity of vegetal extracts containing phenols on plant metabolism. Molecules. 21(2): 205. https://doi.org/10.3390/MOLECULES21020205</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ertani</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Pizzeghello</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Francioso</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Tinti</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Nardi</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Biological activity of vegetal extracts containing phenols on plant metabolism</article-title>
+					<source>Molecules</source>
+					<volume>21</volume>
+					<issue>2</issue>
+					<pub-id pub-id-type="doi">10.3390/MOLECULES21020205</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>European Union. [accessed December 17, 2024]. 2019. Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the placing of EU fertilising products on the market and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003. Available at: <comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1009">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1009</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>European Union</collab>
+					</person-group>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-12-17">December 17, 2024</date-in-citation>
+					<year>2019</year>
+					<source>Regulation (EU) 2019/1009 of the European Parliament and of the Council of 5 June 2019 laying down rules on the placing of EU fertilising products on the market and amending Regulations (EC) No 1069/2009 and (EC) No 1107/2009 and repealing Regulation (EC) No 2003/2003</source>
+					<comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1009">https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1009</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Garza-García, J.J.O., Hernández-Díaz, J.A., León-Morales, J.M., Velázquez-Juárez, G., Zamudio-Ojeda, A., Arratia-Quijada, J., Reyes-Maldonado, O.K., López-Velázquez, J.C. and García-Morales, S. 2023. Selenium nanoparticles based on <italic>Amphipterygium glaucum</italic> extract with antibacterial, antioxidant, and plant biostimulant properties. Journal of Nanobiotechnology. 21: 252. https://doi.org/10.1186/s12951-023-02027-6</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Garza-García</surname>
+							<given-names>J.J.O.</given-names>
+						</name>
+						<name>
+							<surname>Hernández-Díaz</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>León-Morales</surname>
+							<given-names>J.M.</given-names>
+						</name>
+						<name>
+							<surname>Velázquez-Juárez</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Zamudio-Ojeda</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Arratia-Quijada</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Reyes-Maldonado</surname>
+							<given-names>O.K.</given-names>
+						</name>
+						<name>
+							<surname>López-Velázquez</surname>
+							<given-names>J.C.</given-names>
+						</name>
+						<name>
+							<surname>García-Morales</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Selenium nanoparticles based on Amphipterygium glaucum extract with antibacterial, antioxidant, and plant biostimulant properties</article-title>
+					<source>Journal of Nanobiotechnology</source>
+					<volume>21</volume>
+					<issue>252</issue>
+					<pub-id pub-id-type="doi">10.1186/s12951-023-02027-6</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Godlewska, K., Ronga, D. and Michalak, I. 2021. Plant extracts-importance in sustainable agriculture. Italian Journal of Agronomy. 16(2): 1851. https://doi.org/10.4081/ija.2021.1851</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Godlewska</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Ronga</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Michalak</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Plant extracts-importance in sustainable agriculture</article-title>
+					<source>Italian Journal of Agronomy</source>
+					<volume>16</volume>
+					<issue>2</issue>
+					<pub-id pub-id-type="art-access-id">1851</pub-id>
+					<pub-id pub-id-type="doi">10.4081/ija.2021.1851</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>GPO, United States Government Publishing Office. [accessed: December 20, 2024] 2023. To amend the Federal Insecticide, Fungicide, and Rodenticide Act to provide for a consistent definition for plant biostimulants. Available at: <comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://www.govinfo.gov/app/details/BILLS-118s802is">https://www.govinfo.gov/app/details/BILLS-118s802is</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>GPO, United States Government Publishing Office</collab>
+					</person-group>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-12-20">December 20, 2024</date-in-citation>
+					<year>2023</year>
+					<source>To amend the Federal Insecticide, Fungicide, and Rodenticide Act to provide for a consistent definition for plant biostimulants</source>
+					<comment>Available</comment>
+					<comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://www.govinfo.gov/app/details/BILLS-118s802is">https://www.govinfo.gov/app/details/BILLS-118s802is</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Gupta, S., Doležal, K., Kulkarni, M.G., Balázs, E. and Van Staden, J. 2022 Role of non-microbial biostimulants in regulation of seed germination and seedling establishment. Journal of Plant Growth Regulation. 97: 271-313. https://doi.org/10.1007/s10725-021-00794-6</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gupta</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Doležal</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Kulkarni</surname>
+							<given-names>M.G.</given-names>
+						</name>
+						<name>
+							<surname>Balázs</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Van Staden</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Role of non-microbial biostimulants in regulation of seed germination and seedling establishment</article-title>
+					<source>Journal of Plant Growth Regulation</source>
+					<volume>97</volume>
+					<fpage>271</fpage>
+					<lpage>313</lpage>
+					<pub-id pub-id-type="doi">10.1007/s10725-021-00794-6</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Han, M., Kasim, S., Yang, Z., Deng, X., Saidi, N.B., Uddin, M.K. and Shuib, E.M. 2024. Plant extracts as biostimulant agents: A promising strategy for managing environmental stress in sustainable agriculture. Phyton-International Journal of Experimental Botany. 93(9): 2149-2166. https://doi.org/10.32604/phyton.2024.054009</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Han</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Kasim</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Deng</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Saidi</surname>
+							<given-names>N.B.</given-names>
+						</name>
+						<name>
+							<surname>Uddin</surname>
+							<given-names>M.K.</given-names>
+						</name>
+						<name>
+							<surname>Shuib</surname>
+							<given-names>E.M</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Plant extracts as biostimulant agents: A promising strategy for managing environmental stress in sustainable agriculture</article-title>
+					<source>Phyton-International Journal of Experimental Botany</source>
+					<volume>93</volume>
+					<issue>9</issue>
+					<fpage>2149</fpage>
+					<lpage>2166</lpage>
+					<pub-id pub-id-type="doi">10.32604/phyton.2024.054009</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Huez-Lopez, M.A., Samani, Z., Elías, J.L., Avilés, A.Á. and Flores, F.P. 2008. Efecto de un extracto vegetal en la germinación de semillas de chile (<italic>Capsicum annuum</italic> L.) bajo condiciones salinas. Biotecnia. 10(3): 11-19.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Huez-Lopez</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Samani</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Elías</surname>
+							<given-names>J.L.</given-names>
+						</name>
+						<name>
+							<surname>Avilés</surname>
+							<given-names>A.Á.</given-names>
+						</name>
+						<name>
+							<surname>Flores</surname>
+							<given-names>F.P</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Efecto de un extracto vegetal en la germinación de semillas de chile (Capsicum annuum L.) bajo condiciones salinas</article-title>
+					<source>Biotecnia</source>
+					<volume>10</volume>
+					<issue>3</issue>
+					<fpage>11</fpage>
+					<lpage>19</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>INEGI, Instituto Nacional de Estadística y Geografía. [accessed February 1, 2025] 2019. Encuesta Nacional Agropecuaria 2019. Available at: <comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/contenidos/programas/ena/2019/doc/rrdp_ena2019.pdf">https://www.inegi.org.mx/contenidos/programas/ena/2019/doc/rrdp_ena2019.pdf</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>INEGI, Instituto Nacional de Estadística y Geografía</collab>
+					</person-group>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-02-01">February 1, 2025</date-in-citation>
+					<year>2019</year>
+					<source>Encuesta Nacional Agropecuaria 2019</source>
+					<comment>Available</comment>
+					<comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/contenidos/programas/ena/2019/doc/rrdp_ena2019.pdf">https://www.inegi.org.mx/contenidos/programas/ena/2019/doc/rrdp_ena2019.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Jasso de Rodríguez, D., Alonso-Cueva, C.F., Rodríguez-García, R., Ramírez, H., Díaz-Jiménez, L., Villareal-Quintanilla, J.A. and Juárez-Maldonado, A. 2020. Extractos de plantas del semidesierto en la inducción del crecimiento de tomate (<italic>Lycopersicon esculentum</italic> Mill). Ecosistemas y Recursos Agropecuarios. 7(1): e2342. https://doi.org/10.19136/era.a7n1.2342</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jasso de Rodríguez</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Alonso-Cueva</surname>
+							<given-names>C.F.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-García</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Díaz-Jiménez</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Villareal-Quintanilla</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Juárez-Maldonado</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Extractos de plantas del semidesierto en la inducción del crecimiento de tomate (Lycopersicon esculentum Mill)</article-title>
+					<source>Ecosistemas y Recursos Agropecuarios</source>
+					<volume>7</volume>
+					<issue>1</issue>
+					<elocation-id>e2342</elocation-id>
+					<pub-id pub-id-type="doi">10.19136/era.a7n1.2342</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Jasso de Rodríguez, D., Rocha-Rivera, M.F., Ramírez-Rodríguez, H., Villarreal-Quintanilla, J.Á., Díaz-Jiménez, M.L.V., Rodríguez-García, R. and Carrillo-Lomelí, D.A. 2023. Extractos de plantas como bioestimulantes de crecimiento, rendimiento y calidad de fruto en pimiento morrón. Ecosistemas y Recursos Agropecuarios. 10(2): e3559. https://doi.org/10.19136/era.a10n2.3559</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jasso de Rodríguez</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Rocha-Rivera</surname>
+							<given-names>M.F.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez-Rodríguez</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Villarreal-Quintanilla</surname>
+							<given-names>J.Á.</given-names>
+						</name>
+						<name>
+							<surname>Díaz-Jiménez</surname>
+							<given-names>M.L.V.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-García</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Carrillo-Lomelí</surname>
+							<given-names>D.A</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Extractos de plantas como bioestimulantes de crecimiento, rendimiento y calidad de fruto en pimiento morrón</article-title>
+					<source>Ecosistemas y Recursos Agropecuarios</source>
+					<volume>10</volume>
+					<issue>2</issue>
+					<elocation-id>e3559</elocation-id>
+					<pub-id pub-id-type="doi">10.19136/era.a10n2.3559</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Jasso de Rodríguez, D., Cuevas-Julio, I., Ramírez-Rodríguez, H., Villarreal Quintanilla, J.Á., Hernández-Pérez, A., Díaz-Giménez, M.L.V., Peña Ramos, F.M. and Carrillo Lomelí, D. A. 2024a. Bioestimulaciónde extractos de plantas del semidesierto en crecimiento, rendimiento y calidad en pepino. Ecosistemas y Recursos Agropecuarios. 11(3): e4186. https://doi.org/10.19136/era.a11n3.4186</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jasso de Rodríguez</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Cuevas-Julio</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez-Rodríguez</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Villarreal Quintanilla</surname>
+							<given-names>J.Á.</given-names>
+						</name>
+						<name>
+							<surname>Hernández-Pérez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Díaz-Giménez</surname>
+							<given-names>M.L.V.</given-names>
+						</name>
+						<name>
+							<surname>Peña Ramos</surname>
+							<given-names>F.M.</given-names>
+						</name>
+						<name>
+							<surname>Carrillo Lomelí</surname>
+							<given-names>D. A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Bioestimulaciónde extractos de plantas del semidesierto en crecimiento, rendimiento y calidad en pepino</article-title>
+					<source>Ecosistemas y Recursos Agropecuarios</source>
+					<volume>11</volume>
+					<issue>3</issue>
+					<elocation-id>e4186</elocation-id>
+					<pub-id pub-id-type="doi">10.19136/era.a11n3.4186</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Jasso de Rodríguez, D., Ramírez-Pérez, C., Ramírez-Rodríguez, H., Villarreal-Quintanilla, J.Á., Hernández-Pérez, A., Díaz-Jimenez, M.L.V. and Peña-Ramos, F.M. 2024b. Bioestimulantes de plantas del semidesierto en el crecimiento radicular y aéreo de plántulas de tomate. Ecosistemas y Recursos Agropecuarios. 11(3): e4145. https://doi.org/10.19136/era.a11n3.4145</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jasso de Rodríguez</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez-Pérez</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez-Rodríguez</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Villarreal-Quintanilla</surname>
+							<given-names>J.Á.</given-names>
+						</name>
+						<name>
+							<surname>Hernández-Pérez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Díaz-Jimenez</surname>
+							<given-names>M.L.V.</given-names>
+						</name>
+						<name>
+							<surname>Peña-Ramos</surname>
+							<given-names>F.M</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Bioestimulantes de plantas del semidesierto en el crecimiento radicular y aéreo de plántulas de tomate</article-title>
+					<source>Ecosistemas y Recursos Agropecuarios</source>
+					<volume>11</volume>
+					<issue>3</issue>
+					<elocation-id>e4145</elocation-id>
+					<pub-id pub-id-type="doi">10.19136/era.a11n3.4145</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Leopardi-Verde, C.L., Guzmán-González, S., Carnevali, G., Duno de Stefano, R. and Tapia-Muñoz, J.L. 2021. Weeds of commercial crops in Colima, Mexico. Revista Mexicana de Biodiversidad. 92: e923622. https://doi.org/10.22201/ib.20078706e.2021.92.3622</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Leopardi-Verde</surname>
+							<given-names>C.L.</given-names>
+						</name>
+						<name>
+							<surname>Guzmán-González</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Carnevali</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Duno de Stefano</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Tapia-Muñoz</surname>
+							<given-names>J.L</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Weeds of commercial crops in Colima, Mexico</article-title>
+					<source>Revista Mexicana de Biodiversidad</source>
+					<volume>92</volume>
+					<elocation-id>e923622</elocation-id>
+					<pub-id pub-id-type="doi">10.22201/ib.20078706e.2021.92.3622</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Martinez-Alonso, A., Garcia-Ibañez, P., Bárzana, G. and Carvajal, M. 2022. Leaf gas exchange and growth responses of tomato plants to external flavonoids application as biostimulators under normal and salt-stressed conditions. Agronomy. 12(12): 3230. https://doi.org/10.3390/AGRONOMY12123230</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martinez-Alonso</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Garcia-Ibañez</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Bárzana</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Carvajal</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Leaf gas exchange and growth responses of tomato plants to external flavonoids application as biostimulators under normal and salt-stressed conditions</article-title>
+					<source>Agronomy</source>
+					<volume>12</volume>
+					<issue>12</issue>
+					<pub-id pub-id-type="art-access-id">3230</pub-id>
+					<pub-id pub-id-type="doi">10.3390/AGRONOMY12123230</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Martínez-Lorente, S.E., Martí-Guillén, J.M., Pedreño, M.Á., Almagro, L. and Sabater-Jara, A.B. 2024. Higher plant-derived biostimulants: Mechanisms of action and their role in mitigating plant abiotic stress. Antioxidants. 13: 318. https://doi.org/10.3390/antiox13030318</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martínez-Lorente</surname>
+							<given-names>S.E.</given-names>
+						</name>
+						<name>
+							<surname>Martí-Guillén</surname>
+							<given-names>J.M.</given-names>
+						</name>
+						<name>
+							<surname>Pedreño</surname>
+							<given-names>M.Á.</given-names>
+						</name>
+						<name>
+							<surname>Almagro</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Sabater-Jara</surname>
+							<given-names>A.B</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Higher plant-derived biostimulants: Mechanisms of action and their role in mitigating plant abiotic stress</article-title>
+					<source>Antioxidants</source>
+					<volume>13</volume>
+					<issue>318</issue>
+					<pub-id pub-id-type="doi">10.3390/antiox13030318</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Mattner, S.W., Wite, D., Riches, D.A., Porter, I.J. and Arioli, T. 2013. The effect of kelp extract on seedling establishment of broccoli on contrasting soil types in southern Victoria, Australia. Biological Agriculture &amp; Horticulture. 29(4): 258-270. https://doi.org/10.1080/01448765.2013.830276</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mattner</surname>
+							<given-names>S.W.</given-names>
+						</name>
+						<name>
+							<surname>Wite</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Riches</surname>
+							<given-names>D.A.</given-names>
+						</name>
+						<name>
+							<surname>Porter</surname>
+							<given-names>I.J.</given-names>
+						</name>
+						<name>
+							<surname>Arioli</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>The effect of kelp extract on seedling establishment of broccoli on contrasting soil types in southern Victoria, Australia</article-title>
+					<source>Biological Agriculture &amp; Horticulture</source>
+					<volume>29</volume>
+					<issue>4</issue>
+					<fpage>258</fpage>
+					<lpage>270</lpage>
+					<pub-id pub-id-type="doi">10.1080/01448765.2013.830276</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Michalak, A. 2006. Phenolic compounds and their antioxidant activity in plants growing under heavy metal stress. Polish Journal of Environmental Studies. 15(4): 523-530.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Michalak</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>Phenolic compounds and their antioxidant activity in plants growing under heavy metal stress</article-title>
+					<source>Polish Journal of Environmental Studies</source>
+					<volume>15</volume>
+					<issue>4</issue>
+					<fpage>523</fpage>
+					<lpage>530</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Michalak, I. and Chojnacka, K. 2014. Algae extracts: Technology and advances. Engineering in Life Sciences. 14(6): 581-591. https://doi.org/10.1002/elsc.201400139</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Michalak</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Chojnacka</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Algae extracts: Technology and advances</article-title>
+					<source>Engineering in Life Sciences</source>
+					<volume>14</volume>
+					<issue>6</issue>
+					<fpage>581</fpage>
+					<lpage>591</lpage>
+					<pub-id pub-id-type="doi">10.1002/elsc.201400139</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Moreno-Guerrero, D.E., Ramírez-Olvera, S.M., Ojeda-Salgado, H.L., Pérez-Mercado C.A. and Trejo-Téllez, L. I. 2024. Effect of plant extracts in growth and nutrimental concentration of lettuce leaves (<italic>Lactuca sativa</italic>). Biotecnia. 26: e1929. https://doi.org/10.18633/biotecnia.v26.1929.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Moreno-Guerrero</surname>
+							<given-names>D.E.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez-Olvera</surname>
+							<given-names>S.M.</given-names>
+						</name>
+						<name>
+							<surname>Ojeda-Salgado</surname>
+							<given-names>H.L.</given-names>
+						</name>
+						<name>
+							<surname>Pérez-Mercado</surname>
+							<given-names>C.A.</given-names>
+						</name>
+						<name>
+							<surname>Trejo-Téllez</surname>
+							<given-names>L. I.</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Effect of plant extracts in growth and nutrimental concentration of lettuce leaves (Lactuca sativa)</article-title>
+					<source>Biotecnia</source>
+					<volume>26</volume>
+					<elocation-id>e1929</elocation-id>
+					<pub-id pub-id-type="doi">10.18633/biotecnia.v26.1929</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Pérez-Alva, A., MacIntosh, A.J., Baigts-Allende, D.K., García-Torres, R. and Ramírez-Rodrigues, M.M. 2022. Fermentation of algae to enhance their bioactive activity: A review. Algal Research. 64: 102684. https://doi.org/10.1016/j.algal.2022.102684</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez-Alva</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>MacIntosh</surname>
+							<given-names>A.J.</given-names>
+						</name>
+						<name>
+							<surname>Baigts-Allende</surname>
+							<given-names>D.K.</given-names>
+						</name>
+						<name>
+							<surname>García-Torres</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez-Rodrigues</surname>
+							<given-names>M.M</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Fermentation of algae to enhance their bioactive activity: A review</article-title>
+					<source>Algal Research</source>
+					<volume>64</volume>
+					<elocation-id>102684</elocation-id>
+					<pub-id pub-id-type="doi">10.1016/j.algal.2022.102684</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Ricci, M., Tilbury, L., Daridon, B. and Sukalac, K. 2019. General principles to justify plant biostimulant claims. Frontiers in Plant Science. 10: 494. https://doi.org/10.3389/fpls.2019.00494</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ricci</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Tilbury</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Daridon</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Sukalac</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>General principles to justify plant biostimulant claims</article-title>
+					<source>Frontiers in Plant Science</source>
+					<volume>10</volume>
+					<issue>494</issue>
+					<pub-id pub-id-type="doi">10.3389/fpls.2019.00494</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Reis, F.R., Marques, C., de Moraes, A.C.S. and Masson, M.L. 2022. Trends in quality assessment and drying methods used for fruits and vegetables. Food Control. 142: 109254. https://doi.org/10.1016/J.FOODCONT.2022.109254</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Reis</surname>
+							<given-names>F.R.</given-names>
+						</name>
+						<name>
+							<surname>Marques</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>de Moraes</surname>
+							<given-names>A.C.S.</given-names>
+						</name>
+						<name>
+							<surname>Masson</surname>
+							<given-names>M.L</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Trends in quality assessment and drying methods used for fruits and vegetables</article-title>
+					<source>Food Control</source>
+					<volume>142</volume>
+					<elocation-id>109254</elocation-id>
+					<pub-id pub-id-type="doi">10.1016/J.FOODCONT.2022.109254</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Rouphael, Y. and Colla, G. 2020. Editorial: Biostimulants in agriculture. Frontiers in Plant Science. 11: 40. https://doi.org/10.3389/fpls.2020.00040</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rouphael</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Colla</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Editorial: Biostimulants in agriculture</article-title>
+					<source>Frontiers in Plant Science</source>
+					<volume>11</volume>
+					<issue>40</issue>
+					<pub-id pub-id-type="doi">10.3389/fpls.2020.00040</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Sanjuán, J., Nápoles, M.C., Pérez-Mendoza, D., Lorite, M.J. and Rodríguez-Navarro, D.N. 2023. Microbials for agriculture: Why do they call them biostimulants when they mean probiotics?. Microorganisms. 11(1): 153. https://doi.org/10.3390/microorganisms11010153</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sanjuán</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Nápoles</surname>
+							<given-names>M.C.</given-names>
+						</name>
+						<name>
+							<surname>Pérez-Mendoza</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Lorite</surname>
+							<given-names>M.J.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Navarro</surname>
+							<given-names>D.N</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Microbials for agriculture: Why do they call them biostimulants when they mean probiotics?</article-title>
+					<source>Microorganisms</source>
+					<volume>11</volume>
+					<issue>1</issue>
+					<fpage>153</fpage>
+					<lpage>153</lpage>
+					<pub-id pub-id-type="doi">10.3390/microorganisms11010153</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Santner, A., Calderon-Villalobos, L. and Estelle, M. 2009. Plant hormones are versatile chemical regulators of plant growth. Nature Chemical Biology. 5: 301-307. https://doi.org/10.1038/nchembio.165</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santner</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Calderon-Villalobos</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Estelle</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Plant hormones are versatile chemical regulators of plant growth</article-title>
+					<source>Nature Chemical Biology</source>
+					<volume>5</volume>
+					<issue>301-307</issue>
+					<pub-id pub-id-type="doi">10.1038/nchembio.165</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>SEMARNAT, Secretaría de Medio Ambiente y de Recursos Naturales. [accessed February 2, 2025]. 2012. Informe de la situación del medio ambiente en México. Available at: <comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://apps1.semarnat.gob.mx:8443/dgeia/informe_ 12/04_biodiversidad/cap4_1.html">https://apps1.semarnat.gob.mx:8443/dgeia/informe_ 12/04_biodiversidad/cap4_1.html</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>SEMARNAT, Secretaría de Medio Ambiente y de Recursos Naturales</collab>
+					</person-group>
+					<date-in-citation content-type="access-date" iso-8601-date="2025-02-02">February 2, 2025</date-in-citation>
+					<year>2012</year>
+					<source>Informe de la situación del medio ambiente en México</source>
+					<comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://apps1.semarnat.gob.mx:8443/dgeia/informe_ 12/04_biodiversidad/cap4_1.html">https://apps1.semarnat.gob.mx:8443/dgeia/informe_ 12/04_biodiversidad/cap4_1.html</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>SIAP, Servicio de Información Agroalimentaria y Pesquera. [accessed December 18, 2024]. 2024. Cierre de la producción agrícola. Anuario Estadístico de la Producción Agrícola. México. Servicio de Información Agrícola y Pesquera. Available at: <comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://nube.siap.gob.mx/cierreagricola/">https://nube.siap.gob.mx/cierreagricola/</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>SIAP, Servicio de Información Agroalimentaria y Pesquera</collab>
+					</person-group>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-12-18">December 18, 2024</date-in-citation>
+					<year>2024</year>
+					<article-title>Cierre de la producción agrícola. Anuario Estadístico de la Producción Agrícola. México</article-title>
+					<source>Servicio de Información Agrícola y Pesquera</source>
+					<comment>Available</comment>
+					<comment>Available at: <ext-link ext-link-type="uri" xlink:href="https://nube.siap.gob.mx/cierreagricola/">https://nube.siap.gob.mx/cierreagricola/</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Tomasi, N., Weisskopf, L., Renella, G., Landi, L., Pinton, R., Varanini, Z. and Cesco, S. 2008. Flavonoids of white lupin roots participate in phosphorus mobilization from soil. Soil Biology and Biochemistry. 40(7): 1971-1974. https://doi.org/10.1016/j.soilbio.2008.02.017</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tomasi</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Weisskopf</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Renella</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Landi</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Pinton</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Varanini</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Cesco</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Flavonoids of white lupin roots participate in phosphorus mobilization from soil</article-title>
+					<source>Soil Biology and Biochemistry</source>
+					<volume>40</volume>
+					<issue>7</issue>
+					<fpage>1971</fpage>
+					<lpage>1974</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.soilbio.2008.02.017</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>Torres, O.D. and Velho, L. 2009. La bioprospección como un mecanismo de cooperación internacional para fortalecimiento de capacidades en ciencia y tecnología en Colombia. Ciência da Informação 38(3): 96-110. https://doi.org/10.1590/s0100-19652009000300007</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Torres</surname>
+							<given-names>O.D.</given-names>
+						</name>
+						<name>
+							<surname>Velho</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>La bioprospección como un mecanismo de cooperación internacional para fortalecimiento de capacidades en ciencia y tecnología en Colombia</article-title>
+					<source>Ciência da Informação</source>
+					<volume>38</volume>
+					<issue>3</issue>
+					<fpage>96</fpage>
+					<lpage>110</lpage>
+					<pub-id pub-id-type="doi">10.1590/s0100-19652009000300007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<mixed-citation>Velasco-Ramírez, A.P., Velasco-Ramírez, A., Hernández-Herrera, R.M., Ceja-Esquivez, J., Velasco-Ramírez, S.F., Ramírez-Anguiano, A.C. and Torres-Morán, M.I. 2022a. The impact of aqueous extracts of <italic>Verbesina sphaerocephala</italic> and <italic>Verbesina fastigiata</italic> on germination and growth in <italic>Solanum lycopersicum</italic> and <italic>Cucumis sativus</italic> seedlings. Horticulturae. 8(7): 652. https://doi.org/10.3390/horticulturae8070652</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Velasco-Ramírez</surname>
+							<given-names>A.P.</given-names>
+						</name>
+						<name>
+							<surname>Velasco-Ramírez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Hernández-Herrera</surname>
+							<given-names>R.M.</given-names>
+						</name>
+						<name>
+							<surname>Ceja-Esquivez</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Velasco-Ramírez</surname>
+							<given-names>S.F.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez-Anguiano</surname>
+							<given-names>A.C.</given-names>
+						</name>
+						<name>
+							<surname>Torres-Morán</surname>
+							<given-names>M.I</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>The impact of aqueous extracts of Verbesina sphaerocephala and Verbesina fastigiata on germination and growth in Solanum lycopersicum and Cucumis sativus seedlings</article-title>
+					<source>Horticulturae</source>
+					<volume>8</volume>
+					<issue>7</issue>
+					<pub-id pub-id-type="art-access-id">652</pub-id>
+					<pub-id pub-id-type="doi">10.3390/horticulturae8070652</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B52">
+				<mixed-citation>Velasco-Ramírez, A.P., Virgen-Calleros, G., Hernández-Herrera, R.M., Velasco-Ramírez, A., Corona-Cervantes, M.P., Munguía-Lizalde, D.M. and Hernández-Pérez, A.R. 2021. <italic>Verbesina sphaerocephala</italic> extracts promote the development of <italic>Cucumis sativus</italic> and reduce the damage caused by <italic>Meloidogyne incognita</italic>. Mexican Journal of Phytopathology. 39(2): 339-353. https://doi.org/10.18781/r.mex.fit.2103-2</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Velasco-Ramírez</surname>
+							<given-names>A.P.</given-names>
+						</name>
+						<name>
+							<surname>Virgen-Calleros</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Hernández-Herrera</surname>
+							<given-names>R.M.</given-names>
+						</name>
+						<name>
+							<surname>Velasco-Ramírez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Corona-Cervantes</surname>
+							<given-names>M.P.</given-names>
+						</name>
+						<name>
+							<surname>Munguía-Lizalde</surname>
+							<given-names>D.M.</given-names>
+						</name>
+						<name>
+							<surname>Hernández-Pérez</surname>
+							<given-names>A.R</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Verbesina sphaerocephala extracts promote the development of Cucumis sativus and reduce the damage caused by Meloidogyne incognita</article-title>
+					<source>Mexican Journal of Phytopathology</source>
+					<volume>39</volume>
+					<issue>2</issue>
+					<fpage>339</fpage>
+					<lpage>353</lpage>
+					<pub-id pub-id-type="doi">10.18781/r.mex.fit.2103-2</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B53">
+				<mixed-citation>Velasco-Ramírez, A.P., Velasco-Ramírez, A., Hernández-Herrera, R.M., Murguia-Lizalde, D.M. and Velasco-Ramírez, S.F. 2022b. Extracts of <italic>Verbesina sphaerocephala</italic> and <italic>Verbesina fastigiata</italic> promote potted development of <italic>Fragaria ananassa</italic>. Agroindustrial Science. 12(1): 29-37. https://doi.org/10.17268/agroind.sci.2022.01.04</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Velasco-Ramírez</surname>
+							<given-names>A.P.</given-names>
+						</name>
+						<name>
+							<surname>Velasco-Ramírez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Hernández-Herrera</surname>
+							<given-names>R.M.</given-names>
+						</name>
+						<name>
+							<surname>Murguia-Lizalde</surname>
+							<given-names>D.M.</given-names>
+						</name>
+						<name>
+							<surname>Velasco-Ramírez</surname>
+							<given-names>S.F</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Extracts of Verbesina sphaerocephala and Verbesina fastigiata promote potted development of Fragaria ananassa</article-title>
+					<source>Agroindustrial Science</source>
+					<volume>12</volume>
+					<issue>1</issue>
+					<fpage>29</fpage>
+					<lpage>37</lpage>
+					<pub-id pub-id-type="doi">10.17268/agroind.sci.2022.01.04</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B54">
+				<mixed-citation>Velazquez-Gamboa, M.C., Rodríguez-Hernández, L., Abud-Archila, M., Gutiérrez-Miceli, F.A., Ruíz-Valdiviezo, V.M., Valdez-Salas, B., Luján-Hidalgo, M. C. 2024. Efecto de las fitonanopartículas de óxido de zinc y magnesio en la producción de rebaudiósidos y compuestos fenólicos en plantas de <italic>Stevia rebaudiana</italic> Bertoni. Biotecnia. 26, e2313. https://doi.org/10.18633/biotecnia.v26.2313</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Velazquez-Gamboa</surname>
+							<given-names>M.C.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Hernández</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Abud-Archila</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez-Miceli</surname>
+							<given-names>F.A.</given-names>
+						</name>
+						<name>
+							<surname>Ruíz-Valdiviezo</surname>
+							<given-names>V.M.</given-names>
+						</name>
+						<name>
+							<surname>Valdez-Salas</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Luján-Hidalgo</surname>
+							<given-names>M. C</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Efecto de las fitonanopartículas de óxido de zinc y magnesio en la producción de rebaudiósidos y compuestos fenólicos en plantas de Stevia rebaudiana Bertoni</article-title>
+					<source>Biotecnia</source>
+					<volume>26</volume>
+					<elocation-id>e2313</elocation-id>
+					<pub-id pub-id-type="doi">10.18633/biotecnia.v26.2313</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B55">
+				<mixed-citation>Vibrans, H. [accessed December 19, 2024.] 2010. Malezas de México. Available at: <comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://www.conabio.gob.mx/malezasdemexico/2inicio/home-malezas-mexico.htm">http://www.conabio.gob.mx/malezasdemexico/2inicio/home-malezas-mexico.htm</ext-link>
+					</comment>,</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vibrans</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-12-19">December 19, 2024</date-in-citation>
+					<year>2010</year>
+					<source>Malezas de México</source>
+					<comment>Available</comment>
+					<comment>Available at: <ext-link ext-link-type="uri" xlink:href="http://www.conabio.gob.mx/malezasdemexico/2inicio/home-malezas-mexico.htm">http://www.conabio.gob.mx/malezasdemexico/2inicio/home-malezas-mexico.htm</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B56">
+				<mixed-citation>Viveros-Legorreta, J.L., Sarma, S.S.S., Guerrero-Zúñiga, L.A. and Rodríguez-Dorantes, A. 2018. Bioensayo del efecto de fenoles producidos por <italic>Myriophylum aquaticum</italic> en cultivo sobre <italic>Lactuca sativa</italic>. Hidrobiológica. 28(1): 109-119.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Viveros-Legorreta</surname>
+							<given-names>J.L.</given-names>
+						</name>
+						<name>
+							<surname>Sarma</surname>
+							<given-names>S.S.S.</given-names>
+						</name>
+						<name>
+							<surname>Guerrero-Zúñiga</surname>
+							<given-names>L.A.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez-Dorantes</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Bioensayo del efecto de fenoles producidos por Myriophylum aquaticum en cultivo sobre Lactuca sativa</article-title>
+					<source>Hidrobiológica</source>
+					<volume>28</volume>
+					<issue>1</issue>
+					<fpage>109</fpage>
+					<lpage>119</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B57">
+				<mixed-citation>Xu, L. and Geelen, D. 2018. Developing biostimulants from agrofood and industrial by-products. Frontiers in Plant Science. 9: 1567. https://doi.org/10.3389/fpls.2018.01567</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Xu</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Geelen</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Developing biostimulants from agrofood and industrial by-products</article-title>
+					<source>Frontiers in Plant Science</source>
+					<volume>9</volume>
+					<pub-id pub-id-type="art-access-id">1567</pub-id>
+					<pub-id pub-id-type="doi">10.3389/fpls.2018.01567</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B58">
+				<mixed-citation>Yakhin, O.I., Lubyanov, A.A., Yakhin, I.A. and Brown, P.H. 2017. Biostimulants in plant science: A global perspective. Frontiers in Plant Science. 7: 2049. https://doi.org/10.3389/fpls.2016.02049 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yakhin</surname>
+							<given-names>O.I.</given-names>
+						</name>
+						<name>
+							<surname>Lubyanov</surname>
+							<given-names>A.A.</given-names>
+						</name>
+						<name>
+							<surname>Yakhin</surname>
+							<given-names>I.A.</given-names>
+						</name>
+						<name>
+							<surname>Brown</surname>
+							<given-names>P.H</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Biostimulants in plant science: A global perspective</article-title>
+					<source>Frontiers in Plant Science</source>
+					<volume>7</volume>
+					<pub-id pub-id-type="art-access-id">2049</pub-id>
+					<pub-id pub-id-type="doi">10.3389/fpls.2016.02049</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B59">
+				<mixed-citation>Youssef, S.M., El-Serafy, R.S., Ghanem, K.Z., Elhakem, A. and Abdel Aal, A.A. 2022. Foliar spray or soil drench: Microalgae application impacts on soil microbiology, morpho-physiological and biochemical responses, oil and fatty acid profiles of chia plants under alkaline stress. Biology. 11(12): 1844. https://doi.org/10.3390/biology11121844</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Youssef</surname>
+							<given-names>S.M.</given-names>
+						</name>
+						<name>
+							<surname>El-Serafy</surname>
+							<given-names>R.S.</given-names>
+						</name>
+						<name>
+							<surname>Ghanem</surname>
+							<given-names>K.Z.</given-names>
+						</name>
+						<name>
+							<surname>Elhakem</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Abdel Aal</surname>
+							<given-names>A.A</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Foliar spray or soil drench: Microalgae application impacts on soil microbiology, morpho-physiological and biochemical responses, oil and fatty acid profiles of chia plants under alkaline stress</article-title>
+					<source>Biology</source>
+					<volume>11</volume>
+					<issue>12</issue>
+					<pub-id pub-id-type="art-access-id">1844</pub-id>
+					<pub-id pub-id-type="doi">10.3390/biology11121844</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B60">
+				<mixed-citation>Zhuang, X., Gao, J., Ma, A., Fu, S. and Zhuang, G. 2013. Bioactive molecules in soil ecosystems: Masters of the underground. International Journal of Molecular Sciences. 14(5): 8841-8868. https://doi.org/10.3390/IJMS14058841</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhuang</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Gao</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Ma</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Fu</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Zhuang</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Bioactive molecules in soil ecosystems: Masters of the underground</article-title>
+					<source>International Journal of Molecular Sciences</source>
+					<volume>14</volume>
+					<issue>5</issue>
+					<fpage>8841</fpage>
+					<lpage>8868</lpage>
+					<pub-id pub-id-type="doi">10.3390/IJMS14058841</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B61">
+				<mixed-citation>Zulfiqar, F., Casadesús, A., Brockman, H. and Munné-Bosch, S. 2020. An overview of plant-based natural biostimulants for sustainable horticulture with a particular focus on moringa leaf extracts. Plant Science. 295: 110194. https://doi.org/10.1016/j.plantsci.2019.110194</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zulfiqar</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Casadesús</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Brockman</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Munné-Bosch</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>An overview of plant-based natural biostimulants for sustainable horticulture with a particular focus on moringa leaf extracts</article-title>
+					<source>Plant Science</source>
+					<volume>295</volume>
+					<pub-id pub-id-type="art-access-id">110194</pub-id>
+					<pub-id pub-id-type="doi">10.1016/j.plantsci.2019.110194</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

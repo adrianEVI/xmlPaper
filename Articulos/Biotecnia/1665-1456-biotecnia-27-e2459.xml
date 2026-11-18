@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2459</article-id>
+			<article-id pub-id-type="other">00150</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>El déficit de evaporación como indicador del balance hídrico en Chiapas, México</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Evaporation deficit as an indicator of water balance in Chiapas, Mexico</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0003-3763-2554</contrib-id>
+					<name>
+						<surname>Hernández-Mendoza</surname>
+						<given-names>Teresa Marcela</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0001-3112-3674</contrib-id>
+					<name>
+						<surname>Galvis-Spinola</surname>
+						<given-names>Arturo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-9459-3588</contrib-id>
+					<name>
+						<surname>Arteaga-Ramírez</surname>
+						<given-names>Ramón</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0007-6493-3642</contrib-id>
+					<name>
+						<surname>Reyes González</surname>
+						<given-names>Fernando</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">,Departamento de Irrigación, Universidad Autónoma Chapingo, km 32.5 carretera México-Texcoco, Chapingo, Texcoco CP 56230. thernandezm@chapingo.mx, rarteagar@chapingo.mx</institution>
+				<institution content-type="normalized">Universidad Autónoma Chapingo</institution>
+				<institution content-type="orgdiv1">Departamento de Irrigación</institution>
+				<institution content-type="orgname">Universidad Autónoma Chapingo</institution>
+				<addr-line>
+					<city>Texcoco</city>
+					<postal-code>56230</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>thernandezm@chapingo.mx</email>
+				<email>rarteagar@chapingo.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">,Edafología, Colegio de Postgraduados, km 36.5 carretera México-Texcoco, Montecillo, Texcoco CP 56230, Estado de México. galvis@colpos.mx, reyes.fernando@colpos.mx</institution>
+				<institution content-type="normalized">Colegio de Postgraduados</institution>
+				<institution content-type="orgname">Colegio de Postgraduados</institution>
+				<addr-line>
+					<city>Texcoco</city>
+					<postal-code>56230</postal-code>
+					<state>Estado de México</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>galvis@colpos.mx</email>
+				<email>reyes.fernando@colpos.mx</email>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Autor para correspondencia: Arturo Galvis Spinola Correo-e: <email>galvis@colpos.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>17</day>
+				<month>07</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2459</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>04</day>
+					<month>10</month>
+					<year>2024</year>
+				</date>
+				<date date-type="accepted">
+					<day>29</day>
+					<month>06</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>17</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>Este estudio propone el déficit de evaporación (D<sub>E</sub>) como un nuevo indicador para evaluar el balance hídrico y la vulnerabilidad climática en el estado de Chiapas, México. Utilizando datos de 188 estaciones climáticas, se analizaron las variaciones espaciales y temporales del D<sub>E</sub>. Los resultados muestran que el D<sub>E</sub> es una herramienta efectiva para identificar regiones y períodos con riesgo de sequía o exceso de humedad. Se encontró una alta variabilidad espacial en la distribución del D<sub>E</sub> por la complejidad de los procesos hidrometeorológicos en la región, cuya estimación del D<sub>E</sub> mensual a partir del D<sub>E</sub> anual se hizo subdividiendo el estado en tres zonas (A: R<sup>2</sup> = 0.94, RMSE = 0.216; B: R<sup>2</sup> = 0.96, RMSE = 0.065; C: R<sup>2</sup> = 0.88, RMSE = 0.415). El D<sub>E</sub> es un indicador robusto y útil para evaluar el balance hídrico en Chiapas, proporcionando información con implicaciones para la gestión de recursos hídricos y la agricultura en Chiapas, aunque la calidad de los datos y la escala espacial del análisis podría tener limitaciones para la extrapolación de la información. Futuras investigaciones podrían explorar la relación entre el D<sub>E</sub> y su aplicación agrícola.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>This study introduces evaporation deficit (D<sub>E</sub>) as a novel indicator to assess water balance and climate vulnerability in the state of Chiapas, Mexico. Analyzing data from 188 meteorological stations, we examined spatial and temporal variations in D<sub>E</sub>. Results indicate that D<sub>E</sub> is a robust tool for identifying regions and periods prone to drought or excessive moisture. A high spatial variability in D<sub>E</sub> distribution was observed, attributed to the complexity of hydrometeorological processes in the region. To estimate monthly D<sub>E</sub> from annual D<sub>E</sub>, the state was subdivided into three zones (A: R² = 0.94, RMSE = 0.216; B: R² = 0.96, RMSE = 0.065; C: R² = 0.88, RMSE = 0.415). This study demonstrates that D<sub>E</sub> is a valuable indicator for assessing water balance in Chiapas, providing insights with implications for water resources management and agriculture. However, the study acknowledges limitations related to data quality and spatial scale. Future investigations might explore the potential of D<sub>E</sub> as a tool for agricultural decision-making. </p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Drought</kwd>
+				<kwd>water stress</kwd>
+				<kwd>climate assessment</kwd>
+				<kwd>evaporation</kwd>
+				<kwd>rainfall</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Estiaje</kwd>
+				<kwd>estrés hídrico</kwd>
+				<kwd>evaluación climática</kwd>
+				<kwd>evaporación</kwd>
+				<kwd>precipitación</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="6"/>
+				<table-count count="1"/>
+				<equation-count count="0"/>
+				<ref-count count="24"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p>El balance hídrico (B<sub>H</sub>) es un indicador de problemas asociados al estrés o exceso hídrico, los cuales están relacionados con la producción agrícola y la gestión de recursos hídricos. A pesar de su importancia, aún existen lagunas para estimar su valor (<xref ref-type="bibr" rid="B10">Evett et al., 2012</xref>), ya que se suele abordar con base en la evapotranspiración (E<sub>T</sub>) la cual, al no ser una variable medida, su estimación implica cierto grado de incertidumbre que aún está en proceso de ser resuelto (<xref ref-type="bibr" rid="B24">Wanniarachchi y Sarukkalige, 2022</xref>). Para mejorar la eficiencia del uso del agua de riego se requiere el dato de la E<sub>T</sub>, sin embargo, prevalecen dudas respecto a la información generada (<xref ref-type="bibr" rid="B23">Villalobos-Cano et al., 2024</xref>). De acuerdo con <xref ref-type="bibr" rid="B20">Ruiz-Ortega et al. (2024)</xref>, el dato de la E<sub>T</sub> se genera a partir de modelos con fundamento en la conservación de la masa y la energía, cuya diferencia está en si se generan sólo a partir de tales principios físicos, lo hacen de manera parcial o por algoritmos (redes neuronales, relaciones empíricas, entre otros) y, como alternativa actual, están los datos colectados por sensores remotos. Aunque hay avances significativos para contar con datos confiables de E<sub>T</sub>, aún falta trabajo por hacer. Este estudio busca contribuir a llenar ese vacío que, a diferencia de investigaciones previas, emplea la medición de la precipitación (P<sub>P</sub>) y la evaporación (E<sub>V</sub>) que alejan la incertidumbre de la estimación como ocurre con la E<sub>T</sub>. Se postula que a través del cociente de la P<sub>P</sub> y la E<sub>V</sub> se genera un nuevo índice, el déficit de evaporación (D<sub>E</sub>), para identificar el B<sub>H</sub> en zonas y épocas del año en la que es viable identificar problemas de vulnerabilidad climática asociada a sequías o anegamientos, según sea el caso, lo que sería útil para la planificación agrícola y la gestión de recursos hídricos. La P<sub>P</sub> es un componente de la E<sub>V</sub> y ambas inciden sobre el equilibrio hídrico de una región geográfica (Davis <italic>et al</italic>., 2006). La P<sub>P</sub> en la estación húmeda es controlada por diversos fenómenos en los que influye la combinación lluvia-viento-evaporación que por retroalimentación al aumentar la E<sub>V</sub> se alimenta la P<sub>P</sub> y viceversa (<xref ref-type="bibr" rid="B22">Sharmila y Hendon, 2020</xref>), como es el caso de que una intensa P<sub>P</sub> se genera de la E<sub>V</sub> oceánica forzada por el viento (<xref ref-type="bibr" rid="B21">Sekizawa et al., 2019</xref>) y todo en conjunto repercute sobre la condición climática de una región (<xref ref-type="bibr" rid="B11">Geen et al., 2023</xref>). La importancia que adquiere la E<sub>V</sub> depende de la escala de tiempo que se evalúe, porque si se visualiza sólo como un evento diario, podría no ser significativa ante un evento lluvioso, pero si el análisis abarca un periodo prolongado como sería su valor anual, representa una fracción importante de la P<sub>P</sub> (<xref ref-type="bibr" rid="B4">Baiamonte, 2021</xref>). La E<sub>V</sub> es un proceso endotérmico, por lo que la intensidad de los ciclones tropicales se atribuye a la condensación que es un proceso exotérmico. De acuerdo con <xref ref-type="bibr" rid="B15">Li et al. (2015)</xref>, la actividad de las bandas de lluvia que se ocasionan tienen la capacidad de incidir sobre la cantidad y distribución de otros fenómenos asociados a la hidrodinámica en la atmósfera y en los ecosistemas terrestres, en el que la temperatura, humedad del suelo, radiación neta y déficit de presión de vapor son las variables que mejor explican los cambios de la E<sub>V</sub> (<xref ref-type="bibr" rid="B12">Hidalgo-Sánchez et al., 2021</xref>). Aún no hay un modelo de estimación del B<sub>H</sub> que sea preciso y funcional con aplicación universal y los que llegan a funcionar, su éxito más bien depende de condiciones ambientales específicas. Sin embargo, se prevé que el empleo de tecnologías emergentes como el aprendizaje automático y la teledetección podrán mejorar la precisión y exactitud de las estimaciones de la E<sub>T</sub> o del B<sub>H</sub> (<xref ref-type="bibr" rid="B7">Derardja et al., 2024</xref>), pero aún no hay una propuesta que sea viable. En este sentido, dada la relevancia que tiene la relación entre la P<sub>P</sub> y la E<sub>V</sub> en el B<sub>H</sub> de una región, el objetivo de este estudio es evaluar el cociente entre ambas variables para cuantificar el déficit de evaporación (D<sub>E</sub>) como indicador del exceso (D<sub>E</sub> &gt; 1.0) o déficit de humedad (D<sub>E</sub> &lt; 1.0) en el estado de Chiapas, México, así como proponer un procedimiento para su estimación mensual.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Materiales y métodos</title>
+			<p>El trabajo se desarrolló con la información de 188 estaciones climáticas ubicadas en Chiapas, México (<xref ref-type="fig" rid="f1">Figura 1</xref>), seleccionadas por seguir vigentes y tener datos climáticos disponibles para un periodo de al menos 10 años. De cada estación se registró su clave, nombre, altitud, coordenadas, años de servicio, promedio registrado de la precipitación pluvial mensual total (PP), evaporación mensual total (EV) el valor anual de ambas (<xref ref-type="bibr" rid="B5">CONAGUA, 2024</xref>) y subprovincia fisiográfica (<xref ref-type="bibr" rid="B13">INEGI, 2001</xref>).</p>
+			<p>
+				<fig-group id="f1">
+	<fig xml:lang="es">
+					<label>Figura 1</label>
+					<caption>
+						<title>Ubicación de las 188 estaciones climáticas y clave correspondiente (<xref ref-type="bibr" rid="B5">CONAGUA, 2024</xref>) por subprovincia fisiográfica (<xref ref-type="bibr" rid="B13">INEGI, 2001</xref>) del estado de Chiapas: 1. Altos de Chiapas; 2. Depresión Central de Chiapas; 3. Llanura Costera de Chiapas y Guatemala; 4. Llanura del Istmo; 5. Llanuras y Pantanos Tabasqueños; 6. Sierra Lacandona; 7. Sierras Bajas del Petén; 8. Sierras del Norte de Chiapas; 9. Sierras del Sur de Chiapas; 10. Volcanes de Centroamérica. </title>
+					</caption>
+					</fig>
+	<fig xml:lang="en">
+	<label>Figure 1:</label>
+	<caption>
+	<title>Location of the 188 weather stations and corresponding key (<xref ref-type="bibr" rid="B5">CONAGUA, 2024</xref>) by physiographic subprovince (<xref ref-type="bibr" rid="B13">INEGI, 2001</xref>) of the state of Chiapas: 1. Chiapas Highlands; 2. Central Depression of Chiapas; 3. Coastal Plain of Chiapas and Guatemala; 4. Isthmus Plain; 5. Tabasco Plains and Swamps; 6. Lacandon Jungle; 7. Low Mountains of the Petén; 8. Northern Chiapas Mountains; 9. Southern Chiapas Mountains; 10. Central American Volcanoes.</title>
+	</caption>
+					<graphic xlink:href="1665-1456-biotecnia-27-e2459-gf1.jpg"/>
+				</fig>
+				</fig-group>
+			</p>
+			<p>Se realizó un análisis exploratorio de los datos mediante pruebas de normalidad para evaluar la distribución de las variables climáticas, eliminar valores atípicos y garantizar la calidad de la información. Para los valores faltantes aleatorios se utilizó el método de imputación por la media de los vecinos más cercanos y los faltantes sistemáticos se excluyeron del análisis para maximizar el uso de la información disponible y se minimizó el sesgo en los resultados. Se empleó el software <xref ref-type="bibr" rid="B14">QGIS (2023)</xref> para la visualización espacial de los datos y la interpolación espacial se hizo a través del método de kriging, seleccionado por su capacidad de modelar la estructura espacial de los datos y generar mapas de alta resolución. Se utilizó la prueba de Mann-Kendall para evaluar las tendencias temporales de las variables climáticas. El desarrollo del trabajo se hizo a través de relaciones cuantitativas entre las distintas variables con el apoyo del paquete estadístico R (<xref ref-type="bibr" rid="B19">R Core Team, 2020</xref>). El ámbito de exploración de la pluviosidad anual en el estado varió entre 673.7 y 4953.7 mm, cuya distribución mensual se observa en la <xref ref-type="table" rid="t1">Tabla 1</xref>.</p>
+			<p>
+				<table-wrap-group id="t1">
+	<table-wrap xml:lang="es">
+					<label>Tabla 1</label>
+					<caption>
+						<title>Distribución de frecuencia (en porcentaje) de la precipitación pluvial mensual total (P<sub>P</sub>) en el estado de Chiapas, México. </title>
+					</caption>
+					</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 1:</label>
+		<caption>
+			<title>Frequency distribution (in percentage) of total monthly rainfall (P<sub>P</sub>) in the state of Chiapas, Mexico.</title>
+		</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">P<sub>P</sub></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Ene</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Feb</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Mar</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Abr</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">May</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Jun</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Jul</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Ago</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Sep</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Oct</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Nov</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;">Dic</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">mm</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="12">-------------------------    % -------------------------</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">&lt; 3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">69</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">80</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">89</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">63</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">47</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">64</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3    a 6</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">20</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">17</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">11</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">36</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">18</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">29</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">23</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.1    a 9</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">11</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">41</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">19</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">24</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">9.1    a12</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">30</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">25</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">10</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">44</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">&gt;12.1</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">10</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">86</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">68</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">89</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">100</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">35</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+</tbody>
+</table>
+
+				</table-wrap>
+				</table-wrap-group>
+			</p>
+			<p>La lluvia se distribuye principalmente en dos periodos: P<sub>1</sub>= noviembre a abril; P<sub>2</sub>= junio a septiembre, donde P<sub>1</sub> &lt; P<sub>2</sub> en todos los casos, mientras que la ocurrida en mayo y octubre es de transición entre P<sub>2</sub> y P<sub>1</sub>, respectivamente.</p>
+			<p>Como procedimiento alterno para mejorar la evaluación de la pluviosidad se empleó el déficit de evaporación (D<sub>E</sub>), que es el cociente de la precipitación total (P<sub>P</sub>) y la evaporación total (E<sub>V</sub>), para indicar el exceso (D<sub>E</sub> &gt; 1.0) o déficit (D<sub>E</sub> &lt; 1.0) de humedad: D<sub>E</sub> = P<sub>P</sub>/E<sub>V</sub>. La relación entre el D<sub>E</sub> y otras variables climáticas (temperatura máxima y temperatura mínima) siguieron una distribución normal y se evaluó su monotonicidad a través de la correlación de Pearson para identificar posibles relaciones, sin que se hubiesen detectado asociaciones significativas. Se ajustaron modelos de regresión para evaluar la relación entre el D<sub>E</sub> y el tiempo (meses del año) y para estimar el D<sub>E</sub> mensual en función del D<sub>E</sub> anual. Se calculó el D<sub>E</sub> mensual y anual por estación climática, que se consideró como el balance entre entradas y salidas de humedad. Debido a que en P<sub>1</sub> ocurrieron las principales diferencias de lluvia en la región, se verificó la tendencia del D<sub>E</sub> en dicho periodo de la siguiente manera: a) se calculó la proporción del D<sub>E</sub> anual por estación climática para cada mes entre noviembre y abril para disminuir la heterogeneidad natural de los valores absolutos; b) se codificaron los meses de noviembre a abril, asignando los números del uno al seis en ese orden; c) dada la tendencia de los datos en evaluación, se ajustó una ecuación de regresión cuadrática en cada serie de datos por estación climática: D<sub>EP1</sub>= a(M)<sup>2</sup> + b(M) + c., siendo el D<sub>E</sub> mensual en P<sub>1</sub> la variable dependiente (D<sub>EP1</sub>) y los meses codificados (M) como variable independiente, lo que originó tres zonas (A, B y C), definidas con base en la similitud en la distribución temporal del D<sub>E</sub> y el análisis de agrupamiento jerárquico. Los criterios de selección de los grupos incluyeron la homogeneidad en los perfiles temporales del D<sub>E</sub> y la coherencia geográfica de las estaciones dentro de cada grupo. Para identificar patrones espaciales en el D<sub>E</sub>, se realizaron análisis de agrupamiento y se construyeron mapas de isolíneas. Para incluir en el análisis de la información a los demás meses del año, se agruparon las estaciones climáticas por zona. Se calculó para cada caso la proporción del D<sub>E</sub> mensual respecto al D<sub>E</sub> anual y se promedió la tendencia mensual del D<sub>E</sub> por zona, para crear los coeficientes del D<sub>E</sub> mensual para cada zona. Para cotejar la validez de las agrupaciones, se correlacionó el D<sub>E</sub> mensual de cada estación climática con el D<sub>E</sub> promedio por zona. Con base en dicho criterio, se realizó una nueva división de las zonas, reagrupando las estaciones climáticas de acuerdo con el mayor coeficiente de correlación. Lo anterior permitió estimar el valor del D<sub>E</sub> mensual para cualquier estación en Chiapas, esto es, se selecciona el sitio geográfico de interés, el cual está vinculado al coeficiente del D<sub>E</sub> específico y se multiplica por el D<sub>E</sub> anual correspondiente. Se empleó una validación cruzada (k = 10) para evaluar la robustez de los modelos. Los datos se dividieron aleatoriamente en 10 subconjuntos, asegurando una representación balanceada de las diferentes condiciones climáticas en cada iteración. Se calculó el RMSE y se seleccionó el modelo con el menor RMSE promedio.</p>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>Resultados y discusión</title>
+			<p>En Chiapas la P<sub>P</sub> ocurre en dos períodos claramente diferenciados por el volumen captado, el estiaje o menos lluvioso se presenta de noviembre a abril (P<sub>1</sub>) y el lluvioso de junio a septiembre (P<sub>2</sub>), indistintamente de la zona geográfica o subprovincia fisiográfica, situación que de acuerdo con <xref ref-type="bibr" rid="B3">Arreola Muñoz (2019)</xref> se atribuye al movimiento de traslación de la Tierra y la perpendicularidad de los rayos del Sol. En la <xref ref-type="fig" rid="f2">Figura 2</xref> se muestra la relación de P<sub>1</sub> y P<sub>2</sub> respecto a la P<sub>P</sub> total anual (P<sub>A</sub>) en el estado.</p>
+			<p>
+				<fig-group id="f2">
+	<fig xml:lang="es">
+					<label>Figura 2</label>
+					<caption>
+						<title>Relación entre la precipitación anual (P<sub>A</sub>) y la captada en dos periodos distintos: noviembre a abril (P<sub>1</sub>) y junio a septiembre (P<sub>2</sub>) en las subprovincias fisiográficas de Chiapas, México. A: Altos de Chiapas, Llanuras y Pantanos Tabasqueños, Sierras del Norte de Chiapas; B: Sierras Bajas del Petén y Sierra Lacandona; C: Depresión Central de Chiapas, Llanura Costera de Chiapas y Guatemala, Llanura del istmo, Sierras del Sur de Chiapas y Volcanes de Centroamérica.</title>
+					</caption>
+					</fig>
+	<fig xml:lang="en">
+	<label>Figure 2:</label>
+	<caption>
+	<title>Relationship between annual precipitation (AP) and precipitation in two different periods: November to April (P1) and June to September (P2) in the physiographic subprovinces of Chiapas, Mexico. A: Chiapas Highlands, Tabasco Plains and Swamps, Northern Chiapas Mountains; B: Low Mountains of the Petén and Lacandon Jungle; C: Central Depression of Chiapas, Coastal Plain of Chiapas and Guatemala, Isthmus Plain, Southern Chiapas Mountains, and Central American Volcanoes. </title>
+	</caption>
+					<graphic xlink:href="1665-1456-biotecnia-27-e2459-gf2.jpg"/>
+				</fig>
+				</fig-group>
+			</p>
+			<p>El estiaje ocurre cuando la disposición lumínica del Sol se desplaza hacia el Trópico de Capricornio, que aunado con los vientos del Golfo de México y la orografía del estado, contribuyen a que la escasez de humedad se incremente en dirección norte-sur (<xref ref-type="bibr" rid="B3">Arreola Muñoz, 2019</xref>). En contraste, la época lluviosa se intensifica por la incidencia de los vientos alisios y la ocurrencia de los sistemas ciclónicos en el que los gradientes climáticos en la región se atribuyen a diferencias altitudinales y a la dirección de los vientos (<xref ref-type="bibr" rid="B8">Díaz Hernández et al., 2000</xref>), variables que repercuten sobre la vegetación nativa (<xref ref-type="bibr" rid="B1">Alba-López et al., 2003</xref>) y en los cultivos agrícolas de la región, en la que la E<sub>T</sub> se modifica de manera espacial y temporal, además de ser afectada por factores biofísicos (<xref ref-type="bibr" rid="B12">Hidalgo-Sánchez et al., 2021</xref>).</p>
+			<p>En todos los casos se obtuvo una tendencia lineal positiva (p &lt; 0.01) de P<sub>1</sub> o P<sub>2</sub> respecto a P<sub>A</sub>, siendo distinta la cantidad de lluvia recibida entre y dentro de las zonas evaluadas. Esta situación hace evidente las diferencias en la pluviosidad del estado, donde la cobertura vegetal es un almacenamiento hídrico y componente del equilibrio hídrico de las cuencas hidrográficas, cuya humedad interceptada es función de la distribución e intensidad de la lluvia y la tasa de evaporación (<xref ref-type="bibr" rid="B6">David et al., 2006</xref>). Por tales razones, el agua almacenada en el dosel vegetativo influye en el ciclo hidrológico ya que una proporción de la lluvia es interceptada por la vegetación y su evaporación ejerce un efecto negativo en el consumo de agua por las plantas (<xref ref-type="bibr" rid="B4">Baiamonte, 2021</xref>). La P<sub>P</sub> promedio en P<sub>1</sub> en la zona A es de 450 mm, en la B 506 mm y 176 mm en la C, lo que representa 64%, 55% y 77% del volumen captado en cada sitio, respectivamente. En referencia a la P<sub>P</sub> promedio en P<sub>2</sub>, la zona A recibe 1047 mm, la B 1572 mm y 2020 mm en la C que abarca 62%, 45% y 78% de la P<sub>P</sub> recibida, respectivamente. Es importante hacer notar que aquí la idea no es detectar superficies homogéneas en P<sub>P</sub>, sino ubicar regiones similares en cuanto a la distribución geográfica de la lluvia en el estado (<xref ref-type="fig" rid="f3">Figura 3</xref>).</p>
+			<p>
+				<fig-group id="f3">
+	<fig xml:lang="es">
+					<label>Figura 3</label>
+					<caption>
+						<title>Zonas de diferente pluviosidad en Chiapas, México, de acuerdo con la relación de la precipitación anual (P<sub>A</sub>) con la recibida de noviembre a abril (P<sub>1</sub>) y de junio a septiembre (P<sub>2</sub>). P<sub>A</sub>: A= 855 a 4954 mm, B= 1374 a 3693 mm, C: 674 a 4498 mm; P<sub>1</sub>: A= 33 a 1902 mm, B= 313 a 822 mm, C: 33 a 809 mm; P<sub>2</sub>: A= 567 a 2170 mm, B= 774 a 2302 mm, C= 546 a 2665 mm. Los números indican la subprovincia fisiográfica en Chiapas (<xref ref-type="bibr" rid="B13">INEGI, 2001</xref>): 1. Altos de Chiapas; 2. Depresión Central de Chiapas; 3. Llanura Costera de Chiapas y Guatemala; 4. Llanura del Istmo; 5. Llanuras y Pantanos Tabasqueños; 6. Sierra Lacandona; 7. Sierras Bajas del Petén; 8. Sierras del Norte de Chiapas; 9. Sierras del Sur de Chiapas; 10. Volcanes de Centroamérica. </title>
+					</caption>
+					</fig>
+	<fig xml:lang="en">
+	<label>Figure 3:</label>
+	<caption>
+	<title>Rainfall zones in Chiapas, Mexico, according to the relationship between annual precipitation (P<sub>A</sub>), precipitation from November to April (P<sub>1</sub>), and precipitation from June to September (P<sub>2</sub>). P<sub>A</sub>: A= 855 to 4954 mm, B= 1374 to 3693 mm, C= 674 to 4498 mm; P<sub>1</sub>: A= 33 to 1902 mm, B= 313 to 822 mm, C= 33 to 809 mm; P<sub>2</sub>: A= 567 to 2170 mm, B= 774 to 2302 mm, C= 546 to 2665 mm. Numbers indicate the physiographic subprovince in Chiapas (<xref ref-type="bibr" rid="B13">INEGI, 2001</xref>): 1. Chiapas Highlands; 2. Central Depression of Chiapas; 3. Coastal Plain of Chiapas and Guatemala; 4. Isthmus Plain; 5. Tabasco Plains and Swamps; 6. Lacandon Jungle; 7. Low Mountains of the Petén; 8. Northern Chiapas Mountains; 9. Southern Chiapas Mountains; 10. Central American Volcanoes.</title>
+	</caption>
+					<graphic xlink:href="1665-1456-biotecnia-27-e2459-gf3.jpg"/>
+				</fig>
+				</fig-group>
+			</p>
+			<p>Con la idea de depurar este análisis climático, se incluyó la variación proporcional del déficit de evaporación (D<sub>E</sub>) respecto al D<sub>E</sub> anual entre noviembre y abril (D<sub>EP1</sub>), que son los meses de menor pluviosidad (M), agrupando previamente los datos según la ubicación de las estaciones climáticas mostradas en la figura en discusión:</p>
+			<disp-quote>
+				<p>Zona A D<sub>EP1</sub> = 0.145(M)<sup>2</sup> + 0.31(M) R² = 0.95 p &lt; 0.01</p>
+			</disp-quote>
+			<disp-quote>
+				<p>Zona B D<sub>EP1</sub> = 0.057(M)<sup>2</sup> + 0.07(M) R² = 0.90 p &lt; 0.01</p>
+			</disp-quote>
+			<disp-quote>
+				<p>Zona C D<sub>EP1</sub> = 0.015(M)<sup>2</sup> + 0.43(M) R² = 0.88 p &lt; 0.01</p>
+			</disp-quote>
+			<p>Subprovincias fisiográficas: Zona A: Los Altos de Chiapas; Llanuras y Pantanos Tabasqueños; Sierras del Norte de Chiapas. Zona B: Sierras Bajas del Petén; Sierra Lacandona. Zona C: Depresión Central de Chiapas; Llanura Costera de Chiapas y Guatemala; Llanura del Istmo; Sierras del Sur de Chiapas; Volcanes de Centroamérica.</p>
+			<p>La E<sub>V</sub> se relaciona con la P<sub>P</sub> de manera local y global (<xref ref-type="bibr" rid="B11">Geen et al., 2023</xref>), incluyendo a fenómenos meteorológicos eventuales como las tormentas tropicales o ciclones (<xref ref-type="bibr" rid="B15">Li et al., 2015</xref>), donde las fuertes lluvias se asocian a diferentes tasas de evaporación que alteran las condiciones climáticas de una región (<xref ref-type="bibr" rid="B21">Sekizawa et al., 2019</xref>).</p>
+			<p>La tendencia entre ambas variables (D<sub>EP1</sub> y M) hacen evidente las diferencias de humedad en la región en estudio y coincide geográficamente con la pluviosidad en Chiapas (<xref ref-type="fig" rid="f3">Figura 3</xref>), aunque la evaluación de la lluvia y la incorporación del D<sub>E</sub> en el análisis sólo hace referencia a los volúmenes totales que se registran durante el estiaje, no esclarece lo que ocurre durante el periodo lluvioso ni tampoco para un mes específico. Por ello, se amplió el período de análisis en comento para conocer la distribución del D<sub>E</sub> durante todo el año para apreciar los contrastes que ocurren en la estación seca y la húmeda en el estado. El estiaje es más extremo en la Zona A que en el resto del estado, pero durante la época lluviosa se invierte totalmente dicha condición (<xref ref-type="fig" rid="f4">Figura 4</xref>).</p>
+			<p>
+				<fig-group id="f4">
+	<fig xml:lang="es">
+					<label>Figura 4</label>
+					<caption>
+						<title>Variación de la proporción del déficit de evaporación (D<sub>E</sub>) mensual respecto al anual en el estado de Chiapas, México. P<sub>P</sub> = precipitación total mensual; E<sub>V</sub> = evaporación total mensual.</title>
+					</caption>
+					</fig>
+	<fig xml:lang="en">
+	<label>Figure 4:</label>
+	<caption>
+	<title>Proportion variation of monthly evaporation deficit (D<sub>E</sub>) relative to the annual evaporation deficit in the state of Chiapas, Mexico. P<sub>P</sub> = total monthly precipitation; E<sub>V</sub> = total monthly evaporation.</title>
+	</caption>
+					<graphic xlink:href="1665-1456-biotecnia-27-e2459-gf4.jpg"/>
+				</fig>
+				</fig-group>
+			</p>
+			<p>Con las técnicas de regresión empleadas en el presente trabajo se identificaron las variaciones climáticas que ocurren en Chiapas, procedimiento con el que coinciden <xref ref-type="bibr" rid="B16">López-López et al. (2023)</xref> para evaluar la condición de humedad e incluir índices cuantitativos de tipo porcentual para establecer relaciones entre variables (<xref ref-type="bibr" rid="B18">Mundo-Molina et al., 2021</xref>). Con base en este tipo de datos es posible determinar la estación de crecimiento de los cultivos agrícolas y mejorar las prácticas de manejo (<xref ref-type="bibr" rid="B8">Díaz Hernández et al., 2000</xref>).</p>
+			<p>La variación extrema en la P<sub>P</sub>, la E<sub>V</sub> y sus cambios en la región se asocia a la ocurrencia de fenómenos climáticos globales como El Niño y La Niña, que ocasionan inundaciones o sequías, respectivamente (<xref ref-type="bibr" rid="B2">Arellano-Monterrosas y Ruiz-Meza, 2019</xref>), por eso la P<sub>P</sub> durante la estación húmeda varía significativamente desde el punto de vista geográfico y en la escala de tiempo en el lapso que ocurre la retroalimentación de P<sub>P</sub>-viento-E<sub>V</sub> (<xref ref-type="bibr" rid="B22">Sharmila y Hendon, 2020</xref>). A su vez, los eventos climatológicos denominados “nortes” son frecuentes en épocas de “frentes fríos” y se asocian con la disminución de la E<sub>V</sub> (<xref ref-type="bibr" rid="B12">Hidalgo-Sánchez et al., 2021</xref>).</p>
+			<p>La transformación de los valores del D<sub>E</sub> en términos proporcionales al D<sub>E</sub> anual para cada estación climática permitió redefinir las zonas climáticas del estado y ubicar geográficamente sitios homogéneos de la distribución del D<sub>E</sub> mensual durante todo el año (<xref ref-type="fig" rid="f5">Figura 5</xref>).</p>
+			<p>
+				<fig-group id="f5">
+	<fig xml:lang="es">
+					<label>Figura 5</label>
+					<caption>
+						<title>Proporción del déficit de evaporación mensual respecto al anual por zona en Chiapas, México. Los números en el mapa indican las subprovincias fisiográficas (<xref ref-type="bibr" rid="B13">INEGI, 2001</xref>): 1. Altos de Chiapas; 2. Depresión Central de Chiapas; 3. Llanura Costera de Chiapas y Guatemala; 4. Llanura del Istmo; 5. Llanuras y Pantanos Tabasqueños; 6. Sierra Lacandona; 7. Sierras Bajas del Petén; 8. Sierras del Norte de Chiapas; 9. Sierras del Sur de Chiapas; 10. Volcanes de Centroamérica.</title>
+					</caption>
+					</fig>
+	<fig xml:lang="en">
+	<label>Figure 5:</label>
+	<caption>
+	<title>Proportion of monthly evaporation deficit relative to the annual evaporation deficit by zone in Chiapas, Mexico. Numbers on the map indicate the physiographic subprovinces (<xref ref-type="bibr" rid="B13">INEGI, 2001</xref>): 1. Chiapas Highlands; 2. Central Depression of Chiapas; 3. Coastal Plain of Chiapas and Guatemala; 4. Isthmus Plain; 5. Tabasco Plains and Swamps; 6. Lacandon Jungle; 7. Low Mountains of the Petén; 8. Northern Chiapas Mountains; 9. Southern Chiapas Mountains; 10. Central American Volcanoes.</title>
+	</caption>
+					<graphic xlink:href="1665-1456-biotecnia-27-e2459-gf5.jpg"/>
+				</fig>
+				</fig-group>
+			</p>
+			<p>Las condiciones fisiográficas de Chiapas muestran gradientes altitudinales que originan diversos tipos de climas, incluso dentro de una misma subcuenca (<xref ref-type="bibr" rid="B17">Mundo-Molina, 2019</xref>), lo cual se apreció con claridad en este estudio; sin embargo, la tendencia de la relación de la P<sub>P</sub> anual respecto a la captada en los meses de mayor y menor pluviosidad, permitió formar tres grupos por sus similitudes a la escala de trabajo empleada, lo cual es útil para definir qué tanta lluvia se capta y cómo se distribuye en el año, información que se requiere en la planeación agrícola y entender su efecto sobre los ciclos biológicos (<xref ref-type="bibr" rid="B9">Esquivel-Román et al., 2018</xref>).</p>
+			<p>Es importante hacer notar que el análisis aquí presentado hace énfasis en la similitud de la distribución de la humedad en la región y no en los datos puntuales ni absolutos. De hecho, dentro de cada una de las zonas definidas hay variaciones notables en el D<sub>E</sub> tanto a nivel mensual como anual. Al respecto, si se hace el contraste entre el valor máximo y mínimo del D<sub>E</sub> por zona, la diferencia en la zona A es de siete, en la B es de seis y en la C de cuatro veces entre ambos extremos, lo que indica regiones con distinta condición de humedad. A pesar de ello, la tendencia de la distribución del D<sub>E</sub> a lo largo del año es similar dentro de cada zona y, desde luego, diferente entre ellas.</p>
+			<p>La relación del D<sub>E</sub> anual con el que ocurre de noviembre a abril en Chiapas hace evidente las diferencias en la condición de humedad que coincide con la pluviosidad en el estado, pero no detecta los cambios que ocurren a través del año. Esto se superó al calcular la proporción del D<sub>E</sub> mensual respecto al anual. Los argumentos en comento fortalecen la propuesta de emplear el D<sub>E</sub> como indicador del balance de humedad de la zona de estudio y no restringirse exclusivamente a la P<sub>P</sub>.</p>
+			<p>Con el procedimiento propuesto es posible conocer el D<sub>E</sub> que ocurre en un mes en particular y sitio específico, para ello, se identifica la zona a la que corresponda la ubicación geográfica de interés, se selecciona el coeficiente del mes deseado (<xref ref-type="fig" rid="f5">Figura 5</xref>) y se multiplica por su D<sub>E</sub> anual. La precisión de la evaluación del D<sub>E</sub> se hizo a través de la relación entre los valores estimados y los observados (<xref ref-type="fig" rid="f6">Figura 6</xref>).</p>
+			<p>
+				<fig-group id="f6">
+	<fig xml:lang="es">
+					<label>Figura 6</label>
+					<caption>
+						<title>Relación entre el déficit de evaporación (D<sub>E</sub>) mensual observado y estimado para cualquier mes del año y ubicación geográfica de las estaciones climáticas en el estado de Chiapas, México.</title>
+					</caption>
+					</fig>
+	<fig xml:lang="en">
+	<label>Figure 6:</label>
+	<caption>
+	<title>Relationship between the observed and estimated monthly evaporation deficit (D<sub>E</sub>) for any month of the year and the geographic location of the weather stations in the state of Chiapas, Mexico.</title>
+	</caption>
+					<graphic xlink:href="1665-1456-biotecnia-27-e2459-gf6.jpg"/>
+				</fig>
+				</fig-group>
+			</p>
+			<p>Los resultados de la validación cruzada mostraron que el modelo presenta un buen desempeño en la predicción del D<sub>E</sub> (Zona A: RMSE = 0.216; Zona B: RMSE = 0.065; Zona C: RMSE = 0.415), lo que sugiere que el modelo es robusto, no está sobre ajustado y puede ser una herramienta útil para evaluar el B<sub>H</sub> de la región en estudio, que revela patrones espaciales y temporales del D<sub>E</sub> en Chiapas y subraya la importancia de considerar la relación entre la P<sub>P</sub> y la E<sub>V</sub> para comprender la dinámica del B<sub>H</sub> en la región.</p>
+			<p>Con el procedimiento aquí descrito es posible conocer la distribución mensual del D<sub>E</sub>, por lo que si se adopta fortalecerá la toma de decisiones para coadyuvar a mejorar las condiciones agrícolas y ambientales. Por lo anterior, es notorio que la humedad en el estado no debe considerarse constante porque varía en espacio y tiempo, situación que imposibilita establecer zonas homogéneas en la captación de lluvia, lo cual no es la idea de este estudio, sino definir áreas similares en cuanto a su distribución.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>En este estudio se evaluó el D<sub>E</sub> como indicador del B<sub>H</sub> en el estado de Chiapas, México. Los resultados obtenidos permiten concluir que el D<sub>E</sub> es una herramienta útil para identificar zonas y épocas del año con mayor riesgo de estrés hídrico o exceso de humedad. La distribución espacial del D<sub>E</sub> en Chiapas presenta una alta variabilidad, lo que refleja la complejidad de los procesos hidrometeorológicos en la región. Los modelos desarrollados para estimar el D<sub>E</sub> mensual mostraron un buen desempeño, lo que sugiere que pueden ser utilizados como una herramienta de apoyo para la toma de decisiones en la gestión de recursos hídricos. Estos hallazgos permiten identificar áreas vulnerables a sequía e inundaciones, optimizar el uso del agua en la agricultura y otros sectores e informar las políticas públicas relacionadas con la gestión de recursos hídricos. Sin embargo, es importante reconocer como limitaciones del estudio que la calidad de los datos climáticos podría afectar la precisión de los resultados, el estudio se centró en una escala temporal y espacial específica, por lo que los datos pueden no ser generalizables a otras regiones o períodos de tiempo. Futuras investigaciones podrían enfocarse a establecer el efecto del cambio climático sobre la distribución espacial y temporal del D<sub>E,</sub> así como su relación con la productividad agrícola.</p>
+		</sec>
+		<sec>
+			<title>Conflictos de interés</title>
+			<p>Los autores declaran la no existencia de conflicto de interés.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>Alba-López, M.P., González-Espinosa, M., Ramírez-Marcial, N. y Castillo-Santiago, M.Á. 2003. Determining the distribution of <italic>Pinus</italic> ssp. in the Central Highlands of Chiapas, Mexico. Botanical Sciences. 73: 7-15. https://doi.org/10.17129/botsci.1675</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alba-López</surname>
+							<given-names>M.P.</given-names>
+						</name>
+						<name>
+							<surname>González-Espinosa</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez-Marcial</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Castillo-Santiago</surname>
+							<given-names>M.Á</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Determining the distribution of Pinus ssp. in the Central Highlands of Chiapas, Mexico</article-title>
+					<source>Botanical Sciences</source>
+					<volume>73</volume>
+					<fpage>7</fpage>
+					<lpage>15</lpage>
+					<pub-id pub-id-type="doi">10.17129/botsci.1675</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Arellano-Monterrosas, J.L. y Ruiz-Meza, L.E. 2019. Variabilidad climática y eventos extremos en la cuenca del río Zanatenco, Chiapas. Tecnología y Ciencias del Agua. 10: 249-274. https://doi.org/10.24850/j-tyca-2019-03-10</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arellano-Monterrosas</surname>
+							<given-names>J.L.</given-names>
+						</name>
+						<name>
+							<surname>Ruiz-Meza</surname>
+							<given-names>L.E</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Variabilidad climática y eventos extremos en la cuenca del río Zanatenco, Chiapas</article-title>
+					<source>Tecnología y Ciencias del Agua</source>
+					<volume>10</volume>
+					<fpage>249</fpage>
+					<lpage>274</lpage>
+					<pub-id pub-id-type="doi">10.24850/j-tyca-2019-03-10</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Arreola Muñoz, A.V. 2019. Variabilidad y cambio climático regionalizado en Chiapas. Diversidad. 16: 44-54. <ext-link ext-link-type="uri" xlink:href="https://www.idesmac.org/revistas/index.php/diversidad/article/view/66">https://www.idesmac.org/revistas/index.php/diversidad/article/view/66</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Arreola Muñoz</surname>
+							<given-names>A.V</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Variabilidad y cambio climático regionalizado en Chiapas</article-title>
+					<source>Diversidad</source>
+					<volume>16</volume>
+					<fpage>44</fpage>
+					<lpage>54</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.idesmac.org/revistas/index.php/diversidad/article/view/66">https://www.idesmac.org/revistas/index.php/diversidad/article/view/66</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Baiamonte, G. 2021. Simplified Interception/Evaporation Model. Hydrology. 8: 99. https://doi.org/10.3390/hydrology8030099</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Baiamonte</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Simplified Interception/Evaporation Model</article-title>
+					<source>Hydrology</source>
+					<volume>8</volume>
+					<issue-part>99</issue-part>
+					<pub-id pub-id-type="doi">10.3390/hydrology8030099</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>CONAGUA. Comisión Nacional del Agua. Información climatológica del estado de Chiapas. [Consultado 24 Abril 2024] 2024. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://smn.conagua.gob.mx/es/informacion-climatologica-por-estado?estado = chis">https://smn.conagua.gob.mx/es/informacion-climatologica-por-estado?estado = chis</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>CONAGUA. Comisión Nacional del Agua</collab>
+					</person-group>
+					<source>Información climatológica del estado de Chiapas</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-04-24">24 Abril 2024</date-in-citation>
+					<year>2024</year>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://smn.conagua.gob.mx/es/informacion-climatologica-por-estado?estado = chis">https://smn.conagua.gob.mx/es/informacion-climatologica-por-estado?estado = chis</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>David, J.S., Valente, F. y Gash, J.H. 2006. Evaporation of intercepted rainfall. En: Encyclopedia of Hydrological Sciences. M.G. Anderson (ed.), pp 627-634. John Wiley, Chichester, U. K., https://doi.org/10.1002/0470848944.hsa046</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>David</surname>
+							<given-names>J.S.</given-names>
+						</name>
+						<name>
+							<surname>Valente</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Gash</surname>
+							<given-names>J.H</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<chapter-title>Evaporation of intercepted rainfall</chapter-title>
+					<source>Encyclopedia of Hydrological Sciences</source>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Anderson</surname>
+							<given-names>M.G</given-names>
+						</name>
+					</person-group>
+					<fpage>627</fpage>
+					<lpage>634</lpage>
+					<publisher-name>John Wiley</publisher-name>
+					<publisher-loc>Chichester, U. K</publisher-loc>
+					<pub-id pub-id-type="doi">10.1002/0470848944.hsa046</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Derardja, B., Khadra, R., Abdelmoneim, A.A.A., El-Shirbeny, M.A., Valsamidis, T., De Pasquale, V., Deflorio, A.M. y Volden, E. 2024. Advancements in remote sensing for evapotranspiration estimation: a comprehensive review of temperature-based models. Remote Sensing. 16:1927. https://doi.org/10.3390/rs16111927</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Derardja</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Khadra</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Abdelmoneim</surname>
+							<given-names>A.A.A.</given-names>
+						</name>
+						<name>
+							<surname>El-Shirbeny</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Valsamidis</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>De Pasquale</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Deflorio</surname>
+							<given-names>A.M.</given-names>
+						</name>
+						<name>
+							<surname>Volden</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Advancements in remote sensing for evapotranspiration estimation: a comprehensive review of temperature-based models</article-title>
+					<source>Remote Sensing</source>
+					<volume>16</volume>
+					<issue-part>1927</issue-part>
+					<pub-id pub-id-type="doi">10.3390/rs16111927</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Díaz Hernández, B.M., Plascencia Vargas, H., Arteaga Ramírez, R. y Vázquez Peña, M.A. 2000. Estudio y zonificación agroclimáticos en la región Los Altos de Chiapas, México. Investigaciones geográficas. 42: 7-27. <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0188-46112000000200002&amp; lng=es&amp;tlng=es">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0188-46112000000200002&amp; lng=es&amp;tlng=es</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Díaz Hernández</surname>
+							<given-names>B.M.</given-names>
+						</name>
+						<name>
+							<surname>Plascencia Vargas</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Arteaga Ramírez</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Vázquez Peña</surname>
+							<given-names>M.A</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>Estudio y zonificación agroclimáticos en la región Los Altos de Chiapas, México</article-title>
+					<source>Investigaciones geográficas</source>
+					<volume>42</volume>
+					<fpage>7</fpage>
+					<lpage>27</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0188-46112000000200002&amp; lng=es&amp;tlng=es">http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0188-46112000000200002&amp; lng=es&amp;tlng=es</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Esquivel-Román, A., Callejas-Chavero, A. y Villegas-Guzmán, G.A. 2018. Relación de la temporalidad (estiaje y lluvias) con la riqueza y abundancia de arañas saltarinas (Araneae: Salticidae) en cinco localidades de San Luis Potosí. Acarología y Aracnología. 2: 448-475.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Esquivel-Román</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Callejas-Chavero</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Villegas-Guzmán</surname>
+							<given-names>G.A</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Relación de la temporalidad (estiaje y lluvias) con la riqueza y abundancia de arañas saltarinas (Araneae: Salticidae) en cinco localidades de San Luis Potosí</article-title>
+					<source>Acarología y Aracnología</source>
+					<volume>2</volume>
+					<fpage>448</fpage>
+					<lpage>475</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Evett, S.R., Schwartz, R.C., Casanova, J.J. y Heng, L.K. 2012. Soil water sensing for water balance, ET and WUE. Agricultural Water Management, 104:1-9. https://doi.org/10.1016/j.agwat.2011.12.002</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Evett</surname>
+							<given-names>S.R.</given-names>
+						</name>
+						<name>
+							<surname>Schwartz</surname>
+							<given-names>R.C.</given-names>
+						</name>
+						<name>
+							<surname>Casanova</surname>
+							<given-names>J.J.</given-names>
+						</name>
+						<name>
+							<surname>Heng</surname>
+							<given-names>L.K</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Soil water sensing for water balance, ET and WUE</article-title>
+					<source>Agricultural Water Management</source>
+					<volume>104</volume>
+					<fpage>1</fpage>
+					<lpage>9</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.agwat.2011.12.002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Geen, R., Pietschnig, M., Agrawal, S., Dey, D., Lambert, H. y Vallis, G.K. 2023. The relationship between model biases in East Asian summer monsoon rainfall and land evaporation. Advances in Atmospheric Sciences. 1-14. https://doi.org/10.1007/s00376-023-2297-1</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Geen</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Pietschnig</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Agrawal</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Dey</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Lambert</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Vallis</surname>
+							<given-names>G.K</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>The relationship between model biases in East Asian summer monsoon rainfall and land evaporation</article-title>
+					<source>Advances in Atmospheric Sciences</source>
+					<fpage>1</fpage>
+					<lpage>14</lpage>
+					<pub-id pub-id-type="doi">10.1007/s00376-023-2297-1</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Hidalgo-Sánchez, M., Ángeles-Pérez, G., Yépez, E.A., Plascencia-Escalante, F.O., Delgado-Balbuena, J. y González-Martínez, T.M. 2021. Evapotranspiración e intercambio de energía en un bosque templado de México. Tecnología y Ciencias del Agua . 12: 490-537. https://doi.org/10.24850/j-tyca-2021-02-11</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hidalgo-Sánchez</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ángeles-Pérez</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Yépez</surname>
+							<given-names>E.A.</given-names>
+						</name>
+						<name>
+							<surname>Plascencia-Escalante</surname>
+							<given-names>F.O.</given-names>
+						</name>
+						<name>
+							<surname>Delgado-Balbuena</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>González-Martínez</surname>
+							<given-names>T.M</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Evapotranspiración e intercambio de energía en un bosque templado de México</article-title>
+					<source>Tecnología y Ciencias del Agua</source>
+					<volume>12</volume>
+					<fpage>490</fpage>
+					<lpage>537</lpage>
+					<pub-id pub-id-type="doi">10.24850/j-tyca-2021-02-11</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>INEGI. Instituto Nacional de Estadística y Geografía. Conjunto de datos vectoriales fisiográficos. Continuo Nacional serie I. Subprovincias fisiográficas. [Consultado 18 Mayo 2024] 2001. Disponible en: <comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/temas/fisiografia/#Descargas">https://www.inegi.org.mx/temas/fisiografia/#Descargas</ext-link>
+					</comment>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>INEGI. Instituto Nacional de Estadística y Geografía</collab>
+					</person-group>
+					<article-title>Conjunto de datos vectoriales fisiográficos</article-title>
+					<source>Continuo Nacional serie I. Subprovincias fisiográficas</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-05-18">18 Mayo 2024</date-in-citation>
+					<year>2001</year>
+					<comment>Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/temas/fisiografia/#Descargas">https://www.inegi.org.mx/temas/fisiografia/#Descargas</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>QGIS Development Team. 2023. QGIS Geographic Information System version 3.28.7 <ext-link ext-link-type="uri" xlink:href="https://qgis.org/es/site/">https://qgis.org/es/site/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>QGIS Development Team</collab>
+					</person-group>
+					<year>2023</year>
+					<source>QGIS Geographic Information System version 3.28.7</source>
+					<ext-link ext-link-type="uri" xlink:href="https://qgis.org/es/site/">https://qgis.org/es/site/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Li, Q., Wang, Y. y Duan, Y. 2015. Impacts of evaporation of rainwater on tropical cyclone structure and intensity-A revisit. Journal of the Atmospheric Sciences. 72: 1323-1345, https://doi.org/10.1175/JAS-D-14-0224.1</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Duan</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Impacts of evaporation of rainwater on tropical cyclone structure and intensity-A revisit</article-title>
+					<source>Journal of the Atmospheric Sciences</source>
+					<volume>72</volume>
+					<fpage>1323</fpage>
+					<lpage>1345</lpage>
+					<pub-id pub-id-type="doi">10.1175/JAS-D-14-0224.1</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>López-López, C., Exebio-García, A.A., Flores-Velázquez, J. y Juárez Márquez, A.E. 2023. Índice de estrés hídrico (IEH) e índice de servicio del riego (ISR) en función de la huella hídrica de los cultivos en los módulos de riego en México. Ciencia Latina Revista Científica Multidisciplinar. 7: 11303-11331. https://doi.org/10.37811/cl_rcm.v7i2.6214</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>López-López</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Exebio-García</surname>
+							<given-names>A.A.</given-names>
+						</name>
+						<name>
+							<surname>Flores-Velázquez</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Juárez Márquez</surname>
+							<given-names>A.E</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Índice de estrés hídrico (IEH) e índice de servicio del riego (ISR) en función de la huella hídrica de los cultivos en los módulos de riego en México</article-title>
+					<source>Ciencia Latina Revista Científica Multidisciplinar</source>
+					<volume>7</volume>
+					<fpage>11303</fpage>
+					<lpage>11331</lpage>
+					<pub-id pub-id-type="doi">10.37811/cl_rcm.v7i2.6214</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Mundo-Molina, M.D. 2019. Discusión a la nota técnica “Índices de cambio climático en la cuenca del Río Grande, Chiapas, México” de Figueroa-Gallegos, J.A. 2017. 8: 137-143. Tecnología y Ciencias del Agua . 10: 283-292. https://doi.org/10.24850/j-tyca-2019-06-d1</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mundo-Molina</surname>
+							<given-names>M.D</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Discusión a la nota técnica “Índices de cambio climático en la cuenca del Río Grande, Chiapas, México” de Figueroa-Gallegos, J.A. 2017. 8: 137-143</article-title>
+					<source>Tecnología y Ciencias del Agua</source>
+					<volume>10</volume>
+					<fpage>283</fpage>
+					<lpage>292</lpage>
+					<pub-id pub-id-type="doi">10.24850/j-tyca-2019-06-d1</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Mundo-Molina, M.D., Godínez-Gutiérrez, E., Pérez-Díaz, J. y Hernández-Cruz, D. 2021. Detecting climate change in using extreme data from two surface weather stations: Case study Valle of Comitán and La Esperanza, Chiapas, México. Journal of Water Resource and Protection. 13: 1061-1075. https://doi.org/10.4236/jwarp.2021.1312057</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mundo-Molina</surname>
+							<given-names>M.D.</given-names>
+						</name>
+						<name>
+							<surname>Godínez-Gutiérrez</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Pérez-Díaz</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Hernández-Cruz</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Detecting climate change in using extreme data from two surface weather stations: Case study Valle of Comitán and La Esperanza, Chiapas, México</article-title>
+					<source>Journal of Water Resource and Protection</source>
+					<volume>13</volume>
+					<fpage>1061</fpage>
+					<lpage>1075</lpage>
+					<pub-id pub-id-type="doi">10.4236/jwarp.2021.1312057</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>R Core Team. 2020. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL <ext-link ext-link-type="uri" xlink:href="https://www.R-project.org/">https://www.R-project.org/</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>R Core Team</collab>
+					</person-group>
+					<year>2020</year>
+					<source>R: A language and environment for statistical computing</source>
+					<publisher-name>R Foundation for Statistical Computing</publisher-name>
+					<publisher-loc>Vienna, Austria</publisher-loc>
+					<ext-link ext-link-type="uri" xlink:href="https://www.R-project.org/">https://www.R-project.org/</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Ruiz-Ortega, F.J., Clemente, E., Martínez-Rebollar, A. y Flores-Prieto, J.J. 2024. An evolutionary parsimonious approach to estimate daily reference evapotranspiration. Scientific Reports. 14(1):6736. https://doi.org/10.1038/s41598-024-56770-3</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ruiz-Ortega</surname>
+							<given-names>F.J.</given-names>
+						</name>
+						<name>
+							<surname>Clemente</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Martínez-Rebollar</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Flores-Prieto</surname>
+							<given-names>J.J</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>An evolutionary parsimonious approach to estimate daily reference evapotranspiration</article-title>
+					<source>Scientific Reports</source>
+					<volume>14</volume>
+					<issue>1</issue>
+					<issue-part>6736</issue-part>
+					<pub-id pub-id-type="doi">10.1038/s41598-024-56770-3</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Sekizawa, S., Miyasaka, T., Nakamura, H., Shimpo, A., Takemura, K. y Maeda, S. 2019. Anomalous moisture transport and oceanic evaporation during a torrential rainfall event over western Japan in early July 2018. SOLA 15A. 25-30. https://doi.org/10.2151/sola.15A-005</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sekizawa</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Miyasaka</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Nakamura</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Shimpo</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Takemura</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Maeda</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Anomalous moisture transport and oceanic evaporation during a torrential rainfall event over western Japan in early July 2018</article-title>
+					<source>SOLA 15A</source>
+					<fpage>25</fpage>
+					<lpage>30</lpage>
+					<pub-id pub-id-type="doi">10.2151/sola.15A-005</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Sharmila, S. y Hendon, H.H. 2020. Mechanisms of multiyear variations of Northern Australia wet-season rainfall. Scientific Reports . 10 :5086. https://doi.org/10.1038/s41598-020-61482-5</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sharmila</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Hendon</surname>
+							<given-names>H.H</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Mechanisms of multiyear variations of Northern Australia wet-season rainfall</article-title>
+					<source>Scientific Reports</source>
+					<volume>10</volume>
+					<issue-part>5086</issue-part>
+					<pub-id pub-id-type="doi">10.1038/s41598-020-61482-5</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Villalobos-Cano, O., Santellano-Estrada, E., Stringam, B.L., Grover, K. y Esparza-Vela, E. 2024. Estimating water use efficiency for major crops in Chihuahua, Mexico: crop yield function models vs. evapotranspiration. Sustainability. 16:1851. https://doi.org/ 10.3390/su16051851</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Villalobos-Cano</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Santellano-Estrada</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Stringam</surname>
+							<given-names>B.L.</given-names>
+						</name>
+						<name>
+							<surname>Grover</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Esparza-Vela</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Estimating water use efficiency for major crops in Chihuahua, Mexico: crop yield function models vs. evapotranspiration</article-title>
+					<source>Sustainability</source>
+					<volume>16</volume>
+					<issue-part>1851</issue-part>
+					<pub-id pub-id-type="doi">10.3390/su16051851</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Wanniarachchi, S. y Sarukkalige, R.A. 2022. A review on evapotranspiration estimation in agricultural water management: Past, Present, and Future. Hydrology . 9(7), 123. https://doi.org/ 10.3390/hydrology9070123</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wanniarachchi</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Sarukkalige</surname>
+							<given-names>R.A</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>A review on evapotranspiration estimation in agricultural water management: Past, Present, and Future</article-title>
+					<source>Hydrology</source>
+					<volume>9</volume>
+					<issue>7</issue>
+					<issue-part>123</issue-part>
+					<pub-id pub-id-type="doi">10.3390/hydrology9070123</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

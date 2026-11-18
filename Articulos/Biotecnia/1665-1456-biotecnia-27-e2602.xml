@@ -1,0 +1,2735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2602</article-id>
+			<article-id pub-id-type="other">00146</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Combined effect of flavonoids-pectin ternary complexes on <italic><italic>in vitro</italic> pancreatic lipase activity</italic></article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Efecto combinado de los complejos ternarios entre flavonoides y pectina sobre la actividad <italic>in vitro</italic> de lipasa pancreática</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-0248-9175</contrib-id>
+					<name>
+						<surname>Martinez-Gonzalez</surname>
+						<given-names>Alejandra Isabel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-2082-873X</contrib-id>
+					<name>
+						<surname>de la Rosa</surname>
+						<given-names>Laura Alejandra</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-1598-2046</contrib-id>
+					<name>
+						<surname>Subiría-Cueto</surname>
+						<given-names>Carlos Rodrigo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-6162-8139</contrib-id>
+					<name>
+						<surname>Emilio</surname>
+						<given-names>Alvarez-Parrilla</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Departamento de Ciencias Químico Biológicas, Instituto de Ciencias Biomédicas, Universidad Autónoma de Ciudad Juárez, Anillo envolvente PRONAF y Estocolmo s/n, Ciudad Juárez CP. 32310, Chihuahua, México. alejandra.martinez@uacj.mx, ldelaros@uacj.mx, ealvarez@uacj.mx</institution>
+				<institution content-type="normalized">Universidad Autónoma de Ciudad Juárez</institution>
+				<institution content-type="orgdiv1">Instituto de Ciencias Biomédicas</institution>
+				<institution content-type="orgname">Universidad Autónoma de Ciudad Juárez</institution>
+				<addr-line>
+					<city>Ciudad Juárez</city>
+					<postal-code>32310</postal-code>
+					<state>Chihuahua</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>alejandra.martinez@uacj.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Departamento de Posgrado, Universidad Tecnológica de Torreón, Carretera Torreón - Matamoros Km 10, S/N, Torreón CP. 27400, Coahuila, México. csubiria@utt.edu.mx</institution>
+				<institution content-type="normalized">Universidad Tecnológica de Torreón</institution>
+				<institution content-type="orgname">Universidad Tecnológica de Torreón</institution>
+				<addr-line>
+					<city>Torreón</city>
+					<postal-code>27400</postal-code>
+					<state>Coahuila</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>csubiria@utt.edu.mx</email>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Autor para correspondencia: Emilio Alvarez-Parrilla Correo-e: <email>ealvarez@uacj.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>13</day>
+				<month>06</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2602</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>09</day>
+					<month>03</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>23</day>
+					<month>05</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>13</day>
+					<month>06</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>Nowadays, natural options to inhibit pancreatic lipase (PL) as part of obesity treatments have been studied, where vegetables’ bioactive compounds, such as flavonoids, represent an option. However, other compounds like pectin (PEC) can also be found in these products. Due to the scarce studies that analyze the effect of combined inhibitory effect of flavonoids (Catechin, CAT; Epicatechin, EPI; and Naringenin, NAR) both in presence and absence of PEC, this work was carried out. Combination index (CI) values and isobolograms on PL activity were determined. The enzymatic activity was measured using UV-Vis spectroscopy. Six different flavonoids’ combinations, alone and in conjunction with PEC were evaluated. Without PEC, IC<sub>50</sub> values for individual flavonoids were similar, and they exhibited an uncompetitive inhibition mode. According to the CI values and the isobolograms, synergistic effects (CI &lt; 0.90) were predominantly observed for flavonoids combinations, regardless of the presence of PEC. It appeared to enhance the inhibitory capacity of the flavonoid-flavonoid combinations, contributing to a stronger synergistic effect on PL activity. Notably, the EPI-NAR combination in both the presence and absence of PEC demonstrated the most significant synergistic inhibitory effect, with CI values of 0.58 ± 0.02 and 0.68 ± 0.00, respectively.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen:</title>
+				<p>Actualmente, se buscan opciones naturales para la inhibición de lipasa pancreática (PL), esto como parte del tratamiento para la obesidad. En donde, compuestos bioactivos de los vegetales como los flavonoides son opciones. Sin embargo, en estos productos también se encuentran otros compuestos como la pectina (PEC). Debido a la falta de estudios que analicen el efecto combinado de las propiedades inhibitorias de flavonoides (como Catequina, CAT; Epicatequina, EPI; y Naringenina, NAR) con y sin PEC, ese fue el objetivo de este trabajo Se determinaron valores de índice de combinación (CI), e isobologramas. La actividad catalítica se midió empleando espectroscopia UV-Vis. Se evaluaron seis diferentes combinaciones de flavonoides, con y sin PEC. Sin PEC, los valores individuales de IC<sub>50</sub> fueron similares, y presentaron un modo de inhibición acompetitiva. De acuerdo con los valores de CI y los isobologramas, se observaron principalmente efectos sinérgicos (CI &lt; 0.90) para las combinaciones de flavonoides, aún con PEC. Esta aumentó la actividad inhibitoria de las combinaciones, contribuyendo con un mayor efecto sinérgico sobre la actividad de PL. De forma notable, la combinación EPI-NAR, con y sin PEC presentó el mejor efecto sinérgico inhibitorio (valores de CI de 0.58 ± 0.02 y 0.68 ± 0.00, respectivamente).</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Inhibition</kwd>
+				<kwd>Isobologram</kwd>
+				<kwd>Synergistic</kwd>
+				<kwd>Additive</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>inhibición</kwd>
+				<kwd>isobolograma</kwd>
+				<kwd>synergista</kwd>
+				<kwd>additive</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group award-type="contract">
+					<funding-source>CONAHCyT</funding-source>
+					<funding-source>UACJ</funding-source>
+					<award-id>RIPI2023ICB1</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<fig-count count="6"/>
+				<table-count count="3"/>
+				<equation-count count="4"/>
+				<ref-count count="49"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>Obesity is one of the largest global health issues, often linked to other non-communicable diseases (<xref ref-type="bibr" rid="B44">Yakaiah et al., 2021</xref>). Among the commonly used treatment options, complementary drugs, such as Orlistat, are used for weight loss (<xref ref-type="bibr" rid="B44">Yakaiah <italic>et al</italic>., 2021</xref>). Orlistat inhibits lipase activities in the human body, thereby reducing lipid absorption (<xref ref-type="bibr" rid="B28">Nagao et al., 2009</xref>). The primary target for this synthetic compound is pancreatic lipase (PL), a key enzyme in lipid metabolism that can hydrolyze up to 70 % of total dietary triglycerides (<xref ref-type="bibr" rid="B5">Birari and Bhutani, 2007</xref>). However, it has been noted that the inhibition of PL by compounds like Orlistat can lead to several unwanted side effects (<xref ref-type="bibr" rid="B28">Nagao et al., 2009</xref>). Consequently, natural compounds from vegetables like polyphenolics and particularly flavonoids may represent a more favorable alternative. Flavonoids belong to a large class of phenolic compounds with a common backbone structure of C6-C3-C6 rings (<xref ref-type="bibr" rid="B30">Panche et al., 2016</xref>). <xref ref-type="fig" rid="f1">Figure 1</xref> illustrates the flavonoid backbone structure along with the structure of the three specific flavonoids used in this study: Catechin (CAT), Epicatechin (EPI), and Naringenin (NAR) (<xref ref-type="bibr" rid="B16">Huang and Zhao, 2008</xref>). These flavonoids were selected since CAT and EPI are isomeric structures, and only CAT inhibition over PL has been studied (Martinez-Gonzalez <italic>et al</italic>., 2020 ), whereas the flavonoid NAR has recently gained interest (López-Almada <italic>et al</italic>., 2025) (<xref ref-type="fig" rid="f1">Figura 1</xref>).</p>
+			<p>
+				<fig-group id="f1">
+	<fig xml:lang="en">
+					<label>Figure 1</label>
+					<caption>
+						<title>Flavonoid backbone and some examples of flavonoids chemical structures.</title>
+					</caption>
+					</fig>
+	<fig xml:lang="es">
+	<label>Figura 1.</label>
+	<caption>
+	<title>Estructura química (esqueleto) de flavonoides y algunos ejemplos de sus estructuras químicas.</title>
+	</caption>
+					<graphic xlink:href="1665-1456-biotecnia-27-e2602-gf1.jpg"/>
+				</fig>
+				</fig-group>
+			</p>
+			<p>The beneficial properties of flavonoids on human health have been reported in numerous studies (<xref ref-type="bibr" rid="B25">Mechchate et al., 2021</xref>). In general, flavonoids’ properties such as antioxidant, anticancer, anti-inflammatory and cardiovascular disease prevention have been analyzed (Zheng <italic>et al</italic>., 2025). Particularly, flavonoids like CAT, EPI, and NAR have been observed to possess various properties, including antioxidant (<xref ref-type="bibr" rid="B27">Mita et al., 2024</xref>), and anti-inflammatory (<xref ref-type="bibr" rid="B2">Alam et al., 2013</xref>). However, few studies have investigated their effects on lipid metabolism, and scarer have evaluated their effect over PL activity, sometimes referred as antiobesity capacity. For instance, the intake of flavonoids was related to outcomes such as reduced body fat with CAT (<xref ref-type="bibr" rid="B28">Nagao et al., 2009</xref>), decreased weight gain with EPI (<xref ref-type="bibr" rid="B15">Hidalgo et al., 2020</xref>), and lowered total cholesterol with NAR (<xref ref-type="bibr" rid="B2">Alam <italic>et al</italic>., 2013</xref>). In the case of evaluations related to PL activity and flavonoids inhibitory properties, most investigations have examined different extracts like those from <italic>Citrus</italic> peel (<xref ref-type="bibr" rid="B17">Huang et al., 2020</xref>). Limited research has focused on the antiobesity capabilities of free flavonoids like CAT, EPI, and NAR separately (<xref ref-type="bibr" rid="B22">Li <italic>et al</italic>., 2023</xref>; <xref ref-type="bibr" rid="B24">Martinez-Gonzalez et al., 2017</xref>), and none in combinations.</p>
+			<p>However, it is important to recognize that in vegetables other metabolites beside flavonoids can be found, like pectin (PEC). PEC is a polysaccharide that constitutes a major component of plant cell walls (<xref ref-type="bibr" rid="B14">Harholt et al., 2010</xref>), playing roles such as a cementing agent for cellulose fibrils (<xref ref-type="bibr" rid="B7">Chandel et al., 2022</xref>). Its polymeric structure mainly consists of galacturonic acid units, along with other sugars (<xref ref-type="bibr" rid="B14">Harholt <italic>et al</italic>., 2010</xref>; <xref ref-type="bibr" rid="B41">Tucker et al., 2017</xref>). Its structure has been extensively studied (<xref ref-type="bibr" rid="B7">Chandel <italic>et al</italic>., 2022</xref>; <xref ref-type="bibr" rid="B14">Harholt <italic>et al</italic>., 2010</xref>), and some of its functional properties as a dietary fiber including anti-inflammatory (<xref ref-type="bibr" rid="B19">Koriem et al., 2014</xref>), antibacterial (<xref ref-type="bibr" rid="B49">Zhu et al., 2019</xref>), and modulator of gut microbiota (Blanco-Pérez <italic>et al</italic>., 2021). But the studies evaluating its inhibitory effect on lipid digestion or over PL activity are limited (<xref ref-type="bibr" rid="B20">Kumar and Chauhan, 2010</xref>; <xref ref-type="bibr" rid="B48">Zhou et al., 2021</xref>).</p>
+			<p>Considering that in vegetables consumed by humans, flavonoids and PEC are present as a mixture, where flavonoids may interact with each other or with other compounds, such as PEC, it is important to evaluate their interaction effect, whereas maybe PEC interaction with the flavonoids may influence their inhibitory capacities. In this way, combinations between flavonoids have been studied for other functional properties and without PEC. Several research studied the combinations of flavonoids extracts, like those from citrus fruits (<italic>Citrus paradisi</italic> and <italic>Citrus aurantium</italic> L.) that included NAR related, observing that cardiovascular risk decreased (<xref ref-type="bibr" rid="B34">Sánchez Macarro et al., 2020</xref>). The effects of pure flavonoids combinations are limited, and they analyzed for example a mixture between EPI and Rutin, where a positive effect on blood glucose levels was pointed it out (<xref ref-type="bibr" rid="B25">Mechchate et al., 2021</xref>). It must be mentioned that assessments of combined effects are mostly conducted through comparisons (<xref ref-type="bibr" rid="B8">Chou, 2006</xref>). A more rigorous approach to establishing combined effects involves mathematical models with combination index (CI) and isobolograms (<xref ref-type="bibr" rid="B8">Chou, 2006</xref>) calculations. CI values help to determine the combined effect (synergistic, additive, or antagonistic). There are studies that have employed mathematical models that assessed synergistic effects for other properties like antioxidant for combinations between Curcumin and Resveratrol (<xref ref-type="bibr" rid="B1">Aftab and Vieira, 2010</xref>). One of the few studies that utilized the CI method and included PEC analyzed also the antioxidant capacity of flavonoids (like CAT and EPI) mixed with phenolic acids (<xref ref-type="bibr" rid="B26">Mercado-Mercado et al., 2020</xref>). Synergistic effects between flavonoids and PEC are meaningful and desirable, especially concerning human health benefits (<xref ref-type="bibr" rid="B46">Zhang et al., 2020</xref>). Considering all these, this study aimed to evaluate the antiobesity effects of combinations among the pure flavonoids (CAT, EPI and NAR) on PL activity, and to analyze these effects also in presence of pure PEC, since they may be together in vegetables.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Material and methods</title>
+			<sec>
+				<title>Materials</title>
+				<p>Porcine pancreatic lipase, flavonoids, (+)-Catechin, (-)-Epicatechin and Naringenin, Tris(hydroxymethyl)aminomethane, <italic>p</italic>-Nitrophenyl laurate (<italic>p</italic>NPL), Triton X-100, Sodium acetate, hydrochloric acid were purchased from Sigma-Aldrich Co. (St. Louis, Missouri, USA), while citric pectin was purchased from Faga Lab Co. (Mocorito, Sinaloa, Mexico). All chemicals and solvents were reagent grade, except for flavonoids which were of analytical grade.</p>
+			</sec>
+			<sec>
+				<title>Analysis of pancreatic lipase activity in the steady state</title>
+				<p>The enzymatic activity of PL in steady state was analyzed as previously described (<xref ref-type="bibr" rid="B24">Martinez-Gonzalez et al., 2017</xref>), by UV-Vis spectroscopy at 37 °C and λ= 400 nm in an Agilent™ (Santa Clara, California, USA) spectrophotometer Mod. 8453. Control assay without flavonoids was first evaluated. Solutions of the enzyme and <italic>p</italic>NPL (substrate) were mixed into a quartz cuvette at enzyme concentration of 2.0 mg mL<sup>-1</sup> and different substrate concentrations ([S] from 1 - 62 μM). To evaluate the flavonoids inhibitory activities, different concentrations (1 - 100 μM) were mixed with the enzyme, and different substrate concentrations were added to start the reaction. Initial velocity (<italic>v</italic>
+ <sub>
+ <italic>0</italic> 
+</sub> in mM min<sup>-1</sup>) was calculated in the absence and presence of flavonoids, <italic>v</italic>
+ <sub>
+ <italic>0</italic>
+</sub> values were used to determine both Michaelis-Menten (nonlinear fit) (<xref ref-type="disp-formula" rid="e1">Equation 1</xref>), and Lineweaver-Burk (linear fit) equations (<xref ref-type="disp-formula" rid="e2">Equation 2</xref>) to calculate the apparent maximum velocity and the Michaelis-Menten constant (<sub>app</sub>
+ <italic>V</italic>
+ <sub>
+ <italic>max</italic>
+</sub> and <sub>app</sub>K<sub>M</sub>, in mM min<sup>-1</sup> and mM, respectively) values and to establish the type of inhibition.</p>
+				<p>
+					<disp-formula id="e1">
+						<mml:math>
+							<mml:msub>
+								<mml:mrow>
+									<mml:mi>v</mml:mi>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mn>0</mml:mn>
+								</mml:mrow>
+							</mml:msub>
+							<mml:mo>=</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:msup>
+										<mml:mrow>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi>V</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi>m</mml:mi>
+													<mml:mi>a</mml:mi>
+													<mml:mi>x</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mo>∙</mml:mo>
+										</mml:mrow>
+									</mml:msup>
+									<mml:mfenced separators="|">
+										<mml:mrow>
+											<mml:msup>
+												<mml:mrow>
+													<mml:mfenced close="]" open="[" separators="|">
+														<mml:mrow>
+															<mml:mi>S</mml:mi>
+														</mml:mrow>
+													</mml:mfenced>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi>h</mml:mi>
+												</mml:mrow>
+											</mml:msup>
+										</mml:mrow>
+									</mml:mfenced>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi>K</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mi>M</mml:mi>
+										</mml:mrow>
+									</mml:msub>
+									<mml:mfenced separators="|">
+										<mml:mrow>
+											<mml:msup>
+												<mml:mrow>
+													<mml:mfenced close="]" open="[" separators="|">
+														<mml:mrow>
+															<mml:mi>S</mml:mi>
+														</mml:mrow>
+													</mml:mfenced>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi>h</mml:mi>
+												</mml:mrow>
+											</mml:msup>
+										</mml:mrow>
+									</mml:mfenced>
+								</mml:mrow>
+							</mml:mfrac>
+						</mml:math>
+						<label>(1)</label>
+					</disp-formula>
+				</p>
+				<p>
+					<disp-formula id="e2">
+						<mml:math>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:mn>1</mml:mn>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi>v</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mn>0</mml:mn>
+										</mml:mrow>
+									</mml:msub>
+								</mml:mrow>
+							</mml:mfrac>
+							<mml:mo>=</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:mn>1</mml:mn>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi>V</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mi>m</mml:mi>
+											<mml:mi>a</mml:mi>
+											<mml:mi>x</mml:mi>
+										</mml:mrow>
+									</mml:msub>
+								</mml:mrow>
+							</mml:mfrac>
+							<mml:mo>+</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi>K</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mi>M</mml:mi>
+										</mml:mrow>
+									</mml:msub>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:msup>
+										<mml:mrow>
+											<mml:msub>
+												<mml:mrow>
+													<mml:mi>V</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mi>m</mml:mi>
+													<mml:mi>a</mml:mi>
+													<mml:mi>x</mml:mi>
+												</mml:mrow>
+											</mml:msub>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mo>∙</mml:mo>
+										</mml:mrow>
+									</mml:msup>
+									<mml:mfenced separators="|">
+										<mml:mrow>
+											<mml:mfenced close="]" open="[" separators="|">
+												<mml:mrow>
+													<mml:mi>S</mml:mi>
+												</mml:mrow>
+											</mml:mfenced>
+										</mml:mrow>
+									</mml:mfenced>
+								</mml:mrow>
+							</mml:mfrac>
+						</mml:math>
+						<label>(2)</label>
+					</disp-formula>
+				</p>
+				<p>Where <italic>h</italic> was the Hill coefficient value (without units) determined by the non-linear curve fitting of kinetic time course in absence and presence of the evaluated compounds.</p>
+				<p>Other calculated values were the inhibition percentage, and the apparent dissociation constants for the free enzyme (<sub>app</sub>K<sub>i</sub>, μM) according to previous methodology (Alvarez-Parrilla <italic>et al</italic>., 2007; <xref ref-type="bibr" rid="B24">Martinez-Gonzalez et al., 2017</xref>) (<xref ref-type="disp-formula" rid="e3">Equation 3</xref>). Then the IC<sub>50</sub> and IC<sub>20</sub> (compound concentration, μM, for 50 % and 20 % of enzymatic activity inhibition, respectively) values for each flavonoid were determined from a non-linear fit of the percentage of inhibition versus the concentration of flavonoid by employing a substrate concentration of 62 μM.</p>
+				<p>
+					<disp-formula id="e3">
+						<mml:math>
+							<mml:msub>
+								<mml:mrow>
+									<mml:mi>K</mml:mi>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mi>M</mml:mi>
+								</mml:mrow>
+							</mml:msub>
+							<mml:mo>´</mml:mo>
+							<mml:mo>=</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi>K</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mi>M</mml:mi>
+										</mml:mrow>
+									</mml:msub>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mfenced separators="|">
+										<mml:mrow>
+											<mml:mn>1</mml:mn>
+											<mml:mo>+</mml:mo>
+											<mml:mfrac>
+												<mml:mrow>
+													<mml:mfenced close="]" open="[" separators="|">
+														<mml:mrow>
+															<mml:mi mathvariant="normal">I</mml:mi>
+														</mml:mrow>
+													</mml:mfenced>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:msub>
+														<mml:mrow>
+															<mml:mi>K</mml:mi>
+														</mml:mrow>
+														<mml:mrow>
+															<mml:mi>i</mml:mi>
+														</mml:mrow>
+													</mml:msub>
+												</mml:mrow>
+											</mml:mfrac>
+										</mml:mrow>
+									</mml:mfenced>
+								</mml:mrow>
+							</mml:mfrac>
+						</mml:math>
+						<label>(3)</label>
+					</disp-formula>
+				</p>
+				<p>Where K<sub>M</sub>′ is the (apparent) Michaelis-Menten constant in presence of the flavonoid.</p>
+			</sec>
+			<sec>
+				<title>Combined effect of flavonoids without and with pectin on PL activity</title>
+				<p>The combined effect of two flavonoids on PL activity was analyzed. The method from the last section (last subheading) was followed in general, but in this case the effect of two flavonoids together at different concentrations was evaluated. The three flavonoids, CAT, EPI and NAR, were mixed, and six combinations were established and tested: 1) CAT with EPI (CAT-EPI); 2) CAT with NAR (CAT-NAR); 3) EPI with CAT (EPI-CAT); 4) EPI with NAR (EPI-NAR); 5) NAR with CAT (NAR-CAT); and 6) NAR with EPI (NAR-EPI). The flavonoids combinations were analyzed accordingly to previous work with some modifications (<xref ref-type="bibr" rid="B38">Stevens-Barrón et al., 2022</xref>). During the assay at each combination, the concentration for the first mentioned flavonoid remained fixed at its IC<sub>20</sub> concentration whereas the concentration of the second flavonoid varied, until reaching its IC<sub>20</sub> value and the PL activity was measured. For example, at combination number 1 that involved CAT and EPI (CAT-EPI), the tested CAT concentration remained at 11.0 μM, whereas the tested EPI concentrations were from 2.0 to 15.0 μM (According to their IC<sub>50</sub> and IC<sub>20</sub> determined by following the past methodological section). Again, the enzyme was incubated in this case with the mixture of flavonoids, and then the substrate was added to determine the enzyme activity. CI values for each flavonoid pair tested on PL activity were calculated according to <xref ref-type="disp-formula" rid="e4">Equation 3</xref> (<xref ref-type="bibr" rid="B9">Chou, 2010</xref>) to evaluate the type of combined effect: Synergistic (greater than expected), additive (like individual effects), or antagonistic (less than expected). A calculated CI value may correspond to one of the following effects: Synergistic (CI &lt; 0.90), additive (0.90 &lt; CI &lt; 1.10) or antagonist (CI &gt; 1.10).</p>
+				<p>
+					<disp-formula id="e4">
+						<mml:math>
+							<mml:mi>C</mml:mi>
+							<mml:mi>I</mml:mi>
+							<mml:mo>=</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:mi>D</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mi>E</mml:mi>
+									<mml:mn>1</mml:mn>
+								</mml:mrow>
+							</mml:mfrac>
+							<mml:mo>+</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:mi>D</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mi>E</mml:mi>
+									<mml:mn>2</mml:mn>
+								</mml:mrow>
+							</mml:mfrac>
+						</mml:math>
+						<label>(4)</label>
+					</disp-formula>
+				</p>
+				<p>Where D1 and E1, and D2 and E2 pairs corresponded to values of flavonoid 1 and flavonoid 2, respectively, where their inhibitory effect was similar (50 % of inhibition). Also, letter E (E1 and E2) was the observed value for each lone flavonoid, and letter D (D1 and D2) was the observed value for each flavonoid in combination with other (<xref ref-type="bibr" rid="B38">Stevens-Barrón et al., 2022</xref>). For example, D1 and E1 pair of values corresponded to the IC<sub>50</sub> calculated values for flavonoid one (1), alone or in combination, respectively. In other words, D1 was the IC<sub>50</sub> calculated value of flavonoid 1 (alone) over PL activity, while E1 was the IC<sub>50</sub> calculated value of flavonoid 1 in presence of another flavonoid related to PL activity. Meanwhile, IC<sub>20</sub> calculated values for flavonoids were employed to establish the flavonoids concentrations in combination. An isobologram for each pair of flavonoids was also generated. These graphical representations for the combined effects are scatter plots, where there is a drawn line from two points in both axes (x and y that correspond to IC<sub>50</sub> value for each flavonoid calculated separately), and the scattered points are the corresponding CI values. In general, points below and over this line correspond to synergism and antagonism, respectively, whereas points above this line are related to addition.</p>
+				<p>After the determination of flavonoids combinations’ effects without PEC, this compound was added to the assay. But first, the effect of lone PEC on PL activity was analyzed. Different PEC concentrations (0.12 - 1.0 mg mL<sup>-1</sup>) were employed into PL assay (previously described). Then PEC-flavonoid complexes were analyzed, where the same six flavonoids’ combinations in presence of PEC were tested on PL activity. PEC concentration remained fixed at 0.12 mg mL<sup>-1</sup> and at least two flavonoid concentrations were evaluated (10, 15 and/or 25 μM), according to their corresponding calculated IC<sub>50</sub> value for each flavonoid. In this way, the inhibitory capacity of flavonoids over PL activity was analyzed in the presence of PEC, and new IC<sub>50</sub> values (called as IC<sub>50</sub>′) were calculated for each flavonoid. Different concentrations of flavonoids (1 - 15 μM) according to IC<sub>50</sub>′ and IC<sub>20</sub>′ for each flavonoid, and a fixed concentration for PEC (0.12 mg mL<sup>-1</sup>) were evaluated. For example, to CAT and EPI combination the employed concentrations were 10 μM for CAT, and 2.5, 5.0 and 10 μM for EPI. Non-linear fitting to the Michaelis-Menten equation was applied. CI values for all these combinations or complexes were calculated and their corresponding isobolograms generated (<xref ref-type="bibr" rid="B9">Chou, 2010</xref>).</p>
+			</sec>
+			<sec>
+				<title>Statistical analysis</title>
+				<p>All analyses were carried out by triplicate, and results were expressed as mean ± standard error of the mean (SEM). Analysis of variance and Fisher′s least significant difference analysis were performed by IBM® SPSS® v. 20 software (Armonk, New York, USA), for the determination of statistically significant differences between treatments with a level of significance of 0.05 for endpoint of temporary course, apparent kinetic constants (<sub>app</sub>
+ <italic>V</italic>
+ <sub>
+ <italic>max</italic>
+</sub> and <sub>app</sub>K<sub>M</sub>), apparent dissociation constant (<sub>app</sub>K<sub>i</sub>), IC<sub>20</sub> and IC<sub>50</sub> values for each flavonoid.</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>Results and discussion</title>
+			<sec>
+				<title>Enzymatic activity</title>
+				<p>PL activity was analyzed in absence and presence of flavonoids. <xref ref-type="table" rid="t1">Table 1</xref> shows the calculated values of the apparent constants <sub>app</sub>
+ <italic>V</italic>
+ <sub>
+ <italic>max</italic>
+</sub> and <sub>app</sub>K<sub>M</sub> in absence (control) and in presence of flavonoids. Dose-response effects for each flavonoid were observed. These values were obtained from linear (data not shown) and nonlinear fit (<xref ref-type="fig" rid="f2">Fig. 2</xref>). According to <xref ref-type="fig" rid="f2">Fig. 2</xref> the flavonoids exhibited inhibitory capacity by significantly (<italic>p</italic> &lt; 0.05) diminishing the enzymatic activity at mostly all substrate concentrations; among them there are no significant differences, mainly between CAT and EPI. All behave similarly related also to the K<sub>i</sub> since those values could not be determined due to their uncompetitive inhibition mode. <xref ref-type="table" rid="t1">Table 1</xref> summarizes the values for these apparent constants according to the corresponding fit. The results are like previously published results for flavonoids like CAT interacting with PL (<xref ref-type="bibr" rid="B24">Martinez-Gonzalez et al., 2017</xref>) and other digestive enzymes such as pepsin (<xref ref-type="bibr" rid="B32">Qie et al., 2021</xref>). CAT, EPI, and NAR, behaved as uncompetitive inhibitors of PL activity, in agreement with previously determined behavior for CAT (<xref ref-type="bibr" rid="B24">Martinez-Gonzalez <italic>et al</italic>., 2017</xref>). Their inhibitory behavior on PL activity has been also previously reported (<xref ref-type="bibr" rid="B17">Huang et al., 2020</xref>). Calculated IC<sub>50</sub> values for the flavonoids (<xref ref-type="table" rid="t1">Table 1</xref>) agreed with other studies where catechin and epicatechin had IC<sub>50</sub> &gt; 20 μM (<xref ref-type="bibr" rid="B6">Buchholz and Melzig, 2015</xref>). NAR seemed to have a slightly better inhibitory activity (lower IC<sub>50</sub> value) as a flavanone in comparison to the flavan-3-ols, CAT and EPI, where their nonplanar molecular conformation could be associated with their lower inhibition (<xref ref-type="bibr" rid="B10">Crozier et al., 2009</xref>). While the Hill coefficient calculated values are approximately to 1 (data not shown) in the absence and presence of flavonoids, corresponding to one binding site in the enzyme for the substrate, these results agree with the one binding site of pancreatic lipase previously described (<xref ref-type="bibr" rid="B43">Wei et al., 2015</xref>). In this way CAT, EPI, and NAR as un-competitive inhibitors could allow first the enzyme-substrate binding, and then each flavonoid will interact with the polypeptide. This type of interaction could lead to more interactions with other ligands like PEC.</p>
+				<p>
+					<table-wrap-group id="t1">
+	<table-wrap xml:lang="en">
+						<label>Table 1</label>
+						<caption>
+							<title>Apparent kinetic parameters for PL activity in absence and presence of flavonoids, their determined inhibition mode and their IC<sub>50</sub> calculated values are shown</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 1.</label>
+		<caption>
+			<title>.Parámetros cinéticos aparentes de la actividad enzimática de PL en ausencia y presencia de los flavonoides, el modo de inhibición determinado para los flavonoides, y sus valores calculados de IC<sub>50</sub>.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Concentration (μM) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold><sub>app</sub> <italic>V</italic><sub>max</sub> 
+      (∙10<sup>-4</sup> mM min<sup>-1</sup>) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold><sub>app</sub>K <sub>M</sub>
+      (mM) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Inhibition mode </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>IC<sub>50</sub> 
+      (μM) </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Control </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">n.d. </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.07 ± 0.03<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.05±0.75<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">n.d. </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">n.d. </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">12.5      </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.05 ± 0.00<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.85 ± 0.06<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">CAT</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">25.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.04 ± 0.01<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.30 ± 0.01<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Uncompetitive</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">25.50 ± 0.08</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">50.0 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.04 ± 0.00a<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.10 ± 0.02<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">EPI </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">12.5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.04 ± 0.01<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.90 ± 0.01<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">25.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.06 ± 0.01<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.75 ± 0.05<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Uncompetitive</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">27.60 ± 2.05</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">50.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.04 ± 0.02<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.27 ± 0.08<sup>ab</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">12.5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.06 ± 0.01<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.72 ± 0.04<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">NAR</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">25.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.04 ± 0.02<sup>a</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.15 ± 0.00<sup>b</sup></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Uncompetitive</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">24.10 ± 0.03 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">    50.0 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">    0.04 ± 0.01<sup>a</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"> 1.00 ± 0.04<sup>b</sup></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p>The data are presented as mean values ± SEM of triplicate analyses. Different letters in the same row indicate statistically significant values (Fisher’s least significant difference analysis, <italic>p</italic> ≤ 0.05) with respect to control. Apparent kinetic parameters of PL activity are presented (<sub>app</sub>
+ <italic>V</italic>
+ <sub>
+ <italic>max</italic>
+</sub> and <sub>app</sub>K<sub>M</sub>, maximal velocity and Michaelis-Menten constant). n.d.=not determined.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Combinatory effect of flavonoids on pancreatic lipase </title>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="en">
+						<label>Figura 2.</label>
+						<caption>
+							<title>Effect of the flavonoids CAT, EPI and NAR on PL enzymatic activity with <italic>p</italic>NPL as substrate. Symbols represent the initial velocity (<italic>v</italic><sub> <italic>0</italic></sub> ) values expressed as μM s<sup>-1</sup> ± SEM. Lines are the Michaelis-Menten curves fitted to the experimental data. * Statistical difference (Fisher’s least significant difference analysis, <italic>p</italic> ≤ 0.05) between all treatments respect to control.</title>
+						</caption>
+							</fig>
+	<fig xml:lang="es">
+	<label>Figura 2.</label>
+	<caption>
+	<title>Efecto de los flavonoides CAT, EPI y NAR sobre la actividad catalítica de PL empleando <italic>p</italic>NPL como sustrato. Los símbolos representan los valores de la velocidad inicial (<italic>v</italic> <sub> <italic>0</italic></sub> ) expresados como μM s<sup>-1</sup> ± SEM. Las líneas corresponden a los ajustes no lineales realizados a los valores experimentales de acuerdo con la Ecuación de Michaelis-Menten. * Representa diferencias estadísticas significativas (análisis de la diferencia menos significativa de Fisher, <italic>p</italic> &lt; 0.05) entre los tratamientos respecto al control.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2602-gf2.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+			</sec>
+			<sec>
+				<title>Activity</title>
+				<p>The effect of a binary flavonoid-flavonoid complex on PL activity was analyzed. For this, six binary combinations were tested (CAT-EPI; CAT-NAR; EPI-CAT; EPI-NAR; NAR-CAT; and NAR-EPI). All combinations exhibited similar behaviors, observing that all flavonoid-flavonoid complexes showed a better effect as PL inhibitors at lower concentrations of both flavonoids compared to the effect observed for each flavonoid separately. For example, for the combination between CAT and EPI, a fixed concentration of CAT (11 μM, that corresponds to its calculated IC<sub>20</sub> value) and different concentrations of EPI (until approximately reach its IC<sub>20</sub> or 15 μM) were tested. Similar combinations were made for the rest of the flavonoid-flavonoid complexes. <xref ref-type="fig" rid="f3">Figure 3</xref> shows the effect of the combination of both CAT (fixed concentration) and EPI (different concentrations). The effect of the combination of both flavonoids on the enzymatic activity was greater (<italic>p</italic>&lt;0.05) for EPI-CAT complex than it was for each flavonoid by itself, respectively, where about 10-fold lower flavonoids concentrations were employed for similar effects compared to free flavonoids. Similar greater results were observed for the combination between CAT and (-)-epicatechin gallate in comparison to their corresponding individual antibacterial effect over methicillin-resistant <italic>Staphylococcus aureus</italic> (<xref ref-type="bibr" rid="B33">Qin et al., 2013</xref>). In agreement with our results, they determined that lower concentrations of the evaluated flavonoids (CAT, (-)-epicatechin gallate, and (-)-epigallocatechin) were needed to inhibit <italic>S. aureus</italic> growth in comparison with those observed for flavonoids in separate analyses. It seemed that flavonoids combinations presented higher activity toward both enzyme inhibition and antibacterial capacity, in comparison to each flavonoid tested alone.</p>
+				<p>
+					<fig-group id="f3">
+	<fig xml:lang="en">
+						<label>Figure 3</label>
+						<caption>
+							<title>Flavonoids inhibitory activity alone CAT, EPI and in combination (CAT plus EPI) <italic>n vitro</italic> PL activity. Letters represent statistically significant differences (Fisher’s least significant difference analysis, <italic>p</italic> ≤ 0.05) among treatments. </title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 3.</label>
+	<caption>
+	<title>Actividad inhibitoria de flavonoides solos CAT, EPI y en combinación (CAT con EPI) sobre la actividad <italic>in vitro</italic> de PL. Las letras representan diferencias estadísticas significativas (análisis de la diferencia menos significativa de Fisher, <italic>p</italic> &lt; 0.05) entre tratamientos.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2602-gf3.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>To evaluate the observed effect of the binary mixtures on PL activity, combination index (CI) with all flavonoid concentrations were determined. This combined effect could be synergistic, additive or antagonistic. These results are summarized in <xref ref-type="table" rid="t2">Table 2</xref>. Isobolograms for each flavonoid-flavonoid complex were also determined to corroborate the obtained CI values. <xref ref-type="fig" rid="f4">Figure 4 (a-f)</xref> represents the isobolograms for the six flavonoids binary complexes.</p>
+								<p>
+					<table-wrap-group id="t2">
+	<table-wrap xml:lang="en">
+						<label>Table 2</label>
+						<caption>
+							<title>Combination Index (CI) values of each flavonoid-flavonoid complex on PL activity.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 2.</label>
+		<caption>
+			<title>Valores del Índice de Combinación (CI) para cada complejo flavonoide-flavonoide sobre la actividad de PL.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Combination </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>[Flavonoid 1] (μM) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>[Flavonoid 2] (μM) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>CI </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>1 </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">CAT</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">EPI</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">11.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.90 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">5.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.88 ± 0.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.82 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">10.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.83 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">15.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.81 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>2 </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">EPI</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2">CAT</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.02 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">5.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.99 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.94 ± 0.03</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">10.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.89 ± 0.03</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">15.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.89 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>3 </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">CAT</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2">NAR</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">11.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.90 ± 0.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">5.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.86 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.86 ± 0.04</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">10.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.80 ± 0.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">15.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.73 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>4 </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">NAR</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2">CAT</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">10.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.90 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.89 ± 0.03</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.89 ± 0.03</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">10.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.87 ± 0.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">15.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.85 ± 0.04</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>5 </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">EPI</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2">NAR</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">13.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.70 ± 0.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">5.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.65 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.66 ± 0.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">10.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.63 ± 0.03</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">15.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.58 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>6 </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">NAR
+      10.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2">EPI</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.79 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">5.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.74 ± 0.03</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.68 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">10.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.67 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">15.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.67 ± 0.00</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN2">
+								<p>The data are presented as mean values ± SEM of triplicate analyses.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>
+					<fig-group id="f4">
+	<fig xml:lang="en">
+						<label>Figura 4</label>
+						<caption>
+							<title>Isobolograms for flavonoids combinations related to PL enzymatic activity: a) CAT-EPI, b) EPI-CAT, c) CAT-NAR, d) NAR-CAT, e) CAT-NAR, and f) NAR-CAT</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 4.</label>
+	<caption>
+	<title>.Isobologramas correspondientes a las combinaciones de flavonoides en relación con la actividad enzimática de PL: a) CAT-EPI, b) EPI-CAT, c) CAT-NAR, d) NAR-CAT, e) CAT-NAR, y f) NAR-CAT.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2602-gf4.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>
+					<xref ref-type="fig" rid="f4">Figure 4 (a-f)</xref> and <xref ref-type="table" rid="t2">Table 2</xref> exhibited a synergistic effect on PL catalytic activity for most flavonoid-flavonoid combinations. According to <xref ref-type="table" rid="t2">Table 2</xref>, an antagonist effect was observed only for CAT-EPI combination, which corresponded to a fixed CAT concentration and at three different EPI concentrations. Antagonistic effects were also observed for combinations between EPI and caffeic acid related to their antioxidant activity (<xref ref-type="bibr" rid="B35">Slavova-Kazakova et al., 2021</xref>). To all combinations, a better synergistic effect (lower CI values, <italic>p</italic> &lt; 0.05) were observed at higher concentrations of flavonoid 2, which closely corresponded to both flavonoids (flavonoids 1 and 2) IC<sub>20</sub> values. As mentioned before, most flavonoids exhibited higher inhibitory activities than the sum of the individual ones as observed for other of their biological activities. For example, the flavonoid Curcumin exhibited synergistic effect on its antioxidant activity when combined with Resveratrol (<xref ref-type="bibr" rid="B1">Aftab and Vieira, 2010</xref>). Authors attributed this synergistic relationship to a mechanism in which the phenolic compound (resveratrol) may help to reduce the other flavonoid. Meanwhile, other studies with flavonoids like one with CAT, EPI, and Rutin in complex evaluated their antidiabetic effects, through some hypoglycemic responses where they observed a synergistic effect, however, the authors didn’t explain the mechanism by which this phenomenon was observed (<xref ref-type="bibr" rid="B46">Zhang et al., 2020</xref>). In the present study, the observed synergism may be attributed to the interactions of each flavonoid with the enzyme, where it seemed that NAR presence in combinations promoted better interactions (lower CI values, <xref ref-type="table" rid="t2">Table 2</xref>). However, the mechanism behind the effect for each flavonoids combination over PL activity remains unclear. It is important to mention that even though some studies reported synergistic behavior for the evaluated combinations between flavonoids, as far as we know, there are only a few studies (and less with pure flavonoids) in which the CI or isobolograms have been used to determine the effect of the combination of flavonoid-flavonoid complexes on enzyme inhibitory studies.</p>
+
+				<p>In this study the best synergistic effects (lower CI values, <xref ref-type="table" rid="t2">Table 2</xref>) were observed for the combinations between EPI and NAR; the biological activities of EPI (flavan-3-ol) and NAR (flavanone) that have been studied separately may elucidate this. In this way, EPI had been related to a higher capacity in comparison to CAT, for activities such as antioxidant (<xref ref-type="bibr" rid="B27">Mita et al., 2024</xref>) and antihyperglycemic (<xref ref-type="bibr" rid="B25">Mechchate et al., 2021</xref>). On the other hand, NAR has been associated with benefits, for example, in lipid metabolism by decreasing intraabdominal adiposity (<xref ref-type="bibr" rid="B18">Ke et al., 2016</xref>). In a study evaluating the effect of flavonoids on blood pressure, it was observed that the extracts rich in flavanones (from <italic>Citrus paradisi</italic>) showed the highest activity (<xref ref-type="bibr" rid="B34">Sánchez Macarro et al., 2020</xref>). In the case of combinations, flavanone mixtures (from <italic>Citrus</italic> genus) exhibited also synergistic effect on cyclooxygenases activities (<xref ref-type="bibr" rid="B36">Smeriglio et al., 2023</xref>). Combinations between Flavanones and flavan-3-ols, like NAR and EPI, respectively, and their effects had been scarcely studied. Recently, a combination between NAR and EPI proved to sensitize colon carcinoma cells to apoptosis (specifically anoikic) (<xref ref-type="bibr" rid="B12">Dukel, 2023</xref>).</p>
+			</sec>
+			<sec>
+				<title>Combinatory effect of flavonoids and pectin on pancreatic lipase activity</title>
+				<p>Since in food matrices flavonoids are not alone, one of the main components of cell walls, PEC, was added to each combination. The effect of PEC over each combination and PL activity was analyzed due to its functional properties, previously studied as modulator of gut microbiota (Blanco-Pérez <italic>et al</italic>., 2021), but there are no studies about flavonoids combinations and PEC related to PL activity. First, to evaluate the effect of PEC, it was added to the six flavonoid-flavonoid combinations. Ternary complexes formed by two flavonoids and PEC were evaluated against PL activity. To evaluate these interactions, first the inhibitory capacity of PEC over PL was analyzed (data not shown). It seemed that PEC (at all tested concentrations, 0.12 - 1.00 mg mL<sup>-1</sup>) inhibited PL activity as a competitive inhibitor, where <italic>V</italic>
+ <sub>
+ <italic>max</italic>
+</sub> /K<sub>M</sub> were affected; similar results have been reported for PL inhibition by Citrus PEC at similar concentrations (less than 1.0 mg mL<sup>-1</sup>) (<xref ref-type="bibr" rid="B40">Tsujita et al., 2003</xref>). <xref ref-type="bibr" rid="B20">Kumar &amp; Chauhan (2010)</xref> reported similar results for the inhibition of PL by PEC extracted from two apple varieties <italic>(Malus domestica)</italic> (<xref ref-type="bibr" rid="B20">Kumar and Chauhan, 2010</xref>). However, the effect of PEC over lipases’ activities is not fully understood, since there are studies where PEC exhibited a different behavior. For example, it has been observed that the presence of cellulosic polymers (hydroxypropyl-methylcellulose) and chitosan improved catalytic activity of a <italic>Candida rugosa</italic> lipase (<xref ref-type="bibr" rid="B4">Badgujar and Bhanage, 2015</xref>). Polysaccharide could improve lipase interfacial activation (<xref ref-type="bibr" rid="B42">Vaidya and Singhal, 2008</xref>). Therefore, according to our results and since there are contrary results, the lowest PEC concentration (0.12 mg mL<sup>-1</sup>) was chosen for the next analysis.</p>
+				<p>The effect of PEC on the inhibitory capacity of each flavonoid was analyzed separately. The studied flavonoids concentrations were chosen from their previously calculated IC<sub>50</sub> value (<xref ref-type="table" rid="t1">Table 1</xref>; approximately 25 μM for each). The inhibitory activity of each flavonoid in the presence of PEC was determined and compared with their inhibitory activity in the absence of PEC. While for CAT only two concentrations were needed to observe the inhibition (more than 50 percent inhibition), four and three concentrations were needed for EPI and NAR, respectively, to observe similar effects. CAT inhibitory capacity increased as its concentration increased in the presence of PEC, while the opposite was observed for EPI and NAR in the presence of PEC (<xref ref-type="fig" rid="f5">Fig. 5</xref>). For these two flavonoids, a higher inhibitory effect (<italic>p</italic> &lt; 0.05) on PL activity was observed at lower concentrations, compared to higher concentrations. According to these new observed inhibitory effects for each flavonoid, a new IC<sub>50</sub> value (titled as IC<sub>50</sub>′) was obtained for CAT, EPI and NAR in presence of PEC: 16.94 ± 1.01, 10.55 ± 0.70, and 8.88 ± 0.90 mM, respectively. These IC<sub>50</sub>′ values, which are lower than the IC<sub>50</sub> for all flavonoids in the absence of PEC, indicated that these flavonoids showed a better inhibitory capacity in the presence of PEC. PEC could improve the binding between ligands and PL. In this way, PEC could provide stability to the enzyme (PL), as it was observed for the interaction between β-glucan and lipase (<xref ref-type="bibr" rid="B42">Vaidya and Singhal, 2008</xref>), and to the flavonoid, as it was reviewed for polyphenolic compounds that interact with dietary fibers (<xref ref-type="bibr" rid="B3">Angulo-López et al., 2023</xref>). <xref ref-type="bibr" rid="B3">Angulo-Lopez <italic>et al</italic>. (2023)</xref> reported that the increased antioxidant activity of polyphenolic compounds entrapped in dietary fiber, relates to structural stability. Other authors have mentioned that interactions between dietary fiber and polyphenolic compounds may protect them and might improve their antioxidant effect (<xref ref-type="bibr" rid="B26">Mercado-Mercado et al., 2020</xref>). The main chemical interactions between PEC and flavonoids are hydrophobic and ionic interactions, hydrogen and covalent bindings (<xref ref-type="bibr" rid="B21">Le Bourvellec and Renard, 2012</xref>; <xref ref-type="bibr" rid="B23">Liu et al., 2017</xref>). However, the same authors did not observe differences in the antioxidant capacity measurements for their evaluated phenolic acids in presence of PEC. Other authors have mentioned that this behavior (same inhibitory effect by these phenolics in presence of PEC) was due to stronger interactions between these type of polyphenolic compounds with PEC in comparison with those observed for flavonoids (<xref ref-type="bibr" rid="B45">Yang et al., 2004</xref>). This observation seemed to agree with the uncompetitive inhibition mode previously determined for the flavonoids, which indicates that both types of ligands (flavonoids and PEC) could be interacting with the enzyme at the same time.</p>
+				<p>The different inhibitory behavior for EPI and NAR in the presence of PEC (<xref ref-type="fig" rid="f5">Fig. 5</xref>) was remarkable. Different to CAT, these two flavonoids increased (<italic>p</italic> &lt; 0.05) their inhibition over PL activity at lower concentrations. This non-inhibitory behavior had been hardly reported (<xref ref-type="bibr" rid="B37">Stamogiannou et al., 2021</xref>), contrary to the quantity of work that described the inhibitory capacities of polyphenolic compounds on PL. Authors attributed their non-inhibitory behavior of polyphenolics (called as “activators”) to some structural features like the presence of methoxy groups. Maybe these functional groups (methoxy) from PEC are involved in the non-inhibitory behavior, in this case of PEC on PL activity, as the authors pointed out for some flavonoids with these groups included in their structures. However, this must be studied, since this activating effect on PL activity was observed only for two flavonoids, where one of them (EPI) is the stereoisomer of CAT (<xref ref-type="fig" rid="f1">Fig. 1</xref>) (<xref ref-type="bibr" rid="B37">Stamogiannou <italic>et al</italic>., 2021</xref>). Other authors had observed this non-inhibitory behavior by phenolics over enzymatic activity. They studied that at high concentrations (2-8 g L<sup>-1</sup>) of phenolic compounds like syringic acid, the cellulase activity was significantly (<italic>p</italic> &lt; 0.05) stimulated, in comparison to its activity at lower phenolics concentrations (0.05 g L<sup>-1</sup>) where significant inhibition values were observed (<xref ref-type="bibr" rid="B47">Zhao and Chen, 2014</xref>). Similar activator effects were observed for other phenolic acids such as ferulic and <italic>p</italic>-coumaric acid on cellulase activity (<xref ref-type="bibr" rid="B29">Oliveira et al., 2020</xref>; <xref ref-type="bibr" rid="B39">Tian et al., 2013</xref>). Similar non-inhibitory activity of <italic>p</italic>-coumaric acid over PL was reported (<xref ref-type="bibr" rid="B24">Martinez-Gonzalez et al., 2017</xref>).</p>
+				<p>
+					<fig-group id="f5">
+	<fig xml:lang="en">
+						<label>Figure 5</label>
+						<caption>
+							<title>Effect of PEC (0.12 mg mL<sup>-1</sup>) and different flavonoids combinations on PL <italic>in vitro</italic> catalytic activity. Different concentrations of flavonoids were tested (CAT at 25 and 15 μM; EPI at 25, 20, 15 and 10 μM; and NAR at 25, 15 and 10 μM). Non-linear fitting curves are shown for each combination. *Represents a statistical significance (<italic>p</italic> &lt; 0.05) with respect to control at the endpoint.</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 5.</label>
+	<caption>
+	<title>Efecto de PEC (0.12 mg mL<sup>-1</sup>) y diferentes combinaciones de flavonoides sobre la actividad catalítica <italic>in vitro</italic> de PL. Se evaluaron diferentes concentraciones de flavonoides (CAT a 25 y 15 μM; EPI a 25, 20, 15 y 10 μM; y NAR a 25, 15 y 10 μM). Se muestran las líneas correspondientes a los ajustes no lineales para cada combinación. *Representa una diferencia estadística significativa (<italic>p</italic> &lt; 0.05) respecto al control al punto final de la medición.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2602-gf5.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>
+					<xref ref-type="table" rid="t3">Table 3</xref> and <xref ref-type="fig" rid="f6">Fig. 6</xref> show the combined effects of flavonoid-flavonoid complexes in the presence of PEC. According to calculated CI values (<xref ref-type="table" rid="t3">Table 3</xref>) most combinations exhibit a synergistic effect (CI &lt; 0.90) except for EPI-CAT combination (with a fixed concentration of EPI). This combination nearly had an additive behavior (0.90 &lt; CI &lt; 1.10) over PL activity (<xref ref-type="fig" rid="f6">Fig. 6.b</xref>), maybe attributed to their isomeric condition that makes them compete for the binding site in the enzyme. In general, the synergistic effect of the flavonoids combinations on enzymatic activity remained in presence of PEC, even though the observed synergistic behavior was greater for some combinations (than without PEC) and at lower flavonoids concentrations. All three flavonoids have structural similarities like their C-ring lack of planarity (non-planar structure) or rigidity, and an identical A-ring configuration (<xref ref-type="fig" rid="f1">Fig. 1</xref>), but NAR possesses a C4 carbonyl group and a hydroxyl group at C3 (C ring) and lacks one hydroxyl group at C3’ (A-ring). Thus, the better inhibitory effect of combinations between NAR and EPI (<xref ref-type="fig" rid="f6">Fig. 6. e and f</xref>) could be mainly attributed to NAR presence. Authors had mentioned that among these structural characteristics of NAR, the presence of a carbonyl group in C-ring was related to a better inhibitory capacity against PL activity (<xref ref-type="bibr" rid="B22">Li <italic>et al</italic>., 2023</xref>). Interestingly, EPI presented higher synergistic effect, compared to CAT, in combination with NAR, both in the presence and absence of PEC, however, further studies are needed to understand this phenomenon. In a study evaluating the interaction of tannins with proteins (called as tannin specific activity), the presence of EPI in procyanidin dimer B2 (compound with two EPI moieties bounded) showed higher interaction compared with those tannins in which CAT was present (<xref ref-type="bibr" rid="B11">De Freitas and Mateus, 2001</xref>).</p>
+				<p>
+					<table-wrap-group id="t3">
+	<table-wrap xml:lang="en">
+						<label>Table 3</label>
+						<caption>
+							<title>CI values for binary (flavonoid-flavonoid) complexes in the presence of PEC with respect to PL activity.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 3.</label>
+		<caption>
+			<title>Valores de CI para los complejos binarios (flavonoide-flavonoide) en presencia de PEC en relación con la actividad de PL.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>Combination </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold>[Flavonoid 1] (μM) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;"><bold>[Flavonoid 2] (μM) </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #e6e7e8;"><bold>CI </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>1 </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">CAT</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">EPI</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">10.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.87 ± 0.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">2.5</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.88 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">5.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.83 ± 0.03</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>2</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">EPI</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2">CAT</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.92 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">5.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.92 ± 0.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">10.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.90 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>3</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">CAT</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2">NAR</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">10.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.87 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">2.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.83 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">4.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.82 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>4</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">NAR</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2">CAT</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">2.5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.88 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">5.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.86 ± 0.03</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">10.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.85 ± 0.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>5</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">EPI</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2">NAR</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">5.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.70 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">2.0</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.70 ± 0.02</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">4.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.68 ± 0.00</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><bold>6</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">NAR</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2">EPI</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">1.0</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.85 ± 0.01</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">2.5</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.84 ± 0.04</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c1c1c1;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">5.0</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.81 ± 0.01</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN3">
+								<p>The data are presented as mean values ± SEM of triplicate analyses.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+								<p>
+					<fig-group id="f6">
+	<fig xml:lang="en">
+						<label>Figure 6</label>
+						<caption>
+							<title>Isobolograms for flavonoid-flavonoid complexes in presence of PEC on PL catalytic activity. </title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 6.</label>
+	<caption>
+	<title>Isobologramas correspondientes a los complejos formados entre flavonoides en presencia de PEC, sobre la actividad catalítica de PL.</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2602-gf6.jpg"/>
+					</fig>
+					</fig-group>
+				</p>
+				<p>However, lower CI values for some combinations, such as NAR-EPI (with a fixed NAR concentration), were observed in the absence of PEC (<xref ref-type="table" rid="t2">Table 2</xref>). In general, except for this combination, it seemed that PEC presence exerted a positive effect. In this way, PEC could act in the following two steps. It could bind to the flavonoid, since the flavonoid had a lower molecular weight in comparison to PL, and that interaction would give stability to the flavonoid. A similar stability has been described for interactions between pectin and procyanidins (<xref ref-type="bibr" rid="B21">Le Bourvellec and Renard, 2012</xref>). Where the authors mentioned that ternary complexes (phenolics-fiber-enzyme) had more stability and were more effective (in our study the more inhibitory capacity observed) due to the binding of phenolics and fiber before the interaction with the enzyme. The better synergistic effect in presence of fiber has been attributed to these interactions (<xref ref-type="bibr" rid="B46">Zhang et al., 2020</xref>). Second, PEC could also allow the interaction between flavonoid and PL, as it was observed for phenolic compounds and cellulase in the presence of a fiber (<xref ref-type="bibr" rid="B37">Stamogiannou et al., 2021</xref>) This may explain the better inhibitory activity (lower IC<sub>50</sub>′ values) exhibited by the flavonoids in presence of PEC. Nevertheless, some authors suggest that the observed inhibition could be also attributed to polypeptide structure modification, and a weakening in substrate affinity for the enzyme (<xref ref-type="bibr" rid="B31">Patel et al., 2022</xref>). The catalytic activity of PL may not be affected by active site occupancy by flavonoids because flavonoid-PL binding could be on a different cavity, not to the active site as it was observed for flavonoids like CAT and others by molecular docking studies (<xref ref-type="bibr" rid="B24">Martinez-Gonzalez et al., 2017</xref>). This agreed with the uncompetitive inhibition mode observed for the flavonoids in the absence of PEC. Thus, the synergistic effect of flavonoids could also be due to complex formation between them at this (not active) binding site on PL.</p>
+
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusions</title>
+			<p>Flavonoids, CAT, EPI, and NAR exhibited significantly similar inhibitory capacities (IC<sub>50</sub> values and inhibition mode) in PL activity in the absence of PEC. Synergistic effects were mostly observed for flavonoid-flavonoid combinations (binary complexes), although additive effects were observed for some combinations like for the CAT-EPI complex. This synergistic effect was also observed in the presence of PEC. It seemed that PEC may contribute to the better inhibitory activity observed for the flavonoids (lower CI values at lower flavonoids concentrations). NAR and EPI complexes seemed to have the best synergistic inhibitory effect on PL activity. Finally, the relationship between some structural features of the flavonoids NAR and EPI, and PEC, needs further consideration since they were part of the best complexes at this antiobesity property. For example, NAR extra carbonyl group at C4 position in comparison with the other flavonoids, or PEC methoxy groups should be analyzed to elucidate its possible collaboration as a combined effect on PL activity. Meanwhile our results show the relevance of the presence of flavonoids and pectin (binary and ternary complexes, respectively) as part of a matrix (for example in vegetables) to enhance its antiobesity activity, or may be also as part of a supplementary product, or another similar product.</p>
+		</sec>
+		<sec>
+			<title>Conflicts of interest</title>
+			<p>The authors stated that there is no conflict of interest.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Acknowledgments</title>
+			<p>AIMG was very grateful to CONAHCyT for the post-doctoral opportunity. This work was financially supported by CONAHCyT (AIMG’s post-doctoral scholarship) and UACJ (No. RIPI2023ICB1).</p>
+		</ack>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>Aftab, N. and Vieira, A. 2010. Antioxidant activities of curcumin and combinations of this curcuminoid with other phytochemicals. Phytotherapy Research 24, 500-502.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aftab</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Vieira</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Antioxidant activities of curcumin and combinations of this curcuminoid with other phytochemicals</article-title>
+					<source>Phytotherapy Research</source>
+					<volume>24</volume>
+					<fpage>500</fpage>
+					<lpage>502</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Alam, M.A., Kauter, K. and Brown, L. 2013. Naringin improves diet-induced cardiovascular dysfunction and obesity in high carbohydrate, high fat diet-fed rats. Nutrients 5, 637-650.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alam</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Kauter</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Brown</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Naringin improves diet-induced cardiovascular dysfunction and obesity in high carbohydrate, high fat diet-fed rats</article-title>
+					<source>Nutrients</source>
+					<volume>5</volume>
+					<fpage>637</fpage>
+					<lpage>650</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Angulo-López, J.E., Flores-Gallegos, A.C., Ascacio-Valdes, J.A., Contreras Esquivel, J.C., Torres-León, C., Rúelas-Chácon, X. and Aguilar, C.N. 2023. Antioxidant dietary fiber sourced from agroindustrial byproducts and its applications. Foods 12, 1-15.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Angulo-López</surname>
+							<given-names>J.E.</given-names>
+						</name>
+						<name>
+							<surname>Flores-Gallegos</surname>
+							<given-names>A.C.</given-names>
+						</name>
+						<name>
+							<surname>Ascacio-Valdes</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Contreras Esquivel</surname>
+							<given-names>J.C.</given-names>
+						</name>
+						<name>
+							<surname>Torres-León</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Rúelas-Chácon</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Aguilar</surname>
+							<given-names>C.N</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Antioxidant dietary fiber sourced from agroindustrial byproducts and its applications</article-title>
+					<source>Foods</source>
+					<volume>12</volume>
+					<fpage>1</fpage>
+					<lpage>15</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Badgujar, K.C. and Bhanage, B.M. 2015. Carbohydrate base co-polymers as an efficient immobilization matrix to enhance lipase activity for potential biocatalytic applications. Carbohydr Polym 134, 709-717.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Badgujar</surname>
+							<given-names>K.C.</given-names>
+						</name>
+						<name>
+							<surname>Bhanage</surname>
+							<given-names>B.M</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Carbohydrate base co-polymers as an efficient immobilization matrix to enhance lipase activity for potential biocatalytic applications</article-title>
+					<source>Carbohydr Polym</source>
+					<volume>134</volume>
+					<fpage>709</fpage>
+					<lpage>717</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Birari, R.B. and Bhutani, K.K. 2007. Pancreatic lipase inhibitors from natural sources: unexplored potential. Drug Discov Today. 12, 879-889.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Birari</surname>
+							<given-names>R.B.</given-names>
+						</name>
+						<name>
+							<surname>Bhutani</surname>
+							<given-names>K.K</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Pancreatic lipase inhibitors from natural sources: unexplored potential</article-title>
+					<source>Drug Discov Today</source>
+					<volume>12</volume>
+					<fpage>879</fpage>
+					<lpage>889</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Buchholz, T. and Melzig, M.F. 2015. Polyphenolic compounds as pancreatic lipase inhibitors. Planta Med. 81, 771-783.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Buchholz</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Melzig</surname>
+							<given-names>M.F</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Polyphenolic compounds as pancreatic lipase inhibitors</article-title>
+					<source>Planta Med</source>
+					<volume>81</volume>
+					<fpage>771</fpage>
+					<lpage>783</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Chandel, V., Biswas, D., Roy, S., Vaidya, D., Verma, A. and Gupta, A. 2022. Current advancements in pectin: Extraction, properties and multifunctional applications. Foods 11, 1-30.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chandel</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Biswas</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Roy</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Vaidya</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Verma</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Gupta</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Current advancements in pectin: Extraction, properties and multifunctional applications</article-title>
+					<source>Foods</source>
+					<volume>11</volume>
+					<fpage>1</fpage>
+					<lpage>30</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Chou, T.C. 2006. Theoretical basis, experimental design, and computerized simulation of synergism and antagonism in drug combination studies. Pharmacol Rev. 68, 623-642.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chou</surname>
+							<given-names>T.C.</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>Theoretical basis, experimental design, and computerized simulation of synergism and antagonism in drug combination studies</article-title>
+					<source>Pharmacol Rev</source>
+					<volume>68</volume>
+					<fpage>623</fpage>
+					<lpage>642</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Chou, T.C. 2010. Drug combination studies and their synergy quantification using the chou-talalay method. Cancer Res 70, 440-446.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chou</surname>
+							<given-names>T.C</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Drug combination studies and their synergy quantification using the chou-talalay method</article-title>
+					<source>Cancer Res</source>
+					<volume>70</volume>
+					<fpage>440</fpage>
+					<lpage>446</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Crozier, A., Jaganath, I.B. and Clifford, M.N. 2009. Dietary phenolics: Chemistry, bioavailability and effects on health. Nat Prod Rep 26, 1001-1043.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Crozier</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Jaganath</surname>
+							<given-names>I.B.</given-names>
+						</name>
+						<name>
+							<surname>Clifford</surname>
+							<given-names>M.N</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Dietary phenolics: Chemistry, bioavailability and effects on health</article-title>
+					<source>Nat Prod Rep</source>
+					<volume>26</volume>
+					<fpage>1001</fpage>
+					<lpage>1043</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>De Freitas, V. and Mateus, N. 2001. Structural features of procyanidin interactions with salivary proteins. J Agric Food Chem 49, 940-945.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De Freitas</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Mateus</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<article-title>Structural features of procyanidin interactions with salivary proteins</article-title>
+					<source>J Agric Food Chem</source>
+					<volume>49</volume>
+					<fpage>940</fpage>
+					<lpage>945</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Dukel, M. 2023. Combination of naringenin and epicatechin sensitizes colon carcinoma cells to anoikis via regulation of the epithelial-mesenchymal transition (EMT). Mol Cell Toxicol 19, 187-203.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dukel</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Combination of naringenin and epicatechin sensitizes colon carcinoma cells to anoikis via regulation of the epithelial-mesenchymal transition (EMT)</article-title>
+					<source>Mol Cell Toxicol</source>
+					<volume>19</volume>
+					<fpage>187</fpage>
+					<lpage>203</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Freitas, C.M.P., Coimbra, J.S.R., Souza, V.G.L. and Sousa, R.C.S. 2021. Structure and applications of pectin in food, biomedical, and pharmaceutical industry: A review. Coatings. 11, 1-22.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Freitas</surname>
+							<given-names>C.M.P.</given-names>
+						</name>
+						<name>
+							<surname>Coimbra</surname>
+							<given-names>J.S.R.</given-names>
+						</name>
+						<name>
+							<surname>Souza</surname>
+							<given-names>V.G.L.</given-names>
+						</name>
+						<name>
+							<surname>Sousa</surname>
+							<given-names>R.C.S</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Structure and applications of pectin in food, biomedical, and pharmaceutical industry: A review</article-title>
+					<source>Coatings</source>
+					<volume>11</volume>
+					<fpage>1</fpage>
+					<lpage>22</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Harholt, J., Suttangkakul, A. and Scheller, H.V. 2010. Biosynthesis of pectin. Plant Physiol 153, 384-395.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Harholt</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Suttangkakul</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Scheller</surname>
+							<given-names>H.V</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Biosynthesis of pectin</article-title>
+					<source>Plant Physiol</source>
+					<volume>153</volume>
+					<fpage>384</fpage>
+					<lpage>395</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Hidalgo, I., Nájera, N., Meaney, E., Pérez-Durán, J., Valdespino-Vazquez, Y., Villarreal, F. and Ceballos, G. 2020. Effects of (−)-epicatechin on the time course of the expression of perilipins in a diet-induced model of nonalcoholic steatohepatitis. J Nut Biochem. 77, 1-10.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hidalgo</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Nájera</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Meaney</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Pérez-Durán</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Valdespino-Vazquez</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Villarreal</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Ceballos</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Effects of (−)-epicatechin on the time course of the expression of perilipins in a diet-induced model of nonalcoholic steatohepatitis</article-title>
+					<source>J Nut Biochem</source>
+					<volume>77</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Huang, H. and Zhao, M. 2008. Changes of trypsin in activity and secondary structure induced by complex with trypsin inhibitors and tea polyphenol. Eur Food Res and Techn 227, 361-365.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Huang</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Zhao</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Changes of trypsin in activity and secondary structure induced by complex with trypsin inhibitors and tea polyphenol</article-title>
+					<source>Eur Food Res and Techn</source>
+					<volume>227</volume>
+					<fpage>361</fpage>
+					<lpage>365</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Huang, R., Zhang, Y., Shen, S., Zhi, Z., Cheng, H., Chen, S. and Ye, X. 2020. Antioxidant and pancreatic lipase inhibitory effects of flavonoids from different citrus peel extracts: An in vitro study. Food Chem 326, 1-10.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Huang</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Shen</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Zhi</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Cheng</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ye</surname>
+							<given-names>X</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Antioxidant and pancreatic lipase inhibitory effects of flavonoids from different citrus peel extracts: An in vitro study</article-title>
+					<source>Food Chem</source>
+					<volume>326</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Ke, J.Y., Cole, R.M., Hamad, E.M., Hsiao, Y.H., Cotten, B.M., Powell, K.A. and Belury, M.A. 2016. Citrus flavonoid, naringenin, increases locomotor activity and reduces diacylglycerol accumulation in skeletal muscle of obese ovariectomized mice. Mol Nutr Food Res 60, 313-324.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ke</surname>
+							<given-names>J.Y.</given-names>
+						</name>
+						<name>
+							<surname>Cole</surname>
+							<given-names>R.M.</given-names>
+						</name>
+						<name>
+							<surname>Hamad</surname>
+							<given-names>E.M.</given-names>
+						</name>
+						<name>
+							<surname>Hsiao</surname>
+							<given-names>Y.H.</given-names>
+						</name>
+						<name>
+							<surname>Cotten</surname>
+							<given-names>B.M.</given-names>
+						</name>
+						<name>
+							<surname>Powell</surname>
+							<given-names>K.A.</given-names>
+						</name>
+						<name>
+							<surname>Belury</surname>
+							<given-names>M.A</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Citrus flavonoid, naringenin, increases locomotor activity and reduces diacylglycerol accumulation in skeletal muscle of obese ovariectomized mice</article-title>
+					<source>Mol Nutr Food Res</source>
+					<volume>60</volume>
+					<fpage>313</fpage>
+					<lpage>324</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Koriem, K.M.M., Arbid, M.S. and Emam, K.R. 2014. Therapeutic effect of pectin on octylphenol induced kidney dysfunction, oxidative stress and apoptosis in rats. Environ Toxicol Pharmacol 38, 14-23.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Koriem</surname>
+							<given-names>K.M.M.</given-names>
+						</name>
+						<name>
+							<surname>Arbid</surname>
+							<given-names>M.S.</given-names>
+						</name>
+						<name>
+							<surname>Emam</surname>
+							<given-names>K.R</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Therapeutic effect of pectin on octylphenol induced kidney dysfunction, oxidative stress and apoptosis in rats</article-title>
+					<source>Environ Toxicol Pharmacol</source>
+					<volume>38</volume>
+					<fpage>14</fpage>
+					<lpage>23</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Kumar, A. and Chauhan, G.S. 2010. Extraction and characterization of pectin from apple pomace and its evaluation as lipase (steapsin) inhibitor. Carbohydr Polym 82, 454-459.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kumar</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Chauhan</surname>
+							<given-names>G.S</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Extraction and characterization of pectin from apple pomace and its evaluation as lipase (steapsin) inhibitor</article-title>
+					<source>Carbohydr Polym</source>
+					<volume>82</volume>
+					<fpage>454</fpage>
+					<lpage>459</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Le Bourvellec, C. and Renard, C.M.G.C. 2012. Interactions between polyphenols and macromolecules: Quantification methods and mechanisms. Crit Rev Food Sci Nutr 52, 213-248.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Le Bourvellec</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Renard</surname>
+							<given-names>C.M.G.C</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Interactions between polyphenols and macromolecules: Quantification methods and mechanisms</article-title>
+					<source>Crit Rev Food Sci Nutr</source>
+					<volume>52</volume>
+					<fpage>213</fpage>
+					<lpage>248</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation> L i, M.M., Chen, Y.T., Ruan, J.C., Wang, W.J., Chen, J.G. and Zhang, Q.F. 2023. Structure-activity relationship of dietary flavonoids on pancreatic lipase. Curr Res Food Sci 6, 1-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>L i</surname>
+							<given-names>M.M.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>Y.T.</given-names>
+						</name>
+						<name>
+							<surname>Ruan</surname>
+							<given-names>J.C.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>W.J.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>J.G.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>Q.F</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Structure-activity relationship of dietary flavonoids on pancreatic lipase</article-title>
+					<source>Curr Res Food Sci</source>
+					<volume>6</volume>
+					<fpage>1</fpage>
+					<lpage>8</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Liu, F., Ma, C., McClements, D.J. and Gao, Y. 2017. A comparative study of covalent and non-covalent interactions between zein and polyphenols in ethanol-water solution. Food Hydrocoll 63, 625-634.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liu</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Ma</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>McClements</surname>
+							<given-names>D.J.</given-names>
+						</name>
+						<name>
+							<surname>Gao</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>A comparative study of covalent and non-covalent interactions between zein and polyphenols in ethanol-water solution</article-title>
+					<source>Food Hydrocoll</source>
+					<volume>63</volume>
+					<fpage>625</fpage>
+					<lpage>634</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Martinez-Gonzalez, A.I., Alvarez-Parrilla, E., Díaz-Sánchez, Á.G., de la Rosa, L.A., Núñez-Gastélum, J.A., Vazquez-Flores, A.A. and Gonzalez-Aguilar, G.A. 2017. In vitro inhibition of pancreatic lipase by polyphenols: A kinetic, Fluorescence spectroscopy and molecular docking study. Food Technol Biotechnol 55, 519-530.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martinez-Gonzalez</surname>
+							<given-names>A.I.</given-names>
+						</name>
+						<name>
+							<surname>Alvarez-Parrilla</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Díaz-Sánchez</surname>
+							<given-names>Á.G.</given-names>
+						</name>
+						<name>
+							<surname>de la Rosa</surname>
+							<given-names>L.A.</given-names>
+						</name>
+						<name>
+							<surname>Núñez-Gastélum</surname>
+							<given-names>J.A.</given-names>
+						</name>
+						<name>
+							<surname>Vazquez-Flores</surname>
+							<given-names>A.A.</given-names>
+						</name>
+						<name>
+							<surname>Gonzalez-Aguilar</surname>
+							<given-names>G.A</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>In vitro inhibition of pancreatic lipase by polyphenols: A kinetic, Fluorescence spectroscopy and molecular docking study</article-title>
+					<source>Food Technol Biotechnol</source>
+					<volume>55</volume>
+					<fpage>519</fpage>
+					<lpage>530</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Mechchate, H., Es-safi, I., Haddad, H., Bekkari, H., Grafov, A. and Bousta, D. 2021. Combination of catechin, epicatechin, and rutin: Optimization of a novel complete antidiabetic formulation using a mixture design approach. J Nut Biochem 88, 1-10.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mechchate</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Es-safi</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Haddad</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Bekkari</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Grafov</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Bousta</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Combination of catechin, epicatechin, and rutin: Optimization of a novel complete antidiabetic formulation using a mixture design approach</article-title>
+					<source>J Nut Biochem</source>
+					<volume>88</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Mercado-Mercado, G., de la Rosa, L.A. and Alvarez-Parrilla, E. 2020. Effect of pectin on the interactions among phenolic compounds determined by antioxidant capacity. J Mol Struct 1199, 1-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mercado-Mercado</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>de la Rosa</surname>
+							<given-names>L.A.</given-names>
+						</name>
+						<name>
+							<surname>Alvarez-Parrilla</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Effect of pectin on the interactions among phenolic compounds determined by antioxidant capacity</article-title>
+					<source>J Mol Struct</source>
+					<volume>1199</volume>
+					<fpage>1</fpage>
+					<lpage>9</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Mita, S.R., Husni, P., Putriana, N.A., Maharani, R., Hendrawan, R.P. and Dewi, D.A. 2024. A Recent update on the potential use of catechins in cosmeceuticals. Cosmetics 11, 1-17.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mita</surname>
+							<given-names>S.R.</given-names>
+						</name>
+						<name>
+							<surname>Husni</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Putriana</surname>
+							<given-names>N.A.</given-names>
+						</name>
+						<name>
+							<surname>Maharani</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Hendrawan</surname>
+							<given-names>R.P.</given-names>
+						</name>
+						<name>
+							<surname>Dewi</surname>
+							<given-names>D.A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>A Recent update on the potential use of catechins in cosmeceuticals</article-title>
+					<source>Cosmetics</source>
+					<volume>11</volume>
+					<fpage>1</fpage>
+					<lpage>17</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Nagao, T., Meguro, S., Hase, T., Otsuka, K., Komikado, M., Tokimitsu, I., Yamamoto, T. and Yamamoto, K. 2009. A catechin-rich beverage improves obesity and blood glucose control in patients with type 2 diabetes. Obesity 17, 310-317.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nagao</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Meguro</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Hase</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Otsuka</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Komikado</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Tokimitsu</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Yamamoto</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Yamamoto</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>A catechin-rich beverage improves obesity and blood glucose control in patients with type 2 diabetes</article-title>
+					<source>Obesity</source>
+					<volume>17</volume>
+					<fpage>310</fpage>
+					<lpage>317</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Oliveira, D.M., Hoshino, É.P., Mota, T.R., Marchiosi, R., Ferrarese-Filho, O. and dos Santos, W.D. 2020. Modulation of cellulase activity by lignin-related compounds. Bioresour Technol Rep 10, 1-4.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Oliveira</surname>
+							<given-names>D.M.</given-names>
+						</name>
+						<name>
+							<surname>Hoshino</surname>
+							<given-names>É.P.</given-names>
+						</name>
+						<name>
+							<surname>Mota</surname>
+							<given-names>T.R.</given-names>
+						</name>
+						<name>
+							<surname>Marchiosi</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Ferrarese-Filho</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>dos Santos</surname>
+							<given-names>W.D</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Modulation of cellulase activity by lignin-related compounds</article-title>
+					<source>Bioresour Technol Rep</source>
+					<volume>10</volume>
+					<fpage>1</fpage>
+					<lpage>4</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Panche, A.N., Diwan, A.D. and Chandra, S.R. 2016. Flavonoids: An overview. J Nutr Sci. 5, 1-15.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Panche</surname>
+							<given-names>A.N.</given-names>
+						</name>
+						<name>
+							<surname>Diwan</surname>
+							<given-names>A.D.</given-names>
+						</name>
+						<name>
+							<surname>Chandra</surname>
+							<given-names>S.R</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Flavonoids: An overview</article-title>
+					<source>J Nutr Sci</source>
+					<volume>5</volume>
+					<fpage>1</fpage>
+					<lpage>15</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Patel, V.B., Chatterjee, S. and Dhoble, A.S. 2022. A review on pectinase properties, application in juice clarification, and membranes as immobilization support. J Food Sci 87, 3338-3354.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Patel</surname>
+							<given-names>V.B.</given-names>
+						</name>
+						<name>
+							<surname>Chatterjee</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Dhoble</surname>
+							<given-names>A.S</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>A review on pectinase properties, application in juice clarification, and membranes as immobilization support</article-title>
+					<source>J Food Sci</source>
+					<volume>87</volume>
+					<fpage>3338</fpage>
+					<lpage>3354</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Qie, X., Wu, Y., Chen, Y., Liu, C., Zeng, M., Qin, F., Wang, Z., Chen, J. and He, Z. 2021. Competitive interactions among tea catechins, proteins, and digestive enzymes modulate in vitro protein digestibility, catechin bioaccessibility, and antioxidant activity of milk tea beverage model systems. Food Res Int 140, 1-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Qie</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Wu</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Zeng</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Qin</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>He</surname>
+							<given-names>Z</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Competitive interactions among tea catechins, proteins, and digestive enzymes modulate in vitro protein digestibility, catechin bioaccessibility, and antioxidant activity of milk tea beverage model systems</article-title>
+					<source>Food Res Int</source>
+					<volume>140</volume>
+					<fpage>1</fpage>
+					<lpage>8</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Qin, R., Xiao, K., Li, B., Jiang, W., Peng, W., Zheng, J. and Zhou, H. 2013. The combination of catechin and epicatechin gallate from fructus crataegi potentiates β-lactam antibiotics against methicillin-resistant <italic>Staphylococcus aureus</italic> (MRSA) in vitro and in vivo. Int J Mol Sci 14, 1802-1821.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Qin</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Xiao</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Jiang</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Peng</surname>
+							<given-names>W.</given-names>
+						</name>
+						<name>
+							<surname>Zheng</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Zhou</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>The combination of catechin and epicatechin gallate from fructus crataegi potentiates β-lactam antibiotics against methicillin-resistant Staphylococcus aureus (MRSA) in vitro and in vivo</article-title>
+					<source>Int J Mol Sci</source>
+					<volume>14</volume>
+					<fpage>1802</fpage>
+					<lpage>1821</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Sánchez Macarro, M., Martínez Rodríguez, J.P., Bernal Morell, E., Pérez-Piñero, S., Victoria-Montesinos, D., García-Muñoz, A.M., Cánovas García, F., Castillo Sánchez, J. and López-Román, F.J. 2020. Effect of a combination of citrus flavones and flavanones and olive polyphenols for the reduction of cardiovascular disease risk: An exploratory randomized, double-blind, placebo-controlled study in healthy subjects. Nutrients 12, 1-15.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez Macarro</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Martínez Rodríguez</surname>
+							<given-names>J.P.</given-names>
+						</name>
+						<name>
+							<surname>Bernal Morell</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Pérez-Piñero</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Victoria-Montesinos</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>García-Muñoz</surname>
+							<given-names>A.M.</given-names>
+						</name>
+						<name>
+							<surname>Cánovas García</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Castillo Sánchez</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>López-Román</surname>
+							<given-names>F.J</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Effect of a combination of citrus flavones and flavanones and olive polyphenols for the reduction of cardiovascular disease risk: An exploratory randomized, double-blind, placebo-controlled study in healthy subjects</article-title>
+					<source>Nutrients</source>
+					<volume>12</volume>
+					<fpage>1</fpage>
+					<lpage>15</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Slavova-Kazakova, A., Janiak, M.A., Sulewska, K., Kancheva, V.D. and Karamać, M. 2021. Synergistic, additive, and antagonistic antioxidant effects in the mixtures of curcumin with (−)-epicatechin and with a green tea fraction containing (−)-epicatechin. Food Chem 360, 1-7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Slavova-Kazakova</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Janiak</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Sulewska</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Kancheva</surname>
+							<given-names>V.D.</given-names>
+						</name>
+						<name>
+							<surname>Karamać</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Synergistic, additive, and antagonistic antioxidant effects in the mixtures of curcumin with (−)-epicatechin and with a green tea fraction containing (−)-epicatechin</article-title>
+					<source>Food Chem</source>
+					<volume>360</volume>
+					<fpage>1</fpage>
+					<lpage>7</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Smeriglio, A., Iraci, N., Denaro, M., Mandalari, G., Giofrè, S.V. and Trombetta, D. 2023. Synergistic combination of citrus flavanones as strong antioxidant and COX-inhibitor agent. Antioxidants 12, 1-21.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Smeriglio</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Iraci</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Denaro</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Mandalari</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Giofrè</surname>
+							<given-names>S.V.</given-names>
+						</name>
+						<name>
+							<surname>Trombetta</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Synergistic combination of citrus flavanones as strong antioxidant and COX-inhibitor agent</article-title>
+					<source>Antioxidants</source>
+					<volume>12</volume>
+					<fpage>1</fpage>
+					<lpage>21</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Stamogiannou, I., Van Camp, J., Smagghe, G., Van de Walle, D., Dewettinck, K. and Raes, K. 2021. Impact of phenolic compound as activators or inhibitors on the enzymatic hydrolysis of cellulose. Int J Biol Macromol 186, 174-180.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stamogiannou</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Van Camp</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Smagghe</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Van de Walle</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Dewettinck</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Raes</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Impact of phenolic compound as activators or inhibitors on the enzymatic hydrolysis of cellulose</article-title>
+					<source>Int J Biol Macromol</source>
+					<volume>186</volume>
+					<fpage>174</fpage>
+					<lpage>180</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Stevens-Barrón, J.C., Wall-Medrano, A., Álvarez-Parrilla, E., Olivas-Armendáriz, I., Astiazaran-García, H., Robles-Zepeda, R.E. and De la Rosa, L.A. 2022. Synergistic interactions between tocol and phenolic extracts from different tree nut species against human cancer Ccell lines. Molecules 27, 1-15.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stevens-Barrón</surname>
+							<given-names>J.C.</given-names>
+						</name>
+						<name>
+							<surname>Wall-Medrano</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Álvarez-Parrilla</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Olivas-Armendáriz</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Astiazaran-García</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Robles-Zepeda</surname>
+							<given-names>R.E.</given-names>
+						</name>
+						<name>
+							<surname>De la Rosa</surname>
+							<given-names>L.A</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Synergistic interactions between tocol and phenolic extracts from different tree nut species against human cancer Ccell lines</article-title>
+					<source>Molecules</source>
+					<fpage>27</fpage>
+					<lpage> 1-15</lpage>
+					<page-range>27, 1-15</page-range>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Tian, Y., Jiang, Y. and Ou, S. 2013. Interaction of cellulase with three phenolic acids. Food Chem 138, 1022-1027.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tian</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Jiang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Ou</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Interaction of cellulase with three phenolic acids</article-title>
+					<source>Food Chem</source>
+					<volume>138</volume>
+					<fpage>1022</fpage>
+					<lpage>1027</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Tsujita, T., Sumiyosh, M., Han, L.-K., Fujiwara, T., Tsujita, J. and Okuda, H. 2003. Inhibition of lipase activities by citrus pectin. I Nutr Sci Vitaminol 49, 340-345.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tsujita</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Sumiyosh</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Han</surname>
+							<given-names>L.-K.</given-names>
+						</name>
+						<name>
+							<surname>Fujiwara</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Tsujita</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Okuda</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Inhibition of lipase activities by citrus pectin</article-title>
+					<source>I Nutr Sci Vitaminol</source>
+					<volume>49</volume>
+					<fpage>340</fpage>
+					<lpage>345</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Tucker, G., Yin, X., Zhang, A., Wang, M., Zhu, Q., Liu, X., Xie, X., Chen, K. and Grierson, D. 2017. Ethylene. Food Quality and Safety.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tucker</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Yin</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Zhu</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Xie</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Grierson</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Ethylene</article-title>
+					<source>Food Quality and Safety</source>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Vaidya, B.K. and Singhal, R.S. 2008. Use of insoluble yeast β-glucan as a support for immobilization of Candida rugosa lipase. Colloids Surf B Biointerfaces 61, 101-105.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vaidya</surname>
+							<given-names>B.K.</given-names>
+						</name>
+						<name>
+							<surname>Singhal</surname>
+							<given-names>R.S</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Use of insoluble yeast β-glucan as a support for immobilization of Candida rugosa lipase</article-title>
+					<source>Colloids Surf B Biointerfaces</source>
+					<volume>61</volume>
+					<fpage>101</fpage>
+					<lpage>105</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Wei, K., Wang, G.Q., Bai, X., Niu, Y.F., Chen, H.P., Wen, C.N., Li, Z.H., Dong, Z.J., Zuo, Z.L., Xiong, W.Y. and Liu, J.K. 2015. Structure-based optimization and biological evaluation of pancreatic lipase inhibitors as novel potential antiobesity agents. Nat Prod Bioprospect 5, 129-157.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wei</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>G.Q.</given-names>
+						</name>
+						<name>
+							<surname>Bai</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Niu</surname>
+							<given-names>Y.F.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>H.P.</given-names>
+						</name>
+						<name>
+							<surname>Wen</surname>
+							<given-names>C.N.</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>Z.H.</given-names>
+						</name>
+						<name>
+							<surname>Dong</surname>
+							<given-names>Z.J.</given-names>
+						</name>
+						<name>
+							<surname>Zuo</surname>
+							<given-names>Z.L.</given-names>
+						</name>
+						<name>
+							<surname>Xiong</surname>
+							<given-names>W.Y.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>J.K</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Structure-based optimization and biological evaluation of pancreatic lipase inhibitors as novel potential antiobesity agents</article-title>
+					<source>Nat Prod Bioprospect</source>
+					<volume>5</volume>
+					<fpage>129</fpage>
+					<lpage>157</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Yakaiah, V., Dakshinamoorthi, A. and Sudha, T.S. 2021. Novel aspects in inhibiting pancreatic lipase with potential new compound from nutmeg in connection with obesity - In vitro, In silico, In vivo and Ex vivo studies. Maedica - A Journal of Clinical Medicine 16, 445-452.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yakaiah</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Dakshinamoorthi</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Sudha</surname>
+							<given-names>T.S</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Novel aspects in inhibiting pancreatic lipase with potential new compound from nutmeg in connection with obesity - In vitro, In silico, In vivo and Ex vivo studies</article-title>
+					<source>Maedica - A Journal of Clinical Medicine</source>
+					<volume>16</volume>
+					<fpage>445</fpage>
+					<lpage>452</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Yang, S.S., Cheng, K.T., Lin, Y.S., Liu, Y.W. and Hou, W.C. 2004. Pectin hydroxamic acids exhibit antioxidant activities in vitro. J Agric Food Chem 52, 4270-4273.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yang</surname>
+							<given-names>S.S.</given-names>
+						</name>
+						<name>
+							<surname>Cheng</surname>
+							<given-names>K.T.</given-names>
+						</name>
+						<name>
+							<surname>Lin</surname>
+							<given-names>Y.S.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>Y.W.</given-names>
+						</name>
+						<name>
+							<surname>Hou</surname>
+							<given-names>W.C</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Pectin hydroxamic acids exhibit antioxidant activities in vitro</article-title>
+					<source>J Agric Food Chem</source>
+					<volume>52</volume>
+					<fpage>4270</fpage>
+					<lpage>4273</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Zhang, L., McClements, D.J., Wei, Z., Wang, G., Liu, X. and Liu, F. 2020. Delivery of synergistic polyphenol combinations using biopolymer-based systems: Advances in physicochemical properties, stability and bioavailability. Crit Rev Food Sci Nutr 60, 2083-2097.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhang</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>McClements</surname>
+							<given-names>D.J.</given-names>
+						</name>
+						<name>
+							<surname>Wei</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Liu</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Delivery of synergistic polyphenol combinations using biopolymer-based systems: Advances in physicochemical properties, stability and bioavailability</article-title>
+					<source>Crit Rev Food Sci Nutr</source>
+					<volume>60</volume>
+					<fpage>2083</fpage>
+					<lpage>2097</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Zhao, J. and Chen, H. 2014. Stimulation of cellulases by small phenolic compounds in pretreated stover. J Agric Food Chem 62, 3223-3229.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhao</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Stimulation of cellulases by small phenolic compounds in pretreated stover</article-title>
+					<source>J Agric Food Chem</source>
+					<volume>62</volume>
+					<fpage>3223</fpage>
+					<lpage>3229</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Zhou, M., Bi, J., Chen, J., Wang, R. and Richel, A. 2021. Impact of pectin characteristics on lipid digestion under simulated gastrointestinal conditions: Comparison of water-soluble pectins extracted from different sources. Food Hydrocoll 112, 1-10.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhou</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Bi</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Richel</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Impact of pectin characteristics on lipid digestion under simulated gastrointestinal conditions: Comparison of water-soluble pectins extracted from different sources</article-title>
+					<source>Food Hydrocoll</source>
+					<volume>112</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Zhu, R., Wang, C., Zhang, L., Wang, Y., Chen, G., Fan, J., Jia, Y., Yan, F. and Ning, C. 2019. Pectin oligosaccharides from fruit of <italic>Actinidia arguta</italic>: Structure-activity relationship of prebiotic and antiglycation potentials. Carbohydr Polym 217, 90-97.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zhu</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Fan</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Jia</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Yan</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Ning</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Pectin oligosaccharides from fruit of Actinidia arguta: Structure-activity relationship of prebiotic and antiglycation potentials</article-title>
+					<source>Carbohydr Polym</source>
+					<volume>217</volume>
+					<fpage>90</fpage>
+					<lpage>97</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

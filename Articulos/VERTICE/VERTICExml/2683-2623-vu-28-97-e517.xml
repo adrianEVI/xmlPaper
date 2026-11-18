@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">vu</journal-id>
+			<journal-title-group>
+				<journal-title>Vértice universitario</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Vértice univ.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-1388</issn>
+			<issn pub-type="epub">2683-2623</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Económicas y Administrativas</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36792/rvu.v28i97.517</article-id>
+			<article-id pub-id-type="other">00103</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Empleabilidad y desigualdades laborales: profesionales de Ingeniería Industrial y Sistemas</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0006-0375-4512</contrib-id>
+					<name>
+						<surname>Juvera Quijada</surname>
+						<given-names>Karla Margarita</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Candidata a Doctora en Ciencias Sociales</role>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-9127-3498</contrib-id>
+					<name>
+						<surname>Lara Enríquez</surname>
+						<given-names>Blanca Esthela</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<role>Doctora en Ciencias Sociales por El Colegio de la Frontera Norte</role>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Autora de correspondencia: Candidata a Doctora en Ciencias Sociales por el Colegio de Sonora en la línea de investigación de Desarrollo, Sustentabilidad y Género, El Colegio de Sonora Correo electrónico: kjuvera@colson.edu.mx </institution>
+				<institution content-type="normalized">Colegio de Sonora</institution>
+				<institution content-type="orgname">El Colegio de Sonora</institution>
+				<country country="MX">Mexico</country>
+				<email>kjuvera@colson.edu.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Doctora en Ciencias Sociales por El Colegio de la Frontera Norte. Profesora-Investigadora Titular C, El Colegio de Sonora Correo electrónico: blara@colson.edu.mx </institution>
+				<institution content-type="normalized">Colegio de Sonora</institution>
+				<institution content-type="orgname">El Colegio de Sonora</institution>
+				<country country="MX">Mexico</country>
+				<email>blara@colson.edu.mx</email>
+			</aff>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>24</day>
+				<month>03</month>
+				<year>2026</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2026</year>
+			</pub-date>
+			<volume>28</volume>
+			<issue>97</issue>
+			<elocation-id>e517</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>30</day>
+					<month>01</month>
+					<year>2026</year>
+				</date>
+				<date date-type="accepted">
+					<day>11</day>
+					<month>03</month>
+					<year>2026</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El objetivo de la investigación es analizar la empleabilidad de profesionistas de Ingeniería Industrial y de Sistemas de una universidad pública del noroeste de México. Este análisis se realizó a partir de tres momentos clave: inserción, permanencia y ascenso laboral. Se empleó un modelo analítico multidimensional con enfoque de género que articula las dimensiones personales, contextuales y temporales. La metodología utilizada fue cualitativa; mediante entrevistas semiestructuradas se identifican experiencias de inserción, permanencia y ascenso en los puestos de trabajo. Los hallazgos muestran trayectorias diferenciadas: los hombres tienden a avanzar de forma lineal, mientras que las mujeres enfrentan barreras estructurales, como la doble jornada, y mayores dificultades para el ascenso. Las limitaciones del estudio se relacionan con el campo disciplinar analizado, el contexto regional específico y el número acotado de participantes. Se concluye que la empleabilidad es una construcción social mediada y condicionada por relaciones de poder y desigualdades.</p>
+			</abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>empleabilidad</kwd>
+				<kwd>trayectorias laborales</kwd>
+				<kwd>desigualdades de género</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Códigos JEL:</title>
+				<kwd>J16</kwd>
+				<kwd>J24</kwd>
+				<kwd>I24</kwd>
+				<kwd>O15</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="8"/>
+				<equation-count count="0"/>
+				<ref-count count="50"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>1. Introducción</title>
+			<p>Desde finales del siglo XX, el tránsito de los y las jóvenes profesionistas hacia al mercado laboral se ha vuelto cada vez más complejo. Las transformaciones derivadas de la globalización, la expansión de la educación superior, los avances tecnológicos y la flexibilidad del trabajo han redefinido los procesos de inserción, permanencia y ascenso en el empleo. Estas transformaciones han dado lugar a un nuevo escenario socioeconómico caracterizado por formas emergentes de aprendizaje, reorganización del trabajo y exigencias cada vez más altas para los (las) profesionistas. La Organización Internacional del Trabajo (<xref ref-type="bibr" rid="B34">Organización Internacional del Trabajo [OIT], 2019</xref>) ha señalado que estas modificaciones en el mercado laboral generan problemas de desempleo, subempleo o informalidad que afectan, con mayor intensidad, a las juventudes, quienes enfrentan crecientes dificultades para acceder a condiciones laborales dignas y estables. </p>
+			<p>La educación superior desempeña un papel clave en la formación de capital humano y la acreditación de saberes para el mercado laboral; sin embargo, persiste una brecha entre la formación académica y las oportunidades reales de empleo. Como señalan <xref ref-type="bibr" rid="B42">Scheele et al., (2009)</xref> y <xref ref-type="bibr" rid="B43">Siivonen et al., (2023)</xref>, el crecimiento de la educación superior no ha garantizado el acceso a empleos de calidad, sino que ha generado nuevas tensiones entre lo aprendido y las demandas del mercado. En este contexto, la empleabilidad ha adquirido relevancia en las políticas educativas y en las agendas de las Instituciones de Educación Superior (IES), aunque su enfoque meritocrático ha sido cuestionado por perspectivas que la entienden como una construcción social atravesada por elementos estructurales, institucionales y culturales (<xref ref-type="bibr" rid="B45">Tomlinson, 2007</xref>; <xref ref-type="bibr" rid="B1">Aguilar-Barceló y Mungaray-Moctezuma, 2019</xref>). Desde esta visión crítica, la empleabilidad se configura en la intersección de múltiples dimensiones: características individuales, acceso a redes sociales, estructura del mercado laboral, condiciones socioeconómicas y relaciones de poder y género, y no únicamente en la acumulación de capital humano. </p>
+			<p>En México, a pesar de que existe una producción académica creciente sobre educación superior y empleo, gran parte de los estudios mantiene un enfoque cuantitativo centrada en la inserción laboral, lo que limita el análisis de la empleabilidad al primer empleo. Este acercamiento deja de lado dimensiones críticas como la permanencia y el ascenso en los puestos de trabajo, las trayectorias profesionales a largo plazo y las condiciones que permiten o limitan el ascenso laboral. </p>
+			<p>En este artículo se retoma un enfoque multidimensional de la empleabilidad, que contempla tres momentos clave: la inserción, la permanencia y el ascenso en el empleo, entendidos como procesos continuos y relacionados. Asimismo, se demuestra que la empleabilidad está profundamente condicionada por desigualdades de género. A pesar del incremento sostenido en la matrícula femenina de la educación superior y de su creciente incorporación al mercado laboral, las mujeres continúan enfrentando barreras para acceder a empleos de calidad, permanecer y avanzar hacia posiciones de mayor responsabilidad e ingresos. Como se ha señalado en <xref ref-type="bibr" rid="B39">Rentería-Pérez et al. (2022)</xref> las barreras por razones de género persisten tanto en los mecanismos de contratación como en las trayectorias profesionales; aún se reproducen patrones de exclusión que limitan las oportunidades laborales. </p>
+			<p>Las carreras de Ingeniería Industrial y de Sistemas han sido un campo históricamente masculinizado. El objetivo de este artículo es analizar la construcción de la empleabilidad de mujeres y hombres egresados(as) de esta disciplina en tres momentos de su trayectoria profesional: su ingreso al mercado de trabajo, la permanencia en el empleo y las oportunidades de ascenso laboral. El estudio adopta un enfoque crítico con perspectiva de género, lo cual permite visibilizar las desigualdades estructurales que moldean las trayectorias profesionales, considerando no solo las competencias y logros académicos de las y los profesionistas, sino también el papel de las redes de contacto, las condiciones laborales y los contextos institucionales. La hipótesis establece que la empleabilidad está condicionada por factores contextuales, estructurales y relacionales, y no solo por características individuales. Esto genera desventajas para las mujeres en su inserción, permanencia y ascenso, configurando trayectorias profesionales dinámicas pero desiguales.</p>
+			<p>El artículo se divide en cuatro apartados, además de la introducción. El primero aborda los debates teóricos sobre empleabilidad y género y presenta un modelo analítico compuesto por tres dimensiones: la personal, la contextual y la temporal. El segundo explica la metodología cualitativa y la población estudiada. El tercer reconstruye los itinerarios de empleabilidad a partir del análisis de la inserción, la permanencia y el ascenso de las y los profesionistas, considerando las desigualdades de género y las tensiones entre estabilidad, incertidumbre y proyecto de vida profesional. El último apartado se presentan las conclusiones las cuales se sintetizan los aportes del estudio, las limitaciones y líneas futuras de investigación. </p>
+		</sec>
+		<sec>
+			<title>2. Marco teórico</title>
+			<sec>
+				<title>2.1 Empleabilidad: enfoques y debates teóricos</title>
+				<p>La empleabilidad ha sido abordada inicialmente desde un enfoque individualista, centrado en las habilidades y las competencias que adquieren las egresadas y los egresados durante su formación universitaria. Las perspectivas tradicionales han desarrollado modelos enfocados en competencias; destacan los propuestos por Yorke (2005), Dacre <xref ref-type="bibr" rid="B37">Pool y Sewell (2007)</xref> y <xref ref-type="bibr" rid="B46">Van Der Heijde (2006)</xref>, en los cuales se define la empleabilidad como la capacidad de obtener, conservar y desempeñar un trabajo de manera satisfactoria. Estas posturas tienden a enfatizar la responsabilidad individual en el éxito profesional, sin atender plenamente las desigualdades estructurales que condicionan el acceso, la permanencia y la movilidad en el empleo. </p>
+				<p>En contraste, enfoques más recientes sostienen que la empleabilidad debe entenderse como un fenómeno socialmente mediado. <xref ref-type="bibr" rid="B12">Brown et al. (2003)</xref> y <xref ref-type="bibr" rid="B23">Hall (2020)</xref> sostienen que su construcción trasciende los atributos individuales e incorpora los contextos institucionales, las dinámicas del mercado laboral y las relaciones de poder que influyen en las oportunidades profesionales. En esta misma línea, estudios recientes advierten la necesidad de incorporar enfoques críticos que consideren la interacción entre capitales (humano y social) y las estructuras sociolaborales más amplias (<xref ref-type="bibr" rid="B43">Siivonen et al.;2023</xref>). Asimismo, <xref ref-type="bibr" rid="B35">Peeters et al. (2019)</xref> y <xref ref-type="bibr" rid="B15">Clarke (2018)</xref> señalan que la empleabilidad se configura a partir de la interacción entre atributos personales y factores externos, como la estructura económica, el tipo de empleo disponible, el territorio y la segmentación del mercado laboral. En este estudio se distingue entre inserción laboral y empleabilidad. La inserción laboral se refiere al proceso inicial de acceso al empleo después de su egreso, mientras que la empleabilidad se concibe como un proceso más amplio que incluye la capacidad de acceder, mantenerse y progresar en el mercado laboral a lo largo del tiempo. Está distinción permite analizar no solo el momento de entrada al empleo, sino también las trayectorias profesionales posteriores. </p>
+				<p>En América Latina, los estudios sobre empleabilidad aún son relativamente limitados y, en su mayoría, han privilegiado enfoques cuantitativos orientados a medir variables como inserción laboral, ingresos y tiempo de empleo. No obstante, investigaciones más recientes han propuesto aproximaciones más integrales. <xref ref-type="bibr" rid="B33">Orellana (2018)</xref> y <xref ref-type="bibr" rid="B26">Jiménez-Ulate (2022)</xref> plantean comprender la empleabilidad como un constructo social complejo y multidimensional que involucra procesos formativos, trayectorias laborales y condiciones estructurales del mercado de trabajo. </p>
+				<p>Las investigaciones de <xref ref-type="bibr" rid="B24">Jacinto y Millenaar (2010)</xref> y <xref ref-type="bibr" rid="B44">Tenjo et al. (2017)</xref> demuestran que las mujeres enfrentan mayores dificultades para insertarse, permanecer y ascender en el mercado laboral, incluso con niveles de formación similares a los hombres. La incorporación de una perspectiva de género permite visibilizar las barreras simbólicas, estructurales y organizacionales que afectan de manera diferenciada a hombres y mujeres, especialmente en campos como la ingeniería o las ciencias exactas. <xref ref-type="bibr" rid="B28">Lamas (2016)</xref> sostiene que el conocimiento no es neutro y que los estudios deben reconocer las relaciones de poder y desigualdades entre los géneros. Incorporar esta perspectiva permite comprender cómo los procesos de empleabilidad están mediados por la división sexual del trabajo, la inequidad salarial y la reproducción de estereotipos en el ámbito profesional. </p>
+				<p>Diversos estudios han documentado que, a pesar de la expansión educativa femenina, las oportunidades laborales continúan siendo desiguales. <xref ref-type="bibr" rid="B13">Camarena y Saavedra (2018)</xref> y <xref ref-type="bibr" rid="B14">Castillo et al. (2020)</xref> señalan que, aunque las mujeres han incrementado su participación en la educación superior, su acceso a posiciones de mayor jerarquía en el mercado laboral sigue siendo limitado. De igual forma, <xref ref-type="bibr" rid="B41">Salas et al. (2023)</xref> advierten que el análisis de la empleabilidad de las mujeres constituye una vía relevante para examinar las desigualdades de género en el trabajo, ya que permite observar tanto su incorporación como su trayectoria de progreso profesional. En este sentido, la feminización del empleo ha dado lugar a nuevas formas de precarización laboral, frecuentemente vinculadas con la concentración de mujeres en sectores de servicios o en roles asociados al trabajo de cuidado (<xref ref-type="bibr" rid="B36">Pérez Sáinz, 2016</xref>).</p>
+				<p>Aunque la empleabilidad suele explicarse desde habilidades individuales, los enfoques críticos advierten que está profundamente condicionada por factores estructurales, especialmente de género. Los contextos laborales no son neutros: reproducen dinámicas que segmentan y jerarquizan el empleo, generando obstáculos diferenciados para mujeres y hombres en su inserción, permanencia y ascenso. La perspectiva de género permite visibilizar estas desigualdades, pues la división sexual del trabajo y barreras internas, externas y reproductivas limitan las oportunidades de las mujeres, configurando trayectorias laborales desiguales y mediadas por relaciones de poder (<xref ref-type="bibr" rid="B38">Ramos et al.,2003</xref>). </p>
+				<p>A partir de estos debates teóricos, en este estudio la empleabilidad se analiza mediante un modelo multidimensional compuesto por tres dimensiones interrelacionadas; personal, contextual y temporal (<xref ref-type="table" rid="t1">Tabla 1</xref>). Este modelo permite reconocer que hombres y mujeres desarrollan sus trayectorias profesionales en contextos desiguales, influenciados por la división sexual del trabajo y por las dinámicas diferenciadas del mercado laboral. En este sentido, el análisis multidimensional permite identificar tanto las oportunidades como las restricciones que experimentan las personas en su proceso de inserción, permanencia y ascenso laboral. </p>
+				<p>
+					<table-wrap id="t1">
+						<label>Tabla 1</label>
+						<caption>
+							<title>Modelo analítico para analizar la empleabilidad</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 500px; background-color: #c7c8c9;" colspan="2"><bold>Empleabilidad    y género</bold> </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" colspan="2">Análisis    multidimensional </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Dimensión    personal </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Dimensión    contextual </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Capital humano </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Microsistema y mesosistema </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Capital social </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Exosistema y macrosistema</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" colspan="2">Dimensión    temporal </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" colspan="2">Microtiempo</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" colspan="2">Mesotiempo</td>
+  </tr>
+
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" colspan="2">
+      
+      Macrotiempo </td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN1">
+								<p>Fuente: elaboración propia</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>La dimensión personal se estructura a partir de dos categorías: el capital humano y el capital social. Según <xref ref-type="bibr" rid="B35">Peeters et al. (2019)</xref>, ambos conforman el capital de empleabilidad, entendido como el conjunto de recursos que permiten acceder, mantener y progresar en el empleo. La teoría del capital humano (<xref ref-type="bibr" rid="B5">Becker, 1984</xref>) subraya la importancia de la educación como inversión clave para la inserción laboral; no obstante, estudios recientes advierten que los desajustes entre los sistemas educativos y las necesidades del mercado laboral han debilitado esta relación, aunque reconocen que la formación sigue siendo determinante (<xref ref-type="bibr" rid="B47">Vázquez et al., 2021</xref>). En complemento, el capital social, adquiere relevancia al referirse a los recursos accesibles a través de redes de relaciones, que pueden facilitar el acceso a otros tipos de capital como el económico, cultural o simbólico (<xref ref-type="bibr" rid="B9">Bourdieu, 2018</xref>). <xref ref-type="bibr" rid="B49">Woolcock y Narayan (2000)</xref> señalan que estas redes operan mediante normas de confianza y reciprocidad que permiten a las personas movilizar recursos colectivos para alcanzar beneficios económicos. </p>
+				<p>La segunda dimensión corresponde al contexto, el cual es analizado en cuatro niveles interrelacionados: microsistema, mesosistema, exosistema y macrosistema. El microsistema alude al entorno inmediato, especialmente del ámbito laboral donde se desarrollan actividades remuneradas, roles y relaciones interpersonales. El mesosistema comprende las interacciones con la familia extendida, los amigos y los espacios escolares y laborales, donde pueden consolidarse redes de apoyo. El exosistema incluye factores estructurales que afectan indirectamente a las personas, como las dinámicas empresariales y decisiones político-económicas que inciden en el mercado laboral. Finalmente, el macrosistema engloba el contexto más amplio, conformado políticas públicas, modelos educativos y laborales, así como por transformaciones culturales y tecnológicas que influyen en la organización del trabajo. </p>
+				<p>La tercera dimensión corresponde a la temporalidad, entendida como una concepción procesual de la empleabilidad. Esta dimensión comprende tres niveles: microtiempo, mesotiempo y macrotiempo. El microtiempo se refiere a eventos cotidianos relacionados con la experiencia laboral, como las actividades diarias en el trabajo o la adaptación a nuevas responsabilidades. El mesotiempo contempla periodos más prolongados dentro de la trayectoria profesional, como las transiciones entre empleos o los procesos de consolidación laboral. Por su parte, el macrotiempo comprende expectativas de vida profesional a largo plazo y los acontecimientos significativos que marcan la evolución de una trayectoria ocupacional. </p>
+				<p>El análisis de estas dimensiones permite comprender la empleabilidad como un fenómeno complejo que emerge de la interacción entre factores individuales, contextuales y temporales. Desde esta perspectiva, la empleabilidad no depende únicamente de las características individuales, sino que se configura a partir de relaciones sociales, estructuras institucionales y condiciones del entorno donde se desarrollan las trayectorias profesionales. En coherencia con el enfoque de <xref ref-type="bibr" rid="B11">Bronfenbrenner y Morris (2007)</xref>, el modelo reconoce que las experiencias están transversalizadas por desigualdades estructurales, particularmente relacionadas con el género y la clase social, las cuales influyen en las oportunidades de inserción, permanencia y ascenso en el mercado laboral. </p>
+			</sec>
+		</sec>
+		<sec sec-type="methods">
+			<title>3. Metodología</title>
+			<p>El diseño metodológico se basa en un enfoque cualitativo, se aplicaron un total de 16 entrevistas semiestructuradas a profesionistas de Ingeniería Industrial y de Sistemas egresados(as) de una universidad pública de Sonora. A partir de la reconstrucción de sus experiencias académicas y laborales, se exploraron los procesos de inserción, permanencia y ascenso en el mercado laboral desde una perspectiva multidimensional y con enfoque de género. </p>
+			<p>La selección del campo disciplinar se sustentó en un análisis previo de información estadística a nivel nacional, estatal e institucional, lo que permitió identificar aquellas áreas con mayor dinamismo en términos de inserción laboral. Se consideraron dos criterios principales: a) los índices de empleo y demanda ocupacional reportados por cada disciplina y b) la pertinencia analítica para visibilizar desigualdades de género en un campo profesional tradicionalmente masculinizado. En cuanto a la selección de participantes, se empleó un muestreo no probabilístico por “bola de nieve”. Este procedimiento consistió en identificar inicialmente a egresadas (os) que cumplían con los criterios establecidos, quienes posteriormente refirieron a otras (os) profesionistas con características similares. La selección se detuvo al alcanzar saturación teórica, es decir, cuando las entrevistas adicionales no aportaron categorías sustantivamente nuevas al análisis. </p>
+			<p>La entrevista semiestructurada aplicada a profesionistas facilitó la obtención de relatos detallados y significativos de sus trayectorias académicas, laborales y personales, revelando los factores estructurales y subjetivos que inciden en su empleabilidad. Como señala, esta técnica favorece una conservación abierta que capta significados personales y permite la apertura de temas. El desarrollo de la entrevista se estructuró en cuatro dimensiones: 1) datos sociodemográficos y familiares, 2) capital humano y desarrollo de habilidades/competencias, 3) trayectoria laboral y capital social y 4) vínculo entre vida personal y profesional.</p>
+			<p>El proceso de análisis de los datos cualitativos se desarrolló siguiendo las etapas propuestas por Creswell (2009) recolección de datos, transcripción completa, codificación, descripción de categorías analíticas y presentación de resultados en MAXQDA. El proceso de codificación combinó un enfoque deductivo e inductivo. En una primera etapa, se partió de categorías derivadas del modelo teórico propuesto (dimensión personal, contextual y temporal) lo que permitió organizar la información conforme a los procesos de inserción, permanencia y ascenso laboral. Posteriormente, mediante un análisis inductivo, se identificaron categorías emergentes vinculadas a desigualdades de género, agencia individual y estrategias profesionales. Se realizaron cuatro ciclos de codificación, lo que permitió depurar, agrupar y sinterizar categorías y subcategorías analíticas. </p>
+			<p>El criterio de saturación teórica se alcanzó cuando las entrevistas adicionales no aportaron nuevas categorías analíticas sustantivas, sino variaciones y matices de las ya identificadas. Para fortalecer el rigor metodológico se implementaron estrategias de triangulación teórica, contrastando los hallazgos empíricos con distintos marcos conceptuales sobre empleabilidad y género. Está estrategia permitió ampliar la comprensión del fenómeno y fortalecer la validez interpretativa del estudio (Creswell, 2009). En términos de transferibilidad, los hallazgos no buscan generalización estadística, sino aportar una comprensión situada de la empleabilidad en un campo disciplinar especifico. La descripción detallada del contexto, los participantes y el proceso analítico permite que otros estudios puedan valorar la aplicabilidad de los resultados en contextos similares.</p>
+			<sec>
+				<title>3.1 Caracterización de las y los participantes</title>
+				<p>El grupo de participantes estuvo conformado por nueve hombres y siete mujeres, con un rango de entre 23 y 37 años (<xref ref-type="table" rid="t2">Tabla 2</xref>). La mayoría se encuentra en una etapa de consolidación profesional, en la cual las decisiones laborales comienzan a estructurarse en función de la estabilidad, el desarrollo y la proyección de carrera. Predominan las personas solteras, dos están casadas (una mujer y un hombre) y uno en unión libre. Esta composición refleja trayectorias laborales con mayor disponibilidad para la movilidad y flexibilidad territorial, elementos considerados estratégicos en las etapas iniciales de desarrollo profesional, particularmente en sectores industriales. </p>
+				<p>
+					<table-wrap id="t2">
+						<label>Tabla 2</label>
+						<caption>
+							<title>Características sociodemográficas de los (las) entrevistados(as)</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px; background-color: #c7c8c9;"><bold>Informantes</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Género</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Edad</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Estado    civil</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Familiares    con los que vive</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Certificaciones</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Idioma</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;">Lesli  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Mujer </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">35 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Soltera </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Independiente  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;">Abraham  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Hombre </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">30 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Soltero </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Independiente  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Inglés  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;">Isaac  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Hombre </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">27 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Soltero </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Hermana </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;">Daniel  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Hombre </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">28 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Soltero </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Padres </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Alemán    y francés </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;">Santiago  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Hombre </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">28 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Soltero </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Independiente  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Inglés    y alemán </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;">Ernesto  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Hombre </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">29 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Soltero </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Unión    libre </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">No </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">No  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;">Ashley  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Mujer </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">37 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Casada </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Esposo </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;">Camila  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Mujer </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">35 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Soltera </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Madre </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">No </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Inglés    y francés </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;">Armando  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Hombre </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">32 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Soltero </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Independiente </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Inglés  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;">Inés  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Mujer </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">36 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Soltera </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Independiente </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">No  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Inglés  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;">Nicole  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Mujer </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">30 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Soltera </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Padre </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Inglés  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;">Carolina  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Mujer </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">27 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Soltera </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Madre,    hermano y abuela </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Inglés  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;">Diego  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Hombre </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">36 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Casado </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Esposa </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Inglés </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #c7c8c9;">Alejandra  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Mujer </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">23 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Soltera </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Padres </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Inglés </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e7e7e9;">Ricardo  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Hombre </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">29 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Soltero </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Pareja </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #c7c8c9;">José  </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Hombre </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">26 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Soltero </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Hermana    y madre </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Sí </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Inglés </td>
+  </tr>
+</tbody>
+</table>
+
+
+						<table-wrap-foot>
+							<fn id="TFN2">
+								<p>Fuente: elaboración propia</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>En términos de capital humano, se identificó que la mayoría del grupo ha reforzado su perfil profesional mediante la obtención de certificaciones, diplomados y cursos especializados. De acuerdo con <xref ref-type="bibr" rid="B5">Becker (1984)</xref>, estas credenciales constituyen un refuerzo directo del capital humano al elevar la competitividad y validación técnica de los profesionistas en el mercado laboral. En sectores como la ingeniería industrial, las certificaciones son valoradas, ya que acreditan competencias técnicas bajo estándares internacionales y permiten acceder a puestos especializados y de mayor responsabilidad. Además, varios participantes reportaron el dominio de uno o más idiomas extranjeros, principalmente inglés, también francés y alemán. Este aspecto amplía las posibilidades de inserción en mercados laborales globalizados, así como el acceso a fuentes de conocimiento técnico especializado y la proyección profesional en entornos multinacionales. </p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>4. Resultados y discusión</title>
+			<p>El análisis de las trayectorias profesionales permitió identificar el conjunto de factores que inciden en la construcción de la empleabilidad de las y los profesionistas de Ingeniería Industrial y de Sistemas. En particular, se examinaron las motivaciones para elegir la carrera, las expectativas laborales al egresar, así como los conocimientos, habilidades y recursos sociales movilizados durante sus trayectorias profesionales.</p>
+			<p>Las decisiones vocacionales se centraron en dos razones principales: la percepción de una alta demanda laboral de esta ingeniería y la influencia de diferentes familiares cercanos, padres, madres o hermanos(as), que previamente cursaron dicha carrera. Desde un enfoque de elección racional, esta decisión puede entenderse como una estrategia orientada a maximizar las oportunidades de inserción en un mercado laboral competitivo, donde la versatilidad de la ingeniería industrial se percibe como un recurso estratégico para la movilidad ocupacional. Sin embargo, más allá de una decisión individual, estos hallazgos evidencian que las elecciones formativas están socialmente mediadas. De acuerdo con la teoría de la reproducción social <xref ref-type="bibr" rid="B8">Bourdieu (1996)</xref>, las trayectorias familiares influyen en las aspiraciones educativas y profesionales, reproduciendo capital cultural y expectativas laborales que orientan las decisiones vocacionales. </p>
+			<p>Siempre fui bueno en matemáticas y al ver que tres de mis tíos, aunque estudiaron distintas ingenierías, trabajaban como ingenieros industriales, decidí estudiar esa misma profesión. (Entrevista Santiago, 18-09-2024).</p>
+			<p>En el caso de las mujeres, se identificó que la elección de esta carrera estuvo influida por referentes familiares que legitimaron su inserción en un campo tradicionalmente masculinizado. Este hallazgo coincide con las investigaciones sobre la participacipación femenina en áreas STEM, donde la presencia de modelos cercanos y el respaldo familiar funcionan como mecanismos que contrarrestaran los estereotipos de género asociados a estas disciplinas. De esta forma, las motivaciones personales se combinan como una lógica instrumental orientada a la autonomía económica y a la estabilidad laboral.</p>
+			<p>Decidí estudiar ingeniería industrial por la versatilidad que observé en la carrera, inspirada en la trayectoria de mi papá y mi mamá, ambos ingenieros egresados de la misma universidad. Mi papá se desarrolló en la maquila y mi mamá en áreas administrativas, lo que me mostró cómo la carrera permite adaptarse a distintos ámbitos laborales (Entrevista Nicole, 3-10-2024).</p>
+			<p>Estos hallazgos sugieren que la empleabilidad comienza a configurarse desde la etapa formativa, donde convergen aspiraciones personales, recursos familiares y percepciones sobre las oportunidades del mercado laboral. En este sentido, elegir una carrera considerada “empleable” puede interpretarse como una forma de agencia anticipatoria frente a contextos laborales inciertos. No obstante, como señalan McQuaid y Lindsay (2005), la empleabilidad no depende exclusivamente de las decisiones individuales, sino también de condiciones estructurales que influyen en las oportunidades laborales reales de inserción laboral. </p>
+			<p>Las expectativas laborales se orientaron principalmente a incorporarse en empresas del sector industrial o administrativo y, en algunos casos, al emprendimiento. Estas aspiraciones se alinean con una concepción de empleabilidad comprendida como la capacidad de movilizar recursos, conocimientos y redes para acceder a oportunidades profesionales <xref ref-type="bibr" rid="B20">Fugate et al. (2004)</xref>. Sin embargo, los resultados muestran que las trayectorias laborales no siempre corresponden a las expectativas construidas durante la formación universitaria. </p>
+			<p>Al egresar, pensaba trabajar en la industria automotriz, ya que la carrera estaba muy orientada a ese sector, sin embargo, opté por el emprendimiento y llevo ocho años con mi propio negocio (Entrevista Lesli, 27-08-2024). </p>
+			<p>Este tipo de trayectorias sugiere que el emprendimiento puede funcionar como una estrategia de adaptación frente a las limitaciones del mercado laboral regional. Investigaciones recientes han señalado que, en contextos donde las oportunidades laborales son restringidas, el emprendimiento emerge como una alternativa viable para la inserción profesional y la generación de ingresos (<xref ref-type="bibr" rid="B22">García y Ramírez; 2019</xref>). En este sentido, la empleabilidad no se limita únicamente al acceso de un empleo formal, sino que también incluye la capacidad de generar alternativas propias de desarrollo profesional.</p>
+			<p>Desde un enfoque de empleabilidad multidimensional, las habilidades personales y técnicas (<italic>soft y hard skills</italic>) constituyen un componente clave en la configuración de las trayectorias laborales. Los resultados muestran diferencias de género en el tipo de competencias que destacan hombres y mujeres. Las mujeres enfatizaron habilidades interpersonales como la empatía, la adaptabilidad, la resiliencia y el trabajo cooperativo, mientras que los hombres resaltaron competencias vinculadas con la resolución de problemas técnicos, el pensamiento sistemático y el manejo de software especializado. Estas diferencias no necesariamente responden a capacidades inherentes, sino a procesos de socialización profesionales y expectativas de género que influyen en la forma en que hombres y mujeres construyen y comunican su perfil profesional (<xref ref-type="bibr" rid="B17">Connell y Messerschmidt, 2005</xref>). </p>
+			<p>El dominio de idiomas también se identificó como una competencia diferenciadora, particularmente entre quienes contaban con experiencias de movilidad internacional. Algunas (os) participantes reportaron conocimientos de inglés, francés o alemán, lo que fortalece su perfil de empleabilidad en industrias globalizadas. Estas diferencias sugieren que la empleabilidad no es neutra: el género, las trayectorias formativas y las condiciones socioculturales, generan perfiles diferenciados para hombres y mujeres (<xref ref-type="bibr" rid="B4">Bárcena y Lomelí, 2021</xref>). Comprender estas dinámicas permite visibilizar cómo operan las desigualdades estructurales en el acceso y desarrollo profesional. </p>
+			<p>Otro aspecto relevante en la construcción de la empleabilidad fue el papel de las prácticas profesionales. El grupo entrevistado, cinco profesionistas (tres mujeres y dos hombres) permanecen actualmente en las empresas donde realizaron sus prácticas, algunas con una trayectoria de hasta seis años, lo que evidencia su papel como mecanismo de transición entre la formación universitaria y el mercado laboral. Como señalan <xref ref-type="bibr" rid="B27">Knight y Yorke (2003)</xref> y <xref ref-type="bibr" rid="B25">Jackson (2015)</xref>, las prácticas profesionales permiten desarrollar capital humano específico, adquirir experiencia laboral temprana y ampliar redes de contacto, factores que incrementan las probabilidades de inserción laboral y desarrollo de su empleabilidad. </p>
+			<p>No obstante, el análisis sugiere que el valor de las prácticas profesionales no se limita a la contratación inmediata. En al menos nueve casos, aunque no permanecieron en la misma empresa, las prácticas fueron un medio para continuar su trayectoria laboral en otras empresas o tomar decisiones estratégicas. Esto respalda la idea de que el valor de las prácticas no reside exclusivamente en una contratación inmediata, sino en su potencial para construir trayectorias progresivas (<xref ref-type="bibr" rid="B50">Zepke y Leach; 2005</xref>). En este sentido, las prácticas operan como un dispositivo en la transición educación-trabajo, permitiendo a las y los profesionistas desarrollar competencias, ampliar sus redes y fortalecer su perfil de empleabilidad. </p>
+			<sec>
+				<title>4.1 Capital social y empleabilidad: redes, agencia y desigualdades</title>
+				<p>El capital social constituye un elemento clave en la configuración de las trayectorias de empleabilidad. Se entiende como el conjunto de recursos accesibles a través de redes personales, institucionales y comunitarias que facilitan el acceso a información, recomendaciones, colaboración profesional y oportunidades laborales (<xref ref-type="bibr" rid="B8">Bourdieu 1996</xref>; <xref ref-type="bibr" rid="B16">Coleman; 1988</xref>). En este estudio, el análisis del capital social se realizó a partir de la clasificación propuesta por <xref ref-type="bibr" rid="B49">Woolcock y Deepa (2000)</xref>, quienes distinguen cuatro dimensiones: comunitaria, de redes, institucional y sinérgica según los topos de vínculos y recursos movilizados. </p>
+				<p>A partir de los testimonios recogidos, se identificaron se identificaron principalmente dos formas de capital social que influyen en las trayectorias laborales: el capital institucional y el capital basado en redes personales. El capital social institucional refiere al papel que desempeña las instituciones educativas, los programas de vinculación y las políticas públicas como mediadores entre egresados y el mercado laboral. Varios participantes destacaron que su ingreso al mercado de trabajo fue facilitado por la relación establecida entre la universidad y el sector productivo, particularmente a través de las prácticas profesionales o convenios institucionales. Este hallazgo confirmar que las instituciones educativas no solo transmiten conocimientos técnicos, sino que funcionan como nodos de intermediación laboral que amplían las oportunidades de inserción profesional. concretada en las prácticas profesiones o en convenios universitarios que evidencian la relevancia de las estructuras formales en la construcción de las trayectorias laborales. </p>
+				<p>Por su parte, el capital social basado en redes personales se manifestó en vínculos familiares, académicos o de amistad que facilitaron el acceso a prácticas profesionales, empleos o promociones dentro de las organizaciones. Estas redes operan como mecanismos de confianza y reciprocidad que permiten a los individuos acceder a oportunidades laborales que, en muchos casos, no se encuentran disponibles mediante canales formales. </p>
+				<p>Gracias a una recomendación de mi papá, quien conocía al director de medio ambiente, supe de una vacante de practicante. Además, tenía experiencia previa en recursos humanos (Entrevista Ashley, 20-09-2024).</p>
+				<p>Estos hallazgos coinciden con investigaciones que señalan que el capital social puede actuar como un recurso estratégico para la inserción laboral, al facilitar el acceso a información privilegiada y oportunidades profesionales (<xref ref-type="bibr" rid="B7">Bourdieu, 1986</xref>). Sin embargo, el estudio también revela que el acceso al capital social no se distribuye de manera homogénea. Como advierte <xref ref-type="bibr" rid="B19">Fine (2010)</xref>, las redes sociales no están igualmente disponibles para todas las personas, lo que genera diferencias en las oportunidades laborales. En este sentido, el estudio identificó también a un grupo de profesionistas que accedieron al empleo por iniciativa propia sin recurrir directamente a redes personales o institucionales, sino a través de búsquedas autónomas en plataformas digitales o postulaciones directas.</p>
+				<p>Encontré la oferta en los anuncios de un periódico en línea, envié currículum y me contactaron (Entrevista Ricardo,12-02-2025).</p>
+				<p>En estos casos, la inserción laboral se vinculó con proceso de autogestión y persistencia en la búsqueda de oportunidades. Está dimensión remite al concepto de agencia individual, entendido como la capacidad de los sujetos para tomar decisiones estratégicas y construir activamente sus trayectorias profesionales (<xref ref-type="bibr" rid="B2">Archer, 2003</xref>). No obstante, el análisis sugiere que la agencia individual no actual de forma aislada, sino que se encuentra condicionada por recursos disponibles, redes sociales y contextos estructurales. </p>
+				<p>Estuve buscando empleo mientras trabajaba en la construcción de un primo. Finalmente, una empresa me contrató como técnico de mejora continua y, con el tiempo, fui ascendiendo hasta llegar a gerente (Entrevista Diego, 24-01-2025).</p>
+				<p>En consecuencia, tanto el capital social como la agencia individual deben entenderse como dimensiones interrelacionadas dentro de la construcción de la empleabilidad. Las posibilidades de movilizar redes o ejercer agencia no son uniformes para todas las personas, ya que se encuentran mediadas por factores estructurales como el género, el origen social o la ubicación territorial. Como señala <xref ref-type="bibr" rid="B19">Fine (2010)</xref>, no todos los individuos tienen acceso a redes activas o efectivas. Por tanto, resulta clave incorporar trayectorias diversas y reconocer que, en entornos digitales, la agencia puede compensar las limitaciones estructurales. Desde esta perspectiva, el análisis de la empleabilidad requiere integrar enfoques que visibilicen la interacción entre recursos sociales, institucionales y personales en la configuración de las trayectorias profesionales. </p>
+			</sec>
+			<sec>
+				<title>4.2 Empleabilidad desde una visión contextual</title>
+				<p>El análisis de la empleabilidad desde el enfoque integral permite comprender que las trayectorias laborales no se desarrollan de forma aislada, sino en interacción con múltiples entornos sociales, institucionales y económicos. En este estudio se retoma el modelo bioecológico de <xref ref-type="bibr" rid="B10">Bronfenbrenner (2005)</xref>, el cual propone analizar los procesos sociales a partir de los distintos niveles contextuales: microsistema, mesosistema, exosistema y macrosistema. Desde esta perspectiva, la empleabilidad se configura como un proceso que emerge de la interacción entre factores individuales y condiciones estructurales del entorno (<xref ref-type="bibr" rid="B29">Mcquaid y Lindsay, 2005</xref>). </p>
+				<p>El microsistema, donde se desarrollan las interacciones directas entre las personas y su entorno inmediato, destacan las experiencias laborales tempranas, como las prácticas profesionales y los primeros empleos. Estas vivencias constituyen un espacio clave para el desarrollo de habilidades técnicas e interpersonales, así como para la construcción de una identidad profesional. No obstante, el análisis evidenció diferencias de género en la forma en que estas experiencias son vividas. Las mujeres relataron que, a diferencia de sus compañeros varones, su inserción en espacios laborales altamente masculinizados implicó enfrentar cuestionamientos sobre sus capacidades profesionales, lo que las llevó a desarrollar estrategias de autoafirmación y sobrepreparación para legitimar su presencia en estos entornos. </p>
+				<p>Sí es posible trabajar en un entorno masculinizado, pero se requiere ser fuerte y segura. Aprendí a no tomar todo de forma personal y a enfocarme en demostrar que las mujeres somos capaces, es necesario prepararse para evitar cuestionamientos (Entrevista Ashley, 20-09-2025). </p>
+				<p>Este hallazgo coincide con investigaciones que muestran que las mujeres en campos profesionales masculinizados enfrentan procesos de legitimación más exigentes, donde deben demostrar continuamente sus competencias para ser reconocidas como profesionales legítimas (<xref ref-type="bibr" rid="B21">Gálvez, 2018</xref>). En contraste, los hombres describieron sus primeras experiencias laborales como una confirmación natural de sus capacidades técnicas, sin mencionar cuestionamientos sobre su presencia en estos espacios. Está diferencia evidencia cómo los entornos laborales pueden reproducir dinámicas de reconocimiento profesional diferenciadas por género </p>
+				<p>En el mesosistema, que articula las conexiones entre distintos entornos inmediatos como la familia, los amigos, la universidad y las redes profesionales, se identificó la importancia del capital social como recurso estratégico para acceder a oportunidades laborales y tomar decisiones profesionales. Diversos testimonios señalaron que familiares, docentes o conocidos desempeñaron un papel importante al informar sobre vacantes, facilitar recomendaciones o promover vínculos con empleadores (<xref ref-type="bibr" rid="B6">Borrego, 2011</xref>). Este hallazgo confirmo que las redes sociales pueden actuar como mecanismos que facilitan el acceso a otros tipos de capital -como el económico, cultural o simbólico-, tal como lo plantea <xref ref-type="bibr" rid="B7">Bourdieu (1986)</xref>. </p>
+				<p>He conseguido empleo por plataformas como Indeed, donde encontré una vacante en una empresa. Después fue a través de redes personales, me ayudaron a acceder a un trabajo en el gobierno (Entrevista Alejandra, 30-02-2025).</p>
+				<p>El exosistema, que incluye factores estructurales que afectan indirectamente a las trayectorias laborales -como decisiones empresariales, políticas públicas o cambios económicos regionales-, también tiene efectos diferenciados. Algunos casos reflejan trayectorias interrumpidas por la pandemia de COVID-19, recortes de personal o limitaciones de contratación derivadas del contexto económico. Si bien hombres y mujeres se enfrentaron a estas condiciones externas, las mujeres relataron mayores obstáculos para ser contratadas o ascender debido a prejuicios de género que las obligan a demostrar mayor preparación o certificación para acceder a los mismos puestos que sus colegas. Esta exigencia revela una forma de desigualdad estructural que coloca sobre las mujeres una carga adicional de formación como requisito de legitimación profesional.</p>
+				<p>Finalmente, en el macrosistema, que engloba las condiciones culturales, tecnológicas y normativas del contexto amplio. Varios(as) profesionistas señalaron la creciente importancia de la formación continua, el dominio de idiomas extranjeros y la obtención de certificaciones profesionales como estrategias para mantenerse competitivos en un mercado laboral globalizado. Aunque esta exigencia es general, las mujeres expresaron que se sienten más presionadas para cumplir con estos estándares y compensar las barreras estructurales en su camino profesional, lo cual coincide con análisis de la empleabilidad desde enfoques de género y justica social. </p>
+			</sec>
+			<sec>
+				<title>4.3 Análisis temporal de la empleabilidad: entre la estabilidad y el reto</title>
+				<p>El análisis temporal permite comprender la empleabilidad como un proceso dinámico que se desarrolla a lo largo de distintas etapas de la trayectoria profesional. Siguiendo a <xref ref-type="bibr" rid="B12">Brown A. y Williams S. (2003)</xref> y <xref ref-type="bibr" rid="B48">Velásquez et al. (2016)</xref>, en este estudio se analizaron tres movemos clave: inserción, permanencia y ascenso profesional (<xref ref-type="table" rid="t3">Tabla 3</xref>). La inserción laboral que se observa durante el primer año o año y medio después del egreso, permite identificar el tiempo de colocación, el tipo de empleo conseguido y la relación con el área de estudios. Después sigue la permanencia, que se evalúa en un plazo medio de entre dos y tres años y considera la estabilidad en el empleo, los cambios dentro del campo profesional y la participación en procesos de formación continua. Finalmente, el ascenso, que puede extenderse entre cuatro y siete años después del egreso, permite analizar la progresión profesional, la mejora en los ingresos, el acceso a puestos de alta responsabilidad y la misma expansión de redes profesionales. </p>
+				<p>
+					<table-wrap id="t3">
+						<label>Tabla 3</label>
+						<caption>
+							<title>Etapas de empleabilidad según la dimensión temporal</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Fase</bold> </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Tiempo</bold> </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px; background-color: #c7c8c9;"><bold>Indicadores clave</bold> </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Inserción </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.5 a 1.5 años </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Tipo de empleo, contrato </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Permanencia </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">2 a 3 años </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Estabilidad, continuidad profesional, satisfacción </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">Ascenso </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">4 a 7 años </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">Promociones, liderazgo, redes profesionales </td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN3">
+								<p>Fuente: elaboración propia con base en <xref ref-type="bibr" rid="B12">Brown A. y Williams S. (2003)</xref> y <xref ref-type="bibr" rid="B48">Velásquez et al. (2016)</xref>
+								</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Bajo este marco temporal, se registran las fases de la empleabilidad desde un enfoque integral reconociendo que su desarrollo es una construcción relacional y situada que depende del capital humano y social acumulado, así como de las condiciones del mercado de trabajo y las mismas decisiones y estrategias de los propios individuos. De ahí que la construcción de la empleabilidad en este artículo se realizó en estas tres fases para reconocer los procesos formativos relacionados con la dimensión temporal. </p>
+				<p>La inserción laboral se refiere al periodo inicial de transición entre la formación universitaria y el primer empleo. En la mayoría de los casos analizados, la inserción fue temprana y estuvo mediada por las prácticas profesionales o por redes institucionales vinculadas a la universidad. Siete de los entrevistados lograron acceder a un empleo formal inmediatamente después de egresar, lo que sugiere que la vinculación universidad-empresa puede desempeñar un papel importante en la transición hacia el mercado laboral. </p>
+				<p>Sin embargo, la inserción laboral no fue homogénea. Algunos participantes experimentaron periodos más prolongados de búsqueda de empleo o se incorporaron inicialmente a sectores poco alineados con su formación profesional. Estos casos evidencian que el acceso al mercado laboral se encuentra condicionado por factores estructurales y por la disponibilidad de oportunidades en el contexto regional. </p>
+				<p>La permanencia laboral refleja la capacidad de los profesionistas para mantenerse dentro del mercado laboral y consolidar su experiencia profesional. En el grupo analizado se observaron trayectorias relativamente estables, aunque con diferencias significativas entre los casos. Mientras algunos participantes mantuvieron vínculos laborales prolongados con una misma organización, otros experimentaron cambios de empleo derivados de despidos, reestructuraciones empresariales o decisiones personales de reorientación profesional. </p>
+				<p>La literatura sobre los mercados laborales contemporáneos ha señalado que la estabilidad laboral ha disminuido en contextos caracterizados por proceso de globalización y flexibilización del empleo. No obstante, investigaciones recientes muestran que los hombres continúan accediendo en mayor medida a posiciones laborales estables en comparación con las mujeres (<xref ref-type="bibr" rid="B30">OCDE, 2019</xref>). </p>
+				<p>Finalmente, el ascenso profesional permite analizar los procesos de movilidad vertical dentro de las organizaciones. En el grupo entrevistado, varios profesionistas lograron ocupar puestos de mayor jerarquía en puestos de supervisión o gerencia. Sin embargo, se identificaron diferencias de género en la velocidad y frecuencia de estos ascensos. Cuatro hombres accedieron a cargos de mayor responsabilidad en un periodo relativamente corto, mientras que las mujeres reportaron mayores dificultades para acceder a posiciones de liderazgo. Estas diferencias reflejan la persistencia de barreras estructurales asociadas al denominado techo de cristal, que limita las oportunidades de ascenso de las mujeres incluso cuando poseen credenciales profesionales similares a las de sus colegas varones (<xref ref-type="bibr" rid="B18">Enríquez y Rentería, 2007</xref>).</p>
+				<p>La dimensión temporal de la empleabilidad evidencia trayectorias profesionales diversas, condicionadas por múltiples factores contextuales. Si bien los hombres lograron insertarse, mantenerse y ascender en el mercado laboral, sus trayectorias estuvieron marcadas por elementos externos como la pandemia por COVID-19, las dinámicas del sector industrial, la existencia de oportunidades de ascenso y la posibilidad de movilidad internacional. En varios casos, el ascenso profesional estuvo estrechamente vinculado a la disposición para cambiar de empresa o incluso de país, mientras que quienes optaron por la permanencia en el mismo espacio laboral, sin movilidad, enfrentaron situaciones de estancamiento. La inserción, por su parte fue facilitada por prácticas profesionales o la participación en programas gubernamentales, aunque estas estrategias no siempre garantizan estabilidad ni crecimiento sostenido. </p>
+				<p>En conjunto, el análisis temporal muestra que la empleabilidad no puede entenderse únicamente como la obtención del primer empleo, sino como un proceso continuo que involucra la interacción entre estrategias individuales, redes sociales, oportunidades institucionales y condiciones estructurales del mercado laboral. </p>
+				<p>El análisis de las trayectorias femeninas muestra que, si bien las mujeres lograron insertarse en el mercado laboral y mantener su participación, su desarrollo profesional estuvo condicionado por estructuras de género persistentes que limitaron sus posibilidades de permanencia y ascenso. Estas desigualdades estructurales revelan que la empleabilidad no se distribuye de manera equitativa y que las mujeres enfrentan obstáculos adicionales que afectan la progresión de sus trayectorias.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>El análisis de la empleabilidad a partir de las dimensiones de inserción, permanencia y ascenso permitió evidenciar que las trayectorias profesionales no se configuran de manera homogénea, sino que están atravesadas por condiciones estructurales diferenciadas, particularmente por razones de género. Si bien hombres y mujeres lograron insertarse en el mercado laboral, sus itinerarios profesionales presentan ritmos, estrategias y oportunidades distintas. Mientras que las trayectorias masculinas tienden a caracterizarse por mayor continuidad, estabilidad y movilidad ascendente en áreas técnicas e industriales, las trayectorias femeninas se configuran de más heterogénea, combinando periodos de estabilidad con rotaciones, interrupciones o estrategias de diversificación laboral, entre ellas el emprendimiento (<xref ref-type="table" rid="t4">Tabla 4</xref>). </p>
+			<p>
+				<table-wrap id="t4">
+					<label>Tabla 4</label>
+					<caption>
+						<title>Síntesis comparativa de la trayectoria de empleabilidad entre hombres y mujeres</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Dimensión</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 350px; background-color: #c7c8c9;"><bold>Trayectorias masculinas </bold>  </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 350px; background-color: #c7c8c9;"><bold>Trayectorias femeninas</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Inserción </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Inserción inmediata a través de prácticas y redes de    contacto   </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Inserción temprana combinando estudio y trabajo   </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Permanencia </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Trayectorias largas, algunas con estabilidad    estructural   </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Mixtas: algunas con estabilidad, otras con rotación    frecuente   </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Ascenso   </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Ascensos frecuentes, incluso a nivel internacional   </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Ascensos menos frecuentes, emprendimiento como    alternativa </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Obstáculos   </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Recortes por pandemia, estancamiento sin ascenso   </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Techos de cristal, dobles jornadas, movilidad    vertical   </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">Estrategias   </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">Movilidad geográfica, continuidad en el sector   </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">Diversificación (empleo y emprendimiento),    permanencia flexible   </td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN4">
+							<p>Fuente: elaboración propia</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>En este sentido, uno de los principales aportes de la investigación consiste en comprender la empleabilidad como una construcción social multidimensional, superando los enfoques tradicionales que la explican principalmente a partir de las competencias individuales o del capital humano. A diferencia de estas perspectivas, el modelo analítico propuesto articula tres dimensiones interrelacionadas - personal, contextual y temporal- que permiten comprender la empleabilidad como un proceso dinámico que se construye a lo largo de las trayectorias profesionales. La incorporación del género como eje transversal permite además visibilizar cómo las oportunidades laborales se configuran en contextos atravesados por relaciones de poder y desigualdades estructurales. De esta manera, el modelo aporta una mirada relacional que permite integrar elementos como la agencia individual, el capital social disponible y las condiciones institucionales del mercado laboral. </p>
+			<p>Estos hallazgos coinciden con lo advertido por la <xref ref-type="bibr" rid="B32">OIT (2022)</xref>, al señalar que la empleabilidad no se construye en condiciones homogéneas, sino en escenarios condicionados por relaciones de poder y desigualdad estructural. Por tanto, comprender la empleabilidad como un fenómeno meramente individual resulta insuficiente; se requiere un enfoque relacional que reconozca la interacción entre agencia personal, redes sociales, estructuras institucionales y contextos macroeconómicos. </p>
+			<p>Desde esta perspectiva, el género emerge como una dimensión transversal que condiciona el acceso a oportunidades, moldea estrategias individuales y visibiliza la necesidad de políticas más inclusivas. Incorporar un enfoque de género en el estudio de la empleabilidad permite problematizar la aparente neutralidad del mercado laboral y evidenciar cómo las mujeres enfrentan barreras especificas en su tránsito profesional. Tal como lo advierten <xref ref-type="bibr" rid="B48">Velásquez et al. (2016)</xref> y la <xref ref-type="bibr" rid="B31">OIT (2020)</xref>, estas desigualdades no solo se manifiestan en barreras explícitas, sino también en mecanismos más sutiles de exclusión, como la asignación desigual de proyectos estratégicos, las dificultades para acceder a redes de influencia o la penalización derivada de los roles género, como la maternidad. En campos tradicionalmente masculinizados como la ingeniería, estas dinámicas limitan las oportunidades de ascenso y consolidación profesional de las mujeres, incluso cuando cuentan con credenciales similares a sus colegas varones.</p>
+			<p>Asimismo, los resultados sugieren la pertinencia de incorporar una perspectiva interseccional en el análisis de la empleabilidad. Si bien este estudio se centró principalmente en la dimensión de género, las trayectorias analizadas también se encuentran atravesadas por otras condiciones estructurales, como el origen socioeconómico, el capital familiar y las oportunidades territoriales disponibles. Estas dimensiones incluyen en el acceso a redes profesionales, oportunidades de movilidad y recursos para sostener procesos de desarrollo profesional, lo que evidencia que las desigualdades en la empleabilidad no responden a un único eje de diferenciación, sino a la interacción entre múltiples factores sociales. </p>
+			<p>A partir de estos resultados, se identifican implicaciones relevantes para distintos niveles de intervención. En el ámbito educativo, resulta fundamental fortalecer la vinculación entre instituciones de educación superior y el sector productivo mediante programas de prácticas profesionales, orientación profesional y estrategias de acompañamiento en la transición al mercado laboral. En el ámbito laboral, los resultados evidencian la necesidad de promover entornos organizacionales más inclusivos mediante políticas de igualdad salarial, mecanismos transparentes de promoción y evaluación del desempeño basados en criterios objetivos. Estas acciones resultan particularmente relevantes en sectores técnicos e industriales donde persisten brechas de género en el acceso a posiciones de liderazgo. Por su parte, en el ámbito gubernamental, se destaca la importancia de fortalecer políticas públicas orientadas a la empleabilidad de jóvenes profesionistas, especialmente políticas de empleo dirigidas a jóvenes profesionistas, especialmente aquellas que promuevan el acceso al primer empleo, el desarrollo de trayectorias laborales sostenibles y la reducción de desigualdades estructurales en el mercado de trabajo. </p>
+			<p>No obstante, el estudio reconoce algunas limitaciones. Se centró en el análisis de una sola disciplina. Asimismo, el número de participantes responde al alcance de la metodología cualitativa, priorizando la profundidad analítica. Aunque se incorporó la perspectiva de género como eje analítico, no se integraron otras dimensiones interseccionales que podrían ampliar el análisis de las desigualdades. A partir de ello, se proponen futuras líneas de investigación: desarrollar estudios comparativos entre disciplinas, profundizar en el análisis interseccional de las trayectorias laborales, examinar el papel de las instituciones de educación superior en la vinculación laboral e incorporar la perspectiva de los empleadores para contrastar las expectativas formativas con las demandas del mercado con la formación profesional.</p>
+			<p>En síntesis, comprender la empleabilidad desde una perspectiva crítica implica reconocer que no se trata únicamente de la posesión de competencias individuales, sino de una construcción relacional situada en contextos atravesados por desigualdades, redes sociales, condiciones estructurales y decisiones personales. Solo mediante abordajes integrales que articulen acciones concretas que atienda estas desigualdades será posible avanzar hacia un modelo de desarrollo profesional más justo, inclusivo y sostenible.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Bibliografía</title>
+			<ref id="B1">
+				<mixed-citation>Aguilar-Barceló, J. G., y Mungaray-Moctezuma, A. B. (2019). La empleabilidad de los egresados de las universidades tecnológicas en México: un análisis de eficiencia. <italic>Revista Iberoamericana de Educación Superior</italic>, <italic>10</italic>(29), 3-24. https://doi.org/10.22201/iisue.20072872e.2019.29.520 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aguilar-Barceló</surname>
+							<given-names>J. G.</given-names>
+						</name>
+						<name>
+							<surname>Mungaray-Moctezuma</surname>
+							<given-names>A. B</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>La empleabilidad de los egresados de las universidades tecnológicas en México: un análisis de eficiencia</article-title>
+					<source>Revista Iberoamericana de Educación Superior</source>
+					<volume>10</volume>
+					<issue>29</issue>
+					<fpage>3</fpage>
+					<lpage>24</lpage>
+					<pub-id pub-id-type="doi">10.22201/iisue.20072872e.2019.29.520</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Archer, M. S. (2003). <italic>Structure, agency and the internal conversation</italic>. Cambridge University Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Archer</surname>
+							<given-names>M. S</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<source>Structure, agency and the internal conversation</source>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Barbieri, T. De. (1993). Sobre la categoría género: una introducción teórico-metodológica. <italic>Debates en Sociología</italic>, <italic>18</italic>. https://doi.org/10.18800/debatesensociologia.199301.006 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barbieri</surname>
+							<given-names>T. De</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<article-title>Sobre la categoría género: una introducción teórico-metodológica</article-title>
+					<source>Debates en Sociología</source>
+					<volume>18</volume>
+					<pub-id pub-id-type="doi">10.18800/debatesensociologia.199301.006</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Bárcena, C., y Lomelí, L. (2021). <italic>La empleabilidad desde una perspectiva crítica: Trayectorias, desigualdades y agencia</italic>. Universidad de Guadalajara.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bárcena</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Lomelí</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<source>La empleabilidad desde una perspectiva crítica: Trayectorias, desigualdades y agencia</source>
+					<publisher-name>Universidad de Guadalajara</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Becker, G. S. (1984). <italic>Human capital: A theoretical and empirical analysis, with special reference to education</italic>. University of Chicago Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Becker</surname>
+							<given-names>G. S</given-names>
+						</name>
+					</person-group>
+					<year>1984</year>
+					<source>Human capital: A theoretical and empirical analysis, with special reference to education</source>
+					<publisher-name>University of Chicago Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Borrego, A. (2011). <italic>Género y elección profesional: Mujeres en carreras masculinizadas</italic>. UNAM CIEG.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Borrego</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<source>Género y elección profesional: Mujeres en carreras masculinizadas</source>
+					<publisher-name>UNAM CIEG</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Bourdieu, P. (1986). The forms of capital. En J. Richardson (Ed.), <italic>Handbook of theory and research for the sociology of education</italic>. Greenwood Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bourdieu</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>1986</year>
+					<chapter-title>The forms of capital</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Richardson</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<source>Handbook of theory and research for the sociology of education</source>
+					<publisher-name>Greenwood Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Bourdieu, P. (1996). <italic>Razones prácticas. Sobre la teoría de la acción</italic>. Anagrama.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bourdieu</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>1996</year>
+					<source>Razones prácticas. Sobre la teoría de la acción</source>
+					<publisher-name>Anagrama</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Bourdieu, P. (2018). The forms of capital. En <italic>The Sociology of Economic Life, Third Edition</italic>. https://doi.org/10.4324/9780429494338 </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bourdieu</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<chapter-title>The forms of capital</chapter-title>
+					<source>The Sociology of Economic Life, Third Edition</source>
+					<pub-id pub-id-type="doi">10.4324/9780429494338</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Bronfenbrenner, U. (2005). <italic>Making human beings human: Bioecological perspectives on human development</italic>. Sage.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bronfenbrenner</surname>
+							<given-names>U</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<source>Making human beings human: Bioecological perspectives on human development</source>
+					<publisher-name>Sage</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Bronfenbrenner, U., y Morris, P. A. (2007). The Bioecological Model of Human Development. In <italic>Handbook of Child Psychology</italic>. https://doi.org/10.1002/9780470147658.chpsy0114 </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bronfenbrenner</surname>
+							<given-names>U.</given-names>
+						</name>
+						<name>
+							<surname>Morris</surname>
+							<given-names>P. A</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<chapter-title>The Bioecological Model of Human Development</chapter-title>
+					<source>Handbook of Child Psychology</source>
+					<pub-id pub-id-type="doi">10.1002/9780470147658.chpsy0114</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Brown A. y Williams S. (2003). Employability in a Knowledge-driven Economy. <italic>Journal of Education and Work</italic>, <italic>16</italic>(2), 107-126. https://doi.org/10.1080/1363908032000070648</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Brown</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Williams</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Employability in a Knowledge-driven Economy</article-title>
+					<source>Journal of Education and Work</source>
+					<volume>16</volume>
+					<issue>2</issue>
+					<fpage>107</fpage>
+					<lpage>126</lpage>
+					<pub-id pub-id-type="doi">10.1080/1363908032000070648</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Camarena Adame, M. E., y Saavedra Garcìa, M. L. (2018). El techo de Cristal en México. <italic>Revista de Estudios de Género, La Ventana</italic>, 5(47). https://doi.org/10.32870/lv.v5i47.6680 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Camarena Adame</surname>
+							<given-names>M. E.</given-names>
+						</name>
+						<name>
+							<surname>Saavedra Garcìa</surname>
+							<given-names>M. L</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>El techo de Cristal en México</article-title>
+					<source>Revista de Estudios de Género, La Ventana</source>
+					<volume>5</volume>
+					<issue>47</issue>
+					<pub-id pub-id-type="doi">10.32870/lv.v5i47.6680</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Castillo, C., Ordoñez Espinoza, C., Guadalupe, C., Laso, O., Luisa Del Rocío, A., Guaraca, O., y Priscila, M. (2020). Género y Empleabilidad: Estudio de caso de los graduados de la Universidad Católica de Cuenca. <italic>Journal of business and entrepreneurial studies: JBES</italic><italic>, ISSN-</italic><italic>e 2576-0971</italic><italic>, Vol.</italic> 4<italic>, N</italic><sup>o</sup>. 1 <italic>(Enero - Junio), 2020</italic>, 4(1).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castillo</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Ordoñez Espinoza</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Guadalupe</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Laso</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Luisa Del Rocío</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Guaraca</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Priscila</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Género y Empleabilidad: Estudio de caso de los graduados de la Universidad Católica de Cuenca</article-title>
+					<source>Journal of business and entrepreneurial studies: JBES</source>
+					<volume>4</volume>
+					<issue>1</issue>
+					<issue-part>(Enero - Junio), 2020, 4(1)</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Clarke, M. (2018). Rethinking graduate employability: the role of capital, individual attributes and context. <italic>Studies in Higher Education</italic>, <italic>43</italic>(11). https://doi.org/10.1080/03075079.2017.1294152 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Clarke</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Rethinking graduate employability: the role of capital, individual attributes and context</article-title>
+					<source>Studies in Higher Education</source>
+					<volume>43</volume>
+					<issue>11</issue>
+					<pub-id pub-id-type="doi">10.1080/03075079.2017.1294152</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Coleman, J. S. (1988). Social capital in the creation of human capital. <italic>American Journal of Sociology</italic>, <italic>94</italic>, 95-120.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Coleman</surname>
+							<given-names>J. S</given-names>
+						</name>
+					</person-group>
+					<year>1988</year>
+					<article-title>Social capital in the creation of human capital</article-title>
+					<source>American Journal of Sociology</source>
+					<volume>94</volume>
+					<fpage>95</fpage>
+					<lpage>120</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Connell, R. W., y Messerschmidt, J. W. (2005). Hegemonic masculinity rethinking the concept. En <italic>Gender and Society</italic> (Vol. 19, Número 6). https://doi.org/10.1177/0891243205278639 </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Connell</surname>
+							<given-names>R. W.</given-names>
+						</name>
+						<name>
+							<surname>Messerschmidt</surname>
+							<given-names>J. W</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<chapter-title>Hegemonic masculinity rethinking the concept</chapter-title>
+					<source>Gender and Society</source>
+					<volume>19</volume>
+					<issue>6</issue>
+					<pub-id pub-id-type="doi">10.1177/0891243205278639</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Enríquez, L. J., y Rentería, N. (2007). Trayectorias laborales y desigualdades de género. En L. J. Enríquez (Ed.), <italic>Procesos sociales y trayectorias laborales en México</italic> (pp. 151-184). El Colegio de México / IIS-UNAM.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Enríquez</surname>
+							<given-names>L. J.</given-names>
+						</name>
+						<name>
+							<surname>Rentería</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<chapter-title>Trayectorias laborales y desigualdades de género</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Enríquez</surname>
+							<given-names>L. J</given-names>
+						</name>
+					</person-group>
+					<source>Procesos sociales y trayectorias laborales en México</source>
+					<fpage>151</fpage>
+					<lpage>184</lpage>
+					<publisher-name>El Colegio de México / IIS-UNAM</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Fine, B. (2010). <italic>Theories of social capital: Researchers behaving badly</italic>. Pluto Press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fine</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>Theories of social capital: Researchers behaving badly</source>
+					<publisher-name>Pluto Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Fugate, M., Kinicki, A. J., y Ashforth, B. E. (2004). Employability: A psycho-social construct, its dimensions, and applications. <italic>Journal of Vocational Behavior</italic>, <italic>65</italic>(1). https://doi.org/10.1016/j.jvb.2003.10.005 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fugate</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Kinicki</surname>
+							<given-names>A. J.</given-names>
+						</name>
+						<name>
+							<surname>Ashforth</surname>
+							<given-names>B. E</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Employability: A psycho-social construct, its dimensions, and applications</article-title>
+					<source>Journal of Vocational Behavior</source>
+					<volume>65</volume>
+					<issue>1</issue>
+					<pub-id pub-id-type="doi">10.1016/j.jvb.2003.10.005</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Gálvez, A. (2018). <italic>Mujeres ingenieras: experiencias y trayectorias en un campo profesional masculinizado</italic>. UNAM, Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gálvez</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<source>Mujeres ingenieras: experiencias y trayectorias en un campo profesional masculinizado</source>
+					<publisher-name>UNAM, Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>García, M., y Ramírez, R. (2019). <italic>Emprendimiento juvenil y estrategias de inserción laboral en contextos de precariedad</italic>. Editorial Universidad Nacional.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>García</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<source>Emprendimiento juvenil y estrategias de inserción laboral en contextos de precariedad</source>
+					<publisher-name>Editorial Universidad Nacional</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Hall, M. (2020). Towards a parrhesiastic engagement with graduate employability. <italic>Power and Education</italic>, <italic>12</italic>(1). https://doi.org/10.1177/1757743819890356 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hall</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Towards a parrhesiastic engagement with graduate employability</article-title>
+					<source>Power and Education</source>
+					<volume>12</volume>
+					<issue>1</issue>
+					<pub-id pub-id-type="doi">10.1177/1757743819890356</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Jacinto y Millenaar. (2010). <italic>La incidencia de los dispositivos en la trayectoria laboral de los jóvenes. Entre la reproducción social y la creación de oportunidades</italic> (p. 399). Teseo : IDES.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jacinto</surname>
+							<given-names/>
+						</name>
+						<name>
+							<surname>Millenaar</surname>
+							<given-names/>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>La incidencia de los dispositivos en la trayectoria laboral de los jóvenes. Entre la reproducción social y la creación de oportunidades</source>
+					<fpage>399</fpage>
+					<lpage>399</lpage>
+					<publisher-loc>Teseo</publisher-loc>
+					<publisher-name>IDES</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Jackson, D. (2015). Employability skill development in work-integrated learning: Barriers and best practice. <italic>Studies in Higher Education</italic>, <italic>40</italic>(2). https://doi.org/10.1080/03075079.2013.842221 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jackson</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Employability skill development in work-integrated learning: Barriers and best practice</article-title>
+					<source>Studies in Higher Education</source>
+					<volume>40</volume>
+					<issue>2</issue>
+					<pub-id pub-id-type="doi">10.1080/03075079.2013.842221</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Jiménez-Ulate, J. (2022). Hacia una visión sistémica de la empleabilidad. <italic>Revista ABRA</italic>, <italic>42</italic>(65). https://doi.org/10.15359/abra.42-65.2 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jiménez-Ulate</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Hacia una visión sistémica de la empleabilidad</article-title>
+					<source>Revista ABRA</source>
+					<volume>42</volume>
+					<issue>65</issue>
+					<pub-id pub-id-type="doi">10.15359/abra.42-65.2</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Knight, P., y Yorke, M. (2003). Learning, curriculum and employability in higher education. En <italic>Learning, Curriculum and Employability in Higher Education</italic>. https://doi.org/10.4324/9780203465271 </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Knight</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Yorke</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<chapter-title>Learning, curriculum and employability in higher education</chapter-title>
+					<source>Learning, Curriculum and Employability in Higher Education</source>
+					<pub-id pub-id-type="doi">10.4324/9780203465271</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Lamas, M. (2016). <italic>El género: La construcción cultural de la diferencia sexual</italic>. PUEG Grupo Editorial Miguel Ángel Porrúa.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lamas</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>El género: La construcción cultural de la diferencia sexual</source>
+					<publisher-name>PUEG Grupo Editorial Miguel Ángel Porrúa</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Mcquaid, R. W., y Lindsay, C. (2005). <italic>The Concept of Employability</italic>.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mcquaid</surname>
+							<given-names>R. W.</given-names>
+						</name>
+						<name>
+							<surname>Lindsay</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<source>The Concept of Employability</source>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>OCDE. (2019). <italic>Higher education in Mexico: labour market relevance and outcomes</italic>. OECD Publishing.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>OCDE</collab>
+					</person-group>
+					<year>2019</year>
+					<source>Higher education in Mexico: labour market relevance and outcomes</source>
+					<publisher-name>OECD Publishing</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Organización Internacional del Trabajo. (2020). <italic>Las mujeres en el trabajo: Tendencias 2020</italic>. OIT.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organización Internacional del Trabajo</collab>
+					</person-group>
+					<year>2020</year>
+					<source>Las mujeres en el trabajo: Tendencias 2020</source>
+					<publisher-name>OIT</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Organización Internacional del Trabajo. (2022). <italic>Panorama laboral 2022 América Latina y el Caribe</italic>. OIT.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organización Internacional del Trabajo</collab>
+					</person-group>
+					<year>2022</year>
+					<source>Panorama laboral 2022 América Latina y el Caribe</source>
+					<publisher-name>OIT</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Orellana, N. (2018). Consideraciones sobre empleabilidad en educación superior. <italic>Calidad en la Educación</italic>, <italic>48</italic>. https://doi.org/10.31619/caledu.n48.477 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Orellana</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Consideraciones sobre empleabilidad en educación superior</article-title>
+					<source>Calidad en la Educación</source>
+					<volume>48</volume>
+					<pub-id pub-id-type="doi">10.31619/caledu.n48.477</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Organización Internacional del Trabajo. (2019). <italic>World employment and social outlook : trends 2019</italic>. International Labour Organization.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organización Internacional del Trabajo</collab>
+					</person-group>
+					<year>2019</year>
+					<source>World employment and social outlook : trends 2019</source>
+					<publisher-name>International Labour Organization</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Peeters, E., Nelissen, J., De Cuyper, N., Forrier, A., Verbruggen, M., y De Witte, H. (2019). Employability Capital: A Conceptual Framework Tested Through Expert Analysis. <italic>Journal of Career Development</italic>, <italic>46</italic>(2). https://doi.org/10.1177/0894845317731865 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Peeters</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Nelissen</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>De Cuyper</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Forrier</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Verbruggen</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>De Witte</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Employability Capital: A Conceptual Framework Tested Through Expert Analysis</article-title>
+					<source>Journal of Career Development</source>
+					<volume>46</volume>
+					<issue>2</issue>
+					<pub-id pub-id-type="doi">10.1177/0894845317731865</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Pérez Sáinz, J. P. (2016). Globalización y relaciones asalariadas en América Latina. Entre la generalización de la precariedad y la utopía de la empleabilidad. En <italic>Trabajo global y desigualdades en el mercado laboral</italic> (1a ed.).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez Sáinz</surname>
+							<given-names>J. P</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<chapter-title>Globalización y relaciones asalariadas en América Latina. Entre la generalización de la precariedad y la utopía de la empleabilidad</chapter-title>
+					<source>Trabajo global y desigualdades en el mercado laboral</source>
+					<edition>1a</edition>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Pool, L. D., y Sewell, P. (2007). The key to employability: Developing a practical model of graduate employability. <italic>Education and Training</italic>, <italic>49</italic>(4). https://doi.org/10.1108/00400910710754435</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pool</surname>
+							<given-names>L. D.</given-names>
+						</name>
+						<name>
+							<surname>Sewell</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>The key to employability: Developing a practical model of graduate employability</article-title>
+					<source>Education and Training</source>
+					<volume>49</volume>
+					<issue>4</issue>
+					<pub-id pub-id-type="doi">10.1108/00400910710754435</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Ramos, M. E., Arriagada, I., y García, B. (2003). <italic>Mujeres latinoamericanas en cifras: Trabajo</italic>. CEPAL.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ramos</surname>
+							<given-names>M. E.</given-names>
+						</name>
+						<name>
+							<surname>Arriagada</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>García</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<source>Mujeres latinoamericanas en cifras: Trabajo</source>
+					<publisher-name>CEPAL</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>Rentería Pérez, E., García Sánchez, E., Malvezzi, S., y Botero Sarassa, J. (2022). Empleabilidad profesional: Inserción y movilidad en mercados de trabajo de egresados(as) de la Universidad del Valle.. https://doi.org/10.25100/peu.634 </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rentería Pérez</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>García Sánchez</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Malvezzi</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Botero Sarassa</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<source>Empleabilidad profesional: Inserción y movilidad en mercados de trabajo de egresados(as) de la Universidad del Valle</source>
+					<pub-id pub-id-type="doi">10.25100/peu.634</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Ríos, R. (2010). <italic>Género y educación: una mirada desde la perspectiva crítica</italic>. Universidad Pedagógica Nacional.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ríos</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<source>Género y educación: una mirada desde la perspectiva crítica</source>
+					<publisher-name>Universidad Pedagógica Nacional</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Salas, I. A., Luisa, M., y Bátiz, G. (2023). Incorporación laboral de egresadas(os) de posgrado desde la segregación de género. <italic>Revista Mexicana de Investigación Educativa RMIE</italic>, <italic>28</italic>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salas</surname>
+							<given-names>I. A.</given-names>
+						</name>
+						<name>
+							<surname>Luisa</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Bátiz</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Incorporación laboral de egresadas(os) de posgrado desde la segregación de género</article-title>
+					<source>Revista Mexicana de Investigación Educativa RMIE</source>
+					<volume>28</volume>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Scheele, J., Colaboración De José, L., y Brunner, J. (2009). <italic>Educación terciaria y mercado laboral: Formación profesional, empleo y empleabilidad Revisión de la literatura internacional</italic>.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Scheele</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Colaboración De José</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Brunner</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<source>Educación terciaria y mercado laboral: Formación profesional, empleo y empleabilidad Revisión de la literatura internacional</source>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Siivonen, P., Isopahkala-Bouret, U., Tomlinson, M., Korhonen, M., y Haltia, N. (2023). Introduction: Rethinking Graduate Employability in Context. En <italic>Rethinking Graduate Employability in Context: Discourse, Policy and Practice</italic>. https://doi.org/10.1007/978-3-031-20653-5_1 </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Siivonen</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Isopahkala-Bouret</surname>
+							<given-names>U.</given-names>
+						</name>
+						<name>
+							<surname>Tomlinson</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Korhonen</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Haltia</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<chapter-title>Introduction: Rethinking Graduate Employability in Context</chapter-title>
+					<source>Rethinking Graduate Employability in Context: Discourse, Policy and Practice</source>
+					<pub-id pub-id-type="doi">10.1007/978-3-031-20653-5_1</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Tenjo, F., Bernat, L. F., Jorge, F., y Lozano, I. (2017). <italic>Desigualdad laboral por género en América Latina: Una mirada desde el desempleo</italic>. Banco de la República.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tenjo</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Bernat</surname>
+							<given-names>L. F.</given-names>
+						</name>
+						<name>
+							<surname>Jorge</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Lozano</surname>
+							<given-names>I.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<source>Desigualdad laboral por género en América Latina: Una mirada desde el desempleo</source>
+					<publisher-name>Banco de la República</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Tomlinson, M. (2007). Graduate employability and student attitudes and orientations to the labour market. <italic>Journal of Education and Work</italic>, <italic>20</italic>(4). https://doi.org/10.1080/13639080701650164</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tomlinson</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Graduate employability and student attitudes and orientations to the labour market</article-title>
+					<source>Journal of Education and Work</source>
+					<volume>20</volume>
+					<issue>4</issue>
+					<pub-id pub-id-type="doi">10.1080/13639080701650164</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Van Der Heijde, C. M., y Van Der Heijden, B. I. J. M. (2006). A competence-based and multidimensional operationalization and measurement of employability. <italic>Human Resource Management</italic>, <italic>45</italic>(3). https://doi.org/10.1002/hrm.20119</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Van Der Heijde</surname>
+							<given-names>C. M.</given-names>
+						</name>
+						<name>
+							<surname>Van Der Heijden</surname>
+							<given-names>B. I. J. M</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>A competence-based and multidimensional operationalization and measurement of employability</article-title>
+					<source>Human Resource Management</source>
+					<volume>45</volume>
+					<issue>3</issue>
+					<pub-id pub-id-type="doi">10.1002/hrm.20119</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Vázquez Rodríguez, A., García-Álvarez, J., y Rego, M. A. S. (2021). Movilidad internacional y empleabilidad: el impacto en el capital humano y social de la juventud. <italic>Educar</italic>, <italic>57</italic>(1), 81-96.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vázquez Rodríguez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>García-Álvarez</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Rego</surname>
+							<given-names>M. A. S</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Movilidad internacional y empleabilidad: el impacto en el capital humano y social de la juventud</article-title>
+					<source>Educar</source>
+					<volume>57</volume>
+					<issue>1</issue>
+					<fpage>81</fpage>
+					<lpage>96</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Velásquez, M., Muñoz-Boudet, A. M., y Ramírez, S. (2016). <italic>Mujeres en el trabajo: Retos para la igualdad de género en América Latina y el Caribe</italic>. Banco Mundial.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Velásquez</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Muñoz-Boudet</surname>
+							<given-names>A. M.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<source>Mujeres en el trabajo: Retos para la igualdad de género en América Latina y el Caribe</source>
+					<publisher-name>Banco Mundial</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Woolcock M. , y Narayan D., (2000). Capital social: Implicaciones para la teoría , la investigación y las políticas sobre desarrollo. <italic>World Bank Research Observer</italic>, <italic>15</italic>, 225-249.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Woolcock</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Narayan</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>Capital social: Implicaciones para la teoría , la investigación y las políticas sobre desarrollo</article-title>
+					<source>World Bank Research Observer</source>
+					<volume>15</volume>
+					<fpage>225</fpage>
+					<lpage>249</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<mixed-citation>Zepke, N., y Leach, L. (2005). Integration and adaptation: Approaches to the student retention and achievement puzzle. <italic>Active Learning in Higher Education</italic>, 6(1). https://doi.org/10.1177/1469787405049946</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zepke</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Leach</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Integration and adaptation: Approaches to the student retention and achievement puzzle</article-title>
+					<source>Active Learning in Higher Education</source>
+					<volume>6</volume>
+					<issue>1</issue>
+					<pub-id pub-id-type="doi">10.1177/1469787405049946</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+	<sub-article article-type="translation" id="s1" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Employability and Labor Inequalities: Industrial and Systems Engineering Professionals</article-title>
+			</title-group>
+			<abstract>
+				<title>Abstract</title>
+				<p>The objective of this research is to analyze the employability of Industrial and Systems Engineering graduates from a public university in northwestern Mexico. This analysis was conducted based on three key moments: entry into the workforce, job retention, and career advancement. A multidimensional analytical model with a gender focus was used, articulating personal, contextual, and temporal dimensions. The methodology employed was qualitative; semi-structured interviews were used to identify experiences of entry into, retention in, and advancement within the workforce. The findings reveal differentiated trajectories: men tend to advance linearly, while women face structural barriers, such as the double burden of work and family responsibilities, and greater difficulties in career advancement. The study's limitations are related to the disciplinary field analyzed, the specific regional context, and the limited number of participants. It is concluded that employability is a social construct mediated and conditioned by power relations and inequalities.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>employability</kwd>
+				<kwd>career paths</kwd>
+				<kwd>gender inequalities</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>EL Codes:</title>
+				<kwd>J16</kwd>
+				<kwd>J24</kwd>
+				<kwd>I24</kwd>
+				<kwd>O15</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="intro">
+				<title>1. Introduction</title>
+				<p>Since the late twentieth century, the transition of young professionals into the labor market has become increasingly complex. Transformations derived from globalization, the expansion of higher education, technological advances, and labor flexibility have redefined the processes of labor market entry, employment retention, and career advancement. These transformations have given rise to a new socioeconomic context characterized by emerging forms of learning, the reorganization of work, and increasingly demanding expectations for professionals. The International Labour Organization (International Labour Organization [ILO], 2019) has noted that these changes in the labor market generate problems of unemployment, underemployment, and informality that particularly affect young people, who face growing difficulties in accessing stable and decent working conditions.</p>
+				<p>Higher education plays a key role in the formation of human capital and the accreditation of knowledge for the labor market; however, a gap persists between academic training and real employment opportunities. As noted by <xref ref-type="bibr" rid="B42">Scheele et al. (2009)</xref> and <xref ref-type="bibr" rid="B43">Siivonen et al. (2023)</xref>, the expansion of higher education has not guaranteed access to quality employment but has instead generated new tensions between what graduates learn and the demands of the labor market. In this context, employability has gained prominence in educational policies and in the agendas of Higher Education Institutions (HEIs), although its meritocratic orientation has been questioned by perspectives that understand it as a social construct shaped by structural, institutional, and cultural elements (<xref ref-type="bibr" rid="B45">Tomlinson, 2007</xref>; <xref ref-type="bibr" rid="B1">Aguilar-Barceló &amp; Mungaray-Moctezuma, 2019</xref>). From this critical perspective, employability is configured at the intersection of multiple dimensions-individual characteristics, access to social networks, labor market structures, socioeconomic conditions, and relations of power and gender-rather than solely through the accumulation of human capital.</p>
+				<p>In Mexico, despite the growing academic production on higher education and employment, many studies maintain a quantitative focus centered on labor market entry, which limits the analysis of employability to the first job. This approach overlooks critical dimensions such as employment retention and career advancement, long-term professional trajectories, and the conditions that enable or restrict upward mobility.</p>
+				<p>This article adopts a multidimensional approach to employability that considers three key moments: labor market entry, employment retention, and career advancement, understood as continuous and interrelated processes. It also demonstrates that employability is deeply conditioned by gender inequalities. Despite the sustained increase in women’s enrollment in higher education and their growing participation in the labor market, women continue to face barriers to accessing quality employment, remaining in their positions, and advancing toward positions with greater responsibility and income. As noted by <xref ref-type="bibr" rid="B39">Rentería-Pérez et al. (2022)</xref>, gender-based barriers persist both in hiring mechanisms and in professional trajectories; patterns of exclusion continue to reproduce inequalities that limit women’s labor opportunities.</p>
+				<p>Industrial and Systems Engineering has historically been a masculinized field. The objective of this article is to analyze the construction of employability among male and female graduates of this discipline at three moments of their professional trajectories: entry into the labor market, employment retention, and opportunities for career advancement. The study adopts a critical approach with a gender perspective, which makes it possible to reveal the structural inequalities shaping professional trajectories by considering not only the competencies and academic achievements of professionals but also the role of social networks, working conditions, and institutional contexts. The central hypothesis proposes that employability is conditioned by contextual, structural, and relational factors rather than solely by individual characteristics. This situation generates disadvantages for women in their labor market entry, employment retention, and career advancement, producing professional trajectories that are dynamic but unequal.</p>
+				<p>The article is organized into four sections, in addition to this introduction. The first addresses theoretical debates on employability and gender and presents an analytical model composed of three dimensions: personal, contextual, and temporal. The second explains the qualitative methodology and the study population. The third reconstructs employability trajectories through the analysis of labor market entry, employment retention, and career advancement, considering gender inequalities and the tensions between stability, uncertainty, and professional life projects. The final section presents the conclusions, summarizing the contributions of the study, its limitations, and future lines of research.</p>
+			</sec>
+			<sec>
+				<title>2. Theoretical framework</title>
+				<sec>
+					<title>2.1 Employability: Theoretical Approaches and Debates</title>
+					<p>Employability has traditionally been approached from an individualistic perspective, centered on the skills and competencies that graduates acquire during their university education. Traditional perspectives have developed competency-based models, particularly those proposed by Yorke (2005), Dacre <xref ref-type="bibr" rid="B37">Pool and Sewell (2007)</xref>, and <xref ref-type="bibr" rid="B46">Van der Heijde (2006)</xref>, in which employability is defined as the capacity to obtain, maintain, and perform a job satisfactorily. These approaches tend to emphasize individual responsibility for professional success, without fully addressing the structural inequalities that shape access to, retention in, and mobility within employment.</p>
+					<p>In contrast, more recent perspectives argue that employability should be understood as a socially mediated phenomenon. <xref ref-type="bibr" rid="B12">Brown et al. (2003)</xref> and <xref ref-type="bibr" rid="B23">Hall (2020)</xref> contend that its construction goes beyond individual attributes and incorporates institutional contexts, labor market dynamics, and power relations that influence professional opportunities. Along these lines, recent studies highlight the need to incorporate critical approaches that consider the interaction between different forms of capital-particularly human and social capital-and broader socio-labor structures (<xref ref-type="bibr" rid="B43">Siivonen et al., 2023</xref>). Similarly, <xref ref-type="bibr" rid="B35">Peeters et al. (2019)</xref> and <xref ref-type="bibr" rid="B15">Clarke (2018)</xref> point out that employability emerges from the interaction between personal attributes and external factors, such as economic structures, the type of employment available, territorial conditions, and labor market segmentation.</p>
+					<p>In this study, a distinction is made between labor market entry and employability. Labor market entry refers to the initial process of accessing employment after graduation, whereas employability is understood as a broader process that includes the capacity to access, remain in, and progress within the labor market over time. This distinction makes it possible to analyze not only the moment of entry into employment but also the subsequent professional trajectories that develop throughout individuals’ careers.</p>
+					<p>In Latin America, studies on employability remain relatively limited and have mostly privileged quantitative approaches aimed at measuring variables such as labor market entry, income, and employment duration. However, more recent research has proposed broader perspectives. <xref ref-type="bibr" rid="B33">Orellana (2018)</xref> and <xref ref-type="bibr" rid="B26">Jiménez-Ulate (2022)</xref> suggest understanding employability as a complex and multidimensional social construct that involves educational processes, professional trajectories, and the structural conditions of the labor market.</p>
+					<p>Research by <xref ref-type="bibr" rid="B24">Jacinto and Millenaar (2010)</xref> and <xref ref-type="bibr" rid="B44">Tenjo et al. (2017)</xref> shows that women face greater difficulties in accessing, remaining in, and advancing within the labor market, even when they possess similar levels of education as men. Incorporating a gender perspective makes it possible to reveal the symbolic, structural, and organizational barriers that affect men and women differently, particularly in fields such as engineering and the exact sciences. <xref ref-type="bibr" rid="B28">Lamas (2016)</xref> argues that knowledge is not neutral and that research must recognize the power relations and inequalities between genders. Integrating this perspective helps explain how employability processes are mediated by the sexual division of labor, wage inequality, and the reproduction of gender stereotypes in professional environments.</p>
+					<p>Several studies have documented that, despite the expansion of women’s participation in higher education, labor opportunities continue to be unequal. <xref ref-type="bibr" rid="B13">Camarena and Saavedra (2018)</xref> and <xref ref-type="bibr" rid="B14">Castillo et al. (2020)</xref> note that although women have increased their participation in higher education, their access to higher-ranking positions in the labor market remains limited. Likewise, <xref ref-type="bibr" rid="B41">Salas et al. (2023)</xref> argue that analyzing women’s employability constitutes an important avenue for examining gender inequalities in employment, as it makes it possible to observe both their incorporation into the labor market and their trajectories of professional advancement. In this sense, the feminization of employment has also generated new forms of labor precariousness, often associated with the concentration of women in service sectors or in roles linked to care work (<xref ref-type="bibr" rid="B36">Pérez Sáinz, 2016</xref>).</p>
+					<p>Although employability is often explained in terms of individual skills, critical approaches emphasize that it is deeply conditioned by structural factors, particularly gender. Labor contexts are not neutral; they reproduce dynamics that segment and hierarchize employment, generating differentiated obstacles for women and men in their labor market entry, retention, and advancement. A gender perspective makes it possible to reveal these inequalities, as the sexual division of labor and internal, external, and reproductive barriers limit women’s opportunities, shaping unequal labor trajectories mediated by power relations (<xref ref-type="bibr" rid="B38">Ramos et al., 2003</xref>).</p>
+					<p>Based on these theoretical debates, employability in this study is analyzed through a multidimensional model composed of three interrelated dimensions: personal, contextual, and temporal (<xref ref-type="table" rid="t5">Table 1</xref>). This model allows us to recognize that men and women develop their professional trajectories within unequal contexts, influenced by the sexual division of labor and by differentiated labor market dynamics. From this perspective, a multidimensional analysis makes it possible to identify both the opportunities and the constraints that individuals experience in their processes of labor market entry, employment retention, and career advancement.</p>
+					<p>
+						<table-wrap id="t5">
+							<label>Table 1</label>
+							<caption>
+								<title>Analytical model for analyzing employability</title>
+							</caption>
+							<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; text-align: center; width: 500px; background-color: #c7c8c9;" colspan="2"><bold>Employability and Gender</bold> </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" colspan="2">Multidimensional Analysis</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Personal Dimension </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Contextual Dimension </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Human    Capital
+    </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Microsystem and    Mesosystem
+        </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Social Capital </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">| Exosystem and Macrosystem</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;" colspan="2">Temporal Dimension </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" colspan="2">Microtime</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;" colspan="2">Mesotime</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;" colspan="2">
+      
+      Macrotime </td>
+  </tr>
+</tbody>
+</table>
+
+							<table-wrap-foot>
+								<fn id="TFN5">
+									<p>Source: Own elaboration.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>The personal dimension is structured around two categories: human capital and social capital. According to <xref ref-type="bibr" rid="B35">Peeters et al. (2019)</xref>, both constitute employability capital, understood as the set of resources that enable individuals to access, maintain, and progress in employment. Human capital theory (<xref ref-type="bibr" rid="B5">Becker, 1984</xref>) highlights the importance of education as a key investment for labor market entry; however, recent studies warn that mismatches between educational systems and labor market needs have weakened this relationship, although training remains a decisive factor (<xref ref-type="bibr" rid="B47">Vázquez et al., 2021</xref>). Complementarily, social capital becomes relevant as it refers to resources accessible through networks of relationships that may facilitate access to other forms of capital, such as economic, cultural, or symbolic capital (<xref ref-type="bibr" rid="B9">Bourdieu, 2018</xref>). <xref ref-type="bibr" rid="B49">Woolcock and Narayan (2000)</xref> note that these networks operate through norms of trust and reciprocity that allow individuals to mobilize collective resources in pursuit of economic benefits.</p>
+					<p>The second dimension corresponds to context, which is analyzed across four interrelated levels: microsystem, mesosystem, exosystem, and macrosystem. The microsystem refers to the immediate environment, particularly the workplace, where paid activities, roles, and interpersonal relationships develop. The mesosystem encompasses interactions with extended family members, friends, and educational and work environments, where support networks can be consolidated. The exosystem includes structural factors that indirectly affect individuals, such as business dynamics and political-economic decisions that influence labor markets. Finally, the macrosystem encompasses the broader context, including public policies, educational and labor models, as well as cultural and technological transformations that shape the organization of work.</p>
+					<p>The third dimension corresponds to temporality, understood as a processual conception of employability. This dimension comprises three levels: microtime, mesotime, and macrotime. Microtime refers to everyday events related to work experience, such as daily activities at work or adaptation to new responsibilities. Mesotime refers to longer periods within a professional trajectory, such as transitions between jobs or processes of professional consolidation. Macrotime refers to long-term professional expectations and significant events that mark the evolution of an occupational trajectory.</p>
+					<p>Analyzing these dimensions makes it possible to understand employability as a complex phenomenon that emerges from the interaction between individual, contextual, and temporal factors. From this perspective, employability does not depend solely on individual characteristics but is shaped by social relations, institutional structures, and the contextual conditions in which professional trajectories unfold. In line with the bioecological approach proposed by <xref ref-type="bibr" rid="B11">Bronfenbrenner and Morris (2007)</xref>, this model recognizes that experiences are crosscut by structural inequalities-particularly those related to gender and social class-which influence opportunities for labor market entry, employment retention, and career advancement.</p>
+				</sec>
+			</sec>
+			<sec sec-type="methods">
+				<title>3. Methodology</title>
+				<p>The methodological design is based on a qualitative approach. A total of 16 semi-structured interviews were conducted with Industrial and Systems Engineering professionals who graduated from a public university in the state of Sonora. Through the reconstruction of their academic and professional experiences, the study explored processes of labor market entry, employment retention, and career advancement from a multidimensional perspective with a gender approach.</p>
+				<p>The selection of the disciplinary field was supported by a prior analysis of statistical information at the national, state, and institutional levels, which made it possible to identify areas with greater dynamism in terms of labor market insertion. Two main criteria were considered: (a) employment rates and occupational demand reported for each discipline, and (b) the analytical relevance of the field for examining gender inequalities within a traditionally masculinized professional context. Regarding participant selection, a non-probabilistic snowball sampling strategy was employed. This procedure involved initially identifying graduates who met the established criteria and who subsequently referred other professionals with similar characteristics. The selection process concluded once theoretical saturation was reached, that is, when additional interviews no longer contributed substantially new analytical categories to the study.</p>
+				<p>The semi-structured interviews facilitated the collection of detailed and meaningful accounts of participants’ academic, professional, and personal trajectories, revealing both structural and subjective factors influencing their employability. As noted in qualitative research literature, this technique encourages open dialogue that captures personal meanings and allows the emergence of new themes during the interview process. The interview guide was organized around four analytical dimensions: (1) sociodemographic and family characteristics, (2) human capital and the development of skills and competencies, (3) labor trajectories and social capital, and (4) the relationship between personal and professional life.</p>
+				<p>The qualitative data analysis followed the stages proposed by Creswell (2009): data collection, full transcription, coding, description of analytical categories, and the presentation of results using MAXQDA software. The coding process combined deductive and inductive approaches. In the first stage, categories derived from the proposed theoretical model (personal, contextual, and temporal dimensions) were used to organize the data according to the processes of labor market entry, employment retention, and career advancement. Subsequently, through an inductive analysis, emergent categories related to gender inequalities, individual agency, and professional strategies were identified. Four coding cycles were conducted, allowing for the refinement, grouping, and synthesis of analytical categories and subcategories.</p>
+				<p>The criterion of theoretical saturation was reached when additional interviews did not produce substantially new analytical categories but rather variations or nuances of those already identified. To strengthen methodological rigor, theoretical triangulation strategies were implemented by contrasting empirical findings with different conceptual frameworks on employability and gender. This strategy made it possible to deepen the understanding of the phenomenon and enhance the interpretative validity of the study (Creswell, 2009). Regarding transferability, the findings do not aim at statistical generalization but rather at providing a situated understanding of employability within a specific disciplinary field. The detailed description of the context, participants, and analytical process allows other researchers to assess the potential applicability of these findings in similar contexts.</p>
+				<sec>
+					<title>3.1 Characterization of Participants</title>
+					<p>The group of participants consisted of nine men and seven women, aged between 23 and 37 years (<xref ref-type="table" rid="t6">Table 2</xref>). Most of them are currently in a stage of professional consolidation, in which career decisions begin to be structured around stability, professional development, and long-term career projection. The majority of participants are single; two are married (one woman and one man), and one is in a cohabiting relationship. This composition reflects professional trajectories characterized by greater availability for geographic mobility and territorial flexibility-elements considered strategic in the early stages of career development, particularly in industrial sectors.</p>
+					<p>
+						<table-wrap id="t6">
+							<label>Table 2</label>
+							<caption>
+								<title>Sociodemographic characteristics of the interviewees</title>
+							</caption>
+							<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Participants</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Gender</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Age</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Marital Status</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Household Members </bold>  </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Certifications</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #c7c8c9;"><bold>Languages </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Lesli  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Woman </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">35 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Living independently  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Abraham  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Man </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">30 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Living independently  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">English    </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Isaac  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Man </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">27 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sister   </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Daniel  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Man  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">28 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Parents   </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">German and French </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Santiago  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Man </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">28 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Living independently  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">German and English </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Ernesto  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Man </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">29 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Living independently  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">No </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">No  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Ashley  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Woman </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">37 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Married </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Husband   </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Camila  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Woman </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">35 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Mother </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">No </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">English and French </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Armando  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Man </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">32 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Living independently  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">English </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Inés  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Woman </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">36 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Living independently  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">No  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">English  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Nicole  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Woman </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">30 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Father </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">English </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Carolina  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Woman </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">27 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Mother, brother and grandmother </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">English  </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Diego  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Man </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">36 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Married </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Wife   </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">English </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Alejandra  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Woman </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">23 </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Parents  </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">English </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Ricardo  </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Man </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">29 </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Single </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Partner </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Sí </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">No </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">José  </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Man </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">26 </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Single </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Sister and mother   </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">Sí </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #c7c8c9;">English </td>
+  </tr>
+</tbody>
+</table>
+
+							<table-wrap-foot>
+								<fn id="TFN6">
+									<p>Source: Own elaboration.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>In terms of human capital, it was identified that most participants have strengthened their professional profiles through the acquisition of certifications, diplomas, and specialized training courses. According to <xref ref-type="bibr" rid="B5">Becker (1984)</xref>, these credentials constitute a direct reinforcement of human capital by increasing professionals’ competitiveness and technical validation in the labor market. In sectors such as industrial engineering, certifications are highly valued because they validate technical competencies under international standards and facilitate access to specialized positions and roles with greater responsibility.</p>
+					<p>In addition, several participants reported proficiency in one or more foreign languages, primarily English, but also French and German. This aspect expands opportunities for insertion into globalized labor markets, as well as access to specialized technical knowledge and professional development in multinational environments.</p>
+				</sec>
+			</sec>
+			<sec sec-type="results|discussion">
+				<title>4. Results and discussion</title>
+				<p>The analysis of professional trajectories made it possible to identify the set of factors influencing the construction of employability among Industrial and Systems Engineering professionals. In particular, the study examined the motivations for choosing this degree program, labor expectations upon graduation, as well as the knowledge, skills, and social resources mobilized throughout their professional trajectories.</p>
+				<p>Vocational decisions were mainly shaped by two factors: the perception of high labor demand for this engineering field and the influence of close family members-parents or siblings-who had previously pursued the same degree. From a rational choice perspective, this decision can be interpreted as a strategy aimed at maximizing opportunities for labor market entry in a competitive environment, where the versatility of industrial engineering is perceived as a strategic resource for occupational mobility. However, beyond an individual decision, these findings show that educational choices are socially mediated. According to <xref ref-type="bibr" rid="B8">Bourdieu’s theory of social reproduction (1996)</xref>, family trajectories influence educational and professional aspirations, reproducing cultural capital and labor expectations that shape vocational decisions.</p>
+				<p>“I was always good at mathematics, and when I saw that three of my uncles-although they had studied different engineering fields-worked as industrial engineers, I decided to study the same profession.”</p>
+				<p> (Interview with Santiago, 18-09-2024)</p>
+				<p>In the case of women, the choice of this degree was influenced by family role models who legitimized their entry into a traditionally masculinized field. This finding is consistent with research on women’s participation in STEM areas, where the presence of close role models and family support act as mechanisms that counteract gender stereotypes associated with these disciplines. In this way, personal motivations are combined with an instrumental logic oriented toward economic autonomy and labor stability.</p>
+				<p>“I decided to study industrial engineering because of the versatility I saw in the program, inspired by the trajectory of my father and mother, both engineers who graduated from the same university. My father worked in the maquiladora sector and my mother in administrative areas, which showed me how the degree allows one to adapt to different work environments.” (Interview with Nicole, 03-10-2024)</p>
+				<p>These findings suggest that employability begins to take shape during the educational stage, where personal aspirations, family resources, and perceptions of labor market opportunities converge. In this sense, choosing a degree considered “employable” can be interpreted as a form of anticipatory agency in the face of uncertain labor contexts. Nevertheless, as McQuaid and Lindsay (2005) argue, employability depends not only on individual decisions but also on structural conditions that influence actual labor market opportunities.</p>
+				<p>Labor expectations were mainly oriented toward joining companies in the industrial or administrative sectors and, in some cases, toward entrepreneurship. These aspirations align with a conception of employability understood as the ability to mobilize resources, knowledge, and networks in order to access professional opportunities (<xref ref-type="bibr" rid="B20">Fugate et al., 2004</xref>). However, the results show that professional trajectories do not always correspond to the expectations formed during university education.</p>
+				<p><italic>“</italic>When I graduated, I thought I would work in the automotive industry, since the degree was strongly oriented toward that sector; however, I chose entrepreneurship and have been running my own business for eight years.”</p>
+				<p> (Interview with Lesli, 27-08-2024)</p>
+				<p>These types of trajectories suggest that entrepreneurship can function as an adaptation strategy in response to the limitations of the regional labor market. Recent research has pointed out that in contexts where labor opportunities are limited, entrepreneurship emerges as a viable alternative for professional insertion and income generation (<xref ref-type="bibr" rid="B22">García &amp; Ramírez, 2019</xref>). In this sense, employability is not limited solely to access to formal employment but also includes the capacity to generate one’s own alternatives for professional development.</p>
+				<p>From a multidimensional employability perspective, personal and technical skills (soft and hard skills) constitute a key component in the configuration of professional trajectories. The results show gender differences in the types of competencies emphasized by men and women. Women highlighted interpersonal skills such as empathy, adaptability, resilience, and cooperative work, whereas men emphasized competencies related to technical problem-solving, systematic thinking, and the use of specialized software. These differences do not necessarily reflect inherent abilities but rather processes of professional socialization and gender expectations that influence the way men and women construct and communicate their professional profiles (<xref ref-type="bibr" rid="B17">Connell &amp; Messerschmidt, 2005</xref>).</p>
+				<p>Language proficiency was also identified as a differentiating competence, particularly among those who had participated in international mobility experiences. Some participants reported knowledge of English, French, or German, which strengthens their employability profile in globalized industries. These differences suggest that employability is not neutral: gender, educational trajectories, and sociocultural conditions generate differentiated profiles for men and women (<xref ref-type="bibr" rid="B4">Bárcena &amp; Lomelí, 2021</xref>). Understanding these dynamics makes it possible to reveal how structural inequalities operate in access to and professional development.</p>
+				<p>Another relevant aspect in the construction of employability was the role of professional internships. Among the interviewed group, five professionals (three women and two men) currently remain in the companies where they completed their internships, some with trajectories of up to six years, which demonstrates their role as a mechanism of transition between university education and the labor market. As <xref ref-type="bibr" rid="B27">Knight and Yorke (2003)</xref> and <xref ref-type="bibr" rid="B25">Jackson (2015)</xref> point out, professional internships allow the development of specific human capital, the acquisition of early work experience, and the expansion of contact networks, factors that increase the probability of labor market entry and employability development.</p>
+				<p>However, the analysis also suggests that the value of professional internships is not limited to immediate hiring. In at least nine cases, although the participants did not remain in the same company, the internships served as a means to continue their labor trajectory in other companies or to make strategic decisions. This supports the idea that the value of internships does not lie exclusively in immediate hiring but rather in their potential to build progressive trajectories (<xref ref-type="bibr" rid="B50">Zepke &amp; Leach, 2005</xref>). In this sense, internships function as a mechanism in the education-to-work transition, enabling professionals to develop competencies, expand their networks, and strengthen their employability profiles.</p>
+				<sec>
+					<title>4.1 Social Capital and Employability: Networks, Agency, and Inequalities</title>
+					<p>Social capital constitutes a key element in the configuration of employability trajectories. It is understood as the set of resources accessible through personal, institutional, and community networks that facilitate access to information, recommendations, professional collaboration, and employment opportunities (<xref ref-type="bibr" rid="B8">Bourdieu, 1996</xref>; <xref ref-type="bibr" rid="B16">Coleman, 1988</xref>). In this study, the analysis of social capital was based on the classification proposed by <xref ref-type="bibr" rid="B49">Woolcock and Narayan (2000)</xref>, who distinguish four dimensions-community, network-based, institutional, and synergistic-according to the types of ties and resources mobilized.</p>
+					<p>Based on the collected testimonies, two main forms of social capital were identified as shaping labor trajectories: institutional social capital and social capital based on personal networks. Institutional social capital refers to the role played by educational institutions, linkage programs, and public policies as mediators between graduates and the labor market. Several participants highlighted that their entry into the labor market was facilitated by the relationship established between the university and the productive sector, particularly through professional internships or institutional agreements. This finding confirms that educational institutions not only transmit technical knowledge but also function as nodes of labor intermediation that expand opportunities for professional insertion.</p>
+					<p>Social capital based on personal networks, in turn, was manifested through family, academic, or friendship ties that facilitated access to professional internships, employment opportunities, or promotions within organizations. These networks operate as mechanisms of trust and reciprocity that allow individuals to access labor opportunities that, in many cases, are not available through formal channels.</p>
+					<p>“Thanks to a recommendation from my father, who knew the director of environmental affairs, I learned about an internship vacancy. In addition, I had prior experience in human resources.” (Interview with Ashley, 20-09-2024)</p>
+					<p>These findings are consistent with research suggesting that social capital can function as a strategic resource for labor market entry by facilitating access to privileged information and professional opportunities (<xref ref-type="bibr" rid="B7">Bourdieu, 1986</xref>). However, the study also reveals that access to social capital is not distributed homogeneously. As <xref ref-type="bibr" rid="B19">Fine (2010)</xref> notes, social networks are not equally available to all individuals, which generates differences in employment opportunities.</p>
+					<p>In this regard, the study also identified a group of professionals who accessed employment on their own initiative without directly relying on personal or institutional networks, but rather through autonomous searches on digital platforms or direct applications.</p>
+					<p>“I found the job offer in the advertisements of an online newspaper, sent my résumé, and they contacted me.”</p>
+					<p> (Interview with Ricardo, 12-02-2025)</p>
+					<p>In these cases, labor market entry was associated with processes of self-management and persistence in the search for opportunities. This dimension relates to the concept of individual agency, understood as the capacity of individuals to make strategic decisions and actively construct their professional trajectories (<xref ref-type="bibr" rid="B2">Archer, 2003</xref>). However, the analysis suggests that individual agency does not operate in isolation but is conditioned by available resources, social networks, and structural contexts.</p>
+					<p>“I was looking for a job while working in the construction business of a cousin. Eventually, a company hired me as a continuous improvement technician, and over time I was promoted until I became a manager.”</p>
+					<p> (Interview with Diego, 24-01-2025)</p>
+					<p>Consequently, both social capital and individual agency should be understood as interrelated dimensions in the construction of employability. The possibilities of mobilizing networks or exercising agency are not uniform for all individuals, as they are mediated by structural factors such as gender, social origin, or territorial location. As <xref ref-type="bibr" rid="B19">Fine (2010)</xref> argues, not all individuals have access to active or effective networks. Therefore, it is essential to incorporate diverse trajectories and recognize that, in digital environments, individual agency may partially compensate for structural limitations. From this perspective, the analysis of employability requires integrating approaches that make visible the interaction between social, institutional, and personal resources in the configuration of professional trajectories.</p>
+				</sec>
+				<sec>
+					<title>4.2 Employability from a Contextual Perspective</title>
+					<p>Analyzing employability from a comprehensive perspective allows us to understand that career trajectories do not develop in isolation but rather in interaction with multiple social, institutional, and economic environments. This study draws on <xref ref-type="bibr" rid="B10">Bronfenbrenner’s bioecological model (2005)</xref>, which proposes analyzing social processes through different contextual levels: microsystem, mesosystem, exosystem, and macrosystem. From this perspective, employability is configured as a process that emerges from the interaction between individual factors and structural conditions of the environment (<xref ref-type="bibr" rid="B29">McQuaid &amp; Lindsay, 2005</xref>).</p>
+					<p>Within the microsystem, where direct interactions between individuals and their immediate environment occur, early work experiences-such as internships and first jobs-play a particularly significant role. These experiences represent a key space for the development of technical and interpersonal skills, as well as for the construction of professional identity. However, the analysis revealed gender differences in the way these experiences are lived. Women reported that, unlike their male counterparts, their insertion into highly masculinized work environments involved facing questions about their professional capabilities. As a result, they developed strategies of self-affirmation and over-preparation to legitimize their presence in these contexts.</p>
+					<p>“It is possible to work in a masculinized environment, but you need to be strong and confident. I learned not to take everything personally and to focus on proving that women are capable. It is necessary to be well prepared to avoid being questioned.” (Interview with Ashley, 20-09-2025)</p>
+					<p>This finding is consistent with studies showing that women in male-dominated professional fields face more demanding processes of professional legitimation, where they must continuously demonstrate their competencies in order to be recognized as legitimate professionals (<xref ref-type="bibr" rid="B21">Gálvez, 2018</xref>). In contrast, men described their early work experiences as a natural confirmation of their technical abilities, without mentioning questions regarding their presence in these spaces. This difference reveals how work environments can reproduce gender-differentiated dynamics of professional recognition.</p>
+					<p>In the mesosystem, which connects different immediate environments such as family, friends, university, and professional networks, the importance of social capital emerged as a strategic resource for accessing employment opportunities and making career decisions. Several testimonies indicated that family members, professors, or acquaintances played an important role by informing participants about job vacancies, facilitating recommendations, or promoting links with employers (<xref ref-type="bibr" rid="B6">Borrego, 2011</xref>). This finding confirms that social networks can function as mechanisms that facilitate access to other forms of capital-such as economic, cultural, or symbolic capital-as proposed by <xref ref-type="bibr" rid="B7">Bourdieu (1986)</xref>.</p>
+					<p>“I have obtained jobs through platforms like Indeed, where I found a vacancy in a company. Later, it was through personal networks that I accessed a job in the government.” (Interview with Alejandra, 30-02-2025)</p>
+					<p>The exosystem, which includes structural factors that indirectly affect career trajectories-such as corporate decisions, public policies, or regional economic changes-also produced differentiated effects. Some cases reflected trajectories interrupted by the COVID-19 pandemic, staff layoffs, or hiring limitations derived from the economic context. While both men and women faced these external conditions, women reported greater obstacles to being hired or promoted due to gender biases that required them to demonstrate higher levels of preparation or certification to access the same positions as their male colleagues. This requirement reveals a form of structural inequality that imposes an additional burden of professional legitimization on women.</p>
+					<p>Finally, the macrosystem, which encompasses broader cultural, technological, and normative conditions, also influences employability trajectories. Several professionals emphasized the increasing importance of continuous training, foreign language proficiency, and professional certifications as strategies to remain competitive in a globalized labor market. Although this requirement affects all professionals, women reported feeling greater pressure to meet these standards in order to compensate for structural barriers in their professional paths, which is consistent with analyses of employability from gender and social justice perspectives.</p>
+				</sec>
+				<sec>
+					<title>4.3 Temporal Analysis of Employability: Between Stability and Challenge</title>
+					<p>The temporal analysis allows employability to be understood as a dynamic process that unfolds across different stages of professional trajectories. Following <xref ref-type="bibr" rid="B12">Brown and Williams (2003)</xref> and <xref ref-type="bibr" rid="B48">Velásquez et al. (2016)</xref>, this study examines three key moments: labor market entry, job retention, and career advancement (<xref ref-type="table" rid="t7">Table 3</xref>).</p>
+					<p>
+						<table-wrap id="t7">
+							<label>Table 3</label>
+							<caption>
+								<title>Stages of Employability According to the Temporal Dimension</title>
+							</caption>
+							<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Stage</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Timeframe</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px; background-color: #c7c8c9;"><bold>Key Indicators</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Labor market entry </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">0.5 to 1.5 years </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Type of employment, contract </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Job retention </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">2 to 3 years </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Stability, professional continuity, satisfaction </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">Career advancement </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">4 to 7 years </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">Promotions, leadership, professional networks </td>
+  </tr>
+</tbody>
+</table>
+
+							<table-wrap-foot>
+								<fn id="TFN7">
+									<p>Source: Author’s own <xref ref-type="bibr" rid="B12">Brown A. &amp;Williams S. (2003)</xref>, <xref ref-type="bibr" rid="B48">Velásquez et al. (2016)</xref>
+									</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>The first stage, labor market entry, typically occurs within the first year or year and a half after graduation and allows for the analysis of placement time, the type of job obtained, and the relationship between employment and the field of study. The second stage, job retention, is examined over a medium-term period of approximately two to three years and considers employment stability, mobility within the professional field, and participation in continuing education processes. Finally, career advancement, which may occur between four and seven years after graduation, makes it possible to analyze professional progression, income improvement, access to positions of greater responsibility, and the expansion of professional networks.</p>
+					<p>Within this temporal framework, the phases of employability are examined from an integrated perspective that recognizes its development as a relational and situated construction. This process depends not only on the accumulation of human and social capital but also on labor market conditions and on the decisions and strategies deployed by individuals themselves. Consequently, the construction of employability in this study is analyzed through these three stages in order to recognize the formative processes associated with the temporal dimension of professional trajectories.</p>
+					<p>Labor market entry refers to the initial transition period between university education and the first job. In most of the cases analyzed, entry into the labor market occurred relatively early and was mediated by professional internships or institutional networks linked to the university. Seven of the interviewees were able to access formal employment immediately after graduation, suggesting that university-industry linkages can play an important role in facilitating the transition into the labor market.</p>
+					<p>However, labor market entry was not homogeneous. Some participants experienced longer periods of job searching or initially entered sectors that were not closely aligned with their professional training. These cases illustrate that access to the labor market is conditioned by structural factors and by the availability of opportunities within the regional context.</p>
+					<p>Job retention reflects the capacity of professionals to remain within the labor market and consolidate their professional experience. Among the group analyzed, relatively stable trajectories were observed, although with significant differences between cases. While some participants maintained long-term employment relationships within the same organization, others experienced job changes resulting from layoffs, corporate restructuring, or personal decisions to reorient their professional careers.</p>
+					<p>The literature on contemporary labor markets has highlighted that job stability has declined in contexts characterized by globalization processes and labor flexibilization. Nevertheless, recent studies indicate that men continue to access stable employment positions to a greater extent than women (OECD, 2019).</p>
+					<p>Finally, career advancement makes it possible to analyze processes of vertical mobility within organizations. Among the interviewees, several professionals were able to reach higher hierarchical positions, such as supervisory or managerial roles. However, gender differences were identified in the speed and frequency of these promotions. Four men accessed positions of greater responsibility within a relatively short period of time, whereas women reported greater difficulties in reaching leadership roles. These differences reflect the persistence of structural barriers associated with the so-called <italic>glass ceiling</italic>, which limits women’s opportunities for advancement even when they possess professional credentials similar to those of their male colleagues (<xref ref-type="bibr" rid="B18">Enríquez &amp; Rentería, 2007</xref>).</p>
+					<p>The temporal dimension of employability reveals diverse professional trajectories shaped by multiple contextual factors. Although men were able to enter, remain in, and advance within the labor market, their trajectories were also influenced by external factors such as the COVID-19 pandemic, the dynamics of the industrial sector, the availability of promotion opportunities, and possibilities for international mobility. In several cases, professional advancement was closely linked to the willingness to change companies or even relocate to another country. By contrast, those who chose to remain in the same workplace without mobility experienced situations of professional stagnation. Labor market entry, in turn, was often facilitated by professional internships or participation in government programs, although these strategies did not always guarantee long-term stability or sustained professional growth.</p>
+					<p>Overall, the temporal analysis demonstrates that employability cannot be understood solely as obtaining a first job, but rather as a continuous process involving the interaction between individual strategies, social networks, institutional opportunities, and structural labor market conditions.</p>
+					<p>The analysis of female trajectories shows that, although women were able to enter the labor market and sustain their participation, their professional development was conditioned by persistent gender structures that limited their opportunities for retention and advancement. These structural inequalities reveal that employability is not distributed equitably and that women face additional obstacles that affect the progression of their professional trajectories.</p>
+				</sec>
+			</sec>
+			<sec sec-type="conclusions">
+				<title>Conclusions</title>
+				<p>The analysis of employability based on the dimensions of labor market entry, job retention, and career advancement revealed that professional trajectories are not configured in a homogeneous manner but are shaped by differentiated structural conditions, particularly those related to gender. Although both men and women were able to enter the labor market, their professional pathways display different rhythms, strategies, and opportunities.</p>
+				<p>While male trajectories tend to be characterized by greater continuity, stability, and upward mobility in technical and industrial areas, female trajectories appear more heterogeneous, combining periods of stability with job rotations, interruptions, or strategies of labor diversification, including entrepreneurship (<xref ref-type="table" rid="t8">Table 4</xref>).</p>
+				<p>
+					<table-wrap id="t8">
+						<label>Table 4</label>
+						<caption>
+							<title>Comparative synthesis of employability trajectories between men and women</title>
+						</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 150px; background-color: #c7c8c9;"><bold>Dimension</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px; background-color: #c7c8c9;">Male trajectories </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 300px; background-color: #c7c8c9;">Female trajectories</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Labor market entry </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Immediate entry through internships and    professional networks</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Early entry combining study and work</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Job retention </td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Long trajectories, some with structural    stability</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Mixed: some stable trajectories, others with    frequent job rotation</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Career advancement </td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Frequent promotions, even at the international    level</td>
+    <td style="border: 0; text-align: center; background-color: #e7e7e9;">Less frequent promotions; entrepreneurship as    an alternative</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Obstacles</td>
+          <td style="border: 0; text-align: center; background-color: #c7c8c9;">Pandemic-related layoffs; career stagnation      without promotion</td>
+    <td style="border: 0; text-align: center; background-color: #c7c8c9;">Glass ceiling, double workload, barriers to    upward mobility</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">Strategies </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">Geographic mobility; continuity    within the sector </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e7e7e9;">Diversification (employment and    entrepreneurship); flexible permanence</td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN8">
+								<p>Source: Own elaboration.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>In this regard, one of the main contributions of this study lies in understanding employability as a multidimensional social construction, moving beyond traditional approaches that primarily explain it through individual competencies or human capital. Unlike these perspectives, the proposed analytical model articulates three interrelated dimensions-personal, contextual, and temporal-which make it possible to understand employability as a dynamic process that develops throughout professional trajectories. The incorporation of gender as a transversal axis also makes it possible to reveal how employment opportunities are shaped within contexts marked by power relations and structural inequalities. In this way, the model offers a relational perspective that integrates elements such as individual agency, available social capital, and the institutional conditions of the labor market.</p>
+				<p>These findings are consistent with the arguments advanced by the International Labour Organization (ILO, 2022), which highlights that employability is not constructed under homogeneous conditions but rather within scenarios shaped by power relations and structural inequality. Therefore, understanding employability as a purely individual phenomenon is insufficient; instead, a relational approach is required that recognizes the interaction between personal agency, social networks, institutional structures, and macroeconomic contexts.</p>
+				<p>From this perspective, gender emerges as a transversal dimension that conditions access to opportunities, shapes individual strategies, and highlights the need for more inclusive policies. Incorporating a gender perspective into the study of employability makes it possible to question the apparent neutrality of the labor market and to reveal how women face specific barriers throughout their professional trajectories. As noted by <xref ref-type="bibr" rid="B48">Velásquez et al. (2016)</xref> and the ILO (2020), these inequalities manifest not only through explicit barriers but also through more subtle mechanisms of exclusion, such as unequal access to strategic projects, difficulties in accessing networks of influence, or penalties associated with gender roles, such as motherhood. In traditionally male-dominated fields such as engineering, these dynamics limit women’s opportunities for career advancement and professional consolidation, even when they possess qualifications comparable to those of their male colleagues.</p>
+				<p>Furthermore, the results suggest the relevance of incorporating an intersectional perspective into the analysis of employability. Although this study primarily focused on gender, the trajectories examined are also shaped by other structural conditions, such as socioeconomic background, family capital, and available territorial opportunities. These dimensions influence access to professional networks, opportunities for mobility, and the resources available to sustain processes of professional development. This highlights that inequalities in employability do not respond to a single axis of differentiation but rather to the interaction of multiple social factors.</p>
+				<p>Based on these findings, several implications can be identified at different levels of intervention. In the educational sphere, it is essential to strengthen the links between higher education institutions and the productive sector through professional internship programs, career guidance, and support strategies for the transition to the labor market. In the labor sphere, the results highlight the need to promote more inclusive organizational environments through policies of pay equity, transparent promotion mechanisms, and performance evaluation systems based on objective criteria. These actions are particularly relevant in technical and industrial sectors where gender gaps persist in access to leadership positions. At the governmental level, the study underscores the importance of strengthening public policies aimed at the employability of young professionals, especially those that facilitate access to first employment opportunities, promote sustainable career trajectories, and reduce structural inequalities in the labor market.</p>
+				<p>Nevertheless, the study acknowledges several limitations. First, the analysis focused on a single academic discipline. In addition, the number of participants reflects the scope of the qualitative methodology, prioritizing analytical depth rather than statistical generalization. Although a gender perspective was incorporated as a central analytical axis, other intersectional dimensions were not fully integrated, which could further enrich the analysis of inequalities. Based on these limitations, future research should consider developing comparative studies across different disciplines, deepening the intersectional analysis of professional trajectories, examining the role of higher education institutions in labor market linkage, and incorporating the perspective of employers in order to contrast educational expectations with labor market demands.</p>
+				<p>In summary, understanding employability from a critical perspective implies recognizing that it does not solely depend on the possession of individual competencies but rather constitutes a relational construction situated within contexts shaped by inequalities, social networks, structural conditions, and personal decisions. Only through comprehensive approaches that articulate concrete actions to address these inequalities will it be possible to advance toward a more just, inclusive, and sustainable model of professional development.</p>
+			</sec>
+		</body>
+	</sub-article>
+</article>

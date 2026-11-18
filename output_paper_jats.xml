@@ -1,0 +1,2681 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+<front><journal-meta><journal-id journal-id-type="publisher-id">journal_id</journal-id><publisher><publisher-name>Institución Editora</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="doi">arXiv:1706.03762v7</article-id><title-group><article-title>Attention Is All You Need</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Vaswani</surname><given-names>Ashish</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Shazeer</surname><given-names>Noam</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Parmar</surname><given-names>Niki</given-names></name><xref ref-type="aff" rid="aff2"/></contrib><contrib contrib-type="author"><name><surname>Uszkoreit</surname><given-names>Jakob</given-names></name><xref ref-type="aff" rid="aff2"/></contrib><contrib contrib-type="author"><name><surname>Jones</surname><given-names>Llion</given-names></name><xref ref-type="aff" rid="aff2"/></contrib><contrib contrib-type="author"><name><surname>Gomez</surname><given-names>Aidan N.</given-names></name><xref ref-type="aff" rid="aff3"/></contrib><contrib contrib-type="author"><name><surname>Kaiser</surname><given-names>Łukasz</given-names></name><xref ref-type="aff" rid="aff1"/></contrib><contrib contrib-type="author"><name><surname>Polosukhin</surname><given-names>Illia</given-names></name><xref ref-type="aff" rid="aff2"/></contrib><aff id="aff1"><institution content-type="original">Google Brain</institution><country country="ES">País Desconocido</country></aff><aff id="aff2"><institution content-type="original">Google Research</institution><country country="ES">País Desconocido</country></aff><aff id="aff3"><institution content-type="original">University of Toronto</institution><country country="ES">País Desconocido</country></aff></contrib-group><pub-date date-type="pub" publication-format="electronic"><day>02</day><month>08</month><year>2023</year></pub-date><elocation-id>e000</elocation-id><permissions><license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es"><license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p></license></permissions><trans-abstract xml:lang="en"><title>Abstract:</title><p>The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder.The best performingmodelsalsoconnecttheencoderanddecoderthroughanattention mechanism.Weproposeanewsimplenetworkarchitecture,theTransformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.Experimentsontwomachinetranslationtasksshowthesemodelsto be superior in quality while being more parallelizable and requiring significantly lesstimetotrain.Ourmodelachieves28.4BLEUontheWMT2014English-to-Germantranslationtask,improvingovertheexistingbestresults,including ensembles, by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature.We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.</p></trans-abstract><counts><fig-count count="0"/><table-count count="0"/><equation-count count="0"/><ref-count count="1"/></counts></article-meta></front>
+<body>
+<disp-quote>
+<p>Provided proper attribution is provided, Google hereby grants
+  permission to reproduce the tables and figures in this paper solely
+  for use in journalistic or scholarly works.</p>
+</disp-quote>
+
+<table-wrap>
+<table>
+<colgroup>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+<col width="14%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" rowspan="7"><p specific-use="wrapper">
+<disp-quote>
+<p>arXiv:1706.03762v7 [cs.CL] 2 Aug 2023</p>
+</disp-quote>
+</p></th>
+<th align="right"><bold>Ashish
+        Vaswani</bold><italic>∗</italic></th>
+<th align="left" colspan="2"/>
+<th align="left" colspan="2"/>
+<th align="center"><bold>Jakob
+        Uszkoreit</bold><italic>∗</italic></th>
+</tr>
+<tr>
+<th align="right">Google Brain</th>
+<th align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>Google Brain</p>
+</disp-quote>
+</p></th>
+<th align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>Google Research</p>
+</disp-quote>
+</p></th>
+<th align="center">Google Research</th>
+</tr>
+<tr>
+<th align="right">avaswani@google.com</th>
+<th align="center">noam@google.com</th>
+<th align="center" colspan="3">nikip@google.com</th>
+<th align="center">usz@google.com</th>
+</tr>
+<tr>
+<th align="right"><bold>Llion
+        Jones</bold><italic>∗</italic></th>
+<th align="left" colspan="2"/>
+<th align="right" colspan="3"><bold>Łukasz
+        Kaiser</bold><italic>∗</italic></th>
+</tr>
+<tr>
+<th align="right">Google Research</th>
+<th align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>University of Toronto</p>
+</disp-quote>
+</p></th>
+<th align="right" colspan="3">Google Brain</th>
+</tr>
+<tr>
+<th align="right">llion@google.com</th>
+<th align="center" colspan="3">aidan@cs.toronto.edu</th>
+<th align="left" colspan="2"/>
+</tr>
+<tr>
+<th align="center" colspan="6">
+
+<p specific-use="wrapper">
+<disp-quote>
+<p>The dominant sequence transduction models are based on
+            complex recurrent or convolutional neural networks that
+            include an encoder and a decoder.The best
+            performingmodelsalsoconnecttheencoderanddecoderthroughanattention
+            mechanism.Weproposeanewsimplenetworkarchitecture,theTransformer,
+            based solely on attention mechanisms, dispensing with
+            recurrence and convolutions
+            entirely.Experimentsontwomachinetranslationtasksshowthesemodelsto
+            be superior in quality while being more parallelizable and
+            requiring significantly
+            lesstimetotrain.Ourmodelachieves28.4BLEUontheWMT2014English-to-Germantranslationtask,improvingovertheexistingbestresults,including
+            ensembles, by over 2 BLEU. On the WMT 2014 English-to-French
+            translation task, our model establishes a new single-model
+            state-of-the-art BLEU score of 41.8 after training for 3.5
+            days on eight GPUs, a small fraction of the training costs
+            of the best models from the literature.We show that the
+            Transformer generalizes well to</p>
+</disp-quote>
+</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>other tasks by applying it successfully to English constituency
+  parsing both with large and limited training data.</p>
+<p><italic>∗</italic>Equal contribution.Listing order is random.Jakob
+  proposed replacing RNNs with self-attention and started the effort to
+  evaluate this idea.Ashish, with Illia, designed and implemented the
+  first Transformer models and has been crucially involved in every
+  aspect of this work.Noam proposed scaled dot-product attention,
+  multi-head attention and the parameter-free position representation
+  and became the other person involved in nearly every detail.Niki
+  designed, implemented, tuned and evaluated countless model variants in
+  our original codebase and tensor2tensor.Llion also experimented with
+  novel model variants, was responsible for our initial codebase, and
+  efficient inference and visualizations.Lukasz and Aidan spent
+  countless long days designing various parts of and implementing
+  tensor2tensor, replacing our earlier codebase, greatly improving
+  results and massively accelerating our research.</p>
+<p><italic>†</italic>Work performed while at Google Brain.</p>
+<p><italic>‡</italic>Work performed while at Google Research.</p>
+<p>31st Conference on Neural Information Processing Systems (NIPS
+  2017), Long Beach, CA, USA.</p>
+<p><bold>1</bold> <bold>Introduction</bold></p>
+<p>Recurrent neural networks, long short-term memory [13] and gated
+  recurrent [7] neural networks in particular, have been firmly
+  established as state of the art approaches in sequence modeling and
+  transduction problems such as language modeling and machine
+  translation [35, 2, 5].Numerous efforts have since continued to push
+  the boundaries of recurrent language models and encoder-decoder
+  architectures [38, 24, 15].</p>
+<p>Recurrent models typically factor computation along the symbol
+  positions of the input and output sequences.Aligning the positions to
+  steps in computation time, they generate a sequence of hidden states
+  <italic>ht</italic>, as a function of the previous hidden state
+  <italic>ht−</italic>1and the input for position
+  <italic>t</italic>.This inherently sequential nature precludes
+  parallelization within training examples, which becomes critical at
+  longer sequence lengths, as memory constraints limit batching across
+  examples.Recent work has achieved significant improvements in
+  computational efficiency through factorization tricks [21] and
+  conditional computation [32], while also improving model performance
+  in case of the latter.The fundamental constraint of sequential
+  computation, however, remains.</p>
+<p>Attention mechanisms have become an integral part of compelling
+  sequence modeling and transduc-tion models in various tasks, allowing
+  modeling of dependencies without regard to their distance in the input
+  or output sequences [2, 19].In all but a few cases [27], however, such
+  attention mechanisms are used in conjunction with a recurrent
+  network.</p>
+<p>In this work we propose the Transformer, a model architecture
+  eschewing recurrence and instead relying entirely on an attention
+  mechanism to draw global dependencies between input and output. The
+  Transformer allows for significantly more parallelization and can
+  reach a new state of the art in translation quality after being
+  trained for as little as twelve hours on eight P100 GPUs.</p>
+<p><bold>2</bold> <bold>Background</bold></p>
+<p>The goal of reducing sequential computation also forms the
+  foundation of the Extended Neural GPU [16], ByteNet [18] and ConvS2S
+  [9], all of which use convolutional neural networks as basic building
+  block, computing hidden representations in parallel for all input and
+  output positions.In these models, the number of operations required to
+  relate signals from two arbitrary input or output positions grows in
+  the distance between positions, linearly for ConvS2S and
+  logarithmically for ByteNet.This makes
+  itmoredifficulttolearndependenciesbetweendistantpositions[12].IntheTransformerthisis
+  reduced to a constant number of operations, albeit at the cost of
+  reduced effective resolution due
+  toaveragingattention-weightedpositions,aneffectwecounteractwithMulti-HeadAttentionas
+  described in section 3.2.</p>
+<p>Self-attention, sometimes called intra-attention is an attention
+  mechanism relating different positions of a single sequence in order
+  to compute a representation of the sequence.Self-attention has been
+  used successfully in a variety of tasks including reading
+  comprehension, abstractive summarization, textual entailment and
+  learning task-independent sentence representations [4, 27, 28,
+  22].</p>
+<p>End-to-end memory networks are based on a recurrent attention
+  mechanism instead of sequence-aligned recurrence and have been shown
+  to perform well on simple-language question answering and language
+  modeling tasks [34].</p>
+<p>Tothebestofourknowledge,however,theTransformeristhefirsttransductionmodelrelying
+  entirely on self-attention to compute representations of its input and
+  output without using sequence-aligned RNNs or convolution.In the
+  following sections, we will describe the Transformer, motivate
+  self-attention and discuss its advantages over models such as [17, 18]
+  and [9].</p>
+<p><bold>3</bold> <bold>Model Architecture</bold></p>
+<p>Most competitive neural sequence transduction models have an
+  encoder-decoder structure [5, 2, 35].
+  Here,theencodermapsaninputsequenceofsymbolrepresentations(<italic>x</italic>1<italic>,
+  ..., xn</italic>)toasequence
+  ofcontinuousrepresentations<bold>z</bold>=(<italic>z</italic>1<italic>,
+  ..., zn</italic>).Given<bold>z</bold>,thedecoderthengeneratesanoutput
+  sequence (<italic>y</italic>1<italic>, ..., ym</italic>) of symbols
+  one element at a time.At each step the model is auto-regressive [10],
+  consuming the previously generated symbols as additional input when
+  generating the next.</p>
+</disp-quote>
+<p>2</p>
+<graphic mime-subtype="png" mimetype="image" xlink:href="media/image1.png"/>
+<p>Figure 1:The Transformer - model architecture.</p>
+<disp-quote>
+<p>The Transformer follows this overall architecture using stacked
+  self-attention and point-wise, fully connected layers for both the
+  encoder and decoder, shown in the left and right halves of Figure 1,
+  respectively.</p>
+<p><bold>3.1</bold> <bold>Encoder and Decoder Stacks</bold></p>
+<p><bold>Encoder:</bold>
+  Theencoderiscomposedofastackof<italic>N</italic>=6identicallayers.Eachlayerhastwo
+  sub-layers.The first is a multi-head self-attention mechanism, and the
+  second is a simple, position-wise fully connected feed-forward
+  network.We employ a residual connection [11] around each of
+  thetwosub-layers,followedbylayernormalization[1].Thatis,theoutputofeachsub-layeris
+  LayerNorm(<italic>x</italic> + Sublayer(<italic>x</italic>)), where
+  Sublayer(<italic>x</italic>) is the function implemented by the
+  sub-layer itself.To facilitate these residual connections, all
+  sub-layers in the model, as well as the embedding layers, produce
+  outputs of dimension <italic>d</italic>model= 512.</p>
+<p><bold>Decoder:</bold> The decoder is also composed of a stack of
+  <italic>N</italic>= 6 identical layers.In addition to the two
+  sub-layers in each encoder layer, the decoder inserts a third
+  sub-layer, which performs multi-head attention over the output of the
+  encoder stack.Similar to the encoder, we employ residual connections
+  around each of the sub-layers, followed by layer normalization.We also
+  modify the self-attention
+  sub-layerinthedecoderstacktopreventpositionsfromattendingtosubsequentpositions.This
+  masking, combined with fact that the output embeddings are offset by
+  one position, ensures that the predictions for position
+  <italic>i</italic> can depend only on the known outputs at positions
+  less than <italic>i</italic>.</p>
+<p><bold>3.2</bold> <bold>Attention</bold></p>
+<p>An attention function can be described as mapping a query and a set
+  of key-value pairs to an output, where the query, keys, values, and
+  output are all vectors.The output is computed as a weighted sum</p>
+</disp-quote>
+<p>3</p>
+<disp-quote>
+<p>Scaled Dot-Product Attention Multi-Head Attention</p>
+<p><inline-graphic mime-subtype="png" mimetype="image" xlink:href="media/image2.png"/>
+<inline-graphic mime-subtype="png" mimetype="image" xlink:href="media/image3.png"/></p>
+<p>Figure2:(left)ScaledDot-ProductAttention.(right)Multi-HeadAttentionconsistsofseveral
+  attention layers running in parallel.</p>
+<p>of the values, where the weight assigned to each value is computed
+  by a compatibility function of the query with the corresponding
+  key.</p>
+<p><bold>3.2.1</bold> <bold>Scaled Dot-Product Attention</bold></p>
+<p>We call our particular attention "Scaled Dot-Product
+  Attention" (Figure 2).The input consists of queries and keys of
+  dimension <italic>dk</italic>, and values of dimension
+  <italic>dv</italic>.We compute the dot products of the query with all
+  keys, divide each by<italic>√dk</italic>, and apply a softmax function
+  to obtain the weights on the values.</p>
+<p>In practice, we compute the attention function on a set of queries
+  simultaneously, packed together into a matrix <italic>Q</italic>.The
+  keys and values are also packed together into matrices
+  <italic>K</italic>and <italic>V</italic> .We compute the matrix of
+  outputs as:</p>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="33%"/>
+<col width="33%"/>
+<col width="33%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="right">Attention(<italic>Q, K, V</italic> ) =
+        softmax(<italic>QKT√dk</italic></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>)<italic>V</italic></p>
+</disp-quote>
+</p></th>
+<th align="right">(1)</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+<p>The two most commonly used attention functions are additive attention
+[2], and dot-product (multi-</p>
+<table-wrap>
+<table>
+<colgroup>
+<col width="100%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>plicative) attention.Dot-product attention is identical
+            to our algorithm, except for the scaling factor
+            of<italic>√dk</italic> .Additive attention computes the
+            compatibility function using a feed-forward network with
+            1</p>
+</disp-quote>
+</p>
+<p>a single hidden layer.While the two are similar in
+        theoretical complexity, dot-product attention is</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>much faster and more space-efficient in practice, since it can be
+  implemented using highly optimized matrix multiplication code.</p>
+<p>While for small values of <italic>dk</italic>the two mechanisms
+  perform similarly, additive attention outperforms dot product
+  attention without scaling for larger values of
+  <italic>dk</italic>[3].We suspect that for large values of</p>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="50%"/>
+<col width="50%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p><italic>dk</italic>, the dot products grow large in
+            magnitude, pushing the softmax function into regions where
+            it has extremely small gradients4.To counteract this effect,
+            we scale the dot products by<italic>√dk</italic> . 1</p>
+</disp-quote>
+</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right"><bold>3.2.2</bold></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p><bold>Multi-Head Attention</bold></p>
+</disp-quote>
+</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>Instead of performing a single attention function with
+  <italic>d</italic>model-dimensional keys, values and queries, we found
+  it beneficial to linearly project the queries, keys and values
+  <italic>h</italic> times with different, learned linear projections to
+  <italic>dk</italic>, <italic>dk</italic>and
+  <italic>dv</italic>dimensions, respectively.On each of these projected
+  versions of queries, keys and values we then perform the attention
+  function in parallel, yielding <italic>dv</italic>-dimensional</p>
+<p>4To illustrate why the dot products get large, assume that the
+  components of <italic>q</italic> and <italic>k</italic> are
+  independent random variables with mean 0 and variance 1.Then their dot
+  product, <italic>q · k</italic>=P<italic>dk
+  i</italic>=1<italic>qiki</italic>, has mean 0 and variance
+  <italic>dk</italic>.</p>
+</disp-quote>
+<p>4</p>
+<disp-quote>
+<p>outputvalues.Theseareconcatenatedandonceagainprojected,resultinginthefinalvalues,as
+  depicted in Figure 2.</p>
+<p>Multi-head attention allows the model to jointly attend to
+  information from different representation subspaces at different
+  positions.With a single attention head, averaging inhibits this.</p>
+<p>MultiHead(<italic>Q, K, V</italic> ) = Concat(head1<italic>,
+  ...,</italic> headh)<italic>WO</italic></p>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="25%"/>
+<col width="25%"/>
+<col width="25%"/>
+<col width="25%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="right" colspan="3">where headi= Attention(<italic>QWQ
+        i, KW K i, V W V i</italic>)</th>
+<th align="left" rowspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p><italic>∈</italic>R<italic>d</italic>model<italic>×dv</italic></p>
+</disp-quote>
+</p></th>
+</tr>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>Where the projections are parameter matrices <italic>WQ
+            i</italic></p>
+<p>and <italic>WO∈</italic>R<italic>hdv×d</italic>model.</p>
+</disp-quote>
+</p></th>
+<th align="center"><italic>∈</italic>R<italic>d</italic>model<italic>×dk</italic>,
+        <italic>WK i</italic></th>
+<th align="center"><italic>∈</italic>R<italic>d</italic>model<italic>×dk</italic>,
+        <italic>WV i</italic></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>Inthisworkweemploy<italic>h</italic>=8parallelattentionlayers,orheads.Foreachoftheseweuse
+  <italic>dk</italic>= <italic>dv</italic>=
+  <italic>d</italic>model<italic>/h</italic> = 64.Due to the reduced
+  dimension of each head, the total computational cost is similar to
+  that of single-head attention with full dimensionality.</p>
+<p><bold>3.2.3</bold> <bold>Applications of Attention in our
+  Model</bold></p>
+<p>The Transformer uses multi-head attention in three different
+  ways:</p>
+<p>•In "encoder-decoder attention" layers, the queries come
+  from the previous decoder layer, and the memory keys and values come
+  from the output of the encoder.This allows every position in the
+  decoder to attend over all positions in the input sequence.This mimics
+  the
+  typicalencoder-decoderattentionmechanismsinsequence-to-sequencemodelssuchas
+  [38, 2, 9].</p>
+<p>•The encoder contains self-attention layers.In a self-attention
+  layer all of the keys, values and queries come from the same place, in
+  this case, the output of the previous layer in the encoder.Each
+  position in the encoder can attend to all positions in the previous
+  layer of the encoder.</p>
+<p>•Similarly, self-attention layers in the decoder allow each
+  position in the decoder to attend to all positions in the decoder up
+  to and including that position.We need to prevent leftward information
+  flow in the decoder to preserve the auto-regressive property.We
+  implement this inside of scaled dot-product attention by masking out
+  (setting to <italic>−∞</italic>) all values in the input of the
+  softmax which correspond to illegal connections.See Figure 2.</p>
+<p><bold>3.3</bold> <bold>Position-wise Feed-Forward
+  Networks</bold></p>
+<p>In addition to attention sub-layers, each of the layers in our
+  encoder and decoder contains a fully connected feed-forward network,
+  which is applied to each position separately and identically.This
+  consists of two linear transformations with a ReLU activation in
+  between.</p>
+<p>FFN(<italic>x</italic>) = max(0<italic>, xW</italic>1 +
+  <italic>b</italic>1)<italic>W</italic>2 + <italic>b</italic>2 (2)</p>
+<p>While the linear transformations are the same across different
+  positions, they use different parameters
+  fromlayertolayer.Anotherwayofdescribingthisisastwoconvolutionswithkernelsize1.
+  Thedimensionalityofinputandoutputis<italic>d</italic>model=512,andtheinner-layerhasdimensionality
+  <italic>dff</italic>= 2048.</p>
+<p><bold>3.4</bold> <bold>Embeddings and Softmax</bold></p>
+<p>Similarly to other sequence transduction models, we use learned
+  embeddings to convert the input tokens and output tokens to vectors of
+  dimension <italic>d</italic>model.We also use the usual learned linear
+  transfor-mation and softmax function to convert the decoder output to
+  predicted next-token probabilities.In our model, we share the same
+  weight matrix between the two embedding layers and the pre-softmax
+  linear transformation, similar to [30].In the embedding layers, we
+  multiply those weights by<italic>√d</italic>model.</p>
+</disp-quote>
+<p>5</p>
+<disp-quote>
+<p>Table 1:Maximum path lengths, per-layer complexity and minimum
+  number of sequential operations for different layer
+  types.<italic>n</italic> is the sequence length, <italic>d</italic> is
+  the representation dimension, <italic>k</italic> is the kernel size of
+  convolutions and <italic>r</italic> the size of the neighborhood in
+  restricted self-attention.</p>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="25%"/>
+<col width="25%"/>
+<col width="25%"/>
+<col width="25%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>Layer Type</p>
+</disp-quote>
+</p></th>
+<th align="right">Complexity per Layer</th>
+<th align="center">Sequential</th>
+<th align="center">Maximum Path Length</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+<p>Operations</p>
+<table-wrap>
+<table>
+<colgroup>
+<col width="20%"/>
+<col width="20%"/>
+<col width="20%"/>
+<col width="20%"/>
+<col width="20%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="right" rowspan="4"/>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>Self-Attention</p>
+</disp-quote>
+</p></th>
+<th align="center"><italic>O</italic>(<italic>n</italic>2<italic>·
+        d</italic>)</th>
+<th align="center"><italic>O</italic>(1)</th>
+<th align="right"><italic>O</italic>(1)</th>
+</tr>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>Recurrent</p>
+</disp-quote>
+</p></th>
+<th align="center"><italic>O</italic>(<italic>n ·
+        d</italic>2)</th>
+<th align="center"><italic>O</italic>(<italic>n</italic>)</th>
+<th align="right"><italic>O</italic>(<italic>n</italic>)</th>
+</tr>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>Convolutional</p>
+</disp-quote>
+</p></th>
+<th align="center"><italic>O</italic>(<italic>k · n ·
+        d</italic>2)</th>
+<th align="center"><italic>O</italic>(1)</th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p><italic>O</italic>(<italic>logk</italic>(<italic>n</italic>))</p>
+</disp-quote>
+</p></th>
+</tr>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>Self-Attention (restricted)</p>
+</disp-quote>
+</p></th>
+<th align="center"><italic>O</italic>(<italic>r · n ·
+        d</italic>)</th>
+<th align="center"><italic>O</italic>(1)</th>
+<th align="right"><italic>O</italic>(<italic>n/r</italic>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right"><bold>3.5</bold></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p><bold>Positional Encoding</bold></p>
+</disp-quote>
+</p></td>
+<td/>
+<td/>
+<td/>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>Since our model contains no recurrence and no convolution, in order
+  for the model to make use of the order of the sequence, we must inject
+  some information about the relative or absolute position of the tokens
+  in the sequence.To this end, we add "positional encodings"
+  to the input embeddings at the bottoms of the encoder and decoder
+  stacks.The positional encodings have the same dimension
+  <italic>d</italic>model as the embeddings, so that the two can be
+  summed.There are many choices of positional encodings, learned and
+  fixed [9].</p>
+<p>In this work, we use sine and cosine functions of different
+  frequencies:</p>
+</disp-quote>
+<p><italic>PE</italic>(<italic>pos,</italic>2<italic>i</italic>)=
+<italic>sin</italic>(<italic>pos/</italic>100002<italic>i/d</italic>model)</p>
+<p><italic>PE</italic>(<italic>pos,</italic>2<italic>i</italic>+1)=
+<italic>cos</italic>(<italic>pos/</italic>100002<italic>i/d</italic>model)</p>
+<disp-quote>
+<p>where <italic>pos</italic> is the position and <italic>i</italic>
+  is the dimension.That is, each dimension of the positional encoding
+  corresponds to a sinusoid.The wavelengths form a geometric progression
+  from 2<italic>π</italic> to 10000 <italic>·</italic>
+  2<italic>π</italic>.We chose this function because we hypothesized it
+  would allow the model to easily learn to attend by relative positions,
+  since for any fixed offset <italic>k</italic>,
+  <italic>PEpos</italic>+<italic>k</italic>can be represented as a
+  linear function of <italic>PEpos</italic>.</p>
+<p>We also experimented with using learned positional embeddings [9]
+  instead, and found that the two versions produced nearly identical
+  results (see Table 3 row (E)). We chose the sinusoidal version because
+  it may allow the model to extrapolate to sequence lengths longer than
+  the ones encountered during training.</p>
+<p><bold>4</bold> <bold>Why Self-Attention</bold></p>
+<p>Inthissectionwecomparevariousaspectsofself-attentionlayerstotherecurrentandconvolu-tional
+  layers commonly used for mapping one variable-length sequence of
+  symbol representations (<italic>x</italic>1<italic>, ...,
+  xn</italic>)toanothersequenceofequallength(<italic>z</italic>1<italic>,
+  ..., zn</italic>),with<italic>xi,
+  zi∈</italic>R<italic>d</italic>,suchasahidden layer in a typical
+  sequence transduction encoder or decoder.Motivating our use of
+  self-attention we consider three desiderata.</p>
+<p>One is the total computational complexity per layer.Another is the
+  amount of computation that can be parallelized, as measured by the
+  minimum number of sequential operations required.</p>
+<p>The third is the path length between long-range dependencies in the
+  network.Learning long-range dependencies is a key challenge in many
+  sequence transduction tasks.One key factor affecting the ability to
+  learn such dependencies is the length of the paths forward and
+  backward signals have to traverse in the network.The shorter these
+  paths between any combination of positions in the input and output
+  sequences, the easier it is to learn long-range dependencies
+  [12].Hence we also compare the maximum path length between any two
+  input and output positions in networks composed of the different layer
+  types.</p>
+<p>As noted in Table 1, a self-attention layer connects all positions
+  with a constant number of sequentially
+  executedoperations,whereasarecurrentlayerrequires<italic>O</italic>(<italic>n</italic>)sequentialoperations.Intermsof
+  computational complexity, self-attention layers are faster than
+  recurrent layers when the sequence</p>
+</disp-quote>
+<p>6</p>
+<disp-quote>
+<p>length<italic>n</italic>issmallerthantherepresentationdimensionality<italic>d</italic>,whichismostoftenthecasewith
+  sentence representations used by state-of-the-art models in machine
+  translations, such as word-piece [38] and byte-pair [31]
+  representations.To improve computational performance for tasks
+  involving very long sequences, self-attention could be restricted to
+  considering only a neighborhood of size <italic>r</italic> in the
+  input sequence centered around the respective output position.This
+  would increase the maximum path length to
+  <italic>O</italic>(<italic>n/r</italic>).We plan to investigate this
+  approach further in future work.</p>
+<p>A single convolutional layer with kernel width <italic>k&lt;
+  n</italic> does not connect all pairs of input and output
+  positions.Doing so requires a stack of
+  <italic>O</italic>(<italic>n/k</italic>) convolutional layers in the
+  case of contiguous kernels, or
+  <italic>O</italic>(<italic>logk</italic>(<italic>n</italic>)) in the
+  case of dilated convolutions [18],increasing the length of the longest
+  paths between any two positions in the network.Convolutional layers
+  are generally more expensive than
+  recurrentlayers,byafactorof<italic>k</italic>.Separableconvolutions[6],however,decreasethecomplexity
+  considerably,to <italic>O</italic>(<italic>k · n · d</italic> +
+  <italic>n · d</italic>2).Even with
+  <italic>k</italic>=<italic>n</italic>,however,the complexity of a
+  separable convolution is equal to the combination of a self-attention
+  layer and a point-wise feed-forward layer, the approach we take in our
+  model.</p>
+<p>As side benefit, self-attention could yield more interpretable
+  models. We inspect attention distributions from our models and present
+  and discuss examples in the appendix.Not only do individual attention
+  heads clearly learn to perform different tasks, many appear to exhibit
+  behavior related to the syntactic and semantic structure of the
+  sentences.</p>
+<p><bold>5</bold> <bold>Training</bold></p>
+<p>This section describes the training regime for our models.</p>
+<p><bold>5.1</bold> <bold>Training Data and Batching</bold></p>
+<p>WetrainedonthestandardWMT2014English-Germandatasetconsistingofabout4.5million
+  sentence pairs.Sentences were encoded using byte-pair encoding [3],
+  which has a shared source-target vocabulary of about 37000 tokens.For
+  English-French, we used the significantly larger WMT 2014
+  English-French dataset consisting of 36M sentences and split tokens
+  into a 32000 word-piece vocabulary [38].Sentence pairs were batched
+  together by approximate sequence length.Each training batch contained
+  a set of sentence pairs containing approximately 25000 source tokens
+  and 25000 target tokens.</p>
+<p><bold>5.2</bold> <bold>Hardware and Schedule</bold></p>
+<p>We trained our models on one machine with 8 NVIDIA P100 GPUs.For
+  our base models using the hyperparameters described throughout the
+  paper, each training step took about 0.4 seconds.We trained the base
+  models for a total of 100,000 steps or 12 hours.For our big
+  models,(described on the bottom line of table 3), step time was 1.0
+  seconds.The big models were trained for 300,000 steps (3.5 days).</p>
+<p><bold>5.3</bold> <bold>Optimizer</bold></p>
+<p>We used the Adam optimizer [20] with <italic>β</italic>1=
+  0<italic>.</italic>9, <italic>β</italic>2= 0<italic>.</italic>98 and
+  <italic>ϵ</italic> = 10<italic>−</italic>9.We varied the learning rate
+  over the course of training, according to the formula:</p>
+<p><italic>lrate</italic> = <italic>d−</italic>0<italic>.</italic>5
+  model<italic>·</italic>
+  min(<italic>step</italic>_<italic>num−</italic>0<italic>.</italic>5<italic>,
+  step</italic>_<italic>num ·
+  warmup</italic>_<italic>steps−</italic>1<italic>.</italic>5) (3)</p>
+<p>This corresponds to increasing the learning rate linearly for the
+  first <italic>warmup</italic>_<italic>steps</italic> training steps,
+  and decreasing it thereafter proportionally to the inverse square root
+  of the step number.We used
+  <italic>warmup</italic>_<italic>steps</italic> = 4000.</p>
+<p><bold>5.4</bold> <bold>Regularization</bold></p>
+<p>We employ three types of regularization during training:</p>
+</disp-quote>
+<p>7</p>
+<disp-quote>
+<p>Table 2:The Transformer achieves better BLEU scores than previous
+  state-of-the-art models on the English-to-German and English-to-French
+  newstest2014 tests at a fraction of the training cost.</p>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="12%"/>
+<col width="12%"/>
+<col width="12%"/>
+<col width="12%"/>
+<col width="12%"/>
+<col width="12%"/>
+<col width="12%"/>
+<col width="12%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left" colspan="2" rowspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>Model</p>
+</disp-quote>
+</p></th>
+<th align="center" colspan="3">BLEU</th>
+<th align="left" colspan="3"><p specific-use="wrapper">
+<disp-quote>
+<p>Training Cost (FLOPs)</p>
+</disp-quote>
+</p></th>
+</tr>
+<tr>
+<th align="center">EN-DE</th>
+<th align="center" colspan="2">EN-FR</th>
+<th align="center" colspan="2">EN-DE</th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>EN-FR</p>
+</disp-quote>
+</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>ByteNet [18]</p>
+</disp-quote>
+</p></td>
+<td align="left" colspan="6"><p specific-use="wrapper">
+<disp-quote>
+<p>23.75</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="center" colspan="2">Deep-Att + PosUnk [39]</td>
+<td align="right" colspan="2">39.2</td>
+<td align="right" colspan="4">1<italic>.</italic>0
+        <italic>·</italic> 1020</td>
+</tr>
+<tr>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>GNMT + RL [38]</p>
+</disp-quote>
+</p></td>
+<td align="center">24.6</td>
+<td align="right">39.92</td>
+<td align="right" colspan="2">2<italic>.</italic>3
+        <italic>·</italic> 1019</td>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>1<italic>.</italic>4 <italic>·</italic> 1020</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>ConvS2S [9]</p>
+</disp-quote>
+</p></td>
+<td align="center">25.16</td>
+<td align="right">40.46</td>
+<td align="right" colspan="2">9<italic>.</italic>6
+        <italic>·</italic> 1018</td>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>1<italic>.</italic>5 <italic>·</italic> 1020</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>MoE [32]</p>
+</disp-quote>
+</p></td>
+<td align="center">26.03</td>
+<td align="right">40.56</td>
+<td align="right" colspan="2">2<italic>.</italic>0
+        <italic>·</italic> 1019</td>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>1<italic>.</italic>2 <italic>·</italic> 1020</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>Deep-Att + PosUnk Ensemble [39]</p>
+</disp-quote>
+</p></td>
+<td align="right" colspan="2">40.4</td>
+<td align="right" colspan="4">8<italic>.</italic>0
+        <italic>·</italic> 1020</td>
+</tr>
+<tr>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>GNMT + RL Ensemble [38]</p>
+</disp-quote>
+</p></td>
+<td align="center">26.30</td>
+<td align="right">41.16</td>
+<td align="right" colspan="2">1<italic>.</italic>8
+        <italic>·</italic> 1020</td>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>1<italic>.</italic>1 <italic>·</italic> 1021</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>ConvS2S Ensemble [9]</p>
+</disp-quote>
+</p></td>
+<td align="center">26.36</td>
+<td align="right"><bold>41.29</bold></td>
+<td align="right" colspan="2">7<italic>.</italic>7
+        <italic>·</italic> 1019</td>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>1<italic>.</italic>2 <italic>·</italic> 1021</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="center" colspan="2">Transformer (base model)</td>
+<td align="center">27.3</td>
+<td align="right">38.1</td>
+<td align="right" colspan="4"><bold>3<italic>.</italic>3
+        <italic>·</italic> 1018</bold></td>
+</tr>
+<tr>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>Transformer (big)</p>
+</disp-quote>
+</p></td>
+<td align="center" rowspan="2"><bold>28.4</bold></td>
+<td align="right" rowspan="2"><bold>41.8</bold></td>
+<td align="right" colspan="4" rowspan="2">2<italic>.</italic>3
+        <italic>·</italic> 1019</td>
+</tr>
+<tr>
+<td align="left" colspan="2"/>
+</tr>
+<tr>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p><bold>Residual Dropout</bold></p>
+</disp-quote>
+</p></td>
+<td align="left" colspan="7"><p specific-use="wrapper">
+<disp-quote>
+<p>We apply dropout [33] to the output of each sub-layer,
+            before it is added to the</p>
+</disp-quote>
+</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>sub-layer input and normalized.In addition, we apply dropout to the
+  sums of the embeddings and the positional encodings in both the
+  encoder and decoder stacks.For the base model, we use a rate of
+  <italic>Pdrop</italic>= 0<italic>.</italic>1.</p>
+<p><bold>Label Smoothing</bold> During training, we employed label
+  smoothing of value <italic>ϵls</italic>=0<italic>.</italic>1 [36].This
+  hurts perplexity, as the model learns to be more unsure, but improves
+  accuracy and BLEU score.</p>
+<p><bold>6</bold> <bold>Results</bold></p>
+<p><bold>6.1</bold> <bold>Machine Translation</bold></p>
+<p>On the WMT 2014 English-to-German translation task, the big
+  transformer model (Transformer (big) in Table 2) outperforms the best
+  previously reported models (including ensembles) by more than
+  2<italic>.</italic>0 BLEU, establishing a new state-of-the-art BLEU
+  score of 28<italic>.</italic>4.The configuration of this model is
+  listed in the bottom line of Table 3.Training took
+  3<italic>.</italic>5 days on 8 P100 GPUs.Even our base model surpasses
+  all previously published models and ensembles, at a fraction of the
+  training cost of any of the competitive models.</p>
+<p>On the WMT 2014 English-to-French translation task, our big model
+  achieves a BLEU score of 41<italic>.</italic>0, outperforming all of
+  the previously published single models, at less than
+  1<italic>/</italic>4 the training cost of the previous
+  state-of-the-art model.The Transformer (big) model trained for
+  English-to-French used dropout rate <italic>Pdrop</italic>=
+  0<italic>.</italic>1, instead of 0<italic>.</italic>3.</p>
+<p>For the base models, we used a single model obtained by averaging
+  the last 5 checkpoints, which were written at 10-minute intervals.For
+  the big models, we averaged the last 20 checkpoints.We used beam
+  search with a beam size of 4 and length penalty
+  <italic>α</italic>=0<italic>.</italic>6 [38].These hyperparameters
+  were chosen after experimentation on the development set.We set the
+  maximum output length during inference to input length + 50, but
+  terminate early when possible [38].</p>
+<p>Table 2 summarizes our results and compares our translation quality
+  and training costs to other model architectures from the literature.We
+  estimate the number of floating point operations used to train a model
+  by multiplying the training time, the number of GPUs used, and an
+  estimate of the sustained single-precision floating-point capacity of
+  each GPU5.</p>
+<p><bold>6.2</bold> <bold>Model Variations</bold></p>
+<p>To evaluate the importance of different components of the
+  Transformer, we varied our base model in different ways, measuring the
+  change in performance on English-to-German translation on the</p>
+<p>5We used values of 2.8, 3.7, 6.0 and 9.5 TFLOPS for K80, K40, M40
+  and P100, respectively.</p>
+</disp-quote>
+<p>8</p>
+<disp-quote>
+<p>Table 3:Variations on the Transformer architecture.Unlisted values
+  are identical to those of the base model.All metrics are on the
+  English-to-German translation development set, newstest2013.Listed
+  perplexities are per-wordpiece, according to our byte-pair encoding,
+  and should not be compared to per-word perplexities.</p>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="33%"/>
+<col width="33%"/>
+<col width="33%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center"/>
+<th><p specific-use="wrapper">
+<table-wrap>
+<table>
+<colgroup>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center" rowspan="2"><italic>N</italic></th>
+<th align="center" rowspan="2"><italic>d</italic>model</th>
+<th align="center" rowspan="2"><italic>d</italic>ff</th>
+<th align="center" rowspan="2"><italic>h</italic></th>
+<th align="center" rowspan="2"><italic>dk</italic></th>
+<th align="center" rowspan="2"><italic>dv</italic></th>
+<th align="center" rowspan="2"><italic>Pdrop</italic></th>
+<th align="center" rowspan="2"><italic>ϵls</italic></th>
+<th align="right">train</th>
+</tr>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>steps</p>
+</disp-quote>
+</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+</p></th>
+<th><p specific-use="wrapper">
+<table-wrap>
+<table>
+<colgroup>
+<col width="8%"/>
+<col width="8%"/>
+<col width="8%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center">PPL</th>
+<th align="center">BLEU</th>
+<th align="center">params</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">(dev)</td>
+<td align="center">(dev)</td>
+<td align="center"><italic>×</italic>106</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">base</td>
+<td><p specific-use="wrapper">
+<table-wrap>
+<table>
+<colgroup>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+<col width="6%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>6</p>
+</disp-quote>
+</p></th>
+<th align="center">512</th>
+<th align="center">2048</th>
+<th align="center">8</th>
+<th align="center">64</th>
+<th align="center">64</th>
+<th align="center">0.1</th>
+<th align="center">0.1</th>
+<th align="center">100K</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+</p></td>
+<td><p specific-use="wrapper">
+<table-wrap>
+<table>
+<colgroup>
+<col width="8%"/>
+<col width="8%"/>
+<col width="8%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>4.92</p>
+</disp-quote>
+</p></th>
+<th align="center">25.8</th>
+<th align="right">65</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+</p></td>
+</tr>
+<tr>
+<td align="center">(A)</td>
+<td><p specific-use="wrapper">
+<table-wrap>
+<table>
+<colgroup>
+<col width="18%"/>
+<col width="18%"/>
+<col width="18%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="right">1</th>
+<th align="center">512</th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>512</p>
+</disp-quote>
+</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">4</td>
+<td align="center">128</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>128</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td align="center">32</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>32</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td align="center">16</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>16</p>
+</disp-quote>
+</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>5.29 24.9</p>
+<p>5.00 25.5</p>
+<p>4.91 25.8</p>
+<p>5.01 25.4</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="center">(B)</td>
+<td align="right"><p specific-use="wrapper">
+<disp-quote>
+<p>16
+            32</p>
+</disp-quote>
+</p></td>
+<td><p specific-use="wrapper">
+<table-wrap>
+<table>
+<colgroup>
+<col width="8%"/>
+<col width="8%"/>
+<col width="8%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>5.16</p>
+</disp-quote>
+</p></th>
+<th align="center">25.1</th>
+<th align="right">58</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>5.01</p>
+</disp-quote>
+</p></td>
+<td align="center">25.4</td>
+<td align="right">60</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</p></td>
+</tr>
+<tr>
+<td align="center">(C)</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>2
+            4
+            8</p>
+</disp-quote>
+</p>
+<p specific-use="wrapper">
+<table-wrap>
+<table>
+<colgroup>
+<col width="18%"/>
+<col width="18%"/>
+<col width="18%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="right">256</th>
+<th align="right">32</th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>32</p>
+</disp-quote>
+</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>1024</p>
+</disp-quote>
+</p></td>
+<td align="right">128</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>128</p>
+</disp-quote>
+</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</p>
+<p specific-use="wrapper">
+<disp-quote>
+<p>1024
+            4096</p>
+</disp-quote>
+</p></td>
+<td><p specific-use="wrapper">
+<table-wrap>
+<table>
+<colgroup>
+<col width="8%"/>
+<col width="8%"/>
+<col width="8%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>6.11</p>
+</disp-quote>
+</p></th>
+<th align="center">23.7</th>
+<th align="right">36</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>5.19</p>
+</disp-quote>
+</p></td>
+<td align="center">25.3</td>
+<td align="right">50</td>
+</tr>
+<tr>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>4.88</p>
+</disp-quote>
+</p></td>
+<td align="center">25.5</td>
+<td align="right">80</td>
+</tr>
+<tr>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>5.75</p>
+</disp-quote>
+</p></td>
+<td align="center">24.5</td>
+<td align="right">28</td>
+</tr>
+<tr>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>4.66</p>
+</disp-quote>
+</p></td>
+<td align="center">26.0</td>
+<td align="right">168</td>
+</tr>
+<tr>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>5.12</p>
+</disp-quote>
+</p></td>
+<td align="center">25.4</td>
+<td align="right">53</td>
+</tr>
+<tr>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>4.75</p>
+</disp-quote>
+</p></td>
+<td align="center">26.2</td>
+<td align="right">90</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+</p></td>
+</tr>
+<tr>
+<td align="center">(D)</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>0.0
+            0.2
+            0.0
+            0.2</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>5.77 24.6
+            4.95 25.5
+            4.67 25.3
+            5.47 25.7</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="center">(E)</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>positional embedding instead of sinusoids</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>4.92 25.7</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="center">big</td>
+<td><p specific-use="wrapper">
+<table-wrap>
+<table>
+<colgroup>
+<col width="9%"/>
+<col width="9%"/>
+<col width="9%"/>
+<col width="9%"/>
+<col width="9%"/>
+<col width="9%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center">6</th>
+<th align="center">1024</th>
+<th align="center">4096</th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>16</p>
+</disp-quote>
+</p></th>
+<th align="right">0.3</th>
+<th align="right">300K</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+</p></td>
+<td><p specific-use="wrapper">
+<table-wrap>
+<table>
+<colgroup>
+<col width="8%"/>
+<col width="8%"/>
+<col width="8%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p><bold>4.33</bold></p>
+</disp-quote>
+</p></th>
+<th align="center"><bold>26.4</bold></th>
+<th align="right">213</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>development set, newstest2013.We used beam search as described in
+  the previous section, but no checkpoint averaging.We present these
+  results in Table 3.</p>
+<p>In Table 3 rows (A), we vary the number of attention heads and the
+  attention key and value dimensions,
+  keepingtheamountofcomputationconstant,asdescribedinSection3.2.2.Whilesingle-head
+  attention is 0.9 BLEU worse than the best setting, quality also drops
+  off with too many heads.</p>
+<p>In Table 3 rows (B), we observe that reducing the attention key
+  size <italic>dk</italic>hurts model quality.This
+  suggeststhatdeterminingcompatibilityisnoteasyandthatamoresophisticatedcompatibility
+  function than dot product may be beneficial.We further observe in rows
+  (C) and (D) that, as expected, bigger models are better, and dropout
+  is very helpful in avoiding over-fitting. In row (E) we replace our
+  sinusoidal positional encoding with learned positional embeddings [9],
+  and observe nearly identical results to the base model.</p>
+<p><bold>6.3</bold> <bold>English Constituency Parsing</bold></p>
+<p>To evaluate if the Transformer can generalize to other tasks we
+  performed experiments on English constituency parsing.This task
+  presents specific challenges:the output is subject to strong
+  structural
+  constraintsandissignificantlylongerthantheinput.Furthermore,RNNsequence-to-sequence
+  models have not been able to attain state-of-the-art results in
+  small-data regimes [37].</p>
+<p>We trained a 4-layer transformer with <italic>dmodel</italic>= 1024
+  on the Wall Street Journal (WSJ) portion of the Penn Treebank [25],
+  about 40K training sentences.We also trained it in a semi-supervised
+  setting, using the larger high-confidence and BerkleyParser corpora
+  from with approximately 17M sentences [37].We used a vocabulary of 16K
+  tokens for the WSJ only setting and a vocabulary of 32K tokens for the
+  semi-supervised setting.</p>
+<p>We performed only a small number of experiments to select the
+  dropout, both attention and residual (section 5.4), learning rates and
+  beam size on the Section 22 development set, all other parameters
+  remainedunchangedfromtheEnglish-to-Germanbasetranslationmodel.Duringinference,we</p>
+</disp-quote>
+<p>9</p>
+<disp-quote>
+<p>Table 4:The Transformer generalizes well to English constituency
+  parsing (Results are on Section 23 of WSJ)</p>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="33%"/>
+<col width="33%"/>
+<col width="33%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="center"><bold>Parser</bold></th>
+<th align="center"><bold>Training</bold></th>
+<th align="center"><bold>WSJ 23 F1</bold></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Vinyals &amp; Kaiser el al.(2014) [37] Petrov
+        et al.(2006) [29]<break/>Zhu et al.(2013) [40]<break/>Dyer et
+        al.(2016) [8]</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>WSJ only, discriminative WSJ only, discriminative WSJ
+            only, discriminative WSJ only, discriminative</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>88.3
+            90.4
+            90.4
+            91.7</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="center">Transformer (4 layers)</td>
+<td align="center">WSJ only, discriminative</td>
+<td align="center">91.3</td>
+</tr>
+<tr>
+<td align="center">Zhu et al.(2013) [40]<break/>Huang &amp;
+        Harper (2009) [14]<break/>McClosky et al.(2006)
+        [26]<break/>Vinyals &amp; Kaiser el al.(2014) [37]</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>semi-supervised semi-supervised semi-supervised
+            semi-supervised</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>91.3
+            91.3
+            92.1
+            92.1</p>
+</disp-quote>
+</p></td>
+</tr>
+<tr>
+<td align="center">Transformer (4 layers)</td>
+<td align="center">semi-supervised</td>
+<td align="center">92.7</td>
+</tr>
+<tr>
+<td align="center"><p specific-use="wrapper">
+<disp-quote>
+<p>Luong et al.(2015) [23] Dyer et al.(2016) [8]</p>
+</disp-quote>
+</p></td>
+<td align="center"><p specific-use="wrapper">
+<disp-quote>
+<p>multi-task
+            generative</p>
+</disp-quote>
+</p></td>
+<td align="center"><p specific-use="wrapper">
+<disp-quote>
+<p>93.0
+            93.3</p>
+</disp-quote>
+</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>increased the maximum output length to input length + 300.We used a
+  beam size of 21 and <italic>α</italic> = 0<italic>.</italic>3 for both
+  WSJ only and the semi-supervised setting.</p>
+<p>OurresultsinTable4showthatdespitethelackoftask-specifictuningourmodelperformssur-prisingly
+  well, yielding better results than all previously reported models with
+  the exception of the Recurrent Neural Network Grammar [8].</p>
+<p>In contrast to RNN sequence-to-sequence models [37], the
+  Transformer outperforms the Berkeley-Parser [29] even when training
+  only on the WSJ training set of 40K sentences.</p>
+<p><bold>7</bold> <bold>Conclusion</bold></p>
+<p>In this work, we presented the Transformer, the first sequence
+  transduction model based entirely on attention, replacing the
+  recurrent layers most commonly used in encoder-decoder architectures
+  with multi-headed self-attention.</p>
+<p>For translation tasks,the Transformer can be trained significantly
+  faster than architectures based
+  onrecurrentorconvolutionallayers.OnbothWMT2014English-to-GermanandWMT2014
+  English-to-French translation tasks, we achieve a new state of the
+  art.In the former task our best model outperforms even all previously
+  reported ensembles.</p>
+<p>We are excited about the future of attention-based models and plan
+  to apply them to other tasks.We plan to extend the Transformer to
+  problems involving input and output modalities other than text and to
+  investigate local, restricted attention mechanisms to efficiently
+  handle large inputs and outputs such as images, audio and video.Making
+  generation less sequential is another research goals of ours.</p>
+<p>Thecodeweusedtotrainandevaluateourmodelsisavailableat.</p>
+<p><bold>Acknowledgements</bold> We are grateful to Nal Kalchbrenner
+  and Stephan Gouws for their fruitful comments, corrections and
+  inspiration.</p>
+<p><bold>References</bold></p>
+<p>[1]Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E Hinton.Layer
+  normalization.<italic>arXiv preprint</italic> , 2016.</p>
+<p>[2]Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.Neural
+  machine translation by jointly learning to align and
+  translate.<italic>CoRR</italic>, abs/1409.0473, 2014.</p>
+<p>[3]Denny Britz, Anna Goldie, Minh-Thang Luong, and Quoc V.
+  Le.Massive exploration of neural machine translation
+  architectures.<italic>CoRR</italic>, abs/1703.03906, 2017.</p>
+<p>[4]Jianpeng Cheng, Li Dong, and Mirella Lapata.Long short-term
+  memory-networks for machine reading.<italic>arXiv preprint</italic> ,
+  2016.</p>
+</disp-quote>
+<p>10</p>
+<disp-quote>
+<p>[5]Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Fethi
+  Bougares, Holger Schwenk, and Yoshua Bengio.Learning phrase
+  representations using rnn encoder-decoder for statistical machine
+  translation.<italic>CoRR</italic>, abs/1406.1078, 2014.</p>
+<p>[6]FrancoisChollet.Xception:Deeplearningwithdepthwiseseparableconvolutions.<italic>arXiv
+  preprint</italic> , 2016.</p>
+<p>[7]Junyoung Chung, Çaglar Gülçehre, Kyunghyun Cho, and Yoshua
+  Bengio.Empirical evaluation of gated recurrent neural networks on
+  sequence modeling.<italic>CoRR</italic>, abs/1412.3555, 2014.</p>
+<p>[8]ChrisDyer,AdhigunaKuncoro,MiguelBallesteros,andNoahA.Smith.Recurrentneural
+  network grammars.In <italic>Proc. of NAACL</italic>, 2016.</p>
+<p>[9]Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, and
+  Yann N. Dauphin.Convolu-tional sequence to sequence
+  learning.<italic>arXiv preprint v2</italic>, 2017.</p>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="33%"/>
+<col width="33%"/>
+<col width="33%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>[10]AlexGraves.</p>
+</disp-quote>
+</p></th>
+<th align="center">Generatingsequenceswithrecurrentneuralnetworks.</th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p><italic>arXivpreprint</italic></p>
+</disp-quote>
+</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>, 2013.</p>
+<p>[11]KaimingHe,XiangyuZhang,ShaoqingRen,andJianSun.Deepresiduallearningforim-agerecognition.In<italic>ProceedingsoftheIEEEConferenceonComputerVisionandPattern
+  Recognition</italic>, pages 770–778, 2016.</p>
+<p>[12]Sepp Hochreiter, Yoshua Bengio, Paolo Frasconi, and Jürgen
+  Schmidhuber.Gradient flow in recurrent nets:the difficulty of learning
+  long-term dependencies, 2001.</p>
+<p>[13]SeppHochreiterandJürgenSchmidhuber.Longshort-termmemory.<italic>Neuralcomputation</italic>,
+  9(8):1735–1780, 1997.</p>
+<p>[14]Zhongqiang Huang and Mary Harper.Self-training PCFG grammars
+  with latent annotations across languages.In <italic>Proceedings of the
+  2009 Conference on Empirical Methods in Natural Language
+  Processing</italic>, pages 832–841. ACL, August 2009.</p>
+<p>[15]Rafal Jozefowicz, Oriol Vinyals, Mike Schuster, Noam Shazeer,
+  and Yonghui Wu.Exploring the limits of language modeling.<italic>arXiv
+  preprint</italic> , 2016.</p>
+<p>[16]Łukasz Kaiser and Samy Bengio.Can active memory replace
+  attention?In <italic>Advances in Neural</italic> <italic>Information
+  Processing Systems, (NIPS)</italic>, 2016.</p>
+<p>[17]Łukasz Kaiser and Ilya Sutskever.Neural GPUs learn
+  algorithms.In <italic>International Conference on Learning
+  Representations (ICLR)</italic>, 2016.</p>
+<p>[18]Nal Kalchbrenner, Lasse Espeholt, Karen Simonyan, Aaron van den
+  Oord, Alex Graves, and Ko-ray Kavukcuoglu. Neural machine translation
+  in linear time. <italic>arXiv preprint v2</italic>, 2017.</p>
+<p>[19]Yoon Kim, Carl Denton, Luong Hoang, and Alexander M.
+  Rush.Structured attention networks. In <italic>International
+  Conference on Learning Representations</italic>, 2017.</p>
+</disp-quote>
+<p>[20]Diederik Kingma and Jimmy Ba.Adam:A method for stochastic
+optimization.In <italic>ICLR</italic>, 2015.</p>
+<disp-quote>
+<p>[21]Oleksii Kuchaiev and Boris Ginsburg.Factorization tricks for
+  LSTM networks.<italic>arXiv preprint</italic> , 2017.</p>
+<p>[22]ZhouhanLin,MinweiFeng,CiceroNogueiradosSantos,MoYu,BingXiang,Bowen
+  Zhou,andYoshuaBengio.Astructuredself-attentivesentenceembedding.<italic>arXivpreprint</italic>
+  , 2017.</p>
+<p>[23]Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals,
+  and Lukasz Kaiser.Multi-task sequence to sequence
+  learning.<italic>arXiv preprint</italic> , 2015.</p>
+<p>[24]Minh-Thang Luong, Hieu Pham, and Christopher D
+  Manning.Effective approaches to attention-based neural machine
+  translation.<italic>arXiv preprint</italic> , 2015.</p>
+</disp-quote>
+<p>11</p>
+<disp-quote>
+<p>[25]Mitchell P Marcus, Mary Ann Marcinkiewicz, and Beatrice
+  Santorini. Building a large annotated corpus of english:The penn
+  treebank.<italic>Computational linguistics</italic>, 19(2):313–330,
+  1993.</p>
+<p>[26]David McClosky, Eugene Charniak, and Mark Johnson.Effective
+  self-training for parsing.In <italic>Proceedings of the Human Language
+  Technology Conference of the NAACL, Main Conference</italic>, pages
+  152–159. ACL, June 2006.</p>
+<p>[27]Ankur Parikh, Oscar Täckström, Dipanjan Das, and Jakob
+  Uszkoreit.A decomposable attention model.In <italic>Empirical Methods
+  in Natural Language Processing</italic>, 2016.</p>
+<p>[28]Romain Paulus, Caiming Xiong, and Richard Socher.A deep
+  reinforced model for abstractive summarization.<italic>arXiv
+  preprint</italic> , 2017.</p>
+<p>[29]SlavPetrov,LeonBarrett,RomainThibaux,andDanKlein.Learningaccurate,compact,
+  andinterpretabletreeannotation.In<italic>Proceedingsofthe21stInternationalConferenceon
+  Computational Linguistics and 44th Annual Meeting of the ACL</italic>,
+  pages 433–440. ACL, July 2006.</p>
+<p>[30]Ofir Press and Lior Wolf.Using the output embedding to improve
+  language models.<italic>arXiv preprint</italic> , 2016.</p>
+<p>[31]Rico Sennrich, Barry Haddow, and Alexandra Birch.Neural machine
+  translation of rare words with subword units.<italic>arXiv
+  preprint</italic> , 2015.</p>
+<p>[32]Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis,
+  Quoc Le, Geoffrey Hinton, and Jeff Dean.Outrageously large neural
+  networks:The sparsely-gated mixture-of-experts layer.<italic>arXiv
+  preprint</italic> , 2017.</p>
+<p>[33]Nitish Srivastava, Geoffrey E Hinton, Alex Krizhevsky, Ilya
+  Sutskever, and Ruslan Salakhutdi-nov.Dropout:a simple way to prevent
+  neural networks from overfitting.<italic>Journal of Machine Learning
+  Research</italic>, 15(1):1929–1958, 2014.</p>
+<p>[34]SainbayarSukhbaatar,ArthurSzlam,JasonWeston,andRobFergus.End-to-endmemory
+  networks.In C. Cortes,N. D. Lawrence,D. D. Lee,M. Sugiyama,and R.
+  Garnett,editors, <italic>Advances in Neural Information Processing
+  Systems 28</italic>, pages 2440–2448. Curran Associates, Inc.,
+  2015.</p>
+<p>[35]Ilya Sutskever, Oriol Vinyals, and Quoc VV Le.Sequence to
+  sequence learning with neural networks.In <italic>Advances in Neural
+  Information Processing Systems</italic>, pages 3104–3112, 2014.</p>
+<p>[36]Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon
+  Shlens, and Zbigniew Wojna. Rethinking the inception architecture for
+  computer vision.<italic>CoRR</italic>, abs/1512.00567, 2015.</p>
+<p>[37]Vinyals &amp; Kaiser,Koo,Petrov,Sutskever,and Hinton.Grammar as
+  a foreign language.In <italic>Advances in Neural Information
+  Processing Systems</italic>, 2015.</p>
+<p>[38]YonghuiWu,MikeSchuster,ZhifengChen,QuocVLe,MohammadNorouzi,Wolfgang
+  Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, et
+  al.Google’s neural machine translation system:Bridging the gap between
+  human and machine translation.<italic>arXiv preprint</italic> ,
+  2016.</p>
+<p>[39]JieZhou,YingCao,XuguangWang,PengLi,andWeiXu.Deeprecurrentmodelswith
+  fast-forward connections for neural machine
+  translation.<italic>CoRR</italic>, abs/1606.04199, 2016.</p>
+<p>[40]MuhuaZhu,YueZhang,WenliangChen,MinZhang,andJingboZhu.Fastandaccurate
+  shift-reduce constituent parsing.In <italic>Proceedings of the 51st
+  Annual Meeting of the ACL (Volume 1:Long Papers)</italic>, pages
+  434–443. ACL, August 2013.</p>
+</disp-quote>
+<p>12</p>
+<graphic mime-subtype="png" mimetype="image" xlink:href="media/image4.png"/>
+<disp-quote>
+<p><bold>Attention Visualizations</bold></p>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="right">It</th>
+<th align="center">is</th>
+<th align="center">in</th>
+<th align="center">this</th>
+<th align="right">spirit</th>
+<th align="right">that</th>
+<th align="right">a</th>
+<th align="right">majority</th>
+<th align="center">of</th>
+<th align="right">American</th>
+<th align="right">governments</th>
+<th align="right">have</th>
+<th align="right">passed</th>
+<th align="right">new</th>
+<th align="right">laws</th>
+<th align="right">since</th>
+<th align="right">2009</th>
+<th align="right">making</th>
+<th align="center">the</th>
+<th align="right">registration</th>
+<th align="center">or</th>
+<th align="right">voting</th>
+<th align="right">process</th>
+<th align="right">more</th>
+<th align="right">difficult</th>
+<th align="right">.</th>
+<th align="right">&lt;EOS&gt;</th>
+<th align="right">&lt;pad&gt;</th>
+<th align="right">&lt;pad&gt;</th>
+<th align="right">&lt;pad&gt;</th>
+<th align="right">&lt;pad&gt;</th>
+<th align="right">&lt;pad&gt;</th>
+<th align="right">&lt;pad&gt;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">It</td>
+<td align="center">is</td>
+<td align="center">in</td>
+<td align="right">this</td>
+<td align="right">spirit</td>
+<td align="right">that</td>
+<td align="center">a</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>majority</p>
+</disp-quote>
+</p></td>
+<td align="center">of</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>American</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>governments</p>
+</disp-quote>
+</p></td>
+<td align="right">have</td>
+<td align="right">passed</td>
+<td align="right">new</td>
+<td align="right">laws</td>
+<td align="right">since</td>
+<td align="right">2009</td>
+<td align="right">making</td>
+<td align="right">the</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>registration</p>
+</disp-quote>
+</p></td>
+<td align="center">or</td>
+<td align="right">voting</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>process</p>
+</disp-quote>
+</p></td>
+<td align="right">more</td>
+<td align="right">difficult</td>
+<td align="right">.</td>
+<td align="right">&lt;EOS&gt;</td>
+<td align="right">&lt;pad&gt;</td>
+<td align="right">&lt;pad&gt;</td>
+<td align="right">&lt;pad&gt;</td>
+<td align="right">&lt;pad&gt;</td>
+<td align="right">&lt;pad&gt;</td>
+<td align="right">&lt;pad&gt;</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>Figure3:Anexampleoftheattentionmechanismfollowinglong-distancedependenciesinthe
+  encoder self-attention in layer 5 of 6.Many of the attention heads
+  attend to a distant dependency of the verb ‘making’, completing the
+  phrase ‘making...more difficult’.Attentions here shown only for the
+  word ‘making’.Different colors represent different heads.Best viewed
+  in color.</p>
+</disp-quote>
+<p>13</p>
+<graphic mime-subtype="png" mimetype="image" xlink:href="media/image6.png"/>
+<table-wrap>
+<table>
+<colgroup>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>The</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>Law</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>will</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>never</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>be</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>perfect</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>,</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>but</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>its</p>
+</disp-quote>
+</p></th>
+<th align="center">application</th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>should</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>be</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>just</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>-</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>this</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>is</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>what</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>we</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>are</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>missing</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>,</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>in</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>my</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>opinion</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>.</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>&lt;EOS&gt;</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>&lt;pad&gt;</p>
+</disp-quote>
+</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<graphic mime-subtype="png" mimetype="image" xlink:href="media/image5.png"/>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+<col width="3%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="right">The</th>
+<th align="right">Law</th>
+<th align="right">will</th>
+<th align="right">never</th>
+<th align="right">be</th>
+<th align="right">perfect</th>
+<th align="right">,</th>
+<th align="right">but</th>
+<th align="right">its</th>
+<th align="right" colspan="2">application</th>
+<th align="right" colspan="2">should</th>
+<th align="right">be</th>
+<th align="right">just</th>
+<th align="right">-</th>
+<th align="right">this</th>
+<th align="right">is</th>
+<th align="right">what</th>
+<th align="right">we</th>
+<th align="right">are</th>
+<th align="right">missing</th>
+<th align="right">,</th>
+<th align="right" colspan="2">in</th>
+<th align="right" colspan="2">my</th>
+<th align="right" colspan="2">opinion</th>
+<th align="right" colspan="2">.</th>
+<th align="right" colspan="2">&lt;EOS&gt;</th>
+<th align="right" colspan="2">&lt;pad&gt;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">The</td>
+<td align="right">Law</td>
+<td align="center">will</td>
+<td align="right">never</td>
+<td align="center">be</td>
+<td align="right">perfect</td>
+<td align="right">,</td>
+<td align="center">but</td>
+<td align="center" colspan="2">its</td>
+<td align="right" colspan="2">application</td>
+<td align="right">should</td>
+<td align="center">be</td>
+<td align="center">just</td>
+<td align="right">-</td>
+<td align="center">this</td>
+<td align="right">is</td>
+<td align="right">what</td>
+<td align="center">we</td>
+<td align="center">are</td>
+<td align="right">missing</td>
+<td align="right" colspan="2">,</td>
+<td align="right" colspan="2">in</td>
+<td align="center" colspan="2">my</td>
+<td align="right" colspan="2">opinion</td>
+<td align="right" colspan="2">.</td>
+<td align="right" colspan="2">&lt;EOS&gt;</td>
+<td align="right">&lt;pad&gt;</td>
+</tr>
+<tr>
+<td align="right">The</td>
+<td align="right">Law</td>
+<td align="right">will</td>
+<td align="right">never</td>
+<td align="right">be</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>perfect</p>
+</disp-quote>
+</p></td>
+<td align="right">,</td>
+<td align="right">but</td>
+<td align="right" colspan="2">its</td>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>application</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>should</p>
+</disp-quote>
+</p></td>
+<td align="right">be</td>
+<td align="right">just</td>
+<td align="right">-</td>
+<td align="right">this</td>
+<td align="right">is</td>
+<td align="right">what</td>
+<td align="right">we</td>
+<td align="right">are</td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>missing</p>
+</disp-quote>
+</p></td>
+<td align="right" colspan="2">,</td>
+<td align="right" colspan="2">in</td>
+<td align="right" colspan="2">my</td>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>opinion</p>
+</disp-quote>
+</p></td>
+<td align="right" colspan="2">.</td>
+<td align="left" colspan="2"><p specific-use="wrapper">
+<disp-quote>
+<p>&lt;EOS&gt;</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>&lt;pad&gt;</p>
+</disp-quote>
+</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>Figure 4:Two attention heads, also in layer 5 of 6, apparently
+  involved in anaphora resolution.Top: Full attentions for head
+  5.Bottom:Isolated attentions from just the word ‘its’ for attention
+  heads 5 and 6.Note that the attentions are very sharp for this
+  word.</p>
+</disp-quote>
+<p>14</p>
+<table-wrap>
+<table>
+<colgroup>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>The</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>Law</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>will</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>never</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>be</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>perfect</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>,</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>but</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>its</p>
+</disp-quote>
+</p></th>
+<th align="center">application</th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>should</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>be</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>just</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>-</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>this</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>is</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>what</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>we</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>are</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>missing</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>,</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>in</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>my</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>opinion</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>.</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>&lt;EOS&gt;</p>
+</disp-quote>
+</p></th>
+<th align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>&lt;pad&gt;</p>
+</disp-quote>
+</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<graphic mime-subtype="png" mimetype="image" xlink:href="media/image7.png"/>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="right">The</th>
+<th align="right">Law</th>
+<th align="right">will</th>
+<th align="right">never</th>
+<th align="right">be</th>
+<th align="right">perfect</th>
+<th align="right">,</th>
+<th align="right">but</th>
+<th align="right">its</th>
+<th align="right">application</th>
+<th align="right">should</th>
+<th align="right">be</th>
+<th align="right">just</th>
+<th align="right">-</th>
+<th align="right">this</th>
+<th align="right">is</th>
+<th align="right">what</th>
+<th align="right">we</th>
+<th align="right">are</th>
+<th align="right">missing</th>
+<th align="right">,</th>
+<th align="right">in</th>
+<th align="right">my</th>
+<th align="right">opinion</th>
+<th align="right">.</th>
+<th align="right">&lt;EOS&gt;</th>
+<th align="right">&lt;pad&gt;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>The</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>Law</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>will</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>never</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>be</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>perfect</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>,</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>but</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>its</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>application</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>should</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>be</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>just</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>-</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>this</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>is</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>what</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>we</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>are</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>missing</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>,</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>in</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>my</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>opinion</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>.</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>&lt;EOS&gt;</p>
+</disp-quote>
+</p></td>
+<td align="left"><p specific-use="wrapper">
+<disp-quote>
+<p>&lt;pad&gt;</p>
+</disp-quote>
+</p></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<graphic mime-subtype="png" mimetype="image" xlink:href="media/image8.png"/>
+</disp-quote>
+<table-wrap>
+<table>
+<colgroup>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+<col width="4%"/>
+</colgroup>
+<thead>
+<tr>
+<th align="right">The</th>
+<th align="right">Law</th>
+<th align="right">will</th>
+<th align="right">never</th>
+<th align="right">be</th>
+<th align="right">perfect</th>
+<th align="right">,</th>
+<th align="right">but</th>
+<th align="right">its</th>
+<th align="center">application</th>
+<th align="right">should</th>
+<th align="right">be</th>
+<th align="right">just</th>
+<th align="right">-</th>
+<th align="right">this</th>
+<th align="right">is</th>
+<th align="right">what</th>
+<th align="right">we</th>
+<th align="right">are</th>
+<th align="right">missing</th>
+<th align="right">,</th>
+<th align="right">in</th>
+<th align="right">my</th>
+<th align="right">opinion</th>
+<th align="right">.</th>
+<th align="right">&lt;EOS&gt;</th>
+<th align="right">&lt;pad&gt;</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</table-wrap>
+<disp-quote>
+<p>Figure 5:Many of the attention heads exhibit behaviour that seems
+  related to the structure of the sentence.We give two such examples
+  above, from two different heads from the encoder self-attention at
+  layer 5 of 6.The heads clearly learned to perform different tasks.</p>
+</disp-quote>
+<p>15</p>
+</body>
+<back>
+<ref-list><title>Referencias</title><ref id="B1"><mixed-citation>1. Referencia no disponible en el texto original.</mixed-citation><element-citation publication-type="other"><source>Referencia no disponible</source></element-citation></ref></ref-list></back>
+</article>

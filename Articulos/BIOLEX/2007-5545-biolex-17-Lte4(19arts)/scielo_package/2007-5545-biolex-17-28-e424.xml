@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biolex</journal-id>
+			<journal-title-group>
+				<journal-title>Biolex</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-5634</issn>
+			<issn pub-type="epub">2007-5545</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36796/biolex.v17i28.424</article-id>
+			<article-id pub-id-type="other">00110</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La motivación judicial como núcleo de legitimidad en el Estado constitucional: una reconstrucción desde la epistemología jurídica y el garantismo</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Judicial Reasoning as the Core of Legitimacy in the Constitutional State: A Reconstruction from Legal Epistemology and Garantism</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0009-0001-8989-5458</contrib-id>
+					<name>
+						<surname>Torres</surname>
+						<given-names>Ha-Nassí Nassir Alejandría</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Estudiante de séptimo ciclo de Derecho y Ciencias Políticas</role>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Ha-Nassí Nassir Alejandría Torres. Estudiante de séptimo ciclo de Derecho y Ciencias Políticas en la Universidad Privada del Norte (Lima). Sus áreas de interés son la sociología y la filosofía. nassiralejandriatorres@gmail.com</institution>
+					<institution content-type="normalized">Universidad Privada del Norte</institution>
+					<institution content-type="orgname">Universidad Privada del Norte</institution>
+					<country country="PE">Peru</country>
+					<email>nassiralejandriatorres@gmail.com</email>
+				</aff>
+			</contrib-group>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>29</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>17</volume>
+			<issue>28</issue>
+			<elocation-id>e424</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>20</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>05</day>
+					<month>11</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>En el contexto actual de los Estados constitucionales de derecho, la legitimidad del poder jurisdiccional enfrenta una transformación profunda: ya no basta con la adhesión formal a la legalidad, sino que se exige una racionalidad pública que justifique discursivamente las decisiones judiciales, lo cual responde a una tensión estructural entre el carácter coercitivo del poder jurisdiccional y su aspiración democrática, en la que la motivación judicial emerge como el núcleo donde se articulan la racionalidad del juicio, la garantía de los derechos y la legitimidad del sistema. En ese sentido, el objetivo del presente artículo es analizar críticamente la motivación judicial como presupuesto ineludible de legitimidad del poder jurisdiccional desde una perspectiva epistemológica, garantista y constitucional, evidenciando que su ausencia o deficiencia compromete tanto la validez racional de las decisiones como la integridad moral del orden jurídico. Los resultados muestran que la motivación judicial opera en tres registros interdependientes: control democrático, validación epistémica e integridad normativa, sustentados en los criterios de razonabilidad, coherencia y suficiencia. Lo anterior configura una estructura argumentativa que trasciende el formalismo y se erige como medida sustantiva de la calidad jurídica. En conclusión, la motivación judicial no constituye un requisito accesorio, sino el mecanismo central mediante el cual el poder punitivo del Estado se transforma en autoridad legítima. </p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>In the current context of Constitutional States governed by the rule of law, the legitimacy of judicial power is undergoing a profound transformation: formal adherence to legality is no longer sufficient; instead, a form of public rationality is required -one that discursively justifies judicial decisions. This shift responds to a structural tension between the coercive nature of judicial authority and its democratic aspirations, wherein judicial reasoning emerges as the core through which the rationality of adjudication, the safeguarding of rights, and the legitimacy of the legal system are articulated. Accordingly, the aim of this article is to critically examine judicial reasoning as an indispensable precondition for the legitimacy of judicial power from an epistemological, rights-based, and constitutional perspective. The analysis demonstrates that the absence of inadequacy of judicial reasoning undermines both the rational validity of decisions and the moral integrity of the legal order. The findings reveal that judicial reasoning operates across three interdependent dimensions: democratic oversight, epistemic validation, and normative integrity. These are grounded in the criteria of reasonableness, coherence, and sufficiency, forming an argumentative structure that transcends legal formalism and constitutes a substantive measure of legal quality. In conclusion, judicial reasoning is not merely ancillary requirement, but rather the central mechanism through which the State’s punitive power is transformed into legitimate authority.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>legitimidad democrática</kwd>
+				<kwd>racionalidad jurídica</kwd>
+				<kwd>epistemología del derecho</kwd>
+				<kwd>garantismo penal</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>democratic legitimacy</kwd>
+				<kwd>legal rationality</kwd>
+				<kwd>legal epistemology</kwd>
+				<kwd>penal guarantees</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="15"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>1. Introducción</title>
+			<p>En el escenario contemporáneo de los Estados Constitucionales de Derecho, la legitimidad del poder jurisdiccional ha dejado de descansar exclusivamente en la obediencia formal a la legalidad positiva, desplazándose hacia una exigencia más compleja: la de una racionalidad pública y discursiva que sustente la autoridad de las decisiones judiciales. Esta transformación, lejos de ser meramente conceptual, responde a la necesidad de reconciliar el ejercicio de un poder estatal de consecuencias profundas y frecuentemente punitivas, con los fundamentos democráticos que lo justifican. En este contexto, la motivación judicial se erige como una piedra angular del orden constitucional, no sólo en tanto manifestación externa de la decisión jurisdiccional, sino como el lugar donde convergen el juicio racional, la garantía de los derechos y la legitimidad democrática del ejercicio judicial<xref ref-type="fn" rid="fn1"><sup>1</sup></xref>. No obstante, esta función no está exenta de tensiones y ambigüedades, como lo demuestra la persistencia de resoluciones escasamente motivadas que debilitan el control ciudadano sobre el poder y comprometen la confianza en el sistema de justicia.</p>
+			<p>Desde el punto de vista teórico, la motivación judicial ha sido analizada como un fenómeno plurívoco que articula dimensiones epistémicas, normativas y políticas. Autores como Taruffo y Wróblewski han subrayado que, en ausencia de acceso directo a una verdad empírica, el juez opera bajo un régimen de racionalidad jurídica que demanda una construcción argumentativa robusta<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>. Aarnio y MacCormick han mostrado que tal construcción no puede desligarse del deber de coherencia narrativa y justificativa, propia de un sistema normativo que pretende ser interpretado públicamente<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>. Por su parte, el garantismo penal, desarrollado con densidad teórica por Ferrajoli y Binder, vincula directamente la motivación con el control del poder punitivo<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>, mientras que Dworkin y Zagrebelsky integran la dimensión constitucional del problema, al señalar que el derecho no se limita a reglas, sino que es también el producto de principios y valores que requieren ser explicitados en la motivación judicial<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>. La doctrina coincide, aunque con distintos matices, en que una motivación deficiente no sólo compromete la corrección técnica de la sentencia, sino que socava la estructura misma del Estado Constitucional.</p>
+			<p>A pesar de este reconocimiento teórico, subsiste una brecha significativa entre los estándares normativos y la práctica judicial cotidiana. En muchos sistemas jurídicos, la motivación continúa siendo tratada como un requisito meramente formal, desvinculado de su función sustantiva de legitimación. Este desfase se traduce en resoluciones que, bajo una apariencia de legalidad, reproducen formas de opacidad, arbitrariedad o selectividad estructural<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>. De este modo, el juez constitucional, que carece de legitimación democrática directa, se ve enfrentado a una paradoja fundacional: ejercer un poder con capacidad de afectar gravemente derechos fundamentales, sin contar con una validación política convencional, lo cual acentúa la necesidad de que su autoridad derive del rigor argumentativo y de la transparencia justificativa<xref ref-type="fn" rid="fn7"><sup>7</sup></xref>. Esta tensión configura lo que puede entenderse como una aporía estructural entre el razonamiento judicial y la legitimación democrática.</p>
+			<p>Frente a esta problemática, la presente investigación se propone analizar críticamente la función de la motivación judicial como presupuesto estructural de legitimidad del poder jurisdiccional en los Estados Constitucionales de Derecho. Este análisis se articula desde una triple perspectiva: epistemológica, al considerar que la racionalidad de la decisión es inseparable del carácter justificativo del proceso judicial; garantista, al situar la motivación como límite al poder punitivo y como medio de protección de los derechos fundamentales; y constitucional, al reconocer en la motivación una forma institucionalizada de deliberación democrática. Tal enfoque se aleja de una visión meramente técnica para abordar la motivación como problema filosófico, político y jurídico, cuya resolución afecta a la integridad moral del sistema jurídico.</p>
+			<p>Las implicaciones prácticas de este estudio son relevantes tanto para el diseño institucional como para la praxis judicial. Una comprensión sustantiva de la motivación podría servir como parámetro de evaluación de la calidad argumentativa de las sentencias, incidiendo directamente en los mecanismos de control jurisdiccional, en la formación de jueces y en la elaboración de estándares jurisprudenciales que fortalezcan la transparencia y la rendición de cuentas. Además, el fortalecimiento de la motivación como garantía procesal puede contribuir a contrarrestar las prácticas judiciales autorreferenciales o insulares, promoviendo un sistema más receptivo al escrutinio ciudadano y más coherente con los principios del Estado democrático de derecho.</p>
+			<p>En este sentido, la problemática examinada no es ajena a los desafíos contemporáneos que enfrentan los Estados constitucionales: el debilitamiento de la confianza en las instituciones, la creciente judicialización de la política y la demanda social de mayor transparencia y responsabilidad en el ejercicio del poder. En un tiempo en que la legitimidad ya no se deriva automáticamente del cargo, sino del discurso público, la motivación judicial adquiere una centralidad renovada. Constituye no solo una herramienta técnica, sino un acto de comunicación institucional que busca convencer, justificar y rendir cuentas ante una ciudadanía crítica y plural.</p>
+			<p>En ese contexto, el objetivo del presente artículo es analizar críticamente la función de la motivación judicial como presupuesto indispensable de la legitimidad del poder jurisdiccional en los Estados Constitucionales de Derecho, abordando su estructura y alcance desde una perspectiva epistemológica, garantista y constitucional. A partir de esta aproximación integral, se busca demostrar que la ausencia o insuficiencia de una motivación judicial robusta no solo socava la validez racional de la sentencia, sino que compromete la integridad moral del sistema jurídico en su conjunto, al vulnerar tanto el principio democrático como la racionalidad pública que deben sustentar y justificar el ejercicio del poder punitivo en un Estado de Derecho.</p>
+		</sec>
+		<sec>
+			<title>2. Racionalidad judicial y legitimidad del poder jurisdiccional</title>
+			<p>En el marco de los Estados Constitucionales de Derecho, la legitimidad del poder jurisdiccional no puede sustentarse exclusivamente en el ejercicio de la coacción legal ni en la observancia formalista del procedimiento. La autoridad de los jueces no deviene del poder que ostentan, sino de la racionalidad que respalda sus decisiones. En esta medida, el derecho a una debida motivación judicial se erige no como un simple protocolo de estilo, sino como una exigencia estructural del Estado de Derecho, una condición esencial de la racionalidad pública que hace posible la confianza ciudadana en la justicia. Esta exigencia alcanza por igual a todos los órganos jurisdiccionales, sin excepción, incluido el Tribunal Constitucional, cuya función en una democracia constitucional no se limita a interpretar la ley, sino a justificar sus decisiones en términos comprensibles, coherentes y racionalmente aceptables.</p>
+			<p>La motivación judicial, entonces, no solo constituye una garantía formal de legalidad, sino que se manifiesta como un principio epistemológico que impone límites al arbitrio judicial. Una resolución motivada no es únicamente una decisión comunicada, es una conclusión que, a través del razonamiento expuesto, puede ser evaluada críticamente, discutida en el espacio público y eventualmente corregida. En ese sentido, la motivación judicial actúa como un dispositivo de validación epistemológica y de control democrático. No se trata de un elemento decorativo del proceso, sino de una condición de posibilidad de este. Una sentencia que no explica sus razones no puede considerarse verdaderamente jurídica, ya que no cumple con el deber fundamental de dar cuenta del porqué de su autoridad.</p>
+			<p>Desde una mirada epistemológica y gnoseológica, la pregunta por la necesidad de motivar no se reduce a un deber legal, más bien interpela la naturaleza misma del conocimiento jurídico: ¿qué sabemos cuando afirmamos que una decisión es justa?, ¿por qué lo sabemos?, ¿es ese conocimiento verdadero o solamente útil dentro de un sistema normativo determinado? La epistemología del derecho se encarga precisamente de justificar la aceptación de ciertos enunciados como válidos dentro del razonamiento jurídico. A través de sus métodos, procura ofrecer criterios para distinguir entre lo argumentativamente sólido y lo meramente retórico. La gnoseología, en cambio, se interroga por la posibilidad misma de conocer la verdad del contenido normativo, por la validez última de lo afirmado, no solo como justificación operativa, sino como pretensión de verdad.</p>
+			<p>Estas consideraciones remiten a un largo linaje filosófico. Aristóteles ya advertía que la justicia exige &quot;dar a cada quién lo suyo&quot;<xref ref-type="fn" rid="fn8"><sup>8</sup></xref>, pero planteaba de inmediato el problema de cómo identificar ese “suyo” sin un fundamento racional explícito. En una línea similar, Kant subrayaba que toda decisión que restrinja la libertad debe poder presentarse como una manifestación de la razón, no como un acto de voluntad caprichosa<xref ref-type="fn" rid="fn9"><sup>9</sup></xref> . En ambos casos, la racionalidad aparece como condición de legitimidad: no se trata simplemente de que el juez decida, sino que su decisión pueda ser comprendida como necesaria dentro de un marco de razones universalizables. Este es, quizás, uno de los rasgos más exigentes del poder jurisdiccional en una democracia constitucional: su obligación de responder no solo ante el derecho, sino ante la razón.</p>
+			<p>Cuando la sentencia no satisface esta exigencia, lo que emerge es una forma de ejercicio del poder carente de legitimidad, una justicia desprovista de racionalidad, que no es más que una forma de injusticia. En este punto, la motivación se presenta no solo como un requisito técnico del discurso jurídico, sino como una forma de ética institucional. La racionalidad, entendida en su dimensión procedimental y sustantiva, exige al juez algo más que legalidad: transparencia argumentativa, claridad expositiva y coherencia lógica. De ahí que la legitimidad del poder jurisdiccional dependa, en último término, de su capacidad para ofrecer razones públicas que no se impongan por la fuerza ni por la tradición, sino por su mérito racional.</p>
+			<p>El enfoque antes planteado ha sido desarrollado por numerosos autores contemporáneos. Habermas, por ejemplo, sostiene que la validez de una norma jurídica depende de su aceptabilidad racional en un proceso discursivo entre iguales<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>. La idea de una razón pública, desarrollada también por Rawls, exige que las instituciones estatales justifiquen sus decisiones sobre la base de razones comprensibles y aceptables por todos los ciudadanos, independientemente de sus convicciones particulares<xref ref-type="fn" rid="fn11"><sup>11</sup></xref>. En el campo del derecho, esta perspectiva se ha traducido en una renovada exigencia de argumentación, que no se agota en el cumplimiento de los requisitos procesales, sino que apunta a construir decisiones dotadas de sentido dentro de una comunidad interpretativa plural.</p>
+			<p>No resulta exagerado afirmar que la legitimidad de la jurisdicción en el Estado Constitucional se juega, en buena medida, en el terreno de la motivación. Allí donde el juez explica sus decisiones con rigor, apertura y razonabilidad, se fortalece el principio democrático y se dignifica la función judicial. Allí donde la motivación se convierte en una formalidad vacía o en una técnica para legitimar lo decidido de antemano, se socava la confianza pública y se abren las puertas a formas de ejercicio arbitrario del poder. La racionalidad judicial, lejos de ser un ideal abstracto, constituye una práctica concreta, un modo de ejercer la autoridad mediante el lenguaje y bajo la vigilancia crítica de la ciudadanía.</p>
+		</sec>
+		<sec>
+			<title>3. Fundamentos teóricos: epistemología jurídica y garantismo penal</title>
+			<p>En la práctica judicial, el conocimiento no se limita a la simple constatación de hechos ni a la aplicación mecánica de normas; se trata de una construcción compleja en la que confluyen el razonamiento jurídico y la producción epistémica de la verdad procesal. Este proceso exige algo más que lógica jurídica: requiere una actitud crítica frente a los límites del saber judicial. Es en este punto donde la epistemología del derecho revela toda su relevancia. La labor jurisdiccional no se reduce a declarar lo que ya está dado, por el contrario, implica la reconstrucción racional de los hechos en función de estándares cognoscitivos que deben ser transparentes, justificables y comunicables.</p>
+			<p>No se puede obviar que la verdad en el proceso judicial es una verdad situada, operativa y, en muchos casos, provisoria. No es una verdad absoluta, sino una formulación racional construida sobre indicios, testimonios y pruebas, interpretados todos ellos a través de un marco normativo específico. En este contexto, la pregunta por la verdad no puede eludirse ni sustituirse por un acto de autoridad. La racionalidad judicial exige, en consecuencia, no solo que las conclusiones sean coherentes, sino también que sus premisas sean explícitas y sus inferencias transparentes. Toda sentencia que pretenda legitimarse dentro de un Estado de Derecho debe superar esta prueba de racionalidad argumentativa. Si no lo hace, no estamos únicamente ante un error técnico, sino ante una vulneración de derechos fundamentales, en la medida en que se compromete la validez misma del proceso.</p>
+			<p>El garantismo penal, tal como lo desarrolla Ferrajoli, ofrece un marco analítico que refuerza esta exigencia racional<xref ref-type="fn" rid="fn12"><sup>12</sup></xref>. No se trata de una doctrina voluntarista ni de un simple enfoque político del derecho penal, sino de un cuerpo teórico que estructura un conjunto de límites normativos al poder punitivo del Estado. En su núcleo se encuentran tres axiomas cuya transgresión no solo mina la calidad del juicio penal, sino que socava la legitimidad constitucional del sistema.</p>
+			<p>El primero de estos axiomas es el de la racionalidad lógica, que demanda que las decisiones judiciales estén construidas a partir de una argumentación interna coherente, libre de contradicciones y basada en reglas de inferencia válidas. El segundo es el axioma probatorio, <italic>nullum iudicium sine probatione</italic>, que impone la prohibición de condenar sin pruebas suficientes y vedar toda inversión de la carga de la prueba. El tercero, el axioma de jurisdiccionalidad, impide que el poder penal se ejerza discrecionalmente y exige que toda decisión esté rigurosamente fundada en la ley y en su aplicación razonada al caso concreto. Estos principios no son elementos retóricos: son condiciones estructurales del derecho penal en una democracia constitucional, sin los cuales el juicio pierde su carácter garantista.</p>
+			<p>Ahora bien, cuando estos pilares se ven comprometidos, emergen formas de irracionalidad judicial que ponen en entredicho no solo el resultado de una decisión, sino que también su propia validez constitucional. Una de las manifestaciones más frecuentes de esta irracionalidad es la utilización de inferencias falaces, especialmente del tipo <italic>non sequitur</italic>, en las que la conclusión no se sigue lógicamente de las premisas ofrecidas. Esta falacia es más común de lo que parece en la praxis judicial. Por ejemplo, en la Sentencia N° XXX-20XX del Tribunal Constitucional Del Perú, el tribunal pretendió inferir la autoría del imputado (conclusión) basándose únicamente en el hecho de que este se encontraba en las inmediaciones del lugar (premisa fáctica) y además poseía menos heridas que la víctima fatal. Esta inferencia incurre en un <italic>non sequitur</italic> al omitir la evaluación de hipótesis alternativas plausibles (por ejemplo: presencia casual, intento de auxilio o el forcejeo mutuo), violando así la racionalidad lógica que exige el garantismo. Este tipo de razonamiento -una afirmación de la consecuencia- es una falacia formal que confunde correlación con causalidad, debilitando así cualquier intento de construir una verdad procesal robusta. Cuanto más se investiga el estado del efecto (las mutuas heridas de las involucradas), más se amplían las posibles causas, un forcejeo, una confusión, y más se debilita la supuesta relación causal directa que indique que efectivamente el agente con menos heridas es el victimario. En el ámbito penal, este tipo de razonamientos puede conducir a imputaciones erróneas, fundadas en intuiciones o conjeturas, pero no en una cadena probatoria lógica y coherente.</p>
+			<p>Esta clase de deficiencia en la inferencia no solo es un error técnico, constituye una forma de arbitrariedad revestida de legalidad. Aunque el juez posee un margen de apreciación en la valoración de la prueba, este está sujeto a límites racionales y constitucionales. La interdicción de la arbitrariedad exige que toda valoración probatoria esté fundada en razones explícitas, comunicables y contrastables, no en corazonadas disfrazadas de razonamientos.</p>
+			<p>Otra falla relevante en la racionalidad judicial es la ausencia de coherencia narrativa. El relato de hechos en una sentencia debe respetar, como mínimo, el principio de no contradicción: un mismo hecho no puede ser y no ser al mismo tiempo y en el mismo sentido. Cuando en la motivación se acude a máximas de experiencia sin explicitarlas, o se introducen hipótesis contradictorias sin aclarar su jerarquía, el discurso jurídico se fragmenta, pierde consistencia lógica y se vuelve incomprensible. No se trata simplemente de un problema estilístico, sino de una falla en la construcción de sentido. El derecho es, ante todo, un lenguaje normativo que debe ser inteligible. Una narrativa auto anulable no puede ser la base de una decisión que afecta bienes jurídicos tan sensibles como la libertad o la dignidad de las personas.</p>
+			<p>Particularmente grave es la omisión del razonamiento que vincula al sujeto con la acción, es decir, la ausencia del nexo inferencial que permite pasar del hecho base a la conclusión jurídica. La intención, elemento esencial en muchos tipos penales, no puede inferirse por mera acumulación de hechos ni por referencias vagas a motivaciones psicológicas. Es indispensable que se explicite el hilo lógico que conecta el “quién” con el “qué” y el “por qué”. En caso contrario, la sentencia se convierte en un acto de poder carente de legitimación racional, aunque revestido de lenguaje jurídico.</p>
+			<p>Todo esto remite a una idea central: el poder jurisdiccional, para ser legítimo, no solo debe aplicar el derecho, sino hacerlo de manera racional y comprensible. La motivación judicial no es, entonces, un mero requisito formal, es la forma en que el Estado justifica el uso de su poder frente a los ciudadanos. Una decisión motivada es una decisión que se ofrece al escrutinio público, que puede ser discutida y, eventualmente, corregida. En ella reside, en última instancia, la posibilidad de un derecho no solo válido, sino también justo.</p>
+		</sec>
+		<sec>
+			<title>4. Estándares de control constitucional sobre la motivación judicial</title>
+			<p>El control constitucional de las decisiones judiciales, particularmente en el ámbito penal, plantea una exigencia fundamental que no puede ser eludida sin comprometer la legitimidad misma del sistema jurídico: la motivación sustancial de las resoluciones judiciales. En una democracia constitucional, no es suficiente que los jueces decidan conforme a la ley; deben justificar sus decisiones de manera racional, clara y completa. Esta exigencia ha sido afirmada de forma contundente por el Tribunal Constitucional del Perú, especialmente en el Expediente N.º 03179-2004-AA/TC, donde se formula lo que puede considerarse un auténtico canon de razonabilidad constitucional. Esta fórmula de control, expresada en el fundamento jurídico 23 de dicha sentencia, articula tres dimensiones que deben concurrir de manera simultánea: razonabilidad, coherencia y suficiencia<xref ref-type="fn" rid="fn13"><sup>13</sup></xref>.</p>
+			<p>La razonabilidad impone que la motivación ofrecida por el órgano jurisdiccional tenga relevancia directa en función del derecho fundamental comprometido. No se trata simplemente de elaborar una argumentación formalmente correcta, sino de mostrar que la restricción del derecho en cuestión responde a un interés público legítimo y se encuentra justificada dentro del marco constitucional. En otras palabras, lo que se exige no es solo que el juez actúe conforme al derecho, sino que lo haga desde una lógica de respeto a la dignidad humana y a los principios que estructuran el orden constitucional. </p>
+			<p>La dimensión de coherencia, por su parte, remite a la estructura interna de la decisión. Una sentencia coherente es aquella que logra integrar los hechos, las pruebas y la conclusión dentro de un mismo horizonte de sentido, sin contradicciones lógicas ni rupturas narrativas. La coherencia exige más que la acumulación de datos: requiere una reconstrucción del caso que mantenga la congruencia entre lo que se afirma haber ocurrido, lo que se acredita como probado y la norma que se aplica para resolver el conflicto. De ahí que una sentencia que incorpore hechos aislados, valoraciones fragmentarias o argumentos mutuamente excluyentes no pueda considerarse constitucionalmente válida.</p>
+			<p>La tercera dimensión es la suficiencia. No es aceptable una motivación que apenas enuncie principios generales o repita fórmulas estandarizadas sin atender a la especificidad del caso. Una justificación sustantiva implica el deber de desarrollar una argumentación completa, que dé cuenta de todas las cuestiones relevantes planteadas en el proceso y que resista un escrutinio racional desde el punto de vista jurídico y el lógico. Esta exigencia de exhaustividad encuentra su justificación última en la idea de justicia como razonabilidad pública: solo una motivación suficiente permite a las partes comprender las razones del fallo, ejercer adecuadamente los medios impugnatorios y someter la decisión al juicio crítico de la comunidad.</p>
+			<p>Estas tres dimensiones no son exigencias formales ni simples recomendaciones metodológicas. Constituyen verdaderos imperativos constitucionales que se derivan directamente del principio de interdicción de la arbitrariedad y del derecho fundamental a la tutela jurisdiccional efectiva. Desde la teoría pura del derecho, Kelsen ya había advertido que la unidad del ordenamiento jurídico exige una coherencia normativa en la que las decisiones judiciales no pueden situarse al margen del sistema constitucional<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>. En consecuencia, el deber de motivación sustancial no solo habilita, sino que obliga al Tribunal Constitucional a intervenir en aquellos casos en que la argumentación judicial se aleje de estos estándares mínimos de legitimidad racional.</p>
+			<p>Ahora bien, si este canon normativo representa el ideal de racionalidad judicial al que debe aspirar toda resolución, resulta igualmente necesario examinar los principales desvíos o deficiencias argumentativas que pueden comprometer dicha racionalidad. La dogmática jurídica ha identificado, con creciente precisión, una serie de tipologías que permiten clasificar los vicios más comunes en la motivación de las sentencias. Estas no deben ser comprendidas como simples irregularidades procesales, sino como fallas estructurales que afectan la esencia misma del derecho a una decisión fundada en derecho.</p>
+			<p>La primera de estas tipologías es la inexistencia de motivación, es decir, la ausencia total de justificación por parte del órgano decisor. Esta omisión implica un acto de poder sin control, una forma de imposición que vulnera frontalmente el principio de legalidad y convierte el fallo en un acto arbitrario. Le sigue la falta de lógica interna, que se produce cuando los argumentos utilizados por el juez son contradictorios entre sí o contienen saltos lógicos que impiden reconstruir el razonamiento de manera clara. En estos casos, la sentencia se transforma en un discurso incoherente, incapaz de ofrecer razones comprensibles y, por tanto, inaceptable desde el punto de vista constitucional.</p>
+			<p>Otra forma de deficiencia es la denominada insuficiencia argumentativa, que se manifiesta cuando las razones expuestas resultan superficiales, vagas o irrelevantes frente a la complejidad del caso. Una sentencia que se limita a reproducir textos normativos o a invocar principios abstractos, sin explicar su aplicación al caso concreto, incumple el deber de motivación sustantiva y vacía de contenido el derecho a una tutela judicial efectiva. No menos grave es la deficiencia externa, en la que el fallo no establece un vínculo lógico entre los hechos probados y la conclusión jurídica adoptada. En estos supuestos, la decisión judicial aparece como un relato autónomo, desconectado del expediente y, por tanto, ilegítimo.</p>
+			<p>También se ha identificado la incongruencia sustancial, que ocurre cuando el juez omite pronunciarse sobre cuestiones esenciales planteadas por las partes o resuelve sobre aspectos no controvertidos sin la debida justificación. Este tipo de fallo lesiona el principio de contradicción y genera una situación de indefensión incompatible con el debido proceso. Finalmente, se encuentra la figura de la motivación cualificada, aplicable a aquellos casos que afectan derechos fundamentales. En tales contextos, la exigencia argumentativa se intensifica: no basta con justificar la decisión en términos generales, sino que se requiere una fundamentación reforzada, capaz de demostrar que la medida adoptada es estrictamente necesaria, idónea y proporcionada.</p>
+			<p>Estas categorías, lejos de ser meros recursos clasificatorios, cumplen una función crítica en el análisis del razonamiento judicial. Permiten identificar patrones de deficiencia argumentativa que, en muchos casos, se han naturalizado en la práctica judicial y que son urgentes de visibilizar. La motivación de las sentencias no puede ser considerada como un acto puramente técnico desligado de su función garantista. Es, en el fondo, la forma que asume el respeto por la dignidad del justiciable y la única vía mediante la cual el poder se transforma en autoridad legítima. Cuando esta motivación falta, se produce una ruptura en el pacto constitucional que sustenta el Estado de Derecho.</p>
+			<p>Debe entenderse que estas tres perspectivas (epistemológica, garantista y constitucional) no operan de forma independiente, convergen en un modelo de evaluación integrado. La exigencia constitucional de motivación suficiente (sec. 4, citando el Exp. N.º 03179-2004-AA/TC) es, en la práctica, la aplicación de un estándar epistemológico (sec. 3) que demanda validez inferencial y prohíbe el <italic>non sequitur</italic>. A su vez, el garantismo (sec. 3) dota de sentido a esta exigencia, proveyendo por qué teleológico: sin este rigor epistémico, la motivación fracasa como límite al poder punitivo. La prueba indiciaria, que se analiza a continuación, es el campo de pruebas por excelencia donde esta triangulación metodológica se torna operativa.</p>
+			<p>Un caso paradigmático adicional que ilustra esta deficiencia de forma pedagógica es el analizado por el Tribunal Constitucional peruano en la Sentencia 00728-2008-HC, ya mencionada (caso Giuliana Llamoja). En este expediente, el TC anuló una condena por parricidio, precisamente por una vulneración al deber de motivación en la prueba indiciaria. Las instancias judiciales previas habían establecido ciertos hechos base (por ejemplo: una relación conflictiva, la presencia de la imputada en el lugar). Sin embargo, el nexo inferencial para acreditar el hecho consecuencia (el <italic>animus necandi</italic> o dolo homicida) era inexistente. Los jueces inferiores dieron por sentada la intención a partir de los conflictos, sin construir una inferencia lógica y robusta que explicara, más allá de toda duda razonable, cómo se pasaba de la tensión familiar a la voluntad de matar, excluyendo otras hipótesis. Esta omisión de razonamiento es el ejemplo perfecto de insuficiencia argumentativa y ausencia de nexo inferencial que compromete la validez de la decisión.</p>
+		</sec>
+		<sec>
+			<title>5. Prueba indiciaria: estándares constitucionales y epistemológicos</title>
+			<p>En el campo del derecho penal, la necesidad de construir decisiones racionales se encuentra con una de sus pruebas más exigentes en la valoración de la prueba indiciaria. La naturaleza misma de este tipo de prueba, cuya validez depende no de la constatación directa de los hechos sino de la inferencia, impone un nivel de escrutinio epistemológico especialmente riguroso. No se trata solo de establecer lo que ocurrió, más bien de justificar racionalmente por qué a partir de ciertos hechos conocidos, puede deducirse la veracidad de otro hecho no observado directamente. En esta operación, la racionalidad judicial no se juega únicamente en el plano lógico, también en el ético y constitucional: la forma en que se infiere, lo que se omite y cómo se argumenta puede determinar si una sentencia es legítima o si, por el contrario, se convierte en una manifestación velada de arbitrariedad institucional.</p>
+			<p>La validez de la prueba indiciaria exige, como punto de partida, la existencia de un hecho base que haya sido plenamente acreditado. Este hecho, que opera como la premisa empírica del razonamiento judicial, no puede ser una simple conjetura o un dato meramente probable. Debe haber sido establecido con claridad, mediante prueba directa o a través de otros indicios suficientemente corroborados. En ausencia de este fundamento, cualquier inferencia posterior carece de sustento, por más sofisticado que sea el aparato argumentativo. Es aquí donde el proceso judicial comienza a deslindarse del terreno de la verdad racional para entrar en el de la especulación o, peor aún, en el de la suposición disfrazada de juicio.</p>
+			<p>Incluso cuando se cuenta con un hecho base sólido, la racionalidad de la inferencia no puede construirse sobre un único indicio, salvo que este posea una fuerza probatoria excepcional, algo que, en la práctica, resulta difícil de justificar sin caer en el riesgo de absolutizar lo que debería ser cuidadosamente ponderado. Por ello, la pluralidad de indicios ha sido reconocida como una condición material para conferir solidez al razonamiento indiciario. No se trata simplemente de acumular datos, también de articular un conjunto coherente de signos que, en su conjunto, conduzcan con razonable certeza a la conclusión. Esta convergencia de indicios debe, además, presentar una relación temporal razonablemente estrecha con el hecho a probar. La concomitancia temporal no es un formalismo técnico, sino una garantía de pertinencia: una inferencia que se apoya en hechos demasiado alejados en el tiempo corre el riesgo de anular la validez de la cadena lógica, pues pierde su conexión fáctica con el supuesto que se quiere demostrar.</p>
+			<p>A todo esto, se suma la necesidad de establecer un nexo inferencial claro y argumentativamente transparente entre los hechos base y la conclusión a la que se llega. Este enlace lógico no puede quedar implícito ni ser sustituido por intuiciones judiciales no explicitadas. Debe estar expresamente desarrollado, con claridad expositiva y justificación metodológica, de modo que pueda ser sometido a crítica racional tanto por las partes del proceso como por cualquier observador imparcial. El derecho penal moderno no se satisface con decisiones que parecen razonables; exige decisiones que pueden ser defendidas racionalmente dentro del marco constitucional y bajo el principio de presunción de inocencia.</p>
+			<p>Por esta razón, el uso de prueba indiciaria impone un deber de motivación reforzada que no puede ser relativizado por razones de economía procesal o de estilo argumentativo. La sentencia debe exponer de manera clara y estructurada qué hechos han sido tenidos por base, cuál es el hecho consecuencia que se intenta acreditar y cómo se construye el vínculo racional entre ambos. Esta cadena debe presentarse con suficiente robustez lógica como para cumplir con el estándar de convicción más allá de toda duda razonable. No se trata de una exigencia abstracta o de un ideal inalcanzable, sino de un umbral mínimo de racionalidad exigible en cualquier Estado que se pretenda respetuoso de los derechos fundamentales.</p>
+			<p>Cuando alguno de estos elementos está ausente o mal desarrollado, la sentencia no solo pierde calidad argumentativa, también compromete su validez constitucional. La presunción de inocencia no puede ser desplazada por presunciones tácitas y el deber de motivación no puede ser cumplido con fórmulas generales o razonamientos elípticos. En este sentido, la prueba indiciaria revela con particular nitidez el grado de compromiso que un sistema jurídico tiene con la racionalidad como fundamento de la jurisdicción. Allí donde los indicios son utilizados sin rigurosidad o donde el razonamiento se apoya en vínculos causales difusos, lo que emerge no es justicia, sino un acto de poder revestido de lenguaje jurídico.</p>
+			<p>Una motivación verdaderamente reforzada debe ofrecer, por tanto, algo más que un relato coherente: debe ser capaz de resistir el análisis crítico, de sostenerse en su estructura lógica y de demostrar que la conclusión no es la expresión de una creencia privada del juez, sino el resultado de un proceso racionalmente controlado. En este punto, se vuelve indispensable distinguir entre el razonamiento argumentativo y el uso retórico de la motivación. El primero busca convencer mediante razones compartibles; el segundo pretende legitimar una conclusión ya tomada, muchas veces sin haber recorrido el camino epistémico que exige el derecho penal garantista. Como ya advirtiera Ferrajoli, el juicio penal no puede ser un ejercicio de intuición judicial ni de libre convicción desanclada de razones<xref ref-type="fn" rid="fn15"><sup>15</sup></xref>. Debe ser, en todo momento, una demostración racional y controlable de que el poder punitivo ha sido ejercido con fundamento y con límites.</p>
+			<p>Desde esta perspectiva, la prueba indiciaria no representa un problema en sí misma, sino en el modo en que es aplicada. Puede ser legítima si su uso se encuentra debidamente motivado, si las inferencias están claramente articuladas y si las garantías procesales han sido respetadas; pero también puede convertirse en una fuente de graves injusticias si se recurre a ella de manera superficial, sin desarrollar adecuadamente sus condiciones de validez. En la experiencia judicial contemporánea, la línea que separa una inferencia legítima de una presunción arbitraria puede ser, lamentablemente, muy delgada. Por eso, más que confiar en la buena fe o en la experiencia del juzgador, el sistema debe exigir estándares argumentativos exigentes, verificables y sometidos a control.</p>
+			<p>Solo así será posible que el discurso judicial se sostenga como un verdadero ejercicio de razón pública y no como un simulacro de racionalidad al servicio de fines previamente asumidos. En definitiva, la motivación no es un recurso estilístico ni un simple requisito procesal: es la forma más tangible de legitimación del poder jurisdiccional en un Estado democrático de derecho.</p>
+		</sec>
+		<sec>
+			<title>6. Repercusiones en la teoría del derecho</title>
+			<p>En la reflexión contemporánea sobre el derecho penal y su legitimidad, se hace cada vez más insostenible sostener una concepción puramente instrumental de la justicia. La práctica judicial no puede ser evaluada únicamente en función de sus resultados, como si la pena impuesta justificara por sí sola los medios empleados para alcanzarla. En efecto, recurrir a motivaciones deficientes para sustentar una condena equivale a abandonar el marco normativo que da sentido al derecho penal en un Estado democrático. La racionalidad de este subsistema jurídico no puede estar supeditada a una lógica de eficacia o de utilidad, por más que, en determinados contextos, la tentación de asegurar resultados inmediatos pueda parecer persuasiva.</p>
+			<p>El utilitarismo judicial, entendido como la aceptación de decisiones condenatorias basadas en fundamentos argumentativos endebles, pero orientadas a garantizar la paz social, la eficiencia procesal o la ejemplaridad punitiva, constituye una forma de degradación del orden jurídico. Aquí no se trata de cuestionar la función preventiva del derecho penal ni de ignorar su dimensión pragmática, sino de recordar que sus decisiones deben descansar sobre una estructura racional de justificación y no sobre un cálculo de consecuencias. Condenar sin motivación suficiente o con una motivación meramente aparente, significa erosionar la legitimidad del poder punitivo, por mucho que esa condena pueda producir efectos deseables desde una lógica pragmática.</p>
+			<p>Frente a esta deriva utilitarista, se impone la necesidad de recuperar un enfoque deontológico de la función judicial. Tal enfoque no es una exigencia moral abstracta, sino una condición estructural de coherencia entre las normas jurídicas y su aplicación. Desde esta perspectiva, no es admisible ningún tipo de atajo argumentativo: el juez está obligado no solo a aplicar el derecho, sino a justificar racionalmente sus decisiones conforme a los principios que estructuran el sistema normativo. En otras palabras, la decisión judicial no debe ser evaluada únicamente por su capacidad para producir efectos jurídicos válidos, sino también y, sobre todo, por su capacidad para constituirse como un acto racional de autoridad. Solo así es posible preservar la confianza en el sistema de justicia como expresión del Estado de derecho y no como mera administración de consecuencias.</p>
+			<p>En este punto, resulta particularmente pertinente la reflexión de Dworkin, quien advierte que el acto de juzgar no puede disociarse de la integridad moral del derecho. Para Dworkin, el derecho no es simplemente un conjunto de normas aplicables, sino una práctica social que exige ser interpretada de manera coherente con los valores que la justifican<xref ref-type="fn" rid="fn16"><sup>16</sup></xref>. La falta de motivación en una sentencia no constituye, en este marco, un mero error técnico o procesal, sino una forma de traición a la integridad del sistema. El juez que decide sin justificar sus premisas, que omite explicar por qué considera probado un determinado hecho o por qué aplica una determinada norma, no actúa como un intérprete del derecho, sino como un legislador de facto. Al hacerlo, rompe el pacto de razón pública que sustenta la legitimidad del poder coercitivo del Estado.</p>
+			<p>Desde esta visión, el derecho aparece no como una simple técnica normativa, sino como un lenguaje común que permite a los ciudadanos comprender y cuestionar las decisiones que los afectan. La motivación judicial, entonces, no se limita a ser una obligación formal: es la expresión tangible de un compromiso con la racionalidad, la transparencia y el respeto por el otro como sujeto de derechos. En ausencia de una motivación adecuada, no hay posibilidad de control, de contradicción ni de reparación, solo hay imposición. Cuando esto ocurre, la autoridad judicial deja de ser legítima, incluso si formalmente cumple con los ritos del procedimiento.</p>
+			<p>En la práctica jurídica contemporánea, quizá uno de los desafíos más urgentes sea resistir la instrumentalización del proceso penal, especialmente en contextos de alta conflictividad social o de presión mediática. El derecho penal no puede convertirse en un medio para alcanzar fines políticos, morales o sociales sin un sólido sustento argumentativo. Cada sentencia debe ser comprendida no solo como una respuesta estatal, sino como una proposición racional dirigida a una comunidad que tiene el derecho de ser convencida, no simplemente vencida. En este sentido, el ideal de integridad que Dworkin propone no es una aspiración filosófica distante<xref ref-type="fn" rid="fn17"><sup>17</sup></xref>, sino una guía práctica para el ejercicio cotidiano de la función jurisdiccional.</p>
+			<p>Asumir este compromiso con la integridad significa entender que el derecho no se limita a la observancia de reglas, sino que implica una disposición constante a justificar, a deliberar, a dar razones. En un contexto donde el poder judicial está permanentemente expuesto al escrutinio ciudadano, el discurso judicial debe aspirar no solo a la corrección técnica, sino a la persuasión ética. La sentencia debe ser, por tanto, un ejercicio de responsabilidad institucional, en el que cada decisión sea capaz de sostenerse ante la razón pública. Solo así se preserva el sentido democrático del derecho, y con él, la dignidad de quienes lo aplican y de quienes están sujetos a él.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>6. Conclusiones</title>
+			<p>La motivación judicial no constituye una exigencia formal meramente complementaria, sino el fundamento epistémico central sobre el cual se edifica la legitimidad del poder jurisdiccional en contextos democráticos, no solo como aceptación social, también como justificación racional del ejercicio coercitivo del Estado, encuentra en la motivación el mecanismo por el cual la fuerza se transforma en autoridad. En efecto, si el poder de juzgar pretende erigirse como legítimo dentro de una democracia constitucional, debe someterse a la racionalidad pública, lo cual convierte al deber de motivar en una práctica discursiva esencial. Reformas estructurales que omitan este diagnóstico corren el riesgo de devenir en meros ajustes cosméticos, incapaces de resolver la desafección ciudadana hacia la justicia.</p>
+			<p>Desde una perspectiva teórica, se aborda una reconceptualización de la motivación judicial que incorpora tres dimensiones interdependientes: razonabilidad, coherencia y suficiencia. Estos elementos no deben entenderse como criterios aislados, sino como una estructura evaluativa destinada a medir la calidad epistémica de las decisiones. Esta tríada permite superar las aproximaciones reduccionistas que limitan la motivación al cumplimiento de estándares formales, al tiempo que introduce una dimensión garantista que impone exigencias cognitivas al poder sancionador del Estado. Esta estructura argumentativa no solo protege derechos fundamentales, sino que encarna una visión del derecho como práctica racional y ética. Así, se revela que una motivación deficiente no representa un fallo accesorio, sino una amenaza directa a la integridad del orden constitucional.</p>
+			<p>Las conclusiones obtenidas orientan líneas concretas de acción institucional. La necesidad de fortalecer la formación en argumentación jurídica no es una aspiración académica abstracta, sino una condición estructural para el funcionamiento legítimo del sistema judicial. Una capacitación centrada en la racionalidad argumentativa, y no solo en la aplicación de normas procesales, resulta esencial para asegurar decisiones judiciales que resistan el escrutinio público. Del mismo modo, los órganos de control deben adoptar un enfoque más proactivo, estableciendo estándares exigentes en materia de motivación que contribuyan a delimitar su alcance normativo y su valor epistémico. Experiencias comparadas muestran que la mejora de la calidad argumentativa repercute directamente en la percepción de legitimidad, lo cual sugiere que el fortalecimiento de la motivación judicial constituye también una estrategia efectiva para reconstruir la confianza ciudadana.</p>
+			<p>Las líneas de investigación futuras exigen una apertura tanto empírica como conceptual. Urge realizar estudios que evalúen la relación entre calidad argumentativa y percepción pública de legitimidad, así como investigaciones que exploren las prácticas comparadas en materia de fundamentación judicial. Asimismo, resulta fecundo indagar en el uso de la prueba indiciaria desde una perspectiva interdisciplinaria, que incorpore tanto herramientas de la lógica formal como aportes de las ciencias cognitivas. Esta agenda investigativa no puede excluir, por último, una reflexión cultural sobre las formas en que distintas tradiciones jurídicas conceptualizan el deber de motivar, lo que permitiría repensar este fenómeno más allá de sus formulaciones normativas.</p>
+			<p>La motivación judicial se ha convertido en un espacio de disputa por el sentido mismo del derecho en las democracias contemporáneas. Frente a la creciente presión por decisiones expeditivas y la tentación de soluciones automatizadas, defender la densidad argumentativa de las sentencias equivale a resguardar el carácter deliberativo del poder judicial. No se trata de idealizar la racionalidad jurídica, más bien de afirmar que sin ella el derecho se despoja de su vocación emancipadora. La motivación, en su dimensión epistémica y ética, representa una de las últimas líneas de defensa frente al vaciamiento tecnocrático del Estado de derecho. De ahí que su calidad no pueda seguir siendo objeto exclusivo de escrutinio técnico, sino una cuestión política de primer orden que convoca a la ciudadanía en su conjunto. En esta encrucijada, el derecho se juega no solo su eficacia, sino su legitimidad como herramienta de justicia.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>7. Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Aarnio, Aulis. <italic>The Rational as Reasonable</italic>. <italic>A Treatise on Legal Justification</italic>. Dordrecht: D. Reidel Publishing Company, 1986. https://doi.org/10.1007/978-94-009-4700-9.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aarnio</surname>
+							<given-names>Aulis</given-names>
+						</name>
+					</person-group>
+					<source>The Rational as Reasonable. A Treatise on Legal Justification</source>
+					<publisher-loc>Dordrecht</publisher-loc>
+					<publisher-name>D. Reidel Publishing Company</publisher-name>
+					<year>1986</year>
+					<pub-id pub-id-type="doi">10.1007/978-94-009-4700-9</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Alexy, Robert. <italic>Teoría de los derechos fundamentales</italic>. Madrid: Centro de Estudios Políticos y Constitucionales, 2022.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alexy</surname>
+							<given-names>Robert</given-names>
+						</name>
+					</person-group>
+					<source>Teoría de los derechos fundamentales</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Centro de Estudios Políticos y Constitucionales</publisher-name>
+					<year>2022</year>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Aristóteles. <italic>Ética nicomáquea: ética eudemia</italic>. Traducido por Julio Pallí Bonet. Madrid: Gredos, 1985.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Aristóteles</collab>
+					</person-group>
+					<source>Ética nicomáquea: ética eudemia</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Pallí Bonet</surname>
+							<given-names>Julio</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Gredos</publisher-name>
+					<year>1985</year>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Dworkin, Ronald. <italic>Los derechos en serio</italic>. Barcelona: Grupo Planeta, 1977.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dworkin</surname>
+							<given-names>Ronald</given-names>
+						</name>
+					</person-group>
+					<source>Los derechos en serio</source>
+					<publisher-loc>Barcelona</publisher-loc>
+					<publisher-name>Grupo Planeta</publisher-name>
+					<year>1977</year>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Ferrajoli, Luigi. <italic>Garantismo penal</italic>. Ciudad de México: UNAM, 2006.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ferrajoli</surname>
+							<given-names>Luigi</given-names>
+						</name>
+					</person-group>
+					<source>Garantismo penal</source>
+					<publisher-loc>Ciudad de México</publisher-loc>
+					<publisher-name>UNAM</publisher-name>
+					<year>2006</year>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Habermas, Jürgen. <italic>Facticidad y validez: sobre el derecho y el Estado democrático de derecho en términos de teoría del discurso</italic>. Madrid: Editorial Trotta, 1998.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Habermas</surname>
+							<given-names>Jürgen</given-names>
+						</name>
+					</person-group>
+					<source>Facticidad y validez: sobre el derecho y el Estado democrático de derecho en términos de teoría del discurso</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Editorial Trotta</publisher-name>
+					<year>1998</year>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Kant, Immanuel. <italic>Fundamentación de la metafísica de las costumbres</italic>. Roma: Greenbooks Editore, 2020.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kant</surname>
+							<given-names>Immanuel</given-names>
+						</name>
+					</person-group>
+					<source>Fundamentación de la metafísica de las costumbres</source>
+					<publisher-loc>Roma</publisher-loc>
+					<publisher-name>Greenbooks Editore</publisher-name>
+					<year>2020</year>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Kelsen, Hans. <italic>Teoría pura del derecho</italic>. Buenos Aires: EUDEBA, 1960.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kelsen</surname>
+							<given-names>Hans</given-names>
+						</name>
+					</person-group>
+					<source>Teoría pura del derecho</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>EUDEBA</publisher-name>
+					<year>1960</year>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>MacCormick, Neil. <italic>Razonamiento jurídico y teoría del derecho</italic>. Lima: Palestra Editores, 2019.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>MacCormick</surname>
+							<given-names>Neil</given-names>
+						</name>
+					</person-group>
+					<source>Razonamiento jurídico y teoría del derecho</source>
+					<publisher-loc>Lima</publisher-loc>
+					<publisher-name>Palestra Editores</publisher-name>
+					<year>2019</year>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Nieto, Alejandro. <italic>El arbitrio judicial: entrando en la mente del juez</italic>. Madrid: Colex, 2021.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nieto</surname>
+							<given-names>Alejandro</given-names>
+						</name>
+					</person-group>
+					<source>El arbitrio judicial: entrando en la mente del juez</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Colex</publisher-name>
+					<year>2021</year>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Rawls, John. <italic>Political Liberalism</italic>. Nueva York: Columbia University Press, 2005.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rawls</surname>
+							<given-names>John</given-names>
+						</name>
+					</person-group>
+					<source>Political Liberalism</source>
+					<publisher-loc>Nueva York</publisher-loc>
+					<publisher-name>Columbia University Press</publisher-name>
+					<year>2005</year>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Taruffo, Michele. <italic>La motivación de la sentencia civil</italic>. Madrid: Editorial Trotta, 2011.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Taruffo</surname>
+							<given-names>Michele</given-names>
+						</name>
+					</person-group>
+					<source>La motivación de la sentencia civil</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Editorial Trotta</publisher-name>
+					<year>2011</year>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Wróblewski, Jerzy. <italic>The Judicial Application of Law</italic>. Dordrecht: Springer Science &amp; Business Media, 2013.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wróblewski</surname>
+							<given-names>Jerzy</given-names>
+						</name>
+					</person-group>
+					<source>The Judicial Application of Law</source>
+					<publisher-loc>Dordrecht</publisher-loc>
+					<publisher-name>Springer Science &amp; Business Media</publisher-name>
+					<year>2013</year>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Zagrebelsky, Gustavo. <italic>El derecho dúctil: ley, derechos, justicia</italic>. Madrid: Editorial Trotta, 1997.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zagrebelsky</surname>
+							<given-names>Gustavo</given-names>
+						</name>
+					</person-group>
+					<source>El derecho dúctil: ley, derechos, justicia</source>
+					<publisher-loc>Madrid</publisher-loc>
+					<publisher-name>Editorial Trotta</publisher-name>
+					<year>1997</year>
+				</element-citation>
+			</ref></ref-list>
+			<ref-list>
+			<title>Documentos legales:</title>
+			<ref id="B15">
+				<mixed-citation>Sentencia del Expediente N.° 03179-2004-AA/TC (el 13 de octubre de 2006). <ext-link ext-link-type="uri" xlink:href="https://www.tc.gob.pe/jurisprudencia/2006/03179-2004-AA.html">https://www.tc.gob.pe/jurisprudencia/2006/03179-2004-AA.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<source>Sentencia del Expediente N.° 03179-2004-AA/TC</source>
+					<day>13</day>
+					<month>10</month>
+					<year>2006</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.tc.gob.pe/jurisprudencia/2006/03179-2004-AA.html">https://www.tc.gob.pe/jurisprudencia/2006/03179-2004-AA.html</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Jürgen Habermas</xref>, <italic>Facticidad y validez: sobre el derecho y el Estado democrático de derecho en términos de teoría del discurso</italic> (Madrid: Editorial Trotta, 1998).</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>
+					<xref ref-type="bibr" rid="B12">Michele Taruffo</xref>, <italic>La motivación de la sentencia civil</italic> (Madrid: Editorial Trotta, 2011); <xref ref-type="bibr" rid="B13">Jerzy Wróblewski</xref>, <italic>The Judicial Application of Law</italic> (Dordrecht: Springer Science &amp; Business Media, 2013).</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">Aulis Aarnio</xref>, <italic>The Rational as Reasonable</italic>, Law and Philosophy Library (Dordrecht: Springer Netherlands, 1986); <xref ref-type="bibr" rid="B9">Neil MacCormick</xref>, <italic>Razonamiento jurídico y teoría del derecho</italic> (Lima: Palestra Editores, 2019).</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">Luigi Ferrajoli</xref>, <italic>Garantismo penal</italic> (Ciudad de México: UNAM, 2006).</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>
+					<xref ref-type="bibr" rid="B14">Gustavo Zagrebelsky</xref>, <italic>El derecho dúctil: ley, derechos, justicia</italic> (Madrid: Editorial Trotta, 1997); <xref ref-type="bibr" rid="B4">Ronald Dworkin</xref>, <italic>Los derechos en serio</italic> (Barcelona: Grupo Planeta, 1977).</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>
+					<xref ref-type="bibr" rid="B10">Alejandro Nieto</xref>, <italic>El arbitrio judicial: entrando en la mente del juez</italic> (Madrid: Colex, 2021).</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>
+					<xref ref-type="bibr" rid="B2">Robert Alexy</xref>, <italic>Teoría de los derechos fundamentales</italic> (Madrid: Centro de Estudios Políticos y Constitucionales, 2022).</p>
+			</fn>
+			<fn fn-type="other" id="fn8">
+				<label>8</label>
+				<p>
+					<xref ref-type="bibr" rid="B3">Aristóteles</xref>, <italic>Ética nicomáquea: ética eudemia</italic>. Trad. por Julio Pallí Bonet (Madrid: Gredos, 1985).</p>
+			</fn>
+			<fn fn-type="other" id="fn9">
+				<label>9</label>
+				<p>
+					<xref ref-type="bibr" rid="B7">Immanuel Kant</xref>, <italic>Fundamentación de la metafísica de las costumbres</italic> (Roma: Greenbooks Editore, 2020).</p>
+			</fn>
+			<fn fn-type="other" id="fn10">
+				<label>10</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Jürgen Habermas</xref>, <italic>Facticidad y validez. Sobre el derecho y el Estado democrático de derecho en términos de teoría del discurso</italic> (Madrid: Editorial Trotta, 2023).</p>
+			</fn>
+			<fn fn-type="other" id="fn11">
+				<label>11</label>
+				<p>
+					<xref ref-type="bibr" rid="B11">John Rawls</xref>, <italic>Political Liberalism</italic> (Nueva York: Columbia University Press, 2005).</p>
+			</fn>
+			<fn fn-type="other" id="fn12">
+				<label>12</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">Luigi Ferrajoli</xref>, <italic>Garantismo penal</italic>…</p>
+			</fn>
+			<fn fn-type="other" id="fn13">
+				<label>13</label>
+				<p>“Sentencia del Tribunal Constitucional”, Tribunal Constitucional. Perú, <ext-link ext-link-type="uri" xlink:href="https://www.tc.gob.pe/jurisprudencia/2006/03179-2004-AA.html">https://www.tc.gob.pe/jurisprudencia/2006/03179-2004-AA.html</ext-link>.</p>
+			</fn>
+			<fn fn-type="other" id="fn14">
+				<label>14</label>
+				<p>
+					<xref ref-type="bibr" rid="B8">Hans Kelsen</xref>, <italic>Teoría pura del derecho</italic> (Buenos Aires: EUDEBA, 1960).</p>
+			</fn>
+			<fn fn-type="other" id="fn15">
+				<label>15</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">Luigi Ferrajoli</xref>, <italic>Garantismo penal</italic>…</p>
+			</fn>
+			<fn fn-type="other" id="fn16">
+				<label>16</label>
+				<p>
+					<xref ref-type="bibr" rid="B4">Ronald Dworkin</xref>, <italic>Los derechos en serio</italic>…</p>
+			</fn>
+			<fn fn-type="other" id="fn17">
+				<label>17</label>
+				<p><italic>Idem</italic>.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

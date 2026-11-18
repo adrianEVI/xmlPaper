@@ -8,3 +8,4 @@ lxml
 python-dotenv==1.0.1
 google-genai
 pydantic
+pdf2docx

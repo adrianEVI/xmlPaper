@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biolex</journal-id>
+			<journal-title-group>
+				<journal-title>Biolex</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biolex</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">2007-5634</issn>
+			<issn pub-type="epub">2007-5545</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Sociales</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.36796/biolex.v17i28.428</article-id>
+			<article-id pub-id-type="other">00113</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Estudio de caso</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La sustentabilidad a través de la legislación ambiental en materia de educación: caso Sonora</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Sustainability Through Environmental Legislation in Education: the Sonora Case</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Gutiérrez Patiño</surname>
+						<given-names>Raúl</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<role>Académico de Tiempo Completo</role>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original">Académico de Tiempo Completo del Centro Transdisciplinar Universitario para la Sustentabilidad de la Universidad Iberoamericana (CENTRUS); raul.gutierrez@ibero.mx</institution>
+					<institution content-type="normalized">Universidad Iberoamericana</institution>
+					<institution content-type="orgname">Universidad Iberoamericana</institution>
+					<country country="MX">Mexico</country>
+					<email>raul.gutierrez@ibero.mx</email>
+				</aff>
+			</contrib-group>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>18</day>
+				<month>12</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>17</volume>
+			<issue>28</issue>
+			<elocation-id>e428</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>26</day>
+					<month>08</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>19</day>
+					<month>11</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>En el presente trabajo se analizó el papel de la educación para garantizar el desarrollo sustentable, lo cual requiere de la formación integral de la persona con miras a fortalecer la protección del entorno natural. Para ello, se requiere de normatividades concurrentes y dinámicas que promuevan el desarrollo de la justicia ambiental como noción indivisible de la justicia social. Se realizó una investigación documental y se aplicó el método analítico para extraer conclusiones respecto a la transversalidad entre legislación y educación ambiental tomando al estado de Sonora como caso de estudio. En primer lugar, se revisó el papel de la sustentabilidad como manifestación del ejercicio democrático y, posteriormente, se analizó la homologación entre la legislación general en materia de educación y la legislación local del estado de Sonora, con el propósito de determinar sus alcances en relación con la sustentabilidad. Se concluyó que la legislación de Sonora favorece a la consolidación del desarrollo sustentable y sus disposiciones favorecen a la doctrina de las ciencias jurídicas ambientales.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>The following paper aims the importance of education in stablishing the sustainable development, which can be possible only through the formation towards the protection of the natural environment. Therefore, environmental law must be taken into consideration for the construction of those laws concerned about education in order to guarantee social and environmental justice as the effectiveness of democracy itself. To achieve this goal, the paper was written under a documentary investigation followed by the analysis of legislation and environmental education, applied in the state of Sonora, Mexico. The research begins by discussing the role of sustainability in favor of democracy and then proceeds to analyze the relationship between the Mexican Education General Legislation and the Sonora’s Education Local Legislation to determine its scope with respect to sustainability. It was concluded that Sonora's legislation favors the consolidation of sustainable development and its provisions favor the doctrine of environmental legal sciences.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>educación ambiental</kwd>
+				<kwd>desarrollo sostenible</kwd>
+				<kwd>justicia ambiental</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Environmental education</kwd>
+				<kwd>environmental justice</kwd>
+				<kwd>sustainable development</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="3"/>
+				<equation-count count="0"/>
+				<ref-count count="17"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>I. Introducción</title>
+			<p>La búsqueda de un modelo de desarrollo favorable al progreso y bienestar de generaciones presentes y futuras requiere de la construcción de marcos normativos que se adapten a las turbulencias de los tiempos y que coadyuven a la generación de agentes de cambio social.</p>
+			<p>Esto pone de manifiesto que la formación educativa en materia ambiental representa la piedra angular que sustenta el carácter tanto preventivo como precautorio de las ciencias jurídicas ambientales y, con ello, favorecer el cambio de la relación que el ser humano guarda con el entorno natural.</p>
+			<p>Para ello se debe fomentar la importancia en torno a la protección, conservación y salvaguarda del entorno natural, lo cual no puede ser sino a través del sentido de pertenencia de las personas, el cual parte de la educación como eje rector de la paz social.</p>
+			<p>En este sentido, el presente escrito pretende analizar la consolidación de la educación ambiental a través del ejercicio jurídico que ha llevado a cabo el estado de Sonora con base en su ley y cómo sus alcances permiten orientar al Estado mexicano para lograr el desarrollo sustentable.</p>
+			<p>Lo anterior resulta especialmente relevante, ya que, además de que su ley local está homologada con la Ley General, se abre una suerte de interrogantes; la principal, para efectos de la presente investigación, versa en qué tanto profundiza en la impartición de la educación ambiental con miras a lograr el desarrollo sustentable.</p>
+			<p>Para dar cumplimiento al objetivo y responder dicha pregunta, el escrito parte de una aproximación cualitativa y un análisis jurídico de tipo hermenéutico, toda vez que se lleva a cabo una interpretación de la Ley para coadyuvar en su alcance e implementación, con el ánimo de profundizar en torno a la simbiosis entre educación y sustentabilidad como manifestación del ejercicio democrático. Lo anterior permite determinar su importancia como condicionante de la efectividad del Estado de Derecho y, posteriormente, ahondar en la homologación normativa entre el Estado mexicano y el estado de Sonora.</p>
+		</sec>
+		<sec>
+			<title>I. La sustentabilidad como manifestación del ejercicio democrático</title>
+			<p>En 1987, el informe Brundtland de las Naciones Unidas, conocido como Nuestro Futuro Común, definió al desarrollo sostenible (<italic>sustainable development</italic>) como aquel que permite “satisfacer las necesidades de las generaciones presentes sin comprometer el de las generaciones futuras.”<xref ref-type="fn" rid="fn1"><sup>1</sup></xref> Dicha definición ha resultado fundamental para entender que la eficacia y eficiencia de cualquier modelo de desarrollo parte de la protección y salvaguarda del medio ambiente. Esto requiere de la evolución del Estado de Derecho para el diseño de normatividades que den luz a estrategias económicas, políticas y sociales para superar la lógica de la explotación de la naturaleza al servicio del ser humano.</p>
+			<p>Sin embargo, cuando al interior del concierto internacional se llevó a cabo la traducción de <italic>sustainable</italic> al español, se entendió como ‘sustentable’. Por lo tanto, si bien la sustentabilidad y sostenibilidad se han inscrito como sinónimos en el estudio ambiental, poseen particularidades que se articulan para lograr el bienestar intra e intergeneracional; toda vez que el primero, gira en torno a la estabilidad socioeconómica con base con la salvaguarda ambiental y el segundo, sobre la estrategia para lograr dicho cometido a corto, mediano y largo plazo.</p>
+			<p>Con base en lo anterior, se aprecia la importancia de la formación social en aras de asegurar el bien común. Por lo tanto, se requiere de un marco jurídico que asegure la comprensión respecto a la importancia del aprovechamiento sustentable de la naturaleza y sus recursos como el eje rector del desarrollo libre, pleno e integral de las personas. Esto requiere de la simbiosis entre educación formal -aquella que se atiene a los métodos y a las fórmulas convencionales y que se desarrolla de forma organizada y consciente- y la educación informal, el proceso no planeado y espontáneo que se desarrolla lejos de la escuela, pero que repercute, de hecho, en la formación del ser humano.<xref ref-type="fn" rid="fn2"><sup>2</sup></xref>
+			</p>
+			<p>Así pues, se necesita de una legislación que encamine al ejercicio educativo hacia la preservación del ambiente y el aprovechamiento sustentable, en cuyas prácticas, programas y planes de estudio se atice el sentido de pertenencia al entorno natural con el ánimo de fortalecer el desarrollo de códigos culturales más allá de un claustro académico en favor de la educación ambiental, la cual “consiste en lograr que los individuos y las colectividades comprendan la naturaleza compleja del ambiente natural y del creado por el ser humano, que sea resultado de la interacción de sus aspectos biológicos, físicos, sociales, económicos y culturales; y adquieran los conocimientos, valores, comportamientos y habilidades prácticas para participar responsable y eficazmente en la prevención y la solución de los problemas ambientales, y en la gestión relacionada con la calidad ambiental (Caduto, 1992).<xref ref-type="fn" rid="fn3"><sup>3</sup></xref>
+			</p>
+			<sec>
+				<title>I.1. La simbiosis entre la legislación ambiental y la educación para el desarrollo sustentable</title>
+				<p>La complejidad de las problemáticas medioambientales requiere de modelos educativos que favorezcan en los individuos la posibilidad de asumirse como auténticos agentes de cambio social, al tiempo de robustecer las responsabilidades del Estado para garantizar del bien común.</p>
+				<p>Bajo esta perspectiva, la educación se traduce como una herramienta para la consolidación de la indivisibilidad entre la justicia social y la justicia ambiental, por lo que debe asumirse, desde una lógica multidimensional, que conlleve al cuestionamiento crítico para identificar y atender los retos de la sociedad.<xref ref-type="fn" rid="fn4"><sup>4</sup></xref>
+				</p>
+				<p>Lo anterior permite hacer frente a una realidad profundamente asimétrica y turbulenta plagada de irregularidades, cuyas soluciones no dependen de la acumulación automatizada de información, sino de la aplicación del conocimiento para lograr el desarrollo sostenible. Con base en ello, se pueden diseñar estrategias para la construcción de paz, lo que lleva al reconocimiento de la existencia de saberes que van más allá del claustro académico y que nutren la sapiencia para atender problemáticas inmersas en contextos, de los cuales muchas veces se desconoce el pulso social. Es decir, solo a través de la deconstrucción de la educación llamada “formal”, misma que, como afirma Caride, está plagada de “informalidades”, podremos hablar de la formación integral de actores de cambio, cuya destreza se antoja urgente para la creación de narrativas que resuelvan y no que dividan, que coadyuven en la elaboración de doctrinas, o lo sean en sí mismas con el ánimo de procurar el desarrollo socioambiental, del cual, depende la vida misma.<xref ref-type="fn" rid="fn5"><sup>5</sup></xref>
+				</p>
+				<p>Sólo en la medida en que la Ley favorezca un ejercicio educativo tendiente a la introspección sobre la importancia que representa la preservación del patrimonio natural, como elemento sine qua non de todos aquellos bienes jurídicamente tutelados relacionados al medio ambiente, podremos decir que vivimos en un auténtico sistema democrático; por lo que profundizar sobre lo sostenible y sustentable, no es otra cosa que sumar voces, esfuerzos y saberes para ahondar en aquellos elementos que acentúan la incertidumbre de la supervivencia humana, inmersa en una realidad donde intempestivamente se buscan justificaciones para minimizar nuestra responsabilidad en relación al legítimo derecho que tenemos los seres humanos para modificar el entorno natural para nuestra supervivencia, llevando a cabo acciones ilegítimas (no necesariamente ilegales) que se concretan en daños ambientales.</p>
+			</sec>
+			<sec>
+				<title>I.2. Gobernabilidad institucional y el desarrollo sostenible</title>
+				<p>De acuerdo con Chacón “en cuanto a la clase política, les es conveniente mantener el significado entre sostenible y sustentable, ya que facilita mucho los paliativos necesarios para calmar a la población que exige acciones que mejoren su calidad de vida y aseguren un mejor futuro para sus generaciones venideras”.<xref ref-type="fn" rid="fn6"><sup>6</sup></xref>
+				</p>
+				<p>Lo anterior se agudiza con mayor vehemencia cuando reconocemos las dificultades que obstaculizan un modelo de desarrollo acorde a la preservación del entorno natural y la distribución equitativa de los ingresos en apego irrestricto a la salvaguarda de los servicios ambientales, ya que ello representa una amenaza a los intereses, objetivos y prioridades de grupos -bien sean públicos o privados- cuyo <italic>estatus quo</italic> depende de la explotación de la naturaleza; por lo que pareciera una batalla perdida.</p>
+				<p>Sin embargo, cuando escudriñamos en la composición de la legislación ambiental y analizamos su implementación a través del ejercicio jurídico, podemos percatarnos que, a la luz de la transversalidad entre el derecho y la educación con base en la gobernabilidad institucional, se puede sustraer a la sustentabilidad del éter y materializarla gracias a la formación integral del estudiantado y la participación social, lo cual -al menos en el mundo del “deber ser”- combate a los vicios del quehacer político y todos aquellos que erosionan el derecho humano a un medio ambiente sano.</p>
+				<p>En este sentido, la Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT) aborda la concepción de sustentabilidad independiente de la sostenibilidad y refiere a una noción que “se aplica a la argumentación para explicar razones o defender, en tanto que lo sostenible es lo que se puede mantener durante largo tiempo sin agotar los recursos”.<xref ref-type="fn" rid="fn7"><sup>7</sup></xref>
+				</p>
+				<p>Bajo esta tesitura, dicha institución reconoce de forma implícita la necesidad de ejecutar estrategias para que México pueda transitar y consolidarse bajo un modelo de desarrollo en donde el objetivo principal sea fomentar la incidencia de toda la nación mexicana para la preservación del patrimonio natural, hecho que demuestra que la educación para la sustentabilidad se inscribe como un imperativo categórico de todo el marco normativo en materia ambiental.</p>
+				<p>De acuerdo con Sánchez, “la sustentabilidad es la apertura a lo social desde las distintas percepciones, visiones, prácticas e ideologías que reconocen en la naturaleza su valor intrínseco y respetan las interrelaciones que en ella se llevan a cabo”.<xref ref-type="fn" rid="fn8"><sup>8</sup></xref> Por tanto, se puede afirmar que la sustentabilidad obedece a una noción universal tendiente a la preservación del medio ambiente, mientras que la sostenibilidad hace referencia a su implementación a la luz de la soportabilidad ambiental, viabilidad económica y equidad social.</p>
+				<p>Para llevar a cabo lo previamente señalado, es menester asegurar la eficacia y eficiencia de la gobernabilidad institucional como eje rector del estado de derecho y el ejercicio del buen gobierno a efecto de garantizar el bien común, hecho que no puede ser sino a través de una educación que favorezca la generación de un cambio de conciencia con respecto a la acción humana y sus efectos en detrimento del entorno natural.</p>
+				<p>Como afirma Chacón, “una de las partes más importantes para el desarrollo sostenible son las instituciones públicas, sus reglamentos, políticas y la aplicación de las mismas son necesarias para orientar a la sociedad por el camino correcto, por tanto, si las instituciones públicas no llevan una correcta educación sobre desarrollo sostenible, la sociedad difícilmente podrá lograrlo”.<xref ref-type="fn" rid="fn9"><sup>9</sup></xref>
+				</p>
+				<p>A la luz de lo descrito anteriormente, debemos reconocer que la educación refiere a la interdependencia entre las dimensiones privada, pública y social sobre las que descansa el entendimiento jurídico, es decir, refiere al rol que desempeñan los distintos actores para la creación de normatividades tendientes a robustecer los alcances de la educación a través de la incorporación de la variable ambiental para lograr el cuidado de la casa común.</p>
+				<p>Por lo tanto, debemos considerar que “la educación ambiental no es neutra, sino ideológica, es un acto político basado en valores para la transformación social; por lo que se requiere de asumir a la educación ambiental como una educación política, es decir, en términos de propuestas que trasciendan la retórica y de esta forma, hacer valer los principios y valores democráticos”.<xref ref-type="fn" rid="fn10"><sup>10</sup></xref>
+				</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>II. Discusión y resultados: la homologación jurídica para el desarrollo de la educación ambiental en Sonora</title>
+			<p>La homologación jurídica entre leyes generales y locales favorece la evolución del Estado de Derecho y demuestra como el Estado redobla su esfuerzo para cumplir con el marco jurídico internacional que favoreció el surgimiento, desarrollo y consolidación de legislaciones nacionales.</p>
+			<p>Entre dichos instrumentos internacionales, merece la pena señalar el principio 19 de la Declaración de Estocolmo (1972), el cual cita: “Es indispensable una labor de educación en cuestiones ambientales, dirigida tanto a las generaciones jóvenes como a los adultos …”.<xref ref-type="fn" rid="fn11"><sup>11</sup></xref> Por otro lado, se encuentra el objetivo de la Carta de Belgrado (1975), referente a “ayudar a las personas y a los grupos sociales a adquirir una comprensión básica del medio ambiente en su totalidad, de los problemas conexos y de la presencia y función de la humanidad en él, lo que entraña una responsabilidad crítica”.<xref ref-type="fn" rid="fn12"><sup>12</sup></xref> Además, el capítulo 36.3 de la Agenda 21 (1992), en donde se reconoce la importancia de la educación “para promover el desarrollo sostenible y aumentar la capacidad de las poblaciones para abordar cuestiones ambientales y de desarrollo”.<xref ref-type="fn" rid="fn13"><sup>13</sup></xref> Finalmente, el objetivo 4 de la Agenda 2030 (2015), el cual reconoce que “la consecución de una educación de calidad es la base para mejorar la vida de las personas y el desarrollo sostenible”.<xref ref-type="fn" rid="fn14"><sup>14</sup></xref>
+			</p>
+			<p>Para llevar a cabo lo anterior, merece la pena profundizar en aspectos como la prestación de servicios educativos, la formación en torno a valores y sensibilización para la consolidación de la sustentabilidad a través del desarrollo sostenible en aras de materializar la justicia ambiental, como se menciona en la <xref ref-type="table" rid="t1">Tabla 1</xref>.</p>
+			<p>
+				<table-wrap id="t1">
+					<label>Tabla 1</label>
+					<caption>
+						<title><italic>Componentes de la educación para la sustentabilidad y la justicia ambiental. Artículos 12 y 10</italic>	</title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;"><bold>Ley General de Educación</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;"><bold>Ley de    Educación del Estado de Sonora</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">En la fracción    III del artículo 12 se afirma que "En la prestación de los servicios    educativos se impulsará el desarrollo humano integral para: […]. Fortalecer    el tejido social para evitar la corrupción, a través del fomento de la    honestidad y la integridad, además de proteger la naturaleza, impulsar el    desarrollo en lo social, ambiental, económico, así como favorecer la    generación de capacidades productivas y fomentar una justa distribución del    ingreso […].<xref ref-type="fn" rid="fn15"><sup>15</sup></xref> </td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">En la fracción    III del artículo 10 se afirma que "En la prestación de los servicios    educativos se impulsará el desarrollo humano integral […] Fortalecer el    tejido social para evitar la corrupción, a través del fomento de la    honestidad y la integridad, además de proteger la naturaleza, impulsar el    desarrollo en lo social, ambiental, económico, así como favorecer la    generación de capacidades productivas y fomentar una justa distribución del    ingreso […].<xref ref-type="fn" rid="fn16"><sup>16</sup></xref> </td>
+  </tr>
+</tbody>
+</table>
+
+				</table-wrap>
+			</p>
+			<p>La particularidad que resulta especialmente destacable de ambas disposiciones, es que las dos refieren a la educación como una herramienta para la consolidación de la justicia ambiental, es decir, se infiere que con base en sus disposiciones que la justicia ambiental y la justicia social se inscriben como sinónimos y que el combate a la corrupción por medio de la educación, es el camino más efectivo para lograr la consolidación de la Ley, entendida a que ésta será justa solo en la medida en que atienda las legítimas demandas e intereses de la sociedad.</p>
+			<p>
+				<table-wrap id="t2">
+					<label>Tabla 2.</label>
+					<caption>
+						<title><italic>Componentes de la educación para la sustentabilidad y la justicia ambiental. Artículos 13 y 11</italic></title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;"><bold>Ley General de Educación</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;"><bold>Ley de    Educación del estado de Sonora</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">La fracción IV    del artículo 13 señala que "se fomentará en las personas una educación basada    en: […] El respeto y cuidado al medio ambiente, con la constante orientación    hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación    con la naturaleza y de los temas sociales, ambientales y económicos, así como    su responsabilidad para la ejecución de acciones que garanticen su preservación    y promuevan estilos de vida sostenibles";.<xref ref-type="fn" rid="fn17"><sup>17</sup></xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">La fracción IV    del artículo 11 señala que "se fomentará en las personas una educación basada    en: […] El respeto y cuidado al medio ambiente, con la constante orientación    hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación    con la naturaleza y de los temas sociales, ambientales y económicos, así como    su responsabilidad para la ejecución de acciones que garanticen su    preservación y promuevan estilos de vida sostenibles.<xref ref-type="fn" rid="fn18"><sup>18</sup></xref></td>
+  </tr>
+  </tbody>
+</table>
+				</table-wrap>
+			</p>
+			<p>La fracción XXII del artículo 13 de la Ley de Educación del Estado de Sonora (LES) establece que:</p>
+			<disp-quote>
+				<p>La educación impartida en el Estado de Sonora, persigue los siguientes fines […] Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales […].<xref ref-type="fn" rid="fn19"><sup>19</sup></xref>
+				</p>
+			</disp-quote>
+			<p>
+				<table-wrap id="t3">
+					<label>Tabla 3.</label>
+					<caption>
+						<title><italic>Componentes de la educación para la sustentabilidad y la justicia ambiental. Artículos 16 y 14</italic></title>
+					</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;"><bold>Ley General de Educación</bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px; width: 400px;"><bold>Ley de    Educación del estado de Sonora</bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: left; padding-left: 10px;">La fracción V    del artículo 16 establece que "La educación que imparta el Estado… Inculcará    los conceptos y principios de las ciencias ambientales, el desarrollo    sostenible, la prevención y combate a los efectos del cambio climático, la    reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y    la resiliencia; así como la generación de conciencia y la adquisición de los    conocimientos, las competencias, las actitudes y los valores necesarios para    forjar un futuro sostenible, como elementos básicos para el desenvolvimiento    armónico e integral de la persona y la sociedad […]"<xref ref-type="fn" rid="fn20"><sup>20</sup></xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000; text-align: left; padding-left: 10px;">La fracción V    del artículo 14 establece que "La educación que impartan en el Estado de    Sonora, …, atenderá a los criterios que señalen la Ley General de Educación y    las demás disposiciones normativas aplicables. […] Inculcará los conceptos y    principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos    del cambio climático, la reducción del riesgo de desastres, la biodiversidad,    el consumo sostenible y la resiliencia; así como la generación de conciencia    y la adquisición de los conocimientos, las competencias, las actitudes y los    valores necesarios para forjar un futuro sostenible, como elementos básicos    para el desenvolvimiento armónico e integral de la persona y la sociedad;    […]".<xref ref-type="fn" rid="fn21"><sup>21</sup></xref></td>
+  </tr>
+</tbody>
+</table>
+
+				</table-wrap>
+			</p>
+			<p>Lo anterior resulta especialmente relevante, ya que la legislación en materia de educación en Sonora pone de manifiesto que, si bien sostenibilidad y sustentabilidad se han empleado como sinónimos en el argot del cuidado ambiental, se pueden dilucidar diferencias de importante consideración, ya que al señalar al desarrollo sustentable como un fin que persigue la educación en el estado, se alude a su concepto, es decir, un precepto universal para garantizar la calidad de vida de generaciones presentes, sin comprometer la de generaciones futuras.</p>
+			<p>Por su parte, el uso del desarrollo sostenible como un criterio para inculcar al cuidado ambiental representa el camino para lograr tal finalidad por medio del equilibrio entre la viabilidad económica, equidad social y soportabilidad ambiental.</p>
+			<p>Lo anterior se fortalece aún más si tenemos presente la gobernabilidad institucional, a la cual invoca la Ley de Educación de Sonora para garantizar el cuidado al medio ambiente como eje rector del sistema educativo, así, la fracción XVI del artículo 71 de la Ley en comento, señala que:</p>
+			<disp-quote>
+				<p>La opinión que se emita por la Secretaría sobre el contenido de los planes y programas de estudio será, entre otros, respecto a lo siguiente: […] La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental […].<xref ref-type="fn" rid="fn22"><sup>22</sup></xref>
+				</p>
+			</disp-quote>
+			<p>Por lo tanto, se afirma que el desarrollo sostenible se inscribe como la vía para garantizar a la sustentabilidad, lo cual demostraría que la diferencia entre ambos no obedece únicamente a un error de traducción conceptual, sino que la sostenibilidad señala el cómo lograr la meta de la sustentabilidad. Sin embargo, al interior de la legislación ambiental a nivel federal, sustentabilidad y sostenibilidad se inscriben como sinónimos y deben ser atendidos como tal, ya que, de no hacerlo así, se puede caer en irregularidades que obstaculicen el objetivo de pensar en una nueva forma de desarrollo: la calidad de vida de generaciones presentes y futuras. Esto por el entorpecimiento que puede derivar a consecuencia de lagunas normativas producto de inconsistencias conceptuales.</p>
+			<p>En otro orden de ideas, al establecer que, tanto en la ley general, como en la local, la educación ambiental tiene entre sus objetivos la generación de conciencia, podemos deducir que la labor docente debe favorecer la sensibilización sobre la importancia de la preservación del entorno natural, como elemento <italic>sine qua non</italic> para lograr una auténtica paz social, estable y duradera.</p>
+			<p>Para lograr la consecución de un objetivo tan ambicioso, se necesita de instrumentos que incentiven a la participación ciudadana por medio de una metodología transdisciplinar, o sea, a través de la conjunción entre el conocimiento académico y saberes que van más allá de las aulas. La generación de conciencia debe ser con base en el reconocimiento de la justicia epistémica<xref ref-type="fn" rid="fn23"><sup>23</sup></xref> para la deconstrucción de la dicotomía entre el ser humano y la naturaleza, lo que requiere de un análisis multidimensional de la problemática ambiental. Lo anterior se reconoce a luz de la fracción XXXVIII del artículo 3 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente (LGEEPA), en donde se define a la educación ambiental como:</p>
+			<disp-quote>
+				<p>El Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida […].<xref ref-type="fn" rid="fn24"><sup>24</sup></xref>
+				</p>
+			</disp-quote>
+			<p>Por lo tanto y a efecto de favorecer la cohesión social para lograr el desarrollo sustentable como manifestación de la justicia ambiental, se debe llevar a cabo la implementación de estrategias que permitan hacer tangibles dichos esfuerzos en aras de robustecer el sentido de pertenencia del individuo con el cuidado, defensa y salvaguarda del medio ambiente.</p>
+			<p>Bajo esta tesitura -y con respecto a la normatividad vigente en relación a la educación ambiental del estado de Sonora- vale la pena mencionar a la ley que crea el premio a la responsabilidad medioambiental (LRM), la cual, en su exposición de motivos, afirma que “su sola existencia promueve la educación ambiental a través de las diversas acciones que este premio pretende reconocer y promover”. De acuerdo con su artículo 1:</p>
+			<disp-quote>
+				<p>…reconoce a individuos o grupo de personas, originarios o que radiquen en el Estado de Sonora, que realicen actividades a favor de la conservación y protección del medio ambiente, y que las mismas hayan traído beneficios a la comunidad en general o alguna en específico, de esta Entidad Federativa.<xref ref-type="fn" rid="fn25"><sup>25</sup></xref>
+				</p>
+			</disp-quote>
+			<p>Lo que llama la atención de esta legislación es que, al momento de elaborar el presente estudio, Sonora se inscribe como la única entidad federativa del país que otorga semejante reconocimiento; es decir, no solo es de las pocas que contempla una homologación casi absoluta en los términos y disposiciones referentes a la educación ambiental, sino que favorece a la prevención y desincentivación de conductas perjudiciales al ambiente, gracias a una normatividad que invita a la sumatoria integral de esfuerzos cuyos alcances, de acuerdo con el artículo 3 del citado ordenamiento, se materializan en:</p>
+			<disp-quote>
+				<p>La entrega de una medalla, la cual contendrá el escudo del estado de Sonora y la leyenda “Premio a la Responsabilidad Medioambiental”. Adicionalmente a la medalla, las categorías de Personas, Organizaciones de la Sociedad Civil y Proyectos recibirán un premio de $50,000.00 (cincuenta mil pesos 00/100 M.N.), respectivamente.<xref ref-type="fn" rid="fn26"><sup>26</sup></xref>
+				</p>
+			</disp-quote>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>III. Conclusiones</title>
+			<p>Las disposiciones de la Ley General de Educación concernientes a la educación ambiental son idénticas a aquellas existentes en la Ley de Educación del estado de Sonora. Este hecho hace prácticamente inexistente la posibilidad de que se presente alguna controversia constitucional por la falta de compatibilidad entre una legislación federal y una local.</p>
+			<p>Ambas legislaciones reconocen a la justicia ambiental como la manifestación de la efectividad del derecho ambiental y a la educación ambiental como su piedra angular.</p>
+			<p>La educación ambiental como principio y fundamento de la justicia ambiental requiere que el conocimiento adquirido en las aulas se materialice en forma de conductas y valores para deconstruir la relación que guardamos con el entorno natural y así lograr el aprovechamiento sustentable de los recursos naturales en beneficio de generaciones presentes y futuras.</p>
+			<p>El análisis normativo de la Ley de Educación en Sonora alude al hecho de la diferencia existente entre sustentabilidad y sostenibilidad; sin embargo, esto no puede actuar en detrimento de la defensa, promoción y salvaguarda del medio ambiente, sino como el primero siendo un fin en sí mismo y el segundo, la vía para lograrlo.</p>
+			<p>Por tanto, el ejercicio de la educación ambiental no debe permanecer estático, sino acorde a los retos del contexto actual. Esto requiere la constante innovación y dinamismo del marco jurídico, que se nutre de dar cumplimiento a los compromisos adquiridos en instrumentos internacionales, favoreciendo el ejercicio del Estado de Derecho y facilitando la incidencia del Estado en el escenario internacional.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>IV. Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Caride Gómez, José Antonio. <italic>José Antonio Caride Gómez - Conferencia VI Congreso Iberoamericano de Educación Ambiental.</italic> Video de YouTube, publicado el 14 de marzo de 2013. <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=P3E0lx__s2w">https://www.youtube.com/watch?v=P3E0lx__s2w</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Caride Gómez</surname>
+							<given-names>José Antonio</given-names>
+						</name>
+					</person-group>
+					<source>José Antonio Caride Gómez - Conferencia VI Congreso Iberoamericano de Educación Ambiental</source>
+					<comment>Video de YouTube</comment>
+					<day>14</day>
+					<month>03</month>
+					<year>2013</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=P3E0lx__s2w">https://www.youtube.com/watch?v=P3E0lx__s2w</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Carneros, Sergio, Murillo, Javier y Moreno-Medina, Irene. “Una aproximación conceptual a la educación para la justicia social y ambiental”. <italic>Revista Internacional de Educación para la Justicia Social (RIEJS)</italic>, n.<sup>o</sup> 1 (2018): 17-36. https://doi.org/10.15366/riejs2018.7.1.001</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carneros</surname>
+							<given-names>Sergio</given-names>
+						</name>
+						<name>
+							<surname>Murillo</surname>
+							<given-names>Javier</given-names>
+						</name>
+						<name>
+							<surname>Moreno-Medina</surname>
+							<given-names>Irene</given-names>
+						</name>
+					</person-group>
+					<article-title>Una aproximación conceptual a la educación para la justicia social y ambiental</article-title>
+					<source>Revista Internacional de Educación para la Justicia Social (RIEJS)</source>
+					<issue>1</issue>
+					<year>2018</year>
+					<fpage>17</fpage>
+					<lpage>36</lpage>
+					<pub-id pub-id-type="doi">10.15366/riejs2018.7.1.001</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>García Bulle, Sofía. “Opinión: Injusticia epistémica en la academia”, <italic>Edu News</italic>, 20 de febrero de 2020. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://observatorio.tec.mx/edu-news/injusticia-epistemica#:~:text=El%20t%C3%A9rmino%20fue%20acu%C3%B1ado%20en,La%20testimonial%20y%20la%20hermen%C3%A9utica">https://observatorio.tec.mx/edu-news/injusticia-epistemica#:~:text=El%20t%C3%A9rmino%20fue%20acu%C3%B1ado%20en,La%20testimonial%20y%20la%20hermen%C3%A9utica</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="newspaper">
+					<person-group person-group-type="author">
+						<name>
+							<surname>García Bulle</surname>
+							<given-names>Sofía</given-names>
+						</name>
+					</person-group>
+					<article-title>Opinión: Injusticia epistémica en la academia</article-title>
+					<source>Edu News</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-02-20">20 de febrero de 2020</date-in-citation>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://observatorio.tec.mx/edu-news/injusticia-epistemica#:~:text=El%20t%C3%A9rmino%20fue%20acu%C3%B1ado%20en,La%20testimonial%20y%20la%20hermen%C3%A9utica">https://observatorio.tec.mx/edu-news/injusticia-epistemica#:~:text=El%20t%C3%A9rmino%20fue%20acu%C3%B1ado%20en,La%20testimonial%20y%20la%20hermen%C3%A9utica</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Gobierno de México. “La carta de Belgrado”. <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/semarnat/educacionambiental/documentos/la-carta-de-belgrado">https://www.gob.mx/semarnat/educacionambiental/documentos/la-carta-de-belgrado</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Gobierno de México</collab>
+					</person-group>
+					<source>La carta de Belgrado</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/semarnat/educacionambiental/documentos/la-carta-de-belgrado">https://www.gob.mx/semarnat/educacionambiental/documentos/la-carta-de-belgrado</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Jiménez, Pablo. “La educación como derecho social, humano y fundamental: principios y perspectivas de la educación moderna”. <italic>Revista de Investigações Constitucionais</italic> n.<sup>o</sup> 3 (2019): 669-686. https://doi.org/10.5380/rinc.v6i3.58017</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jiménez</surname>
+							<given-names>Pablo</given-names>
+						</name>
+					</person-group>
+					<article-title>La educación como derecho social, humano y fundamental: principios y perspectivas de la educación moderna</article-title>
+					<source>Revista de Investigações Constitucionais</source>
+					<issue>3</issue>
+					<year>2019</year>
+					<fpage>669</fpage>
+					<lpage>686</lpage>
+					<pub-id pub-id-type="doi">10.5380/rinc.v6i3.58017</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Martínez Castillo, Roger. “La importancia de la educación ambiental ante la problemática actual”. <italic>Revista Electrónic@ Educare</italic>XIV, n.°1, (2010): 97-111. <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/1941/194114419010.pdf">https://www.redalyc.org/pdf/1941/194114419010.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Martínez Castillo</surname>
+							<given-names>Roger</given-names>
+						</name>
+					</person-group>
+					<article-title>La importancia de la educación ambiental ante la problemática actual</article-title>
+					<source>Revista Electrónic@ Educare</source>
+					<volume>XIV</volume>
+					<issue>1</issue>
+					<year>2010</year>
+					<fpage>97</fpage>
+					<lpage>111</lpage>
+					<ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/1941/194114419010.pdf">https://www.redalyc.org/pdf/1941/194114419010.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Naciones Unidas. “Sostenibilidad”.<ext-link ext-link-type="uri" xlink:href="https://www.un.org/es/impacto-acad%C3%A9mico/sostenibilidad">https://www.un.org/es/impacto-acad%C3%A9mico/sostenibilidad</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Naciones Unidas</collab>
+					</person-group>
+					<source>Sostenibilidad</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.un.org/es/impacto-acad%C3%A9mico/sostenibilidad">https://www.un.org/es/impacto-acad%C3%A9mico/sostenibilidad</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Naciones Unidas. <italic>Agenda 2030 y los objetivos de desarrollo sostenible</italic>. Santiago: Naciones Unidas, 2016. <ext-link ext-link-type="uri" xlink:href="https://www.cedhnl.org.mx/bs/vih/secciones/planes-y-programas/Agenda-2030-y-los-ODS.pdf">https://www.cedhnl.org.mx/bs/vih/secciones/planes-y-programas/Agenda-2030-y-los-ODS.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Naciones Unidas</collab>
+					</person-group>
+					<source>Agenda 2030 y los objetivos de desarrollo sostenible</source>
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>Naciones Unidas</publisher-name>
+					<year>2016</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.cedhnl.org.mx/bs/vih/secciones/planes-y-programas/Agenda-2030-y-los-ODS.pdf">https://www.cedhnl.org.mx/bs/vih/secciones/planes-y-programas/Agenda-2030-y-los-ODS.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Naciones Unidas. <italic>Declaración de Estocolmo sobre el medio ambiente humano</italic>. Adoptada de la Conferencia de las Naciones Unidas cobre el Medio Ambiente Humano, 16 de junio de 1972. <ext-link ext-link-type="uri" xlink:href="https://www.ordenjuridico.gob.mx/TratInt/Derechos%20Humanos/INST%2005.pdf">https://www.ordenjuridico.gob.mx/TratInt/Derechos%20Humanos/INST%2005.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Naciones Unidas</collab>
+					</person-group>
+					<source>Declaración de Estocolmo sobre el medio ambiente humano</source>
+					<comment>Adoptada de la Conferencia de las Naciones Unidas cobre el Medio Ambiente Humano</comment>
+					<day>16</day>
+					<month>06</month>
+					<year>1972</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.ordenjuridico.gob.mx/TratInt/Derechos%20Humanos/INST%2005.pdf">https://www.ordenjuridico.gob.mx/TratInt/Derechos%20Humanos/INST%2005.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Organización de las Naciones Unidas. “Programa 21: capítulo 36”. <ext-link ext-link-type="uri" xlink:href="https://www.un.org/spanish/esa/sustdev/agenda21/agenda21spchapter36.htm">https://www.un.org/spanish/esa/sustdev/agenda21/agenda21spchapter36.htm</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Organización de las Naciones Unidas</collab>
+					</person-group>
+					<source>Programa 21: capítulo 36</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.un.org/spanish/esa/sustdev/agenda21/agenda21spchapter36.htm">https://www.un.org/spanish/esa/sustdev/agenda21/agenda21spchapter36.htm</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Repositorio Universitario UNAM. “¿Sostenible o sustentable? De la moda a la conveniencia”. Acceso el 6 de septiembre de 2022, <comment> Acceso el 6 de septiembre de 2022, <ext-link ext-link-type="uri" xlink:href="http://ru.iiec.unam.mx/4703/1/1-060-Chacon-Santos-Morales.pdf">http://ru.iiec.unam.mx/4703/1/1-060-Chacon-Santos-Morales.pdf</ext-link>
+					</comment>
+				</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>Repositorio Universitario UNAM</collab>
+					</person-group>
+					<source>¿Sostenible o sustentable? De la moda a la conveniencia</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2022-09-06">6 de septiembre de 2022</date-in-citation>
+					<comment> Acceso el 6 de septiembre de 2022, <ext-link ext-link-type="uri" xlink:href="http://ru.iiec.unam.mx/4703/1/1-060-Chacon-Santos-Morales.pdf">http://ru.iiec.unam.mx/4703/1/1-060-Chacon-Santos-Morales.pdf</ext-link>
+					</comment>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Sánchez Torres, Diana Marcela y Aguilera Prado, Marco. “Corrientes del ambientalismo y alternativas de gestión desde la sustentabilidad y la ética ambiental”. <italic>Semestre Económico</italic>17, n.<sup>o</sup>35 (2014): 149-160. <ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/pdf/seec/v17n35/v17n35a7.pdf">http://www.scielo.org.co/pdf/seec/v17n35/v17n35a7.pdf </ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sánchez Torres</surname>
+							<given-names>Diana Marcela</given-names>
+						</name>
+						<name>
+							<surname>Aguilera Prado</surname>
+							<given-names>Marco</given-names>
+						</name>
+					</person-group>
+					<article-title>Corrientes del ambientalismo y alternativas de gestión desde la sustentabilidad y la ética ambiental</article-title>
+					<source>Semestre Económico</source>
+					<volume>17</volume>
+					<issue>35</issue>
+					<year>2014</year>
+					<fpage>149</fpage>
+					<lpage>160</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.scielo.org.co/pdf/seec/v17n35/v17n35a7.pdf">http://www.scielo.org.co/pdf/seec/v17n35/v17n35a7.pdf </ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Secretaría de Medio Ambiente y Recursos Naturales. “Diferencia entre sustentable y sostenible”. <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/semarnat/articulos/diferencia-entre-sustentable-y-sostenible">https://www.gob.mx/semarnat/articulos/diferencia-entre-sustentable-y-sostenible</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Secretaría de Medio Ambiente y Recursos Naturales</collab>
+					</person-group>
+					<source>Diferencia entre sustentable y sostenible</source>
+					<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/semarnat/articulos/diferencia-entre-sustentable-y-sostenible">https://www.gob.mx/semarnat/articulos/diferencia-entre-sustentable-y-sostenible</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<ref-list>
+			<title>Documentos legales</title>
+			<ref id="B14">
+				<mixed-citation>Cámara de Diputados del H. Congreso de la Unión, <italic>Ley General del Equilibrio Ecológico y la Protección al Ambiente</italic>, Diario Oficial de la Federación, 1 de abril de 2024. <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Cámara de Diputados del H. Congreso de la Unión</collab>
+					</person-group>
+					<source>Ley General del Equilibrio Ecológico y la Protección al Ambiente, Diario Oficial de la Federación</source>
+					<day>01</day>
+					<month>04</month>
+					<year>2024</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Cámara de Diputados del H. Congreso de la Unión, <italic>Ley General de Educación. Diario Oficial de la Federación</italic>, 7 de junio de 2024. <ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Cámara de Diputados del H. Congreso de la Unión</collab>
+					</person-group>
+					<source>Ley General de Educación. Diario Oficial de la Federación</source>
+					<day>07</day>
+					<month>06</month>
+					<year>2024</year>
+					<ext-link ext-link-type="uri" xlink:href="https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf">https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>H. Congreso del Estado de Sonora, <italic>Ley que Crea el Premio a la Responsabilidad Medioambiental</italic>, Boletín Oficial del Gobierno del Estado de Sonora, 16 de junio de 2022.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>H. Congreso del Estado de Sonora</collab>
+					</person-group>
+					<source>Ley que Crea el Premio a la Responsabilidad Medioambiental</source>
+					<publisher-name>Boletín Oficial del Gobierno del Estado de Sonora</publisher-name>
+					<day>16</day>
+					<month>06</month>
+					<year>2022</year>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>H. Congreso del Estado de Sonora, <italic>Ley de Educación del estado de Sonora</italic>, Boletín Oficial del Gobierno del Estado de Sonora, 20 de abril de 2021.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>H. Congreso del Estado de Sonora</collab>
+					</person-group>
+					<source>Ley de Educación del estado de Sonora</source>
+					<publisher-name>Boletín Oficial del Gobierno del Estado de Sonora</publisher-name>
+					<day>20</day>
+					<month>04</month>
+					<year>2021</year>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="other" id="fn1">
+				<label>1</label>
+				<p>“Sostenibilidad”, <xref ref-type="bibr" rid="B7">Naciones Unidas</xref>, acceso el 14 de noviembre de 2025, <ext-link ext-link-type="uri" xlink:href="https://www.un.org/es/impacto-acad%C3%A9mico/sostenibilidad ">https://www.un.org/es/impacto-acad%C3%A9mico/sostenibilidad </ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn2">
+				<label>2</label>
+				<p>
+					<xref ref-type="bibr" rid="B5">Pablo Jiménez</xref>, “La educación como derecho social, humano y fundamental: principios y perspectivas de la educación moderna”, <italic>Revista de Investigações Constitucionais</italic> 6, n.<sup>o</sup> 3 (2019): 669-686. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.5380/rinc.v6i3.58017">https://doi.org/10.5380/rinc.v6i3.58017</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn3">
+				<label>3</label>
+				<p>
+					<xref ref-type="bibr" rid="B6">Roger Martínez Castillo</xref>, “La importancia de la educación ambiental ante la problemática actual”,<italic>Revista Electrónic@ Educare</italic>, n.° 1 (2010): 97-111. <ext-link ext-link-type="uri" xlink:href="https://www.redalyc.org/pdf/1941/194114419010.pdf">https://www.redalyc.org/pdf/1941/194114419010.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn4">
+				<label>4</label>
+				<p>
+					<xref ref-type="bibr" rid="B2">Sergio Carneros, Javier Murillo e Irene Moreno-Medina</xref>, “Una aproximación conceptual a la educación para la justicia social y ambiental”, <italic>Revista Internacional de Educación para la Justicia Social (RIEJS)</italic>, n.<sup>o</sup> 1 (2018): 17-36. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.15366/riejs2018.7.1.001">https://doi.org/10.15366/riejs2018.7.1.001</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn5">
+				<label>5</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">José Antonio Caride Gómez</xref>, “José Antonio Caride Gómez - Conferencia VI Congreso Iberoamericano de Educación Ambiental,” YouTube, 14 de marzo de 2013, <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=P3E0lx__s2w">https://www.youtube.com/watch?v=P3E0lx__s2w</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn6">
+				<label>6</label>
+				<p>“¿Sostenible o sustentable? De la moda a la conveniencia”, <xref ref-type="bibr" rid="B11">Repositorio Universitario UNAM</xref>, acceso el 6 de septiembre de 2022, <ext-link ext-link-type="uri" xlink:href="http://ru.iiec.unam.mx/4703/1/1-060-Chacon-Santos-Morales.pdf">http://ru.iiec.unam.mx/4703/1/1-060-Chacon-Santos-Morales.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn7">
+				<label>7</label>
+				<p>“Diferencia entre sustentable y sostenible”, <xref ref-type="bibr" rid="B13">Secretaría de Medio Ambiente y Recursos Naturales</xref>, Diferencia entre sustentable y sostenible, México, SEMARNAT, acceso el 6 de septiembre de 2022, <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/semarnat/articulos/diferencia-entre-sustentable-y-sostenible ">https://www.gob.mx/semarnat/articulos/diferencia-entre-sustentable-y-sostenible </ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn8">
+				<label>8</label>
+				<p>
+					<xref ref-type="bibr" rid="B12">Diana Marcela Sánchez Torres y Marco Aguilera Prado</xref>, “Corrientes del ambientalismo y alternativas de gestión desde la sustentabilidad y la ética ambiental”, <italic>Semestre Económico</italic>, n.<sup>o</sup>. 35, 149-160 (2014): 149-160. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.22395/seec.v17n35a6">https://doi.org/10.22395/seec.v17n35a6</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn9">
+				<label>9</label>
+				<p>“¿Sostenible o sustentable? De la moda a la conveniencia…, 180.</p>
+			</fn>
+			<fn fn-type="other" id="fn10">
+				<label>10</label>
+				<p>
+					<xref ref-type="bibr" rid="B1">José Antonio Caride Gómez</xref>, <italic>José Antonio Caride Gómez - Conferencia VI Congreso Iberoamericano de Educación Ambiental.</italic> Video de YouTube, publicado el 14 de marzo de 2013. <ext-link ext-link-type="uri" xlink:href="https://www.youtube.com/watch?v=P3E0lx__s2w">https://www.youtube.com/watch?v=P3E0lx__s2w</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn11">
+				<label>11</label>
+				<p>Declaración de Estocolmo sobre el medio ambiente humano, adoptada en la Conferencia de las Naciones Unidas sobre el Medio Ambiente Humano, 16 de junio de 1972, 3.</p>
+			</fn>
+			<fn fn-type="other" id="fn12">
+				<label>12</label>
+				<p>“La carta de Belgrado”. <xref ref-type="bibr" rid="B4">Gobierno de México</xref>. <ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/semarnat/educacionambiental/documentos/la-carta-de-belgrado">https://www.gob.mx/semarnat/educacionambiental/documentos/la-carta-de-belgrado</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn13">
+				<label>13</label>
+				<p>
+					<xref ref-type="bibr" rid="B10">Organización de las Naciones Unidas</xref>. “Programa 21: capítulo 36.” <ext-link ext-link-type="uri" xlink:href="https://www.un.org/spanish/esa/sustdev/agenda21/agenda21spchapter36.htm">https://www.un.org/spanish/esa/sustdev/agenda21/agenda21spchapter36.htm</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn14">
+				<label>14</label>
+				<p>
+					<xref ref-type="bibr" rid="B8">Naciones Unidas</xref>, <italic>Agenda 2030 y los objetivos de desarrollo sostenible</italic> (Santiago: ONU, 2016): 15. <ext-link ext-link-type="uri" xlink:href="https://www.cedhnl.org.mx/bs/vih/secciones/planes-y-programas/Agenda-2030-y-los-ODS.pdf">https://www.cedhnl.org.mx/bs/vih/secciones/planes-y-programas/Agenda-2030-y-los-ODS.pdf</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn15">
+				<label>15</label>
+				<p>México, <italic>Ley General de Educación</italic>, Diario Oficial de la Federación, 2019, 6. </p>
+			</fn>
+			<fn fn-type="other" id="fn16">
+				<label>16</label>
+				<p>Sonora, <italic>Ley de Educación del Estado de Sonora</italic>, 11. </p>
+			</fn>
+			<fn fn-type="other" id="fn17">
+				<label>17</label>
+				<p>México, <italic>Ley General de Educación</italic>…, 7. </p>
+			</fn>
+			<fn fn-type="other" id="fn18">
+				<label>18</label>
+				<p>Sonora, <italic>Ley de Educación del Estado de Sonora</italic>…,12. </p>
+			</fn>
+			<fn fn-type="other" id="fn19">
+				<label>19</label>
+				<p>Sonora, <italic>Ley de Educación del Estado de Sonora</italic>…,13.</p>
+			</fn>
+			<fn fn-type="other" id="fn20">
+				<label>20</label>
+				<p>México<italic>, Ley General de Educación</italic>…, 9. </p>
+			</fn>
+			<fn fn-type="other" id="fn21">
+				<label>21</label>
+				<p>Sonora, <italic>Ley de Educación del Estado de Sonora</italic>…, 17. </p>
+			</fn>
+			<fn fn-type="other" id="fn22">
+				<label>22</label>
+				<p>Sonora, <italic>Ley de Educación del Estado de Sonora</italic>..., 36.</p>
+			</fn>
+			<fn fn-type="other" id="fn23">
+				<label>23</label>
+				<p>
+					<xref ref-type="bibr" rid="B3">Sofía García Bulle</xref>, “Opinión: Injusticia epistémica en la academia”, <italic>Edu News</italic>, 20 de febrero de 2020, <ext-link ext-link-type="uri" xlink:href="https://observatorio.tec.mx/edu-news/injusticia-epistemica#:~:text=El%20t%C3%A9rmino%20fue%20acu%C3%B1ado%20en,La%20testimonial%20y%20la%20hermen%C3%A9utica">https://observatorio.tec.mx/edu-news/injusticia-epistemica#:~:text=El%20t%C3%A9rmino%20fue%20acu%C3%B1ado%20en,La%20testimonial%20y%20la%20hermen%C3%A9utica</ext-link>
+				</p>
+			</fn>
+			<fn fn-type="other" id="fn24">
+				<label>24</label>
+				<p>México, <italic>Ley General del Equilibrio Ecológico y la Protección al Ambiente</italic>, Diario Oficial de la Federación, 6.</p>
+			</fn>
+			<fn fn-type="other" id="fn25">
+				<label>25</label>
+				<p>
+					<xref ref-type="bibr" rid="B16">H. Congreso del Estado de Sonora</xref>, <italic>Ley que Crea el Premio a la Responsabilidad Medioambiental</italic>, Boletín Oficial del Gobierno del Estado de Sonora, 16 de junio de 2022, 5-6.</p>
+			</fn>
+			<fn fn-type="other" id="fn26">
+				<label>26</label>
+				<p><italic>Ibid</italic>., 6.</p>
+			</fn>
+		</fn-group>
+	</back>
+</article>

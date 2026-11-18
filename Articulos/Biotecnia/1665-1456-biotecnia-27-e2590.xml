@@ -1,0 +1,1986 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2590</article-id>
+			<article-id pub-id-type="other">00207</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Evaluación de extractos en combinación con nano y micromateriales para el control de <italic><italic>Rhyzopertha dominica</italic> (F.) (Coleoptera: Bostrichidae)</italic></article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Evaluation of extracts in combination with nano and micromaterials for the control of <italic>Rhyzopertha dominica</italic> (F.) (Coleoptera: Bostrichidae)</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-6988-6063</contrib-id>
+					<name>
+						<surname>Uribe Rivera</surname>
+						<given-names>Saúl Enrique</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-2263-4322</contrib-id>
+					<name>
+						<surname>Cerna Chávez</surname>
+						<given-names>Ernesto</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-7859-8434</contrib-id>
+					<name>
+						<surname>Ochoa Fuentes</surname>
+						<given-names>Yisa María</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0003-1755-0319</contrib-id>
+					<name>
+						<surname>Romero Pavon</surname>
+						<given-names>Lisett</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-7924-4443</contrib-id>
+					<name>
+						<surname>Landeros Flores</surname>
+						<given-names>Jerónimo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-6477-7861</contrib-id>
+					<name>
+						<surname>Rueda Puente</surname>
+						<given-names>Edgar Omar</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Departamento de Parasitología Agrícola. Universidad Autónoma Agraria Antonio Narro. Calzada Antonio Narro 1923. Buenavista, Saltillo, Coahuila, México. C.P. 25315. sauluribe.rivera@gmail.com, yisa8a@yahoo.com, romero_pavon@hotmail.com, jlanflo@hotmail.com</institution>
+				<institution content-type="normalized">Universidad Autónoma Agraria Antonio Narro</institution>
+				<institution content-type="orgdiv1">Departamento de Parasitología Agrícola</institution>
+				<institution content-type="orgname">Universidad Autónoma Agraria Antonio Narro</institution>
+				<addr-line>
+					<city>Saltillo</city>
+					<state>Coahuila</state>
+					<postal-code>25315</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>sauluribe.rivera@gmail.com</email>
+				<email>yisa8a@yahoo.com</email>
+				<email>romero_pavon@hotmail.com</email>
+				<email>jlanflo@hotmail.com</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Departamento de Agricultura y Ganadería. Universidad de Sonora. Blvd. Luis Encinas y Rosales S/N. Col. Centro. C.P. 83000. Hermosillo, Sonora México. edgar.rueda@unison.mx</institution>
+				<institution content-type="normalized">Universidad de Sonora</institution>
+				<institution content-type="orgdiv1">Departamento de Agricultura y Ganadería</institution>
+				<institution content-type="orgname">Universidad de Sonora</institution>
+				<addr-line>
+					<postal-code>83000</postal-code>
+					<city>Hermosillo</city>
+					<state>Sonora</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>edgar.rueda@unison.mx</email>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Autor para correspondencia: Ernesto Cerna Chávez Correo-e: <email>jabaly1@yahoo.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>17</day>
+				<month>07</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2590</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>20</day>
+					<month>02</month>
+					<year>2025</year>
+				</date>
+				<date date-type="accepted">
+					<day>23</day>
+					<month>06</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>17</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumen</title>
+				<p>El barrenador menor del grano Rhyzopertha dominica (F.) (Coleoptera:Bostrichidae) representa una amenaza seria a la producción de granos almacenados a nivel mundial, si bien su control se ha ejercido mediante el método químico este genera problemáticas como la resistencia. En la búsqueda de opciones sobresale el empleo de extractos de origen vegetal y su combinación con nano y micro materiales ya que permiten un control efectivo. Se evaluaron dos extractos comerciales de origen vegetal Higuer® y Etos®, solos y combinados con nano y micropartículas de silicio, cobre, zinc y grafito. Se empleó la técnica de película residual, se corrigió la mortalidad y los datos se sometieron a un análisis probit. De los nano y micro materiales evaluados, aquel que presentó la mayor reducción del valor de CL<sub>50</sub> fué el nano silicio. Se concluye que el silicio nano escalado permite la reducción de la CL<sub>50</sub> comparado con el extracto solo y sus combinaciones con el resto de los materiales. Si bien los límites fiduciales se traslapan se busca la menor CL<sub>50</sub> de entre todos los tratamientos. El análisis muestra la ecuación de predicción que representa la relación dosis-mortalidad para cada valor de la concentración letal media en cada caso particular.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<sec>
+					<title>T</title>
+					<p>he lesser grain borer Rhyzopertha dominica (F.) (Coleoptera: Bostrichidae) represents a serious threat to the production of corn and other stored grains worldwide, and although it has been controlled by chemical methods, it generates problems such as resistance. In the search for options, the use of plant extracts and their combination with nano and micro materials stands out as they allow effective control. Two commercial extracts of plant origin Higuer® and Etos®, alone and combined with nano and microparticles of silicon, copper, zinc and graphite, were evaluated. The residual film technique was used, mortality was corrected and the data were subjected to probit analysis. Of the nano and micro materials evaluated, the one that presented the greatest reduction in LC<sub>50</sub> value was nano silicon. It is concluded that the nanoscaled silicon allows the reduction of the LC<sub>50</sub> compared to the extract alone and its combinations with the rest of the materials. Although the fiducial limits overlap, the lowest LC<sub>50</sub> among all treatments is sought. The analysis shows the prediction equation that represents the dose-mortality relationship for each value of the median lethal concentration in each particular case.</p>
+				</sec>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Barrenador menor del grano</kwd>
+				<kwd>granos almacenados</kwd>
+				<kwd>nanotecnología</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Lesser grain borer</kwd>
+				<kwd>stored grains</kwd>
+				<kwd>nanotechnology</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="2"/>
+				<equation-count count="0"/>
+				<ref-count count="49"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introducción</title>
+			<p><italic>Rhyzopertha dominica</italic> (F.) (Coleoptera: Bostrichidae) es considerado un insecto de gran relevancia económica en el área de granos almacenados, pues se trata de una plaga primaria capaz de afectar productos de almacén, tales como maíz, trigo y frijol (<xref ref-type="bibr" rid="B34">Ren et al., 2023</xref>; <xref ref-type="bibr" rid="B21">Hemmati, 2024</xref>), gracias a sus capacidades adaptativas y de vuelo, que le permiten detectar potenciales sitios de alimentación (<xref ref-type="bibr" rid="B45">Stevens et al., 2023</xref>) moviéndose distancias que van desde los 260 m hasta 1 km, en promedio, por día, (<xref ref-type="bibr" rid="B22">Holloway et al., 2020</xref>; <xref ref-type="bibr" rid="B13">Ebadollahi et al., 2022</xref>) en función de la respuesta del insecto a los compuestos volátiles detectados provenientes de semilla almacenada (<xref ref-type="bibr" rid="B9">Cao et al., 2024</xref>; <xref ref-type="bibr" rid="B30">Naimi et al., 2025</xref>), además junto a su eficiente sistema enzimático para hidrolizar el contenido de granos y la probable infestación por plagas secundarias derivada de la presencia de <italic>R. dominica</italic>, constituyen características inherentes al insecto que han propiciado la inversión económica tanto en control como prevención para evitar los daños directos e indirectos ocasionados por larvas y adultos (<xref ref-type="bibr" rid="B44">Solá et al., 2020</xref>; <xref ref-type="bibr" rid="B2">Abubakar et al., 2021</xref>; <xref ref-type="bibr" rid="B48">Yousuf et al., 2025</xref>). Estos pueden ir desde la pérdida de valor comercial, del 3 al 5 % y hasta el 48 % del volumen total de la producción (<xref ref-type="bibr" rid="B47">Wicochea-Rodríguez et al., 2021</xref>). Los factores anteriores han favorecido que el método químico sea la principal vía de control del insecto, sin embargo, el empleo constante de ingredientes activos ha propiciado contaminación, riesgo a la salud humana y desarrollo de resistencia por parte de <italic>R. dominica</italic> (<xref ref-type="bibr" rid="B36">Salcedo <italic>et al</italic>., 2021</xref>; <xref ref-type="bibr" rid="B5">Aulicky et al., 2022</xref>; <xref ref-type="bibr" rid="B11">Daglish et al., 2024</xref>) aumentando la complejidad de las acciones de manejo de la plaga, situación que plantea la necesidad de explorar alternativas que reduzcan estos efectos adversos mediante opciones ecológicas y sustentables (<xref ref-type="bibr" rid="B35">Sakka et al., 2021</xref>; <xref ref-type="bibr" rid="B33">Ramírez-Cabrera et al., 2024</xref>). En este sentido los extractos de origen vegetal combinados con materiales nano y micro estructurados ofrecen ventajas sobresalientes como la combinación de modos de acción, reducción de la cantidad de ingrediente activo, liberación controlada y capacidad acarreadora de nano y micropartículas (<xref ref-type="bibr" rid="B38">Sartika et al., 2022</xref>; <xref ref-type="bibr" rid="B26">Kudesia et al., 2024</xref>; <xref ref-type="bibr" rid="B23">Ileke y Adeniran, 2025</xref>; <xref ref-type="bibr" rid="B46">Tirunagaru et al., 2025</xref>). Bajo este contexto, materiales nano y micro escalados como silicio, cobre, zinc y grafeno ya han sido evaluados contra plagas de granos de almacén ofreciendo alternativas para establecer acciones de manejo que integren una solución efectiva y ecológica para lograr un control adecuado de las poblaciones de <italic>R. dominica</italic> (<xref ref-type="bibr" rid="B8">Batool et al., 2020</xref>; <xref ref-type="bibr" rid="B41">Sharma et al., 2023</xref>; <xref ref-type="bibr" rid="B28">Manivannan et al., 2024</xref>; <xref ref-type="bibr" rid="B25">Kadir et al., 2025</xref>). Por lo tanto, el objetivo del presente trabajo fué evaluar la actividad insecticida de dos extractos comerciales de origen vegetal, Higuer ® y Etos ®, solos y combinados con nano y micropartículas de silicio, cobre, zinc y grafito sobre insectos adultos de <italic>R. dominica</italic> buscando aquel tratamiento que presente el menor valor de CL<sub>50</sub> (concentración letal media). </p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Materiales y métodos</title>
+			<sec>
+				<title>Localización del experimento</title>
+				<p>La investigación se llevó a cabo en el Laboratorio de Toxicología del Departamento de Parasitología Agrícola de la Universidad Autónoma Agraria Antonio Narro, ubicada en Buena Vista, Saltillo, Coahuila, México. </p>
+			</sec>
+			<sec>
+				<title>Insectos empleados</title>
+				<p>Los insectos adultos de <italic>R. dominica</italic> fueron donados por el laboratorio de toxicología de la Universidad Autónoma Agraria Antonio Narro, libres de aplicaciones de productos químicos. Se mantuvieron las colonias en granos de maíz con fotoperiodo 12:12 (luz: oscuridad) y humedad relativa (HR) de 35 %, a una temperatura de 35 °C, en jarros cerrados con tela organza con capacidad de 1.5 L. </p>
+			</sec>
+			<sec>
+				<title>Extractos, nano y micropartículas</title>
+				<p>Los extractos empleados Higuer®, elaborado a base higuerilla (<italic>Ricinus communis</italic> L.) y Etos®, a base de pimienta (<italic>Piper nigrum</italic> L.) y glucosinolatos, así como las nano y micropartículas de silicio, cobre, zinc y grafito, con esferas de 40-80 nanómetros y micropartículas de 100 micras, fueron proporcionadas por la empresa CULTA S.A. de C.V., localizada en Ciudad Mante, Tamaulipas, México.</p>
+			</sec>
+			<sec>
+				<title>Bioensayo</title>
+				<p>Se empleó la técnica de película residual (<xref ref-type="bibr" rid="B18">FAO, 1974</xref>), en la cual se impregnó la caja petri con 1 mL de extracto, así como sus combinaciones (mezclas 97 % de extracto y 3 % de material) con nano y micropartículas, con toma de datos a las 24, 48 y 72 h. Se consideró como criterio de muerte aquellos insectos que no respondieron al estímulo de calor, al colocarlos sobre una plancha marca Thermo Fisher Scientific-Cimarec, a una temperatura de 30 °C. Como control se emplearon unidades experimentales impregnadas con 1 mL de agua estéril. </p>
+			</sec>
+			<sec>
+				<title>Arreglo del experimento y análisis estadístico</title>
+				<p>Se empleó un diseño experimental completamente al azar, con 6 concentraciones más testigo para cada extracto solo y su combinación con cada tipo de nano y micropartícula, con 3 repeticiones por concentración y 30 insectos por unidad experimental, empleando un total de 540 insectos por tratamiento. Las concentraciones empleadas fueron establecidas con base en el estudio previo de ventana biológica. Las nano y micropartículas se mezclaron con cada uno de los extractos a la concentración de 3 %. La unidad experimental consistió en la caja petri donde se colocaron los 30 insectos adultos de <italic>R. dominica.</italic></p>
+				<p>Los datos de mortalidad fueron corregidos, según el caso, mediante la fórmula de <xref ref-type="bibr" rid="B1">Abbott (1925)</xref> a continuación: % Mortalidad = 100 (% muertos tratamiento - % muertos control) / 100 - % muertos control, y con ellos se estimó la CL<sub>50</sub> por medio de un análisis probit (<xref ref-type="bibr" rid="B17">Finney, 1971</xref>) mediante el método de máxima verosimilitud, empleando el programa estadístico SAS System for Windows, versión 9.0 (<xref ref-type="bibr" rid="B39">SAS, 2002</xref>). En este análisis estadístico se muestran los resultados de la CL<sub>50</sub> para cada uno de los tratamientos, así mismo nos muestra los límites fiduciales al 95 % de confianza, tanto superior como inferior, los límites representan el rango de posibles valores para la CL<sub>50</sub> de tal manera que de cada 100 veces que se realice el experimento, bajo las mismas condiciones, 95 caerán dentro de ese rango de valores, mientras que las ecuaciones de predicción nos muestran la relación dosis-mortalidad. Cada ecuación representa un gráfico de valores ajustados generados automáticamente por el programa al momento de ejecutar el análisis de máxima verosimilitud.</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>Resultados y discusión</title>
+			<p>En la <xref ref-type="table" rid="t1">Tabla 1</xref> se muestran los resultados obtenidos para los valores de CL<sub>50</sub> del extracto Higuer® y sus combinaciones con nano y micro materiales sobre los adultos de <italic>R. dominica.</italic> En cuanto a la combinación con nano partículas es posible observar cómo la mezcla con silicio obtuvo el valor más bajo (141.88 ppm) comparado con el extracto solo (183.74 ppm), seguido de los valores de cobre (166.96 ppm), grafito (171.19 ppm) y zinc (179.17 ppm).</p>
+			<p>
+				<table-wrap-group id="t1">
+	<table-wrap xml:lang="es">
+					<label>Tabla 1</label>
+					<caption>
+						<title>Concentración letal media, límites fiduciales y ecuación de predicción para <italic>R. dominica</italic> con el extracto Higuer® y sus combinaciones con nano y micropartículas.</title>
+					</caption>
+					</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 1:</label>
+		<caption>
+			<title>Mean lethal concentration, fiducial limits and prediction equation for <italic>R. dominica</italic> with Higuer® extract and its combinations with nano and microparticles.</title>
+		</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 130px; background-color: #e6e7e8;" colspan="2"><bold>Extracto Higuer ® </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN1">
+        CL<sub>50</sub>
+      </xref>    
+      <xref ref-type="fn" rid="TFN1">
+        ppm
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 180px; background-color: #e6e7e8;"><bold></bold>      <bold><xref ref-type="fn" rid="TFN1">
+        LFI
+      </xref>
+      -
+      <xref ref-type="fn" rid="TFN1">
+        LFS
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 180px; background-color: #e6e7e8;"><bold>Ecuación de predicción </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2"><bold>Solo </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">183.74</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">136.596    - 249.831</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -9.819 ± 4.336</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="4"><bold>Nanopartículas</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      Si
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">141.88</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">56.455    - 331.908</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -12.862 ± 5.822</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      Cu
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">166.96</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">77.640    - 296.944</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -12.400 ± 5.579</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      Zn
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">179.17</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">129.223    – 250.143</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -9.864 ± 4.367</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      Gr
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">171.79</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">101.949    – 267.766</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -11.789 ± 5.274</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="4"><bold>Micropartículas</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      Si
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">168.55</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">128.803    – 246.778</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -9.986 ± 4.434</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      Cu
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">182.73</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">130.582    - 256.488</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -10.120 ± 4.472</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      Zn
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">188.32</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">135.850    – 286.986</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -9.429 ± 4.161</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN1">
+      Gr
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">179.15</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">129.088    -251.018</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Y=    -10.727 ± 4.761</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p>CL<sub>50</sub> = Concentración letal media, LFI = Límite fiducial inferior; LFS límite fiducial superior (95 %), ppm = partes por millón. Si = silicio, Cu = cobre, Zn = zinc, Gr = grafito.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+				</table-wrap-group>
+			</p>
+			<p>El extracto solo de <italic>R. communis</italic> ha sido catalogado como herramienta efectiva para el control de adultos de <italic>R. dominica</italic> tal como lo realizó <xref ref-type="bibr" rid="B20">Habib-Ur et al. (2018)</xref> donde evaluaron los extractos de las plantas <italic>Citrus paradise</italic> L., <italic>Jatropha curcus</italic> M. y <italic>R. communis</italic>, sobresaliendo esta última con una mortalidad de 59.5 % a las 72 h, a una concentración de 1500 ppm, valor que resulta superior al obtenido en el presente trabajo (183.74 ppm). Contrastando con el valor del extracto Higuer® solo, <xref ref-type="bibr" rid="B10">Corral et al. (2017)</xref> obtuvieron mortalidades del 100 % a las 72 h con aceite esencial solo de <italic>R. communis</italic> sobre <italic>R. dominica</italic> en concentraciones de 25, 50 y 80 ppm, concluyendo que el aceite esencial de la planta de higuerilla constituye una herramienta viable y no perjudicial con el medio ambiente cuando es aplicado sobre los adultos de esta especie.</p>
+			<p>El extracto de <italic>R. communis</italic> nano formulado también se ha evaluado contra insectos plaga de granos de almacén, logrando un control efectivo, con mortalidades de 100 % a 1300 y 25000 ppm, solo y nanoformulado, respectivamente, contando con significativo efecto insecticida sobre <italic>Tribolium castaneum</italic>, a la especie <italic>R. dominica</italic> y al género <italic>Sitophilus</italic> spp. (<xref ref-type="bibr" rid="B14">El-Naby et al., 2020</xref>).</p>
+			<p>En la <xref ref-type="table" rid="t2">Tabla 2</xref> se muestran los valores estimados para las CL<sub>50</sub> del extracto Etos® solo y sus combinaciones con nano y micro materiales. Se determinó que, de todos los materiales, la combinación con nano partículas de silicio presentó el menor valor con 163.63 y 195.17 ppm del extracto solo, seguido por nano partículas de cobre (168.66 ppm), nano grafito (175.91 ppm) y nano zinc (196.57 ppm). </p>
+			<p>
+				<table-wrap-group id="t2">
+	<table-wrap xml:lang="es">
+					<label>Tabla 2</label>
+					<caption>
+						<title>Concentración letal media, límites fiduciales y ecuación de predicción para <italic>R. dominica</italic> con el extracto Etos® y sus combinaciones con nano y micropartículas.</title>
+					</caption>
+					</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Table 2:</label>
+		<caption>
+			<title>Mean lethal concentration, fiducial limits and prediction equation for <italic>R. dominica</italic> with Etos® extract and its combinations with nano and microparticles.</title>
+		</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 120px; background-color: #e6e7e8;" colspan="2"><bold>Extracto Higuer ® </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 140px; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN2">
+        CL<sub>50</sub>
+      </xref>
+      <xref ref-type="fn" rid="TFN2">
+        ppm
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 180px; background-color: #e6e7e8;"><bold>
+    </bold>      <bold>
+      <xref ref-type="fn" rid="TFN2">
+        LFI
+      </xref>
+            -
+      
+      <xref ref-type="fn" rid="TFN2">
+        LFS
+      </xref>
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 180px; background-color: #e6e7e8;"><bold>Ecuación de predicción </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="2"><bold>Solo </bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">195.17</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">139.432    – 293.262</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -8.891 ± 3.882</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" rowspan="4"><bold>Nanopartículas</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      Si
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">163.63</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">54.631    – 346.616</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -12.862 ± 5.772</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      Cu
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">168.66</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">106.928    – 245.896</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -11.773 ± 5.286</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      Zn
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">196.57</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">140.896    – 301.026</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -8.798 ± 3.836</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      Gr
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">175.91</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">128.167    – 238.003</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -10.688 ± 4.760</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;" rowspan="4"><bold>Micropartículas</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      Si
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">182.57</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">135.823    – 247.106</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -9.934 ± 4.392</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      Cu
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">192.47</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">139.315    - 279.967</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -9.084 ± 3.976</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      Zn
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">200.92</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">128.356    – 330.563</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Y=    -8.525 ± 3.701</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><xref ref-type="fn" rid="TFN2">
+      Gr
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">193.81</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">139.404    -286.275</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Y=    -8.987 ± 3.929</td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN2">
+							<p>CL<sub>50</sub> = Concentración letal media, LFI = Límite fiducial inferior; LFS límite fiducial superior (95 %), ppm = partes por millón. Si = silicio, Cu = cobre, Zn = zinc, Gr = grafito.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+				</table-wrap-group>
+			</p>
+			<p>En el control de <italic>R. dominica</italic> el extracto de <italic>P. nigrum</italic> ha sido empleado con resultados satisfactorios, tal como lo publicó <xref ref-type="bibr" rid="B43">Sleem (2021)</xref> donde evaluó el extracto de la planta contra el insecto y registró mortalidades de hasta 52 % a 2500 ppm, valor que resulta superior al reportado en el presente trabajo (195.17 ppm). Para el caso de <italic>P. nigrum</italic> nanoformulado <xref ref-type="bibr" rid="B32">Rajkumar et al. (2020)</xref> evaluaron aceite esencial solo y en nanoformulación con quitosano sobre <italic>T. castaneum,</italic> mostrando que hubo una reducción del valor de CL<sub>50</sub> así como elevado efecto insecticida, mismo que potencialmente podría ser aplicado sobre plagas como <italic>R. dominca</italic>, <italic>Sitophilus oryzae</italic> (L.) y <italic>Sitophilus zeamais</italic> (M.).</p>
+			<p>Para el caso de las nanopartículas de silicio, <xref ref-type="bibr" rid="B49">Ziaee y Ganjii (2016)</xref> las evaluaron contra <italic>R. dominica</italic> y obtuvieron mortalidad de 100 % a una CL<sub>50</sub> de 102 ppm, valor que resulta inferior a la combinación de los extractos con nano silicio, 141.88 y 163.33 ppm, para Higuer® y Etos®, respectivamente. Por su parte <xref ref-type="bibr" rid="B37">Salem, 2020</xref> evaluó tres tipos de nanopartículas de silicio contra <italic>R. dominica</italic>, donde registró mortalidades de 100 % desde las 500 a las 1500 ppm, indicando el potencial que estas tienen para controlar al insecto y que pueden coadyuvar en el uso de nano formulados, coincidiendo con los resultados obtenidos en este trabajo para dicho material, pues redujeron el valor de CL<sub>50</sub> al ser combinadas con los dos extractos. Así mismo <xref ref-type="bibr" rid="B15">El-Naggar et al. (2020)</xref> evaluaron su actividad insecticida de este tipo de nanopartículas y determinaron que son efectivas por si solas contra <italic>R. dominica, Tribolium castaneum</italic> (Herbst) y <italic>Oryzaephilus surinamensis</italic> L., concluyendo que combinadas con un extracto o ingrediente activo pueden potencializar su efecto debido a las propiedades nano acarreadoras de los materiales nano escalados.</p>
+			<p>Respecto a las nanopartículas de cobre <xref ref-type="bibr" rid="B7">Badawy et al. (2021)</xref> evaluaron nanopartículas de cobre bio sintetizadas a partir de una línea de <italic>Aspergillus niger</italic> (G3-1) obteniendo mortalidades de hasta 90 % a 300 ppm, señalando que son efectivas en el control de <italic>R. dominica</italic>.</p>
+			<p>En cuanto a nano zinc <xref ref-type="bibr" rid="B6">Aziz et al. (2022)</xref> determinaron la actividad insecticida sobre <italic>R. dominica</italic> de nanopartículas de óxido de zinc, plata y selenio, reportando mortalidades de 47 a 100 % a los 9 días de evaluación, concluyendo que los tres materiales representan una alternativa viable en el control del insecto, sin embargo, las nanopartículas de plata fueron más efectivas que las de zinc y por último selenio. Similar a ello <xref ref-type="bibr" rid="B42">Siddique et al. (2022)</xref> evaluaron el extracto de <italic>Eucalyptus globulus</italic> L. solo y combinado con nanopartículas de zinc contra <italic>R. dominica</italic>, estimando una CL<sub>50</sub> de 1043.6 y 202.11 ppm, respectivamente, determinando que en nanoformulación la CL<sub>50</sub> se redujo considerablemente con un remarcado efecto insecticida. Contrastando con lo anterior se ha descrito que el zinc en formas nano y micro escalado, no es tan efectivo como silicio, cobre, plata y hierro en el control de plagas de almacén (<xref ref-type="bibr" rid="B19">Gupta et al., 2023</xref>; <xref ref-type="bibr" rid="B3">Albandar et al., 2024</xref>).</p>
+			<p>En investigaciones recientes se ha demostrado como la adición de nano grafeno a las formulaciones bio insecticidas logra reducir los valores de CL<sub>50,</sub> tal como lo realizaron <xref ref-type="bibr" rid="B8">Batool et al. (2020)</xref> donde evaluaron una cisteína proteasa proveniente de <italic>Albizia procera</italic> L. encapsulada y sin encapsular en Graphene Quantum Dots (GQD), obteniendo mortalidad de hasta 92 % para <italic>R. dominica</italic> logrando reducir el valor de CL<sub>50</sub> en nano formulación con grafeno comparado con la biomolécula sola (0.449 ppm y 0.501 ppm). Así mismo <xref ref-type="bibr" rid="B29">Moisidis et al. (2022)</xref> evaluaron dos tipos de nano grafeno, si bien el grafeno es un material de dos dimensiones, que posee una sola capa de átomos de carbono organizados de manera hexagonal, los autores emplearon dos tipos de nano grafeno denominados Gr-1 y Gr-2, que se diferenciaban en el número de capas y defectos, así como en el carbono sp<sup>2</sup>, esto derivado del proceso comercial de elaboración a partir de gas natural, contra <italic>R. dominica</italic>, concluyendo que se trata de un nano material efectivo para controlar a dicho insecto, pues obtuvieron mortalidades del 100 % a 250 ppm. Similar a esta investigación, <xref ref-type="bibr" rid="B27">Lampiri et al. (2024)</xref> realizaron la evaluación de nano y micro grafeno (100 nm y 5, 10 y 25 µm) sobre <italic>R. dominica</italic>, donde el material nano escalado proporcionó mortalidades de 96.6 a 99 % comparado con una máxima de 20 % con micropartículas de grafeno, atribuyéndolo a las propiedades nanoacarreadoras de las nanopartículas.</p>
+			<p>En los resultados mostrados en las tablas, es posible observar el traslape de los límites fiduciales, estadísticamente iguales, sin embargo se buscó entre las respectivas combinaciones con los materiales nano y micro escalados aquellos tratamientos con el menor valor de CL<sub>50</sub>, brindando de esta manera una reducción de dicho valor respecto del extracto solo.</p>
+			<p>Referente a los micro materiales existen diferencias en propiedades respecto a los materiales nano escalados, tales como capacidad acarreadora, mejor adhesión a la cutícula del insecto, liberación controlada y prolongada del ingrediente activo así como protección contra la degradación (<xref ref-type="bibr" rid="B24">Iqbal et al., 2022</xref>) situación que podría explicar los resultados obtenidos en la presente investigación al comparar los valores estimados de las CL<sub>50</sub> de los nano materiales contra sus contrapartes micro escalados, ya que los primeros reducen dicho valor. Además, los diferentes modos de acción podrían influir en la respuesta obtenida, ya que el silicio actúa por el proceso conocido como fisisorción, donde las ceras cuticulares, mismas que protegen a los insectos de la desecación, se ven afectadas, permitiendo el paso de los ingredientes activos y generando como consecuencia pérdida de agua, que culmina con la muerte del insecto (<xref ref-type="bibr" rid="B16">El Sayed et al., 2023</xref>). Convirtiéndose de esta manera en un nano material sobresaliente, por encima de otros como cobre o zinc, en el control de insectos plaga de almacén gracias a su capacidad acarreadora y compatibilidad con diversidad de moléculas (<xref ref-type="bibr" rid="B40">Saw et al., 2023</xref>). En cuanto a cobre y zinc su modo de acción ha sido descrito como generadores de estrés oxidativo al crear un desbalance entre las especies reactivas de oxígeno y los mecanismos de defensa antioxidantes del insecto (<xref ref-type="bibr" rid="B31">Rai et al., 2018</xref>). Para grafito, al ser un material similar al grafeno, su modo de acción ha sido descrito como abrasión y sorción de lípidos cuticulares (<xref ref-type="bibr" rid="B4">Athanassiou et al., 2018</xref>), sin embargo se ha señalado que su efectividad podría variar dependiendo de su estructura atómica (<xref ref-type="bibr" rid="B12">Dasauni et al., 2022</xref>).</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusiones</title>
+			<p>Los extractos Higuer® y Etos® combinados con las nanopartículas de silicio presentan los valores más bajos de CL<sub>50</sub>, por lo que constituyen una herramienta para el control de <italic>R. dominica.</italic></p>
+			<p>Cuando los extractos son combinados con los materiales micro particulados los valores de CL<sub>50</sub> son iguales o superiores a los de los productos solos.</p>
+		</sec>
+		<sec>
+			<title>Conflicto de interés</title>
+			<p>Los autores declaran no tener conflicto de interés.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>A la SECIHTI por el apoyo de beca otorgado para cursar los estudios de doctorado.</p>
+		</ack>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Abbott, W.S. 1925. A method of computing the effectiveness of an insecticide. Journal of Economic Entomology, 18(2): 265-267.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Abbott</surname>
+							<given-names>W.S</given-names>
+						</name>
+					</person-group>
+					<year>1925</year>
+					<article-title>A method of computing the effectiveness of an insecticide</article-title>
+					<source>Journal of Economic Entomology</source>
+					<volume>18</volume>
+					<issue>2</issue>
+					<fpage>265</fpage>
+					<lpage>267</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Abubakar, R., Suleiman, M. y Wagini, N.H. 2021. Phytochemical and insecticidal properties of some botanical extracts against the lesser grain borer, <italic>Rhyzopertha dominica</italic> F. (Coleoptera: Bostrichidae). Journal of Entomology and Zoology Studies. 9(2):06-13. https://doi.org/10.22271/j.ento.2021.v9.i2a.8452</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Abubakar</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Suleiman</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Wagini</surname>
+							<given-names>N.H</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Phytochemical and insecticidal properties of some botanical extracts against the lesser grain borer, Rhyzopertha dominica F. (Coleoptera: Bostrichidae)</article-title>
+					<source>Journal of Entomology and Zoology Studies</source>
+					<volume>9</volume>
+					<issue>2</issue>
+					<fpage>06</fpage>
+					<lpage>13</lpage>
+					<pub-id pub-id-type="doi">10.22271/j.ento.2021.v9.i2a.8452</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Albandar, I., Alyusif, M.J. y Almansour, N.A.A. 2024. Comparative analysis of the insecticidal activity of biogenic zinc oxide nanoparticles, iron oxide nanoparticles and <italic>Piper nigrum</italic> fruits extract against 1st instar larva of house fly, (<italic>Musca domestica</italic>) (Diptera: Muscidae). Journal of Bioscience and Applied Research. 1(1): 1-15. https://dx.doi.org/10.21608/jbaar.2024.326210.1090</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Albandar</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Alyusif</surname>
+							<given-names>M.J.</given-names>
+						</name>
+						<name>
+							<surname>Almansour</surname>
+							<given-names>N.A.A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Comparative analysis of the insecticidal activity of biogenic zinc oxide nanoparticles, iron oxide nanoparticles and Piper nigrum fruits extract against 1st instar larva of house fly, (Musca domestica) (Diptera: Muscidae)</article-title>
+					<source>Journal of Bioscience and Applied Research</source>
+					<volume>1</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>15</lpage>
+					<pub-id pub-id-type="doi">10.21608/jbaar.2024.326210.1090</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Athanassiou, C.G., Kavallieratos, N.G., Benelli, G., Losic, D., Usha Rani, P. y Desneux, N. 2018. Nanoparticles for pest control: current status and future perspectives. Journal of Pest Science. 91(1): 1-15. https://doi.org/10.1007/s10340-017-0898-0</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Athanassiou</surname>
+							<given-names>C.G.</given-names>
+						</name>
+						<name>
+							<surname>Kavallieratos</surname>
+							<given-names>N.G.</given-names>
+						</name>
+						<name>
+							<surname>Benelli</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Losic</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Usha Rani</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Desneux</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Nanoparticles for pest control: current status and future perspectives</article-title>
+					<source>Journal of Pest Science</source>
+					<volume>91</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>15</lpage>
+					<pub-id pub-id-type="doi">10.1007/s10340-017-0898-0</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Aulicky, R., Stejskal, V., Frydova, B. y Athanassiou, C. 2022. Evaluation of phosphine resistance in populations of <italic>Sitophilus oryzae</italic>, <italic>Oryzaephilus surinamensis</italic> and <italic>Rhyzopertha dominica</italic> in the Czech Republic. Insects. 13(12): 1162. https://doi.org/10.3390/insects13121162</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aulicky</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Stejskal</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Frydova</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Athanassiou</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Evaluation of phosphine resistance in populations of Sitophilus oryzae, Oryzaephilus surinamensis and Rhyzopertha dominica in the Czech Republic</article-title>
+					<source>Insects</source>
+					<volume>13</volume>
+					<issue>12</issue>
+					<issue-part>1162</issue-part>
+					<pub-id pub-id-type="doi">10.3390/insects13121162</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Aziz, D.J.M., Haidir, A.A. y Mustafa, T.A. 2022. Effect of nanoparticles on some biological aspects of the lesser grain borer beetle <italic>Rhyzopertha Dominica</italic> (Fab.) (Coleoptera: Bostrichidae). NVEO-Natural Volatiles &amp; Essential Oils Journal| NVEO, 1(1): 487-500.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aziz</surname>
+							<given-names>D.J.M.</given-names>
+						</name>
+						<name>
+							<surname>Haidir</surname>
+							<given-names>A.A.</given-names>
+						</name>
+						<name>
+							<surname>Mustafa</surname>
+							<given-names>T.A</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Effect of nanoparticles on some biological aspects of the lesser grain borer beetle Rhyzopertha Dominica (Fab.) (Coleoptera: Bostrichidae)</article-title>
+					<source>NVEO-Natural Volatiles &amp; Essential Oils Journal| NVEO</source>
+					<volume>1</volume>
+					<issue>1</issue>
+					<fpage>487</fpage>
+					<lpage>500</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Badawy, A.A., Abdelfattah, N.A., Salem, S.S., Awad, M.F. y Fouda, A. 2021. Efficacy assessment of biosynthesized copper oxide nanoparticles (CuO-NPs) on stored grain insects and their impacts on morphological and physiological traits of wheat (<italic>Triticum aestivum</italic> L.) plant. Biology. 10(3): 233. https://doi.org/10.3390/biology10030233</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Badawy</surname>
+							<given-names>A.A.</given-names>
+						</name>
+						<name>
+							<surname>Abdelfattah</surname>
+							<given-names>N.A.</given-names>
+						</name>
+						<name>
+							<surname>Salem</surname>
+							<given-names>S.S.</given-names>
+						</name>
+						<name>
+							<surname>Awad</surname>
+							<given-names>M.F.</given-names>
+						</name>
+						<name>
+							<surname>Fouda</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Efficacy assessment of biosynthesized copper oxide nanoparticles (CuO-NPs) on stored grain insects and their impacts on morphological and physiological traits of wheat (Triticum aestivum L.) plant</article-title>
+					<source>Biology</source>
+					<volume>10</volume>
+					<issue>3</issue>
+					<issue-part>233</issue-part>
+					<pub-id pub-id-type="doi">10.3390/biology10030233</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Batool, M., Hussain, D., Akrem, A., Najam-ul-Haq, M., Saeed, S., Zaka, S.M. y Saeed, Q. 2020. Graphene quantum dots as cysteine protease nanocarriers against stored grain insect pests. Scientific reports. 10(1): 3444. https://doi.org/10.1038/s41598-020-60432-5</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Batool</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Hussain</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Akrem</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Najam-ul-Haq</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Saeed</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Zaka</surname>
+							<given-names>S.M.</given-names>
+						</name>
+						<name>
+							<surname>Saeed</surname>
+							<given-names>Q</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Graphene quantum dots as cysteine protease nanocarriers against stored grain insect pests</article-title>
+					<source>Scientific reports</source>
+					<volume>10</volume>
+					<issue>1</issue>
+					<issue-part>3444</issue-part>
+					<pub-id pub-id-type="doi">10.1038/s41598-020-60432-5</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Cao, Y., Jian, L., Athanassiou, C.G., Yang, Y., Hu, Q., Zhang, X. y Maggi, F. 2024. Behavioral responses of <italic>Rhyzopertha dominica</italic> (F.) to volatiles of different stored grains. Journal of Stored Products Research. 105(1): 102235. https://doi.org/10.1016/j.jspr.2023.102235</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cao</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Jian</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Athanassiou</surname>
+							<given-names>C.G.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Hu</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Maggi</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Behavioral responses of Rhyzopertha dominica (F.) to volatiles of different stored grains</article-title>
+					<source>Journal of Stored Products Research</source>
+					<volume>105</volume>
+					<issue>1</issue>
+					<issue-part>102235</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jspr.2023.102235</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Corral, F.J.W., Villanueva, M.C.M., Vásquez, F.V., López, E.A.B., Torres, F.A.C., Heredia, S.M.B., y Puente, E.O.R. 2017. Aceite de <italic>Ricinus Communis</italic> (L.) para el control de <italic>Rhyzopertha dominica</italic> (F.) en trigo <italic>Triticum Aestivum</italic> (L.) almacenado. Biotecnia. 19(1):23-26.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Corral</surname>
+							<given-names>F.J.W.</given-names>
+						</name>
+						<name>
+							<surname>Villanueva</surname>
+							<given-names>M.C.M.</given-names>
+						</name>
+						<name>
+							<surname>Vásquez</surname>
+							<given-names>F.V.</given-names>
+						</name>
+						<name>
+							<surname>López</surname>
+							<given-names>E.A.B.</given-names>
+						</name>
+						<name>
+							<surname>Torres</surname>
+							<given-names>F.A.C.</given-names>
+						</name>
+						<name>
+							<surname>Heredia</surname>
+							<given-names>S.M.B.</given-names>
+						</name>
+						<name>
+							<surname>Puente</surname>
+							<given-names>E.O.R</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Aceite de Ricinus Communis (L.) para el control de Rhyzopertha dominica (F.) en trigo Triticum Aestivum (L.) almacenado</article-title>
+					<source>Biotecnia</source>
+					<volume>19</volume>
+					<issue>1</issue>
+					<fpage>23</fpage>
+					<lpage>26</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Daglish, G.J., Singarayan, V.T., Jagadeesan, R., Reid, R., Ebert, P.R. y Nayak, M.K. 2024. Seasonal flight activity and associated frequency of rph2 phosphine resistance allele in <italic>Rhyzopertha dominica</italic> at bulk storage facilities in southern Queensland, Australia. Journal of Stored Products Research , 109 (1): 102447. https://doi.org/10.1016/j.jspr.2024.102447</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Daglish</surname>
+							<given-names>G.J.</given-names>
+						</name>
+						<name>
+							<surname>Singarayan</surname>
+							<given-names>V.T.</given-names>
+						</name>
+						<name>
+							<surname>Jagadeesan</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Reid</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Ebert</surname>
+							<given-names>P.R.</given-names>
+						</name>
+						<name>
+							<surname>Nayak</surname>
+							<given-names>M.K</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Seasonal flight activity and associated frequency of rph2 phosphine resistance allele in Rhyzopertha dominica at bulk storage facilities in southern Queensland, Australia</article-title>
+					<source>Journal of Stored Products Research</source>
+					<volume>109</volume>
+					<issue>1</issue>
+					<issue-part>102447</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jspr.2024.102447</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Dasauni, K., Mathpal, P. y Nailwal, T. K. 2022. Polymeric nanoparticle-based insecticide: A critical review of agriculture production. Nano-enabled Agrochemicals in Agriculture. 1(1): 445-466. https://doi.org/10.1016/B978-0-323-91009-5.00015-X</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dasauni</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Mathpal</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Nailwal</surname>
+							<given-names>T. K</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Polymeric nanoparticle-based insecticide: A critical review of agriculture production</article-title>
+					<source>Nano-enabled Agrochemicals in Agriculture</source>
+					<volume>1</volume>
+					<issue>1</issue>
+					<fpage>445</fpage>
+					<lpage>466</lpage>
+					<pub-id pub-id-type="doi">10.1016/B978-0-323-91009-5.00015-X</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Ebadollahi, A., Naseri, B., Abedi, Z. y Setzer, W.N. 2022. Chemical profiles and insecticidal potential of essential oils isolated from four Thymus species against <italic>Rhyzopertha dominica</italic> (F.). Plants. 11(12): 1567. https://doi.org/10.3390/plants11121567</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ebadollahi</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Naseri</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Abedi</surname>
+							<given-names>Z.</given-names>
+						</name>
+						<name>
+							<surname>Setzer</surname>
+							<given-names>W.N</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Chemical profiles and insecticidal potential of essential oils isolated from four Thymus species against Rhyzopertha dominica (F.)</article-title>
+					<source>Plants</source>
+					<volume>11</volume>
+					<issue>12</issue>
+					<issue-part>1567</issue-part>
+					<pub-id pub-id-type="doi">10.3390/plants11121567</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>El-Naby, A., Shimaa, S.I., Mahmoud, F.H., El-Habal, N.A., Abdou, M.S. y Abdel-Rheim, K.H. 2020. Efficacy of prepared castor oil nanoemulsion formulation against rice weevil <italic>Sitophilus Oryzae</italic> on stored wheat grain and its acute toxic effect on rats. Egyptian Scientific Journal of Pesticides. 6(4): 33-44.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>El-Naby</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Shimaa</surname>
+							<given-names>S.I.</given-names>
+						</name>
+						<name>
+							<surname>Mahmoud</surname>
+							<given-names>F.H.</given-names>
+						</name>
+						<name>
+							<surname>El-Habal</surname>
+							<given-names>N.A.</given-names>
+						</name>
+						<name>
+							<surname>Abdou</surname>
+							<given-names>M.S.</given-names>
+						</name>
+						<name>
+							<surname>Abdel-Rheim</surname>
+							<given-names>K.H</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Efficacy of prepared castor oil nanoemulsion formulation against rice weevil Sitophilus Oryzae on stored wheat grain and its acute toxic effect on rats</article-title>
+					<source>Egyptian Scientific Journal of Pesticides</source>
+					<volume>6</volume>
+					<issue>4</issue>
+					<fpage>33</fpage>
+					<lpage>44</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>El-Naggar, M.E., Abdelsalam, N.R., Fouda, M.M., Mackled, M.I., Al-Jaddadi, M.A., Ali, H.M. y Kandil, E.E. 2020. Soil application of nano silica on maize yield and its insecticidal activity against some stored insects after the post-harvest. Nanomaterials. 10(4):2-19 http://dx.doi.org/10.3390/nano10040739</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>El-Naggar</surname>
+							<given-names>M.E.</given-names>
+						</name>
+						<name>
+							<surname>Abdelsalam</surname>
+							<given-names>N.R.</given-names>
+						</name>
+						<name>
+							<surname>Fouda</surname>
+							<given-names>M.M.</given-names>
+						</name>
+						<name>
+							<surname>Mackled</surname>
+							<given-names>M.I.</given-names>
+						</name>
+						<name>
+							<surname>Al-Jaddadi</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Ali</surname>
+							<given-names>H.M.</given-names>
+						</name>
+						<name>
+							<surname>Kandil</surname>
+							<given-names>E.E</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Soil application of nano silica on maize yield and its insecticidal activity against some stored insects after the post-harvest</article-title>
+					<source>Nanomaterials</source>
+					<volume>10</volume>
+					<issue>4</issue>
+					<fpage>2</fpage>
+					<lpage>19</lpage>
+					<pub-id pub-id-type="doi">10.3390/nano10040739</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>El-Sayed, T.S., Rizk, S.A. y Sayed, R.M. 2023. Cellophane packaging treated with nano silica is superior to polyethylene in reducing stored irradiated flour from <italic>Tribolium confusum</italic> infestation. International Journal of Tropical Insect Science. 43(6): 2121-2127. https://doi.org/10.1007/s42690-023-01111-6</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>El-Sayed</surname>
+							<given-names>T.S.</given-names>
+						</name>
+						<name>
+							<surname>Rizk</surname>
+							<given-names>S.A.</given-names>
+						</name>
+						<name>
+							<surname>Sayed</surname>
+							<given-names>R.M</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Cellophane packaging treated with nano silica is superior to polyethylene in reducing stored irradiated flour from Tribolium confusum infestation</article-title>
+					<source>International Journal of Tropical Insect Science</source>
+					<volume>43</volume>
+					<issue>6</issue>
+					<fpage>2121</fpage>
+					<lpage>2127</lpage>
+					<pub-id pub-id-type="doi">10.1007/s42690-023-01111-6</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Finney, D.J. 1971 En Probit Analysis. Cambridge at the Univ. Press. pp. 120. 3rd Ed.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Finney</surname>
+							<given-names>D.J</given-names>
+						</name>
+					</person-group>
+					<year>1971</year>
+					<source>Probit Analysis</source>
+					<publisher-name>Cambridge at the Univ. Press</publisher-name>
+					<fpage>120</fpage>
+					<lpage>120</lpage>
+					<edition>3rd</edition>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Food and Agriculture Organization. 1974. Recommended methods for the detection and measurement of the resistance of agricultural pests to pesticides. FAO plant protection bulletin 27. 18(6): 29-32.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>Food and Agriculture Organization</collab>
+					</person-group>
+					<year>1974</year>
+					<article-title>Recommended methods for the detection and measurement of the resistance of agricultural pests to pesticides</article-title>
+					<source>FAO plant protection bulletin 27</source>
+					<volume>18</volume>
+					<issue>6</issue>
+					<fpage>29</fpage>
+					<lpage>32</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Gupta, R., Saxena, T., Mehra, N., Arora, R. y Sahgal, A. 2023. Nanopesticides: promising future in sustainable pest management. Journal of Advanced Applied Scientific Research. 5(2):1-6. https://doi.org/10.46947/joaasr522023515</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gupta</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Saxena</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Mehra</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Arora</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Sahgal</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Nanopesticides: promising future in sustainable pest management</article-title>
+					<source>Journal of Advanced Applied Scientific Research</source>
+					<volume>5</volume>
+					<issue>2</issue>
+					<fpage>1</fpage>
+					<lpage>6</lpage>
+					<pub-id pub-id-type="doi">10.46947/joaasr522023515</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Habib-Ur, R., Mansoor-ul-Hasan, M.U.H., Qurban Ali, Q.A., Muhammad Yasir, M.Y., Shahzad Saleem, S.S., Saima Mirza, S.M. y Ahmed, H.M. 2018. Potential of three indigenous plants extracts for the control of <italic>Tribolium castaneum</italic> (Herbst) and <italic>Rhyzopertha dominica</italic> (Fab.) Pakistan Entomologist. 40(1): 31-37.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Habib-Ur</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Mansoor-ul-Hasan</surname>
+							<given-names>M.U.H.</given-names>
+						</name>
+						<name>
+							<surname>Qurban Ali</surname>
+							<given-names>Q.A.</given-names>
+						</name>
+						<name>
+							<surname>Muhammad Yasir</surname>
+							<given-names>M.Y.</given-names>
+						</name>
+						<name>
+							<surname>Shahzad Saleem</surname>
+							<given-names>S.S.</given-names>
+						</name>
+						<name>
+							<surname>Saima Mirza</surname>
+							<given-names>S.M.</given-names>
+						</name>
+						<name>
+							<surname>Ahmed</surname>
+							<given-names>H.M</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Potential of three indigenous plants extracts for the control of Tribolium castaneum (Herbst) and Rhyzopertha dominica</article-title>
+					<source>Pakistan Entomologist</source>
+					<volume>40</volume>
+					<issue>1</issue>
+					<fpage>31</fpage>
+					<lpage>37</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Hemmati, S.A. 2024. The performance and physiological responses of <italic>Rhyzopertha dominica</italic> (F.) (Coleoptera: Bostrichidae) to different sorghum cultivars. Journal of Stored Products Research . 107(1): 102318. https://doi.org/10.1016/j.jspr.2024.102318</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hemmati</surname>
+							<given-names>S.A</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>The performance and physiological responses of Rhyzopertha dominica (F.) (Coleoptera: Bostrichidae) to different sorghum cultivars</article-title>
+					<source>Journal of Stored Products Research</source>
+					<volume>107</volume>
+					<issue>1</issue>
+					<issue-part>102318</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jspr.2024.102318</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Holloway, J.C., Daglish, G.J. y Mayer, D.G. 2020. Spatial distribution and flight patterns of two grain storage insect pests, <italic>Rhyzopertha dominica</italic> (Bostrichidae) and <italic>Tribolium castaneum</italic> (Tenebrionidae): implications for pest management. Insects . 11(10): 715. https://doi.org/10.3390/insects11100715</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Holloway</surname>
+							<given-names>J.C.</given-names>
+						</name>
+						<name>
+							<surname>Daglish</surname>
+							<given-names>G.J.</given-names>
+						</name>
+						<name>
+							<surname>Mayer</surname>
+							<given-names>D.G</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Spatial distribution and flight patterns of two grain storage insect pests, Rhyzopertha dominica (Bostrichidae) and Tribolium castaneum (Tenebrionidae): implications for pest management</article-title>
+					<source>Insects</source>
+					<volume>11</volume>
+					<issue>10</issue>
+					<issue-part>715</issue-part>
+					<pub-id pub-id-type="doi">10.3390/insects11100715</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Ileke, K.D. y Adeniran, C.O. 2025. Chemical composition and insecticidal efficacy of two animals’ horn and hoof crude extracts against lesser grains borer, <italic>Rhyzopertha dominica</italic> (F.) (Coleoptera: Bostrichidae). Heliyon. 11(2):1-16. https://doi.org/10.1016/j.heliyon.2025.e41778</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ileke</surname>
+							<given-names>K.D.</given-names>
+						</name>
+						<name>
+							<surname>Adeniran</surname>
+							<given-names>C.O</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Chemical composition and insecticidal efficacy of two animals’ horn and hoof crude extracts against lesser grains borer, Rhyzopertha dominica (F.) (Coleoptera: Bostrichidae)</article-title>
+					<source>Heliyon</source>
+					<volume>11</volume>
+					<issue>2</issue>
+					<fpage>1</fpage>
+					<lpage>16</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.heliyon.2025.e41778</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Iqbal, H., Jahan, N., Khalil-ur-Rahman y Jamil, S. 2022. Formulation and characterisation of <italic>Azadirachta indica</italic> nanobiopesticides for ecofriendly control of wheat pest <italic>Tribolium castaneum</italic> and <italic>Rhyzopertha dominica</italic>. Journal of Microencapsulation. 39(7-8): 638-653. https://doi.org/10.1080/02652048.2022.2149870</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Iqbal</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Jahan</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Khalil-ur-Rahman</surname>
+							<given-names/>
+						</name>
+						<name>
+							<surname>Jamil</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Formulation and characterisation of Azadirachta indica nanobiopesticides for ecofriendly control of wheat pest Tribolium castaneum and Rhyzopertha dominica</article-title>
+					<source>Journal of Microencapsulation</source>
+					<volume>39</volume>
+					<issue>7-8</issue>
+					<fpage>638</fpage>
+					<lpage>653</lpage>
+					<pub-id pub-id-type="doi">10.1080/02652048.2022.2149870</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Kadir, M.L., Dageri, A. y Aslan, T.N. 2025. Nanopesticides for managing primary and secondary stored product pests: current status and future directions. Heliyon . 11(4):1-19. https://doi.org/10.1016/j.heliyon.2025.e42341</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kadir</surname>
+							<given-names>M.L.</given-names>
+						</name>
+						<name>
+							<surname>Dageri</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Aslan</surname>
+							<given-names>T.N</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Nanopesticides for managing primary and secondary stored product pests: current status and future directions</article-title>
+					<source>Heliyon</source>
+					<volume>11</volume>
+					<issue>4</issue>
+					<fpage>1</fpage>
+					<lpage>19</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.heliyon.2025.e42341</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>Kudesia, N., Banu, A.N., Raut, A.M., Rana, N., Bihal, R., Sarkar, R. y Wahengbam, J. 2024. Insect pest control through biofabricated technology. In <italic>Entomopathogenic Fungi: Prospects and Challenges</italic>, pp. 523-553. Singapore: Springer Nature Singapore. https://doi.org/10.1007/978-981-97-5991-0_21</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kudesia</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Banu</surname>
+							<given-names>A.N.</given-names>
+						</name>
+						<name>
+							<surname>Raut</surname>
+							<given-names>A.M.</given-names>
+						</name>
+						<name>
+							<surname>Rana</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Bihal</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Sarkar</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Wahengbam</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<chapter-title>Insect pest control through biofabricated technology</chapter-title>
+					<source>Entomopathogenic Fungi: Prospects and Challenges</source>
+					<fpage>523</fpage>
+					<lpage>553</lpage>
+					<publisher-loc>Singapore</publisher-loc>
+					<publisher-name>Springer Nature Singapore</publisher-name>
+					<pub-id pub-id-type="doi">10.1007/978-981-97-5991-0_21</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>Lampiri, E., Yap, P.L., Berillis, P., Athanassiou, C.G. and Losic, D. 2024. Graphene powders as new contact nanopesticides: Revealing key parameters on their insecticidal activity for stored product insects. Chemosphere. 364(1): 143200. https://doi.org/10.1016/j.chemosphere.2024.143200</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lampiri</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Yap</surname>
+							<given-names>P.L.</given-names>
+						</name>
+						<name>
+							<surname>Berillis</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Athanassiou</surname>
+							<given-names>C.G.</given-names>
+						</name>
+						<name>
+							<surname>Losic</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Graphene powders as new contact nanopesticides: Revealing key parameters on their insecticidal activity for stored product insects</article-title>
+					<source>Chemosphere</source>
+					<volume>364</volume>
+					<issue>1</issue>
+					<issue-part>143200</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.chemosphere.2024.143200</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Manivannan, S., Subramanyam, B. y Siliveru, K. 2024. Efficacy of two amorphous silica powders applied to soft red winter wheat against the lesser grain borer, <italic>Rhyzopertha dominica</italic> (F.) (Coleoptera: Bostrichidae). Journal of Stored Products Research . 106(1): 102264. https://doi.org/10.1016/j.jspr.2024.102264</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Manivannan</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Subramanyam</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Siliveru</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Efficacy of two amorphous silica powders applied to soft red winter wheat against the lesser grain borer, Rhyzopertha dominica (F.) (Coleoptera: Bostrichidae)</article-title>
+					<source>Journal of Stored Products Research</source>
+					<volume>106</volume>
+					<issue>1</issue>
+					<issue-part>102264</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jspr.2024.102264</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Moisidis, I.C., Sakka, M.K., Karunagaran, R., Losic, D. y Athanassiou, C.G. 2022. Insecticidal effect of graphene against three stored-product beetle species on wheat. Journal of Stored Products Research . 98(1): 101999. https://doi.org/10.1016/j.jspr.2022.101999</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Moisidis</surname>
+							<given-names>I.C.</given-names>
+						</name>
+						<name>
+							<surname>Sakka</surname>
+							<given-names>M.K.</given-names>
+						</name>
+						<name>
+							<surname>Karunagaran</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Losic</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Athanassiou</surname>
+							<given-names>C.G</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Insecticidal effect of graphene against three stored-product beetle species on wheat</article-title>
+					<source>Journal of Stored Products Research</source>
+					<volume>98</volume>
+					<issue>1</issue>
+					<issue-part>101999</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jspr.2022.101999</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Naimi, I., Bouamama, H. y Ba M’hamed, T. 2025. Chemical composition, repellency, and insecticidal activity of <italic>Pinus halenpenssis</italic> leaf essential oil from Morocco on adults of <italic>Rhyzopertha dominica</italic> (Fabricius) (Coleoptera: Bostrichidae) and <italic>Tribolium castaneum</italic> (Herbst)(Coleoptera: Tenebrionidae). Plants . 14(3): 407-422. https://doi.org/10.3390/plants14030407</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Naimi</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Bouamama</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Ba M’hamed</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Chemical composition, repellency, and insecticidal activity of Pinus halenpenssis leaf essential oil from Morocco on adults of Rhyzopertha dominica (Fabricius) (Coleoptera: Bostrichidae) and Tribolium castaneum (Herbst)(Coleoptera: Tenebrionidae)</article-title>
+					<source>Plants</source>
+					<volume>14</volume>
+					<issue>3</issue>
+					<fpage>407</fpage>
+					<lpage>422</lpage>
+					<pub-id pub-id-type="doi">10.3390/plants14030407</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<mixed-citation>Rai, M., Ingle, A.P., Pandit, R., Paralikar, P., Shende, S., Gupta, I. y da Silva, S.S. 2018. Copper and copper nanoparticles: Role in management of insect-pests and pathogenic microbes. Nanotechnology Reviews. 7(4): 303-315. https://doi.org/10.1515/ntrev-2018-0031</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rai</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ingle</surname>
+							<given-names>A.P.</given-names>
+						</name>
+						<name>
+							<surname>Pandit</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Paralikar</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Shende</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Gupta</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>da Silva</surname>
+							<given-names>S.S</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Copper and copper nanoparticles: Role in management of insect-pests and pathogenic microbes</article-title>
+					<source>Nanotechnology Reviews</source>
+					<volume>7</volume>
+					<issue>4</issue>
+					<fpage>303</fpage>
+					<lpage>315</lpage>
+					<pub-id pub-id-type="doi">10.1515/ntrev-2018-0031</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<mixed-citation>Rajkumar, V., Sindhu, M., Annapoorani, C.A., Gunasekaran, C. y Kannan, M. 2020. Functionalized nanoencapsulated <italic>Curcuma longa</italic> essential oil in chitosan nanopolymer and their application for antioxidant and antimicrobial efficacy. International Journal of Biological Macromolecules. 251(1): 126387. https://doi.org/10.1016/j.pestbp.2020.104566</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rajkumar</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Sindhu</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Annapoorani</surname>
+							<given-names>C.A.</given-names>
+						</name>
+						<name>
+							<surname>Gunasekaran</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Kannan</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Functionalized nanoencapsulated Curcuma longa essential oil in chitosan nanopolymer and their application for antioxidant and antimicrobial efficacy</article-title>
+					<source>International Journal of Biological Macromolecules</source>
+					<volume>251</volume>
+					<issue>1</issue>
+					<issue-part>126387</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.pestbp.2020.104566</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<mixed-citation>Ramírez-Cabrera, C., López-Díaz, G., Canal, N.A. y Bacca, T. 2024. Control failure of deltamethrin in Colombian populations of <italic>Rhyzopertha dominica</italic> (F.) (Coleoptera: Bostrichidae). Revista de Ciencias Agrícolas. 41(1): e11229. https://doi.org/10.22267/rcia.20244101.229</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ramírez-Cabrera</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>López-Díaz</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Canal</surname>
+							<given-names>N.A.</given-names>
+						</name>
+						<name>
+							<surname>Bacca</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Control failure of deltamethrin in Colombian populations of Rhyzopertha dominica (F.) (Coleoptera: Bostrichidae)</article-title>
+					<source>Revista de Ciencias Agrícolas</source>
+					<volume>41</volume>
+					<issue>1</issue>
+					<elocation-id>e11229</elocation-id>
+					<pub-id pub-id-type="doi">10.22267/rcia.20244101.229</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<mixed-citation>Ren, Y., Wang, T., Wang, C., D’Isita, I., Hu, Q., Germinara, G.S. y Cao, Y. 2023. Population development of <italic>Rhyzopertha dominica</italic> (F.) (Coleoptera: Bostrichidae) on different stored products. Entomological Research. 53(10): 359-366. https://doi.org/10.1111/1748-5967.12670</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ren</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>D’Isita</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>Hu</surname>
+							<given-names>Q.</given-names>
+						</name>
+						<name>
+							<surname>Germinara</surname>
+							<given-names>G.S.</given-names>
+						</name>
+						<name>
+							<surname>Cao</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Population development of Rhyzopertha dominica (F.) (Coleoptera: Bostrichidae) on different stored products</article-title>
+					<source>Entomological Research</source>
+					<volume>53</volume>
+					<issue>10</issue>
+					<fpage>359</fpage>
+					<lpage>366</lpage><bold>.</bold><pub-id pub-id-type="doi">10.1111/1748-5967.12670</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<mixed-citation>Sakka, M.K., Riga, M., Ioannidis, P., Baliota, G.V., Tselika, M., Jagadeesan, R. y Athanassiou, C.G. 2021. Transcriptomic analysis of s-methoprene resistance in the lesser grain borer, <italic>Rhyzopertha dominica</italic>, and evaluation of piperonyl butoxide as a resistance breaker. BMC genomics.22 (1): 1-13. https://doi.org/10.1186/s12864-020-07354-8</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sakka</surname>
+							<given-names>M.K.</given-names>
+						</name>
+						<name>
+							<surname>Riga</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ioannidis</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Baliota</surname>
+							<given-names>G.V.</given-names>
+						</name>
+						<name>
+							<surname>Tselika</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Jagadeesan</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Athanassiou</surname>
+							<given-names>C.G</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Transcriptomic analysis of s-methoprene resistance in the lesser grain borer, Rhyzopertha dominica, and evaluation of piperonyl butoxide as a resistance breaker</article-title>
+					<source>BMC genomics</source>
+					<volume>22</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>13</lpage>
+					<pub-id pub-id-type="doi">10.1186/s12864-020-07354-8</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<mixed-citation>Salcedo Ortega, D., Bacca, T., Silva, A.P.N., Canal, N.A. y Haddi, K. 2021. Control failure and insecticides resistance in populations of <italic>Rhyzopertha dominica</italic> (Coleoptera: Bostrichidae) from Colombia. Journal of Stored Products Research . 92(1): 101802. https://doi.org/10.1016/j.jspr.2021.101802</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salcedo Ortega</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Bacca</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Silva</surname>
+							<given-names>A.P.N.</given-names>
+						</name>
+						<name>
+							<surname>Canal</surname>
+							<given-names>N.A.</given-names>
+						</name>
+						<name>
+							<surname>Haddi</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Control failure and insecticides resistance in populations of Rhyzopertha dominica (Coleoptera: Bostrichidae) from Colombia</article-title>
+					<source>Journal of Stored Products Research</source>
+					<volume>92</volume>
+					<issue>1</issue>
+					<issue-part>101802</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jspr.2021.101802</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<mixed-citation>Salem, A.A. 2020. Comparative insecticidal activity of three forms of silica nanoparticles on some main stored product insects. Journal of Plant Protection and Pathology. 11(4): 225-230. https://doi.org/10.21608/jppp.2020.9600</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salem</surname>
+							<given-names>A.A</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Comparative insecticidal activity of three forms of silica nanoparticles on some main stored product insects</article-title>
+					<source>Journal of Plant Protection and Pathology</source>
+					<volume>11</volume>
+					<issue>4</issue>
+					<fpage>225</fpage>
+					<lpage>230</lpage>
+					<pub-id pub-id-type="doi">10.21608/jppp.2020.9600</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<mixed-citation>Sartika, P.D., Astuti, L.P. y Rahardjo, B.T. 2022. Bioactivity of bay leaf as botanical fumigant against <italic>Rhyzopertha dominica</italic> (F.) (Coleoptera: Bostrichidae). Journal of Entomological Research . 46(3): 500-504. http://dx.doi.org/10.5958/0974-4576.2022.00088.3</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sartika</surname>
+							<given-names>P.D.</given-names>
+						</name>
+						<name>
+							<surname>Astuti</surname>
+							<given-names>L.P.</given-names>
+						</name>
+						<name>
+							<surname>Rahardjo</surname>
+							<given-names>B.T</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Bioactivity of bay leaf as botanical fumigant against Rhyzopertha dominica (F.) (Coleoptera: Bostrichidae)</article-title>
+					<source>Journal of Entomological Research</source>
+					<volume>46</volume>
+					<issue>3</issue>
+					<fpage>500</fpage>
+					<lpage>504</lpage>
+					<pub-id pub-id-type="doi">10.5958/0974-4576.2022.00088.3</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<mixed-citation>SAS (2002) Statistical Analysis System: Version 9.0. SAS Institute Inc. Cary.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>SAS</collab>
+					</person-group>
+					<year>2002</year>
+					<source>Statistical Analysis System: Version 9.0</source>
+					<publisher-name>SAS Institute Inc</publisher-name>
+					<publisher-loc>Cary</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<mixed-citation>Saw, G., Nagdev, P., Jeer, M. y Murali-Baskaran, R.K. 2023. Silica nanoparticles mediated insect pest management. Pesticide Biochemistry and Physiology. 194(1): 105524. https://doi.org/10.1016/j.pestbp.2023.105524</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Saw</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Nagdev</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Jeer</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Murali-Baskaran</surname>
+							<given-names>R.K</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Silica nanoparticles mediated insect pest management</article-title>
+					<source>Pesticide Biochemistry and Physiology</source>
+					<volume>194</volume>
+					<issue>1</issue>
+					<issue-part>105524</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.pestbp.2023.105524</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<mixed-citation>Sharma, U., Sanjta, S. y Sharma, S.K. 2023. Nanopesticides: an approach towards precision insect-pest management in agriculture. Journal of Entomological Research . 47(2): 288-294. http://dx.doi.org/10.5958/0974-4576.2023.00051.8</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sharma</surname>
+							<given-names>U.</given-names>
+						</name>
+						<name>
+							<surname>Sanjta</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Sharma</surname>
+							<given-names>S.K</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Nanopesticides: an approach towards precision insect-pest management in agriculture</article-title>
+					<source>Journal of Entomological Research</source>
+					<volume>47</volume>
+					<issue>2</issue>
+					<fpage>288</fpage>
+					<lpage>294</lpage>
+					<pub-id pub-id-type="doi">10.5958/0974-4576.2023.00051.8</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<mixed-citation>Siddique, M.A., Hasan, M.U., Sagheer, M. y Sahi, S.T. 2022. Comparative toxic effects of <italic>Eucalyptus globulus</italic> L.(Myrtales: Myrtaceae) and its green synthesized zinc oxide nanoparticles (ZnONPs) against <italic>Rhyzopertha dominica</italic> (F.)(Coleoptera: Bostrichidae). International Journal of Tropical Insect Science . 42(1): 1697-1706. https://doi.org/10.1007/s42690-021-00691-5</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Siddique</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Hasan</surname>
+							<given-names>M.U.</given-names>
+						</name>
+						<name>
+							<surname>Sagheer</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Sahi</surname>
+							<given-names>S.T</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<article-title>Comparative toxic effects of Eucalyptus globulus L.(Myrtales: Myrtaceae) and its green synthesized zinc oxide nanoparticles (ZnONPs) against Rhyzopertha dominica (F.)(Coleoptera: Bostrichidae)</article-title>
+					<source>International Journal of Tropical Insect Science</source>
+					<volume>42</volume>
+					<issue>1</issue>
+					<fpage>1697</fpage>
+					<lpage>1706</lpage>
+					<pub-id pub-id-type="doi">10.1007/s42690-021-00691-5</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<mixed-citation>Sleem, F.M.A. 2021. Insecticidal effect of <italic>Piper Nigrum</italic> L. (Pipeaceae) and <italic>Prunus cerasus</italic> L. (rosaceae) seeds extract against <italic>Rhyzopertha dominica</italic> F. (Coleoptera: bostrichidae). International Journal of Advance and Innovative Research. 9(3): 245-252.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sleem</surname>
+							<given-names>F.M.A</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>Insecticidal effect of Piper Nigrum L. (Pipeaceae) and Prunus cerasus L. (rosaceae) seeds extract against Rhyzopertha dominica F. (Coleoptera: bostrichidae)</article-title>
+					<source>International Journal of Advance and Innovative Research</source>
+					<volume>9</volume>
+					<issue>3</issue>
+					<fpage>245</fpage>
+					<lpage>252</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<mixed-citation>Solá, M., Riudavets, J. y Castañé, C. 2020. Control of <italic>Rhyzopertha dominica</italic> and <italic>Sitophilus zeamais</italic> in stored rice with different release rates of the larval parasitoid <italic>Anisopteromalus calandrae</italic>. Entomologia Generalis. 40(3): 323. https://doi.org/10.1127/entomologia/2020/0899</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Solá</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Riudavets</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Castañé</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Control of Rhyzopertha dominica and Sitophilus zeamais in stored rice with different release rates of the larval parasitoid Anisopteromalus calandrae</article-title>
+					<source>Entomologia Generalis</source>
+					<volume>40</volume>
+					<issue>3</issue>
+					<issue-part>323</issue-part>
+					<pub-id pub-id-type="doi">10.1127/entomologia/2020/0899</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<mixed-citation>Stevens, M.M., Daglish, G.J., Orchard, B.A., Warren, G.N., Mo, J. y Hoskins, J.L. 2023. Flight activity and dispersal of <italic>Rhyzopertha dominica</italic> (F.) (Coleoptera: Bostrichidae) and <italic>Tribolium castaneum</italic> (Herbst) (Coleoptera: Tenebrionidae) across a mixed agricultural landscape in southern Australia. Journal of Stored Products Research . 100(1): 102060. https://doi.org/10.1016/j.jspr.2022.102060</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stevens</surname>
+							<given-names>M.M.</given-names>
+						</name>
+						<name>
+							<surname>Daglish</surname>
+							<given-names>G.J.</given-names>
+						</name>
+						<name>
+							<surname>Orchard</surname>
+							<given-names>B.A.</given-names>
+						</name>
+						<name>
+							<surname>Warren</surname>
+							<given-names>G.N.</given-names>
+						</name>
+						<name>
+							<surname>Mo</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Hoskins</surname>
+							<given-names>J.L</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Flight activity and dispersal of Rhyzopertha dominica (F.) (Coleoptera: Bostrichidae) and Tribolium castaneum (Herbst) (Coleoptera: Tenebrionidae) across a mixed agricultural landscape in southern Australia</article-title>
+					<source>Journal of Stored Products Research</source>
+					<volume>100</volume>
+					<issue>1</issue>
+					<issue-part>102060</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jspr.2022.102060</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<mixed-citation>Tirunagaru, K.C., Desai, S. y Singh, I. R. 2025. Nano technological approaches for the management of stored insect-pests: Present scenario and future prospects. En Sustainable Development Goals Towards Environmental Toxicity and Green Chemistry, pp. 249-267. Springer, Cham. https://doi.org/10.1007/978-3-031-77327-3_13</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tirunagaru</surname>
+							<given-names>K.C.</given-names>
+						</name>
+						<name>
+							<surname>Desai</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Singh</surname>
+							<given-names>I. R</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<chapter-title>Nano technological approaches for the management of stored insect-pests: Present scenario and future prospects</chapter-title>
+					<source>Sustainable Development Goals Towards Environmental Toxicity and Green Chemistry</source>
+					<fpage>249</fpage>
+					<lpage>267</lpage>
+					<publisher-name>Springer</publisher-name>
+					<publisher-loc>Cham</publisher-loc>
+					<pub-id pub-id-type="doi">10.1007/978-3-031-77327-3_13</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<mixed-citation>Wicochea-Rodríguez, J.D., Rigou, P., Lullien-Pellerin, V. y Chalier, P. 2021. A new green insecticide for stored wheat grains: Efficiency against <italic>Rhyzopertha dominica</italic> and risk assessment. Journal of Cereal Science.101 (1): 103312. https://doi.org/10.1016/j.jspr.2020.101750</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wicochea-Rodríguez</surname>
+							<given-names>J.D.</given-names>
+						</name>
+						<name>
+							<surname>Rigou</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Lullien-Pellerin</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Chalier</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<year>2021</year>
+					<article-title>A new green insecticide for stored wheat grains: Efficiency against Rhyzopertha dominica and risk assessment</article-title>
+					<source>Journal of Cereal Science</source>
+					<volume>101</volume>
+					<issue>1</issue>
+					<issue-part>103312</issue-part>
+					<pub-id pub-id-type="doi">10.1016/j.jspr.2020.101750</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<mixed-citation>Yousuf, H.M.B., Yasin, M., Khan, M.A., Abbasi, A., Arshad, M., Aqueel, M.A., y Ali, H.M. 2025. Assessment of different conventional and biofortified wheat genotypes based on biology and damage pattern of <italic>Rhyzopertha dominica</italic> and <italic>Trogoderma granarium</italic>. Insects . 16(1): 66. https://doi.org/10.3390/insects16010066 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Yousuf</surname>
+							<given-names>H.M.B.</given-names>
+						</name>
+						<name>
+							<surname>Yasin</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Khan</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Abbasi</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Arshad</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Aqueel</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Ali</surname>
+							<given-names>H.M</given-names>
+						</name>
+					</person-group>
+					<year>2025</year>
+					<article-title>Assessment of different conventional and biofortified wheat genotypes based on biology and damage pattern of Rhyzopertha dominica and Trogoderma granarium</article-title>
+					<source>Insects</source>
+					<volume>16</volume>
+					<issue>1</issue>
+					<issue-part>66</issue-part>
+					<pub-id pub-id-type="doi">10.3390/insects16010066</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<mixed-citation>Ziaee, M. y Ganji, Z. 2016. Insecticidal efficacy of silica nanoparticles against <italic>Rhyzopertha dominica</italic> F. and <italic>Tribolium confusum</italic> Jacquelin du Val. Journal of Plant Protection Research. 56(3): 250-256.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ziaee</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ganji</surname>
+							<given-names>Z</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Insecticidal efficacy of silica nanoparticles against Rhyzopertha dominica F. and Tribolium confusum Jacquelin du Val</article-title>
+					<source>Journal of Plant Protection Research</source>
+					<volume>56</volume>
+					<issue>3</issue>
+					<fpage>250</fpage>
+					<lpage>256</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

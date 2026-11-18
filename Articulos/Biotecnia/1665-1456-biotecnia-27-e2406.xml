@@ -1,0 +1,2016 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.9" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">biotecnia</journal-id>
+			<journal-title-group>
+				<journal-title>Biotecnia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Biotecnia</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1665-1456</issn>
+			<publisher>
+				<publisher-name>Universidad de Sonora, División de Ciencias Biológicas y de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.18633/biotecnia.v27.2406</article-id>
+			<article-id pub-id-type="other">00149</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artículos originales</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Improved Mexican Varieties of Bread Wheat: Characterization and evaluation of Physical and Viscoelastic Properties</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Variedades Mexicanas Mejoradas de Trigo Panadero: Caracterización y Evaluación de Propiedades Físicas y Viscoelásticas</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hernández Colín</surname>
+						<given-names>Dulce María</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0002-6781-5154</contrib-id>
+					<name>
+						<surname>Escalante-Aburto</surname>
+						<given-names>Anayansi</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<contrib-id contrib-id-type="orcid">0000-0001-9342-0095</contrib-id>
+					<name>
+						<surname>Ponce-García</surname>
+						<given-names>Nestor</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Facultad de Ciencias Agrícolas, Universidad Autónoma del Estado de México (UAEMéx), Toluca 50200, México. dhernandezc618@alumno.uaemex.mx, nponceg@uaemex.mx</institution>
+				<institution content-type="normalized">Universidad Autónoma del Estado de México</institution>
+				<institution content-type="orgdiv1">Facultad de Ciencias Agrícolas</institution>
+				<institution content-type="orgname">Universidad Autónoma del Estado de México (UAEMéx)</institution>
+				<addr-line>
+					<city>Toluca</city>
+					<postal-code>50200</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>dhernandezc618@alumno.uaemex.mx</email>
+				<email>nponceg@uaemex.mx</email>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Tecnológico de Monterrey, The Institute for Obesity Research, Monterrey 64849, México. anayansi.escalante@tec.mx</institution>
+				<institution content-type="normalized">Tecnológico de Monterrey</institution>
+				<institution content-type="orgname">Tecnológico de Monterrey</institution>
+				<addr-line>
+					<city>Monterrey</city>
+					<postal-code>64849</postal-code>
+					<state>México</state>
+				</addr-line>
+				<country country="MX">Mexico</country>
+				<email>anayansi.escalante@tec.mx</email>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">Tecnológico de Monterrey, School of Engineering and Sciences, Toluca 50110, México.</institution>
+				<institution content-type="normalized">Tecnológico de Monterrey</institution>
+				<institution content-type="orgname">Tecnológico de Monterrey</institution>
+				<addr-line>
+					<city>Toluca</city>
+					<postal-code>50110</postal-code>
+				</addr-line>
+				<country country="MX">Mexico</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<label>*</label>Author for correspondence: Nestor Ponce-García, Anayansi Escalante-Aburto e-mail: <email>nponceg@uaemex.mx</email>; <email>anayansi.escalante@tec.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date date-type="pub" publication-format="electronic">
+				<day>02</day>
+				<month>07</month>
+				<year>2025</year>
+			</pub-date>
+			<pub-date date-type="collection" publication-format="electronic">
+				<season>Jan-Dec</season>
+				<year>2025</year>
+			</pub-date>
+			<volume>27</volume>
+			<elocation-id>e2406</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>26</day>
+					<month>07</month>
+					<year>2024</year>
+				</date>
+				<date date-type="accepted">
+					<day>18</day>
+					<month>06</month>
+					<year>2025</year>
+				</date>
+				<date date-type="pub">
+					<day>17</day>
+					<month>07</month>
+					<year>2025</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>The moisture content influences the physical-mechanical and viscoelastic properties of wheat grains. A higher moisture content markedly reduced the hardness and elasticity of grains while increasing axial dimensions and plastic work. This research aimed to analyze wheat grains’ physical-mechanical and viscoelastic properties from four improved Mexican varieties. The small-strain uniaxial compression method was employed to achieve this, considering 12 %, 16 %, and 20 % moisture content levels. Additionally, the study sought to identify potential correlations between these properties. For the viscoelastic properties, statistically significant differences were observed among the varieties in terms of total (W<sub>t</sub>), elastic (W<sub>e</sub>), and plastic work (W<sub>p</sub>), as well as the degree of elasticity (DE). These parameters showed a gradual decrease with increasing moisture content. The study also revealed significant correlations between specific physical and viscoelastic properties. Notably, negative correlations (P &lt; 0.05) were found between DE<italic>,</italic> thickness, and length dimensions. Furthermore, the bulk density exhibited highly significant negative correlations (P &lt; 0.01) with W<sub>p</sub> and highly significant positive correlations (P &lt; 0.01) with DE. Regarding viscoelastic properties, the Z1 and X5 varieties exhibited superior performance, showing favorable outcomes in W<sub>t</sub> and W<sub>e</sub> and their physical-mechanical characteristics.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>Las propiedades físico-mecánicas y viscoelásticas de los granos de trigo están influenciadas por el contenido de humedad. A mayor contenido, la dureza y elasticidad de los granos reduce notablemente, e inversamente, las dimensiones axiales y el trabajo plástico se incrementan. El objetivo de esta investigación fue caracterizar las propiedades físico-mecánicas y viscoelásticas de granos de trigo de cuatro variedades mejoradas mexicanas evaluadas a diferentes contenidos de humedad: 12 %, 16 % y 20 %. Las propiedades viscoelásticas se evaluaron mediante el método de compresión uniaxial bajo pequeña deformación. Como resultado se identificaron correlaciones entre algunas propiedades físico-mecánicas y viscoelásticas. En términos de trabajo total (Wt), plástico (W<sub>p</sub>), elástico (W<sub>e</sub>) y grado de elasticidad (GE), se observaron diferencias estadísticas significativas entre variedades. Estos parámetros mostraron una disminución gradual con el aumento del contenido de humedad. El estudio también reveló correlaciones significativas entre algunas propiedades físico-mecánicas y viscoelásticas. En particular, se observaron correlaciones negativas (P &lt; 0.05) entre el GE y las dimensiones axiales grosor y longitud. La densidad aparente mostró correlaciones altamente significativas (P &lt; 0.01), negativa con W<sub>p</sub> y positiva con el GE. Las variedades Z1 y X5 mostraron un mejor comportamiento viscoelástico, particularmente en W<sub>t</sub> y W<sub>e</sub>, así como en sus características físicas y mecánicas.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>Moisture content</kwd>
+				<kwd>uniaxial compression</kwd>
+				<kwd>small-strain</kwd>
+				<kwd>grain</kwd>
+				<kwd>Triticum aestivum</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>Contenido de humedad</kwd>
+				<kwd>compresión uniaxial</kwd>
+				<kwd>pequeña-deformación</kwd>
+				<kwd>grano</kwd>
+				<kwd>Triticum aestivum</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="3"/>
+				<table-count count="3"/>
+				<equation-count count="2"/>
+				<ref-count count="30"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>Wheat is the most widely cultivated crop globally because it is crucial in ensuring global food and nutrition security, supplying one-fifth of the world’s food calories and protein (gluten). It is the only cereal that provides optimal quality for producing well-risen bread, owing precisely to its gluten content and quality (<xref ref-type="bibr" rid="B9">Erenstein et al., 2022</xref>). Bread wheat (<italic>Triticum aestivum</italic> L.) is the most important cereal crop worldwide. Its remarkable adaptability, versatile applications, high nutritional content, and significant yield make it a staple food for over one-third of the global population (<xref ref-type="bibr" rid="B2">Ahmad et al., 2006</xref>). According to official statistics (<xref ref-type="bibr" rid="B27">SEGOB, 2021</xref>), during the 2021 cycle, Mexico produced approximately 3.6 million tons of wheat, around 1.5 million tons of bread wheat; nearly half of this amount was harvested in Sonora.</p>
+			<p>The selection of seeds from the highest quality fruits enabled the establishment of the most advantageous genotypes in cultivated species (<xref ref-type="bibr" rid="B18">Listman, 2022</xref>). Wheels production and quality can be enhanced by developing new and improved varieties that yield higher outputs and perform better under diverse agro-climatic conditions. This can be accomplished through several strategies, such as utilizing plant genetic resources, including wild relatives and landraces, and employing germplasm-assisted breeding. Wheat breeding programs should prioritize expanding the genetic diversity of wheat cultivars, with particular attention to bread wheat selection and baking quality. There is a consensus that germplasm diversity in breeding material is essential for successful plant breeding (<xref ref-type="bibr" rid="B17">Khalid et al., 2023</xref>). <xref ref-type="bibr" rid="B3">Al Aridhee et al. (2019)</xref> suggest that wheat grain has a multi-layered and complex structure influenced by genetic traits, environmental conditions, and specific cultivation practices. Each structural component exhibits unique mechanical properties, such as resistance to external loads and crack formation and propagation. Therefore, optimizing wheat breeding programs require thoroughly assessing grain technological quality. Although numerous methods exist to determine kernel quality, many are time-consuming and expensive. Developing faster and more cost-effective measures offers the potential for new approaches to predict kernel or dough behavior.</p>
+			<p>On the other hand, grain quality evaluation begins with determining its physical properties. Additionally, the viscoelastic evaluation of grains allows recognizing and determining their potential or industrial use, serving as a more selective classification tool among grains with similar or related physical characteristics (<xref ref-type="bibr" rid="B22">Ponce-García et al., 2016</xref>; 2017). This study aimed to evaluate and characterize the main physical and viscoelastic characteristics of four improved varieties of bread wheat grains cultivated in Sonora, México. This will provide novel information to determine their main attributes and explore possible correlations between their physical and viscoelastic properties.</p>
+		</sec>
+		<sec sec-type="materials|methods">
+			<title>Material and methods</title>
+			<sec>
+				<title>Biological material</title>
+				<p>The biological material consisted of bread wheat grains (<italic>Triticum aestivum</italic>) from four improved varieties, cultivated in the Yaqui Valley, Sonora, México during the 2021-2022 autumn-winter agricultural cycle. These four varieties were provided by RESOURCE SEEDS INTERNATIONAL (RSI) S. DE R.L. DE C.V. and consisted of a top-cross breeding process developed by this company. Due to confidentiality requirements, the varieties studied will not be named; instead, each one has been assigned a random code (Z1, J6, X5, and N3, respectively). In general, these genotypes have been determined to adapt well to the wheat-growing regions of northwestern México, are resistant to diseases such as <italic>Puccinia recondita</italic> and <italic>Puccinia striiformis</italic>, and possess acceptable industrial quality with good yields, exhibiting different agronomic traits.</p>
+				<p>Each grain sample was manually cleaned using aluminum sieves with 1.98 mm (5/64”) triangular perforations (Seedburo Equipment Co., IL, USA) to remove foreign material and impurities until 2 kg of each improved variety was obtained. The cleaned samples were placed in plastic containers within polyethylene bags and stored under refrigeration at 4 °C until use.</p>
+			</sec>
+			<sec>
+				<title>Methods</title>
+			</sec>
+			<sec>
+				<title>Determination of moisture content and grain conditioning</title>
+				<p>The moisture content of the grains was determined in triplicate using the ASAE Standard S352.2 (1999) method. Initially, the original moisture content of each sample was measured. Based on these results, each sample was conditioned separately to three moisture levels: 12 %, 16 %, and 20 %, according to the <xref ref-type="disp-formula" rid="e1">equation (1)</xref> proposed by <xref ref-type="bibr" rid="B28">Serna-Saldivar (2012)</xref>, using 50 g of sample for each case. Subsequently, the physical and viscoelastic properties of the grains from each improved variety were evaluated at each moisture level.</p>
+				<p>
+					<disp-formula id="e1">
+						<mml:math>
+							<mml:mfenced close="}" open="{" separators="|">
+								<mml:mrow>
+									<mml:mfenced separators="|">
+										<mml:mrow>
+											<mml:mfrac>
+												<mml:mrow>
+													<mml:mn>100</mml:mn>
+													<mml:mo>-</mml:mo>
+													<mml:mi mathvariant="normal">%</mml:mi>
+													<mml:mi mathvariant="normal"> </mml:mi>
+													<mml:mi mathvariant="normal">o</mml:mi>
+													<mml:mi mathvariant="normal">r</mml:mi>
+													<mml:mi mathvariant="normal">i</mml:mi>
+													<mml:mi mathvariant="normal">g</mml:mi>
+													<mml:mi mathvariant="normal">i</mml:mi>
+													<mml:mi mathvariant="normal">n</mml:mi>
+													<mml:mi mathvariant="normal">a</mml:mi>
+													<mml:mi mathvariant="normal">l</mml:mi>
+													<mml:mi mathvariant="normal"> </mml:mi>
+													<mml:mi mathvariant="normal">m</mml:mi>
+													<mml:mi mathvariant="normal">o</mml:mi>
+													<mml:mi mathvariant="normal">i</mml:mi>
+													<mml:mi mathvariant="normal">s</mml:mi>
+													<mml:mi mathvariant="normal">t</mml:mi>
+													<mml:mi mathvariant="normal">u</mml:mi>
+													<mml:mi mathvariant="normal">r</mml:mi>
+													<mml:mi mathvariant="normal">e</mml:mi>
+												</mml:mrow>
+												<mml:mrow>
+													<mml:mn>100</mml:mn>
+													<mml:mo>-</mml:mo>
+													<mml:mi mathvariant="normal">%</mml:mi>
+													<mml:mi mathvariant="normal"> </mml:mi>
+													<mml:mi mathvariant="normal">d</mml:mi>
+													<mml:mi mathvariant="normal">e</mml:mi>
+													<mml:mi mathvariant="normal">s</mml:mi>
+													<mml:mi mathvariant="normal">t</mml:mi>
+													<mml:mi mathvariant="normal">r</mml:mi>
+													<mml:mi mathvariant="normal">e</mml:mi>
+													<mml:mi mathvariant="normal">d</mml:mi>
+													<mml:mi mathvariant="normal"> </mml:mi>
+													<mml:mi mathvariant="normal">c</mml:mi>
+													<mml:mi mathvariant="normal">o</mml:mi>
+													<mml:mi mathvariant="normal">n</mml:mi>
+													<mml:mi mathvariant="normal">d</mml:mi>
+													<mml:mi mathvariant="normal">i</mml:mi>
+													<mml:mi mathvariant="normal">t</mml:mi>
+													<mml:mi mathvariant="normal">i</mml:mi>
+													<mml:mi mathvariant="normal">o</mml:mi>
+													<mml:mi mathvariant="normal">n</mml:mi>
+													<mml:mi mathvariant="normal">i</mml:mi>
+													<mml:mi mathvariant="normal">n</mml:mi>
+													<mml:mi mathvariant="normal">g</mml:mi>
+													<mml:mi mathvariant="normal"> </mml:mi>
+													<mml:mi mathvariant="normal">m</mml:mi>
+													<mml:mi mathvariant="normal">o</mml:mi>
+													<mml:mi mathvariant="normal">i</mml:mi>
+													<mml:mi mathvariant="normal">s</mml:mi>
+													<mml:mi mathvariant="normal">t</mml:mi>
+													<mml:mi mathvariant="normal">u</mml:mi>
+													<mml:mi mathvariant="normal">r</mml:mi>
+													<mml:mi mathvariant="normal">e</mml:mi>
+												</mml:mrow>
+											</mml:mfrac>
+										</mml:mrow>
+									</mml:mfenced>
+									<mml:mo>-</mml:mo>
+									<mml:mn>1</mml:mn>
+								</mml:mrow>
+							</mml:mfenced>
+							<mml:mi>x</mml:mi>
+							<mml:mi> </mml:mi>
+							<mml:mi mathvariant="normal">a</mml:mi>
+							<mml:mi mathvariant="normal">m</mml:mi>
+							<mml:mi mathvariant="normal">o</mml:mi>
+							<mml:mi mathvariant="normal">u</mml:mi>
+							<mml:mi mathvariant="normal">n</mml:mi>
+							<mml:mi mathvariant="normal">t</mml:mi>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mi mathvariant="normal">o</mml:mi>
+							<mml:mi mathvariant="normal">f</mml:mi>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mi mathvariant="normal">w</mml:mi>
+							<mml:mi mathvariant="normal">h</mml:mi>
+							<mml:mi mathvariant="normal">e</mml:mi>
+							<mml:mi mathvariant="normal">a</mml:mi>
+							<mml:mi mathvariant="normal">t</mml:mi>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mi mathvariant="normal">t</mml:mi>
+							<mml:mi mathvariant="normal">o</mml:mi>
+							<mml:mi mathvariant="normal"> </mml:mi>
+							<mml:mi mathvariant="normal">t</mml:mi>
+							<mml:mi mathvariant="normal">e</mml:mi>
+							<mml:mi mathvariant="normal">m</mml:mi>
+							<mml:mi mathvariant="normal">p</mml:mi>
+							<mml:mi mathvariant="normal">e</mml:mi>
+							<mml:mi mathvariant="normal">r</mml:mi>
+						</mml:math>
+						<label>Eq. (1)</label>
+					</disp-formula>
+				</p>
+			</sec>
+			<sec>
+				<title>Characterization of physical properties</title>
+				<p>Each determination was performed according to <xref ref-type="disp-formula" rid="e1">equation (1)</xref>, reporting in all cases the average value of the measurement of 20 randomly selected grains (replicates) for each variety and moisture content, except where indicated.</p>
+			</sec>
+			<sec>
+				<title>Axial dimensions</title>
+				<p>The length (<italic>L</italic>), width (<italic>W</italic>), and thickness (<italic>T</italic>) of each grain were measured using a digital caliper (REXQualis). The results are reported in millimeters (mm).</p>
+			</sec>
+			<sec>
+				<title><bold>Hardness (<italic>
+ <italic>H</italic>)</italic>
+</bold></title>
+				<p>This parameter was evaluated through uniaxial compression using the TA-XT2 Plus universal texture analyzer (Stable Micro Systems, United Kingdom) equipped with a 2 mm SMS P/2 probe. The test involved placing each grain on the equipment platform with the ventral side down and compressing it until rupture (<xref ref-type="bibr" rid="B23">Ponce-García et al., 2013</xref>). The evaluation parameters considered were as follows: 30 % deformation (compression) and pre-test, test, and post-test speeds of 2, 3.5, and 3.5 mm/s, respectively. A force-time curve was obtained for each grain, from which the corresponding maximum force (hardness) required for rupture was retrieved.</p>
+			</sec>
+			<sec>
+				<title><bold>Maximum Force (<italic>
+ <italic>F</italic>
+</italic> 
+</bold> 
+ <sub>
+ <italic>max</italic>
+</sub> 
+ <bold>) at 5 % strain</bold></title>
+				<p><italic>F</italic>
+ <sub>
+ <italic>max</italic>
+</sub> indicates the maximum compression force applied to the grain (in Newtons) at a constant deformation of 5 %. This parameter was determined simultaneously and directly during the viscoelastic analysis of each evaluated grain.</p>
+			</sec>
+			<sec>
+				<title><bold>Individual grain weight (<italic>
+ <italic>IGW</italic>) and thousand-grain weight (<italic>TGW</italic>)</italic>
+</bold></title>
+				<p><italic>IGW</italic> was obtained by recording the weight of individual grains in grams (g) (20 replicates) using an analytical balance (OHAUS, model BBL61, Boeco, Germany). For <italic>TGW</italic>, exactly 1,000 grains from each sample were manually counted, and their weight was reported in grams. This determination was performed in triplicate, and the average weight was reported.</p>
+			</sec>
+			<sec>
+				<title>Bulk Density (𝝆<sub>𝒃</sub>)</title>
+				<p>This determination followed Method 55-10, <xref ref-type="bibr" rid="B1">AACCI (2000)</xref> with modifications. The suggested container in the official method was replaced with a 100 mL beaker, whose exact volume was determined. The average value of 3 replicates was reported. The determination was performed following <xref ref-type="disp-formula" rid="e2">equation (2)</xref> (<xref ref-type="bibr" rid="B6">Bhise et al., 2014</xref>).</p>
+				<p>
+					<disp-formula id="e2">
+						<mml:math>
+							<mml:msub>
+								<mml:mrow>
+									<mml:mi>ρ</mml:mi>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:mi>b</mml:mi>
+								</mml:mrow>
+							</mml:msub>
+							<mml:mo>=</mml:mo>
+							<mml:mfrac>
+								<mml:mrow>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi>W</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mi>s</mml:mi>
+										</mml:mrow>
+									</mml:msub>
+								</mml:mrow>
+								<mml:mrow>
+									<mml:msub>
+										<mml:mrow>
+											<mml:mi>V</mml:mi>
+										</mml:mrow>
+										<mml:mrow>
+											<mml:mi>s</mml:mi>
+										</mml:mrow>
+									</mml:msub>
+								</mml:mrow>
+							</mml:mfrac>
+						</mml:math>
+						<label>Eq. (2)</label>
+					</disp-formula>
+				</p>
+				<p>Where: 𝜌<sub>𝑏</sub> is the bulk density; 𝑊𝑠 is the weight of the sample in kg, and 𝑉𝑠 is the volume occupied by the sample in hectoliter (hL). Therefore, bulk density (𝜌<sub>𝑏</sub>) is expressed in kg/hL commonly referred as hectoliter weight.</p>
+			</sec>
+			<sec>
+				<title>Characterization of viscoelastic properties</title>
+				<p>For the evaluation of viscoelastic properties, the TA-XT2 Plus universal texture analyzer with SMS P/25 probe was used, following the method of uniaxial compression under small deformation reported by <xref ref-type="bibr" rid="B21">Ponce-García et al. (2017)</xref> with two modifications: the single compression mode (Return to start) was replaced with TPA mode (double compression). As a second adjustment, the deformation index increased from 3 % to 5 % during compression. The configuration parameters in the texture analyzer were as follows: compression mode, 5 % constant deformation, and pre-test, test, and post-test speeds of 1, 0.1, and 0.1 mm/s, respectively. The viscoelastic properties were determined for each sample and conditioning moisture levels (12 %, 16 %, and 20 %).</p>
+			</sec>
+			<sec>
+				<title><bold>Total (<italic>
+ <italic>W</italic>
+</italic> 
+</bold> 
+ <sub>
+ <italic>t</italic>
+</sub> 
+ <bold>), elastic (<italic>
+ <italic>W</italic>
+</italic> 
+</bold> 
+ <sub>
+ <italic>e</italic>
+</sub> 
+ <bold>), and plastic (<italic>
+ <italic>W</italic>
+</italic> 
+</bold> 
+ <sub>
+ <italic>p</italic>
+</sub> 
+ <bold>) work</bold></title>
+				<p>The viscoelastic behavior (<italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> , <italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> , and <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> ) of individual grains was determined from the respective load-displacement curves obtained after compression to 5 %, following <xref ref-type="bibr" rid="B23">Ponce-García et al. (2013)</xref> method. </p>
+			</sec>
+			<sec>
+				<title><bold>Degree of elasticity (<italic>
+ <italic>DE</italic>)</italic>
+</bold></title>
+				<p>It is the proportion of <italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> relative to <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> after applying the load and unload cycle, expressed as a percentage (<xref ref-type="bibr" rid="B11">Figueroa et al., 2011</xref>).</p>
+			</sec>
+			<sec>
+				<title>Experimental design and statistical analysis</title>
+				<p>A completely randomized design with two factors was considered to evaluate the physical and viscoelastic properties of the grains. The factors assessed were grain variety and moisture content (12 %, 16 %, and 20 %). An analysis of variance (ANOVA) was conducted with a significance level of 95 %, and a Tukey test was performed to observe differences between treatment means (<italic>P</italic> &lt; 0.05). Statistical analysis was conducted using SAS software, version 9.1.3 (<xref ref-type="bibr" rid="B26">SAS Institute, Cary, NC, USA, 2002</xref>).</p>
+			</sec>
+		</sec>
+		<sec sec-type="results|discussion">
+			<title>Results and discussion</title>
+			<p>
+				<xref ref-type="table" rid="t1">Tables 1 and 2</xref>show the mean values of the physical properties of the four improved wheat grain varieties at 12 %, 16 %, and 20 % moisture content.</p>
+			<p>
+				<table-wrap-group id="t1">
+	<table-wrap xml:lang="en">
+					<label>Table 1</label>
+					<caption>
+						<title>Mean values of axial dimensions (<italic>L, W</italic>, and <italic>T</italic>), and hardness (<italic>H</italic>) of wheat grains from four improved varieties, conditioned to 12 %, 16 %, and 20 % moisture content.</title>
+					</caption>
+					</table-wrap>
+		<table-wrap xml:lang="en">
+		<label>Tabla 1.</label>
+		<caption>
+			<title>Valores medios de las dimensiones axiales (<italic>L</italic>, <italic>A</italic> y <italic>G</italic>) y dureza (<italic>D</italic>) de granos de trigo de cuatro variedades mejoradas, acondicionados a 12 %, 16 % y 20 % de contenido de humedad.</title>
+		</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 80px; background-color: #e6e7e8;"><bold>Improved variety </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 240px; background-color: #e6e7e8;" colspan="3"><bold><italic></italic></bold>      <bold><italic><xref ref-type="fn" rid="TFN1">
+        L
+      </xref>
+      </italic>
+       (mm) 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; width: 240px; background-color: #e6e7e8;" colspan="3"><bold><italic></italic></bold>      <bold><italic><xref ref-type="fn" rid="TFN1">
+        W
+      </xref>
+      </italic>
+       (mm) 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; width: 240px; background-color: #e6e7e8;" colspan="3"><bold><italic></italic></bold>      <bold><italic><xref ref-type="fn" rid="TFN1">
+        T
+      </xref>
+      </italic>
+       (mm) 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; width: 240px; background-color: #e6e7e8;" colspan="3"><bold><italic></italic></bold>      <bold><italic><xref ref-type="fn" rid="TFN1">
+        H
+      </xref> 
+      </italic>
+      (N) 
+    </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="12">Moisture content (%) </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">12 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">16 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">12 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">16 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">12 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">16 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">12 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">16 </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20 </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Z1 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.6 ±0.25a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.9 ±0.27a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">7.0 ±0.29a </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3.7 ±0.12a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.8 ±0.17a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.9 ±0.16a </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3.3 ±0.19a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.3 ±0.16ab </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.4 ±0.20b </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">101.2 ±11.4b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">75.1 ±13.1b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">61.0 ±7.6b </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">J6 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.6 ±0.32a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.7 ±0.35b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.8 ±0.23ab </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3.5 ±0.28b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.5 ±0.25b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.7 ±0.24b </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3.2 ±0.214a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.3 ±0.23b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.5 ±0.19ab </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">123.8 ±23.7a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">88.8 ±19.5a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">80.4 ±9.4a </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">X5 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.5 ±0.31a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.7 ±0.28ab </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.8 ±0.25b </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3.8 ±0.16a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.0 ±0.16a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">4.0 ±0.11a </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3.3 ±0.23a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.5 ±0.23a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.6 ±0.14a </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">109.0 ±21.9ab </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">82.7 ±12.8ab </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">64.5 ±9.5b </td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">N3 </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.5 ±0.29a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.6 ±0.29b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">6.7 ±0.22b </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3.4 ±0.22b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.6 ±0.26b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.6 ±0.22b </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">3.2 ±0.25a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.3 ±0.17b </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">3.4 ±0.17b </td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">112.6 ±20.0ab </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">92.6 ±8.8a </td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">65.0 ±7.7b </td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Average </td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>6.5 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>6.8 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>6.8 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>3.6 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>3.8 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>3.8 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>3.3 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>3.4 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>3.5 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>111.6 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>84.8 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>67.7 </bold></td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN1">
+							<p>± Standard deviation. In the same column, mean values with different letters are statistically different for 12 %, 16 %, and 20 % moisture content (w.b.), respectively. <italic>L</italic>=Length; <italic>W</italic>=Width; <italic>T</italic>=Thickness; <italic>H</italic>=Hardness. n=20.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+				</table-wrap-group>
+			</p>
+			<p>
+				<table-wrap-group id="t2">
+	<table-wrap xml:lang="en">
+					<label>Table 2</label>
+					<caption>
+						<title>Mean values of the physical properties of weight and density (<italic>IGW, TGW</italic>, and 𝝆<sub>𝒃</sub>) of wheat grains from four improved varieties, conditioned to 12 %, 16 %, and 20 % moisture content.</title>
+					</caption>
+					</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 2.</label>
+		<caption>
+			<title>Valores medios de las dimensiones axiales (<italic>PIG</italic>, <italic>PMG</italic> y 𝝆<sub>𝒃</sub>) de granos de trigo de cuatro variedades mejoradas, acondicionados a 12 %, 16 % y 20 % de contenido de humedad</title>
+		</caption>
+					<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 80px; background-color: #e6e7e8;"><bold>Improved variety </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 240px; background-color: #e6e7e8;" colspan="3"><bold><italic></italic></bold>      <bold><italic><xref ref-type="fn" rid="TFN2">
+        IGW
+      </xref>
+      </italic>
+       (g)
+      <xref ref-type="fn" rid="TFN2">
+        *
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; width: 240px; background-color: #e6e7e8;" colspan="3"><bold><italic></italic></bold>      <bold><italic><xref ref-type="fn" rid="TFN2">
+        TGW
+      </xref>
+      </italic>
+       (g)
+      <xref ref-type="fn" rid="TFN2">
+        **
+      </xref> 
+    </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; width: 240px; background-color: #e6e7e8;" colspan="3"><bold><italic></italic></bold>      <bold><italic><xref ref-type="fn" rid="TFN2">
+        ρ<sub>b</sub>
+      </xref>
+      </italic>
+       (kg/hL)
+      <xref ref-type="fn" rid="TFN2">
+        **
+      </xref> 
+    </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;" colspan="9">Moisture content    (%)</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">12</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">16</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">12</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">16</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">12</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">16</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">20</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Z1</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.060 ±0.006a</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.066 ±0.006a</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.068 ±0.006ab</td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">54.5 ±0.0b</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">59.2 ±0.0a</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">62.0 ±0.0b</td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">85.9 ±0.0a</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">75.9 ±0.0c</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">71.6 ±0.0c</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">J6</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.058 ±0.008a</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.058 ±0.009b</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.065 ±0.007bc</td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">48.3 ±0.0c</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">51.3 ±0.0c</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">56.5 ±0.0c</td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">84.8 ±0.0b</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">76.8 ±0.0b</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">71.5 ±0.0d</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">X5</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.061 ±0.006a</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.071 ±0.006a</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.073 ±0.005a</td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">56.8 ±0.0a</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">61.6 ±0.0b</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">66.0 ±0.0a</td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">81.7 ±0.0d</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">78.0 ±0.0a</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">73.2 ±0.0a</td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">N3</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.056 ±0.008a</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.060 ±0.007b</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.060 ±0.005c</td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">47.1 ±0.0d</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">49.3 ±0.0d</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">50.1 ±0.0d</td>
+    <td style="border: 0; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;">82.0 ±0.0c</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">73.4 ±0.0d</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">72.7 ±0.0b</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Average</td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>0.059 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>0.064 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>0.067 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>51.6 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>55.3 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>58.6 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>83.6 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>76.0 </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><bold>72.2 </bold></td>
+  </tr>
+</tbody>
+</table>
+
+					<table-wrap-foot>
+						<fn id="TFN2">
+							<p>± Standard deviation. In the same column, mean values with different letters are statistically different for 12 %, 16 %, and 20 % moisture content (w.b.), respectively. <italic>IGW</italic>=Individual grain weight; <italic>TGW</italic>=Thousand grain weight; 𝝆<sub>𝒃</sub> =bulk density. *n=20; **n=3.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+				</table-wrap-group>
+			</p>
+			<sec>
+				<title>Axial dimensions</title>
+				<p>
+					<xref ref-type="table" rid="t1">Table 1</xref> presents the mean values for axial dimensions. With respect to length (<italic>L</italic>), four improved varieties’ results did not show statistically significant differences (<italic>P</italic> &gt; 0.05) among themselves at a moisture content of 12 %. However, when the moisture content of the grains was 16 % and 20 %, statistical differences between varieties were observed (<italic>P</italic> &lt; 0.05). Generally, it was noted that the grains of each evaluated variety exhibited an increase in the <italic>L</italic> value directly proportional to the moisture content, with the Z1 variety showing the most significant increase, going from 6.6 mm to 6.9 mm to 7.0 mm when the moisture content was 12 %, 16 %, and 20 %, respectively. On average, <italic>L</italic> increased by 5 % when the moisture content of the grains rose from 12 % to 20 %.</p>
+				<p>For the width (<italic>W</italic>) parameter, statistically significant differences (<italic>P</italic> &lt; 0.05) between varieties were observed at each of the three moisture levels. Like the grain length, the trend of increasing the <italic>W</italic> value of the grains was directly proportional to the moisture content. However, the increase in width values was proportionally less than the increase in length. At 12 % moisture content, each of the four varieties had an initial width measurement of 2 mm smaller than at 20 % moisture. Regardless of the statistical differences, the N3 and X5 varieties consistently reached the lowest and highest <italic>W</italic> values at each moisture level.</p>
+				<p>At 12 %moisture content, the grains of the four varieties showed no statistically significant differences (<italic>P</italic> &gt; 0.05) in thickness. However, as expected, like the other two axial dimensions (length and width), as the moisture content increased to 16 % and 20 %, the thickness values also increased, with statistically significant differences (<italic>P</italic> &lt; 0.05) between varieties at both moisture contents. As shown in <xref ref-type="table" rid="t1">Table 1</xref>, the grains of the X5 variety achieved the most significant increase in thickness, gradually going from 3.3 mm to 3.5 mm and ending at 3.6 mm at 12, 16, and 20 % moisture content, respectively.</p>
+				<p>
+					<xref ref-type="bibr" rid="B16">Jamali et al. (2016)</xref> examine the effect of moisture content at three levels: 10, 15, and 20 % on several physical properties of two varieties of wheat and found behaviors and trends like those in the present study, such as the axial dimensions, true density, and grain volume in both varieties, which increased with higher moisture content. <xref ref-type="bibr" rid="B25">Sandra et al. (2020)</xref> evaluated the physical and mechanical properties of local rice grain varieties with different moisture contents. They determined that the higher the moisture content, the greater the roundness and axial dimensions (width and thickness).</p>
+				<p>While the four evaluated varieties exhibited the same behavioral trend because of the increase in grain moisture content, it is worth noting that at 16 and 20 % moisture, statistical differences between varieties were observed in the three axial dimensions. In contrast, at 12 % moisture, these differences were only observed for the width parameter.</p>
+			</sec>
+			<sec>
+				<title><bold>Hardness (<italic>
+ <italic>H</italic>)</italic>
+</bold></title>
+				<p>
+					<xref ref-type="table" rid="t1">Table 1</xref> presents mean hardness (<italic>H</italic>) values for each wheat variety at different moisture levels (12 %, 16 %, and 20 %). Hardness is another critical physical (mechanical) property used to evaluate quality and suitability for various products. According to <xref ref-type="bibr" rid="B15">Hourston et al. (2017)</xref>, the variation in starchy endosperm texture (grain hardness) between soft wheat and hard wheat (bread wheat) significantly impacts the optimal tempering time and conditions for efficient milling due to water diffusion during tempering in individual wheat grains with varying hardness. Soft grain starchy endosperms absorb water more rapidly than hard grain types. This increased water uptake in soft grains is due to enhanced capillary forces resulting from lower adhesion between the starch granules and the protein matrix. Additionally, bread wheat varieties typically have higher protein content and exhibit structural differences from soft wheat varieties.</p>
+				<p>
+					<xref ref-type="bibr" rid="B5">Başlar et al. (2012)</xref> observe a strong correlation between protein content and rupture force, energy absorption, and hardness across all varieties and load orientations. Essentially, higher protein content results in harder grains. This association holds significance for millers and end-users involved in milling and post-milling processes. Similarly, <xref ref-type="bibr" rid="B19">Lullien-Pellerin (2020)</xref> pointed out that the mechanical properties of grain tissues significantly influence grain breakage behavior, the fate of various tissues, and, ultimately, the characteristics of the final product. As shown in <xref ref-type="table" rid="t1">Table 1</xref>, the J6 variety showed the highest hardness values at 12%, and 20% moisture content. A moisture content of 16 % resulted in the highest hardness for the N3 variety, although it did not show statistically significant difference compared to the J6 variety. In contrast, the Z1 variety exhibited the lowest values. To further illustrate, the average hardness at 12 % moisture was 111.6 N. When the moisture content of the grains increased to 16 %, the hardness value decreased to 84.8 N, and finally, when the moisture content increased to 20 %, the hardness further reduced to 67.7 N; on average, a 38 % decrease in hardness value when the moisture content increased from 12 % to 20 %. The limited availability of water significantly affects moisture migration within the kernels, which in turn impacts their breakage behavior.</p>
+				<p>
+					<xref ref-type="bibr" rid="B24">Resende et al. (2013)</xref> evaluated hulled and dehulled rice grains to recognize their behavior concerning moisture content. These researchers determined that reducing the moisture content from 0.30 % to 0.12 % (dry basis) increased the breaking force of the grains. This variation in the force needed to cause breaks in the grain structure directly relates to the moisture content of the biological material and its physical resistance. Similarly, <xref ref-type="bibr" rid="B12">Gabrielly et al. (2019)</xref> evaluated the mechanical properties of sorghum grains subjected to compression at different moisture levels. The results demonstrated that various factors, such as drying temperature, moisture content, stiffness, and the grain area where the force is applied, can influence the mechanical properties of the grains. They observed that as moisture content increased, the compression force needed to deform the sorghum grain decreased, depending on the grain’s moisture content; grains with higher moisture content had lower resistance to compression.</p>
+			</sec>
+			<sec>
+				<title><bold>Individual grain weight (<italic>
+ <italic>IGW</italic>) and thousand-grain weight (<italic>TGW</italic>)</italic>
+</bold></title>
+				<p>
+					<xref ref-type="table" rid="t2">Table 2</xref> shows that the mean values of the grains’ physical properties of weight, volume, and density had a directly proportional behavior concerning their moisture content. There was an increase in these parameters as the moisture content increased. Each of the evaluated properties is specifically discussed below.</p>
+				<p>Concerning <italic>IGW,</italic> the four varieties did not show statistically significant differences (<italic>P</italic> &gt; 0.05) among themselves at a moisture content of 12 %. However, when this increased to 16 % and 20 %, statistically significant differences (<italic>P</italic> &lt; 0.05) were observed between varieties. In general, it was observed that the average <italic>IGW</italic> increased slightly as the moisture content increased, from 0.059 g at 12 % moisture to 0.067 g at 20 % moisture. The effect of increasing moisture content from 12 % to 20 % on <italic>IGW</italic> is more evident when comparing the value of variety N3 at 12 % moisture content (0.056g) to that of variety X5, which reached 0.073g at 20 % moisture content. The X5 variety showed the highest <italic>IGW</italic> values at all moisture levels, indicating that this cultivar produces the heaviest grains. On the other hand, the X5 and N3 varieties showed statistically significant differences in <italic>IGW</italic> at 16 and 20 % moisture levels, suggesting they may be more sensitive to moisture fluctuations. In a study by <xref ref-type="bibr" rid="B14">Gürzoy and Güzel (2010)</xref>, the <italic>IGW</italic> of various wheat varieties was evaluated in a moisture range between 8.6 % and 9.7 %. The results revealed that the wheat variety with the highest moisture content had the highest <italic>IGW</italic>.</p>
+				<p>Based on the results of <xref ref-type="table" rid="t2">Table 2</xref>, statistically significant differences (<italic>P</italic> &lt; 0.05) were determined between varieties at each of the three moisture levels for <italic>TGW</italic>. In all the studied varieties, the average <italic>TGW</italic> increased as the moisture content increased, with the X5 variety reaching the highest values at all moisture levels, and in contrast, the N3 variety recorded the lowest values. <italic>TGW</italic> is an important parameter that can significantly influence the quality of wheat flour and, consequently, the quality of the resulting bread. Studies like that of <xref ref-type="bibr" rid="B7">De la Horra et al. (2012)</xref> have shown a relationship between <italic>TGW</italic> and wheat flour’s industrial quality index (ICI) of wheat flour. In this study, <italic>TGW</italic> values ranged between 47.1 g (N3 variety at 12 % MC) and 66 g (X5 variety at 20 % MC), indicating a variation in the sample’s weight. At 12.5 % MC, <xref ref-type="bibr" rid="B15">Hourston et al. (2017)</xref> reported a <italic>TGW</italic> value of 41 g for wheat grains, notably lower than the average value for 12 % MC in this study (51.6 g, <xref ref-type="table" rid="t2">Table 2</xref>). Generally, a higher <italic>TGW</italic> is associated with better flour yield, protein content, and quality, resulting in bread with greater volume and a fluffier crumb.</p>
+			</sec>
+			<sec>
+				<title>Bulk Density (𝝆<sub>𝒃</sub>)</title>
+				<p>The wheat varieties bulk density (hectoliter weight) value (<xref ref-type="table" rid="t2">Table 2</xref>) showed an inversely proportional trend concerning the moisture content. This suggested that the wheat grains exhibited lower apparent density as the moisture increased. At a moisture level of 12 %, statistically significant results were observed, with the Z1 variety having the highest bulk density values of 85.9 kg/hL. In contrast, the X5 variety recorded the lowest bulk density, with 81.7 kg/hL value. As the moisture content increased, the X5 variety reached the highest bulk density at 16 % and 20 % moisture levels, while the J6 and N3 varieties also showed statistically significant differences. In contrast, the Z1 variety exhibited the lowest bulk density values at the same moisture levels, indicating a lower apparent density of the grains than the other varieties. Differences in bulk density among four grain-varieties were notable at three moisture levels. These results demonstrate a negative correlation between 𝝆<sub>𝒃</sub> and grain moisture content. On average, bulk density decreases by approximately 14 % when the moisture content increases from 12 % to 20 %. <xref ref-type="bibr" rid="B8">De la O et al. (2012)</xref> reported bulk density values like those obtained in this study (between 73 and 84 kg/hL) in Mexican wheat varieties. Similar trends were presented by <xref ref-type="bibr" rid="B16">Jamali et al. (2016)</xref> in wheat grains, where bulk density decreased with increased moisture content. However, the average values recorded were lower than those in the present study (ranging between 55 and 65 kg/hL).</p>
+			</sec>
+			<sec>
+				<title><bold>Maximum force at 5 % of strain (<italic>
+ <italic>F</italic>
+</italic> 
+</bold> 
+ <sub>
+ <italic>max</italic>
+</sub> 
+ <bold>)</bold></title>
+				<p>On the other hand, according to the ANOVA conducted, it was established that the grains’ moisture content significantly impacted the hardness and maximum force (<italic>F</italic>
+ <sub>
+ <italic>max</italic>
+</sub> ) of the grains from the four improved wheat varieties evaluated.</p>
+				<p>
+					<xref ref-type="fig" rid="f1">Figures 1</xref>, <xref ref-type="fig" rid="f2">2</xref>, and <xref ref-type="fig" rid="f3">3</xref> show the <italic>F</italic>
+ <sub>
+ <italic>max</italic>
+</sub> values at 5 % strain for different wheat varieties based on moisture content (12 %, 16 %, and 20 %, respectively). The Z1 and X5 varieties exhibited similar trends in their <italic>F</italic>
+ <sub>
+ <italic>max</italic> 
+</sub> values concerning moisture content. Both reached their maximum resistance at 12 % moisture, gradually decreasing as the moisture content increased. For the Z1 variety, the maximum force decreased from 25.2 N to 18.2 N as the moisture content increased from 16 % to 20 %. Similarly, the X5 variety decreased from 27.4 N to 22.3 N over the same moisture range.</p>
+				<p>
+					<fig-group id="f1">
+	<fig xml:lang="en">
+						<label>Figure 1.</label>
+						<caption>
+							<title>Viscoelastic properties of improved bread wheat varieties conditioned to 12% moisture. A. Variety Z1; B. Variety J6; C. Variety X5; and D. Variety N3. F<sub><italic>max</italic></sub> = Maxi-mum force at 5% strain; <italic>W</italic><sub><italic>p</italic> </sub> =Plastic work; <italic>W</italic><sub><italic>e</italic></sub> =Elastic work; <italic>W</italic> <sub> <italic>t</italic></sub> =Total work; <italic>DE</italic>=Degree of elasticity. In the same property, different letters in parentheses indicate statistically significant differences (P&lt;0.05). </title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 1.</label>
+	<caption>
+	<title>Propiedades viscoelásticas de variedades mejoradas de trigo panadero acondicionadas a 12% de humedad. A. Variedad Z1; B. Variedad J6; C. Variedad X5; y D. Variedad N3. F<sub><italic>max</italic> </sub> =Fuerza máxima al 5% de deformación; <italic>W</italic> <sub> <italic>p</italic></sub> =Trabajo plástico; <italic>W</italic> <sub> <italic>e</italic></sub> =Trabajo elástico; <italic>W</italic> <sub> <italic>t</italic></sub> =Trabajo total; <italic>GE</italic> =Grado de elasticidad. En la misma propiedad, diferentes letras entre paréntesis indican diferencias estadísticamente significativas (P&lt;0.05). </title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2406-gf1.jpg"/>
+					</fig>
+					</fig-group>
+
+				</p>
+				<p>
+					<fig-group id="f2">
+	<fig xml:lang="en">
+						<label>Figure 2</label>
+						<caption>
+							<title>Viscoelastic properties of improved bread wheat varieties conditioned to 16% moisture. A. Variety Z1; B. Variety J6; C. Variety X5; and D. Variety N3. F<sub>
+ <italic>
+ <italic>max</italic>
+</italic> 
+</sub> =Maximum force at 5% strain; <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> =Plastic work; <italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> =Elastic work; <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> =Total work; <italic>DE</italic> = Degree of elasticity. In the same property, different letters in parentheses indicate sta-tistically significant differences (P&lt;0.05).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 2.</label>
+	<caption>
+	<title>Propiedades viscoelásticas de variedades mejoradas de trigo panadero acondicionadas a 16% de humedad. A. Variedad Z1; B. Variedad J6; C. Variedad X5; y D. Variedad N3. F<sub>
+ <italic>
+ <italic>max</italic>
+</italic> 
+</sub> =Fuerza máxima al 5% de deformación; <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> =Trabajo plástico; <italic>W</italic>e =Trabajo elástico; <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> =Trabajo total; GE =Grado de elasticidad. En la misma propiedad, diferentes letras entre paréntesis indican diferencias estadísticamente significativas (P&lt;0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2406-gf2.jpg"/>
+					</fig>
+					</fig-group>
+
+				</p>
+				<p>
+					<fig-group id="f3">
+	<fig xml:lang="en">
+						<label>Figure 3</label>
+						<caption>
+							<title>Viscoelastic properties of improved bread wheat varieties conditioned to 20% moisture. A. Variety Z1; B. Variety J6; C. Variety X5; and D. Variety N3. F<sub>
+ <italic>
+ <italic>max</italic>
+</italic> 
+</sub> =Maximum force at 5% strain; W<sub>
+ <italic>
+ <italic>p</italic>
+</italic> 
+</sub> =Plastic work; <italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> =Elastic work; <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> =Total work; <italic>DE</italic> = Degree of elasticity. In the same property, different letters in parentheses indicate sta-tistically significant differences (P&lt;0.05).</title>
+						</caption>
+						</fig>
+	<fig xml:lang="es">
+	<label>Figura 3.</label>
+	<caption>
+	<title>Propiedades viscoelásticas de variedades mejoradas de trigo panadero acondicionadas a 20% de humedad. A. Variedad Z1; B. Variedad J6; C. Variedad X5; y D. Variedad N3. F<sub>
+ <italic>
+ <italic>max</italic>
+</italic> 
+</sub> =Fuerza máxima al 5% de deformación; <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> =Trabajo plástico; <italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> =Trabajo elástico; <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> =Trabajo total; <italic>GE</italic> =Grado de elasticidad. En la misma propiedad, diferentes letras entre paréntesis indican diferencias estadísticamente significativas (P&lt;0.05).</title>
+	</caption>
+						<graphic xlink:href="1665-1456-biotecnia-27-e2406-gf3.jpg"/>
+					</fig>
+					</fig-group>
+
+				</p>
+				<p>Instead, the J6 and N3 varieties did not show statistically significant differences at 12 % moisture. However, when the moisture level was increased to 16 %, these varieties reached their maximum <italic>F</italic>
+ <sub>
+ <italic>max</italic>
+</sub> values, recording 23.3 N and 29.3 N, respectively. Nevertheless, as the moisture increased to 20 %, their <italic>F</italic>
+ <sub>
+ <italic>max</italic>
+</sub> values decreased to 23.1 N and 21.4 N, respectively. These results indicate that the Z1 and X5 varieties tend to lose resistance as moisture increases. In contrast, the J6 and N3 varieties show an initial increase in resistance at 16 % moisture but lose it when moisture rises to 20 %.</p>
+				<p>Despite significant advancements in the study of grain mechanical properties, few investigations have comprehensively addressed these aspects. By thoroughly considering the mechanical properties of grains from harvest through to final sale, minimizing losses at each stage and better maintaining their economic value is possible (<xref ref-type="bibr" rid="B13">Gao et al., 2024</xref>).</p>
+			</sec>
+			<sec>
+				<title>Characterization of the viscoelastic properties</title>
+				<p>The viscoelastic properties of grains are strongly influenced by their composition, especially water content. Moisture content significantly affects the viscoelasticity of grains, most notably the elastic modulus. Uniaxial compression tests on wheat have shown that as water content increases, the elastic work during compression decreases while the plastic work increases, reducing total work. An increase in moisture content leads to a decrease in the elastic modulus, reflecting a reduction in the material’s resistance to deformation. Thus, analyzing grain viscoelasticity is a feasible approach to understanding their fracture behavior (<xref ref-type="bibr" rid="B23">Ponce-García et al., 2013</xref>; <xref ref-type="bibr" rid="B10">Escalante-Aburto et al., 2023</xref>; <xref ref-type="bibr" rid="B13">Gao et al., 2024</xref>).</p>
+				<p>The average values and behavior of the total work (<italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> ), elastic work (<italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> ), plastic work (<italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> ), and degree of elasticity (<italic>DE</italic>) of the four-grain varieties at 12 %, 16 %, and 20 % moisture are presented in <xref ref-type="fig" rid="f1">Figures 1</xref>, <xref ref-type="fig" rid="f2">2</xref>, and <xref ref-type="fig" rid="f3">3</xref>, respectively.</p>
+			</sec>
+			<sec>
+				<title><bold>Total (<italic>
+ <italic>W</italic>
+</italic> 
+</bold> 
+ <sub>
+ <italic>t</italic>
+</sub> 
+ <bold>), elastic (<italic>
+ <italic>W</italic>
+</italic> 
+</bold> 
+ <sub>
+ <italic>e</italic>
+</sub> 
+ <bold>), and plastic (<italic>
+ <italic>W</italic>
+</italic> 
+</bold> 
+ <sub>
+ <italic>p</italic>
+</sub> 
+ <bold>) work</bold></title>
+				<p>With 12 % moisture (<xref ref-type="fig" rid="f1">Figure 1</xref>), an average value of 1.465 N·mm was obtained for <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> , with varieties Z1 and X5 exhibiting the highest values (2.354 N·mm and 2.380 N·mm respectively), which were statistically equal. On the other hand, varieties J6 and N3 had the lowest values (0.557 N·mm and 0.567 N·mm, respectively), maintaining statistical similarity between them.</p>
+				<p>As the moisture increased to 16 % (<xref ref-type="fig" rid="f2">Figure 2</xref>), a significant change was evident, with a substantial increase in the average value of <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> , reaching 2.004 N·mm. However, when the moisture rose to 20 % (<xref ref-type="fig" rid="f3">Figure 3</xref>), varieties J6, X5, and N3 again stood out with the highest <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> values, showing no statistical differences, however variety N3 was statistically equal to Z1. At 20 % moisture, the average <italic>W</italic>
+ <sub>
+ <italic>t</italic> 
+</sub> value for the combined varieties decreased to 1.660 N·mm compared to 16 % moisture.</p>
+				<p>Specifically, the total work peaked at different moisture levels for each variety. Varieties Z1 and X5 exhibited their best values at a moisture level of 12 %. Conversely, variety N3 showed a higher <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> value at a moisture level of 16 %. In contrast, variety J6 showed generally lower <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> levels, with its highest value recorded at 20 % moisture, suggesting it is a more rigid and less deformable material overall.</p>
+				<p>The results of dividing the total work into elastic and plastic work for the four wheat varieties evaluated at different moisture levels (12 %, 16 %, and 20 %) consistently demonstrated that <italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> are the highest value. This finding indicates a higher hardness of the grain endosperm, which translates into superior quality during bread-making. Specifically, varieties Z1 and X5 stand out as the most suitable options for carrying out bread-making processes optimally and effectively.</p>
+				<p>This aligns with the study by <xref ref-type="bibr" rid="B20">Maucher et al. (2009)</xref>, which demonstrated the connection between the mechanical and viscoelastic properties of wheat grains and those of the dough. Varieties with a high elastic/plastic (E/P) ratio were observed to have greater gluten strength. These results are crucial for wheat quality in the food industry.</p>
+				<p>Concerning elastic work, varieties Z1 and X5 tend to decrease elastic work capacity as moisture content increases. In contrast, the variety J6 exhibit an opposite trend, as its elastic work value increased with the rise in moisture content. The N3 variety exhibited an atypical behavior concerning this parameter (<italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> ). Initially, as the moisture content increased from 12 % to 16 %, <italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> increased; however, when it rose from 16 % to 20 %, it experienced a decrease. The behavior patterns in the wheat grain varieties indicate they react differently to moisture variations. This has important implications for bread-making, where Z1 and X5 are preferred options due to better gluten hydration and higher water retention at standardized moisture levels (11 % to 13 %). These characteristics make these varieties especially suitable for producing high-quality bread. Conversely, varieties J6 and N3, which show increased elastic work with higher moisture, may have specific applications in other areas of baking or in producing wheat products different than traditional bread.</p>
+				<p>The individual characteristics of wheat varieties and their response to moisture content are essential factors to consider when selecting the appropriate variety for bread production and other bakery products. This underscores the importance of understanding how these individual properties relate to the bread-making process and how these differences can influence the quality of the final product.</p>
+				<p>On the other hand, in <xref ref-type="fig" rid="f1">Figures 1</xref>, <xref ref-type="fig" rid="f2">2</xref>, and <xref ref-type="fig" rid="f3">3</xref>, it can be observed that plastic work increased parallel to the rise in moisture. A directly proportional relationship was observed between <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> and moisture content, particularly evident in variety J6, where the <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> value quintupled, rising from 0.139 N·mm (12 % moisture content) to 0.711 N·mm (20 % moisture content). Variety X5 also exhibited a proportional increase, albeit to a lesser extent. Similar behavior was noted in varieties Z1 and N3, which showed a significant increase in <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> as the moisture content increased from 12 % to 16 %. However, both varieties tended to stabilize, with their <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> values slightly decreasing as the moisture content rose from 16 % to 20 %. </p>
+				<p>In a study by <xref ref-type="bibr" rid="B23">Ponce-García et al. (2013)</xref>, the effect of moisture content on the viscoelastic properties of individual wheat grains was investigated. The uniaxial compression test under small deformation was used to evaluate the behavior of parameters such as <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> 
+ <italic>, W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> 
+ <italic>, W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> , and modulus of elasticity (<italic>E</italic>). The results revealed that wheat class, moisture content, and the interaction between cultivars significantly impacted <italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> and <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> values, with moisture content being the most influential factor. Higher moisture levels were associated with lower <italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> values, indicating decreased elasticity and increased viscosity. This means that increased moisture caused grain plasticization and altered their viscoelastic properties. <xref ref-type="bibr" rid="B29">Suprabha Raj et al. (2024)</xref> evaluated the effect of conditioning time on wheat grains with different moisture contents (14 %, 16 %, and 18 %) on their mechanical and viscoelastic properties, concluding that tempering moisture content notably reduced the elasticity of the wheat grains. Higher tempering moisture levels decreased elastic work while increasing plastic work, enhancing flour extraction. This dynamic suggests a clear inverse relationship between plastic and elastic work concerning moisture. In other words, as a material becomes more prone to plastic deformation due to increased moisture, its capacity for elastic work decreases.</p>
+			</sec>
+			<sec>
+				<title><bold>Degree of Elasticity (<italic>
+ <italic>DE</italic>)</italic>
+</bold></title>
+				<p>A consistent trend is observed (<xref ref-type="fig" rid="f1">Figures 1</xref> to <xref ref-type="fig" rid="f3">3</xref>) in the relationship between moisture content and elasticity degree. As moisture increases, <italic>DE</italic> decreases, indicating that grain varieties have a greater capacity to recover their original shape under lower humidity conditions. Among the varieties, Z1 decreases <italic>DE</italic> from 83.0 % to 70.1 % and then to 65.1 % as moisture increases from 12 % to 16 % and 20 %, respectively. On the other hand, J6 presented the lowest <italic>GE</italic> values, decreasing from 73.2 % to 67.1 % and then to 62.1 % at the same moisture levels.</p>
+				<p>Moisture has an inverse impact on the elasticity of wheat grains due to water absorption, changes in internal structure and texture, increased brittleness, and chemical processes that alter their mechanical properties. This is important to consider for storage and processing of wheat grains, as the loss of elasticity can affect the quality and usability of wheat-derived products. Regarding the modulus of elasticity, it was found that the wheat class, moisture content, and the interaction between cultivars significantly impacted this rheological parameter. This indicates that the composition of the wheat, the moisture level, and the specific characteristics of each cultivar influenced the grain’s stiffness and resistance to deformations applied during the compression test.</p>
+			</sec>
+			<sec>
+				<title>Simple Correlations</title>
+				<p>A Pearson correlation analysis was conducted to identify correlations between the four improved wheat varieties’ physical-mechanical and viscoelastic properties. The results, presented in <xref ref-type="table" rid="t3">Table 3</xref>, reveal interesting correlations between these properties, providing a clearer understanding of how they relate to each other and how they can influence grain behavior. These associations are important for improving and selecting wheat varieties in future research and agricultural applications.</p>
+				<p>
+					<table-wrap-group id="t3">
+	<table-wrap xml:lang="en">
+						<label>Table 3</label>
+						<caption>
+							<title>Pearson’s simple correlations (<italic>r</italic>) between physical and mechanical properties vs. viscoelastic properties of wheat grains from improved varieties.</title>
+						</caption>
+						</table-wrap>
+		<table-wrap xml:lang="es">
+		<label>Tabla 3.</label>
+		<caption>
+			<title>Correlaciones simples de Pearson (<italic>r</italic>) entre propiedades físicas y mecánicas <italic>vs</italic> propiedades viscoelásticas de granos de trigo de variedades mejoradas.</title>
+		</caption>
+						<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; width: 100px; background-color: #e6e7e8;"><bold>PROPERTY </bold></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 100px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-top: 1px solid #000000; border-bottom: 1px solid #000000; text-align: center; width: 400px; background-color: #e6e7e8;" colspan="4"><bold>Viscoelastic </bold></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: left; padding-left: 10px; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><italic>
+      <xref ref-type="fn" rid="TFN3">
+        W<sub>t</sub>
+      </xref>
+    </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><italic>
+      <xref ref-type="fn" rid="TFN3">
+        W<sub>e</sub>
+      </xref>
+    </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><italic>
+      <xref ref-type="fn" rid="TFN3">
+        W<sub>p</sub>
+      </xref>
+    </italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><italic></italic>      <italic><xref ref-type="fn" rid="TFN3">
+        DE
+      </xref>
+    </italic></td>
+  </tr>
+  <tr>
+    <td rowspan="4" style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><bold>Physical</bold></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;"><italic>Length</italic></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">ns</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">ns</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">ns</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-0.593      <xref ref-type="fn" rid="TFN3">
+        *
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">Thickness</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">ns</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">ns</td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">0.644      <xref ref-type="fn" rid="TFN3">
+        *
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #e6e7e8;">-0.592      <xref ref-type="fn" rid="TFN3">
+        *
+    </xref></td>
+  </tr>
+  <tr>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><xref ref-type="fn" rid="TFN3">
+      IWG
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">ns</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.629      <xref ref-type="fn" rid="TFN3">
+        *
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">ns</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"></td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">Bulk density</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">ns</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">-0.748      <xref ref-type="fn" rid="TFN3">
+        **
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">ns</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.877      <xref ref-type="fn" rid="TFN3">
+        **
+    </xref></td>
+  </tr>
+  <tr>
+    <td rowspan="2" style="border: 0; border-bottom: 1px solid #000000; text-align: left; padding-left: 10px; background-color: #e6e7e8;"><bold>Mechanical</bold></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;"><italic></italic>      <italic><xref ref-type="fn" rid="TFN3">
+        F<sub>max</sub>
+      </xref>
+    </italic></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.943      <xref ref-type="fn" rid="TFN3">
+        **
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">0.991      <xref ref-type="fn" rid="TFN3">
+        **
+    </xref></td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">ns</td>
+    <td style="border: 0; text-align: center; background-color: #c1c1c1;">ns</td>
+  </tr>
+  <tr>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;"><italic>Hardness</italic></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">ns</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">ns</td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">-0.714      <xref ref-type="fn" rid="TFN3">
+        **
+    </xref></td>
+    <td style="border: 0; border-bottom: 1px solid #000000; text-align: center; background-color: #e6e7e8;">0.730      <xref ref-type="fn" rid="TFN3">
+        **
+    </xref></td>
+  </tr>
+</tbody>
+</table>
+
+						<table-wrap-foot>
+							<fn id="TFN3">
+								<p><italic>W</italic>
+ <sub>
+ <italic>t</italic>
+</sub> , Total work; <italic>W</italic>
+ <sub>
+ <italic>e</italic>
+</sub> , Elastic work; <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> , Plastic work; <italic>DE</italic>, Degree of elasticity; IWG, Individual grain weight; <italic>F</italic>
+ <sub>
+ <italic>máx</italic>
+</sub> , Maximum force at 5 % strain; ns, no significant (<italic>P</italic>&gt;0.05); *Significant (<italic>P</italic> &lt; 0.05); **highly significant (<italic>P</italic> &lt; 0.01).</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+					</table-wrap-group>
+				</p>
+				<p>Among the most relevant findings of this correlation analysis, a significant negative correlation was observed between grain length and elasticity degree (<italic>P</italic> &lt; 0.05), indicating that as the grain length increases, its <italic>DE</italic> decreases. Grain thickness showed a positive correlation with <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> (<italic>P</italic> &lt; 0.05) and a negative correlation with <italic>DE</italic> (<italic>P</italic> &lt; 0.05). This implies that as the grain thickness increases, more plastic work is done during deformation and its elasticity decreases.</p>
+				<p>Additionally, a significant correlation was observed between individual grain weight and <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> (<italic>P</italic> &lt; 0.05), implying that a greater amount of plastic work is done during deformation as the grain weight increases. Furthermore, the bulk density of the grain exhibited a very significant negative correlation (<italic>P</italic> &lt; 0.01) with <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> and a very significant positive correlation (<italic>P</italic> &lt; 0.01) with the <italic>DE</italic>. This suggests that as hectoliter weight increases, a decrease in plastic work performed during deformation is observed, while the elasticity degree tends to increase.</p>
+				<p>Regarding the mechanical properties, very significant positive correlations (<italic>P</italic> &lt; 0.01) were found between <italic>F</italic>
+ <sub>
+ <italic>max</italic>
+</sub> and the respective total and elastic work. This suggests that as the <italic>F</italic>
+ <sub>
+ <italic>max</italic>
+</sub> increases, the work done during elastic deformation also increases. On the other hand, hardness showed a very significant negative correlation (<italic>P</italic> &lt; 0.01) with <italic>W</italic>
+ <sub>
+ <italic>p</italic>
+</sub> and a very significant positive correlation (<italic>P</italic> &lt; 0.01) with the <italic>DE</italic>, indicating that as hardness increases, less plastic work is done and an increase in the elasticity degree is observed.</p>
+				<p>According to <xref ref-type="bibr" rid="B30">Warechowska et al. (2016)</xref>, raising the moisture level of the grain mechanically strengthened the gluten network and improved its moisture absorption capacity. This treatment’s positive effect is associated with creating bread dough that absorbs water more efficiently and maintains a stable consistency during kneading.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusions</title>
+			<p>The study uncovered distinct physical and mechanical characteristics among the improved grain varieties. This finding is consistent with the connection between hardness alleles and mechanical behavior. This genetic variation affects hardness and results in differences in compressive force and total deformation energy.</p>
+			<p>Increased moisture content in grains, causes outer layers to speed up moisture transfer , causing changes in intercellular spacing and resulting in grain volume expansion. This expansion enhances the grain’s plasticity while reducing its hardness. At higher moisture levels, the kernels undergo plasticization, reducing the change rate in compressive force. As a result, higher moisture content leads to a significant decrease in hardness and elasticity.</p>
+			<p>The relationship between the mechanical and physical properties <italic>vs.</italic> viscoelastic properties has not been standardized, nor the unified mechanical determination method of grain. However, the degree of elasticity and plastic work were the viscoelastic parameters that showed the strongest correlations with the physical and mechanical properties of the grains, particularly highlighting their association with hectoliter weight and hardness.</p>
+			<p>Based on the results of this research, it is recommended that these four improved wheat varieties be further investigated, particularly their functional and technological properties, to assess their suitability for bread and other bakery products. This will provide valuable insights into their commercial applications and product development potential.</p>
+		</sec>
+		<sec>
+			<title>Conflicts of interest</title>
+			<p>The authors declare no conflict of interest.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Acknowledgments</title>
+			<p>The authors thank RESOURCE SEEDS INTERNATIONAL S. DE R.L. DE C.V. for generously donating the biological material used in this research.</p>
+		</ack>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>AACCI. American Association of Cereal Chemists International. 2000. Method 55-10.01. En: Approved Methods of the AACC Int. St. Paul, MN, USA.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>AACCI. American Association of Cereal Chemists International</collab>
+					</person-group>
+					<year>2000</year>
+					<article-title>Method 55-10.01</article-title>
+					<source>Approved Methods of the AACC Int. St. Paul</source>
+					<publisher-loc>MN, USA</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Ahmad, H.I., Mohammad, F., Ud-Din, S., Hassan, G. and Gul, R. 2006. Diallel analysis of the inheritance pattern of agronomic traits of bread wheat. Pakistan Journal of Botany. 38(4):1169-1175.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ahmad</surname>
+							<given-names>H.I.</given-names>
+						</name>
+						<name>
+							<surname>Mohammad</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Ud-Din</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Hassan</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Gul</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2006</year>
+					<article-title>Diallel analysis of the inheritance pattern of agronomic traits of bread wheat</article-title>
+					<source>Pakistan Journal of Botany</source>
+					<volume>38</volume>
+					<issue>4</issue>
+					<fpage>1169</fpage>
+					<lpage>1175</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Al Aridhee, J.K., Łysiak, G., Kulig, R., Wójcik, M. and Panasiewicz, M. 2019. The effect of wheat moisture and hardness on the parameters of the Peleg and Normand model during relaxation of single kernels at variable initial loading. Sustainability. 11:7100.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Al Aridhee</surname>
+							<given-names>J.K.</given-names>
+						</name>
+						<name>
+							<surname>Łysiak</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Kulig</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Wójcik</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Panasiewicz</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>The effect of wheat moisture and hardness on the parameters of the Peleg and Normand model during relaxation of single kernels at variable initial loading</article-title>
+					<source>Sustainability</source>
+					<volume>11</volume>
+					<issue-part>7100</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>ASAE S352.2. 1988. Moisture Measurement-Unground Grain and Seeds. ASAE: St. Joseph, MI, USA. Available online: <comment>Available online: <ext-link ext-link-type="uri" xlink:href="https://engineering.purdue.edu/~{}abe305/moisture/html/page12.htm">https://engineering.purdue.edu/~{}abe305/moisture/html/page12.htm</ext-link>
+					</comment>. (accessed on 29 June 2024).</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>ASAE S352.2</collab>
+					</person-group>
+					<year>1988</year>
+					<article-title>Moisture Measurement-Unground Grain and Seeds</article-title>
+					<source>ASAE: St. Joseph</source>
+					<publisher-loc>MI, USA</publisher-loc>
+					<comment>Available online: <ext-link ext-link-type="uri" xlink:href="https://engineering.purdue.edu/~{}abe305/moisture/html/page12.htm">https://engineering.purdue.edu/~{}abe305/moisture/html/page12.htm</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-06-29">29 June 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Başlar, M., Kalkan, F., Kara, M. and Ertugay, M.F. 2012. Correlation between the protein content and mechanical properties of wheat. Turkish Journal of Agriculture and Forestry. 36: 601-607.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Başlar</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Kalkan</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Kara</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ertugay</surname>
+							<given-names>M.F</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Correlation between the protein content and mechanical properties of wheat</article-title>
+					<source>Turkish Journal of Agriculture and Forestry</source>
+					<volume>36</volume>
+					<fpage>601</fpage>
+					<lpage>607</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Bhise, R., Kaur, A. and Manikantan, R. 2014. Moisture dependent physical properties of wheat grain (PBW 621). International Journal of Engineering Practical Research. 3:40-45.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bhise</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Kaur</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Manikantan</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Moisture dependent physical properties of wheat grain (PBW 621)</article-title>
+					<source>International Journal of Engineering Practical Research</source>
+					<volume>3</volume>
+					<fpage>40</fpage>
+					<lpage>45</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>De la Horra, A., Seghezzo, M., Molfese, E., Ribotta, P.D. and León, A. 2012. Indicadores de calidad de las harinas de trigo: índice de calidad industrial y su relación con ensayos predictivos. Agriscientia. 29(2):81-89.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De la Horra</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Seghezzo</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Molfese</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Ribotta</surname>
+							<given-names>P.D.</given-names>
+						</name>
+						<name>
+							<surname>León</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Indicadores de calidad de las harinas de trigo: índice de calidad industrial y su relación con ensayos predictivos</article-title>
+					<source>Agriscientia</source>
+					<volume>29</volume>
+					<issue>2</issue>
+					<fpage>81</fpage>
+					<lpage>89</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>De la O, M., Espitia, R., López S., Peña, R. and Villaseñor, M. 2012. Calidad física de grano de trigos harineros (<italic>Triticum aestivum</italic> L.) mexicanos de temporal. Revista Mexicana de Ciencias Agrícolas. 3(2):271-283.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>De la O</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Espitia</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>López</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Peña</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Villaseñor</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Calidad física de grano de trigos harineros (Triticum aestivum L.) mexicanos de temporal</article-title>
+					<source>Revista Mexicana de Ciencias Agrícolas</source>
+					<volume>3</volume>
+					<issue>2</issue>
+					<fpage>271</fpage>
+					<lpage>283</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Erenstein, O., Jaleta, M., Mottaleb, K.A., Sonder, K., Donovan, J. and Braun, H.J. 2022. Global trends in wheat production, consumption and trade. En Wheat Improvement. Food Security in a Changing Climate. M.P. Reynolds and H.J. Braun (ed.), pp 47-66. Springer, Cham, Switzerland.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Erenstein</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Jaleta</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Mottaleb</surname>
+							<given-names>K.A.</given-names>
+						</name>
+						<name>
+							<surname>Sonder</surname>
+							<given-names>K.</given-names>
+						</name>
+						<name>
+							<surname>Donovan</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Braun</surname>
+							<given-names>H.J</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<chapter-title>Global trends in wheat production, consumption and trade. En Wheat Improvement</chapter-title>
+					<source>Food Security in a Changing Climate</source>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Reynolds</surname>
+							<given-names>M.P</given-names>
+						</name>
+						<name>
+							<surname>Braun</surname>
+							<given-names>H.J</given-names>
+						</name>
+					</person-group>
+					<fpage>47</fpage>
+					<lpage>66</lpage>
+					<publisher-name>Springer</publisher-name>
+					<publisher-loc>Cham, Switzerland</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Escalante-Aburto, A., Figueroa-Cardenas, J.D., Dominguez-Lopez, A., Garcia-Lara, S. and Ponce-García, N. 2023. Multivariate analysis on the properties of intact cereal kernels and their association with viscoelasticity at different moisture contents. Foods. 12(4):808.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Escalante-Aburto</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Figueroa-Cardenas</surname>
+							<given-names>J.D.</given-names>
+						</name>
+						<name>
+							<surname>Dominguez-Lopez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Garcia-Lara</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ponce-García</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Multivariate analysis on the properties of intact cereal kernels and their association with viscoelasticity at different moisture contents</article-title>
+					<source>Foods</source>
+					<volume>12</volume>
+					<issue>4</issue>
+					<issue-part>808</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Figueroa, C.JD., Hernández, E.Z., Véles, J., Rayas-Duarte, P., Martínez-Flores, E. and Ponce-García, N. 2011. Evaluation of degree of elasticity and other mechanical properties of wheat kernels. Cereal Chemistry. 88(1):12-18.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Figueroa</surname>
+							<given-names>C.JD.</given-names>
+						</name>
+						<name>
+							<surname>Hernández</surname>
+							<given-names>E.Z.</given-names>
+						</name>
+						<name>
+							<surname>Véles</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Rayas-Duarte</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Martínez-Flores</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Ponce-García</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Evaluation of degree of elasticity and other mechanical properties of wheat kernels</article-title>
+					<source>Cereal Chemistry</source>
+					<volume>88</volume>
+					<issue>1</issue>
+					<fpage>12</fpage>
+					<lpage>18</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Gabrielly, B., Rodrigues, R., de Oliveira C., Lígia, C. and Weder, N. 2019. Mechanical properties of grains sorghum subjected to compression at different moisture contents. Journal of Agricultural Science, 11(4):279-287.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gabrielly</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Rodrigues</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>de Oliveira</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Lígia</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Weder</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Mechanical properties of grains sorghum subjected to compression at different moisture contents</article-title>
+					<source>Journal of Agricultural Science</source>
+					<volume>11</volume>
+					<issue>4</issue>
+					<fpage>279</fpage>
+					<lpage>287</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Gao, P., Tian, S., Xue, X. and Lu, J. 2024. Determination methods and influencing factors of grain </mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gao</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Tian</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Xue</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Lu</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<source>Determination methods and influencing factors of grain</source>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Gürzoy, S. and Güzel, E. 2010. Determination of properties of some agricultural grains. Research Journal of Applied Sciences. 2(5):492-498.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gürzoy</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Güzel</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>Determination of properties of some agricultural grains</article-title>
+					<source>Research Journal of Applied Sciences</source>
+					<volume>2</volume>
+					<issue>5</issue>
+					<fpage>492</fpage>
+					<lpage>498</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Hourston, J.E., Ignatz, M., Reith, M., Leubner-Metzger, G. and Steinbrecher, T. 2017. Biomechanical properties of wheat grains: the implications on milling. The Royal Society Publishing Interface. 14: 20160828. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hourston</surname>
+							<given-names>J.E.</given-names>
+						</name>
+						<name>
+							<surname>Ignatz</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Reith</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Leubner-Metzger</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Steinbrecher</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Biomechanical properties of wheat grains: the implications on milling</article-title>
+					<source>The Royal Society Publishing Interface</source>
+					<volume>14</volume>
+					<issue-part>20160828</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Jamali, L.A., Soomro, S.A., Abro, A.A., Khan, Z.A. and Walhari, N.H. 2016. Effect of grain moisture content on physico-engineering properties of wheat. Journal of Agricultural Research. 54(4):773-785.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jamali</surname>
+							<given-names>L.A.</given-names>
+						</name>
+						<name>
+							<surname>Soomro</surname>
+							<given-names>S.A.</given-names>
+						</name>
+						<name>
+							<surname>Abro</surname>
+							<given-names>A.A.</given-names>
+						</name>
+						<name>
+							<surname>Khan</surname>
+							<given-names>Z.A.</given-names>
+						</name>
+						<name>
+							<surname>Walhari</surname>
+							<given-names>N.H</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Effect of grain moisture content on physico-engineering properties of wheat</article-title>
+					<source>Journal of Agricultural Research</source>
+					<volume>54</volume>
+					<issue>4</issue>
+					<fpage>773</fpage>
+					<lpage>785</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Khalid, A., Hameed, A. and Thair, M.F. 2023. Wheat quality: A review on chemical composition, nutritional attributes, grain anatomy, types, classification, and function of seed storage proteins in bread making quality. Frontiers in Nutrition. 10:1053196.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Khalid</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Hameed</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Thair</surname>
+							<given-names>M.F</given-names>
+						</name>
+					</person-group>
+					<year>2023</year>
+					<article-title>Wheat quality: A review on chemical composition, nutritional attributes, grain anatomy, types, classification, and function of seed storage proteins in bread making quality</article-title>
+					<source>Frontiers in Nutrition</source>
+					<volume>10</volume>
+					<issue-part>1053196</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Listman, M. 2022. Innovaciones en el fitomejoramiento. CIMMYT. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.cimmyt.org/es/noticias/innovaciones-en-el-fitomejoramiento/">https://www.cimmyt.org/es/noticias/innovaciones-en-el-fitomejoramiento/</ext-link>
+					</comment> Acceso: junio 07, 2024.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Listman</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2022</year>
+					<source>Innovaciones en el fitomejoramiento</source>
+					<publisher-name>CIMMYT</publisher-name>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.cimmyt.org/es/noticias/innovaciones-en-el-fitomejoramiento/">https://www.cimmyt.org/es/noticias/innovaciones-en-el-fitomejoramiento/</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-06-07">junio 07, 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Lullien-Pellerin, V. 2020. Both genetic and environmental conditions affect wheat grain texture: Consequences for grain fractionation and flour properties. Journal of Cereal Science. 92: 102917.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lullien-Pellerin</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Both genetic and environmental conditions affect wheat grain texture: Consequences for grain fractionation and flour properties</article-title>
+					<source>Journal of Cereal Science</source>
+					<volume>92</volume>
+					<issue-part>102917</issue-part>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Maucher, T., Figueroa, J., Reule, W., andPeña, R . 2009. Influence of low molecular weight glutenins on viscoelastic properties of intact wheat kernels and their relation to functional properties of wheat dough. Cereal Chemistry . 86:372-375.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Maucher</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Figueroa</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Reule</surname>
+							<given-names>W</given-names>
+						</name>
+						<name>
+							<surname>Peña</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Influence of low molecular weight glutenins on viscoelastic properties of intact wheat kernels and their relation to functional properties of wheat dough</article-title>
+					<source>Cereal Chemistry</source>
+					<volume>86</volume>
+					<fpage>372</fpage>
+					<lpage>375</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Ponce-García, N., Escalante-Aburto, A., Torres-Chávez, P. and Serna-Saldívar, S. 2017. Grading factors of wheat kernels based on their physical properties. En Wheat Improvement, Management and Utilization. R. Wanyera and J. Owuoche (ed.), InTech, pp 275-291. Croatia. </mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ponce-García</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Escalante-Aburto</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Torres-Chávez</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Serna-Saldívar</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<chapter-title>Grading factors of wheat kernels based on their physical properties</chapter-title>
+					<source>Wheat Improvement, Management and Utilization</source>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Wanyera</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Owuoche</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<publisher-name>InTech</publisher-name>
+					<fpage>275</fpage>
+					<lpage>291</lpage>
+					<publisher-loc>Croatia</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Ponce-García, N., Ramírez-Wong, B., Escalante-Aburto, A., Torres-Chávez, P. and Figueroa-Cárdenas, J.D.D. 2016. Mechanical properties in wheat (<italic>Triticum aestivum</italic>) kernels evaluated by compression tests: A review. En Viscoelastic and viscoplastic materials. El-Amin, M. (ed.), InTech, pp 21-33. Croatia.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ponce-García</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez-Wong</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Escalante-Aburto</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Torres-Chávez</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Figueroa-Cárdenas</surname>
+							<given-names>J.D.D</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<chapter-title>Mechanical properties in wheat (Triticum aestivum) kernels evaluated by compression tests: A review</chapter-title>
+					<source>Viscoelastic and viscoplastic materials</source>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>El-Amin</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<publisher-name>InTech</publisher-name>
+					<fpage>21</fpage>
+					<lpage>33</lpage>
+					<publisher-loc>Croatia</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Ponce-García, N., Ramirez-Wong, B., Torres-Chavez, P.I., Figueroa-Cardenas, J.D., Serna-Saldivar, S.O. and Cortez-Rocha, M. 2013. Effect of moisture content on the viscoelastic properties of individual wheat kernels evaluated by the uniaxial compression test under small strain. Cereal Chemistry . 90(6):558-563.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ponce-García</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Ramirez-Wong</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Torres-Chavez</surname>
+							<given-names>P.I.</given-names>
+						</name>
+						<name>
+							<surname>Figueroa-Cardenas</surname>
+							<given-names>J.D.</given-names>
+						</name>
+						<name>
+							<surname>Serna-Saldivar</surname>
+							<given-names>S.O.</given-names>
+						</name>
+						<name>
+							<surname>Cortez-Rocha</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Effect of moisture content on the viscoelastic properties of individual wheat kernels evaluated by the uniaxial compression test under small strain</article-title>
+					<source>Cereal Chemistry</source>
+					<volume>90</volume>
+					<issue>6</issue>
+					<fpage>558</fpage>
+					<lpage>563</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Resende, O., Corrêa, P.C., Horta de Olivera, G.H., Dusrte, G.A.L. and Jarén, C. 2013. Mechanical properties of rough and dehulled rice during drying. International Journal of Food Studies. 2:158-166.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Resende</surname>
+							<given-names>O.</given-names>
+						</name>
+						<name>
+							<surname>Corrêa</surname>
+							<given-names>P.C.</given-names>
+						</name>
+						<name>
+							<surname>Horta de Olivera</surname>
+							<given-names>G.H.</given-names>
+						</name>
+						<name>
+							<surname>Dusrte</surname>
+							<given-names>G.A.L.</given-names>
+						</name>
+						<name>
+							<surname>Jarén</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Mechanical properties of rough and dehulled rice during drying</article-title>
+					<source>International Journal of Food Studies</source>
+					<volume>2</volume>
+					<fpage>158</fpage>
+					<lpage>166</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Sandra , Putri , R.E., Djowasito, G. and Wijaya, S.N. 2020. Effect of moisture content on some physical and mechanical properties of ‘Genjah Arum’ local rice (<italic>Oryza sativa</italic> L) variety in Banyuwangi. International Conference of Sustainability Agriculture and Biosystem. 55:1-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sandra , Putri</surname>
+							<given-names>R.E.</given-names>
+						</name>
+						<name>
+							<surname>Djowasito</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Wijaya</surname>
+							<given-names>S.N.</given-names>
+						</name>
+					</person-group>
+					<year>2020</year>
+					<article-title>Effect of moisture content on some physical and mechanical properties of ‘Genjah Arum’ local rice (Oryza sativa L) variety in Banyuwangi</article-title>
+					<source>International Conference of Sustainability Agriculture and Biosystem</source>
+					<volume>55</volume>
+					<fpage>1</fpage>
+					<lpage>9</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>SAS Institute Inc. 2002. Cary, NC, USA. SAS Institute Inc., Cary .</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>SAS Institute Inc</collab>
+					</person-group>
+					<year>2002</year>
+					<source>Cary</source>
+					<publisher-loc>NC, USA</publisher-loc>
+					<publisher-name>SAS Institute Inc</publisher-name>
+					<comment>Cary</comment>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>SEGOB. Secretaria de Gobernación. México. 2021. Cultivo de trigo en México: todo lo que debes de saber. (<comment> (<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/agricultura/articulos/cultivo-de-trigo-en-mexico-todo-lo-que-debes-de-saber">https://www.gob.mx/agricultura/articulos/cultivo-de-trigo-en-mexico-todo-lo-que-debes-de-saber</ext-link>
+					</comment>. Acceso: junio 08, 2024.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<collab>SEGOB. Secretaria de Gobernación. México</collab>
+					</person-group>
+					<year>2021</year>
+					<source>Cultivo de trigo en México: todo lo que debes de saber</source>
+					<comment> (<ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/agricultura/articulos/cultivo-de-trigo-en-mexico-todo-lo-que-debes-de-saber">https://www.gob.mx/agricultura/articulos/cultivo-de-trigo-en-mexico-todo-lo-que-debes-de-saber</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2024-06-08">junio 08, 2024</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<mixed-citation>Serna-Saldivar, S.O. 2012. Laboratory reference and procedures manual. Cereal Grains. USA.</mixed-citation>
+				<element-citation publication-type="other">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Serna-Saldivar</surname>
+							<given-names>S.O</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<source>Laboratory reference and procedures manual</source>
+					<publisher-name>Cereal Grains</publisher-name>
+					<publisher-loc>USA</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<mixed-citation>Suprabha Raj, A., Dogan, H. and Siliveru, K. 2024. Time dependent changes in the compression behavior of single wheat kernels upon tempering. Journal of Food Measurement and Characterization. https://doi.org/10.1007/s11694-024-02629-0.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Suprabha Raj</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Dogan</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Siliveru</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<year>2024</year>
+					<article-title>Time dependent changes in the compression behavior of single wheat kernels upon tempering</article-title>
+					<source>Journal of Food Measurement and Characterization</source>
+					<pub-id pub-id-type="doi">10.1007/s11694-024-02629-0</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<mixed-citation>Warechowska, M., Markowska, A., Warechowski, J., Miś, A. and Nawrocka, A. 2016. Effect of tempering moisture of wheat on griding energy, middlings and flour size distribution, and gluten and dough mixing properties. Journal of Cereal Science . 69:306-312.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Warechowska</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Markowska</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Warechowski</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Miś</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Nawrocka</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Effect of tempering moisture of wheat on griding energy, middlings and flour size distribution, and gluten and dough mixing properties</article-title>
+					<source>Journal of Cereal Science</source>
+					<volume>69</volume>
+					<fpage>306</fpage>
+					<lpage>312</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>
