@@ -485,7 +485,7 @@ async def extract_metadata_from_text(text: str) -> tuple[ArticleMetadata, bool]:
     import time
     metadata = None
     if client:
-        models_to_try = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-1.5-flash']
+        models_to_try = ['gemini-2.5-flash', 'gemini-3.5-flash', 'gemini-3.5-flash-lite', 'gemini-2.5-flash-lite']
         for model_name in models_to_try:
             try:
                 response = client.models.generate_content(
